@@ -1,0 +1,39 @@
+# Për miratimin e kuotave të pranimeve në universitetet dhe shkollat e larta për vitin akademik 2005-2006, në sistemin me kohë të plotë, si dhe për përcaktimin e tarifave të shkollimit për këtë vit akademik
+
+Miratimin e kuotave të pranimeve në universitetet dhe shkollat e larta për vitin akademik 2005-2006, në sistemin me kohë · 3 versions, from 2005-08-16 (latest in force: 2006-07-05) · <https://qbz.gov.al/eli/vendim/2005/08/12/560>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 1 | 2005-09-27 |
+| Pika 2 | [pika-002.md](pika-002.md) | 1 | 2005-09-27 |
+| Pika 3 | [pika-003.md](pika-003.md) | 1 | 2005-09-27 |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
+| Pika 8 | [pika-008.md](pika-008.md) | 1 | 2005-09-27 |
+| Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
+| Pika 10 | [pika-010.md](pika-010.md) | 1 | 2005-09-27 |
+| Pika 11 | [pika-011.md](pika-011.md) | 1 | 2006-07-05 |
+| Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
+| Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 1 | 2005-09-27 |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2006-07-05 |
+
+Act id: `vendim-2005-560` (tags `vendim-2005-560/<day>`; `python tools/on.py <day> vendim-2005-560`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 134, datë 18.2.2005: QBZ’s consolidated version 2 changes Pika 2, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 360, datë 13.6.2007 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 825, datë 28.12.2005: QBZ’s consolidated version 1 changes Vendimi, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 651, datë 29.9.2007 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 825, datë 28.12.2005: QBZ’s consolidated version 2 changes Vendimi, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 1131, datë 13.11.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 560, datë 12.8.2005: QBZ’s consolidated version 1 changes Nënshkrimi, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 596, datë 22.9.2005 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 396, datë 31.3.2005: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 163, datë 27.2.2013 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 396, datë 31.3.2005: QBZ’s consolidated version 2 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 249, datë 30.4.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 396, datë 31.3.2005: QBZ’s consolidated version 3 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 282, datë 17.4.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 396, datë 31.3.2005: QBZ’s consolidated version 4 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 285, datë 17.4.2026 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 396, datë 31.3.2005: QBZ’s consolidated version 5 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 519, datë 30.6.2026 names; the change is recorded as unexplained, from the publisher.

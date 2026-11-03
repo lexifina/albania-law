@@ -74,3 +74,4 @@ Act id: `ligj-2004-9210` (tags `ligj-2004-9210/<day>`; `python tools/on.py <day>
 - Ligji nr. 9220: QBZ’s consolidated version 1 changes Neni 21, which neither a QBZ note nor Ligji nr. 80/2014 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 9220: QBZ’s consolidated version 1 changes Neni 31, which neither a QBZ note nor Ligji nr. 80/2014 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 9290: QBZ’s consolidated version 3 changes Neni 26, which neither a QBZ note nor Ligji nr. 19/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9199: QBZ’s consolidated version 1 changes Kreu III, which neither a QBZ note nor Ligji nr. 10137/2009 names; the change is recorded as unexplained, from the publisher.

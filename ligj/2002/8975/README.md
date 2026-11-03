@@ -21,3 +21,9 @@ Act id: `ligj-2002-8975` (tags `ligj-2002-8975/<day>`; `python tools/on.py <day>
 - Ligji nr. 8880: QBZ’s consolidated version 2 changes Neni 40, which neither a QBZ note nor Ligji nr. 68/2013 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 8891: QBZ’s consolidated version 1 changes Neni 9, which neither a QBZ note nor Ligji nr. 106/2023 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 8891: QBZ’s consolidated version 1 changes Neni 22, which neither a QBZ note nor Ligji nr. 106/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 1 changes Kreu V, which neither a QBZ note nor Ligji nr. 9497 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 1 changes Neni 7, which neither a QBZ note nor Ligji nr. 9497 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 1 changes Neni 10, which neither a QBZ note nor Ligji nr. 9497 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 3 changes Kreu V, which neither a QBZ note nor Ligji nr. 10303/2010 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 3 changes Neni 7, which neither a QBZ note nor Ligji nr. 10303/2010 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8957: QBZ’s consolidated version 3 changes Neni 10, which neither a QBZ note nor Ligji nr. 10303/2010 names; the change is recorded as unexplained, from the publisher.

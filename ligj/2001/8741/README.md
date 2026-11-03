@@ -1,0 +1,22 @@
+# Për sigurinë në punë në veprimtarinë minerare
+
+Sigurinë në punë në veprimtarinë minerare · 3 versions, from 2001-03-31 (latest in force: 2017-01-15) · <https://qbz.gov.al/eli/ligj/2001/02/15/8741>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `ligj-2001-8741` (tags `ligj-2001-8741/<day>`; `python tools/on.py <day> ligj-2001-8741`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Ligji nr. 8831: QBZ’s consolidated version 1 changes Neni 2, which neither a QBZ note nor Ligji nr. 38/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 5, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 7, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 9, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 12, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 13, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Neni 21, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8741: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Ligji nr. 8/2013 names; the change is recorded as unexplained, from the publisher.

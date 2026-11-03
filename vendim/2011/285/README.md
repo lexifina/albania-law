@@ -1,0 +1,19 @@
+# Për kalimin në përgjegjësi administrimi, nga ministria e mbrojtjes te ministria e arsimit dhe shkencës, për universitetin “fan s. noli”, në korçë, të pronës nr.542, me emërtim “shtabi i brigadës së këmbësorisë” korçë, e cila është në përgjegjësi administrimi të ministrisë së mbrojtjes, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar
+
+Kalimin në përgjegjësi administrimi, nga ministria e mbrojtjes te ministria e arsimit dhe shkencës, për universitetin “f · 2 versions, from 2011-05-12 (latest in force: 2026-08-05) · <https://qbz.gov.al/eli/vendim/2011/04/06/285>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `vendim-2011-285` (tags `vendim-2011-285/<day>`; `python tools/on.py <day> vendim-2011-285`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 310, datë 21.4.2011: QBZ’s consolidated version 1 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 491, datë 13.6.2013 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 639, datë 7.9.2011: QBZ’s consolidated version 1 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 821, datë 26.11.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 842, datë 6.12.2011: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 295, datë 5.4.2017 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 842, datë 6.12.2011: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 295, datë 5.4.2017 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 280, datë 6.4.2011: QBZ’s consolidated version 2 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 1017, datë 16.12.2020 names; the change is recorded as unexplained, from the publisher.

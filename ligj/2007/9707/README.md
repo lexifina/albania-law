@@ -1,0 +1,32 @@
+# Për kontrollin shtetëror të veprimtarisë së import- eksportit të mallrave ushtarake dhe mallrave e teknologjive me përdorim të dyfishtë
+
+Kontrollin shtetëror të veprimtarisë së import- eksportit të mallrave ushtarake dhe mallrave e teknologjive me përdorim  · 4 versions, from 2007-06-01 (latest in force: 2018-08-18) · <https://qbz.gov.al/eli/ligj/2007/04/05/9707>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `ligj-2007-9707` (tags `ligj-2007-9707/<day>`; `python tools/on.py <day> ligj-2007-9707`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Ligji nr. 9707: QBZ’s consolidated version 2 changes Neni 40, which neither a QBZ note nor Ligji nr. 75/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9739: QBZ’s consolidated version 3 changes Neni 27, which neither a QBZ note nor Ligji nr. 59/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9739: QBZ’s consolidated version 3 changes Neni 28, which neither a QBZ note nor Ligji nr. 59/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Kreu II, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Kreu V, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 1, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 3, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 5, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 6, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 9, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 11, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 12, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 14, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 16, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 19, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 25, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 26, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 9789: QBZ’s consolidated version 1 changes Neni 28, which neither a QBZ note nor Ligji nr. 54/2015 names; the change is recorded as unexplained, from the publisher.

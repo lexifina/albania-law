@@ -1,0 +1,18 @@
+# Për miratimin e kontratës së koncesionit/PPP ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, si Autoriteti Kontraktor, shoqërisë “ANK” sh.p.k., si koncesionari, dhe shoqërisë “Bardh Konstruksion” sh.p.k., si shoqëria koncesionare, për projektimin, ndërtimin dhe mirëmbajtjen e segmentit rrugor Milot-Balldrenkës
+
+Miratimin e kontratës së koncesionit/PPP ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, si Autoriteti Kontraktor, · 1 versions, from 2019-10-03 (latest in force: 2019-10-03) · <https://qbz.gov.al/eli/ligj/2019/07/18/52>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+
+Act id: `ligj-2019-52` (tags `ligj-2019-52/<day>`; `python tools/on.py <day> ligj-2019-52`).
+
+## Decisions made by hand
+
+- One of these laws is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
