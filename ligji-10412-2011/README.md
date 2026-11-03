@@ -1,0 +1,10 @@
+# Për ratifikimin e “marrëveshjes së huas ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ujësjellës-kanalizime, pogradec, si agjenci e zbatimit të projektit, dhe kfw frankfurt am main për financimin e programit “mbrojtja mjedisore e liqenit të ohrit, kanalizimet, pogradec iii””
+
+Ratifikimin e “marrëveshjes së huas ndërmjet republikës së shqipërisë, përfaqësuar nga ministria e financave dhe ujësjel · 1 versions, from 2011-05-20 (latest in force: 2011-05-20) · <https://qbz.gov.al/eli/ligj/2011/04/07/10412>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
