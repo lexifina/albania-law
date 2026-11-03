@@ -38,6 +38,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
@@ -67,21 +68,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1705 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2032 | |
+| 2633 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2960 | |
 
-The build made 3792 commits:
+The build made 4720 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3448 | first version of an act |
+| 4376 | first version of an act |
 | 264 | one law on its in-force day |
 | 80 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `e-ardhme`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3749 laws in the record.
-- 7439 tags.
+- 4677 laws in the record.
+- 9295 tags.
 
 ## Dates
 
@@ -93,7 +94,7 @@ When a law gives no date of its own, the default rule applies: Kushtetuta, neni 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `e4a4976416d9a803257e1b5dcc8e5418d50dabe29d22b43eebf07d8e054dcab6` (34858298 bytes).
+- Corpus: sha256 `df9302aa40e06fedcd1f7d2153d18cb9ec535a403487333cf9de55bb1e9ecc6f` (38035497 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -105,7 +106,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (292 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (295 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -117,6 +118,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text: every word comes from the official files.
+- none
 - none
 - none
 - none
