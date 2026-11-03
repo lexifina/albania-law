@@ -1,0 +1,21 @@
+# Për mënyrën e organizimit dhe veprimtarinë e ofruesve publikë të arsimit dhe formimit profesional
+
+Mënyrën e organizimit dhe veprimtarinë e ofruesve publikë të arsimit dhe formimit profesional · 2 versions, from 2020-03-06 (latest in force: 2021-06-10) · <https://qbz.gov.al/eli/udhezim/2020/03/03/11>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `udhezim-2020-0303-11` (tags `udhezim-2020-0303-11/<day>`; `python tools/on.py <day> udhezim-2020-0303-11`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Udhëzimi nr. 6, datë 4.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Udhëzimi nr. 25, datë 10.11.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 31695] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 10, datë 30.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Pika 10, which neither a QBZ note nor Udhëzimi nr. 5, datë 3.3.2021 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 54386] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 10, datë 30.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 10, which neither a QBZ note nor Udhëzimi nr. 14, datë 21.6.2022 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 24595] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 10, datë 30.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 3 changes Pika 10, which neither a QBZ note nor Udhëzimi nr. 19, datë 31.8.2023 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 26502] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 10, datë 30.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 4 changes Pika 10, which neither a QBZ note nor Udhëzimi nr. 5, datë 21.1.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 29701] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 10, datë 30.3.2020 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 4 changes Pika 23, which neither a QBZ note nor Udhëzimi nr. 5, datë 21.1.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 29701] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 298, datë 10.9.2020 (Ministria e Brendshme): QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Udhëzimi nr. 47, datë 1.2.2021 (Ministria e Brendshme) [QBZ 65010] names; the change is recorded as unexplained, from the publisher.
