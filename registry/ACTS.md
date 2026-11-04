@@ -1,6 +1,6 @@
 # Every act in this repository
 
-15981 acts, 20,387 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16004 acts, 20,416 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktnormativ (46, of which 1 amending acts)
 
@@ -52,6 +52,19 @@
 | Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në misionin e Kombeve të Bashkuara në ABYEI (UNISFA) | [`aktnormativ/2023/4/`](aktnormativ/2023/4/) | in force | 1 | 2023-06-23 | 2023-06-23 |
 | Për marrjen e masave urgjente, për mbrojtjen dhe përmirësimin e infrastrukturës për trajtimin e ujërave të ndotura që shkarkohen pranë ose në ujëra larëse | [`aktnormativ/2023/8/`](aktnormativ/2023/8/) | in force | 1 | 2024-01-05 | 2024-01-05 |
 | Për financimin e pjesshëm të organizimit të një aktiviteti kulturor-turistik me përmasa ndërkombëtare | [`aktnormativ/2026/3/`](aktnormativ/2026/3/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+
+## dekret (8, of which 1 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Për caktimin e kompetencave tokësore, të qendrës së ushtrimit të veprimtarisë dhe numrit të gjyqtarëve të gjykatave të shkallës së parë dhe të apelit për krime të rënda | [`dekret/2003/3993/`](dekret/2003/3993/) | in force | 1 | 2003-11-10 | 2003-11-10 |
+| Për krijimin e rretheve gjyqësore, caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së tyre | [`dekret/2007/5350/`](dekret/2007/5350/) | repealed 2009-09-01 | 2 | 2007-09-01 | 2009-09-01 |
+| Për disa ndryshime në dekretin nr.5351, datë 11.6.2007 “për krijimin e seksioneve të veçanta penale për gjykimin e të miturve pranë gjykatave të rretheve gjyqësore” | [`dekret/2007/5559/`](dekret/2007/5559/) | amending act | 1 | 2007-12-31 | 2007-12-31 |
+| Për caktimin e kompetencave tokësore të gjykatave të rretheve gjyqësore dhe të qendrës së ushtrimit të veprimtarisë të secilës prej tyre | [`dekret/2009/6201/`](dekret/2009/6201/) | in force | 2 | 2009-09-01 | 2013-01-01 |
+| Për caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së gjykatave të apelit | [`dekret/2009/6217/`](dekret/2009/6217/) | in force | 1 | 2009-09-01 | 2009-09-01 |
+| Për krijimin e seksioneve penale për gjykimin e të miturve pranë gjykatave të rretheve gjyqësore | [`dekret/2009/6218/`](dekret/2009/6218/) | in force | 1 | 2009-09-01 | 2009-09-01 |
+| Për caktimin e numrit të gjyqtarëve për çdo gjykatë të shkallës së parë dhe të apelit | [`dekret/2009/6265/`](dekret/2009/6265/) | repealed 2012-11-16 | 2 | 2009-09-17 | 2012-11-16 |
+| Për fillimin e funksionimit të gjykatave administrative | [`dekret/2013/8349/`](dekret/2013/8349/) | in force | 1 | 2013-10-29 | 2013-10-29 |
 
 ## kushtetuta (1)
 
@@ -2381,6 +2394,7 @@
 | Për kriteret dhe procedurat për njohjen dhe njësimin në Republikën e Shqipërisë, të diplomave, certifikatave, gradave shkencore dhe titujve akademikë, të lëshuara nga institucione të huaja të Arsimit të Lartë dhe institucione të tjera të autorizuara | [`udhezim/2021/1015-21/`](udhezim/2021/1015-21/) | in force | 5 | 2021-10-25 | 2026-05-28 |
 | Për mënyrën dhe procedurën e plotësimit të deklaratave të pasurisë dhe interesave privatë në formë elektronike në sistemin elektronik për deklarimin e pasurive dhe konfliktit të interesit (EACIDS) | [`udhezim/2021/1101-927/`](udhezim/2021/1101-927/) | in force | 2 | 2021-11-03 | 2022-03-16 |
 | Mbi kontrollin teknik të mjeteve rrugore | [`udhezim/2021/1112-6/`](udhezim/2021/1112-6/) | in force | 2 | 2021-12-08 | 2026-01-09 |
+| Për formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet dhe procedurat për testimin, licencimin dhe certifikimin e makinistëve | [`udhezim/2022/1213-24/`](udhezim/2022/1213-24/) | in force | 1 | 2022-12-23 | 2022-12-23 |
 | Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet e pjesshme vendore për kryetar bashkie për disa njësi vendore | [`udhezim/2022/0121-11/`](udhezim/2022/0121-11/) | in force | 1 | 2022-01-24 | 2022-01-24 |
 | Për organizimin dhe zhvillimin e provimeve të Maturës Shtetërore dhe të maturës Shtetërore Profesionale 2022 | [`udhezim/2022/0119-1/`](udhezim/2022/0119-1/) | in force | 1 | 2022-02-09 | 2022-02-09 |
 | Për mënyrën e përdorimit të fondit ”Grant/transfertë korrente e brendshme” për federatat sportive olimpike, Komitetin Olimpik Kombëtar Shqiptar dhe Organizatën Kombëtare Antidoping | [`udhezim/2022/0225-4/`](udhezim/2022/0225-4/) | in force | 1 | 2022-03-14 | 2022-03-14 |
@@ -2440,7 +2454,6 @@
 | Për miratimin e standardeve të shërbimeve të përkujdesjes shoqërore në institucionet rezidenciale, për fëmijët 6-15 vjeç | [`udhezim/2022/1121-631/`](udhezim/2022/1121-631/) | in force | 1 | 2022-12-05 | 2022-12-05 |
 | Mbi bashkëpunimin e strukturave të Ministrisë për Evropën dhe Punët e Jashtme dhe Ministrisë së Brendshme për procedurat e pajisjes me ftesë paraprake për të huajt | [`udhezim/2022/1125-227/`](udhezim/2022/1125-227/) | in force | 1 | 2022-12-22 | 2022-12-22 |
 | Mbi procedurën e regjistrimit të të huajit në autoritetin përgjegjës vendor për kufirin dhe migracionin | [`udhezim/2022/1125-228/`](udhezim/2022/1125-228/) | in force | 1 | 2022-12-22 | 2022-12-22 |
-| Për formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet dhe procedurat për testimin, licencimin dhe certifikimin e makinistëve | [`udhezim/2022/1213-24/`](udhezim/2022/1213-24/) | in force | 1 | 2022-12-23 | 2022-12-23 |
 | Për përcaktimin e vlerës së investimit për pajisjen me leje unike për investitor | [`udhezim/2022/1216-240/`](udhezim/2022/1216-240/) | in force | 1 | 2023-01-04 | 2023-01-04 |
 | Për caktimin e procedurës dhe masës së trajtimit financiar të gjyqtarit për shërbimin në skemën e delegimit, për transferimin e përkohshëm, për caktimin e përkohshëm dhe caktimin për një çështje të veçantë | [`udhezim/2022/1229-559/`](udhezim/2022/1229-559/) | in force | 1 | 2023-01-04 | 2023-01-04 |
 | Për zbatimin e vendimit të Këshillit të Ministrave nr. 589, datë 7.9.2022, ”Për rregullat dhe procedurat për konfiskimin për interes publik të objekteve të ndërtuara pa leje, për qëllim fitimi” | [`udhezim/2022/0923-27/`](udhezim/2022/0923-27/) | in force | 1 | 2023-01-05 | 2023-01-05 |
@@ -2739,7 +2752,7 @@
 | Për përcaktimin e procedurave për identifikimin, deklarimin, shqyrtimin dhe menaxhimin e konfliktit të interesit gjatë ushtrimit të veprimtarisë së lobimit | [`udhezim/2026/0925-6/`](udhezim/2026/0925-6/) | in force | 1 | 2026-09-29 | 2026-09-29 |
 | Për përcaktimin e procedurave të njësimit të diplomave të institucioneve arsimore të huaja ose të ngjashme me to, lëshuar nga shkollat private të arsimit të mesëm të lartë, të licencuara në Republikën e Shqipërisë | [`udhezim/2026/0602-9/`](udhezim/2026/0602-9/) | in force | 2 | 2026-06-08 | 2026-09-24 |
 
-## urdher (3103, of which 47 amending acts)
+## urdher (3105, of which 49 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3111,6 +3124,7 @@
 | Për delegim kompetencash për dhënien e ndihmave financiare për ushtarakët e Forcave të Armatosura | [`urdher/2015/0316-462/`](urdher/2015/0316-462/) | repealed 2021-09-10 | 2 | 2015-03-25 | 2021-09-10 |
 | Për delegim kompetencash | [`urdher/2015/0504-133/`](urdher/2015/0504-133/) | repealed 2015-06-22 | 2 | 2015-05-25 | 2015-06-22 |
 | Për miratimin e rregullores për kërkesat e përbashkëta të përdorimit të hapësirës ajrore dhe procedurave të operimit për shmangien e përplasjeve ajrore | [`urdher/2015/0928-124/`](urdher/2015/0928-124/) | repealed 2026-07-29 | 2 | 2015-10-14 | 2026-07-29 |
+| Për përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin | [`urdher/2016/0614-3069/`](urdher/2016/0614-3069/) | in force | 1 | 2016-07-13 | 2016-07-13 |
 | Për delegim kompetencash | [`urdher/2016/0106-1/`](urdher/2016/0106-1/) | in force | 1 | 2016-01-20 | 2016-01-20 |
 | Për shpalljen e disa ndryshimeve në standardet ndërkombëtare të kontabilitetit dhe të raportimit financiar, të përkthyera në gjuhën shqipe | [`urdher/2016/0108-2/`](urdher/2016/0108-2/) | amending act | 1 | 2016-01-21 | 2016-01-21 |
 | Për delegim kompetence | [`urdher/2016/0126-719/`](urdher/2016/0126-719/) | in force | 1 | 2016-02-01 | 2016-02-01 |
@@ -3129,7 +3143,6 @@
 | Për mbylljen e veprimtarisë mësimore të institucioneve të arsimit parauniversitar privat të shoqërisë “flabina” | [`urdher/2016/0222-82/`](urdher/2016/0222-82/) | in force | 1 | 2016-06-23 | 2016-06-23 |
 | Për delegim kompetence | [`urdher/2016/0620-88/`](urdher/2016/0620-88/) | in force | 1 | 2016-07-01 | 2016-07-01 |
 | Për delegimin e kompetencave | [`urdher/2016/0624-47/`](urdher/2016/0624-47/) | in force | 1 | 2016-07-01 | 2016-07-01 |
-| Për përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin | [`urdher/2016/0614-3069/`](urdher/2016/0614-3069/) | in force | 1 | 2016-07-13 | 2016-07-13 |
 | Për delegim kompetence | [`urdher/2016/0721-144/`](urdher/2016/0721-144/) | in force | 1 | 2016-08-01 | 2016-08-01 |
 | Për delegim kompetence | [`urdher/2016/0802-5419/`](urdher/2016/0802-5419/) | in force | 1 | 2016-08-03 | 2016-08-03 |
 | Për delegim kompetence | [`urdher/2016/0802-5420/`](urdher/2016/0802-5420/) | in force | 1 | 2016-08-03 | 2016-08-03 |
@@ -3458,7 +3471,6 @@
 | Për miratimin e Kodit të Etikës profesionale të përmbaruesit gjyqësor privat | [`urdher/2020/0427-136/`](urdher/2020/0427-136/) | in force | 1 | 2020-05-18 | 2020-05-18 |
 | Për miratimin e udhëzuesit të Institutit të Shëndetit Publik për ”Masat ndaj COVID-19 që duhet të ndërmarrin institucionet e kopshteve dhe çerdheve” | [`urdher/2020/0520-333/`](urdher/2020/0520-333/) | in force | 1 | 2020-05-22 | 2020-05-22 |
 | Për përcaktimin e adresave të postës elektronike për komunikim zyrtar me Ministrinë e Drejtësisë | [`urdher/2020/0513-142/`](urdher/2020/0513-142/) | in force | 1 | 2020-05-27 | 2020-05-27 |
-| Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik” | [`urdher/2020/0529-353/`](urdher/2020/0529-353/) | in force | 1 | 2020-06-08 | 2020-06-08 |
 | Për miratimin e rregullave për procedurat e plotësimit të vendeve vakante si noterë | [`urdher/2020/0610-164/`](urdher/2020/0610-164/) | in force | 1 | 2020-06-17 | 2020-06-17 |
 | Për miratimin e rregullave për punësimin e kandidatëve pë noterë | [`urdher/2020/0610-165/`](urdher/2020/0610-165/) | in force | 1 | 2020-06-17 | 2020-06-17 |
 | Për formën, përmbajtjen dhe karakteristikat e tjera të vulave, si dhe rregullat për pajisjen dhe administrimin e tyre | [`urdher/2020/0610-166/`](urdher/2020/0610-166/) | in force | 1 | 2020-06-17 | 2020-06-17 |
@@ -3551,6 +3563,7 @@
 | Për vetëkarantinimin e shtetasve shqipëtarë të cilët duan të futen në territorin e Republikës së Shqipërisë nga të gjitha pikat kufitare tokësore | [`urdher/2020/0407-240/`](urdher/2020/0407-240/) | repealed 2020-07-08 | 2 | 2020-05-11 | 2020-07-08 |
 | Për disa kufizime në ofriomin e shërbimeve në bare, restorante dhe lokale, fast food | [`urdher/2020/0515-320/`](urdher/2020/0515-320/) | repealed 2020-10-07 | 2 | 2020-05-22 | 2020-10-07 |
 | Për një plan menaxhimi shumëvjeçar për peshkimin fundor të qëndrueshëm në detin Adriatik (nënzona gjeografike 17 dhe 18) [rekomandimi GFCM/43/2019/5] | [`urdher/2020/0529-216/`](urdher/2020/0529-216/) | repealed 2023-01-31 | 3 | 2020-06-03 | 2023-01-31 |
+| Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik” | [`urdher/2020/0529-353/`](urdher/2020/0529-353/) | repealed 2021-07-02 | 2 | 2020-06-08 | 2021-07-02 |
 | Për miratimin e rregullave të hollësishme për paraqitjen dhe trajtimin e shprehjeve të interesit, si dhe verifikimin e plotësimit të kushteve ligjore për anëtarë të bordit disiplinor | [`urdher/2020/0610-169/`](urdher/2020/0610-169/) | in force | 2 | 2020-06-17 | 2021-01-26 |
 | Për miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avionit dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra | [`urdher/2020/0604-167/`](urdher/2020/0604-167/) | repealed 2024-05-03 | 2 | 2020-06-19 | 2024-05-03 |
 | Për miratimin e rregullores për konstituimin, organizimin, funksionimin dhe shpërblimin e anëtarëve të Komisionit Disiplinor të Përmbaruesve Gjyqsorë Privatë | [`urdher/2020/0622-189/`](urdher/2020/0622-189/) | in force | 2 | 2020-07-01 | 2020-09-29 |
@@ -3563,6 +3576,8 @@
 | Për miratimin e Programit të Transparencës të Rishikuar | [`urdher/2020/1218-187/`](urdher/2020/1218-187/) | repealed 2026-01-08 | 3 | 2020-12-22 | 2026-01-08 |
 | Për miratimin e Regjistrit të Kërkesave dhe Përgjigjeve të rishikuar | [`urdher/2020/1218-188/`](urdher/2020/1218-188/) | in force | 2 | 2020-12-22 | 2021-04-06 |
 | Për ndalimin e lëvizjes përmes rrugëve ajrore me Britaninë e Madhe | [`urdher/2020/1221-682/`](urdher/2020/1221-682/) | repealed 2021-04-14 | 5 | 2020-12-24 | 2021-04-14 |
+| Për miratimin e përkthimit në gjuhën shqipe të ndryshimeve në Standardin Ndërkombëtar të Raportimit Financiar 16 ”Qiratë” | [`urdher/2021/0525-101/`](urdher/2021/0525-101/) | amending act | 1 | 2021-06-03 | 2021-06-03 |
+| Për shpalljen e përkthimit në gjuhën shqipe të ndryshimeve në SNK 12 ”Tatimet mbi të ardhurat” | [`urdher/2021/0908-164/`](urdher/2021/0908-164/) | amending act | 1 | 2021-09-24 | 2021-09-24 |
 | Për delegimin e kompetencave | [`urdher/2021/0105-3/`](urdher/2021/0105-3/) | in force | 1 | 2021-01-07 | 2021-01-07 |
 | Për delegim kompetencash | [`urdher/2021/0111-15/`](urdher/2021/0111-15/) | in force | 1 | 2021-01-13 | 2021-01-13 |
 | Për miratimin e rregullave të hollësishme për Regjistrin Kombëtar të Testamenteve dhe për Regjistrin Kombëtar të Dëshmive të Trashëgimisë | [`urdher/2021/0107-5/`](urdher/2021/0107-5/) | in force | 1 | 2021-01-18 | 2021-01-18 |
@@ -3687,6 +3702,8 @@
 | Për delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Bujqësisë dhe Zhvillimit Rural | [`urdher/2021/1215-627/`](urdher/2021/1215-627/) | in force | 2 | 2021-12-21 | 2023-12-01 |
 | Për vendosjen e një regjimi sforco të peshkimit për speciet kryesore fundore në detin Adriatik (Nënzonat gjeografike 17 dhe 18) (Rekomandimi GFCM/44/2021/1) | [`urdher/2021/1222-639/`](urdher/2021/1222-639/) | repealed 2023-01-31 | 2 | 2021-12-24 | 2023-01-31 |
 | Për miratimin e formateve të protokoll kontrolleve që kryhen nga veterineri zyrtar | [`urdher/2021/1231-651/`](urdher/2021/1231-651/) | in force | 3 | 2022-01-25 | 2024-02-26 |
+| Për miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave në Regjistrin e Avionëve Civilë të Republikës së Shqipërisë | [`urdher/2022/0606-115/`](urdher/2022/0606-115/) | amending act | 1 | 2022-06-20 | 2022-06-20 |
+| Për miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimit të tij | [`urdher/2022/0614-275/`](urdher/2022/0614-275/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Për delegimin e kompetencave | [`urdher/2022/0105-1/`](urdher/2022/0105-1/) | in force | 1 | 2022-01-10 | 2022-01-10 |
 | Për delegim kompetence | [`urdher/2022/0106-1/`](urdher/2022/0106-1/) | in force | 1 | 2022-01-13 | 2022-01-13 |
 | Për delegimin e kompetencave | [`urdher/2022/0106-5/`](urdher/2022/0106-5/) | in force | 1 | 2022-01-19 | 2022-01-19 |
@@ -3752,8 +3769,6 @@
 | Për përcaktimin e modaliteteve të evidentimit dhe hapave që duhen ndjekur për marrjen në dorëzim të arkivave të padorëzuar ende ndër vite nga ish-përmbaruesit gjyqësorë privatë | [`urdher/2022/0609-261/`](urdher/2022/0609-261/) | in force | 1 | 2022-06-13 | 2022-06-13 |
 | Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në Republikën e Kosovës | [`urdher/2022/0613-271/`](urdher/2022/0613-271/) | in force | 1 | 2022-06-15 | 2022-06-15 |
 | Për delegim kompetencash | [`urdher/2022/0610-211/`](urdher/2022/0610-211/) | in force | 1 | 2022-06-16 | 2022-06-16 |
-| Për miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave në Regjistrin e Avionëve Civilë të Republikës së Shqipërisë | [`urdher/2022/0606-115/`](urdher/2022/0606-115/) | amending act | 1 | 2022-06-20 | 2022-06-20 |
-| Për miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimit të tij | [`urdher/2022/0614-275/`](urdher/2022/0614-275/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Për caktimin e fushës së veprimtarisë dhe detyrat e zëvendësministrit në Ministrinë e Arsimit dhe Sportit | [`urdher/2022/0617-349/`](urdher/2022/0617-349/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Për delegim kompetencash | [`urdher/2022/0620-361/`](urdher/2022/0620-361/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Për delegim të përkohshëm kompetencash | [`urdher/2022/0621-152/`](urdher/2022/0621-152/) | in force | 1 | 2022-06-24 | 2022-06-24 |
@@ -5847,7 +5862,7 @@
 | Për disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqur në shtetin e Brazilit | [`urdher/2026/1021-1075/`](urdher/2026/1021-1075/) | repealed 2026-11-03 | 2 | 2026-10-29 | 2026-11-03 |
 | Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në shtetin e Danimarkës | [`urdher/2026/1026-1085/`](urdher/2026/1026-1085/) | repealed 2026-11-03 | 2 | 2026-11-03 | 2026-11-03 |
 
-## vendim (10176, of which 298 amending acts)
+## vendim (10189, of which 299 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6442,7 +6457,7 @@
 | Për miratimin e raportit të gjendjes së mjedisit, për vitet 2001-2002 | [`vendim/2003/819/`](vendim/2003/819/) | in force | 1 | 2003-12-24 | 2003-12-24 |
 | Për shitjen me ankand të hotel ”tirana international” | [`vendim/2003/822/`](vendim/2003/822/) | in force | 2 | 2003-12-24 | 2004-03-31 |
 | Për miratimin e projektkontratës për shitjen e aksioneve të Bankës së kursimeve sh.a | [`vendim/2003/823/`](vendim/2003/823/) | in force | 1 | 2003-12-24 | 2003-12-24 |
-| Për klasifikimin, ambalazhimin, etiketimin dhe ruajtjen e substancave dhe të preparateve të rrezikshme | [`vendim/2003/824/`](vendim/2003/824/) | in force | 1 | 2004-07-01 | 2004-07-01 |
+| Për klasifikimin, ambalazhimin, etiketimin dhe ruajtjen e substancave dhe të preparateve të rrezikshme | [`vendim/2003/824/`](vendim/2003/824/) | repealed 2018-09-07 | 2 | 2004-07-01 | 2018-09-07 |
 | Për mënyrën e kodimit dhe strukturën e numrit të identitetit të shtetasve | [`vendim/2003/827/`](vendim/2003/827/) | in force | 2 | 2003-12-23 | 2019-04-24 |
 | Për mbrojtjen e veçantë të punonjësit të gardës së republikës të shqipërisë, kur, për shkak të detyrës, i kërcënohet jeta, familja | [`vendim/2003/829/`](vendim/2003/829/) | in force | 1 | 2003-12-23 | 2003-12-23 |
 | PËR MIRATIMIN E LISTËS SË OFERTUESVE DHE SHPALLJEN E FITUESIT, NË TENDERIN E HAPUR NDËRKOMBËTAR, PËR PRIVATIZIMIN E BANKËS SË KURSIMEVe SHA | [`vendim/2003/840/`](vendim/2003/840/) | in force | 1 | 2003-12-31 | 2003-12-31 |
@@ -7149,6 +7164,7 @@
 | Për lejimin e kalimit transit të disa trupave ushtarake sllovene, përmes territorit të republikës së shqipërisë | [`vendim/2007/144/`](vendim/2007/144/) | in force | 1 | 2007-04-03 | 2007-04-03 |
 | Për lejimin e kalimit transit të disa trupave ushtarake italiane, përmes territorit të republikës së shqipërisë | [`vendim/2007/145/`](vendim/2007/145/) | in force | 1 | 2007-04-03 | 2007-04-03 |
 | Për shkrirjen e institutit të informatikës dhe matematikës së aplikuar dhe riorganizimin e tij, si pjesë përbërëse e universitetit politeknik të tiranës, dhe për një ndryshim në vendimin nr.440, datë 16.6.2005 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të cilat i kalojnë në përgjegjësi administrimi akademisë së shkencave” | [`vendim/2007/146/`](vendim/2007/146/) | amending act | 1 | 2007-03-28 | 2007-03-28 |
+| Për cilësinë e lëndëve djegëse, benzinë dhe diezel | [`vendim/2007/147/`](vendim/2007/147/) | in force | 1 | 2007-04-12 | 2007-04-12 |
 | Për ngritjen, organizimin dhe funksionimin e komisionit të çmimeve të barnave | [`vendim/2007/152/`](vendim/2007/152/) | repealed 2007-08-24 | 2 | 2007-04-12 | 2007-08-24 |
 | Për miratimin e bonusit në procedurën përzgjedhëse konkurruese, që u jepet shoqërive për ndërtimin, me koncesion të hidrocentraleve | [`vendim/2007/160/`](vendim/2007/160/) | in force | 1 | 2007-04-06 | 2007-04-06 |
 | Për dhënien me qira ose enfiteozë të pasurive të ndërmarrjeve, shoqërive dhe institucioneve shtetërore | [`vendim/2007/162/`](vendim/2007/162/) | repealed 2008-12-31 | 2 | 2007-04-06 | 2008-12-31 |
@@ -8039,6 +8055,7 @@
 | PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËve TË PASURIve tË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I i segmentit rrugor vorË-fushË-krujË | [`vendim/2008/1390/`](vendim/2008/1390/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i i segmentit rrugor milot-rrëshen | [`vendim/2008/1391/`](vendim/2008/1391/) | in force | 1 | 2008-10-31 | 2008-10-31 |
 | Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i shkollës së mesme dhe të konviktit, në qytetin e peshkopisë, dibër | [`vendim/2008/1393/`](vendim/2008/1393/) | in force | 1 | 2008-10-29 | 2008-10-29 |
+| Për miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe bashkimit të shoqërive “titan” shpk dhe “osmani” shpk, për ndërtimin e hidrocentraleve “bishnica 1” dhe “bishnica 2” | [`vendim/2008/1395/`](vendim/2008/1395/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe shoqërisë “atlas” sha, për ndërtimin e hidrocentraleve “holta kabash” dhe “holta poroçan | [`vendim/2008/1396/`](vendim/2008/1396/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për faljen e detyrimeve të prapambetura të taksës vjetore të qarkullimit rrugor të mjeteve dhe të taksës së regjistrimit të përvitshëm të tyre | [`vendim/2008/1398/`](vendim/2008/1398/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për miratimin e rregullave të zhvillimit të ankandit publik, për shitjen e paketës së aksioneve të “Albanian Mobile Communications” Sha, që ka mbetur pas transferimit të paketës tek investitorët Strategjikë, tek ish-pronarët e Truallit dhe te Punonjësit e kësaj shoqërie | [`vendim/2008/1402/`](vendim/2008/1402/) | in force | 1 | 2008-11-13 | 2008-11-13 |
@@ -8535,6 +8552,7 @@
 | Për miratimin e marrëveshjes, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së mbretërisë së spanjës, për bashkëpunim dhe asistencë të ndërsjellë në çështjet doganore | [`vendim/2009/959/`](vendim/2009/959/) | in force | 1 | 2009-11-06 | 2009-11-06 |
 | Për lejimin e kalimit tranzit të dy autokolonave ushtarake italiane, përmes territorit të republikës së shqipërisë | [`vendim/2009/964/`](vendim/2009/964/) | in force | 1 | 2009-11-06 | 2009-11-06 |
 | Për përcaktimin e kritereve për mbajtjen e kontabilitetit dhe hartimin e pasqyrave financiare, nga mikrondërmarrjet | [`vendim/2009/969/`](vendim/2009/969/) | in force | 1 | 2009-11-06 | 2009-11-06 |
+| Për ndryshimin e përgjegjësisë së administrimit, nga ministria e punëve publike, transportit dhe telekomunikacionit ministrisë së financave, të një sipërfaqeje trualli në kthesën e kamzës, tiranë | [`vendim/2009/970/`](vendim/2009/970/) | repealed 2011-12-02 | 2 | 2009-11-06 | 2011-12-02 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës kozarë të qarkut të beratit | [`vendim/2009/972/`](vendim/2009/972/) | in force | 1 | 2009-11-06 | 2009-11-06 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës picar të qarkut të gjirokastrës | [`vendim/2009/973/`](vendim/2009/973/) | in force | 1 | 2009-11-06 | 2009-11-06 |
 | Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetëtore, që transferohen në pronësi ose në përdorim të bashkisë memaliaj të qarkut të gjirokastrës | [`vendim/2009/974/`](vendim/2009/974/) | in force | 2 | 2009-11-06 | 2019-04-24 |
@@ -10952,6 +10970,7 @@
 | Për rishpërndarje fondesh ndërmjet programeve, brenda buxhetit të vitit 2015, miratuar për Ministrinë e Arsimit dhe Sportit | [`vendim/2015/396/`](vendim/2015/396/) | in force | 1 | 2015-05-21 | 2015-05-21 |
 | Për krijimin e ndërmarrjes shtetërore “Kantieri i ndërtimit dhe riparimit të anijeve” | [`vendim/2015/397/`](vendim/2015/397/) | repealed 2026-08-05 | 2 | 2015-05-27 | 2026-08-05 |
 | Për përcaktimin e tarifës dhe të rregullave për pagimin e saj në një procedurë ankimimi ndaj procedurave të koncesionit/partneritetit publik privat, pranë Komisionit të Prokurimit Publik | [`vendim/2015/401/`](vendim/2015/401/) | in force | 1 | 2015-05-21 | 2015-05-21 |
+| Për krijimin e Fondit të Inovacionit | [`vendim/2015/406/`](vendim/2015/406/) | in force | 1 | 2015-05-21 | 2015-05-21 |
 | Për krijimin, organizimin dhe funksionimin e Inspektoratit Shtetëror Teknik dhe Industrial | [`vendim/2015/410/`](vendim/2015/410/) | in force | 1 | 2015-05-28 | 2015-05-28 |
 | Për procedurat dhe kushtet për dhënien e përsëritjen e licencës së koncesionit të naftësjellësve për importimin, eksportimin dhe transportimin e naftës bruto | [`vendim/2015/411/`](vendim/2015/411/) | in force | 1 | 2015-05-21 | 2015-05-21 |
 | Për miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, për ndërtim, për parcelat që do të ndikohen nga ndërtimi, prej shoqërisë TAP AG, i rrugës së kalimit (ndihmëse), “Pronovik-Zgërbonjë-Antena”, qarku Berat | [`vendim/2015/413/`](vendim/2015/413/) | amending act | 1 | 2015-05-21 | 2015-05-21 |
@@ -11233,6 +11252,7 @@
 | PËR DHËNIEN NË PËRDORIM, PA SHPËRBLIM, TË NJË SIPËRFAQEJE PREJ 871 m², NË PËRGJEGJËSI ADMINISTRIMI TË AUTORITETIT SHTETËROR PËR INFORMACIONIN GJEOHAPËSINOR (ASIG), PROJEKTIT “INNOVATION HUB” | [`vendim/2016/34/`](vendim/2016/34/) | repealed 2017-11-01 | 2 | 2016-01-29 | 2017-11-01 |
 | Për lirim dhe emërim në detyrë | [`vendim/2016/54/`](vendim/2016/54/) | in force | 1 | 2016-02-03 | 2016-02-03 |
 | Për miratimin e kalendarit të menaxhimit të shpenzimeve publike për vitin 2016 | [`vendim/2016/59/`](vendim/2016/59/) | in force | 1 | 2016-02-03 | 2016-02-03 |
+| Për miratimin e rregullores “për identifikimin elektronik dhe shërbimet e besuara” | [`vendim/2016/69/`](vendim/2016/69/) | in force | 1 | 2016-02-05 | 2016-02-05 |
 | Për kontributin e këshillit të ministrave të republikës së shqipërisë, me armatim, për mbretërinë hashemite të jordanisë | [`vendim/2016/77/`](vendim/2016/77/) | in force | 1 | 2016-02-11 | 2016-02-11 |
 | Për miratimin e kuadrit makroekonomik e fiskal për periudhën 2017-2019 | [`vendim/2016/80/`](vendim/2016/80/) | in force | 1 | 2016-02-11 | 2016-02-11 |
 | Për krijimin e bazës së të dhënave shtetërore të sistemit të menaxhimit të borxhit dhe analizës financiare (smbaf) | [`vendim/2016/81/`](vendim/2016/81/) | in force | 1 | 2016-02-11 | 2016-02-11 |
@@ -11260,6 +11280,7 @@
 | Për krijimin e bazës së të dhënave shtetërore të sistemit të menaxhimit të kontributeve të sigurimeve shoqërore (cmis) | [`vendim/2016/120/`](vendim/2016/120/) | in force | 1 | 2016-02-24 | 2016-02-24 |
 | Për krijimin e bazës së të dhënave shtetërore të sistemit të arkivimit dhe menaxhimit të dokumenteve të vjetërsisë në punë dhe të periudhave të sigurimit (dmais) | [`vendim/2016/121/`](vendim/2016/121/) | in force | 1 | 2016-02-24 | 2016-02-24 |
 | Për krijimin e bazës së të dhënave shtetërore të sistemit të menaxhimit, të kalkulimit dhe pagesës së përfitimit (pcams) | [`vendim/2016/122/`](vendim/2016/122/) | in force | 1 | 2016-02-24 | 2016-02-24 |
+| Për transferimin e përkohshëm dhe të përhershëm të nëpunësve civilë | [`vendim/2016/125/`](vendim/2016/125/) | in force | 1 | 2016-02-24 | 2016-02-24 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, dhe marrjen në përdorim të përkohshëm të pasurive që preken nga sheshet e depozitimit/magazinimittë tubave dhe kampeve të punëtorëve, stacionet e kompresorëve dhe valvulat e bllokimit (pjesë e projektit tap) | [`vendim/2016/126/`](vendim/2016/126/) | in force | 1 | 2016-02-24 | 2016-02-24 |
 | Për shtesë fondesh në buxhetin e bashkive, për vitin 2016, për pastrimin e kanaleve ujitëse dhe kulluese | [`vendim/2016/129/`](vendim/2016/129/) | in force | 1 | 2016-02-24 | 2016-02-24 |
 | Për miratimin e programit të përgjithshëm, analitik, të projektakteve, që do të paraqiten për shqyrtim në këshillin e ministrave gjatë vitit 2016 | [`vendim/2016/136/`](vendim/2016/136/) | in force | 1 | 2016-03-09 | 2016-03-09 |
@@ -11650,6 +11671,7 @@
 | Për përcaktimin e procedurave të funksionimit të komisionit për shqyrtimin e apelimeve tatimore, përbërjen, kryesimin, sekretariatin, ndryshimin e anëtarëve dhe masën e shpërblimit të tyre, të procedurave të shqyrtimit të ankimit e të vendimmarrjes, si dhe përcaktimin e kufirit të vlerës objekt shqyrtimi i komisionit | [`vendim/2017/11/`](vendim/2017/11/) | amending act | 2 | 2017-01-24 | 2025-12-23 |
 | Për miratimin e rregullores “për kontrollin shtetëror portual në republikën e shqipërisë” | [`vendim/2017/13/`](vendim/2017/13/) | in force | 1 | 2017-01-24 | 2017-01-24 |
 | Për krijimin e fondit të ekonomisë kreative (artizanatit) | [`vendim/2017/15/`](vendim/2017/15/) | in force | 1 | 2017-01-24 | 2017-01-24 |
+| Për miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të rinj | [`vendim/2017/16/`](vendim/2017/16/) | in force | 1 | 2017-01-24 | 2017-01-24 |
 | Për heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfaqes prej 90 ha që do të përdoret nga shoqëria “lala-06” shpk, për shfrytëzimin e mineralit të hekur-nikelit në objektin “plasë”, bashkia maliq | [`vendim/2017/17/`](vendim/2017/17/) | in force | 1 | 2017-01-24 | 2017-01-24 |
 | Për përcaktimin e rregullave të legalizimit të objekteve me leje ndërtimi, në të cilat janë kryer shtesa anësore dhe/ose në lartësi ose ndryshime të funksionit të hapësirave dhe të objekteve shumëkatëshe pa leje, të destinuara për kalimine së drejtës së pronësisë apo qiradhënien | [`vendim/2017/19/`](vendim/2017/19/) | repealed 2021-02-11 | 2 | 2017-01-17 | 2021-02-11 |
 | Për mbulimin e shpenzimeve financiare të personelit të shërbimit të jashtëm dhe familjarëve që i shoqërojnë ata gjatë kohës që dërgohen me shërbim në misionet diplomatike dhe postet konsullore të republikës së shqipërisë jashtë vendit | [`vendim/2017/20/`](vendim/2017/20/) | in force | 1 | 2017-01-25 | 2017-01-25 |
@@ -11843,6 +11865,7 @@
 | Për rregullat e organizimit, funksionimit të komisionit për dhënien e dëshmisë së statusit të punonjësve të industrisë së naftës dhe të gazit, kriteret dhe procedurat për lëshimin e vërtetimit të posaçëm zyrtar | [`vendim/2017/425/`](vendim/2017/425/) | in force | 1 | 2017-05-18 | 2017-05-18 |
 | PËR RISHPËRNDARJE FONDESH, NGA Ministria e Infrastrukturës dhe Energjisë NË AGJENCINË PËR ZHVILLIMIN EKONOMIK RAJONAL, PËR GRANTIN “NËNPROGRAMI I MBËSHTETJES FINANCIARE PËR NDËRMARRJET MIKRO, TË VOGLA DHE TË MESME (NMVM)”, MIRATUAR ME VENDIMIN NR. 14, DATË 21.3.2017, TË KOMITETIT PËR ZHVILLIMIN E RAJONEVE | [`vendim/2017/432/`](vendim/2017/432/) | in force | 1 | 2017-05-23 | 2017-05-23 |
 | Për procedurën e pajtimit dhe shpërblimin e anëtarëve të zyrave shtetërore të pajtimit | [`vendim/2017/436/`](vendim/2017/436/) | in force | 1 | 2017-05-23 | 2017-05-23 |
+| Për krijimin, organizimin dhe funksionimin e drejtorive të ujitjes dhe të kullimit lezhë, durrës, fier dhe korçë | [`vendim/2017/437/`](vendim/2017/437/) | in force | 1 | 2017-05-23 | 2017-05-23 |
 | Për miratimin e strategjisë kombëtare të shëndetësisë 2016 - 2020 | [`vendim/2017/439/`](vendim/2017/439/) | in force | 1 | 2017-05-24 | 2017-05-24 |
 | Për bashkëfinancimin e shtesës së kontratës “për ndërtimin e vijës bregdetare të vlorës” | [`vendim/2017/443/`](vendim/2017/443/) | in force | 1 | 2017-05-25 | 2017-05-25 |
 | Për sigurimin e jetës së ushtarakëve të forcave të armatosura, që dërgohen në misione ushtarake dhe stërvitje jashtë vendit, për vitin 2017 | [`vendim/2017/444/`](vendim/2017/444/) | in force | 1 | 2017-05-25 | 2017-05-25 |
@@ -12414,6 +12437,7 @@
 | Për përcaktimin e masës së ndihmës së menjëhershme financiare (bonusi) për nënat me foshnja të porsalindura dhe procedurën e dhënies së tij | [`vendim/2018/740/`](vendim/2018/740/) | repealed 2020-04-13 | 2 | 2018-12-13 | 2020-04-13 |
 | Për dhënien në përdorim të përkohshëm, pa shpërblim, nga ministria e mbrojtjes te ministria e drejtësisë, për ushtrimin e veprimtarisë së organeve të qeverisjes së sistemit të drejtësisë, të një pjese të katit të parë dhe të katit të dytë në objektin nr. 14, të pronës nr. 12, me emërtim “komanda e doktrinave dhe stërvitjes”, me vendndodhje rruga e dibrës, tiranë | [`vendim/2018/741/`](vendim/2018/741/) | in force | 1 | 2018-12-19 | 2018-12-19 |
 | Për miratimin e planit strategjik për reformimin e sektorit të energjisë në shqipëri | [`vendim/2018/742/`](vendim/2018/742/) | in force | 1 | 2018-12-19 | 2018-12-19 |
+| Për miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi, për marrëdhëniet e ndërsjella në menaxhimin e burimeve ujore ndërkufitare | [`vendim/2018/745/`](vendim/2018/745/) | in force | 1 | 2018-12-24 | 2018-12-24 |
 | Për krijimin, organizimin dhe funksionimin e strukturës shtetërore, përgjegjëse për zhvillimin e negociatave dhe lidhjen e traktatit të aderimit të republikës së shqipërisë në bashkimin evropian | [`vendim/2018/749/`](vendim/2018/749/) | in force | 2 | 2019-01-09 | 2024-01-16 |
 | Për miratimin e rregullores së organizimit, funksionimit dhe përcaktimit të masës së shpërblimit të anëtarëve të bordit të apelit të drejtorisë së përgjithshme të pronësisë industriale | [`vendim/2018/752/`](vendim/2018/752/) | in force | 3 | 2018-12-24 | 2026-04-22 |
 | Për miratimin e letërmarrëveshjes ndryshuese nr. 2 të marrëveshjes së grantit nr. tf0a1769, ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve të grantit të akorduar nga fondi i mirëbesimit me shumë donatorë, për financimin e projektit të zbatimit të nismës për transparencë në industrinë nxjerrëse në shqipëri (eiti) | [`vendim/2018/753/`](vendim/2018/753/) | in force | 1 | 2018-12-24 | 2018-12-24 |
@@ -13144,6 +13168,7 @@
 | Për miratimin e ndryshimit të statusit, nga kategoria e resursit “Tokë bujqësore” në “Tokë urbane”, truall, të një sipërfaqeje të pasurisë me numër 108/169, zona kadastrale 2420, Bashkia Pogradec | [`vendim/2020/392/`](vendim/2020/392/) | amending act | 1 | 2020-05-18 | 2020-05-18 |
 | Për miratimin e ndryshimit të statusit, nga kategoria e resursit “Tokë bujqësore” në “Tokë urbane”, truall, të një sipërfaqeje të pasurisë me numër 51/56, zona kadastrale 3428, Bashkia Shkodër | [`vendim/2020/393/`](vendim/2020/393/) | amending act | 1 | 2020-05-18 | 2020-05-18 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksion i rrugës “Mihal Grameno”, si dhe degëzimit të rrugës “Budi” me depon e ujit (faza e dytë)”, në Tiranë | [`vendim/2020/394/`](vendim/2020/394/) | in force | 1 | 2020-05-18 | 2020-05-18 |
+| Për mënyrën e organizimit e të funksionimit të Agjencisë Shtetërore për Shpronësimin | [`vendim/2020/395/`](vendim/2020/395/) | in force | 1 | 2020-05-18 | 2020-05-18 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i segmentit rrugor unaza lindore loti 3”, Tiranë | [`vendim/2020/397/`](vendim/2020/397/) | in force | 5 | 2020-05-18 | 2025-07-14 |
 | Për miratimin e dokumentit të politikave “Për qeverisjen e sektorit të informacionit gjeohapësinor në Shqipëri, 2020-2030” | [`vendim/2020/402/`](vendim/2020/402/) | in force | 2 | 2020-05-22 | 2026-10-30 |
 | Për miratimin e strategjisë së zhvillimit të shërbimeve të kujdesit shëndetësor parësor në Shqipëri 2020-2025 | [`vendim/2020/405/`](vendim/2020/405/) | in force | 1 | 2020-05-22 | 2020-05-22 |
@@ -13169,6 +13194,7 @@
 | Për përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e hartimit të projekteve për miratimin e lejeve të ndërtimit, për ndërtimin e njësive të banimit në ndërtesa (pallat), në zonat e shpallura për zhvillim të detyruar, në bashkitë Durrës, Kavajë, Krujë, Kurbin, Lezhë, Shijak dhe Vorë | [`vendim/2020/441/`](vendim/2020/441/) | in force | 4 | 2020-06-08 | 2023-05-04 |
 | Për shpalljen e zonës së re për zhvillim, në njësinë administrative Durrës, Bashkia Durrës, dhe caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese | [`vendim/2020/442/`](vendim/2020/442/) | repealed 2026-08-05 | 2 | 2020-06-08 | 2026-08-05 |
 | Për përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e rikonstruksionit të banesave individuale dhe njësive të banimit në ndërtesa (pallat), në Bashkinë Shijak | [`vendim/2020/443/`](vendim/2020/443/) | in force | 1 | 2020-06-03 | 2020-06-03 |
+| Për emërtimet e profesioneve e të punëve, si pasojë e ndryshimeve të teknologjisë, organizimit e të pronësisë së kapitaleve, të cilat nuk përputhen apo parashikohen në vendimin nr.526, datë 20.12.1958, të Këshillit të Ministrave, “Për ndarjen e punëve në kategori, për efekt pensioni”, të ndryshuar, si dhe emërtimet e profesioneve e të punëve të personelit inxhiniero-teknik në industrinë e naftës e të gazit, që ka punuar drejtpërdrejt në prodhim, në sektorë apo brigada, si shpim-kërkim, shpim-shfrytëzim, prodhim, sizmikë, gjeofizikë kantieriale, përpunim dhe transport me naftësjellës dhe gazsjellës | [`vendim/2020/447/`](vendim/2020/447/) | amending act | 1 | 2020-06-08 | 2020-06-08 |
 | Për emërim në detyrë | [`vendim/2020/452/`](vendim/2020/452/) | in force | 1 | 2020-06-15 | 2020-06-15 |
 | Për miratimin e planit të menaxhimit të basenit ujor Seman | [`vendim/2020/453/`](vendim/2020/453/) | in force | 1 | 2020-06-16 | 2020-06-16 |
 | Për dispozitat zbatuese të ligjit nr.72/2019, “Për masat shtrënguese ndërkombëtare në Republikën e Shqipërisë” | [`vendim/2020/454/`](vendim/2020/454/) | in force | 1 | 2020-06-15 | 2020-06-15 |
@@ -13268,6 +13294,7 @@
 | Për miratimin e marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Turqisë, për bashkëpunimin në fushën e ndërtimit të banesave pas fatkeqësisë | [`vendim/2020/633/`](vendim/2020/633/) | in force | 1 | 2020-08-06 | 2020-08-06 |
 | Për miratimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane, për bashkëpunimin në fushën e rehabilitimit të banesave pas fatkeqësisë | [`vendim/2020/634/`](vendim/2020/634/) | in force | 1 | 2020-08-06 | 2020-08-06 |
 | Për miratimin e marrëveshjes së bashkëpunimit me shkëmbim notash, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bashkimit Evropian, për projektin “EU4SCHOOLS” | [`vendim/2020/635/`](vendim/2020/635/) | in force | 1 | 2020-08-06 | 2020-08-06 |
+| Për miratimin e programit shumëvjeçar për politikën spektrale dhe të planit të veprimit | [`vendim/2020/636/`](vendim/2020/636/) | in force | 1 | 2020-08-06 | 2020-08-06 |
 | Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i rrugës që lidh rrugën ’Tish Daia’ me rrugën ’Robert Shvarc’, Tiranë | [`vendim/2020/637/`](vendim/2020/637/) | in force | 1 | 2020-08-04 | 2020-08-04 |
 | Për trajtimin me pagë dhe shtesa mbi pagë të punonjësve, oficerë dhe nënoficerë, të Gardës së Republikës së Shqipërisë | [`vendim/2020/639/`](vendim/2020/639/) | repealed 2021-11-23 | 2 | 2020-08-06 | 2021-11-23 |
 | Për përcaktimin e autoritetit kontraktor për zhvillimin e procedurave të prokurimit publik për projektet “Ndërtim i Kampusit të Ri të Universitetit të Tiranës”, “Ndërtim i godinave të Universitetit të Arteve të Tiranës” dhe “Ndërtim i Korpusit të Policisë së Shtetit, Policisë Shkencore dhe Akademisë së Sigurisë” | [`vendim/2020/641/`](vendim/2020/641/) | in force | 1 | 2020-08-31 | 2020-08-31 |
@@ -14811,6 +14838,7 @@
 | Për shpërblimin e punonjësve të qeverisjes qendrore në procesin e shqyrtimit analitik të Acquis (Screening), në kuadër të procesit të negociatave me Bashkimin Evropian | [`vendim/2023/795/`](vendim/2023/795/) | in force | 2 | 2024-01-03 | 2024-01-25 |
 | Për përcaktimin e rasteve dhe të rregullave për shpërblimin në natyrë të shpronësimeve për interes publik | [`vendim/2023/797/`](vendim/2023/797/) | in force | 1 | 2024-01-03 | 2024-01-03 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Ndërtimi i Institutit të Policisë Shkencore”, Drejtoria e Përgjithshme e Policisë së Shtetit | [`vendim/2023/800/`](vendim/2023/800/) | in force | 1 | 2024-01-05 | 2024-01-05 |
+| Për miratimin e kërkesave për dhënien e licencës së operimit për ofrimin e shërbimeve ajrore, procedurat, kriteret dhe kushtet për refuzimin, pezullimin apo revokimin e licencës së operimit | [`vendim/2023/802/`](vendim/2023/802/) | in force | 1 | 2024-02-19 | 2024-02-19 |
 | Për miratimin e buxhetit për Autoritetin e Komunikimeve Elektronike dhe Postare, për vitin 2024 | [`vendim/2023/803/`](vendim/2023/803/) | in force | 1 | 2023-12-29 | 2023-12-29 |
 | Për miratimin e listave të mallrave, që mund të përdoren ose nuk kanë përdorim tjetër përveç qëllimit të dënimit me vdekje, torturës ose dënime apo trajtime mizore, çnjerëzore ose poshtëruese, të cilat janë objekt i kontrollit shtetëror të transferimeve ndërkombëtare | [`vendim/2023/806/`](vendim/2023/806/) | repealed 2026-01-26 | 2 | 2024-01-08 | 2026-01-26 |
 | Për miratimin e numrit të përgjithshëm të punonjësve të Gardës së Republikës | [`vendim/2023/808/`](vendim/2023/808/) | in force | 1 | 2023-12-29 | 2023-12-29 |

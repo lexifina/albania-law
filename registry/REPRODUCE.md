@@ -40,15 +40,7 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
-| Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): decisions of the Council of Ministers in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): laws in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
@@ -147,6 +139,8 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Qendra e Botimeve Zyrtare (qbz.gov.al): instructions (udhëzime) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): instructions (udhëzime) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): instructions (udhëzime) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): instructions (udhëzime) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
@@ -240,6 +234,12 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): normative decrees of the President (dekrete) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-02 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -247,21 +247,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 15549 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 19955 | |
+| 15029 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 19441 | |
 
-The build made 2102 commits:
+The build made 2118 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1438 | first version of an act |
-| 610 | one law on its in-force day |
-| 54 | changes no amendment note explains, credited to the publisher |
+| 1447 | first version of an act |
+| 616 | one law on its in-force day |
+| 55 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `e-ardhme`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 20939 laws in the record.
-- 43043 tags.
+- 20422 laws in the record.
+- 43069 tags.
 
 ## Dates
 
@@ -273,7 +273,7 @@ When a law gives no date of its own, the default rule applies: Kushtetuta, neni 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `0db90d0845be86e52af44d941848b021da5cdb463552adad29ed4365a1fd5108` (288392909 bytes).
+- Corpus: sha256 `3506dc6b299df117343b803baeb0d521267c299d81f2bdc4fa9f04b81b074617` (267927397 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -285,7 +285,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1659 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1672 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 

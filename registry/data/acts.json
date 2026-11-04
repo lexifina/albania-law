@@ -14496,10 +14496,10 @@
 "title": "Për klasifikimin, ambalazhimin, etiketimin dhe ruajtjen e substancave dhe të preparateve të rrezikshme",
 "short": "Klasifikimin, ambalazhimin, etiketimin dhe ruajtjen e substancave dhe të preparateve të rrezikshme",
 "code": null,
-"status": "in force",
-"versions": 1,
+"status": "repealed 2018-09-07",
+"versions": 2,
 "from": "2004-07-01",
-"latest": "2004-07-01",
+"latest": "2018-09-07",
 "portal": "https://qbz.gov.al/eli/vendim/2003/12/11/824"
 },
 {
@@ -14620,6 +14620,23 @@
 "from": "2003-12-31",
 "latest": "2003-12-31",
 "portal": "https://qbz.gov.al/eli/vendim/2003/12/19/857"
+},
+{
+"slug": "dekret-2003-3993",
+"path": "dekret/2003/3993",
+"kind": "dekret",
+"year": "2003",
+"number": "3993",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për caktimin e kompetencave tokësore, të qendrës së ushtrimit të veprimtarisë dhe numrit të gjyqtarëve të gjykatave të shkallës së parë dhe të apelit për krime të rënda",
+"short": "Caktimin e kompetencave tokësore, të qendrës së ushtrimit të veprimtarisë dhe numrit të gjyqtarëve të gjykatave të shkal",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2003-11-10",
+"latest": "2003-11-10",
+"portal": "https://qbz.gov.al/eli/dekret/2003/10/29/3993"
 },
 {
 "slug": "ligj-2003-8989",
@@ -34189,6 +34206,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2007/03/28/146"
 },
 {
+"slug": "vendim-2007-147",
+"path": "vendim/2007/147",
+"kind": "vendim",
+"year": "2007",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për cilësinë e lëndëve djegëse, benzinë dhe diezel",
+"short": "Cilësinë e lëndëve djegëse, benzinë dhe diezel",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-04-12",
+"latest": "2007-04-12",
+"portal": "https://qbz.gov.al/eli/vendim/2007/03/21/147"
+},
+{
 "slug": "vendim-2007-152",
 "path": "vendim/2007/152",
 "kind": "vendim",
@@ -38165,6 +38199,40 @@
 "from": "2007-12-31",
 "latest": "2007-12-31",
 "portal": "https://qbz.gov.al/eli/vendim/2007/11/14/924"
+},
+{
+"slug": "dekret-2007-5350",
+"path": "dekret/2007/5350",
+"kind": "dekret",
+"year": "2007",
+"number": "5350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për krijimin e rretheve gjyqësore, caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së tyre",
+"short": "Krijimin e rretheve gjyqësore, caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së tyre",
+"code": null,
+"status": "repealed 2009-09-01",
+"versions": 2,
+"from": "2007-09-01",
+"latest": "2009-09-01",
+"portal": "https://qbz.gov.al/eli/dekret/2007/06/11/5350"
+},
+{
+"slug": "dekret-2007-5559",
+"path": "dekret/2007/5559",
+"kind": "dekret",
+"year": "2007",
+"number": "5559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për disa ndryshime në dekretin nr.5351, datë 11.6.2007 “për krijimin e seksioneve të veçanta penale për gjykimin e të miturve pranë gjykatave të rretheve gjyqësore”",
+"short": "Disa ndryshime në dekretin nr.5351, datë 11.6.2007 “për krijimin e seksioneve të veçanta penale për gjykimin e të miturv",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2007-12-31",
+"latest": "2007-12-31",
+"portal": "https://qbz.gov.al/eli/dekret/2007/12/27/5559"
 },
 {
 "slug": "ligj-2007-9678",
@@ -51631,6 +51699,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2008/10/17/1393"
 },
 {
+"slug": "vendim-2008-1395",
+"path": "vendim/2008/1395",
+"kind": "vendim",
+"year": "2008",
+"number": "1395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe bashkimit të shoqërive “titan” shpk dhe “osmani” shpk, për ndërtimin e hidrocentraleve “bishnica 1” dhe “bishnica 2”",
+"short": "Miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe bashkimit të shoq",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-10-29",
+"latest": "2008-10-29",
+"portal": "https://qbz.gov.al/eli/vendim/2008/10/17/1395"
+},
+{
 "slug": "vendim-2008-1396",
 "path": "vendim/2008/1396",
 "kind": "vendim",
@@ -62188,6 +62273,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2009/09/30/969"
 },
 {
+"slug": "vendim-2009-970",
+"path": "vendim/2009/970",
+"kind": "vendim",
+"year": "2009",
+"number": "970",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ndryshimin e përgjegjësisë së administrimit, nga ministria e punëve publike, transportit dhe telekomunikacionit ministrisë së financave, të një sipërfaqeje trualli në kthesën e kamzës, tiranë",
+"short": "Ndryshimin e përgjegjësisë së administrimit, nga ministria e punëve publike, transportit dhe telekomunikacionit ministri",
+"code": null,
+"status": "repealed 2011-12-02",
+"versions": 2,
+"from": "2009-11-06",
+"latest": "2011-12-02",
+"portal": "https://qbz.gov.al/eli/vendim/2009/09/30/970"
+},
+{
 "slug": "vendim-2009-972",
 "path": "vendim/2009/972",
 "kind": "vendim",
@@ -64311,6 +64413,74 @@
 "from": "2009-12-31",
 "latest": "2009-12-31",
 "portal": "https://qbz.gov.al/eli/vendim/2009/12/11/1304"
+},
+{
+"slug": "dekret-2009-6201",
+"path": "dekret/2009/6201",
+"kind": "dekret",
+"year": "2009",
+"number": "6201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për caktimin e kompetencave tokësore të gjykatave të rretheve gjyqësore dhe të qendrës së ushtrimit të veprimtarisë të secilës prej tyre",
+"short": "Caktimin e kompetencave tokësore të gjykatave të rretheve gjyqësore dhe të qendrës së ushtrimit të veprimtarisë të secil",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2009-09-01",
+"latest": "2013-01-01",
+"portal": "https://qbz.gov.al/eli/dekret/2009/06/08/6201"
+},
+{
+"slug": "dekret-2009-6217",
+"path": "dekret/2009/6217",
+"kind": "dekret",
+"year": "2009",
+"number": "6217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së gjykatave të apelit",
+"short": "Caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtarisë së gjykatave të apelit",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-09-01",
+"latest": "2009-09-01",
+"portal": "https://qbz.gov.al/eli/dekret/2009/07/07/6217"
+},
+{
+"slug": "dekret-2009-6218",
+"path": "dekret/2009/6218",
+"kind": "dekret",
+"year": "2009",
+"number": "6218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për krijimin e seksioneve penale për gjykimin e të miturve pranë gjykatave të rretheve gjyqësore",
+"short": "Krijimin e seksioneve penale për gjykimin e të miturve pranë gjykatave të rretheve gjyqësore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-09-01",
+"latest": "2009-09-01",
+"portal": "https://qbz.gov.al/eli/dekret/2009/07/07/6218"
+},
+{
+"slug": "dekret-2009-6265",
+"path": "dekret/2009/6265",
+"kind": "dekret",
+"year": "2009",
+"number": "6265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për caktimin e numrit të gjyqtarëve për çdo gjykatë të shkallës së parë dhe të apelit",
+"short": "Caktimin e numrit të gjyqtarëve për çdo gjykatë të shkallës së parë dhe të apelit",
+"code": null,
+"status": "repealed 2012-11-16",
+"versions": 2,
+"from": "2009-09-17",
+"latest": "2012-11-16",
+"portal": "https://qbz.gov.al/eli/dekret/2009/09/16/6265"
 },
 {
 "slug": "ligj-2009-10093",
@@ -104824,6 +104994,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2013/12/28/1102"
 },
 {
+"slug": "dekret-2013-8349",
+"path": "dekret/2013/8349",
+"kind": "dekret",
+"year": "2013",
+"number": "8349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për fillimin e funksionimit të gjykatave administrative",
+"short": "Fillimin e funksionimit të gjykatave administrative",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-10-29",
+"latest": "2013-10-29",
+"portal": "https://qbz.gov.al/eli/dekret/2013/10/14/8349"
+},
+{
 "slug": "udhezim-2014-0116-1",
 "path": "udhezim/2014/0116-1",
 "kind": "udhezim",
@@ -108122,23 +108309,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2014/02/12/77"
 },
 {
-"slug": "ligj-2014-78",
-"path": "ligj/2014/78",
-"kind": "ligj",
-"year": "2014",
-"number": "78",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për organizimin dhe funksionimin e qendrës së botimeve zyrtare",
-"short": "Organizimin dhe funksionimin e qendrës së botimeve zyrtare",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2014-08-23",
-"latest": "2014-08-23",
-"portal": "https://qbz.gov.al/eli/ligj/2014/07/10/78"
-},
-{
 "slug": "vendim-2014-78",
 "path": "vendim/2014/78",
 "kind": "vendim",
@@ -108154,6 +108324,23 @@
 "from": "2014-04-03",
 "latest": "2019-05-17",
 "portal": "https://qbz.gov.al/eli/vendim/2014/02/12/78"
+},
+{
+"slug": "ligj-2014-78",
+"path": "ligj/2014/78",
+"kind": "ligj",
+"year": "2014",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për organizimin dhe funksionimin e qendrës së botimeve zyrtare",
+"short": "Organizimin dhe funksionimin e qendrës së botimeve zyrtare",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-08-23",
+"latest": "2014-08-23",
+"portal": "https://qbz.gov.al/eli/ligj/2014/07/10/78"
 },
 {
 "slug": "vendim-2014-80",
@@ -108445,23 +108632,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2014/02/26/108"
 },
 {
-"slug": "ligj-2014-109",
-"path": "ligj/2014/109",
-"kind": "ligj",
-"year": "2014",
-"number": "109",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e kontratës financiare, ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve, për bypass-in e vlorës",
-"short": "Ratifikimin e kontratës financiare, ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve, për bypass-in",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2014-09-12",
-"latest": "2014-09-12",
-"portal": "https://qbz.gov.al/eli/ligj/2014/07/31/109"
-},
-{
 "slug": "vendim-2014-109",
 "path": "vendim/2014/109",
 "kind": "vendim",
@@ -108479,21 +108649,21 @@
 "portal": "https://qbz.gov.al/eli/vendim/2014/02/26/109"
 },
 {
-"slug": "ligj-2014-110",
-"path": "ligj/2014/110",
+"slug": "ligj-2014-109",
+"path": "ligj/2014/109",
 "kind": "ligj",
 "year": "2014",
-"number": "110",
+"number": "109",
 "withdrawn_by": null,
 "reason": null,
-"title": "Për ratifikimin e marrëveshjes së huas dhe asistencës teknike (grant) ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për pjesëmarrje në financimin e projektit të mikrofinancës në shqipëri",
-"short": "Ratifikimin e marrëveshjes së huas dhe asistencës teknike (grant) ndërmjet këshillit të ministrave të republikës së shqi",
+"title": "Për ratifikimin e kontratës financiare, ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve, për bypass-in e vlorës",
+"short": "Ratifikimin e kontratës financiare, ndërmjet republikës së shqipërisë dhe bankës evropiane të investimeve, për bypass-in",
 "code": null,
 "status": "in force",
 "versions": 1,
 "from": "2014-09-12",
 "latest": "2014-09-12",
-"portal": "https://qbz.gov.al/eli/ligj/2014/07/31/110"
+"portal": "https://qbz.gov.al/eli/ligj/2014/07/31/109"
 },
 {
 "slug": "vendim-2014-110",
@@ -108511,6 +108681,23 @@
 "from": "2014-04-18",
 "latest": "2014-08-15",
 "portal": "https://qbz.gov.al/eli/vendim/2014/02/27/110"
+},
+{
+"slug": "ligj-2014-110",
+"path": "ligj/2014/110",
+"kind": "ligj",
+"year": "2014",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes së huas dhe asistencës teknike (grant) ndërmjet këshillit të ministrave të republikës së shqipërisë dhe bankës islamike për zhvillim (idb) për pjesëmarrje në financimin e projektit të mikrofinancës në shqipëri",
+"short": "Ratifikimin e marrëveshjes së huas dhe asistencës teknike (grant) ndërmjet këshillit të ministrave të republikës së shqi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-09-12",
+"latest": "2014-09-12",
+"portal": "https://qbz.gov.al/eli/ligj/2014/07/31/110"
 },
 {
 "slug": "ligj-2014-111",
@@ -108598,23 +108785,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2014/09/11/116"
 },
 {
-"slug": "ligj-2014-117",
-"path": "ligj/2014/117",
-"kind": "ligj",
-"year": "2014",
-"number": "117",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin “erasmus +”, programi i be-së për arsimin, trajnimin, rininë dhe sportin",
-"short": "Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shq",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2014-10-22",
-"latest": "2014-10-22",
-"portal": "https://qbz.gov.al/eli/ligj/2014/09/11/117"
-},
-{
 "slug": "vendim-2014-117",
 "path": "vendim/2014/117",
 "kind": "vendim",
@@ -108632,21 +108802,21 @@
 "portal": "https://qbz.gov.al/eli/vendim/2014/03/05/117"
 },
 {
-"slug": "ligj-2014-118",
-"path": "ligj/2014/118",
+"slug": "ligj-2014-117",
+"path": "ligj/2014/117",
 "kind": "ligj",
 "year": "2014",
-"number": "118",
+"number": "117",
 "withdrawn_by": null,
 "reason": null,
-"title": "Për ratifikimin e marrëveshjes për themelimin dhe statutin e organizatës europiane të së drejtës publike",
-"short": "Ratifikimin e marrëveshjes për themelimin dhe statutin e organizatës europiane të së drejtës publike",
+"title": "Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shqipërisë në programin “erasmus +”, programi i be-së për arsimin, trajnimin, rininë dhe sportin",
+"short": "Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe bashkimit europian për pjesëmarrjen e republikës së shq",
 "code": null,
 "status": "in force",
 "versions": 1,
 "from": "2014-10-22",
 "latest": "2014-10-22",
-"portal": "https://qbz.gov.al/eli/ligj/2014/09/11/118"
+"portal": "https://qbz.gov.al/eli/ligj/2014/09/11/117"
 },
 {
 "slug": "vendim-2014-118",
@@ -108664,6 +108834,23 @@
 "from": "2014-04-19",
 "latest": "2015-05-19",
 "portal": "https://qbz.gov.al/eli/vendim/2014/03/05/118"
+},
+{
+"slug": "ligj-2014-118",
+"path": "ligj/2014/118",
+"kind": "ligj",
+"year": "2014",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes për themelimin dhe statutin e organizatës europiane të së drejtës publike",
+"short": "Ratifikimin e marrëveshjes për themelimin dhe statutin e organizatës europiane të së drejtës publike",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-10-22",
+"latest": "2014-10-22",
+"portal": "https://qbz.gov.al/eli/ligj/2014/09/11/118"
 },
 {
 "slug": "vendim-2014-119",
@@ -108853,23 +109040,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2014/03/12/134"
 },
 {
-"slug": "ligj-2014-135",
-"path": "ligj/2014/135",
-"kind": "ligj",
-"year": "2014",
-"number": "135",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të iniciativës për gatishmërinë dhe parandalimin e katastrofave për europën juglindore",
-"short": "Ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të iniciativës për gatishmërinë dhe parandalimin e ",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2014-11-12",
-"latest": "2014-11-12",
-"portal": "https://qbz.gov.al/eli/ligj/2014/10/09/135"
-},
-{
 "slug": "vendim-2014-135",
 "path": "vendim/2014/135",
 "kind": "vendim",
@@ -108885,6 +109055,23 @@
 "from": "2014-04-24",
 "latest": "2015-03-16",
 "portal": "https://qbz.gov.al/eli/vendim/2014/03/12/135"
+},
+{
+"slug": "ligj-2014-135",
+"path": "ligj/2014/135",
+"kind": "ligj",
+"year": "2014",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të iniciativës për gatishmërinë dhe parandalimin e katastrofave për europën juglindore",
+"short": "Ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të iniciativës për gatishmërinë dhe parandalimin e ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-11-12",
+"latest": "2014-11-12",
+"portal": "https://qbz.gov.al/eli/ligj/2014/10/09/135"
 },
 {
 "slug": "ligj-2014-136",
@@ -108972,23 +109159,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2014/10/16/139"
 },
 {
-"slug": "ligj-2014-140",
-"path": "ligj/2014/140",
-"kind": "ligj",
-"year": "2014",
-"number": "140",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e ndryshimit të letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe fondit ndërkombëtar për zhvillimin e agrikulturës për programin “malet drejt tregut”",
-"short": "Ratifikimin e ndryshimit të letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet republikës së shqipërisë",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2014-11-25",
-"latest": "2014-11-25",
-"portal": "https://qbz.gov.al/eli/ligj/2014/10/16/140"
-},
-{
 "slug": "vendim-2014-140",
 "path": "vendim/2014/140",
 "kind": "vendim",
@@ -109004,6 +109174,23 @@
 "from": "2014-04-24",
 "latest": "2014-12-11",
 "portal": "https://qbz.gov.al/eli/vendim/2014/03/12/140"
+},
+{
+"slug": "ligj-2014-140",
+"path": "ligj/2014/140",
+"kind": "ligj",
+"year": "2014",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e ndryshimit të letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet republikës së shqipërisë dhe fondit ndërkombëtar për zhvillimin e agrikulturës për programin “malet drejt tregut”",
+"short": "Ratifikimin e ndryshimit të letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet republikës së shqipërisë",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2014-11-25",
+"latest": "2014-11-25",
+"portal": "https://qbz.gov.al/eli/ligj/2014/10/16/140"
 },
 {
 "slug": "vendim-2014-141",
@@ -117149,23 +117336,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2015/07/16/78"
 },
 {
-"slug": "ligj-2015-79",
-"path": "ligj/2015/79",
-"kind": "ligj",
-"year": "2015",
-"number": "79",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave, që përfaqëson Republikën e Shqipërisë, dhe Bankës për Zhvillim të Këshillit të Europës për projektin e rehabilitimit të spitalit rajonal të Shkodrës, faza e tretë",
-"short": "Ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave, që përfaqëson Rep",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2015-08-13",
-"latest": "2015-08-13",
-"portal": "https://qbz.gov.al/eli/ligj/2015/07/16/79"
-},
-{
 "slug": "vendim-2015-79",
 "path": "vendim/2015/79",
 "kind": "vendim",
@@ -117181,6 +117351,23 @@
 "from": "2015-02-05",
 "latest": "2015-06-09",
 "portal": "https://qbz.gov.al/eli/vendim/2015/01/28/79"
+},
+{
+"slug": "ligj-2015-79",
+"path": "ligj/2015/79",
+"kind": "ligj",
+"year": "2015",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave, që përfaqëson Republikën e Shqipërisë, dhe Bankës për Zhvillim të Këshillit të Europës për projektin e rehabilitimit të spitalit rajonal të Shkodrës, faza e tretë",
+"short": "Ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërmjet Këshillit të Ministrave, që përfaqëson Rep",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-08-13",
+"latest": "2015-08-13",
+"portal": "https://qbz.gov.al/eli/ligj/2015/07/16/79"
 },
 {
 "slug": "ligj-2015-81",
@@ -117336,23 +117523,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2015/02/04/94"
 },
 {
-"slug": "ligj-2015-96",
-"path": "ligj/2015/96",
-"kind": "ligj",
-"year": "2015",
-"number": "96",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shqipërisë në programin “Europa për Qytetarët”",
-"short": "Ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shq",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2015-10-15",
-"latest": "2015-10-15",
-"portal": "https://qbz.gov.al/eli/ligj/2015/09/17/96"
-},
-{
 "slug": "vendim-2015-96",
 "path": "vendim/2015/96",
 "kind": "vendim",
@@ -117368,6 +117538,23 @@
 "from": "2015-02-12",
 "latest": "2021-05-17",
 "portal": "https://qbz.gov.al/eli/vendim/2015/02/04/96"
+},
+{
+"slug": "ligj-2015-96",
+"path": "ligj/2015/96",
+"kind": "ligj",
+"year": "2015",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shqipërisë në programin “Europa për Qytetarët”",
+"short": "Ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian për pjesëmarrjen e Republikës së Shq",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-10-15",
+"latest": "2015-10-15",
+"portal": "https://qbz.gov.al/eli/ligj/2015/09/17/96"
 },
 {
 "slug": "ligj-2015-97",
@@ -117897,23 +118084,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2015/11/26/129"
 },
 {
-"slug": "ligj-2015-130",
-"path": "ligj/2015/130",
-"kind": "ligj",
-"year": "2015",
-"number": "130",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kroacisë për bashkëpunimin policor",
-"short": "Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kr",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2015-12-29",
-"latest": "2015-12-29",
-"portal": "https://qbz.gov.al/eli/ligj/2015/11/26/130"
-},
-{
 "slug": "vendim-2015-130",
 "path": "vendim/2015/130",
 "kind": "vendim",
@@ -117929,6 +118099,23 @@
 "from": "2015-02-20",
 "latest": "2021-10-01",
 "portal": "https://qbz.gov.al/eli/vendim/2015/02/11/130"
+},
+{
+"slug": "ligj-2015-130",
+"path": "ligj/2015/130",
+"kind": "ligj",
+"year": "2015",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kroacisë për bashkëpunimin policor",
+"short": "Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kr",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-12-29",
+"latest": "2015-12-29",
+"portal": "https://qbz.gov.al/eli/ligj/2015/11/26/130"
 },
 {
 "slug": "vendim-2015-131",
@@ -119697,6 +119884,23 @@
 "from": "2015-05-21",
 "latest": "2015-05-21",
 "portal": "https://qbz.gov.al/eli/vendim/2015/05/13/401"
+},
+{
+"slug": "vendim-2015-406",
+"path": "vendim/2015/406",
+"kind": "vendim",
+"year": "2015",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për krijimin e Fondit të Inovacionit",
+"short": "Krijimin e Fondit të Inovacionit",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-05-21",
+"latest": "2015-05-21",
+"portal": "https://qbz.gov.al/eli/vendim/2015/05/13/406"
 },
 {
 "slug": "vendim-2015-410",
@@ -125105,6 +125309,23 @@
 "portal": "https://qbz.gov.al/eli/udhezim/2016/12/28/3"
 },
 {
+"slug": "urdher-2016-0614-3069",
+"path": "urdher/2016/0614-3069",
+"kind": "urdher",
+"year": "2016",
+"number": "0614-3069",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin",
+"short": "Përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-07-13",
+"latest": "2016-07-13",
+"portal": "https://qbz.gov.al/eli/urdher/2016/06/14/3069"
+},
+{
 "slug": "urdher-2016-0106-1",
 "path": "urdher/2016/0106-1",
 "kind": "urdher",
@@ -125409,23 +125630,6 @@
 "from": "2016-07-01",
 "latest": "2016-07-01",
 "portal": "https://qbz.gov.al/eli/urdher/2016/06/24/47"
-},
-{
-"slug": "urdher-2016-0614-3069",
-"path": "urdher/2016/0614-3069",
-"kind": "urdher",
-"year": "2016",
-"number": "0614-3069",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin",
-"short": "Përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2016-07-13",
-"latest": "2016-07-13",
-"portal": "https://qbz.gov.al/eli/urdher/2016/06/14/3069"
 },
 {
 "slug": "urdher-2016-0721-144",
@@ -126499,23 +126703,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2016/03/17/28"
 },
 {
-"slug": "ligj-2016-29",
-"path": "ligj/2016/29",
-"kind": "ligj",
-"year": "2016",
-"number": "29",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2013, për projektin “rezervati ndërkufitar i biosferës në prespë”",
-"short": "Ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës feder",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2016-04-16",
-"latest": "2016-04-16",
-"portal": "https://qbz.gov.al/eli/ligj/2016/03/17/29"
-},
-{
 "slug": "vendim-2016-29",
 "path": "vendim/2016/29",
 "kind": "vendim",
@@ -126533,21 +126720,21 @@
 "portal": "https://qbz.gov.al/eli/vendim/2016/01/20/29"
 },
 {
-"slug": "ligj-2016-30",
-"path": "ligj/2016/30",
+"slug": "ligj-2016-29",
+"path": "ligj/2016/29",
 "kind": "ligj",
 "year": "2016",
-"number": "30",
+"number": "29",
 "withdrawn_by": null,
 "reason": null,
-"title": "Për ratifikimin e marrëveshjes sektoriale ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave i republikës së shqipërisë, dhe komisionit europian, që përcakton dispozitat e menaxhimit dhe zbatimit të asistencës financiare të be-së për republikën e shqipërisë, në kuadër të instrumentit për asistencën e paraanëtarësimit, në fushën “bujqësia dhe zhvillimi rural” (ipard)",
-"short": "Ratifikimin e marrëveshjes sektoriale ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave i republi",
+"title": "Për ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës federale të gjermanisë për bashkëpunimin financiar 2013, për projektin “rezervati ndërkufitar i biosferës në prespë”",
+"short": "Ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës feder",
 "code": null,
 "status": "in force",
 "versions": 1,
-"from": "2016-04-19",
-"latest": "2016-04-19",
-"portal": "https://qbz.gov.al/eli/ligj/2016/03/17/30"
+"from": "2016-04-16",
+"latest": "2016-04-16",
+"portal": "https://qbz.gov.al/eli/ligj/2016/03/17/29"
 },
 {
 "slug": "vendim-2016-30",
@@ -126565,6 +126752,23 @@
 "from": "2016-01-29",
 "latest": "2026-09-30",
 "portal": "https://qbz.gov.al/eli/vendim/2016/01/20/30"
+},
+{
+"slug": "ligj-2016-30",
+"path": "ligj/2016/30",
+"kind": "ligj",
+"year": "2016",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes sektoriale ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave i republikës së shqipërisë, dhe komisionit europian, që përcakton dispozitat e menaxhimit dhe zbatimit të asistencës financiare të be-së për republikën e shqipërisë, në kuadër të instrumentit për asistencën e paraanëtarësimit, në fushën “bujqësia dhe zhvillimi rural” (ipard)",
+"short": "Ratifikimin e marrëveshjes sektoriale ndërmjet republikës së shqipërisë, përfaqësuar nga këshilli i ministrave i republi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-04-19",
+"latest": "2016-04-19",
+"portal": "https://qbz.gov.al/eli/ligj/2016/03/17/30"
 },
 {
 "slug": "ligj-2016-31",
@@ -126601,23 +126805,6 @@
 "portal": "https://qbz.gov.al/eli/ligj/2016/03/24/33"
 },
 {
-"slug": "ligj-2016-34",
-"path": "ligj/2016/34",
-"kind": "ligj",
-"year": "2016",
-"number": "34",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës çeke për mbrojtjen shoqërore",
-"short": "Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës çeke për mbrojtjen shoqërore",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2016-04-26",
-"latest": "2016-04-26",
-"portal": "https://qbz.gov.al/eli/ligj/2016/03/24/34"
-},
-{
 "slug": "vendim-2016-34",
 "path": "vendim/2016/34",
 "kind": "vendim",
@@ -126633,6 +126820,23 @@
 "from": "2016-01-29",
 "latest": "2017-11-01",
 "portal": "https://qbz.gov.al/eli/vendim/2016/01/20/34"
+},
+{
+"slug": "ligj-2016-34",
+"path": "ligj/2016/34",
+"kind": "ligj",
+"year": "2016",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës çeke për mbrojtjen shoqërore",
+"short": "Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republikës çeke për mbrojtjen shoqërore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-04-26",
+"latest": "2016-04-26",
+"portal": "https://qbz.gov.al/eli/ligj/2016/03/24/34"
 },
 {
 "slug": "ligj-2016-35",
@@ -126873,6 +127077,23 @@
 "portal": "https://qbz.gov.al/eli/ligj/2016/06/30/68-2016"
 },
 {
+"slug": "vendim-2016-69",
+"path": "vendim/2016/69",
+"kind": "vendim",
+"year": "2016",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e rregullores “për identifikimin elektronik dhe shërbimet e besuara”",
+"short": "Miratimin e rregullores “për identifikimin elektronik dhe shërbimet e besuara”",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-02-05",
+"latest": "2016-02-05",
+"portal": "https://qbz.gov.al/eli/vendim/2016/01/27/69"
+},
+{
 "slug": "ligj-2016-69",
 "path": "ligj/2016/69",
 "kind": "ligj",
@@ -127043,23 +127264,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2016/02/03/82"
 },
 {
-"slug": "ligj-2016-83",
-"path": "ligj/2016/83",
-"kind": "ligj",
-"year": "2016",
-"number": "83",
-"withdrawn_by": null,
-"reason": null,
-"title": "PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT GLOBAL KUNDËR SIDA-s, TUBERKULOZIT DHE MALARIES",
-"short": "PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT GLOBAL KUN",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2016-08-20",
-"latest": "2016-08-20",
-"portal": "https://qbz.gov.al/eli/ligj/2016/07/25/83-2016"
-},
-{
 "slug": "vendim-2016-83",
 "path": "vendim/2016/83",
 "kind": "vendim",
@@ -127075,6 +127279,23 @@
 "from": "2016-02-11",
 "latest": "2016-05-18",
 "portal": "https://qbz.gov.al/eli/vendim/2016/02/03/83"
+},
+{
+"slug": "ligj-2016-83",
+"path": "ligj/2016/83",
+"kind": "ligj",
+"year": "2016",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT GLOBAL KUNDËR SIDA-s, TUBERKULOZIT DHE MALARIES",
+"short": "PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT GLOBAL KUN",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-08-20",
+"latest": "2016-08-20",
+"portal": "https://qbz.gov.al/eli/ligj/2016/07/25/83-2016"
 },
 {
 "slug": "vendim-2016-84",
@@ -127128,23 +127349,6 @@
 "portal": "https://qbz.gov.al/eli/vendim/2016/02/03/86"
 },
 {
-"slug": "ligj-2016-87",
-"path": "ligj/2016/87",
-"kind": "ligj",
-"year": "2016",
-"number": "87",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për aderimin e republikës së shqipërisë në konventën evropiane të peizazheve",
-"short": "Aderimin e republikës së shqipërisë në konventën evropiane të peizazheve",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2016-10-08",
-"latest": "2016-10-08",
-"portal": "https://qbz.gov.al/eli/ligj/2016/09/08/87-2016"
-},
-{
 "slug": "vendim-2016-87",
 "path": "vendim/2016/87",
 "kind": "vendim",
@@ -127160,6 +127364,23 @@
 "from": "2016-02-11",
 "latest": "2016-06-03",
 "portal": "https://qbz.gov.al/eli/vendim/2016/02/03/87"
+},
+{
+"slug": "ligj-2016-87",
+"path": "ligj/2016/87",
+"kind": "ligj",
+"year": "2016",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për aderimin e republikës së shqipërisë në konventën evropiane të peizazheve",
+"short": "Aderimin e republikës së shqipërisë në konventën evropiane të peizazheve",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-08",
+"latest": "2016-10-08",
+"portal": "https://qbz.gov.al/eli/ligj/2016/09/08/87-2016"
 },
 {
 "slug": "vendim-2016-88",
@@ -127687,6 +127908,23 @@
 "from": "2016-02-24",
 "latest": "2016-02-24",
 "portal": "https://qbz.gov.al/eli/vendim/2016/02/17/122"
+},
+{
+"slug": "vendim-2016-125",
+"path": "vendim/2016/125",
+"kind": "vendim",
+"year": "2016",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për transferimin e përkohshëm dhe të përhershëm të nëpunësve civilë",
+"short": "Transferimin e përkohshëm dhe të përhershëm të nëpunësve civilë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-02-24",
+"latest": "2016-02-24",
+"portal": "https://qbz.gov.al/eli/vendim/2016/02/17/125"
 },
 {
 "slug": "vendim-2016-126",
@@ -136291,6 +136529,23 @@
 "portal": "https://qbz.gov.al/eli/ligj/2017/02/16/15-2017"
 },
 {
+"slug": "vendim-2017-16",
+"path": "vendim/2017/16",
+"kind": "vendim",
+"year": "2017",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të rinj",
+"short": "Miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të rinj",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-01-24",
+"latest": "2017-01-24",
+"portal": "https://qbz.gov.al/eli/vendim/2017/01/11/16"
+},
+{
 "slug": "vendim-2017-17",
 "path": "vendim/2017/17",
 "kind": "vendim",
@@ -140199,6 +140454,23 @@
 "from": "2017-05-23",
 "latest": "2017-05-23",
 "portal": "https://qbz.gov.al/eli/vendim/2017/05/17/436"
+},
+{
+"slug": "vendim-2017-437",
+"path": "vendim/2017/437",
+"kind": "vendim",
+"year": "2017",
+"number": "437",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për krijimin, organizimin dhe funksionimin e drejtorive të ujitjes dhe të kullimit lezhë, durrës, fier dhe korçë",
+"short": "Krijimin, organizimin dhe funksionimin e drejtorive të ujitjes dhe të kullimit lezhë, durrës, fier dhe korçë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-05-23",
+"latest": "2017-05-23",
+"portal": "https://qbz.gov.al/eli/vendim/2017/05/17/437"
 },
 {
 "slug": "vendim-2017-439",
@@ -153017,6 +153289,23 @@
 "from": "2018-12-19",
 "latest": "2018-12-19",
 "portal": "https://qbz.gov.al/eli/vendim/2018/12/12/742"
+},
+{
+"slug": "vendim-2018-745",
+"path": "vendim/2018/745",
+"kind": "vendim",
+"year": "2018",
+"number": "745",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të zi, për marrëdhëniet e ndërsjella në menaxhimin e burimeve ujore ndërkufitare",
+"short": "Miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së malit të z",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-12-24",
+"latest": "2018-12-24",
+"portal": "https://qbz.gov.al/eli/vendim/2018/12/19/745"
 },
 {
 "slug": "vendim-2018-749",
@@ -166840,23 +167129,6 @@
 "portal": "https://qbz.gov.al/eli/urdher/2020/05/13/142"
 },
 {
-"slug": "urdher-2020-0529-353",
-"path": "urdher/2020/0529-353",
-"kind": "urdher",
-"year": "2020",
-"number": "0529-353",
-"withdrawn_by": null,
-"reason": null,
-"title": "Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik”",
-"short": "Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik”",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2020-06-08",
-"latest": "2020-06-08",
-"portal": "https://qbz.gov.al/eli/urdher/2020/05/29/353"
-},
-{
 "slug": "urdher-2020-0610-164",
 "path": "urdher/2020/0610-164",
 "kind": "urdher",
@@ -168725,6 +168997,23 @@
 "from": "2020-06-03",
 "latest": "2023-01-31",
 "portal": "https://qbz.gov.al/eli/urdher/2020/05/29/216"
+},
+{
+"slug": "urdher-2020-0529-353",
+"path": "urdher/2020/0529-353",
+"kind": "urdher",
+"year": "2020",
+"number": "0529-353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik”",
+"short": "Pёr miratimin e ”Protokolli i masave Anti-Covid 19 pёrgjatё sezonit turisitik”",
+"code": null,
+"status": "repealed 2021-07-02",
+"versions": 2,
+"from": "2020-06-08",
+"latest": "2021-07-02",
+"portal": "https://qbz.gov.al/eli/urdher/2020/05/29/353"
 },
 {
 "slug": "urdher-2020-0610-169",
@@ -174031,6 +174320,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2020/05/13/394"
 },
 {
+"slug": "vendim-2020-395",
+"path": "vendim/2020/395",
+"kind": "vendim",
+"year": "2020",
+"number": "395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për mënyrën e organizimit e të funksionimit të Agjencisë Shtetërore për Shpronësimin",
+"short": "Mënyrën e organizimit e të funksionimit të Agjencisë Shtetërore për Shpronësimin",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-05-18",
+"latest": "2020-05-18",
+"portal": "https://qbz.gov.al/eli/vendim/2020/05/13/395"
+},
+{
 "slug": "vendim-2020-397",
 "path": "vendim/2020/397",
 "kind": "vendim",
@@ -174454,6 +174760,23 @@
 "from": "2020-06-03",
 "latest": "2020-06-03",
 "portal": "https://qbz.gov.al/eli/vendim/2020/06/03/443"
+},
+{
+"slug": "vendim-2020-447",
+"path": "vendim/2020/447",
+"kind": "vendim",
+"year": "2020",
+"number": "447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për emërtimet e profesioneve e të punëve, si pasojë e ndryshimeve të teknologjisë, organizimit e të pronësisë së kapitaleve, të cilat nuk përputhen apo parashikohen në vendimin nr.526, datë 20.12.1958, të Këshillit të Ministrave, “Për ndarjen e punëve në kategori, për efekt pensioni”, të ndryshuar, si dhe emërtimet e profesioneve e të punëve të personelit inxhiniero-teknik në industrinë e naftës e të gazit, që ka punuar drejtpërdrejt në prodhim, në sektorë apo brigada, si shpim-kërkim, shpim-shfrytëzim, prodhim, sizmikë, gjeofizikë kantieriale, përpunim dhe transport me naftësjellës dhe gazsjellës",
+"short": "Emërtimet e profesioneve e të punëve, si pasojë e ndryshimeve të teknologjisë, organizimit e të pronësisë së kapitaleve,",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2020-06-08",
+"latest": "2020-06-08",
+"portal": "https://qbz.gov.al/eli/vendim/2020/06/03/447"
 },
 {
 "slug": "vendim-2020-452",
@@ -176137,6 +176460,23 @@
 "from": "2020-08-06",
 "latest": "2020-08-06",
 "portal": "https://qbz.gov.al/eli/vendim/2020/07/29/635"
+},
+{
+"slug": "vendim-2020-636",
+"path": "vendim/2020/636",
+"kind": "vendim",
+"year": "2020",
+"number": "636",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e programit shumëvjeçar për politikën spektrale dhe të planit të veprimit",
+"short": "Miratimin e programit shumëvjeçar për politikën spektrale dhe të planit të veprimit",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://qbz.gov.al/eli/vendim/2020/07/29/636"
 },
 {
 "slug": "vendim-2020-637",
@@ -181696,6 +182036,40 @@
 "from": "2022-12-31",
 "latest": "2022-12-31",
 "portal": "https://qbz.gov.al/eli/udhezim/2021/12/01/2"
+},
+{
+"slug": "urdher-2021-0525-101",
+"path": "urdher/2021/0525-101",
+"kind": "urdher",
+"year": "2021",
+"number": "0525-101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e përkthimit në gjuhën shqipe të ndryshimeve në Standardin Ndërkombëtar të Raportimit Financiar 16 ”Qiratë”",
+"short": "Miratimin e përkthimit në gjuhën shqipe të ndryshimeve në Standardin Ndërkombëtar të Raportimit Financiar 16 ”Qiratë”",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-06-03",
+"latest": "2021-06-03",
+"portal": "https://qbz.gov.al/eli/urdher/2021/05/25/101"
+},
+{
+"slug": "urdher-2021-0908-164",
+"path": "urdher/2021/0908-164",
+"kind": "urdher",
+"year": "2021",
+"number": "0908-164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për shpalljen e përkthimit në gjuhën shqipe të ndryshimeve në SNK 12 ”Tatimet mbi të ardhurat”",
+"short": "Shpalljen e përkthimit në gjuhën shqipe të ndryshimeve në SNK 12 ”Tatimet mbi të ardhurat”",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://qbz.gov.al/eli/urdher/2021/09/08/164"
 },
 {
 "slug": "urdher-2021-0105-3",
@@ -193411,6 +193785,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2022/04/06/206"
 },
 {
+"slug": "udhezim-2022-1213-24",
+"path": "udhezim/2022/1213-24",
+"kind": "udhezim",
+"year": "2022",
+"number": "1213-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet dhe procedurat për testimin, licencimin dhe certifikimin e makinistëve",
+"short": "Formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet d",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://qbz.gov.al/eli/udhezim/2022/12/13/24"
+},
+{
 "slug": "udhezim-2022-0121-11",
 "path": "udhezim/2022/0121-11",
 "kind": "udhezim",
@@ -194414,23 +194805,6 @@
 "portal": "https://qbz.gov.al/eli/udhezim/2022/11/25/228"
 },
 {
-"slug": "udhezim-2022-1213-24",
-"path": "udhezim/2022/1213-24",
-"kind": "udhezim",
-"year": "2022",
-"number": "1213-24",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet dhe procedurat për testimin, licencimin dhe certifikimin e makinistëve",
-"short": "Formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet d",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2022-12-23",
-"latest": "2022-12-23",
-"portal": "https://qbz.gov.al/eli/udhezim/2022/12/13/24"
-},
-{
 "slug": "udhezim-2022-1216-240",
 "path": "udhezim/2022/1216-240",
 "kind": "udhezim",
@@ -194497,6 +194871,40 @@
 "from": "2023-09-07",
 "latest": "2023-09-07",
 "portal": "https://qbz.gov.al/eli/udhezim/2022/11/17/23"
+},
+{
+"slug": "urdher-2022-0606-115",
+"path": "urdher/2022/0606-115",
+"kind": "urdher",
+"year": "2022",
+"number": "0606-115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave në Regjistrin e Avionëve Civilë të Republikës së Shqipërisë",
+"short": "Miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshim",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
+"portal": "https://qbz.gov.al/eli/urdher/2022/06/06/115"
+},
+{
+"slug": "urdher-2022-0614-275",
+"path": "urdher/2022/0614-275",
+"kind": "urdher",
+"year": "2022",
+"number": "0614-275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimit të tij",
+"short": "Miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://qbz.gov.al/eli/urdher/2022/06/14/275"
 },
 {
 "slug": "urdher-2022-0105-1",
@@ -195602,40 +196010,6 @@
 "from": "2022-06-16",
 "latest": "2022-06-16",
 "portal": "https://qbz.gov.al/eli/urdher/2022/06/10/211"
-},
-{
-"slug": "urdher-2022-0606-115",
-"path": "urdher/2022/0606-115",
-"kind": "urdher",
-"year": "2022",
-"number": "0606-115",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave në Regjistrin e Avionëve Civilë të Republikës së Shqipërisë",
-"short": "Miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshim",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2022-06-20",
-"latest": "2022-06-20",
-"portal": "https://qbz.gov.al/eli/urdher/2022/06/06/115"
-},
-{
-"slug": "urdher-2022-0614-275",
-"path": "urdher/2022/0614-275",
-"kind": "urdher",
-"year": "2022",
-"number": "0614-275",
-"withdrawn_by": null,
-"reason": null,
-"title": "Për miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimit të tij",
-"short": "Miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimi",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2022-06-24",
-"latest": "2022-06-24",
-"portal": "https://qbz.gov.al/eli/urdher/2022/06/14/275"
 },
 {
 "slug": "urdher-2022-0617-349",
@@ -217192,6 +217566,23 @@
 "from": "2024-01-05",
 "latest": "2024-01-05",
 "portal": "https://qbz.gov.al/eli/vendim/2023/12/28/800"
+},
+{
+"slug": "vendim-2023-802",
+"path": "vendim/2023/802",
+"kind": "vendim",
+"year": "2023",
+"number": "802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e kërkesave për dhënien e licencës së operimit për ofrimin e shërbimeve ajrore, procedurat, kriteret dhe kushtet për refuzimin, pezullimin apo revokimin e licencës së operimit",
+"short": "Miratimin e kërkesave për dhënien e licencës së operimit për ofrimin e shërbimeve ajrore, procedurat, kriteret dhe kusht",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://qbz.gov.al/eli/vendim/2023/12/28/802"
 },
 {
 "slug": "vendim-2023-803",
