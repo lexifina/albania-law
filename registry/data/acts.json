@@ -70,6 +70,91 @@
 "portal": "https://qbz.gov.al/eli/ligj/2020/07/29/113"
 },
 {
+"slug": "vendim-1999-48",
+"path": "vendim/1999/48",
+"kind": "vendim",
+"year": "1999",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për krijimin e bordit të hetimit të aksidenteve dhe të incidenteve ajrore të aviacionit civil",
+"short": "Krijimin e bordit të hetimit të aksidenteve dhe të incidenteve ajrore të aviacionit civil",
+"code": null,
+"status": "repealed 2010-09-20",
+"versions": 2,
+"from": "2000-05-31",
+"latest": "2010-09-20",
+"portal": "https://qbz.gov.al/eli/vendim/1999/01/28/48"
+},
+{
+"slug": "vendim-1999-214",
+"path": "vendim/1999/214",
+"kind": "vendim",
+"year": "1999",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e kostos mesatare të ndërtimit të banesave nga enti kombëtar i banesave, të vlerave mesatare të tregut të lirë të banesave dhe të koeficientit “k”",
+"short": "Miratimin e kostos mesatare të ndërtimit të banesave nga enti kombëtar i banesave, të vlerave mesatare të tregut të lirë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2000-08-28",
+"latest": "2000-08-28",
+"portal": "https://qbz.gov.al/eli/vendim/1999/04/28/214"
+},
+{
+"slug": "vendim-1999-240",
+"path": "vendim/1999/240",
+"kind": "vendim",
+"year": "1999",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e strategjisë së qeverisë për ristrukturimin e pagave në administratën publike",
+"short": "Miratimin e strategjisë së qeverisë për ristrukturimin e pagave në administratën publike",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2000-08-28",
+"latest": "2000-08-28",
+"portal": "https://qbz.gov.al/eli/vendim/1999/04/28/240"
+},
+{
+"slug": "vendim-1999-633",
+"path": "vendim/1999/633",
+"kind": "vendim",
+"year": "1999",
+"number": "633",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për shtesë fondfi për hidrovoret",
+"short": "Shtesë fondfi për hidrovoret",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2004-04-02",
+"latest": "2004-04-02",
+"portal": "https://qbz.gov.al/eli/vendim/1999/12/24/633"
+},
+{
+"slug": "vendim-1999-641",
+"path": "vendim/1999/641",
+"kind": "vendim",
+"year": "1999",
+"number": "641",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për akordim fondi për financimin e blerjes së objektit nga Frrok Gjini për tregun e qytetit të Vaut të Dejës",
+"short": "Akordim fondi për financimin e blerjes së objektit nga Frrok Gjini për tregun e qytetit të Vaut të Dejës",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2004-04-02",
+"latest": "2004-04-02",
+"portal": "https://qbz.gov.al/eli/vendim/1999/12/24/641"
+},
+{
 "slug": "vendim-2000-39-0203",
 "path": "vendim/2000/39-0203",
 "kind": "vendim",
@@ -170,6 +255,23 @@
 "from": "2000-07-18",
 "latest": "2006-04-10",
 "portal": "https://qbz.gov.al/eli/udhezim/2000/06/15/1927"
+},
+{
+"slug": "udhezim-2000-0707-2",
+"path": "udhezim/2000/0707-2",
+"kind": "udhezim",
+"year": "2000",
+"number": "0707-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për sistemin e vlerësimit të arritjeve vjetore, individuale të nëpunësve civilë",
+"short": "Sistemin e vlerësimit të arritjeve vjetore, individuale të nëpunësve civilë",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2003-04-30",
+"latest": "2007-12-31",
+"portal": "https://qbz.gov.al/eli/udhezim/2000/07/07/2"
 },
 {
 "slug": "vendim-2000-1",
@@ -597,6 +699,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2000/03/09/104"
 },
 {
+"slug": "vendim-2000-108",
+"path": "vendim/2000/108",
+"kind": "vendim",
+"year": "2000",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e marrëveshjes, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së republikës së greqisë, për bashkëpunimin në fushën e turizmit",
+"short": "Miratimin e marrëveshjes, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së republikës së greqisë, për bashk",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/03/16/108"
+},
+{
 "slug": "vendim-2000-114",
 "path": "vendim/2000/114",
 "kind": "vendim",
@@ -648,6 +767,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2000/03/18/118"
 },
 {
+"slug": "vendim-2000-120",
+"path": "vendim/2000/120",
+"kind": "vendim",
+"year": "2000",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për lirim dhe emërim në detyrë",
+"short": "Lirim dhe emërim në detyrë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/03/18/120"
+},
+{
 "slug": "vendim-2000-126",
 "path": "vendim/2000/126",
 "kind": "vendim",
@@ -680,6 +816,23 @@
 "from": "2000-04-21",
 "latest": "2000-04-21",
 "portal": "https://qbz.gov.al/eli/vendim/2000/03/23/127"
+},
+{
+"slug": "vendim-2000-137",
+"path": "vendim/2000/137",
+"kind": "vendim",
+"year": "2000",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për një shtesë në buxhetin e vitit 2000, miratuar për ministrinë e kulturës, rinisë dhe sporteve",
+"short": "Një shtesë në buxhetin e vitit 2000, miratuar për ministrinë e kulturës, rinisë dhe sporteve",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/03/23/137"
 },
 {
 "slug": "vendim-2000-145",
@@ -869,6 +1022,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2000/04/13/181"
 },
 {
+"slug": "vendim-2000-192",
+"path": "vendim/2000/192",
+"kind": "vendim",
+"year": "2000",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e marrëveshjes “programi i bashkëpunimit financiar, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së spanjës”",
+"short": "Miratimin e marrëveshjes “programi i bashkëpunimit financiar, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/04/21/192"
+},
+{
 "slug": "vendim-2000-197",
 "path": "vendim/2000/197",
 "kind": "vendim",
@@ -1037,6 +1207,23 @@
 "from": "2000-05-19",
 "latest": "2000-05-19",
 "portal": "https://qbz.gov.al/eli/vendim/2000/05/05/229"
+},
+{
+"slug": "vendim-2000-231",
+"path": "vendim/2000/231",
+"kind": "vendim",
+"year": "2000",
+"number": "231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për pranimin në shërbimin civil dhe periudhën e provës",
+"short": "Pranimin në shërbimin civil dhe periudhën e provës",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2000-06-06",
+"latest": "2012-05-21",
+"portal": "https://qbz.gov.al/eli/vendim/2000/05/11/231"
 },
 {
 "slug": "vendim-2000-232",
@@ -1277,6 +1464,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2000/06/02/278"
 },
 {
+"slug": "vendim-2000-279",
+"path": "vendim/2000/279",
+"kind": "vendim",
+"year": "2000",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "”për miratimin e rregullores së disiplinës së policisë së shtetit ”",
+"short": "”për miratimin e rregullores së disiplinës së policisë së shtetit ”",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2002-03-05",
+"latest": "2002-03-05",
+"portal": "https://qbz.gov.al/eli/vendim/2000/06/02/279"
+},
+{
 "slug": "vendim-2000-286",
 "path": "vendim/2000/286",
 "kind": "vendim",
@@ -1498,6 +1702,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2000/07/07/342"
 },
 {
+"slug": "vendim-2000-347",
+"path": "vendim/2000/347",
+"kind": "vendim",
+"year": "2000",
+"number": "347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për lirim dhe emërim në detyrë të sekretarit të këshillit të rrethit berat",
+"short": "Lirim dhe emërim në detyrë të sekretarit të këshillit të rrethit berat",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/07/07/347"
+},
+{
 "slug": "vendim-2000-348",
 "path": "vendim/2000/348",
 "kind": "vendim",
@@ -1615,6 +1836,23 @@
 "from": "2000-07-19",
 "latest": "2000-07-19",
 "portal": "https://qbz.gov.al/eli/vendim/2000/07/14/365"
+},
+{
+"slug": "vendim-2000-369",
+"path": "vendim/2000/369",
+"kind": "vendim",
+"year": "2000",
+"number": "369",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e protokollit të bashkëpunimit, në fushën e navigimit ajror, ndërmjet qeverisë së republikës së shqipërisë, qeverisë së ish-republikës jugosllave të maqedonisë (fyrom) dhe qeverisë së republikës së greqisë",
+"short": "Miratimin e protokollit të bashkëpunimit, në fushën e navigimit ajror, ndërmjet qeverisë së republikës së shqipërisë, qe",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2000/07/14/369"
 },
 {
 "slug": "vendim-2000-373",
@@ -7822,6 +8060,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2002/04/25/154"
 },
 {
+"slug": "vendim-2002-155",
+"path": "vendim/2002/155",
+"kind": "vendim",
+"year": "2002",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për funksionimin, të drejtat dhe detyrat e Entit Shtetëror të Farërave dhe Fidanëve",
+"short": "Funksionimin, të drejtat dhe detyrat e Entit Shtetëror të Farërave dhe Fidanëve",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2002-05-15",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2002/04/25/155"
+},
+{
 "slug": "vendim-2002-156",
 "path": "vendim/2002/156",
 "kind": "vendim",
@@ -11647,6 +11902,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2003/02/13/90"
 },
 {
+"slug": "vendim-2003-104",
+"path": "vendim/2003/104",
+"kind": "vendim",
+"year": "2003",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për disa shtesa dhe ndryshime në vendimin nr. 405, datë 8.1.1996 të këshillit të ministrave “për administrimin e rrjetit rrugor kombëtar dhe rrjetit rural të republikës së shqipërisë”",
+"short": "Disa shtesa dhe ndryshime në vendimin nr. 405, datë 8.1.1996 të këshillit të ministrave “për administrimin e rrjetit rru",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2003/02/20/104"
+},
+{
 "slug": "vendim-2003-116",
 "path": "vendim/2003/116",
 "kind": "vendim",
@@ -11798,6 +12070,23 @@
 "from": "2003-03-25",
 "latest": "2003-03-25",
 "portal": "https://qbz.gov.al/eli/vendim/2003/03/13/151"
+},
+{
+"slug": "vendim-2003-152",
+"path": "vendim/2003/152",
+"kind": "vendim",
+"year": "2003",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e marrëveshjes së koncesionit të formës “rot”, ndërmjet ministrisë së ekonomisë e ministrisë së industrisë dhe të energjetikës nga njëra anë dhe shoqërisë “emikel” shpk, për hidrocentralet vendore, lenie, çorovodë, tuçep",
+"short": "Miratimin e marrëveshjes së koncesionit të formës “rot”, ndërmjet ministrisë së ekonomisë e ministrisë së industrisë dhe",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2003/03/13/152"
 },
 {
 "slug": "vendim-2003-169",
@@ -13141,6 +13430,23 @@
 "from": "2003-07-31",
 "latest": "2003-07-31",
 "portal": "https://qbz.gov.al/eli/vendim/2003/07/18/508"
+},
+{
+"slug": "vendim-2003-510",
+"path": "vendim/2003/510",
+"kind": "vendim",
+"year": "2003",
+"number": "510",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e marrëveshjes, ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës, për nxitjen dhe mbrojtjen e ndërsjellë të investimeve",
+"short": "Miratimin e marrëveshjes, ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës, për nxitjen dhe mbrojtjen e ndërs",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-05-04",
+"latest": "2012-05-04",
+"portal": "https://qbz.gov.al/eli/vendim/2003/07/18/510"
 },
 {
 "slug": "vendim-2003-516",
@@ -16101,6 +16407,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2004/01/29/58"
 },
 {
+"slug": "vendim-2004-66",
+"path": "vendim/2004/66",
+"kind": "vendim",
+"year": "2004",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e rregullores së personelit të Gardës së Republikës të Shqipërisë",
+"short": "Miratimin e rregullores së personelit të Gardës së Republikës të Shqipërisë",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2005-10-07",
+"latest": "2005-10-07",
+"portal": "https://qbz.gov.al/eli/vendim/2004/01/14/66"
+},
+{
 "slug": "vendim-2004-74",
 "path": "vendim/2004/74",
 "kind": "vendim",
@@ -16881,6 +17204,23 @@
 "from": "2004-07-15",
 "latest": "2010-05-26",
 "portal": "https://qbz.gov.al/eli/vendim/2004/04/16/281"
+},
+{
+"slug": "vendim-2004-284",
+"path": "vendim/2004/284",
+"kind": "vendim",
+"year": "2004",
+"number": "284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për ngritjen e bordit të kullimit në zonën e shërbimit të kullimit Krujë-Kurbin",
+"short": "Ngritjen e bordit të kullimit në zonën e shërbimit të kullimit Krujë-Kurbin",
+"code": null,
+"status": "repealed 2010-06-06",
+"versions": 2,
+"from": "2004-05-19",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2004/04/16/284"
 },
 {
 "slug": "vendim-2004-287",
@@ -21949,6 +22289,23 @@
 "portal": "https://qbz.gov.al/eli/udhezim/2005/07/07/4"
 },
 {
+"slug": "udhezim-2005-0207-532",
+"path": "udhezim/2005/0207-532",
+"kind": "udhezim",
+"year": "2005",
+"number": "0207-532",
+"withdrawn_by": null,
+"reason": null,
+"title": "Mbi mënyrën e operimit në shërbimin taksi",
+"short": "Mbi mënyrën e operimit në shërbimin taksi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2005-07-13",
+"latest": "2005-07-13",
+"portal": "https://qbz.gov.al/eli/udhezim/2005/02/07/532"
+},
+{
 "slug": "udhezim-2005-0907-1",
 "path": "udhezim/2005/0907-1",
 "kind": "udhezim",
@@ -21981,6 +22338,23 @@
 "from": "2005-12-02",
 "latest": "2005-12-02",
 "portal": "https://qbz.gov.al/eli/udhezim/2005/11/23/5"
+},
+{
+"slug": "udhezim-2005-1229-620",
+"path": "udhezim/2005/1229-620",
+"kind": "udhezim",
+"year": "2005",
+"number": "1229-620",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për strukturën varietore të fidanëve dhe materialeve të shumëzimit vegjetativ të hardhisë, që prodhohen në vend dhe importohen",
+"short": "Strukturën varietore të fidanëve dhe materialeve të shumëzimit vegjetativ të hardhisë, që prodhohen në vend dhe importoh",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-02-22",
+"latest": "2007-02-22",
+"portal": "https://qbz.gov.al/eli/udhezim/2005/12/29/620"
 },
 {
 "slug": "urdher-2005-0204-39",
@@ -22049,6 +22423,23 @@
 "from": "2005-06-06",
 "latest": "2005-06-06",
 "portal": "https://qbz.gov.al/eli/urdher/2005/05/27/63"
+},
+{
+"slug": "urdher-2005-0316-1284",
+"path": "urdher/2005/0316-1284",
+"kind": "urdher",
+"year": "2005",
+"number": "0316-1284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e tarifave të shpërblimit të avokatëve për dhënien e ndihmës juridike",
+"short": "Miratimin e tarifave të shpërblimit të avokatëve për dhënien e ndihmës juridike",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-12-27",
+"latest": "2007-12-27",
+"portal": "https://qbz.gov.al/eli/urdher/2005/03/16/1284-3"
 },
 {
 "slug": "udhezim-2005-0118-3",
@@ -26828,6 +27219,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2006/02/15/93"
 },
 {
+"slug": "vendim-2006-499-1",
+"path": "vendim/2006/499-1",
+"kind": "vendim",
+"year": "2006",
+"number": "499-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashkisë divjakë të qarkut të fierit",
+"short": "Miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashki",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2007-05-03",
+"latest": "2007-05-03",
+"portal": "https://qbz.gov.al/eli/vendim/2006/07/19/499-1"
+},
+{
 "slug": "udhezim-2006-0208-2",
 "path": "udhezim/2006/0208-2",
 "kind": "udhezim",
@@ -28834,6 +29242,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2006/05/31/329"
 },
 {
+"slug": "vendim-2006-331",
+"path": "vendim/2006/331",
+"kind": "vendim",
+"year": "2006",
+"number": "331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për disa ndryshime në rregulloren për zbatimin e kodit rrugor të republikës së shqipërisë, të miratuar me vendimin nr.153, datë 7.4.2000 të këshillit të ministrave",
+"short": "Disa ndryshime në rregulloren për zbatimin e kodit rrugor të republikës së shqipërisë, të miratuar me vendimin nr.153, d",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/06/02/331"
+},
+{
 "slug": "vendim-2006-343",
 "path": "vendim/2006/343",
 "kind": "vendim",
@@ -29242,6 +29667,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2006/07/14/486"
 },
 {
+"slug": "vendim-2006-499",
+"path": "vendim/2006/499",
+"kind": "vendim",
+"year": "2006",
+"number": "499",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashkisë divjakë të qarkut të fierit",
+"short": "Miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashki",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2010-06-06",
+"latest": "2021-06-04",
+"portal": "https://qbz.gov.al/eli/vendim/2006/07/19/499"
+},
+{
 "slug": "vendim-2006-514",
 "path": "vendim/2006/514",
 "kind": "vendim",
@@ -29257,6 +29699,23 @@
 "from": "2006-08-05",
 "latest": "2006-08-05",
 "portal": "https://qbz.gov.al/eli/vendim/2006/07/26/514"
+},
+{
+"slug": "vendim-2006-522",
+"path": "vendim/2006/522",
+"kind": "vendim",
+"year": "2006",
+"number": "522",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për transferimin e sipërfaqes 91 m2, komponente e pronës nr.1095 “Dega e mobilizim-rekrutimit”, Kuçovë, nga Ministria e Mbrojtjes në pronësi të bashkisë së qytetit Kuçovë, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003 të Këshillit të Ministrave",
+"short": "Transferimin e sipërfaqes 91 m2, komponente e pronës nr.1095 “Dega e mobilizim-rekrutimit”, Kuçovë, nga Ministria e Mbro",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/07/26/522"
 },
 {
 "slug": "vendim-2006-523",
@@ -29461,6 +29920,23 @@
 "from": "2006-08-30",
 "latest": "2021-03-30",
 "portal": "https://qbz.gov.al/eli/vendim/2006/08/23/568"
+},
+{
+"slug": "vendim-2006-573",
+"path": "vendim/2006/573",
+"kind": "vendim",
+"year": "2006",
+"number": "573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës paraprake të pronave të paluajtshme, publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës hysgjokaj të qarkut të fierit",
+"short": "Miratimin e listës paraprake të pronave të paluajtshme, publike, shtetërore, që transferohen në pronësi ose në përdorim ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/08/23/573"
 },
 {
 "slug": "vendim-2006-574",
@@ -30449,6 +30925,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2006/11/16/789"
 },
 {
+"slug": "vendim-2006-795",
+"path": "vendim/2006/795",
+"kind": "vendim",
+"year": "2006",
+"number": "795",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për një shtesë fondi në buxhetin e vitit 2006, miratuar për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, për mbulimin e shpenzimeve për organizimin e veprimtarive të Crans Montana Forum",
+"short": "Një shtesë fondi në buxhetin e vitit 2006, miratuar për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, për mbulimin ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/11/27/795"
+},
+{
 "slug": "vendim-2006-802",
 "path": "vendim/2006/802",
 "kind": "vendim",
@@ -30515,6 +31008,23 @@
 "from": "2006-12-30",
 "latest": "2006-12-30",
 "portal": "https://qbz.gov.al/eli/vendim/2006/12/20/816"
+},
+{
+"slug": "vendim-2006-820",
+"path": "vendim/2006/820",
+"kind": "vendim",
+"year": "2006",
+"number": "820",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që i trasferohen, në pronësi ose në përdorim, komunës cukalat, që qarkut të beratit",
+"short": "Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që i trasferohen, në pronësi ose në përdorim",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/12/06/820"
 },
 {
 "slug": "vendim-2006-821",
@@ -30600,6 +31110,23 @@
 "from": "2006-12-29",
 "latest": "2007-03-02",
 "portal": "https://qbz.gov.al/eli/vendim/2006/12/13/841"
+},
+{
+"slug": "vendim-2006-849",
+"path": "vendim/2006/849",
+"kind": "vendim",
+"year": "2006",
+"number": "849",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për një shpërblim të veçantë të punonjësve të qendrës kombëtare arsimore të vlerësimit dhe provimeve",
+"short": "Një shpërblim të veçantë të punonjësve të qendrës kombëtare arsimore të vlerësimit dhe provimeve",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-06-06",
+"latest": "2010-06-06",
+"portal": "https://qbz.gov.al/eli/vendim/2006/12/13/849"
 },
 {
 "slug": "vendim-2006-853",
@@ -36841,6 +37368,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2007/10/24/693"
 },
 {
+"slug": "vendim-2007-696",
+"path": "vendim/2007/696",
+"kind": "vendim",
+"year": "2007",
+"number": "696",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim, të bashkisë vau i dejës të qarkut të shkodrës",
+"short": "Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim, ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-07-23",
+"latest": "2010-07-23",
+"portal": "https://qbz.gov.al/eli/vendim/2007/10/19/696"
+},
+{
 "slug": "vendim-2007-697",
 "path": "vendim/2007/697",
 "kind": "vendim",
@@ -37757,6 +38301,23 @@
 "from": "2007-12-17",
 "latest": "2007-12-17",
 "portal": "https://qbz.gov.al/eli/vendim/2007/11/29/842"
+},
+{
+"slug": "vendim-2007-845",
+"path": "vendim/2007/845",
+"kind": "vendim",
+"year": "2007",
+"number": "845",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për dhënie fondi ndihme partisë së të drejtave të mohuara e re",
+"short": "Dhënie fondi ndihme partisë së të drejtave të mohuara e re",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-07-23",
+"latest": "2010-07-23",
+"portal": "https://qbz.gov.al/eli/vendim/2007/11/29/845"
 },
 {
 "slug": "vendim-2007-847",
@@ -42026,6 +42587,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2008/02/21/210"
 },
 {
+"slug": "vendim-2008-211",
+"path": "vendim/2008/211",
+"kind": "vendim",
+"year": "2008",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për mënyrën e trajtimit të koleksionit të armëve të zjarrit të ish-familjes mbretërore",
+"short": "Mënyrën e trajtimit të koleksionit të armëve të zjarrit të ish-familjes mbretërore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-04",
+"latest": "2010-08-04",
+"portal": "https://qbz.gov.al/eli/vendim/2008/02/21/211"
+},
+{
 "slug": "vendim-2008-213",
 "path": "vendim/2008/213",
 "kind": "vendim",
@@ -42857,6 +43435,23 @@
 "from": "2008-04-09",
 "latest": "2008-04-09",
 "portal": "https://qbz.gov.al/eli/vendim/2008/03/12/295"
+},
+{
+"slug": "vendim-2008-300",
+"path": "vendim/2008/300",
+"kind": "vendim",
+"year": "2008",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë shijak të qarkut të durrësit",
+"short": "Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim,",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-04",
+"latest": "2010-08-04",
+"portal": "https://qbz.gov.al/eli/vendim/2008/03/12/300"
 },
 {
 "slug": "vendim-2008-304",
@@ -51733,6 +52328,23 @@
 "portal": "https://qbz.gov.al/eli/vendim/2008/10/17/1396"
 },
 {
+"slug": "vendim-2008-1397",
+"path": "vendim/2008/1397",
+"kind": "vendim",
+"year": "2008",
+"number": "1397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për hapjen e programeve të studimit, master i nivelit të parë në mësuesi, për arsimin e mesëm, me kohë të plotë, si dhe miratimin e kuotave të pranimit e të tarifës së shkollimit në këto programe, në universitetin e tiranës, në vitin akademik 2008-2009",
+"short": "Hapjen e programeve të studimit, master i nivelit të parë në mësuesi, për arsimin e mesëm, me kohë të plotë, si dhe mira",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-04",
+"latest": "2010-08-04",
+"portal": "https://qbz.gov.al/eli/vendim/2008/10/17/1397"
+},
+{
 "slug": "vendim-2008-1398",
 "path": "vendim/2008/1398",
 "kind": "vendim",
@@ -55286,6 +55898,23 @@
 "portal": "https://qbz.gov.al/eli/udhezim/2009/12/10/1028"
 },
 {
+"slug": "udhezim-2009-1119-3",
+"path": "udhezim/2009/1119-3",
+"kind": "udhezim",
+"year": "2009",
+"number": "1119-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për metodologjinë e vlerësimit të raportit të vlerësimit të ndikimit në mjedis",
+"short": "Metodologjinë e vlerësimit të raportit të vlerësimit të ndikimit në mjedis",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-07",
+"latest": "2010-08-07",
+"portal": "https://qbz.gov.al/eli/udhezim/2009/11/19/3"
+},
+{
 "slug": "urdher-2009-0224-36",
 "path": "urdher/2009/0224-36",
 "kind": "urdher",
@@ -57477,6 +58106,23 @@
 "from": "2009-04-18",
 "latest": "2009-04-18",
 "portal": "https://qbz.gov.al/eli/vendim/2009/03/06/245"
+},
+{
+"slug": "vendim-2009-251",
+"path": "vendim/2009/251",
+"kind": "vendim",
+"year": "2009",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Vendim Nr.251 Dt.12.03.2009",
+"short": "Vendim Nr.251 Dt.12.03.2009",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-07",
+"latest": "2010-08-07",
+"portal": "https://qbz.gov.al/eli/vendim/2009/03/12/251"
 },
 {
 "slug": "vendim-2009-252",
@@ -63087,6 +63733,23 @@
 "from": "2009-12-03",
 "latest": "2009-12-03",
 "portal": "https://qbz.gov.al/eli/vendim/2009/10/28/1085"
+},
+{
+"slug": "vendim-2009-1087",
+"path": "vendim/2009/1087",
+"kind": "vendim",
+"year": "2009",
+"number": "1087",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e planit kombëtar të veprimit për dekadën e përfshirjes së romëve, 2010-2015",
+"short": "Miratimin e planit kombëtar të veprimit për dekadën e përfshirjes së romëve, 2010-2015",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-07",
+"latest": "2010-08-07",
+"portal": "https://qbz.gov.al/eli/vendim/2009/10/28/1087"
 },
 {
 "slug": "vendim-2009-1095",

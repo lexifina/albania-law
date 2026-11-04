@@ -1,6 +1,6 @@
 # Every act in this repository
 
-16004 acts, 20,416 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+16043 acts, 20,464 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktnormativ (46, of which 1 amending acts)
 
@@ -1372,7 +1372,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Për tatimin mbi të ardhurat | [`tatimi-mbi-te-ardhurat/`](tatimi-mbi-te-ardhurat/) | in force | 7 | 2023-05-17 | 2026-01-30 |
 
-## udhezim (1375, of which 35 amending acts)
+## udhezim (1379, of which 35 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1380,6 +1380,7 @@
 | Për kalimin këshillave të qarqeve të ambienteve të punës, pajisjeve dhe numrit të punonjësve të ish-këshillave të rretheve | [`udhezim/2000/1211-5/`](udhezim/2000/1211-5/) | in force | 1 | 2000-12-31 | 2000-12-31 |
 | Për caktimin e strukturës organizative dhe organikës së administratës së këshillit të qarkut | [`udhezim/2000/1211-6/`](udhezim/2000/1211-6/) | in force | 1 | 2000-12-31 | 2000-12-31 |
 | Për pajisjen me targa të mjeteve të trupit diplomatik | [`udhezim/2000/0615-1927/`](udhezim/2000/0615-1927/) | repealed 2006-04-10 | 2 | 2000-07-18 | 2006-04-10 |
+| Për sistemin e vlerësimit të arritjeve vjetore, individuale të nëpunësve civilë | [`udhezim/2000/0707-2/`](udhezim/2000/0707-2/) | in force | 2 | 2003-04-30 | 2007-12-31 |
 | PËR FUNKSIONIMIN E KRRT-ve | [`udhezim/2001/0124-1/`](udhezim/2001/0124-1/) | in force | 1 | 2001-03-16 | 2001-03-16 |
 | PëR VëNIEN Në DISPOZICION TE SUBJEKTEVE ZGJEDHORE Të LISTAVE TE ZGJEDHëSVE PER ZGJEDHJET E KUVENDIT 2001 | [`udhezim/2001/0418-24/`](udhezim/2001/0418-24/) | in force | 1 | 2001-05-04 | 2001-05-04 |
 | Për mënyrën e ngritjes së qendrave të rishikimit të listave të zgjedhësve dhe grupeve treshe të verifikimit | [`udhezim/2001/0423-25/`](udhezim/2001/0423-25/) | in force | 1 | 2001-05-07 | 2001-05-07 |
@@ -1474,8 +1475,10 @@
 | Për procedurën e hedhjes së shortit për caktimin e mandatit të fundit nga listat shumemërore, për zgjedhjet për kuvendin e shqipërisë të vitit 2005 | [`udhezim/2005/0524-12/`](udhezim/2005/0524-12/) | in force | 1 | 2005-06-08 | 2005-06-08 |
 | Për përcaktimin e kushteve teknike të ndërtimit dhe përdorimit të varrezave mbitokësore | [`udhezim/2005/0628-3/`](udhezim/2005/0628-3/) | in force | 1 | 2005-07-08 | 2005-07-08 |
 | Për procedurat e blerjes së banesave në treg nga Enti Kombëtar i Banesave | [`udhezim/2005/0707-4/`](udhezim/2005/0707-4/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+| Mbi mënyrën e operimit në shërbimin taksi | [`udhezim/2005/0207-532/`](udhezim/2005/0207-532/) | in force | 1 | 2005-07-13 | 2005-07-13 |
 | Për kriteret e veçanta të marrjes në punë dhe deklarimin e pasurisë së nëpunësve të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave | [`udhezim/2005/0907-1/`](udhezim/2005/0907-1/) | in force | 1 | 2005-09-26 | 2005-09-26 |
 | Për miratimin e kostos mesatare të ndërtimit të banesave, nga Enti Kombëtar i Banesave, dhe të koeficientit “K” për vitin 2005 | [`udhezim/2005/1123-5/`](udhezim/2005/1123-5/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Për strukturën varietore të fidanëve dhe materialeve të shumëzimit vegjetativ të hardhisë, që prodhohen në vend dhe importohen | [`udhezim/2005/1229-620/`](udhezim/2005/1229-620/) | in force | 1 | 2007-02-22 | 2007-02-22 |
 | Për sistemin e taksave kombetare në republikën e shqipërisë | [`udhezim/2005/0118-3/`](udhezim/2005/0118-3/) | repealed 2006-02-21 | 2 | 2005-01-20 | 2006-02-21 |
 | Për tatimin mbi te ardhurat | [`udhezim/2005/0118-5/`](udhezim/2005/0118-5/) | repealed 2006-02-21 | 2 | 2005-01-20 | 2006-02-21 |
 | Për zbatimin e punimeve të ndërtimit | [`udhezim/2005/0513-2/`](udhezim/2005/0513-2/) | repealed 2025-08-14 | 2 | 2005-05-26 | 2025-08-14 |
@@ -1644,6 +1647,7 @@
 | Për regjistrimin e kandidatëve dhe plotësimin e kuotave të parealizuara në fazën e katërt për ciklin e parë të studimeve me kohë të plotë në institucionet publike të arsimit të lartë, në vitin akademik 2009 - 2010 | [`udhezim/2009/1120-37/`](udhezim/2009/1120-37/) | in force | 1 | 2009-12-31 | 2009-12-31 |
 | Për procedurat e aplikimit dhe të regjistrimit në ciklin e parë të studimeve me kohë të pjesshme dhe edukimin në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2009-2010 | [`udhezim/2009/1125-38/`](udhezim/2009/1125-38/) | in force | 1 | 2009-12-31 | 2009-12-31 |
 | Për përmbajtjen e dokumentacionit për pajisje me leje minerare | [`udhezim/2009/1210-1028/`](udhezim/2009/1210-1028/) | in force | 1 | 2009-12-31 | 2009-12-31 |
+| Për metodologjinë e vlerësimit të raportit të vlerësimit të ndikimit në mjedis | [`udhezim/2009/1119-3/`](udhezim/2009/1119-3/) | in force | 1 | 2010-08-07 | 2010-08-07 |
 | Për paralajmërimin e lojtarëve dhe ekspozimin e lojrave të fatit ndaj institucioneve fetare, shëndetësore dhe arsimore | [`udhezim/2009/0119-6/`](udhezim/2009/0119-6/) | repealed 2017-01-19 | 2 | 2009-01-22 | 2017-01-19 |
 | Për rijetëzimin e monumenteve të kulturës | [`udhezim/2009/0122-504/`](udhezim/2009/0122-504/) | repealed 2009-05-14 | 2 | 2009-02-04 | 2009-05-14 |
 | PëR MëNYRAT dHE PROCEDURAT E RAPORTIMIT TË PROFESIONEVE TË LIRA JoFINANCIARE | [`udhezim/2009/0205-11/`](udhezim/2009/0205-11/) | repealed 2011-09-30 | 2 | 2009-02-20 | 2011-09-30 |
@@ -2752,7 +2756,7 @@
 | Për përcaktimin e procedurave për identifikimin, deklarimin, shqyrtimin dhe menaxhimin e konfliktit të interesit gjatë ushtrimit të veprimtarisë së lobimit | [`udhezim/2026/0925-6/`](udhezim/2026/0925-6/) | in force | 1 | 2026-09-29 | 2026-09-29 |
 | Për përcaktimin e procedurave të njësimit të diplomave të institucioneve arsimore të huaja ose të ngjashme me to, lëshuar nga shkollat private të arsimit të mesëm të lartë, të licencuara në Republikën e Shqipërisë | [`udhezim/2026/0602-9/`](udhezim/2026/0602-9/) | in force | 2 | 2026-06-08 | 2026-09-24 |
 
-## urdher (3105, of which 49 amending acts)
+## urdher (3106, of which 49 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2781,6 +2785,7 @@
 | Për miratimin e primit të sigurimit të detyrueshëm të mbajtësve të mjeteve motorike për përgjegjësinë ndaj palëve të treta | [`urdher/2005/0325-11/`](urdher/2005/0325-11/) | in force | 1 | 2005-04-13 | 2005-04-13 |
 | Për marrjen e masave për ndalimin e këmbimit ilegal valutor | [`urdher/2005/0408-13/`](urdher/2005/0408-13/) | in force | 1 | 2005-04-15 | 2005-04-15 |
 | Për krijimin e grupit qendror për monitorimin e zbatimit të reformës, për heqjen e pengesave administrative, në fushën e investimeve | [`urdher/2005/0527-63/`](urdher/2005/0527-63/) | in force | 1 | 2005-06-06 | 2005-06-06 |
+| Për miratimin e tarifave të shpërblimit të avokatëve për dhënien e ndihmës juridike | [`urdher/2005/0316-1284/`](urdher/2005/0316-1284/) | in force | 1 | 2007-12-27 | 2007-12-27 |
 | Mbi zëvendësimin e lejedrejtimeve të automjeteve, të lëshuara në Republikën e Koresë | [`urdher/2006/0509-41/`](urdher/2006/0509-41/) | in force | 1 | 2006-07-14 | 2006-07-14 |
 | Për miratimin e Statutit të Organizatës së Menaxhimit të Peshkimit (OMP Prespë) | [`urdher/2006/0515-262/`](urdher/2006/0515-262/) | in force | 1 | 2006-07-14 | 2006-07-14 |
 | Për miratimin e manualit të hartimit dhe paraqitjes së materialeve grafike | [`urdher/2006/1030-8/`](urdher/2006/1030-8/) | in force | 1 | 2006-11-20 | 2006-11-20 |
@@ -5862,10 +5867,15 @@
 | Për disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqur në shtetin e Brazilit | [`urdher/2026/1021-1075/`](urdher/2026/1021-1075/) | repealed 2026-11-03 | 2 | 2026-10-29 | 2026-11-03 |
 | Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në shtetin e Danimarkës | [`urdher/2026/1026-1085/`](urdher/2026/1026-1085/) | repealed 2026-11-03 | 2 | 2026-11-03 | 2026-11-03 |
 
-## vendim (10189, of which 299 amending acts)
+## vendim (10223, of which 302 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Për krijimin e bordit të hetimit të aksidenteve dhe të incidenteve ajrore të aviacionit civil | [`vendim/1999/48/`](vendim/1999/48/) | repealed 2010-09-20 | 2 | 2000-05-31 | 2010-09-20 |
+| Për miratimin e kostos mesatare të ndërtimit të banesave nga enti kombëtar i banesave, të vlerave mesatare të tregut të lirë të banesave dhe të koeficientit “k” | [`vendim/1999/214/`](vendim/1999/214/) | in force | 1 | 2000-08-28 | 2000-08-28 |
+| Për miratimin e strategjisë së qeverisë për ristrukturimin e pagave në administratën publike | [`vendim/1999/240/`](vendim/1999/240/) | in force | 1 | 2000-08-28 | 2000-08-28 |
+| Për shtesë fondfi për hidrovoret | [`vendim/1999/633/`](vendim/1999/633/) | in force | 1 | 2004-04-02 | 2004-04-02 |
+| Për akordim fondi për financimin e blerjes së objektit nga Frrok Gjini për tregun e qytetit të Vaut të Dejës | [`vendim/1999/641/`](vendim/1999/641/) | in force | 1 | 2004-04-02 | 2004-04-02 |
 | Për prokurimin e drejtpërdrejtë për prodhimin dhe konfeksionimin e veshjeve, të artikujve për fjetje, saracerie, dhe të kepucëve gjysma, për nevojat e ushtrisë me ndërmarrjen e prodhimit të veshjeve të ushtrisë | [`vendim/2000/39-0203/`](vendim/2000/39-0203/) | in force | 1 | 2000-03-17 | 2000-03-17 |
 | Për miratimin e rregullores së punës, “për funksionimin e komisionit qendror për grumbullimin e armëve në republikën e shqipërisë” | [`vendim/2000/184-0421/`](vendim/2000/184-0421/) | in force | 1 | 2000-05-10 | 2000-05-10 |
 | Për përdorimin e fondit kundërpadi të bashkëfinancimit japonez me projektin asac | [`vendim/2000/1/`](vendim/2000/1/) | in force | 1 | 2000-02-02 | 2000-02-02 |
@@ -5892,11 +5902,14 @@
 | Për përdorimin e numrit të sigurimit shoqëror për identifikimin e votuesve | [`vendim/2000/95/`](vendim/2000/95/) | in force | 1 | 2000-05-09 | 2000-05-09 |
 | Për miratimin e rregullores së përgjithshme të burgjeve | [`vendim/2000/96/`](vendim/2000/96/) | repealed 2009-04-03 | 2 | 2000-04-05 | 2009-04-03 |
 | Për ngushtimin e diferencave të masës së pensioneve | [`vendim/2000/104/`](vendim/2000/104/) | in force | 1 | 2000-03-27 | 2000-03-27 |
+| Për miratimin e marrëveshjes, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së republikës së greqisë, për bashkëpunimin në fushën e turizmit | [`vendim/2000/108/`](vendim/2000/108/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për prokurim të drejtpërdrejtë të fondeve për auditimin e shoqërisë anonime “amc” | [`vendim/2000/114/`](vendim/2000/114/) | in force | 1 | 2000-04-21 | 2000-04-21 |
 | Për miratimin e projektit “ndërtimi i kapaciteteve kombëtare për institutin e sigurimeve shoqërore” | [`vendim/2000/117/`](vendim/2000/117/) | in force | 1 | 2000-04-21 | 2000-04-21 |
 | Për miratimin e kontratës për dhënien me koncesion, të formës “roo”, të uzinës së superfosfatit në laç, ndërmjet ministrisë së ekonomisë publike dhe privatizimit dhe shoqërisë “evertrade, s.a.” | [`vendim/2000/118/`](vendim/2000/118/) | in force | 1 | 2000-04-21 | 2000-04-21 |
+| Për lirim dhe emërim në detyrë | [`vendim/2000/120/`](vendim/2000/120/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për përbërjen dhe procedurat e punësimit të komisionit të posaçëm për shpronësimet | [`vendim/2000/126/`](vendim/2000/126/) | in force | 1 | 2000-04-21 | 2000-04-21 |
 | Për përmbajtjen dhe procedurat e paraqitjes së kërkesës dhe të njoftimit për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë pronë private për interes publik | [`vendim/2000/127/`](vendim/2000/127/) | in force | 1 | 2000-04-21 | 2000-04-21 |
+| Për një shtesë në buxhetin e vitit 2000, miratuar për ministrinë e kulturës, rinisë dhe sporteve | [`vendim/2000/137/`](vendim/2000/137/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për riorganizimin e qendrave studentore | [`vendim/2000/145/`](vendim/2000/145/) | repealed 2003-08-19 | 2 | 2000-04-21 | 2003-08-19 |
 | Për rregullat dhe mënyrën e funksionimit të komisionit të posaçëm për shpronësimet | [`vendim/2000/147/`](vendim/2000/147/) | in force | 1 | 2000-04-21 | 2000-04-21 |
 | Për shpronësimin për interes publik të pasurive të paluajtshme, që zë rehabilitimi i aksit rrugor durrës - rrogozhinë | [`vendim/2000/149/`](vendim/2000/149/) | in force | 1 | 2000-04-21 | 2000-04-21 |
@@ -5908,6 +5921,7 @@
 | Për lejimin e ekspozimit të një vëllimi origjinal, të restauruar të “codex beratinus purpureus” (shekulli vi) | [`vendim/2000/173/`](vendim/2000/173/) | in force | 1 | 2000-04-21 | 2000-04-21 |
 | Për shpalljen ansambël monument- kulture të aksit kryesor dhe qendrës historike të qytetit të tiranës | [`vendim/2000/180/`](vendim/2000/180/) | repealed 2017-04-20 | 2 | 2000-06-21 | 2017-04-20 |
 | Për një shtesë në buxhetin e vitit 2000, të ministrisë së transportit, për riveshjen pjesore, në rrugët tiranë-ndroq-plepa dhe vorë-durrës me procedurën e prokurimit të drejtpërdrejtë | [`vendim/2000/181/`](vendim/2000/181/) | in force | 1 | 2000-04-21 | 2000-04-21 |
+| Për miratimin e marrëveshjes “programi i bashkëpunimit financiar, ndërmjet qeverisë së republikës së shqipërisë dhe qeverisë së spanjës” | [`vendim/2000/192/`](vendim/2000/192/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për shpalljen “dëshmorë të atdheut” | [`vendim/2000/197/`](vendim/2000/197/) | in force | 1 | 2000-05-10 | 2000-05-10 |
 | Për një ndryshim në vendimin nr.166, datë 11.4.1997, të këshillit të ministrave, “për sigurimin dhe administrimin e ndihmave humanitare dhe të emergjencës” | [`vendim/2000/200/`](vendim/2000/200/) | amending act | 1 | 2000-05-10 | 2000-05-10 |
 | Për plotësimin e pjesës shtetërore të kapitalit në bankën italo-shqiptare | [`vendim/2000/201/`](vendim/2000/201/) | in force | 1 | 2000-05-10 | 2000-05-10 |
@@ -5918,6 +5932,7 @@
 | Për shpronësimin dhe kompensimin e tokës bujqësore të familjeve të fshatrave zallmner dhe bulcesh, që përmbyten nga ujëmbledhësi i bovillës | [`vendim/2000/224/`](vendim/2000/224/) | in force | 1 | 2000-05-19 | 2000-05-19 |
 | Për likuidimin në rrugë administrative të ndërmarrjes “fonderia e uzinës mekanike”, tiranë, dhe përballimin e pagesës së punonjësve që mbeten pa punë nga likuidimi i saj | [`vendim/2000/225/`](vendim/2000/225/) | in force | 1 | 2000-05-19 | 2000-05-19 |
 | Për masën e mbulimit të çmimit të barnave që rimbursohen | [`vendim/2000/229/`](vendim/2000/229/) | in force | 1 | 2000-05-19 | 2000-05-19 |
+| Për pranimin në shërbimin civil dhe periudhën e provës | [`vendim/2000/231/`](vendim/2000/231/) | in force | 5 | 2000-06-06 | 2012-05-21 |
 | Për dhënie ndihme familjeve të zonave verilindore, të cilat kanë humbur pjesëtarë të tyre gjatë periudhës së luftës në kosovë, si rezultat i vrasjeve ose i shpërthimit të minave e të predhave në territorin e republikës së shqipërisë | [`vendim/2000/232/`](vendim/2000/232/) | in force | 1 | 2000-06-06 | 2000-06-06 |
 | Për mbështetjen e shërbimit të kontrollit të plehrave kimike nga organet e ruajtjes së rendit | [`vendim/2000/233/`](vendim/2000/233/) | in force | 1 | 2000-06-06 | 2000-06-06 |
 | Për kriteret dhe rregullat e marrjes së mostrave dhe të vlerësimit të plehrave kimike | [`vendim/2000/234/`](vendim/2000/234/) | in force | 1 | 2000-06-06 | 2000-06-06 |
@@ -5932,6 +5947,7 @@
 | Për ndryshimin e emrit zyrtar të institutit të lartë të kulturës fizike “vojo kushi” në akademia e edukimit fizik dhe sporteve“vojo kushi” | [`vendim/2000/266/`](vendim/2000/266/) | repealed 2010-03-04 | 2 | 2000-06-21 | 2010-03-04 |
 | Për ndalimin e përdorimit, magazinimit, prodhimit e të transferimit të minave kundër personit dhe shkatërrimit të tyre | [`vendim/2000/269/`](vendim/2000/269/) | in force | 1 | 2000-06-21 | 2000-06-21 |
 | Për krijimin e institutit të policisë shkencore | [`vendim/2000/278/`](vendim/2000/278/) | in force | 1 | 2000-06-29 | 2000-06-29 |
+| ”për miratimin e rregullores së disiplinës së policisë së shtetit ” | [`vendim/2000/279/`](vendim/2000/279/) | in force | 1 | 2002-03-05 | 2002-03-05 |
 | Për kriteret e blerjes dhe shitjes së apartamenteve nga enti kombëtar i banesave në tregun e lirë të banesave | [`vendim/2000/286/`](vendim/2000/286/) | in force | 1 | 2000-06-29 | 2000-06-29 |
 | Për shpronësimin e godinës aktuale të muzeut etnografik në qytetin e krujës për interesa publike | [`vendim/2000/292/`](vendim/2000/292/) | in force | 1 | 2000-06-29 | 2000-06-29 |
 | Për miratimin e planit të përdorimit të tokës në portin e durrësit | [`vendim/2000/294/`](vendim/2000/294/) | in force | 2 | 2000-06-29 | 2004-05-27 |
@@ -5945,6 +5961,7 @@
 | Për krijimin e komisionit të kontrollit të deklarimit të pasurive të personelit të Administratës Doganore | [`vendim/2000/334/`](vendim/2000/334/) | in force | 1 | 2000-07-18 | 2000-07-18 |
 | Për miratimin e marrëveshjes ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë së Republikës Lindore të Uruguait, për heqjen e vizave për pasaportat diplomatike, zyrtare dhe të shërbimit | [`vendim/2000/337/`](vendim/2000/337/) | in force | 1 | 2000-07-18 | 2000-07-18 |
 | Për lëvizjen paralele dhe ngritjen në detyrë të nëpunësit civil | [`vendim/2000/342/`](vendim/2000/342/) | in force | 1 | 2000-08-24 | 2000-08-24 |
+| Për lirim dhe emërim në detyrë të sekretarit të këshillit të rrethit berat | [`vendim/2000/347/`](vendim/2000/347/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për njësitë e shoqërisë “servcom” sh.a, që nuk do të konsiderohen pjesë të sektorëve me rëndësi të veçantë | [`vendim/2000/348/`](vendim/2000/348/) | in force | 1 | 2000-08-24 | 2000-08-24 |
 | Për organizimin e dosjes së regjistrit të personelit | [`vendim/2000/355/`](vendim/2000/355/) | in force | 1 | 2000-09-04 | 2000-09-04 |
 | Për lirimin nga shërbimi civil | [`vendim/2000/360/`](vendim/2000/360/) | in force | 1 | 2000-08-04 | 2000-08-04 |
@@ -5952,6 +5969,7 @@
 | Për miratimin e kostos mesatare të ndërtimit të banesave nga enti kombëtar i banesave, të vlerave mesatare të tregut të lirë të banesave dhe të koeficientit “k” | [`vendim/2000/362/`](vendim/2000/362/) | in force | 1 | 2000-07-19 | 2000-07-19 |
 | Për trajtimin e punonjësve, që shkurtohen nga zbatimi i marrëveshjes së koncesionit, për uzinën e ferrokromit, elbasan dhe për minierat e kromit përrenjas dhe pojskë | [`vendim/2000/364/`](vendim/2000/364/) | in force | 2 | 2000-07-19 | 2001-03-23 |
 | Për trajtimin e punonjësve që shkurtohen nga ristrukturimi i industrisë së bakrit | [`vendim/2000/365/`](vendim/2000/365/) | in force | 1 | 2000-07-19 | 2000-07-19 |
+| Për miratimin e protokollit të bashkëpunimit, në fushën e navigimit ajror, ndërmjet qeverisë së republikës së shqipërisë, qeverisë së ish-republikës jugosllave të maqedonisë (fyrom) dhe qeverisë së republikës së greqisë | [`vendim/2000/369/`](vendim/2000/369/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për rivendosjen e sistemit të kujdestarëve dhe të rojeve, në objektet monument kulture | [`vendim/2000/373/`](vendim/2000/373/) | in force | 1 | 2000-08-04 | 2000-08-04 |
 | Për rritjen e pagës minimale, në shkallë vendi | [`vendim/2000/374/`](vendim/2000/374/) | repealed 2001-06-29 | 2 | 2000-07-19 | 2001-06-29 |
 | Për rritjen e pagave të gjyqtarëve dhe të prokurorëve | [`vendim/2000/376/`](vendim/2000/376/) | in force | 1 | 2000-07-19 | 2000-07-19 |
@@ -6162,6 +6180,7 @@
 | Për përdorimin e procedurës ”Prokurim i drejtpërdrejtë” për përmirësimin e infrastrukturës së ujitjes e kullimit në pyje dhe kullota | [`vendim/2002/122/`](vendim/2002/122/) | in force | 1 | 2002-05-13 | 2002-05-13 |
 | Për shitjen e materialeve të krijuara nga nxjerrja jashtë përdorimit e disa armëve të këmbësorisë, në administrim të forcave të armatosura | [`vendim/2002/144/`](vendim/2002/144/) | in force | 1 | 2002-05-15 | 2002-05-15 |
 | Për të drejtat dhe detyrat e Inspektoratit të Kontrollit Shtetëror të Farërave dhe Fidanëve | [`vendim/2002/154/`](vendim/2002/154/) | in force | 1 | 2002-05-15 | 2002-05-15 |
+| Për funksionimin, të drejtat dhe detyrat e Entit Shtetëror të Farërave dhe Fidanëve | [`vendim/2002/155/`](vendim/2002/155/) | in force | 2 | 2002-05-15 | 2012-05-04 |
 | Për organizimin dhe procedurat e kryerjes së certifikimit të materialit mbjellës, bimor | [`vendim/2002/156/`](vendim/2002/156/) | in force | 1 | 2002-05-15 | 2002-05-15 |
 | Për kriteret dhe rregullat e përpunimit, ambalazhimit, ruajtjes, etiketimit dhe përmbajtjes së etiketës për materialin mbjellës, bimor | [`vendim/2002/157/`](vendim/2002/157/) | in force | 1 | 2002-05-15 | 2002-05-15 |
 | Për publikimin për herë të dytë të disa objekteve dhe pjesëve të kapitalit shtetëror në shoqëritë me kapital të përbashkët, për të cilat kanë filluar procedurat e privatizimit | [`vendim/2002/190/`](vendim/2002/190/) | in force | 1 | 2002-05-13 | 2002-05-13 |
@@ -6290,6 +6309,7 @@
 | Për identifikimin dhe detyrimet e personave, që marrin shërbim shëndetësor në republikën e shqipërisë | [`vendim/2003/87/`](vendim/2003/87/) | in force | 1 | 2003-03-13 | 2003-03-13 |
 | Për miratimin e statutit të institutit të sigurimeve | [`vendim/2003/88/`](vendim/2003/88/) | repealed 2013-08-02 | 2 | 2003-03-17 | 2013-08-02 |
 | Për fillimin e procedurës së dhënies me koncesion, në formën “rot”, të hidrocentralit vendor, në xhyrë librazhd | [`vendim/2003/90/`](vendim/2003/90/) | in force | 1 | 2003-03-17 | 2003-03-17 |
+| Për disa shtesa dhe ndryshime në vendimin nr. 405, datë 8.1.1996 të këshillit të ministrave “për administrimin e rrjetit rrugor kombëtar dhe rrjetit rural të republikës së shqipërisë” | [`vendim/2003/104/`](vendim/2003/104/) | amending act | 1 | 2012-05-04 | 2012-05-04 |
 | Për limitin e përgjithshëm të organikës në policinë e shtetit | [`vendim/2003/116/`](vendim/2003/116/) | in force | 1 | 2003-03-21 | 2003-03-21 |
 | Për njësimin e funksioneve në policinë e shtetit me funksionet përkatëse në administratën publike | [`vendim/2003/117/`](vendim/2003/117/) | in force | 1 | 2003-03-21 | 2003-03-21 |
 | Për krijimin e Institutit të mjekësisë ligjore | [`vendim/2003/120/`](vendim/2003/120/) | repealed 2020-09-09 | 2 | 2003-03-21 | 2020-09-09 |
@@ -6299,6 +6319,7 @@
 | Për vërtetimin dhe legalizimin e dokumenteve të lëshuara në republikën e shqipërisë, për përdorim jashtë vendit dhe të dokumenteve të huaja, për përdorim brenda vendit | [`vendim/2003/134/`](vendim/2003/134/) | in force | 2 | 2003-03-21 | 2003-11-10 |
 | Për përcaktimin e pagesës vjetore për mbajtjen e së drejtës Të seleksionerit të bimëve | [`vendim/2003/141/`](vendim/2003/141/) | in force | 1 | 2003-03-21 | 2003-03-21 |
 | Për ndryshimin e përgjegjësisë së administrimit të porteve të peshkimit në vlorë dhe në sarandë dhe për miratimin e marrëveshjes tip, të kalimit në përdorim të porteve të peshkimit tek organizatat e menaxhimit të peshkimit (omp) | [`vendim/2003/151/`](vendim/2003/151/) | amending act | 1 | 2003-03-25 | 2003-03-25 |
+| Për miratimin e marrëveshjes së koncesionit të formës “rot”, ndërmjet ministrisë së ekonomisë e ministrisë së industrisë dhe të energjetikës nga njëra anë dhe shoqërisë “emikel” shpk, për hidrocentralet vendore, lenie, çorovodë, tuçep | [`vendim/2003/152/`](vendim/2003/152/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për kriteret dhe procedurat e vlerësimit dhe të shitjes së trojeve të ndërmarjeve shtetërore që i nënshtrohen privatizimit ose transformimit të tyre në shoqëri tregtare | [`vendim/2003/169/`](vendim/2003/169/) | repealed 2006-11-10 | 2 | 2003-03-25 | 2006-11-10 |
 | Për rregullat dhe veprimet e zyrave të gjendjes civile dhe për detyrimin e shtetasve për transferimin e të dhënave të gjendjes civile | [`vendim/2003/184/`](vendim/2003/184/) | repealed 2009-12-31 | 2 | 2003-03-25 | 2009-12-31 |
 | Për shpronësimin për interes publik të pasurive të paluajtshme, që prEken nga ndërtimi i segmentit rrugor Librazhd-Qukës, në qarkun e Elbasanit | [`vendim/2003/187/`](vendim/2003/187/) | in force | 1 | 2003-03-25 | 2003-03-25 |
@@ -6378,6 +6399,7 @@
 | Për shpronësimin për interes publik të pasurive të paluajtshme, që preken nga ndërtimi i segmentit rrugor valias-qerrekë-rinas, si dhe të pronarëve, pasuritë e të cilëve ndodhen brenda rrethimit të aeroportit “nënë tereza” | [`vendim/2003/503/`](vendim/2003/503/) | in force | 1 | 2003-07-31 | 2003-07-31 |
 | Për ndërtimin me koncesion të autostradës Rrogozhinë-Pezë-Degëzim Tiranë-Vorë-Thumanë dhe caktimin e organit shtetëror të autorizuar | [`vendim/2003/506/`](vendim/2003/506/) | repealed 2004-12-28 | 2 | 2003-07-31 | 2004-12-28 |
 | Për miratimin e marrëveshjes ndërmjet qeverisë së Republikës të Shqipërisë dhe qeverisë së republikës Të bullgarisë për bashkëpunimin në fushën e shëndetësisë | [`vendim/2003/508/`](vendim/2003/508/) | in force | 1 | 2003-07-31 | 2003-07-31 |
+| Për miratimin e marrëveshjes, ndërmjet republikës së shqipërisë dhe mbretërisë së spanjës, për nxitjen dhe mbrojtjen e ndërsjellë të investimeve | [`vendim/2003/510/`](vendim/2003/510/) | in force | 1 | 2012-05-04 | 2012-05-04 |
 | Për kalimin e varësisë së tipografisë ushtarake SHA nga ministria e mbrojtjes, ministrisë së pushtetit vendor dhe të decentralizimit | [`vendim/2003/516/`](vendim/2003/516/) | in force | 1 | 2003-07-31 | 2003-07-31 |
 | Për miratimin e strategjisë së zhvillimit të turizmit në Shqipëri | [`vendim/2003/517/`](vendim/2003/517/) | in force | 1 | 2003-08-06 | 2003-08-06 |
 | Për miratimin e ndryshimit të formës së organizimit dhe të statutit të qendrës “ecat tirana” dhe për kontributin e qeverisë shqiptare për këtë qendër | [`vendim/2003/520/`](vendim/2003/520/) | repealed 2012-11-01 | 2 | 2003-08-11 | 2012-11-01 |
@@ -6480,6 +6502,7 @@
 | Për shpronësimin për interes publik të pasurive të paluajtshme, që preken nga ndërtimi i qendrës kombëtare stërvitore bazë (QKSB) të forcave të armatosura të republikës së shqipërisë në Bunavi, Vlorë | [`vendim/2004/54/`](vendim/2004/54/) | in force | 1 | 2004-02-06 | 2004-02-06 |
 | Për hapjen e vendkalimit të ri kufitar NË dobrunë, has në kufirin shtetëror, tokësor të republikës së shqipërisë me kosovën | [`vendim/2004/56/`](vendim/2004/56/) | in force | 1 | 2004-02-06 | 2004-02-06 |
 | Për organizimin e drejtorisë së sigurimit të informacionit të klasifikuar | [`vendim/2004/58/`](vendim/2004/58/) | in force | 1 | 2004-02-06 | 2004-02-06 |
+| Për miratimin e rregullores së personelit të Gardës së Republikës të Shqipërisë | [`vendim/2004/66/`](vendim/2004/66/) | in force | 1 | 2005-10-07 | 2005-10-07 |
 | Për miratimin e rregullave për indeksimin e pagave | [`vendim/2004/74/`](vendim/2004/74/) | in force | 1 | 2004-02-24 | 2004-02-24 |
 | Për miratimin e strukturës dhe të nivelit të pagave të punonjësve të drejtorisë së akreditimit | [`vendim/2004/77/`](vendim/2004/77/) | in force | 1 | 2004-02-25 | 2004-02-25 |
 | Për pagesën e mjekëve, anëtarë të komisioneve mjekësore të kontrollit të aftësive për shërbimin ushtarak | [`vendim/2004/80/`](vendim/2004/80/) | in force | 1 | 2004-02-25 | 2004-02-25 |
@@ -6526,6 +6549,7 @@
 | Për miratimin e marrëveshjes, ndërmjet qeverisë së republikës të shqipërisë dhe qeverisë së republikës federative të brazilit, për heqjen e pjesshme të vizave për mbajtësit e pasaportave diplomatike, zyrtare ose të shërbimit | [`vendim/2004/272/`](vendim/2004/272/) | in force | 1 | 2004-05-19 | 2004-05-19 |
 | Për ngritjen e bordit të kullimit në zonën e shërbimit të kullimit të tiranës | [`vendim/2004/279/`](vendim/2004/279/) | repealed 2010-05-26 | 2 | 2004-05-19 | 2010-05-26 |
 | Për ngritjen e bordit të kullimit në zonën e shërbimit të kullimit të korçës | [`vendim/2004/281/`](vendim/2004/281/) | repealed 2010-05-26 | 2 | 2004-07-15 | 2010-05-26 |
+| Për ngritjen e bordit të kullimit në zonën e shërbimit të kullimit Krujë-Kurbin | [`vendim/2004/284/`](vendim/2004/284/) | repealed 2010-06-06 | 2 | 2004-05-19 | 2010-06-06 |
 | Për lejimin e institucioneve buxhetore të përdorin procedurën “prokurim i drejtpërdrejtë” për sigurimin e detyrueshëm të mjeteve të tyre motorike për përgjegjësitë ndaj palëve të treta | [`vendim/2004/287/`](vendim/2004/287/) | in force | 1 | 2004-05-19 | 2004-05-19 |
 | Për miratimin e strategjisë Kombëtare të menaxhimit të zjarreve në pyje dhe kullota | [`vendim/2004/290/`](vendim/2004/290/) | in force | 1 | 2004-05-19 | 2004-05-19 |
 | Për miratimin e strategjisë Kombëtare antidrogë 2004-2010 | [`vendim/2004/292/`](vendim/2004/292/) | in force | 1 | 2004-05-21 | 2004-05-21 |
@@ -6925,6 +6949,7 @@
 | Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, në komunën Dajç të qarkut të Shkodrës | [`vendim/2006/13-0113/`](vendim/2006/13-0113/) | in force | 1 | 2006-01-24 | 2006-01-24 |
 | Për ndryshimin dhe kalimin e përgjegjësisë së administrimit të një objekti të portit të peshkimit, Shëngjin, nga Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministrisë së Brendshme | [`vendim/2006/14-0113/`](vendim/2006/14-0113/) | amending act | 1 | 2006-01-24 | 2006-01-24 |
 | Për financimin me një grant, për një periudhë njëvjeçare të Urdhrit të Farmacistëve | [`vendim/2006/93-0215/`](vendim/2006/93-0215/) | in force | 1 | 2006-02-23 | 2006-02-23 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashkisë divjakë të qarkut të fierit | [`vendim/2006/499-1/`](vendim/2006/499-1/) | in force | 1 | 2007-05-03 | 2007-05-03 |
 | Për miratimin e marrëveshjes me shkëmbim notash, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Kosta-Rikës, për heqjen e vizave për mbajtësit e pasaportave diplomatike, zyrtare dhe të shërbimit | [`vendim/2006/6/`](vendim/2006/6/) | in force | 1 | 2006-01-24 | 2006-01-24 |
 | Për miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës të Qipros, për asistencën e ndërsjellë administrative, për zbatimin e saktë të legjislacionit doganor dhe për parandalimin, hetimin dhe luftën ndaj shkeljeve doganore | [`vendim/2006/7/`](vendim/2006/7/) | in force | 1 | 2006-01-24 | 2006-01-24 |
 | Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, në komunën Kolsh të qarkut të Lezhës | [`vendim/2006/9/`](vendim/2006/9/) | in force | 1 | 2006-01-24 | 2006-01-24 |
@@ -7003,6 +7028,7 @@
 | Për një shtesë fondi në buxhetin e vitit 2006, miratuar për Komisionin Qendror të Zgjedhjeve, për hapjen e kutive të votimit, të përdorura në zgjedhjet për Kuvendin e Republikës së Shqipërisë, korrik 2005 | [`vendim/2006/325/`](vendim/2006/325/) | in force | 1 | 2006-06-12 | 2006-06-12 |
 | Për disa ndryshime në vendimin nr.511, datë 24.10.2002 të Këshillit të Ministrave “Për kohëzgjatjen e punës dhe të pushimit në institucionet shtetërore”, të ndryshuar | [`vendim/2006/328/`](vendim/2006/328/) | amending act | 1 | 2006-06-12 | 2006-06-12 |
 | Për përballimin e shpenzimeve të komisionit bankar për veprimet për shpërndarjen e vlerave, kreditorëve të shoqërive huamarrëse | [`vendim/2006/329/`](vendim/2006/329/) | in force | 1 | 2006-06-12 | 2006-06-12 |
+| Për disa ndryshime në rregulloren për zbatimin e kodit rrugor të republikës së shqipërisë, të miratuar me vendimin nr.153, datë 7.4.2000 të këshillit të ministrave | [`vendim/2006/331/`](vendim/2006/331/) | amending act | 1 | 2010-06-06 | 2010-06-06 |
 | Për pronësinë dhe administrimin e aeroportit të Kukësit | [`vendim/2006/343/`](vendim/2006/343/) | in force | 1 | 2006-06-15 | 2006-06-15 |
 | Për hapjen e vendkalimit të ri kufitar, Shkodër (Ura e Bunës), në kufirin shtetëror liqenor të Republikës së Shqipërisë me Republikën e Malit të Zi | [`vendim/2006/350/`](vendim/2006/350/) | in force | 1 | 2006-06-28 | 2006-06-28 |
 | Për lejimin e hyrjes dhe të qëndrimit të përkohshëm në territorin e Republikës së Shqipërisë të trupave britanike, pjesëmarrëse në stërvitjen e përbashkët “Albania Express 06” | [`vendim/2006/384/`](vendim/2006/384/) | in force | 1 | 2006-07-01 | 2006-07-01 |
@@ -7027,7 +7053,9 @@
 | Për miratimin e strategjisë së zhvillimit të industrisë minerare | [`vendim/2006/455/`](vendim/2006/455/) | repealed 2011-08-11 | 2 | 2006-07-14 | 2011-08-11 |
 | Vendim i KM nr.459, datë 21.6.2006 Për rritjen e pensioneve suplementare të ushtarakëve, të punonjësve të Policisë së Shtetit dhe të trajtimeve të veçanta financiare | [`vendim/2006/459/`](vendim/2006/459/) | in force | 1 | 2006-07-14 | 2006-07-14 |
 | Për caktimin e datës së krijimit të Shërbimit Sekret të Shtetit Shqiptar | [`vendim/2006/486/`](vendim/2006/486/) | in force | 1 | 2006-07-28 | 2006-07-28 |
+| Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashkisë divjakë të qarkut të fierit | [`vendim/2006/499/`](vendim/2006/499/) | in force | 2 | 2010-06-06 | 2021-06-04 |
 | Për miratimin e statutit të Agjencisë Shqiptare të Biznesit dhe Investimeve | [`vendim/2006/514/`](vendim/2006/514/) | in force | 1 | 2006-08-05 | 2006-08-05 |
+| Për transferimin e sipërfaqes 91 m2, komponente e pronës nr.1095 “Dega e mobilizim-rekrutimit”, Kuçovë, nga Ministria e Mbrojtjes në pronësi të bashkisë së qytetit Kuçovë, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003 të Këshillit të Ministrave | [`vendim/2006/522/`](vendim/2006/522/) | amending act | 1 | 2010-06-06 | 2010-06-06 |
 | Për përballimin e shpenzimeve të operacionit për gjetjen e helikopterit presidencial “ Bell 222”, të rënë në detin Adriatik | [`vendim/2006/523/`](vendim/2006/523/) | in force | 1 | 2006-08-05 | 2006-08-05 |
 | Për emërimin në detyrë të tre anëtarëve të Entit Rregullator të Ujit (ERRU) | [`vendim/2006/524/`](vendim/2006/524/) | in force | 1 | 2006-08-11 | 2006-08-11 |
 | Për caktimin e anëtarëve të Komisionit Ndërkombëtar të Vlerësimit për tenderin e hapur ndërkombëtar, për ndërtimin, me ritme të përshpejtuara, të segmentit rrugor Rrëshen-Kalimash, pjesë e autostradës Durrës-Kukës-Morinë | [`vendim/2006/526/`](vendim/2006/526/) | in force | 1 | 2006-08-11 | 2006-08-11 |
@@ -7040,6 +7068,7 @@
 | Për vendosjen e marrëdhënieve diplomatike me Republikën Islamike të Afganistanit | [`vendim/2006/556/`](vendim/2006/556/) | in force | 1 | 2006-08-25 | 2006-08-25 |
 | Për organizimin dhe funksionimin e Agjencisë së Kthimit dhe Kompensimit të Pronave | [`vendim/2006/566/`](vendim/2006/566/) | repealed 2010-05-13 | 2 | 2006-08-23 | 2010-05-13 |
 | Për kalimin e disa mjediseve në përgjegjësi administrimi të Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit, për Agjencinë e Legalizimit, Urbanizimit dhe Integrimit të zonave/ndërtimeve informale (ALUIZNI) | [`vendim/2006/568/`](vendim/2006/568/) | repealed 2021-03-30 | 2 | 2006-08-30 | 2021-03-30 |
+| Për miratimin e listës paraprake të pronave të paluajtshme, publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës hysgjokaj të qarkut të fierit | [`vendim/2006/573/`](vendim/2006/573/) | in force | 1 | 2010-06-06 | 2010-06-06 |
 | Vendim Nr.574 Dt.23.08.2006 | [`vendim/2006/574/`](vendim/2006/574/) | in force | 1 | 2006-08-30 | 2006-08-30 |
 | Vendim Nr.575 Dt.23.08.2006 | [`vendim/2006/575/`](vendim/2006/575/) | in force | 1 | 2006-08-30 | 2006-08-30 |
 | Vendim Nr.576 Dt.23.08.2006 | [`vendim/2006/576/`](vendim/2006/576/) | in force | 1 | 2006-08-30 | 2006-08-30 |
@@ -7098,15 +7127,18 @@
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim, të komunës Fushë-Bulqizë të qarkut të Dibrës | [`vendim/2006/787/`](vendim/2006/787/) | in force | 1 | 2006-12-11 | 2006-12-11 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës Gradishtë të qarkut të Fierit | [`vendim/2006/788/`](vendim/2006/788/) | in force | 1 | 2006-12-11 | 2006-12-11 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë Delvinë të qarkut të Vlorës | [`vendim/2006/789/`](vendim/2006/789/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Për një shtesë fondi në buxhetin e vitit 2006, miratuar për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, për mbulimin e shpenzimeve për organizimin e veprimtarive të Crans Montana Forum | [`vendim/2006/795/`](vendim/2006/795/) | in force | 1 | 2010-06-06 | 2010-06-06 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor Milot-Rrëshen, pjesë e korridorit Durrës-Morinë | [`vendim/2006/802/`](vendim/2006/802/) | in force | 1 | 2006-12-18 | 2006-12-18 |
 | Për lejimin e kalimit transit të disa trupave ushtarake sllovene, përmes territorit të Republikës së Shqipërisë | [`vendim/2006/803/`](vendim/2006/803/) | in force | 1 | 2006-12-29 | 2006-12-29 |
 | Për miratimin e Metodologjisë së Auditimit Financiar | [`vendim/2006/806/`](vendim/2006/806/) | in force | 1 | 2006-12-19 | 2006-12-19 |
 | Për miratimin e çmimeve të trojeve, të përcaktuara në hartën përkatëse, për qytetin e Tiranës dhe rrethin e Kavajës | [`vendim/2006/816/`](vendim/2006/816/) | in force | 1 | 2006-12-30 | 2006-12-30 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që i trasferohen, në pronësi ose në përdorim, komunës cukalat, që qarkut të beratit | [`vendim/2006/820/`](vendim/2006/820/) | in force | 1 | 2010-06-06 | 2010-06-06 |
 | Për miratimin e standardeve të shërbimeve të përkujdesit shoqëror për të moshuarit në qendrat rezidenciale | [`vendim/2006/821/`](vendim/2006/821/) | in force | 1 | 2006-12-31 | 2006-12-31 |
 | Për miratimin e standardeve të shërbimeve të përkujdesit shoqëror për personat me aftësi të kufizuar në qendrat rezidenciale dhe ditore | [`vendim/2006/822/`](vendim/2006/822/) | in force | 1 | 2006-12-31 | 2006-12-31 |
 | Për miratimin e standardeve të shërbimeve të përkujdesit shoqëror për të moshuarit në qendrat ditore | [`vendim/2006/823/`](vendim/2006/823/) | in force | 1 | 2006-12-31 | 2006-12-31 |
 | Për dhënie fondi ndihmë partisë shqiptare “Atdheu” | [`vendim/2006/833/`](vendim/2006/833/) | in force | 1 | 2006-12-29 | 2006-12-29 |
 | Për pagesën e anëtarëve, në përbërje të komisioneve për vlerësimin, miratimin dhe certifikimin e teksteve shkollore dhe të materialeve të tjera ndihmëse, në sistemin arsimor parauniversitar | [`vendim/2006/841/`](vendim/2006/841/) | in force | 2 | 2006-12-29 | 2007-03-02 |
+| Për një shpërblim të veçantë të punonjësve të qendrës kombëtare arsimore të vlerësimit dhe provimeve | [`vendim/2006/849/`](vendim/2006/849/) | in force | 1 | 2010-06-06 | 2010-06-06 |
 | Për transferim fondi nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve UNESCO-s, për restaurimin e shtëpisë së Ismail Kadaresë, “Monument Kulture”, në kuadër të financimit të projektit të UNESCO-s “Restaurimi i qendrës historike të qytetit të Gjirokastrës” | [`vendim/2006/853/`](vendim/2006/853/) | in force | 1 | 2006-12-30 | 2006-12-30 |
 | Për miratimin e planit kombëtar të veprimit për heqjen nga përdorimi dhe eliminimin e ndotësve organikë, të qëndrueshëm | [`vendim/2006/860/`](vendim/2006/860/) | repealed 2018-09-07 | 2 | 2006-12-31 | 2018-09-07 |
 | Për lejimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të përdorë procedurën “Prokurim i drejtpërdrejtë” me Korporatën Ndërkombëtare Financiare (IFC), për shërbime konsulence, për realizimin e procesit të ristrukturimit dhe privatizimit të operatorit të sistemit të shpërndarjes (OSSH) të energjisë | [`vendim/2006/863/`](vendim/2006/863/) | in force | 1 | 2006-12-31 | 2006-12-31 |
@@ -7319,6 +7351,7 @@
 | Për dhënie fondi Kryqit të Kuq Shqiptar, për promovimin e dhurimit vullnetar të gjakut | [`vendim/2007/671/`](vendim/2007/671/) | in force | 1 | 2007-10-26 | 2007-10-26 |
 | Për shpalljen, me sipËrfaqe të zgjeruar, të ekosistemit natyror divjakë-Karavasta “Park kombëtar” | [`vendim/2007/687/`](vendim/2007/687/) | in force | 1 | 2007-10-30 | 2007-10-30 |
 | Për ndryshimin e përgjegjësisë së administrimit të pronës nr.132 “Ish-reparti ushtarak 8830”, Tiranë, nga ministria e mbrojtjes te ministria e brendshme, dhe për një ndryshim në vendimn nr.515, datë 18.7.2003, të këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes” | [`vendim/2007/693/`](vendim/2007/693/) | amending act | 1 | 2007-11-02 | 2007-11-02 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim, të bashkisë vau i dejës të qarkut të shkodrës | [`vendim/2007/696/`](vendim/2007/696/) | in force | 1 | 2010-07-23 | 2010-07-23 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të bashkisë rrëshen të qarkut të lezhës | [`vendim/2007/697/`](vendim/2007/697/) | in force | 1 | 2007-11-08 | 2007-11-08 |
 | Për transferimin në pronësi të disa bashkive të pronave, të cilat janë në përgjegjësi administrimi të Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror, dhe për disa ndryshime në vendimin nr.60, datë 1.2.2006 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave shtetërore, të cilat i kalojnë në përgjegjësi administrimi Shërbimit Social Shtetëror” | [`vendim/2007/710/`](vendim/2007/710/) | amending act | 1 | 2007-11-08 | 2007-11-08 |
 | Për miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim, të bashkisë ura vajgurore të qarkut të beratit | [`vendim/2007/720/`](vendim/2007/720/) | in force | 1 | 2007-11-13 | 2007-11-13 |
@@ -7373,6 +7406,7 @@
 | Për miratimin, në parim, të marrëveshjes, ndërmjet këshillit të ministrave të republikës së shqipërisë e korporatës elektroenergjetike shqiptare (KESH) dhe qeverisë së konfederatës zvicerane, për dhënien e asistencës financiare (grant), për kryerjen e studimit të fizibilitetit, për investimet për sigurinË e digave, në kaskadat e lumenjve, drin dhe Mat | [`vendim/2007/828/`](vendim/2007/828/) | in force | 1 | 2007-12-17 | 2007-12-17 |
 | Për një shtesë fondi në buxhetin e vitit 2007, miratuar për disa bashki | [`vendim/2007/829/`](vendim/2007/829/) | in force | 1 | 2007-12-17 | 2007-12-17 |
 | Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga rehabilitimi i rrëshqitjes “guri renzit”, librazhd | [`vendim/2007/842/`](vendim/2007/842/) | in force | 1 | 2007-12-17 | 2007-12-17 |
+| Për dhënie fondi ndihme partisë së të drejtave të mohuara e re | [`vendim/2007/845/`](vendim/2007/845/) | in force | 1 | 2010-07-23 | 2010-07-23 |
 | Për miratimin e strategjisë ndërsektoriale të mjedisit | [`vendim/2007/847/`](vendim/2007/847/) | in force | 1 | 2007-12-22 | 2007-12-22 |
 | Për kriteret dhe procedurat e shitjes së trojeve të ndërmarrjeve shtetërore apo të objekteve shtetërore, të veçuara, të privatizuara | [`vendim/2007/850/`](vendim/2007/850/) | repealed 2009-02-09 | 2 | 2007-12-31 | 2009-02-09 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës “transballkanike”, vlorë | [`vendim/2007/857/`](vendim/2007/857/) | in force | 1 | 2007-12-21 | 2007-12-21 |
@@ -7486,6 +7520,7 @@
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës xhafzotaj të qarkut të durrësit | [`vendim/2008/203/`](vendim/2008/203/) | in force | 1 | 2008-03-07 | 2008-03-07 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, të cilat preken nga përmirësimi i unazës së re, në bashkinë e tiranës | [`vendim/2008/206/`](vendim/2008/206/) | in force | 1 | 2008-03-03 | 2008-03-03 |
 | Për lejimin e kalimit transit të një kontingjenti ushtarak slloven përmes territorit të republikës së shqipërisë | [`vendim/2008/210/`](vendim/2008/210/) | in force | 1 | 2008-03-07 | 2008-03-07 |
+| Për mënyrën e trajtimit të koleksionit të armëve të zjarrit të ish-familjes mbretërore | [`vendim/2008/211/`](vendim/2008/211/) | in force | 1 | 2010-08-04 | 2010-08-04 |
 | Për përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocentralit “klos”, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2008/213/`](vendim/2008/213/) | in force | 1 | 2008-03-07 | 2008-03-07 |
 | Për përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocentralit “bishnica 2”, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2008/214/`](vendim/2008/214/) | in force | 1 | 2008-03-07 | 2008-03-07 |
 | Për përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocentralit “gur shpat”, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2008/215/`](vendim/2008/215/) | in force | 1 | 2008-03-07 | 2008-03-07 |
@@ -7535,6 +7570,7 @@
 | Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna golem të qarkut të fierit | [`vendim/2008/293/`](vendim/2008/293/) | in force | 1 | 2008-04-09 | 2008-04-09 |
 | Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna kutë, të qarkut të fierit | [`vendim/2008/294/`](vendim/2008/294/) | in force | 1 | 2008-04-09 | 2008-04-09 |
 | Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna otllak, të qarkut të beratit | [`vendim/2008/295/`](vendim/2008/295/) | in force | 1 | 2008-04-09 | 2008-04-09 |
+| Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë shijak të qarkut të durrësit | [`vendim/2008/300/`](vendim/2008/300/) | in force | 1 | 2010-08-04 | 2010-08-04 |
 | PëR MIRATIMIN E FONDIT TË SHPENZIMEVE, PËR VITIN 2008, PËR ENTIN RREGULLATOR TË TELEKOMUNIKACIONEVE | [`vendim/2008/304/`](vendim/2008/304/) | in force | 1 | 2008-04-11 | 2008-04-11 |
 | Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna tërbuf të qarkut të fierit | [`vendim/2008/308/`](vendim/2008/308/) | in force | 1 | 2008-04-11 | 2008-04-11 |
 | Për përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocentralit “sllabinjë 2”, dhe miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë | [`vendim/2008/309/`](vendim/2008/309/) | in force | 1 | 2008-04-11 | 2008-04-11 |
@@ -8057,6 +8093,7 @@
 | Për shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i shkollës së mesme dhe të konviktit, në qytetin e peshkopisë, dibër | [`vendim/2008/1393/`](vendim/2008/1393/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe bashkimit të shoqërive “titan” shpk dhe “osmani” shpk, për ndërtimin e hidrocentraleve “bishnica 1” dhe “bishnica 2” | [`vendim/2008/1395/`](vendim/2008/1395/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , tregtisë dhe energjetikës dhe shoqërisë “atlas” sha, për ndërtimin e hidrocentraleve “holta kabash” dhe “holta poroçan | [`vendim/2008/1396/`](vendim/2008/1396/) | in force | 1 | 2008-10-29 | 2008-10-29 |
+| Për hapjen e programeve të studimit, master i nivelit të parë në mësuesi, për arsimin e mesëm, me kohë të plotë, si dhe miratimin e kuotave të pranimit e të tarifës së shkollimit në këto programe, në universitetin e tiranës, në vitin akademik 2008-2009 | [`vendim/2008/1397/`](vendim/2008/1397/) | in force | 1 | 2010-08-04 | 2010-08-04 |
 | Për faljen e detyrimeve të prapambetura të taksës vjetore të qarkullimit rrugor të mjeteve dhe të taksës së regjistrimit të përvitshëm të tyre | [`vendim/2008/1398/`](vendim/2008/1398/) | in force | 1 | 2008-10-29 | 2008-10-29 |
 | Për miratimin e rregullave të zhvillimit të ankandit publik, për shitjen e paketës së aksioneve të “Albanian Mobile Communications” Sha, që ka mbetur pas transferimit të paketës tek investitorët Strategjikë, tek ish-pronarët e Truallit dhe te Punonjësit e kësaj shoqërie | [`vendim/2008/1402/`](vendim/2008/1402/) | in force | 1 | 2008-11-13 | 2008-11-13 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës surroj të qarkut të kukësit | [`vendim/2008/1409/`](vendim/2008/1409/) | in force | 1 | 2008-11-10 | 2008-11-10 |
@@ -8270,6 +8307,7 @@
 | Për miratimin e listës së llojeve të huaja invazive dhe për përcaktimin e procedurave, për ndalimin dhe/ose futjen e tyre në pikat doganore të vendit | [`vendim/2009/241/`](vendim/2009/241/) | repealed 2021-08-04 | 2 | 2009-04-14 | 2021-08-04 |
 | Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë krujë, të qarkut të durrësit | [`vendim/2009/242/`](vendim/2009/242/) | in force | 2 | 2009-04-18 | 2026-01-23 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës dhivër, të qarkut të vlorës | [`vendim/2009/245/`](vendim/2009/245/) | in force | 1 | 2009-04-18 | 2009-04-18 |
+| Vendim Nr.251 Dt.12.03.2009 | [`vendim/2009/251/`](vendim/2009/251/) | in force | 1 | 2010-08-07 | 2010-08-07 |
 | PëR MIRATIMIN E LISTËS PARAPRAKE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM, TË BASHKISË BELSH, TË QARKUT TË ELBASANIT | [`vendim/2009/252/`](vendim/2009/252/) | in force | 1 | 2009-04-18 | 2009-04-18 |
 | PëR MIRATIMIN E LISTËS PARAPRAKE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM, TË KOMUNËS ÇLIRIM, TË QARKUT TË KORçËS | [`vendim/2009/253/`](vendim/2009/253/) | in force | 1 | 2009-04-18 | 2009-04-18 |
 | PëR MIRATIMIN E LISTËS PARAPRAKE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM, TË KOMUNËS ZALL-HERR, TË QARKUT TË TIRANËS | [`vendim/2009/254/`](vendim/2009/254/) | in force | 1 | 2009-04-18 | 2009-04-18 |
@@ -8600,6 +8638,7 @@
 | Për ngritjen e qendrës së mbyllur dhe për miratimin e rregullores së organizimit e të funksionit të saj | [`vendim/2009/1083/`](vendim/2009/1083/) | in force | 1 | 2009-12-04 | 2009-12-04 |
 | Për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës zall-bastar të qarkut të tiranës | [`vendim/2009/1084/`](vendim/2009/1084/) | in force | 1 | 2009-12-03 | 2009-12-03 |
 | Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës orosh të qarkut të lezhës | [`vendim/2009/1085/`](vendim/2009/1085/) | in force | 1 | 2009-12-03 | 2009-12-03 |
+| Për miratimin e planit kombëtar të veprimit për dekadën e përfshirjes së romëve, 2010-2015 | [`vendim/2009/1087/`](vendim/2009/1087/) | in force | 1 | 2010-08-07 | 2010-08-07 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës “Unaza-Shkodër” | [`vendim/2009/1095/`](vendim/2009/1095/) | in force | 1 | 2009-12-08 | 2009-12-08 |
 | Për miratimin e rregullit teknik “Për kërkesat thelbësore dhe vlerësimin e konformitetit të pajisjeve të mbrojtjes personale” | [`vendim/2009/1096/`](vendim/2009/1096/) | in force | 1 | 2009-12-09 | 2009-12-09 |
 | Për lejimin e kalimit tranzit të dy autokolonave ushtarake sllovene, përmes territorit të Republikës së shqipërisë | [`vendim/2009/1098/`](vendim/2009/1098/) | in force | 1 | 2009-12-09 | 2009-12-09 |

@@ -46,8 +46,11 @@ held back, not published, when any of these is true (the reason goes to the repo
   line of the list that holds it ("Shfuqizohen: a) ..."), not in a title or a plan of draft acts;
 - two QBZ records give the same kind, number and year (day, for instructions and orders);
 - its issue's day cannot be confirmed: QBZ's record is missing or before the adoption or more than 120 days after it,
-  and the issue's own masthead (page 1 of its PDF) does not print a full day, the issue's contents do not list the act,
-  the issue is an "Ekstra" one (some print acts left unpublished at the time) or the act predates the 1998 Constitution;
+  and neither the issue's own masthead (page 1 of its PDF: a full day) nor, where the masthead prints only a month or
+  the issue is an "Ekstra" one (some print acts left unpublished at the time), its colophon ("Doli nga shtypi më
+  D.M.YYYY": QBZ's own day, or a day in the masthead's month) dates it; or the issue's contents do not list the act;
+  or the act predates the 1998 Constitution; or it was printed that way more than 120 days after adoption or in an
+  Ekstra issue and its in-force clause is a bare "menjëherë" rather than counting from publication or naming a day;
 - the text's own header does not give the record's number and date, or carries QBZ's amendment notes;
 - its in-force clause is missing or not one of the forms above;
 - (laws) the repository already holds it under its earlier name (ligji-<number>-<year>), or it is an annual budget
@@ -492,23 +495,35 @@ def issue_day(cache: Path, a: dict) -> tuple[str, str]:
     first = re.sub(r'\s+', ' ', doc[0].get_text()).strip()
     cut = re.search(r'P\s*Ë\s*R\s*M\s*B\s*A\s*J\s*T\s*J\s*A', first)
     head = first[:cut.start()] if cut else ''
-    if not re.search(r'FLETORJA\s+ZYRTARE', head, re.I):
-        raise Hold('issue_masthead_not_read:' + why)
-    if re.search(r'papublikuar', head, re.I):
-        raise Hold('issue_of_acts_unpublished_at_the_time:' + why)
-    if re.search(r'\bEkstra\b', head, re.I):
-        raise Hold('issue_ekstra:' + why)  # a special issue; whether it first published the act is not stated
-    m = MASTHEAD_DAY.search(head)
-    if not m:
-        raise Hold('issue_masthead_without_day:' + why)
-    day = iso(m.group(1), str(MUAJ.index(m.group(2).lower()) + 1), m.group(3))
-    if not day:
-        raise Hold('issue_masthead_without_day:' + why)
     toc = ' '.join(re.sub(r'\s+', ' ', doc[i].get_text()) for i in range(min(10, doc.page_count)))
     toc = re.sub(r'(\d) (\d{3})\b', r'\1\2', toc)
     base = a['number'].split('-')[0]
     listed = any(re.split(r'[/-]', nr)[0] == base and iso(d, mo, y) == a['date'] for nr, d, mo, y in re.findall(
         r'nr\.?\s*([\d/-]+)\s*,?\s*(?:datë|date|dt\.?)\s*(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})', toc, re.I))
+    try:
+        if not re.search(r'FLETORJA\s+ZYRTARE', head, re.I):
+            raise Hold('issue_masthead_not_read:' + why)
+        if re.search(r'papublikuar', head, re.I):
+            raise Hold('issue_of_acts_unpublished_at_the_time:' + why)
+        if re.search(r'\bEkstra\b', head, re.I):
+            raise Hold('issue_ekstra:' + why)  # a special issue; whether it first published the act is not stated
+        m = MASTHEAD_DAY.search(head)
+        if not m:
+            raise Hold('issue_masthead_without_day:' + why)
+        day = iso(m.group(1), str(MUAJ.index(m.group(2).lower()) + 1), m.group(3))
+        if not day:
+            raise Hold('issue_masthead_without_day:' + why)
+    except Hold as h:
+        # The issue's colophon (its last pages: "Doli nga shtypi më D.M.YYYY", the day it came off the press) dates
+        # the issue when it gives QBZ's own day for it, or a day in the month and year its masthead prints.
+        day, note = colophon_day(doc, first, pub, a, str(h))
+        if not listed:
+            raise Hold('act_not_in_issue_contents:' + why)
+        if a['date'] < '1998-11-28':
+            raise Hold(f'adopted_before_1998_constitution:{why}')
+        late = bool(re.search(r'papublikuar|\bEkstra\b', first[:400], re.I)) or day > add_days(a['date'], 120)
+        LATE[a['id']] = late
+        return day, note
     if not listed:
         raise Hold('act_not_in_issue_contents:' + why)
     if not day or day < a['date']:
@@ -517,6 +532,43 @@ def issue_day(cache: Path, a: dict) -> tuple[str, str]:
         raise Hold(f'adopted_before_1998_constitution:{why}')
     return day, ('; the issue’s day as printed on its masthead' +
                  (f', QBZ’s record giving {pub}' if pub and pub != day else ''))
+
+
+LATE: dict = {}  # act id -> dated by its colophon and printed > 120 days after adoption or in an Ekstra issue
+COLOPHON = re.compile(r'Doli\s+nga\s+shtypi\s+më\s+(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})', re.I)
+
+
+def colophon_day(doc, first: str, pub: str | None, a: dict, held: str) -> tuple[str, str]:
+    """The day an issue came off the press, from its colophon ("Doli nga shtypi më 6.6.2010" on its last pages),
+    accepted only when it equals QBZ's day for the issue or falls in the month and year printed on the issue's
+    masthead, and is not before the act's adoption. Raises the original hold otherwise."""
+    tail = ' '.join(re.sub(r'\s+', ' ', doc[i].get_text()) for i in range(max(0, doc.page_count - 2), doc.page_count))
+    found = {iso(d, m, y) for d, m, y in COLOPHON.findall(tail)} - {None}
+    if len(found) != 1:
+        raise Hold(held)
+    day = found.pop()
+    mh = re.search(r'\b(' + '|'.join(MUAJ) + r')\s+(\d{4})\b', first[:300], re.I)
+    month_ok = bool(mh) and day[:7] == f'{int(mh.group(2)):04d}-{MUAJ.index(mh.group(1).lower()) + 1:02d}'
+    if not (day == pub or month_ok) or day < a['date']:
+        raise Hold(held)
+    return day, ('; the issue’s day as printed in its colophon (“Doli nga shtypi”)' +
+                 (f', QBZ’s record giving {pub}' if pub and pub != day else ''))
+
+
+def late_clause_ok(kind: str, text: str, act_id) -> None:
+    """An act printed long after its adoption (more than 120 days, or in an Ekstra issue of earlier acts) is dated by
+    its in-force clause only when the clause itself counts from publication ("pas botimit", "me botimin", "pasi
+    botohet", "N ditë pas botimit", "ditën e botimit") or names a calendar day; a bare "menjëherë" (immediately) is
+    held: for an act printed years later it does not say whether it took effect on adoption or on publication."""
+    if not LATE.get(act_id):
+        return
+    found = re.findall(r'\bKy ' + WHO_LOOSE.get(kind, WHO.get(kind, kind)) + r'\s+hyn\s+në\s+fuqi\s*([^\n]*)', text, re.I)
+    c = found[0] if found else ''
+    if re.search(r'(?:pas|me)\s+(?:botim|publikim)|pasi\s+(?:botohet|publikohet)|(?:ditën|datën|nesërmen)\s+e\s+'
+                 r'(?:botimit|publikimit)|\d{1,2}\.\d{1,2}\.\d{4}|\d{1,2}\s+(?:' + '|'.join(MUAJ) + r')\s+\d{4}', c, re.I) \
+            and not re.match(r'\s*menjëherë', c, re.I):
+        return
+    raise Hold('late_publication_clause_not_tied_to_publication:' + c[:60])
 
 
 def unit(units: dict, order: list, key: str, label: str, kind: str, lines: list[str]) -> str:
@@ -840,6 +892,7 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
     if not changes_in <= by:
         raise Hold('versions_incomplete:' + ','.join(map(str, sorted(changes_in - by)[:5])))
     day0, how0 = in_force(kind, '\n'.join(base_paras), published)
+    late_clause_ok(kind, '\n'.join(base_paras), x['id'])
     prev = split(base_paras, kind)
     if kind == 'ligj' and not any(k.startswith(('neni-', 'pika-')) for k in prev):
         raise Hold('no_articles')
@@ -880,6 +933,7 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
                 approved_in_time(cb, f'version_{v["versionNo"]}_changing_act_')
             try:
                 day, how = in_force(ck, xtext, cpub)
+                late_clause_ok(ck, xtext, cb['id'])
             except Hold as h:
                 raise Hold(f'version_{v["versionNo"]}_changing_act_{h}')
         else:
@@ -1086,8 +1140,18 @@ RULES['dekret'] = ('A decree of the President is published only when it is norma
                    'the start of new courts); individual decrees (citizenship, appointments, honours, pardons, '
                    'promulgation of laws) are left out. It is in force from the day its own clause gives, counted '
                    'from its publication.')
-RULE_ORDER = [(k, None) for k in ('aktnormativ', 'dekret', 'masthead', 'law_default', 'effects', 'text_repeal')]
-RULE_MARKS = [('masthead', 'as printed on its masthead'), ('law_default', 'no in-force clause: 15 days after'),
+RULES['colophon'] = ('Where the masthead settles nothing (it prints only a month, or it is an “Ekstra” issue, some of '
+                     'which print acts left unpublished at the time), the issue is dated by its colophon, the day it '
+                     'came off the press (“Doli nga shtypi më …”), when that day is QBZ’s own day for the issue or '
+                     'falls in the month and year on the masthead, and the issue’s contents list the act. An act '
+                     'printed that way more than 120 days after its adoption, or in an Ekstra issue, is published '
+                     'only when its own clause counts from publication (“pas botimit”, “me botimin”, “N ditë pas '
+                     'botimit”) or names a day; “menjëherë” alone does not say whether it took effect on adoption '
+                     'or on publication, so such acts are held. Acts printed in two issues are held.')
+RULE_ORDER = [(k, None) for k in ('aktnormativ', 'dekret', 'masthead', 'colophon', 'law_default', 'effects',
+                                  'text_repeal')]
+RULE_MARKS = [('masthead', 'as printed on its masthead'), ('colophon', 'as printed in its colophon'),
+              ('law_default', 'no in-force clause: 15 days after'),
               ('effects', '(its effects run from ')]
 
 
@@ -1350,6 +1414,7 @@ def repeal_version(cache: Path, memo: Path | None, x: dict, rx: dict | None, ver
         raise Hold(f'repealer_publication_day:{h}')
     try:
         day, how = in_force(rk, '\n'.join(rp), rpub)
+        late_clause_ok(rk, '\n'.join(rp), rx['id'])
     except Hold as h:
         raise Hold(f'repealer_{h}')
     last = versions[-1]['from']
@@ -1408,6 +1473,7 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
             else:
                 text = '\n'.join(paras)
                 day, how = in_force(kind, text, published)
+                late_clause_ok(kind, text, x['id'])
                 units = split(paras, kind)
                 if kind == 'ligj' and not any(k.startswith(('neni-', 'pika-')) for k in units):
                     raise Hold('no_articles')
