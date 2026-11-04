@@ -12,12 +12,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `tatimi-mbi-te-ardhurat/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
 | `pastrimi-i-parave/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
 | `shtetesia/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
-| `ligji-<nr>-<year>/`, `ligj/<year>/<nr>/` | Laws of the Assembly in force that no later act has changed, as published | 1 each | The text as published in the Fletorja Zyrtare, from the day it took effect |
-| `vendim/<year>/<nr>/` | Decisions of the Council of Ministers (VKM) in force, as published, and, where QBZ keeps them, with every consolidated version since | 1 or more | From the day each took effect |
-| `ligj/<year>/<nr>/` with several versions | Other laws with QBZ's consolidated versions | 2 or more | As published, then after each act that changed them |
-| `udhezim/<year>/<MMDD>-<nr>/`, `urdher/<year>/<MMDD>-<nr>/` | Instructions (udhëzime) and orders (urdhra) of ministers and other bodies, as published or with QBZ's consolidated versions; the folder carries the day of adoption, as numbers repeat across ministries | 1 or more | From the day each took effect |
-
-`data/laws.csv` lists every act and every law or decision credited in the record; `data/versions.json` every version.
 
 The per-act `README.md` in each folder lists every provision, how often it changed and when. The text in force today is, provision for provision, the official consolidated edition published by Qendra e Botimeve Zyrtare (QBZ).
 
@@ -45,12 +39,6 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 - **The Constitution itself** was adopted by the Assembly on 21 October 1998, approved by referendum on 22 November 1998 and promulgated by presidential decree nr. 2260 on 28 November 1998; by its art. 183 it took effect on promulgation. Its first commit is dated 1998-11-28.
 - Publication days are the Fletorja Zyrtare issue dates in qbz.gov.al's records, each checked against the date printed on that issue's first page. Enactment dates are read from each law's own text: qbz.gov.al's act record is a day early for 88/2012 and 16/2022.
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
-
-## How the laws and decisions as published were chosen and dated
-
-A law, a decision of the Council of Ministers, an instruction or an order is published as it appeared in the Fletorja Zyrtare only when nothing shows a later change: QBZ links no act as changing or repealing it, no other act's title in QBZ's records cites it as changed, added to, corrected or repealed, and no text in this record cites it as amended ("i ndryshuar") or repealed ("shfuqizohet"). Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare issue: "hyn në fuqi pas botimit" or "menjëherë" is the publication day (for a law, Constitution art. 84(4); for the Council of Ministers and ministers, art. 117(1): their normative acts take legal force only once published), "15 ditë pas botimit" the publication day plus 15, and a named day that day. An act in force on publication whose effects reach back to an earlier day ("i shtrin efektet nga ...") is dated by its entry into force, and its version note gives the day of effect. Any other clause, a publication day missing or out of line with the adoption day, or a text whose header does not give the act's own number and date holds the act back until it can be read with certainty.
-
-An act that QBZ links as repealed by a later act gets a last, empty version on the day the repealing act took effect, credited to it, when the repealing act's own text repeals the whole act. A decision or law that QBZ keeps in consolidated versions is published with its history when every act QBZ links as changing it has a version: first the text as published, then each consolidated text, credited to the act QBZ names as having made it and dated by that act's own entry into force (QBZ's own "validFrom" is the changing act's adoption day and is not used as an in-force day). A provision is credited to the changing act when QBZ's note on it ("Ndryshuar me vendimin nr. …") or the changing act's own text names it; any other change is recorded as unexplained, from the publisher.
 
 ## How the income tax, anti-money-laundering and citizenship laws were built
 
@@ -81,13 +69,11 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **The Fletorja Zyrtare of 1998** (nr. 28/1998) is not online; the 1998 text is the Assembly's copy. It differs from QBZ's wording of the same, never-amended provisions only in typography (capitals such as "Forcat e Armatosura", a few accents, quotes and commas, in 15 provisions, listed in `REPRODUCE.md`; 7 more differ only in spacing). Those provisions read as QBZ prints them today, so such differences never appear as changes.
 - **Editorial changes between QBZ editions** (spacing, capitals, corrected accents) are not shown as changes, for the same reason.
 - **Rulings of the Constitutional Court** do not change the text of the Constitution and are not in the record.
-- **Other acts.** Acts that a later act has changed are not shown as published until their history can be built. The Civil Code (1994) and the Penal Code (1995) predate QBZ's online archive, and no official machine-readable copy of their original texts has been found yet. Presidential decrees, decisions of other bodies and court rulings are not in the record yet.
+- **Other acts.** Only the Constitution so far. The Civil Code (1994) and the Penal Code (1995) predate QBZ's online archive, and no official machine-readable copy of their original texts has been found yet.
 
 ## How it is built
 
 Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
 
 No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
 
@@ -111,7 +97,6 @@ This repository is not legal advice and not an official publication.
 
 Historia e së drejtës shqiptare në git: një skedar për çdo dispozitë dhe një commit për çdo ligj, me datën e hyrjes së tij në fuqi dhe me ligjin që bëri ndryshimin si autor (`git blame` tregon ligjin e çdo paragrafi). Përmban Kushtetutën e Republikës së Shqipërisë që nga hyrja në fuqi më 28 nëntor 1998, me të shtatë ligjet që e kanë ndryshuar (nr. 9675/2007, 9904/2008, 88/2012, 137/2015, 76/2016, 115/2020 dhe 16/2022), deri sot. Përmban gjithashtu ligjin nr. 29/2023 “Për tatimin mbi të ardhurat”, që nga hyrja në fuqi më 17 maj 2023, me tekstin e konsoliduar zyrtar të QBZ-së pas secilit prej gjashtë akteve që e kanë ndryshuar, deri sot; po ashtu ligjin nr. 9917/2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” dhe ligjin nr. 113/2020 “Për shtetësinë”, me çdo ndryshim të tyre.
 
-- Përmban edhe ligjet e Kuvendit, vendimet e Këshillit të Ministrave, udhëzimet dhe urdhrat në fuqi që asnjë akt i mëvonshëm nuk i ka ndryshuar, siç u botuan në Fletoren Zyrtare, si dhe vendimet dhe ligjet me versionet e konsoliduara të QBZ-së pas çdo akti që i ndryshoi. Dita e hyrjes në fuqi merret nga dispozita e vetë aktit, e numëruar nga dita e botimit të numrit të Fletores Zyrtare.
 - Teksti në fuqi në një datë: `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64`
 - Datat: neni 84, pika 3, i Kushtetutës (ligji hyn në fuqi jo më pak se 15 ditë pas botimit në Fletoren Zyrtare); çdo ligj ndryshues e cakton vetë ditën ("menjëherë" ose "15 ditë pas botimit").
 - Si u rindërtua: teksti i vitit 1998 është kopja e Kuvendit (PDF, 2006, nga Internet Archive); çdo ligj ndryshues zbatohet me radhë mbi tekstin e mëparshëm, dhe fjalët e çdo versioni merren nga botimi zyrtar i konsoliduar i QBZ-së për atë gjendje (2008, 2012, 2015, 2016 dhe sot) kudo që ekziston. Teksti i fundit është, dispozitë për dispozitë, botimi zyrtar i sotëm i QBZ-së.
