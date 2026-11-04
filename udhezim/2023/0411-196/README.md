@@ -1,0 +1,33 @@
+# Për miratimin e kritereve të vlerësimit të kandidatëve për drejtues të shërbimit në strukturat shëndetësore universitare
+
+Miratimin e kritereve të vlerësimit të kandidatëve për drejtues të shërbimit në strukturat shëndetësore universitare · 2 versions, from 2023-04-14 (latest in force: 2026-04-15) · <https://qbz.gov.al/eli/udhezim/2023/04/11/196>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 1 | 2026-04-15 |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `udhezim-2023-0411-196` (tags `udhezim-2023-0411-196/<day>`; `python tools/on.py <day> udhezim-2023-0411-196`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Udhëzimi nr. 4, datë 20.2.2023 (Ministria e Financave): QBZ’s consolidated version 1 changes Vendimi, which neither a QBZ note nor Udhëzimi nr. 20, datë 22.6.2023 (Ministria e Financave) [QBZ 26180] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 5, datë 3.3.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural): QBZ’s consolidated version 1 changes Pika 11, which neither a QBZ note nor Udhëzimi nr. 16, datë 26.6.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 26212] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 5, datë 3.3.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural): QBZ’s consolidated version 1 changes Pika 12, which neither a QBZ note nor Udhëzimi nr. 16, datë 26.6.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 26212] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 5, datë 3.3.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural): QBZ’s consolidated version 1 changes Pika 18, which neither a QBZ note nor Udhëzimi nr. 16, datë 26.6.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 26212] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 12, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Pika 15, which neither a QBZ note nor Udhëzimi nr. 20, datë 2.10.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28908] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 12, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 20, which neither a QBZ note nor Udhëzimi nr. 7, datë 10.3.2026 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 32703] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 13, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Udhëzimi nr. 7, datë 30.4.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28002] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 13, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Pika 11, which neither a QBZ note nor Udhëzimi nr. 7, datë 30.4.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28002] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 13, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 8, which neither a QBZ note nor Udhëzimi nr. 7, datë 21.1.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 29703] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 13, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 11, which neither a QBZ note nor Udhëzimi nr. 7, datë 21.1.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 29703] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 13, datë 30.6.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 12, which neither a QBZ note nor Udhëzimi nr. 7, datë 21.1.2025 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 29703] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 14, datë 10.7.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 1 changes Nënshkrimi, which neither a QBZ note nor Udhëzimi nr. 5, datë 3.3.2026 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 32606] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 14, datë 10.7.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 33, which neither a QBZ note nor Udhëzimi nr. 16, datë 27.8.2026 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 34186] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 14, datë 10.7.2023 (Ministria e Arsimit, Sportit dhe Rinisë): QBZ’s consolidated version 2 changes Pika 34, which neither a QBZ note nor Udhëzimi nr. 16, datë 27.8.2026 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 34186] names; the change is recorded as unexplained, from the publisher.

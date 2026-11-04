@@ -1,0 +1,20 @@
+# pËr LEJIMIN E MINISTRISË SË BUJQËSISË, USHQIMIT DHE MBROJTJES SË KONSUMATORIT TË ZHVILLOJË PROCEDURËN E PROKURIMIT ME NEGOCIM, PA SHPALLJE PARAPRAKE TË NJOFTIMIT, PËR OBJEKTET E MBROJTJES NGA PËRMBYTJA DHE TË KULLIMIT NË ZONËN E SHKODRËS E TË LEZHËS, TË PLANIFIKUARA NË BUXHETIN E VITIT 2011
+
+PËr LEJIMIN E MINISTRISË SË BUJQËSISË, USHQIMIT DHE MBROJTJES SË KONSUMATORIT TË ZHVILLOJË PROCEDURËN E PROKURIMIT ME NE · 1 versions, from 2011-02-03 (latest in force: 2011-02-03) · <https://qbz.gov.al/eli/akt-normativ/2011/01/26/1>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `aktnormativ-2011-1` (tags `aktnormativ-2011-1/<day>`; `python tools/on.py <day> aktnormativ-2011-1`).
+
+## Decisions made by hand
+
+- One of these acts with the force of law of the Council of Ministers (akte normative) is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
+- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names. A clause that puts it in force on publication and extends its effects back to an earlier day (“i shtrin efektet nga ...”) dates it by its entry into force, the publication day, and the version note gives the day of effect; any other clause holds it back.
+- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
+- An act with the force of law of the Council of Ministers (akt normativ, Kushtetuta, neni 101) is published only when a law in QBZ’s listing approves it no later than 45 days after its adoption (otherwise it loses its force from the start); it is in force from the day its own clause gives, counted from its publication (neni 117, pika 1).

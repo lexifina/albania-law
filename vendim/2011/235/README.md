@@ -1,0 +1,29 @@
+# Për kalimin në pronësi, të bashkisë sarandë, të sipërfaqes 9200 m², nga trualli funksional i pronës nr.206 “rezidenca qeveritare sarandë”, për një ndryshim në vendimin nr.1058, datë 16.7.2008 “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi këshillit të ministrave, për drejtorinë e shërbimeve qeveritare”, të ndryshuar, dhe për një ndryshim në vendimin nr.20, datë 9.1.2008 të këshillit të ministrave “për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë sarandë të qarkut të vlorës”
+
+Kalimin në pronësi, të bashkisë sarandë, të sipërfaqes 9200 m², nga trualli funksional i pronës nr.206 “rezidenca qeveri · 2 versions, from 2011-04-29 (latest in force: 2026-05-05) · <https://qbz.gov.al/eli/vendim/2011/03/23/235>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 1 | 2026-05-05 |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 1 | 2026-05-05 |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2011-235` (tags `vendim-2011-235/<day>`; `python tools/on.py <day> vendim-2011-235`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 310, datë 21.4.2011: QBZ’s consolidated version 1 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 491, datë 13.6.2013 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 639, datë 7.9.2011: QBZ’s consolidated version 1 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 821, datë 26.11.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 842, datë 6.12.2011: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 295, datë 5.4.2017 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 842, datë 6.12.2011: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 295, datë 5.4.2017 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 273, datë 6.4.2011: QBZ’s consolidated version 1 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 713, datë 11.11.2022 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 280, datë 6.4.2011: QBZ’s consolidated version 2 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 1017, datë 16.12.2020 names; the change is recorded as unexplained, from the publisher.
+- An act whose issue day in QBZ’s gazette record is missing, before its adoption or more than 120 days after it is dated by the day printed on the masthead of the issue’s own PDF, when the masthead prints a full day and the issue’s contents list the act; otherwise it is held back, as are the acts of the “Ekstra” issues (some print acts left unpublished at the time, “Akte të papublikuara”) and acts adopted before the 1998 Constitution. The same applies to the act that changes or repeals it.

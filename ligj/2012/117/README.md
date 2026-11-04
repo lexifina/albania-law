@@ -17,3 +17,4 @@ Act id: `ligj-2012-117` (tags `ligj-2012-117/<day>`; `python tools/on.py <day> l
 - Ligji nr. 72/2012: QBZ’s consolidated version 1 changes Neni 16, which neither a QBZ note nor Ligji nr. 103/2024 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 72/2012: QBZ’s consolidated version 1 changes Neni 19, which neither a QBZ note nor Ligji nr. 103/2024 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 72/2012: QBZ’s consolidated version 2 changes Neni 28, which neither a QBZ note nor Ligji nr. 53/2026 names; the change is recorded as unexplained, from the publisher.
+- A law with no in-force clause enters into force 15 days after its publication (Kushtetuta, neni 84, pika 3).

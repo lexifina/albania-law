@@ -1,0 +1,17 @@
+# Për obligacionet e shoqërive aksionare dhe të qeverisë vendore
+
+Obligacionet e shoqërive aksionare dhe të qeverisë vendore · 2 versions, from 2009-11-20 (latest in force: 2020-09-01) · <https://qbz.gov.al/eli/ligj/2009/10/15/10158>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `ligj-2009-10158` (tags `ligj-2009-10158/<day>`; `python tools/on.py <day> ligj-2009-10158`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Ligji nr. 10138/2009: QBZ’s consolidated version 1 changes Neni 61, which neither a QBZ note nor Ligji nr. 52/2013 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 10139/2009: QBZ’s consolidated version 1 changes Neni 15, which neither a QBZ note nor Ligji nr. 108/2015 names; the change is recorded as unexplained, from the publisher.
+- A clause that puts an act in force on publication and starts its effects on a stated day (“i fillon efektet nga ...”) dates it by its entry into force, the publication day; the version note gives the day its effects run from.

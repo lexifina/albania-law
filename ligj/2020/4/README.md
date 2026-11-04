@@ -41,4 +41,6 @@ Act id: `ligj-2020-4` (tags `ligj-2020-4/<day>`; `python tools/on.py <day> ligj-
 - An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
 - Ligji nr. 80/2020: QBZ’s consolidated version 1 changes Neni 60, which neither a QBZ note nor Ligji nr. 39/2023 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 81/2020: QBZ’s consolidated version 1 changes Neni 92, which neither a QBZ note nor Ligji nr. 129/2024 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 162/2020: QBZ’s consolidated version 1 changes Neni 134, which neither a QBZ note nor Ligji nr. 16/2024 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 78/2020: QBZ’s consolidated version 1 changes Neni 34, which neither a QBZ note nor Ligji nr. 90/2024 names; the change is recorded as unexplained, from the publisher.
+- A clause that puts an act in force on publication and starts its effects on a stated day (“i fillon efektet nga ...”) dates it by its entry into force, the publication day; the version note gives the day its effects run from.
