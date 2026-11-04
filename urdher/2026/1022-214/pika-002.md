@@ -1,0 +1,1 @@
+2. Drejtoria e Monitorimit dhe Jetësimit të Prioriteteve në Ministrinë e Punëve të Brendshme dhe Sektori i Komunikimit me Median në Drejtorinë e Përgjithshme të Policisë së Shtetit, të publikojnë në faqet zyrtare të internetit Profilin Vjetor Kombëtar të Migracionit për vitin 2025 në Republikën e Shqipërisë.
