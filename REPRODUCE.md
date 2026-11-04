@@ -1978,3 +1978,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text: every word comes from the official files.
+
+## After this build: folders named by identifier (2026-11-04)
+
+One later commit (`Kind: layout`) renamed every act folder of this build to the act's official identifier, `<kind>/<year>/<number>/`: `ligji-8569-2000/` to `ligj/2000/8569/`, `kushtetuta/` to `kushtetuta/1998/`, `tatimi-mbi-te-ardhurat/` to `ligj/2023/29/`, `pastrimi-i-parave/` to `ligj/2008/9917/` and `shtetesia/` to `ligj/2020/113/`. It changes no text. It also removed the folders of 975 laws of this build that had been published a second time in `ligj/<year>/<number>/` by Lexifina's publishing loop; `data/paths.json` names the copy kept for each, and the layout commit's message gives the reasons. Act ids in the table above, tags and the commits of this build are unchanged, so the corpus above still rebuilds them with the same hashes (up to commit 8a500f85); the layout commit and the commits appended since follow them (`registry/REPRODUCE.md`).
+
+`tools/on.py` and `tools/ne_fuqi_me.py` were changed after this build to read each act's folder before and after the move (`registry/data/paths.json`, `data/paths.json`). The builder's own `on.py` (blob `644a6c0857fbcc72562032b58d57aa113fee0641`) is the one in `tools/` at commit 8a500f85.

@@ -7,7 +7,8 @@
     python tools/ne_fuqi_me.py --law 2020-01-01 kushtetuta 131    # also name the law behind that wording
 
 A thin wrapper around tools/on.py: the version is chosen by each commit's `In-force:` trailer, never by its commit
-date, and branches named wip* are ignored. An article number (`64`, `6/1`, `147/ç`) means the article of the body of
+date, and branches named wip* are ignored. An act is named by its id (kushtetuta, ligji-8569-2000) or its folder
+(kushtetuta/1998, ligj/2000/8569); tools/on.py reads the folders before and after the layout move. An article number (`64`, `6/1`, `147/ç`) means the article of the body of
 the Constitution (`neni-064`, `neni-006-01`, `neni-147-c-ced`); annex articles are `aneks-neni-a` and so on.
 Standard library only.
 """

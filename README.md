@@ -8,10 +8,12 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `kushtetuta/` | Kushtetuta e Republikës së Shqipërisë (ligji nr. 8417, datë 21.10.1998) | 8 | From its entry into force on 28 November 1998, through all seven amending laws (2007, 2008, 2012, 2015, 2016, 2020, 2022), to today |
-| `tatimi-mbi-te-ardhurat/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
-| `pastrimi-i-parave/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
-| `shtetesia/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
+| `kushtetuta/1998/` | Kushtetuta e Republikës së Shqipërisë (ligji nr. 8417, datë 21.10.1998) | 8 | From its entry into force on 28 November 1998, through all seven amending laws (2007, 2008, 2012, 2015, 2016, 2020, 2022), to today |
+| `ligj/2023/29/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
+| `ligj/2008/9917/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
+| `ligj/2020/113/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
+
+**Folders.** Every act lives in a folder named by its official identifier, `<kind>/<year>/<number>/`: the laws in `ligj/` (ligji nr. 8569/2000 in `ligj/2000/8569/`), the Constitution in `kushtetuta/1998/`, and the decisions, instructions, orders, normative acts and decrees appended since in `vendim/`, `udhezim/`, `urdher/`, `aktnormativ/` and `dekret/`. Until 4 November 2026 the earlier acts' folders were named by their id (`kushtetuta/`, `ligji-8569-2000/`); the commit that renamed them changes no text, so `git log --follow` and `git blame` reach back through it, and the tools read both names. `registry/data/paths.json` maps every act id to its folder; `data/paths.json` lists this build's acts, and the 975 laws that had been published twice, whose copy in `ligj/` was kept.
 
 The per-act `README.md` in each folder lists every provision, how often it changed and when. The text in force today is, provision for provision, the official consolidated edition published by Qendra e Botimeve Zyrtare (QBZ).
 
@@ -20,10 +22,10 @@ The per-act `README.md` in each folder lists every provision, how often it chang
 | Question | Command |
 | --- | --- |
 | What did art. 64 say on 1 January 2008? | `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md):kushtetuta/neni-064.md` |
+| The same, with raw git (bash; days before 4 November 2026, when the folders took their new names) | `git show $(git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md):kushtetuta/neni-064.md` |
 | The same, in PowerShell | `$r = git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md; git show "$($r):kushtetuta/neni-064.md"` |
-| Which law wrote each paragraph of art. 131? | `git blame kushtetuta/neni-131.md` |
-| Every change to art. 64, word by word | `git log -p --word-diff kushtetuta/neni-064.md` |
+| Which law wrote each paragraph of art. 131? | `git blame kushtetuta/1998/neni-131.md` |
+| Every change to art. 64, word by word | `git log -p --word-diff --follow kushtetuta/1998/neni-064.md` |
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one law changed | `git show law/ligji-76-2016` (tags `law/<key>` mark each law's commit) |
 | The whole Constitution on a date | `python tools/ne_fuqi_me.py 2010-01-01 kushtetuta` |
