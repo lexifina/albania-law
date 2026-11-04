@@ -1,3 +1,0 @@
-# Neni 4
-Përditësimi i regjistrave
-Me hyrjen në fuqi të këtij ligji bëhen ndryshimet përkatëse në regjistrin e Kadastrës Kombëtare të Pyjeve dhe Kullotave dhe në regjistrin e pasurive të paluajtshme të zyrave vendore të regjistrimit të pasurive të paluajtshme, sipas të dhënave për sipërfaqet, dhënë në lidhjen 1, dhe hartat përkatëse për çdo ekonomi pyjore, që i bashkëlidhen këtij ligji dhe janë pjesë përbërëse e tij. Sipërfaqja pyjore që hiqet çregjistrohet nga kategoria “Tokë e zënë, pyll dhe tokë me bimësi pyjore”, në pronësi shtetërore apo komunale, dhe regjistrohet si “Tokë e zënë, objekt i ndërtimit të basenit (liqen) dhe truall për ndërtimin e HEC-eve, në pronësi publike të Ministrisë së Energjisë dhe Industrisë”.

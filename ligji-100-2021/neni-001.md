@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Konfederatës Zvicerane, përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal Zviceran për Punët e Jashtme, e cila vepron përmes Ambasadës Zvicerane në Shqipëri për projektin “Lëviz Albania”, faza e dytë korrik 2019-qershor 2023”, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

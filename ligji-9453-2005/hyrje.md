@@ -1,7 +1,0 @@
-L I G J
-Nr.9453, datë 15.12.2005
-PËR RATIFIKIMIN E “PROTOKOLLIT NR.14 TË KONVENTËS “PËR MBROJTJEN E TË DREJTAVE TË NJERIUT DHE LIRIVE THEMELORE”, QË NDRYSHON SISTEMIN E KONTROLLIT TË KONVENTËS”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

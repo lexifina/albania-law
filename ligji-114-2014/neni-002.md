@@ -1,2 +1,0 @@
-# Neni 2
-Aksionet e shoqërisë Operatori i Shpërndarjes së Energjisë Elektrike, sh. a., (e njohur më parë si CEZ Shpërndarje, sh. a.), të cilat janë në pronësi të shoqërisë CEZ, a. s., të lira nga çdo barrë kontraktore, të krijuara nga CEZ, a. s. deri në datën 21.3.2013, datë në të cilën shoqëria Operatori i Shpërndarjes së Energjisë Elektrike sh. a. (e njohur më parë si CEZ Shpërndarje, sh. a.) është vendosur në administrim të përkohshëm i kalojnë në pronësi shtetit shqiptar, përfaqësuar nga Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes.

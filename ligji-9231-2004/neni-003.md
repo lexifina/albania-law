@@ -1,2 +1,0 @@
-# Neni 3
-Shoqëria ”La Petrolifera Italo Rumena, S.p.A.” përjashtohet nga të gjitha taksat dhe detyrimet doganore për importimin e lëndëve të para, të pajisjeve e instrumenteve të tjera, nga tarifat e pronësisë intelektuale, si dhe nga ato inxhinierike për ndërtimin e terminalit dhe të infrastrukturës portuale, për një periudhë 24-mujore, duke filluar nga data e përfundimit të afatit prej 60 ditësh të pajisjes së koncesionarit me të gjitha autorizimet dhe lejet përkatëse nga autoritetet shqiptare, si dhe t’i rimbursohet asaj TVSH-ja e paguar.

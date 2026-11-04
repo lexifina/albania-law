@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e garancisë ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main, në lidhje me marrëveshjen e huas ndërmjet Operatorit të Sistemit të Transmetimit sh.a. (OST) dhe KfW Frankfurt am Main, për projektin “Linja e transmetimit 400 kV Shqipëri-Maqedoni (Fier-Elbasan-Qafëthanë)”, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

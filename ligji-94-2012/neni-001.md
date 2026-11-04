@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Maqedonisë për zgjidhjen e borxhit të Republikës së Shqipërisë kundrejt Republikës së Maqedonisë, lidhur me shlyerjen e shumave në llogarinë e shkëmbimit të mallrave ndërmjet Republikës së Shqipërisë dhe ish-Republikës Federale Socialiste të Jugosllavisë, sipas tekstit që i bashkëlidhet këtij ligji.

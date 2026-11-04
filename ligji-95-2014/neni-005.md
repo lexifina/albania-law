@@ -1,2 +1,0 @@
-# Neni 5
-Në këtë stërvitje angazhohen 1 500 (njëmijë e pesëqind) trupa ushtarakë të Britanisë së Madhe, një njësi detare gjermane, që do të jetë pjesë e forcave britanike, 4 anije zbarkuese (3 anije britanike dhe 1 anije gjermane), mjete ushtarake që do të vijnë të imbarkuara në anije, 2 avionë ushtarakë “Hawk Jet”, 4 helikopterë transporti (2 helikopterë “Sea King” dhe 2 helikopterë “Chinook”), të cilët do të kryejnë lëvizje në rajonin e përcaktuar të stërvitjes, sipas nenit 4 të këtij ligji.

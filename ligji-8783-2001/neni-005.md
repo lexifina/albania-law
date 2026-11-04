@@ -1,3 +1,0 @@
-# Neni 5
-Ngarkohen Ministria e Punëve Publike dhe Ministria e Ekonomisë Publike dhe Privatizimit, si organe shtetërore të autorizuara, të asistojnë shoqërinë koncensionare në sigurimin prej saj të të drejtave, të autorizimeve dhe të lejeve të parashikuara në kreun IV dhe V të ligjit nr.8093, datë 21.3.1996 “Për rezervat ujore” .
-Enti Rregullator i sektorit të furnizimit me ujë dhe i largimit të ujërave të përdorura, Agjencia Kombëtare për Mbrojtjen e Mjedisit, Këshilli Kombëtar i Ujit dhe Inspektorati Sanitar i Shtetit, në përputhje me legjislacionin në fuqi në sektorët përkatës, ngarkohen të zbatojnë termat dhe kushtet e Marrëveshjes së Koncensionit.

@@ -1,7 +1,0 @@
-LIGJ
-Nr. 98/2022
-PËR KRIJIMIN E KONTRIBUTIT TË SOLIDARITETIT GJATË KOHËZGJATJES SË PERIUDHËS SË KRIZËS ENERGJETIKE
-Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

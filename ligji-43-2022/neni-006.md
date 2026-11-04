@@ -1,5 +1,0 @@
-# Neni 6
-Burimet e të dhënave për llogaritjen e personelit, vlerës së qarkullimit dhe periudhës së raportimit për NMVM-të
-1. Të dhënat për numrin e të punësuarve dhe vlerën e qarkullimit merren nga pasqyrat financiare vjetore të depozituara për publikim pranë autoritetit përkatës ku janë regjistruar, në përputhje më legjislacionin në fuqi për kontabilitetin dhe pasqyrat financiare. Vlera e qarkullimit llogaritet duke përjashtuar tatimin mbi vlerën e shtuar (TVSH) dhe taksat e tjera indirekte.
-2. Në rastet kur nga pasqyrat financiare vjetore të depozituara për publikim vlerësohet se në baza vjetore është ulur ose tejkaluar numri i të punësuarve, ndërmarrja nuk e humbet ose fiton statusin e ndërmarrjes mikro, ndërmarrjes së vogël apo ndërmarrjes së mesme, me përjashtim të rastit kur këto tavane tejkalohen për dy periudha vjetore llogaritjeje të njëpasnjëshme.
-3. Në rastin e ndërmarrjeve të reja, pasqyrat financiare të të cilave nuk janë miratuar ende, të dhënat sigurohen nëpërmjet vetëdeklarimit gjatë vitit financiar.

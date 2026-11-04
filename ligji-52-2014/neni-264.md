@@ -1,6 +1,0 @@
-# Neni 264
-Përshtatja e shoqërisë së agjentëve dhe shoqërisë së brokerimit
-1. Shoqëria e agjentëve dhe shoqëria e brokerimit, e cila, në datën e hyrjes në fuqi të këtij ligji, ka licencë për të ushtruar një veprimtari ndërmjetësimi në sigurime dhe është e regjistruar në QKR, përshtat veprimtarinë e saj me dispozitat e këtij ligji brenda 6 muajve nga data e hyrjes në fuqi të tij.
-2. Shoqëria e agjentëve dhe shoqëria e brokerimit, e përmendur në pikën 1, të këtij neni, është e detyruar që, brenda 1 muaji nga data e përfundimit të afatit kohor të përcaktuar në pikën 1, të këtij neni, të depozitojë në Autoritet një raport për përshtatjen e veprimtarisë, në përputhje me këtë ligj, si dhe dokumentacionin shoqërues përkatës.
-3. Nëse raportet e përmendura në pikën 2, të këtij neni, dhe dokumentacioni përkatës tregojnë se shoqëria e agjentëve dhe shoqëria e brokerimit janë përshtatur në përputhje me pikën 1, të këtij neni, Autoriteti miraton vazhdimësinë e veprimtarisë së shoqërisë së ndërmjetësimit.
-4. Nëse shoqëria e agjentëve dhe shoqëria e brokerimit, referuar pikës 1, të këtij neni, nuk përmbushin kërkesat e përcaktuara në pikën 2, të tij, Autoriteti revokon licencat dhe hap procedurat e likuidimit, në përputhje me dispozitat e këtij ligji.

@@ -1,3 +1,0 @@
-# Neni 4
-1. Në zbatim të pikës 13 të nenit 46 të Konventës, autoriteti qendror përgjegjës dhe i autorizuar, për të marrë kërkesa për ndihmë të ndërsjellë ligjore, si dhe për t’i ekzekutuar ose transmetuar ato në organet përkatëse për ekzekutim është Prokuroria e Përgjithshme për kërkesat për hetimin dhe procedimin penal dhe Ministria e Drejtësisë për kërkesat gjatë gjykimit dhe ekzekutimit të dënimit, si dhe për kërkesat për ekstradimin dhe transferimin e personave të dënuar.
-2. Në zbatim të pikës 14 të nenit 46 të Konventës, gjuha e pranueshme për Republikën e Shqipërisë është gjuha shqipe dhe, nëse nuk arrihet, përkthimi i certifikuar zyrtarisht në shqip.

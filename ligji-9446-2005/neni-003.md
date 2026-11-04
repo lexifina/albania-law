@@ -1,2 +1,0 @@
-# Neni 3
-Në përputhje me nenin 42 të Konventës, Republika e Shqipërisë rezervon të drejtën të mos jetë e detyruar të marrë përsipër ndonjë kosto, që parashikohet në paragrafin e tretë të nenit 26 të Konventës, si rezultat i pjesëmarrjes së konsulentit apo konsulentëve ligjorë ose nga procesi gjyqësor, vetëm deri në atë shkallë, që këto kosto mund të mbulohen nga sistemi i asistencës apo konsulencës ligjore.

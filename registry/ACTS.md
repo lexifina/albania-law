@@ -70,7 +70,7 @@
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
-| Kushtetuta e Republikës së Shqipërisë | [`kushtetuta/`](kushtetuta/) | in force | 8 | 1998-11-28 | 2022-03-24 |
+| Kushtetuta e Republikës së Shqipërisë | [`kushtetuta/1998/`](kushtetuta/1998/) | in force | 8 | 1998-11-28 | 2022-03-24 |
 
 ## ligj (1277, of which 108 amending acts)
 
@@ -1358,19 +1358,19 @@
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
-| Për parandalimin e pastrimit të parave dhe financimit të terrorizmit | [`pastrimi-i-parave/`](pastrimi-i-parave/) | in force | 8 | 2008-09-10 | 2026-05-02 |
+| Për parandalimin e pastrimit të parave dhe financimit të terrorizmit | [`ligj/2008/9917/`](ligj/2008/9917/) | in force | 8 | 2008-09-10 | 2026-05-02 |
 
 ## shtetesia (1)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
-| Për shtetësinë | [`shtetesia/`](shtetesia/) | in force | 3 | 2020-10-14 | 2026-06-20 |
+| Për shtetësinë | [`ligj/2020/113/`](ligj/2020/113/) | in force | 3 | 2020-10-14 | 2026-06-20 |
 
 ## tatimi-mbi-te-ardhurat (1)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
-| Për tatimin mbi të ardhurat | [`tatimi-mbi-te-ardhurat/`](tatimi-mbi-te-ardhurat/) | in force | 7 | 2023-05-17 | 2026-01-30 |
+| Për tatimin mbi të ardhurat | [`ligj/2023/29/`](ligj/2023/29/) | in force | 7 | 2023-05-17 | 2026-01-30 |
 
 ## udhezim (1379, of which 35 amending acts)
 

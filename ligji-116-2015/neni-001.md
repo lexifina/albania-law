@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e financimit dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, “Përfituesi”, e Fondit Shqiptar të Zhvillimit, “Agjencia zbatuese e projektit”, dhe KfW Frankfurt amMain, “KfW”, për përgatitjen e projektit dhe studimeve të fizibilitetit për ndërtimin/rindërtimin e sistemeve të furnizimit me ujë në zonat rurale, sipas tekstit bashkëlidhur këtij ligji.

@@ -1,4 +1,0 @@
-# Neni 250
-Sanksioni me gjobë ndaj grupit të sigurimit
-1. Autoriteti vendos sanksion me gjobë nga 2 000 000 deri në 3 000 000 lekë ndaj një grupi kontrollues financiar, grupi kontrollues të sigurimit të përzier, grupi kontrollues të sigurimit, grupi kontrollues të sigurimit me aktivitet të përzier, grupi kontrollues financiar të përzier apo shoqërie siguruese ose risiguruese mëmë në një grup sigurimi, nëse nuk raporton mbi mjaftueshmërinë e kapitalit të grupit të sigurimit, në përputhje me përcaktimet e nenit 146 të këtij ligji.
-2. Personi përgjegjës i grupit kontrollues financiar, grupit kontrollues të sigurimit të përzier, grupit kontrollues të sigurimit, grupit kontrollues të sigurimit me aktivitet të përzier, grupit kontrollues financiar të përzier apo shoqëria siguruese ose risiguruese mëmë në një grup sigurimi sanksionohen me gjobë nga 300 000 deri në 400 000 lekë për shkeljet e përcaktuara në pikën 1 të këtij neni.

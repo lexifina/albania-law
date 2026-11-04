@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet kontrata për dhënien në përdorim, në formën e huapërdorjes, me çmimin 1 euro, të një pjese të truallit të Ndërmarrjes së Qymyrgurit Valias, Kamëz, me sipërfaqe të përgjithshme 87 587 (tetëdhjetë e shtatë mijë e pesëqind e tetëdhjetë e shtatë) m², lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “The American International School System - Albania” (AISS).

@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administratore e fondeve grant, të siguruara nga qeveri të ndryshme, nën Fondin e Përbashkët Europian të Ballkanit Perëndimor, dhe BERZH, nën fondin e aksionarëve të veçantë të BERZH-it, për mbikëqyrjen e projektit të rrugëve dytësore dhe lokale në Shqipëri, me një shumë prej 1 500 000 (një milion e pesëqind mijë) eurosh.

@@ -1,7 +1,0 @@
-LIGJ
-Nr. 23/2021
-PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS SË TURQISË, MBI DHURIMIN NË FUSHËN E SHËNDETËSISË
-Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, shkronja “ç”, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja ndryshuese e marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si Agjencia e Zbatimit të Projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja e transmetimit 400 kilovolt Shqipëri-Kosovë (Tiranë-Prishtinë)”, nëpërmjet një huaje prej 42 000 000 (dyzet e dy milionë) eurosh, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.

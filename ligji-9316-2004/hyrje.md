@@ -1,7 +1,0 @@
-LIGJ
-Nr.9316, datë 18.11.2004
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN NDËRKOMBËTARE “PËR ASISTENCË TË NDËRSJELLË ADMINISTRATIVE NË ÇËSHTJET DOGANORE”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

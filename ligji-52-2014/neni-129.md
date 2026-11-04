@@ -1,9 +1,0 @@
-# Neni 129
-Mbikëqyrja e shoqërive të sigurimit
-1. Autoriteti mbikëqyr veprimtarinë e shoqërive të sigurimit, me qëllim që të kontrollojë, të vlerësojë dhe të shqyrtojë përmbushjen nga shoqëritë e sigurimit të rregullave të administrimit të rrezikut, rregullave të përcaktuara në aktet e Autoritetit, si dhe në legjislacionin e zbatueshëm në fushën e sigurimeve dhe aktet nënligjore në zbatim të tij.
-2. Autoriteti mbikëqyr personat juridikë të lidhur me një shoqëri sigurimi, nëse një gjë e tillë është e nevojshme për mbikëqyrjen e veprimtarisë së shoqërisë së sigurimit.
-3. Nëse për mbikëqyrjen e personave të përmendur në pikën 2, të këtij neni, është kompetent një autoritet tjetër mbikëqyrës apo organizëm, atëherë mbikëqyrja e veprimtarisë së personit juridik kryhet nga Autoriteti në bashkëpunim me autoritetin mbikëqyrës apo organizmin kompetent, sipas modaliteteve dhe rregullave të përcaktuara në një marrëveshje të përbashkët midis dy institucioneve.
-4. Mbikëqyrja e veprimtarisë së shoqërisë së sigurimit mund të kryhet edhe nga institucione të tjera, në përputhje me kompetencat që u jepen nga ligjet përkatëse të fushës.
-5. Dispozitat në lidhje me mbikëqyrjen e shoqërisë së sigurimit zbatohen rast pas rasti për mbikëqyrjen e personave të tjerë objekt të mbikëqyrjes.
-6. Për qëllime të këtij ligji, persona të tjerë, subjekt të mbikëqyrjes, janë: shoqëria e risigurimit, grupi i sigurimit, dega e shoqërisë së sigurimit të vendit të huaj/anëtar, brokeri, shoqëria e brokerimit, agjenti, shoqëria e agjentëve, si dhe çdo person fizik apo juridik, veprimtaria e të cilëve, sipas këtij ligji, mbikëqyret nga Autoriteti.
-7. Autoriteti bashkëpunon me mbikëqyrës të tjerë vendas dhe të huaj dhe autoritete të tjera kompetente, si dhe me organizata ndërkombëtare, me qëllim mbikëqyrjen e veprimtarisë së subjekteve të përcaktuara në këtë nen.

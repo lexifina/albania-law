@@ -1,7 +1,0 @@
-LIGJ
-Nr.9278, datë 23.9.2004
-PËR RATIFIKIMIN E KONVENTËS NR.173 TË ORGANIZATËS NDËRKOMBËTARE TË PUNËS “MBROJTJA E PRETENDIMEVE TË PUNËTORËVE NË RAST FALIMENTIMI TË PUNËDHËNËSIT”, 1992
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

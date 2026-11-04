@@ -1,7 +1,0 @@
-LIGJ
-Nr.9925, datë 9.6.2008
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN EUROPIANE “PËR TRAJTIMIN DOGANOR TË PALETAVE TË PËRDORURA NË TRANSPORTIN NDËRKOMBËTAR”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

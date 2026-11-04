@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet “Marrëveshja ndërmjet Ministrisë së Mbrojtjes të Republikës së Shqipërisë dhe Ministrisë së Mbrojtjes të Republikës Italiane, lidhur me aktivitetin e bashkëpunimit dhe asistencës për ristrukturimin e infrastrukturave logjistike dhe stërvitore në Akademinë e Forcave Ajrore në Vlorë dhe për risistemimin e pistës së fluturimit prej dheu në Pish Poro”, nënshkruar në Tiranë, më datë 7 qershor 2001.

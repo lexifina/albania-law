@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e huas dhe asistencës teknike (grant) ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Islamike për Zhvillim (IDB) për pjesëmarrje në financimin e projektit të mikrofinancës në Shqipëri,nëpërmjet një kredie prej 1 000 000 USD (një milion dollarësh amerikanë), një kredie prej 2 670 000 ID ( dy milionë e gjashtëqind e shtatëdhjetë mijë dinarësh islamikë) dhe një granti prej 200 000 ID (dyqind mijë dinarësh islamikë).

@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, Këshillit të Ministrave të Bosnjës dhe Hercegovinës, Qeverisë së Republikës së Maqedonisë, Qeverisë së Malit të Zi, Qeverisë së Republikës së Serbisë dhe Qeverisë së Republikës së Sllovenisë për ngritjen e Task-Forcës Mjekësore të Ballkanit, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

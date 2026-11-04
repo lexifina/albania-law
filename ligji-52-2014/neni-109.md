@@ -1,3 +1,0 @@
-# Neni 109
-Mbajtja e kontabilitetit dhe e dokumentacionit
-Shoqëria e sigurimit mban në mënyrë të vazhdueshme kontabilitetin, përgatit regjistrimet kontabël, vlerëson aktivet dhe detyrimet, përgatit pasqyrat financiare, mban dokumentacionin e veprimtarisë së sigurimit, si dhe të dhënat e tjera mbi administrimin ose veprimtarinë tregtare në një zyrë brenda territorit të Republikës së Shqipërisë, në mënyrë që të mundësojë në çdo kohë kontrollin për kryerjen e veprimtarisë së sigurimit, në përputhje me rregullat e administrimit të rrezikut, legjislacionin në fuqi për metodologjitë e mbikëqyrjes dhe sipas rregullave të hartuara nga Autoriteti e standardeve profesionale.

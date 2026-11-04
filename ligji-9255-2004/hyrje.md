@@ -1,7 +1,0 @@
-LIGJ
-Nr.9255, datë 15.7.2004
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN “PËR UNIFIKIMIN E DISA RREGULLAVE PËR TRANSPORTIN AJROR NDËRKOMBËTAR”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

@@ -1,7 +1,0 @@
-LIGJ
-Nr.9293, datë 21.10.2004
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN NDËRKOMBËTARE “PËR PËRGJEGJËSINË CIVILE PËR DËMET NGA NDOTJET ME KARBURANT”, 1992
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

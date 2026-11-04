@@ -1,5 +1,0 @@
-# Neni 2
-Fusha e zbatimit
-1. Ky ligj zbatohet kur projekte ose veprimtari, të përcaktuara në aneksin I të Konventës së Kombeve të Bashkuara “Për vlerësimin e ndikimit në mjedis, në kontekst ndërkufitar”, kërkojnë të ushtrohen në territoret e një shteti fqinj dhe parashikohet të kenë ndikime të ndjeshme negative në mjedis ose në shëndet në territorin e Republikës së Shqipërisë.
-2. Për projektet ose veprimtaritë, që kërkohet të zhvillohen në territorin e Republikës së Shqipërisë dhe që mund të kenë ndikime të ndjeshme negative në mjedisin e vendeve fqinje apo në hapësirat detare ndërkombëtare, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave vepron në përputhje me kërkesat e Konventës së Kombeve të Bashkuara dhe të ligjeve që rregullojnë fushën e mjedisit.
-3. Këshilli i Ministrave, brenda një viti nga hyrja në fuqi e këtij ligji, miraton rregullat dhe procedurat konkrete, të propozuara nga Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, për rastet e parashikuara në pikën 2 të këtij neni.

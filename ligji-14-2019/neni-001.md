@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja ndryshuese e marrëveshjes për bashkëpunimin teknik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Zhvillimit Urban, dhe Qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim, për programin e zhvillimit rajonal për Shqipërinë, ratifikuar me ligjin nr. 66/2017, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

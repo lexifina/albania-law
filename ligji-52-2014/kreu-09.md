@@ -1,4 +1,0 @@
-KREU IX
-ADMINISTRIMI I PËRKOHSHËM DHE PRISHJA E SHOQËRISË SË SIGURIMIT
-Seksioni I
-Administrimi i përkohshëm

@@ -1,2 +1,0 @@
-# Neni 5
-Në këtë stërvitje angazhohen 1 500 (një mijë e pesëqind) trupa ushtarake të Britanisë së Madhe, 4 (katër) anije luftarake 1 (një) helikoptermbaj-tëse, 1 (një) fregatë dhe 2 (dy) anije zbarkuese, 3 (tre) avionë ushtarakë HAWK Jets dhe 10 (dhjetë) helikopterë, 2 Chinook, 4 AH64, 2 Marlin Mk2, 2 (WILDCAT), të cilët do të kryejnë lëvizje gjatë 24 orëve në rajonin e përcaktuar të stërvitjes, sipas nenit 4, të këtij ligji.

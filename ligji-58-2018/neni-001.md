@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e financimit ndërmjet Republikës së Shqipërisë (Marrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) për financimin e programit të rehabilitimit të konvikteve të Universitetit të Tiranës, sipas parimit të eficiencës së energjisë, faza II, me një grant në shumën prej 2 032 179,23 (dy milionë e tridhjetë e dy mijë e njëqind e shtatëdhjetë e nëntë presje njëzet e tre) eurosh, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

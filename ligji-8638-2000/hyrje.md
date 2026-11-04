@@ -1,7 +1,0 @@
-L I G J
-Nr. 8638, datë 13.7.2000
-PËR ADERIMIN NË “PROTOKOLLIN E VILNIUSIT TË 3 QERSHORIT 1999, QË PËRMBAN MODIFIKIMIN E “KONVENTËS PËR TRANSPORTET NDËRKOMBËTARE HEKURUDHORE (COTIF), TË 9 MAJIT 1980””
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

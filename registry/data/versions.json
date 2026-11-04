@@ -3,7 +3,7 @@
  "acts": [
   {
    "slug": "kushtetuta",
-   "path": "kushtetuta",
+   "path": "kushtetuta/1998",
    "short": "Kushtetuta",
    "title": "Kushtetuta e Republikës së Shqipërisë",
    "url": "https://qbz.gov.al/pdf/eb9d762f48d82dc4834e4905b5516edc13690d6fea092b27e36f48a1fa59db8c.pdf",
@@ -60,7 +60,7 @@
   },
   {
    "slug": "tatimi-mbi-te-ardhurat",
-   "path": "tatimi-mbi-te-ardhurat",
+   "path": "ligj/2023/29",
    "short": "Tatimi mbi të ardhurat",
    "title": "Për tatimin mbi të ardhurat",
    "url": "https://qbz.gov.al/eli/ligj/2023/03/30/29",
@@ -111,7 +111,7 @@
   },
   {
    "slug": "pastrimi-i-parave",
-   "path": "pastrimi-i-parave",
+   "path": "ligj/2008/9917",
    "short": "Parandalimi i pastrimit të parave",
    "title": "Për parandalimin e pastrimit të parave dhe financimit të terrorizmit",
    "url": "https://qbz.gov.al/eli/ligj/2008/05/19/9917",
@@ -168,7 +168,7 @@
   },
   {
    "slug": "shtetesia",
-   "path": "shtetesia",
+   "path": "ligj/2020/113",
    "short": "Shtetësia",
    "title": "Për shtetësinë",
    "url": "https://qbz.gov.al/eli/ligj/2020/07/29/113",

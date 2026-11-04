@@ -1,2 +1,0 @@
-# Neni 1
-Parcelat pyjore, që do të përdoren nga ”Cementos Aguila” sh.p.k. për ndërtimin e fabrikës së çimentos, me sipërfaqe 22,2 ha dhe për karierë gëlqerorësh, me sipërfaqe prej 113,5 ha, që ndodhen në ekonomitë pyjore Krastë - Krujë dhe Shëmri - Brret, gjithsej 135,7 ha, të hiqen nga fondi pyjor kombëtar dhe të çregjistrohen nga kadastra kombëtare e pyjeve, sipas tabelave 1 e 2 dhe hartave, që i bashkëlidhen këtij ligji.

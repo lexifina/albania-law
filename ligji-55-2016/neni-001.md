@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet ndryshimi i marrëveshjes së koncesionit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë koncesio-nare “Tirana Airport Partners”, sh.p.k., për ndër-timin, vënien në punë, operimin dhe mirëmbajtjen e aeroportit ndërkombëtar “Nënë Tereza”, Tiranë, ratifikuar me ligjin nr. 9312, datë 11.11.2004, sipas tekstit bashkëlidhur dhe pjesë përbërëse e këtij ligji.

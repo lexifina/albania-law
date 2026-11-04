@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja financiare ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë dhe Cassa Depositi e Prestiti S.p.A. për programin e arsimit dhe formimit profesional nëpërmjet inovacionit, me një hua të butë, në shumën 5 000 000 (pesë milionë) euro, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

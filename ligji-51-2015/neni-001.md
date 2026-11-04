@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administrator i fondeve grant, të siguruara nga qeveri të vendeve të ndryshme nën fondin e veçantë të aksionarëve të BERZH-it, për by-pass-et rrugore të Fierit dhe Vlorës, asistencë teknike për mbështetjen e zbatimit të projektit në Shqipëri, sipas tekstit bashkëlidhur këtij ligji.

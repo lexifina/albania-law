@@ -1,2 +1,0 @@
-# Neni 2
-Zyra e Regjistrimit të Pasurive të Paluajtshme, pasi të përcaktohen nga drejtoria përkatëse e shërbimit pyjor, në bashkëpunim me njësinë e qeverisjes vendore në terren dhe në hartë, kufijtë e rinj të Fondit Pyjor dhe Kullosor Kombëtar, që rezultojnë nga heqja e sipërfaqeve të këtyre ngastrave, sipas nenit 1 të këtij ligji, bën çregjistrimin e saj nga kategoria “Tokë e zënë, kullotë” dhe “Tokë e zënë, pyll” dhe e regjistron në sipërfaqe ujore (liqen) dhe truall për ndërtimin e HEC-eve, në pronësi publike.

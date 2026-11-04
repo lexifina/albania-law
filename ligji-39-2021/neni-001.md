@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja “Për ndryshimin dhe rivendosjen e marrëveshjes nr. 1, në lidhje me marrëveshjen e bashkëpunimit të datës 11 janar 2016 ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Financave dhe Ekonomisë, Ministria e Turizmit dhe Mjedisit, dhe Bankës Evropiane për Rindërtim dhe Zhvillim për lehtësimin e mbështetjes së agrobiznesit dhe sektorit të turizmit, BERZH - Shqipëri, llogari bashkëpunimi”, sipas tekstit që i bashkëlidhet këtij ligji.

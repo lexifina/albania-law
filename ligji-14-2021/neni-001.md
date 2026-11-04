@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet protokolli ndryshues i marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Dukatit të Madh të Luksemburgut, për shmangien e tatimit të dyfishtë dhe parandalimin e evazionit fiskal, lidhur me tatimet mbi të ardhurat dhe kapitalin, e nënshkruar në Tiranë, më 14 janar 2009, ratifikuar me ligjin nr. 10094, datë 12.3.2009, sipas tekstit bashkëlidhur këtij ligji.

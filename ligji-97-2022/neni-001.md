@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja sektoriale ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit Evropian, që përcakton dispozitat e menaxhimit dhe zbatimit të asistencës financiare të Bashkimit Evropian për Republikën e Shqipërisë, në kuadër të Programit për Zhvillimin Rural të Instrumentit për Asistencën e Paraanëtarësimit (IPARD III), sipas tekstit që i bashkëlidhet këtij ligji.

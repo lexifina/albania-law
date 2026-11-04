@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e financimit, faza I, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main për shërbime të ekspertëve ndaj përfituesit, në kuadrin e studimeve të fizibilitetit, për programin “Infrastruktura bashkiake III/IV”, të financuar nga fonde të veçanta, të siguruara nga Qeveria Gjermane, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.

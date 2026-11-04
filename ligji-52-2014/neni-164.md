@@ -1,5 +1,0 @@
-# Neni 164
-Pasojat juridike të administrimit të përkohshëm
-1. Duke filluar nga data e marrjes së vendimit të administrimit të përkohshëm deri në emërimin e administratorit, kompetencat e këshillit të administrimit /mbikëqyrës i transferohen Autoritetit. Të gjitha përgjegjësitë dhe kompetencat e anëtarëve të këshillit të administrimit /mbikëqyrës dhe asamblesë së përgjithshme përfundojnë, me përjashtim të kompetencave për rritjen e kapitalit, sipas parashikimit të pikës 2, të nenit 167, dhe emërimit të anëtarëve të këshillit të administrimit /mbikëqyrës, sipas parashikimit në dhënë në pikën 4, të nenit 168, të këtij ligji.
-2. Administratori i përkohshëm, i emëruar nga Autoriteti, merr përsipër të gjitha përgjegjësitë e anëtarit të këshillit të administrimit/mbikëqyrës të shoqërisë së sigurimit.
-3. Përveç sa është parashikuar në pikën 2, të këtij neni, Autoriteti u jep administratorëve të përkohshëm edhe udhëzime të detyrueshme për t’u zbatuar, në lidhje me riorganizimin dhe administrimin e shoqërisë së sigurimit. Autoriteti e shkarkon administratorin e përkohshëm nëse nuk vepron në përputhje me këto udhëzime.

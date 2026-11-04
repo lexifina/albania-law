@@ -1,7 +1,0 @@
-LIGJ
-Nr.9699, datë 26.3.2007
-PËR RATIFIKIMIN E “MARRËVESHJES STRATEGJIKE NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE SHËRBIMIT POLICOR EUROPIAN”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

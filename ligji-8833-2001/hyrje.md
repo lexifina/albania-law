@@ -1,7 +1,0 @@
-L I G J
-Nr.8833, datë 22.11.2001
-PËR RATIFIKIMIN E “MARRËVESHJES PËR NXITJEN DHE MBROJTJEN E INVESTIMEVE NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE FONDIT TË OPEC-ut PËR ZHVILLIM NDËRKOMBËTAR”
-Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

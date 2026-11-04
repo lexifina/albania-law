@@ -1,2 +1,0 @@
-# Neni 4
-Objekte të Marrëveshjes së Koncensionit, nuk do të jenë subjekt i privatizimit, sipas ligjit nr.8103, datë 28.3.1996 “Për privatizimin e ndërmarrjeve të sektorit të furnizimit me ujë dhe largimit të ujërave të përdorura”, ose të ligjit nr.8306, datë 14.3.1998 “Për strategjinë e privatizimit të sektorëve me rëndësi të veçantë”. Shoqëria do të ketë titull të plotë pronësie për kapitalet e reja, të përcaktuara në Marrëveshjen e Koncensionit, me përjashtim të atyre që parashikohen në nenet 174 dhe 176 të Kodit Civil.

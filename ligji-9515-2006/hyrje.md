@@ -1,7 +1,0 @@
-L I G J
-Nr.9515, datë 18.4.2006
-PËR ZBATIMIN E KONVENTËS “PËR NDALIMIN E PËRDORIMIT, TË MAGAZINIMIT, TË PRODHIMIT DHE TË TRANSFERIMIT TË MINAVE KUNDËR PERSONIT (MKP) DHE PËR SHKATËRRIMIN E TYRE”
-Në mbështetje të neneve 78, 83 pika 1 dhe 122 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

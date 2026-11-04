@@ -1,9 +1,0 @@
-LIGJ
-Nr. 169/2020
-PËR NJOHJEN SI PERIUDHË SIGURIMI PËR EFEKT PËRFITIMI
-NGA SIGURIMET SHOQËRORE TË KOHËS SË PUNËSIMIT
-NË ISH-KOOPERATIVAT BUJQËSORE
-Në mbështetje të neneve 78 e 83, pika 1, të Kushtetutës, me propozimin e një grupi deputetësh,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

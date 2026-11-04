@@ -1,3 +1,0 @@
-# Neni 2
-Në Marrëveshjen e Koncensionit të formës “BOT”, për Ndërmarrjen e Ujësjellësit dhe Ujë-Kanalizimeve Elbasan ndërmjet Ministrisë së Punëve Publike, Ministrisë së Ekonomisë Publike dhe Privatizimit, Bashkisë së qytetit të Elbasanit dhe BerlinWasser International, GmbH, shoqëria koncensionare e themeluar prej kësaj të fundit, do të përjashtohet nga:
-- detyrimet për pagimin e taksës doganore dhe të TVSH-së për të gjitha makineritë, pajisjet dhe materialet e importuara për qëllime investimi, për një periudhë 10-vjeçare, që nga data e fillimit, ashtu siç përcaktohet në Marrëveshjen e Koncensionit.

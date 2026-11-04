@@ -1,2 +1,0 @@
-# Neni 2
-Grupi mbikëqyrës, brenda 15 ditëve nga hyrja në fuqi e këtij ligji, i dorëzon me procesverbal personit të emëruar nga Ministri i Financave arkivin dokumentar, si dhe asetet financiare e jofinanciare, të krijuara deri në çastin e hyrjes në fuqi të këtij ligji. Financimi i kësaj veprimtarie me fondet e Buxhetit të Shtetit ndërpritet menjëherë me hyrjen në fuqi të këtij ligji. Administratori zhvillon veprimtarinë duke përdorur asetet e shoqërive subjekt kontrolli.

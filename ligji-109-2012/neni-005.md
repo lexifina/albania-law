@@ -1,2 +1,0 @@
-# Neni 5
-Në përputhje me paragrafin e dytë të nenit 24 të konventës, Republika e Shqipërisë deklaron se do të zbatojë dispozitat e Konventës për Njohjen e Divorceve dhe Ndarjeve Ligjore për divorcet dhe ndarjet ligjore të bëra para datës së hyrjes në fuqi të saj dhe rezervon të drejtën të mos e zbatojë atë kur aplikimi i dispozitave nuk sjell pasoja mbi të drejtat e pronësisë, të fituara nga çdo person përpara hyrjes në fuqi të konventës.

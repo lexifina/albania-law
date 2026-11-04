@@ -1,7 +1,0 @@
-# Neni 14
-Hetimi
-1. Palët e interesuara dëgjohen nga ministria, në rast se ato kanë bërë kërkesë me shkrim, brenda periudhës së parashikuar në njoftimin publik, duke argumentuar se mund të dëmtohen nga përfundimet e hetimit dhe kanë arsye të veçanta për t’u dëgjuar.
-2. Ministria dëgjon palët e interesuara, individualisht ose së bashku. Informacioni gojor i dhënë nga palët e interesuara merret në konsideratë nga ministria, me kusht që ky informacion të jetë paraqitur me shkrim. Palët e interesuara, të cilat janë vënë në dijeni në periudhën e caktuar në njoftimin publik, kanë të drejtë që, nëpërmjet një kërkese me shkrim, të shqyrtojnë të dhënat e disponueshme për zhvillimin e hetimit, në përputhje me parimin e ruajtjes së konfidencialitetit të të dhënave.
-3. Kur informacioni nuk është dhënë brenda kufijve kohorë, të caktuar nga ministria, ose hetimi është penguar, atëherë ministria nxjerr përfundime në bazë të fakteve që disponohen. Kur ministria zbulon se palët e interesuara kanë dhënë informacion të rremë ose mashtrues, atëherë ky informacion nuk merret parasysh.
-4. Në rast se aplikimi tërhiqet gjatë procesit të hetimit, komisioni shqyrton situatën dhe vendos për mbylljen e hetimit, përveç rastit kur vazhdimi i hetimit është në interes të Republikës së Shqipërisë.
-5. Hetimi kryhet nga ministria dhe duhet të përfundojë brenda 180 ditëve. Në raste të veçanta, kjo periudhë mund të zgjatet edhe për 60 ditë të tjera dhe bëhet një njoftim në Fletoren Zyrtare.

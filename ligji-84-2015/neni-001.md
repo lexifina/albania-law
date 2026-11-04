@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e garancisë ndërmjet Republikës së Shqipërisë, garantuesi, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main, në lidhje me marrëveshjen e huas, në shumën 40 milionë euro, ndërmjet Operatorit të Sistemit të Transmetimit, sh. a., (OST), huamarrësi, dhe KfW, në mbështetje të projektit “Eficienca energjetike - programi për sektorin e transmetimit të energjisë elektrike”, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.

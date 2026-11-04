@@ -1,7 +1,0 @@
-L I G J
-Nr. 8879, datë 15.4.2002
-PËR RATIFIKIMIN E “MARRËVESHJES SË BASHKËPUNIMIT TEKNIK E FINANCIAR NDËRMJET QEVERISË SË REPUBLIKËS TË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS TË TURQISË”
-Në mbështetje të neneve 78, 81 pika 1, 83 pika 1, 121 dhe 155 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

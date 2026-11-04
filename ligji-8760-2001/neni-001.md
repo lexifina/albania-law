@@ -1,4 +1,0 @@
-# Neni 1
-Pavarësisht nga nenet 33 pika 5 dhe 137 pika 2 të ligjit nr.8410, datë 30.9.1998 “Për radion dhe televizionin publik e privat në Republikën e Shqipërisë”, veprimtaria e subjekteve radiotelevizive të licencuara nuk konsiderohet se është në kundërshtim me dispozitat ligjore përkatëse, në qoftë se këto subjekte paguajnë taksat dhe tarifat e tjera në përputhje me këtë ligj.
-Përjashtimisht për vitin 2000 dhe 2001, detyrimet e operatorëve privatë radio dhe televizivë, që rrjedhin nga ligji nr.8435, datë 28.12.1998 “Për sistemin e taksave në Republikën e Shqipërisë” dhe ligji nr.8410, datë 30.9.1998 “Për radion dhe televizionin publik e privat në Republikën e Shqipërisë” do të paguhen me këste tremujore brenda datës 31.12.2001.
-Për mospagimin në afat të kësteve zbatohen sanksionet e përcaktuara në ligjin nr.8435, datë 28.12.1998 “Për sistemin e taksave në Republikën e Shqipërisë”.

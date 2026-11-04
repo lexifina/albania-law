@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet ndryshimi nr. 1 i marrëveshjes së kredisë për eksport ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, që përfaqësohet nga Ministria e Financave, dhe Unicredit Bank Austria AG, lidhur me financimin e projektit “Shëndetësia elektronike në Shqipëri - Regjistri Mbarëkombëtar i Shëndetësisë Elektronike”, ratifikuar me ligjin nr. 69/2014, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.

@@ -1,2 +1,0 @@
-# Neni 2
-Të përcaktohen në terren dhe në hartë kufijtë e rinj të fondit pyjor kombëtar, që përftohen nga heqja dhe ndryshimi i zërit kadastral të këtyre parcelave, sipas nenit 1 të këtij ligji, si dhe të përfundojnë procedurat e pagesave të sipërfaqes totale prej 194,87 ha, sipas vendimit nr.391, datë 21.6.2006 të Këshillit të Ministrave ”Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave”.

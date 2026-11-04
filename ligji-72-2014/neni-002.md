@@ -1,5 +1,0 @@
-# Neni 2
-Objekti dhe fusha e veprimit
-1. Ky ligj përcakton mënyrën dhe parimet e përgjithshme të përdorimit të armëve të zjarrit nga subjektet, të cilave përdorimi i tyre u është njohur me ligj.
-2. Ky ligj është i detyrueshëm për punonjësit e Policisë se Shtetit, për Forcat e Armatosura të Republikës së Shqipërisë, kur përdoren për vendosjen e rendit vetëm në rastet kur forcat e policisë nuk janë në gjendje ta kryejnë atë, si dhe për subjekte të tjera që janë të pajisura me armë zjarri në bazë të një ligji të posaçëm.
-3. Në rastet kur përdorimi i armëve të zjarrit kërkohet për plotësimin e drejtpërdrejtë të misionit të mbrojtjes së pavarësisë, tërësisë territoriale dhe të rendit kushtetues të Republikës së Shqipërisë apo të një misioni jashtë vendit, të caktuar nga autoritetet kompetente, përdorimi i tyre bëhet sipas rregullave të angazhimit, të miratuara nga Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, në zbatim të misionit të caktuar dhe në përputhje me legjislacionin e brendshëm e atë ndërkombëtar të ratifikuar nga Republika e Shqipërisë.

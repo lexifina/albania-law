@@ -1,7 +1,0 @@
-LIGJ
-Nr.9680, datë 22.1.2007
-PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË MBRETËRISË SË BELGJIKËS PËR TRANSPORTIN AJROR”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

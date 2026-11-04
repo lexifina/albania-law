@@ -1,7 +1,0 @@
-LIGJ
-Nr. 18/2016
-PËR RATIFIKIMIN E KONVENTËS SË KËSHILLIT TË EVROPËS “PËR FALSIFIKIMIN E PRODUKTEVE MJEKËSORE DHE KRIME TË NGJASHME, QË PËRBËJNË KËRCËNIM PËR SHËNDETIN PUBLIK”
-Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

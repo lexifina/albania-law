@@ -1,8 +1,0 @@
-LIGJ
-Nr.9732, datë 14.5.2007
-PËR RATIFIKIMIN E KONVENTËS SË ORGANIZATËS NDËRKOMBËTARE TË PUNËS (ILO) “PËR DOKUMENTET E IDENTITETIT TË DETARËVE, E RISHIKUAR,
-2003 (C185)”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

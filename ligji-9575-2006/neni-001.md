@@ -1,2 +1,0 @@
-# Neni 1
-Personave juridikë e fizikë, të regjistruar si tatimpagues të taksës vendore mbi biznesin e vogël, u falen gjobat e vendosura, që i përkasin të gjitha periudhave tatimore të vitit 2005, që lidhen me deklarimin dhe pagimin me vonesë të detyrimeve për kontributet e sigurimeve shoqërore, të kontributeve të sigurimit të kujdesit shëndetësor dhe të tatimit mbi të ardhurat nga punësimi, me kusht që deklarimi dhe pagesa të bëhen brenda datës 31.12.2006.

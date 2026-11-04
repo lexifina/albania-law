@@ -1,6 +1,0 @@
-# Neni 2
-Procedura e negocimit
-Procedura e negocimit për lidhjen e kontratës do të ndiqet nga komisioni i negocimit të kontratës, i ngritur me urdhër të Kryeministrit, i cili kryesohet nga Ministri i Infrastrukturës dhe Energjisë dhe në përbërje të tij ka anëtarë, përfaqësues nga Ministria e Financave dhe Ekonomisë, Avokatura e Shtetit, Autoriteti i Aviacionit Civil dhe përfaqësues nga institucione të tjera që gjykohen të nevojshme, i cili fillon negociatat brenda 45 ditëve nga momenti i hyrjes në fuqi të këtij ligji.
-Komisioni i negocimit të kontratës vlerëson dhe negocion me shoqëritë “Cengiz Construction & Kalyon & Kolin Construction” propozimin e paraqitur prej tyre dhe harton projektkontratën finale të negociuar nga palët, shoqëruar me relacionin përmbyllës të negociatave.
-Komisioni i negocimit të kontratës mund të asistohet nga një konsulent, i përzgjedhur sipas një procedure të veçantë, të përshpejtuar, që miratohet nga Këshilli i Ministrave.
-Projektkontrata, e shoqëruar me relacionin përmbyllës të negociatave, brenda një afati prej 90 ditësh nga data e nisjes së negociatave, i dërgohet për nënshkrim Ministrit të Infrastrukturës dhe Energjisë dhe Ministrit të Financave dhe Ekonomisë.

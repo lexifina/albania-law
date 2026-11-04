@@ -1,7 +1,0 @@
-LIGJ
-Nr. 75/2012
-PËR RATIFIKIMIN E AKTEVE DHE TË DOKUMENTEVE TË KONGRESIT TË 24-T TË BASHKIMIT POSTAR TË PËRBOTSHËM (UPU), GJENEVË, 2008
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

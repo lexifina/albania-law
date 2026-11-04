@@ -1,7 +1,0 @@
-LIGJ
-Nr. 109/2014
-PËR RATIFIKIMIN E KONTRATËS FINANCIARE, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS EVROPIANE TË INVESTIMEVE, PËR BYPASS-IN E VLORËS
-Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

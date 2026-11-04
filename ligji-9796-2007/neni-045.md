@@ -1,4 +1,0 @@
-# Neni 45
-Mashtrimi
-Kohëzgjatja e masave antidumping ose kundërbalancuese, të vëna në përputhje me këtë ligj, mund të shtyhet për produktet e ngjashme ose një pjesë të tyre, të importuara nga një vend i tretë, kur kemi të bëjmë me mashtrim të këtyre masave.
-Me mashtrim, në këtë rast, kuptojmë ndryshimin e mënyrës së tregtisë ndërmjet vendit të origjinës dhe vendit importues, si rrjedhojë e praktikës, procesit apo punës, për të cilën ka arsye të pamjaftueshme ose justifikim ekonomik të ndryshëm nga ai i vendosjes së taksës dhe kur ka të dhëna se efektet rregulluese të masës po thellohen në terma të tillë, si çmimi dhe/ose sasia e produktit të ngjashëm, apo ka të dhëna për dumping për produktin e ngjashëm të importuar, si dhe kur importimi i produktit të ngjashëm ose i një pjese të tij vazhdon të përfitojë subvencion.

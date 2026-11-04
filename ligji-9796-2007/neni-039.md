@@ -1,4 +1,0 @@
-# Neni 39
-Respektimi i interesit të vendit dhe i rregullit të masës më të vogël
-1. Kur ministria, pas shqyrtimit të fakteve, përcakton ekzistencën e dumpingut ose të subvencionit dhe dëmit të shkaktuar si pasojë e tyre dhe pasi është pasur parasysh interesi i Republikës së Shqipërisë, komisioni vendos masat përfundimtare antidumping ose kundërbalancuese. Në rast se janë në fuqi masat e përkohshme antidumping ose kundërbalancuese, ministria i propozon komisionit vendosjen e masave përfundimtare, jo më vonë se 1 muaj përpara skadimit të masave të përkohshme.
-2. Masa antidumping ose kundërbalancuese nuk duhet të kalojë, respektivisht, kufirin e dumpingut ose shumën e subvencioneve, nga të cilat kanë përfituar eksportuesit dhe duhet të jetë më e vogël, në rast se është e mjaftueshme për të eliminuar dëmin, që i është shkaktuar industrisë shqiptare.

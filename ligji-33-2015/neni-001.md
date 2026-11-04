@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Evropiane për Rindërtim dhe Zhvillim, si administrator i fondeve grant, të siguruara nga BERZH-i, nga burimet e veta, nën fondin e veçantë të aksionarëve, për Strategjinë e Taksimit Rrugor në Shqipëri, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.

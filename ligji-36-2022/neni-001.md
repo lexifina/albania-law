@@ -1,3 +1,0 @@
-# Neni 1
-Qëllimi
-Ky ligj ka për qëllim përcaktimin e parakushteve për krijimin dhe funksionimin e grupeve vendore të veprimit, të cilat do të mundësojnë përmes partneritetit lokal dhe parimit nga poshtë-lart përfshirjen e komuniteteve lokale në identifikimin dhe zbatimin e strategjive të zhvillimit rural të udhëhequra nga vetë komuniteti në varësi të nevojave të tyre, marrjen e vendimeve për alokimin e burimeve financiare dhe menaxhimin e tyre bazuar në parimet e zhvillimit të qëndrueshëm, sigurimin e një mjedisi për investimet në zonat rurale nga vetë komuniteti, ngritjen e kapaciteteve vendore, si dhe zbatimin e strategjive lokale të zhvillimit përmes projekteve lokale.

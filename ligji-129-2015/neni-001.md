@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet vendimi i Këshillit të Stabilizim-Asociimit Bashkimi Evropian - Shqipëri, 1/2015, i datës 11.5.2015, që zëvendëson Protokollin 4 të Marrëveshjes së Stabilizim-Asociimit, ndërmjet Komuniteteve Evropiane dhe shteteve të tyre anëtare, nga njëra anë, dhe Republikës së Shqipërisë, nga ana tjetër, në lidhje me përkufizimin e konceptit “produkte origjinuese” dhe metodat e bashkëpunimit administrativ.

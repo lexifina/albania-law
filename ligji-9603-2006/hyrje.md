@@ -1,7 +1,0 @@
-L I G J
-Nr.9603, datë 28.7.2006
-PËR RATIFIKIMIN E “MARRËVESHJES FINANCIARE NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE SHOQATËS NDËRKOMBËTARE PËR ZHVILLIM (IDA) PËR PROJEKTIN “CILËSI DHE BARAZI NË ARSIM””
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

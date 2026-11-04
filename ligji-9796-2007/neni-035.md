@@ -1,9 +1,0 @@
-# Neni 35
-Masat e përkohshme
-1. Komisioni mund të vendosë masa të përkohshme, nëse ka filluar hetimi, sipas dispozitave të nenit 27 të këtij ligji, kur është bërë njoftim publik për këtë qëllim, nëse u janë krijuar mundësitë e duhura palëve të interesuara për të dërguar të dhënat dhe për të bërë komente, nëse është bërë një përcaktim pohues paraprak i dumpingut ose i subvencioneve dhe i dëmit pasues për industrinë shqiptare dhe nëse marrja e masave të përkohshme, për të parandaluar shkaktimin e dëmit, është në interes të Republikës së Shqipërisë.
-2. Masat e përkohshme mund të jenë në formën e pagesave financiare shtesë ose të një garancie, një depozitë në para apo obligacione, jo më e madhe se kufiri i dumpingut ose masa e subvencionit të vlerësuar paraprakisht.
-3. Në çdo rast, zbatimi i masave të përkohshme antidumping ose kundërbalancuese është kusht për qarkullimin e lirë në territorin e Republikës së Shqipërisë të produktit në hetim.
-4. Masat e përkohshme do të vendosen jo më parë se 60 ditë, por jo më vonë se 9 muaj nga fillimi i procedurave të hetimit.
-5. Shuma e masës antidumping ose kundërbalancuese të përkohshme nuk mund të kalojë, respektivisht, kufirin e dumpingut ose shumën totale të subvencioneve të kompensueshme, të vërtetuara në mënyrë të përkohshme dhe duhet të jetë më e vogël se ky kufi ose kjo shumë, nëse një masë më e ulët është e mjaftueshme për të eliminuar dëmin, që i është shkaktuar industrisë shqiptare.
-6. Masat e përkohshme do të zbatohen për një periudhë jo më të gjatë se 6 muaj. Me kërkesë të eksportuesve, që zënë një përqindje të rëndësishme të tregut, komisioni mund të zgjasë periudhën e zbatimit të taksave të përkohshme, por jo më shumë se 9 muaj.
-7. Në zbatim të masave të përkohshme zbatohen kushtet e parashikuara në nenin 41 të këtij ligji.

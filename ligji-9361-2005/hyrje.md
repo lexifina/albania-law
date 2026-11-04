@@ -1,7 +1,0 @@
-LIGJ
-Nr.9361, datë 24.3.2005
-PËR NJË TRAJTIM TË VEÇANTË FINANCIAR TË EFEKTIVAVE, OFICERË DHE NËNOFICERË LUNDRUES, TË NËNDETËSEVE DHE POLUMBARËVE TË FORCAVE DETARE, NË PENSION
-Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

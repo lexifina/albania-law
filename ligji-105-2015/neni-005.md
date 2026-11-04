@@ -1,2 +1,0 @@
-# Neni 5
-Në nenin 33, pika 2, në fund të fjalisë së parështohen fjalët “me kusht që furnizuesi për materialin mbjellës dhe shumëzues bimor që importon të paraqesë në Entin Shtetëror të Farave dhe Fidanëve dokumentacion zyrtar nga shteti importues, nëpërmjet të cilit vërtetohen karakteristikat e materialit mbjellës dhe shumëzues bimor (Skedën), dhe provën e kryer për dallueshmëri, uniformitetdhe stabilitet (DUS).”.

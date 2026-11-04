@@ -1,7 +1,0 @@
-LIGJ
-Nr. 127/2015
-PËR RATIFIKIMIN E MARRËVESHJES SË FINANCIMIT, FAZA I, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, DHE KfW FRANKFURT AM MAIN PËR Shërbime të Ekspertëve ndaj Përfituesit, në kuadrin e Studimeve të Fizibilitetit, PëR PROGRAMIN “INFRASTRUKTURA BASHKIAKE III/IV”, TË FINANCUAR NGA FONDE TË VEÇANTA, TË SIGURUARA NGA QEVERIA GJERMANE
-Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

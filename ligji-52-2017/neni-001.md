@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet ndryshimi nr. 1 i marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant, të siguruara nga Agjencia Suedeze për Zhvillimin e Bashkëpunimit Ndërkombëtar (SIDA), nën Fondin Suedez të Besimit, për Fondin e Besimit nr. TF072239, për projektin e shërbimeve mjedisore në Shqipëri, të ratifikuar me ligjin nr. 64/2015, sipas tekstit që i bashkëlidhet këtij ligji.

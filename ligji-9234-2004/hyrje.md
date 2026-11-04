@@ -1,7 +1,0 @@
-Ligj
-Nr. 9234, datë 20.5.2004
-Për ratifikimiN E “MARRËVESHJES së KREDIsë NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE BANKËS ISLAMIKE PËR ZHVILLIM (IDB) PËR FINANCIMIN E FAZËS së dytë TË PROJEKTIT TË SPITALIT TË PËRGJITHSHËM DURRËS”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

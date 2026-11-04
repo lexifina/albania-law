@@ -1,7 +1,0 @@
-LIGJ
-Nr.9212, datë 25.3.2004
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN NDËRKOMBËTARE “PËR KUFIZIMIN E PËRGJEGJËSIVE PËR REKLAMIMET DETARE, 1976” DHE NË PROTOKOLLIN E VITIT 1996
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

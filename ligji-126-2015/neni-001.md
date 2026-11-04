@@ -1,2 +1,0 @@
-# Neni 1
-Ratifikohet marrëveshja e financimit, faza I, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main për fuqizimin institucional për programin “Infrastruktura bashkiake III/IV”, furnizimi me ujë dhe kanalizime për vendndodhjet Berat-Kuçovë, Delvinë, Gjirokastër, Kamëz, Librazhd dhe Lushnjë, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.

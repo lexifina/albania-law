@@ -1,8 +1,0 @@
-L I G J
-Nr.9496, datë 20.3.2006
-PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE MISIONIT TË PËRKOHSHËM TË KOMBEVE TË BASHKUARA NË KOSOVË (UNMIK) PËR TRANSFERIMIN E PERSONAVE
-TË DËNUAR”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 shkronja “b” të Kushtetutës, me propozimin e Këshillit të Ministrave,
-K U V E N D I
-I REPUBLIKËS SË SHQIPËRISË
-V E N D O S I:

@@ -1,6 +1,0 @@
-# Neni 12
-Vendimet e komisionit
-1. Nëse kundërshtimi në lidhje me aplikimin për regjistrim nuk është paraqitur brenda 20 ditëve pune, nga data e afatit për dorëzimin e një kundërshtimi, komisioni merr vendim për aplikimin lidhur me përmbushjen ose jo të kërkesave të përcaktuara në shkronjën “b”, të pikës 3, të nenit 8, të këtij ligji, brenda 20 ditëve pune, i cili i dërgohet për miratim ministrit.
-2. Nëse kundërshtimi në lidhje me aplikimin për regjistrim është paraqitur brenda 20 ditëve pune, nga data e afatit për dorëzimin e kundërshtimit, komisioni shqyrton dhe merr vendim brenda 25 ditëve pune për ligjshmërinë ose jo të kundërshtimit të depozituar, lidhur me plotësimin e kërkesave të aplikimit, të përcaktuara në shkronjën “b”, të pikës 3, të nenit 8, të këtij ligji.
-3. Nëse aplikimi për regjistrim dhe kundërshtimi janë të justifikuara, struktura përgjegjëse thërret për konsultim aplikuesin dhe kundërshtuesin, që, brenda një kohe të caktuar, të bien dakord ose jo për aplikimin. Kur palët bien dakord, aplikimi i rishikuar paraqitet për regjistrim si aplikim i përbashkët, Ndërsa, kur palët nuk bien dakord, aplikimi refuzohet me urdhër të ministrit.
-4. Vendimi i refuzimit të aplikimit për regjistrim mund të ankimohet në gjykatën kompetente, brenda 20 ditëve pune, nga data e marrjes së njoftimit.

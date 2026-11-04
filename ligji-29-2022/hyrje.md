@@ -1,9 +1,0 @@
-LIGJ
-Nr. 29/2022
-PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË MARRËVESHJEN
-E PJESSHME TË ZGJERUAR PËR RRUGËT KULTURORE,
-MIRATUAR ME REZOLUTËN CM/RES (2013) 66
-Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

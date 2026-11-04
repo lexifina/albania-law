@@ -1,7 +1,0 @@
-LIGJ
-Nr.9348, datë 24.2.2005
-PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE REPUBLIKËS SË BULLGARISË PËR NDIHMË TË NDËRSJELLË JURIDIKE NË ÇËSHTJET CIVILE”
-Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
-KUVENDI
-I REPUBLIKËS SË SHQIPËRISË
-VENDOSI:

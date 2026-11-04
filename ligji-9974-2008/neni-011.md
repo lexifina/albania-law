@@ -1,4 +1,0 @@
-# Neni 11
-Zbatimi i ligjit të huaj dhe përparësia e së drejtës ndërkombëtare
-1. Palët mund të përcaktojnë me shkrim në kontratë se kjo e fundit do të rregullohet nga legjislacioni i huaj, si dhe mund t’u nënshtrohet njëkohësisht marrëveshjeve kuadër, kontratave standard, praktikave dhe/ose zakoneve tregtare ndërkombëtare ose kombëtare, të zbatueshme në industrinë bankare.
-2. Në rast se përmbajtja e legjislacionit të huaj ose e marrëveshjeve kuadër, kontratave standard, praktikave dhe/ose zakoneve tregtare ndërkombëtare, të zbatueshme për kontratën repo, sipas pikës 1 të këtij neni, bien në kundërshtim me cilëndo dispozitë të këtij ligji ose të ligjeve të tjera të Republikës së Shqipërisë, parashikimet e legjislacionit të huaj ose të marrëveshjeve kuadër, kontratave standard, praktikave dhe/ose zakoneve tregtare ndërkombëtare do të kenë përparësi ndaj dispozitave të këtij ligji ose të ligjeve të tjera të Republikës së Shqipërisë.
