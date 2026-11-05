@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 78, datë 7.2.2007](https://qbz.gov.al/api/v1/acts/55468); [QBZ versions](https://qbz.gov.al/api/v1/acts/55468/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2024-12-04; after QBZ act 29289 (nr. 744).
+Status of this text: `official consolidated version 2`, applying from 2026-11-05; after QBZ act 120224 (nr. 845).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
