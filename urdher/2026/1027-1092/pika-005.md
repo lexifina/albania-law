@@ -1,0 +1,1 @@
+5. Për periudhën prej 1.1.2026 deri më 1.3.2027 të lejohet vetëm peshkimi i riprodhuesve të koranit (Salmo letnica) për qëllime të grumbullimit të vezëve deri në 220 kg, të cilat do të shtrohen për inkubim në impiantet e Qendrës së Prodhimit të Rasateve të Koranit, në fshatin Lin të Pogradecit.

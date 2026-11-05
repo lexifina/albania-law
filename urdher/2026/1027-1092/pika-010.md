@@ -1,0 +1,2 @@
+10. Ngarkohen Drejtoria e Politikave, Strategjisë dhe Programeve të Peshkimit dhe Akuakulturës, Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës, Qendra e Prodhimit të Rasateve të Koranit në fshatin Lin të Pogradecit të bashkëpunojnë me strukturat e qeverisjes vendore Pogradec, Komisariatin e Policisë, Policinë Tatimore, Drejtorinë Rajonale të AKU-së Korçë, për zbatimin e këtij urdhri.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

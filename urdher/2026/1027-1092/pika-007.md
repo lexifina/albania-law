@@ -1,0 +1,1 @@
+7. Veprimtaria e grumbullimit të vezëve, të kryhet e organizuar nën drejtimin e DSHPA-së, në varësi të së cilës është Sektori i Kontrollit dhe Monitorimit të Peshkimit, Qendra e Prodhimit të Rasateve të Koranit në fshatin Lin të Pogradecit, të cilët bashkëpunojnë me 60 peshkatarë me përvojë.
