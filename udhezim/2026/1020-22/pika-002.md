@@ -1,0 +1,4 @@
+2. Monitorimi i kontratave synon:
+a) Sigurimin e zbatimit të detyrimeve kontraktore dhe ligjore nga subjektet fizikë ose juridikë (në vijim “subjekte”), që kanë lidhur kontratë me ministrinë përgjegjëse për aktivitetin e peshkimit dhe akuakulturës (në vijim “ministria”) për ushtrimin e aktivitetit të peshkimit dhe akuakulturës dhe me njësitë e vetëqeverisjes vendore, për ushtrimin e aktivitetit të ripopullimit të peshkimi;
+b) Identifikimin, dokumentimin dhe vlerësimin e rasteve të mosrespektimit të detyrimeve kontraktore dhe ligjore;
+c) Marrjen e masave administrative, në përputhje me aktet ligjore dhe nënligjore në fushën e peshkimit dhe akuakulturës, si dhe me detyrimet ligjore që burojnë nga kontrata, ndaj subjekteve kontraktore që konstatohet se kanë shkelur kushtet kontraktore ose ligjore.
