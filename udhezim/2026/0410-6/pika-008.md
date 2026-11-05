@@ -1,1 +1,0 @@
-8. Në raste të veçanta, për shkak të volumit të dokumentacionit të paraqitur nga subjekti, ose kur natyra dhe kompleksiteti i çështjeve të konstatuara kërkojnë kohë shtesë për analizë dhe verifikim, afatet e përcaktuara në pikat 6 dhe 7 të këtij kreu mund të zgjaten për një periudhë shtesë, por jo më shumë se kohëzgjatja e afatit fillestar.
