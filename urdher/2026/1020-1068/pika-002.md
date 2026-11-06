@@ -1,0 +1,2 @@
+2. Miratimin e kontratës tip për ushtrimin e së drejtës së zhvillimit të aktivitetit të ripopullimit dhe peshkimit në ujëmbledhësit e bujqësisë, e cila lidhet:
+ndërmjet njësisë së vetëqeverisjes vendore dhe subjektit fitues të procedurës së konkurrimit publik, për ujëmbledhësit e bujqësisë që janë në përgjegjësi dhe administrim të bashkisë, nën juridiksionin territorial të së cilës ndodhen këta ujëmbledhës sipas shtojcës nr. 4, bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
