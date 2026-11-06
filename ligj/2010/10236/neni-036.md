@@ -1,7 +1,7 @@
 # Neni 36
 Shoqëritë aksionare të regjistruara jashtë Shqipërisë
 dhe të listuara në bursë në Shqipëri
-1. Nëse shoqëria, objekt i ofertës, e ka selinë në një shtet tjetër anëtar të BE-së ose të zonës ekonomike europiane, zbatohen dispozitat e këtij ligji, për përmbajtjen dhe procedurën e ofertave, konkretisht dispozitat e krerëve I, IV e V dhe nenet nga 5 deri në 29 të këtij ligji, me përjashtim të parashikimeve të nenit 35 të këtij ligji, si dhe dispozitat e tjera të ligjit për shoqëritë tregtare, nëse plotësohen kushtet e mëposhtme:
+1. Nëse shoqëria, objekt i ofertës, e ka selinë në një shtet tjetër anëtar të BE-së ose të zonës ekonomike europiane, zbatohen dispozitat e këtij ligji, për përmbajtjen dhe procedurën e ofertave, konkretisht dispozitat e krerëve I, IV e V dhe nenet nga 5 deri në 29 të këtij ligji, me përjashtim të parashikimeve të nenit 35 të këtij ligji, nëse plotësohen kushtet e mëposhtme:
 a) aksionet me të drejtë vote pranohen vetëm në tregun e organizuar në Shqipëri;
 b) aksionet me të drejtë vote pranohen në tregun e organizuar në Shqipëri dhe në një shtet tjetër, por jo në shtetin ku ka selinë shoqëria, objekt i ofertës dhe:
 i) pranimi i parë në tregun e organizuar ka ndodhur ne Shqipëri;

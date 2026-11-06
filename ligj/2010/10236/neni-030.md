@@ -1,6 +1,16 @@
 # Neni 30
-Kompetenca e Autoritetit dhe bordit të tij
-1. Autoriteti i Mbikëqyrjes Financiare është përgjegjës për:
-a) mbikëqyrjen e zbatimit të dispozitave të këtij ligji, në përputhje me objektivat e parashikuara në nenin 12 të ligjit nr. 9572, datë 3.7.2006 “Për Autoritetin e Mbikëqyrjes Financiare”;
-b) marrjen e masave për parandalimin dhe eliminimin e të metave, që mund të lindin gjatë procedurës së ofertës për marrjen në kontroll.
-2. Autoriteti miraton rregulloret e nevojshme, në zbatim të këtij ligji.
+Kompetenca e Autoritetit
+1. Autoriteti është kompetent për mbikëqyrjen, e:
+a) zbatimit të dispozitave të këtij ligji, nëse aksionet me të drejtë vote të një shoqërie publike me seli në Republikën e Shqipërisë, objekt i ofertës, janë listuar në tregun e rregulluar në Republikën e Shqipërisë;
+b) zbatimit të dispozitave të nenit 35 të këtij ligji, nëse aksionet me të drejtë vote të një shoqërie publike me seli në Republikën e Shqipërisë, objekt i ofertës, janë listuar në tregun e rregulluar të një shteti anëtar të Bashkimit Evropian ose të Zonës Ekonomike Evropiane;
+c) zbatimit të dispozitave të nenit 36 të këtij ligji, nëse titujt me të drejtë vote të një shoqërie publike me seli në një shtet anëtar të Bashkimit Evropian ose të Zonës Ekonomike Evropiane, objekt i ofertës, janë listuar për tregtim në një treg të rregulluar në Republikën e Shqipërisë.
+2. Në rast se dokumenti i ofertës është subjekt i miratimit paraprak nga një autoritet mbikëqyrës i një shteti anëtar dhe është miratuar, ai do të njihet pa pasur nevojë për miratimin e Autoritetit. Autoriteti mund të kërkojë informacion pranë autoritetit mbikëqyrës që ka miratuar ofertën, në rastin kur ky informacion është specifik për tregun ku titujt e kompanisë së ofruar janë të pranuar për tregtim dhe lidhet me proceset që duhen respektuar për të pranuar ofertën e për të marrë shumën e kundërvlerës në mbyllje të ofertës, si dhe me rregullat tatimore që zbatohen për shumën e ofruar për mbajtësit e titujve.
+3. Autoriteti bashkëpunon me autoritetet mbikëqyrëse të shteteve anëtare që mbikëqyrin instrumentet financiare dhe shkëmben informacion për zbatimin e rregullave të këtij ligji. Ky bashkëpunim përfshin, kur është e nevojshme, përcjelljen dhe njoftimin e dokumenteve ligjore të kërkuara për zbatimin e masave të marra nga autoritetet kompetente, lidhur me ofertat për marrje në kontroll, koordinimin për zbatimin e këtyre masave, si dhe dhënien e çdo ndihme tjetër të arsyeshme, të kërkuar për hetimin e shkeljeve të konstatuara ose të pretenduara të rregullave të zbatueshme për ofertat për marrje në kontroll. Informacioni i shkëmbyer i nënshtrohet detyrimit për ruajtjen e sekretit profesional, në përputhje me legjislacionin në fuqi për konfidencialitetin dhe mbrojtjen e të dhënave personale.
+4. Shoqëria, objekt i ofertës, dhe ofertuesi janë të detyruar që në çdo kohë, me kërkesë të Autoritetit, t’i vënë në dispozicion të gjithë informacionin dhe dokumentet që zotërojnë lidhur me ofertën, kur ky informacion është i nevojshëm për përmbushjen e funksioneve mbikëqyrëse të Autoritetit, sipas këtij ligji.
+5. Autoriteti, në rrethana të interesit publik ose të rasteve të jashtëzakonshme të tregut, që përfshijnë fatkeqësi natyrore, kufizim të lëvizjes sipas protokolleve shëndetësore, sulme kibernetike, prishje të infrastrukturës së tregut, që pengojnë shpalljet brenda afateve, si dhe ristrukturime me vendime gjyqësore apo masa në kuadër të rimëkëmbjes dhe të ndërhyrjes së jashtëzakonshme, me vendim të arsyetuar, mund të bëjë përjashtime të kufizuara nga rregullat e këtij ligji, duke respektuar parimet e përcaktuara në nenin 3 të këtij ligji.
+6. Autoriteti me rregullore miraton:
+a) format e veprimit në mënyrë të përbashkët;
+b) llogaritjen e numrit e të përqindjes së të drejtave të votës;
+c) sigurimin e shpërblimit;
+ç) procedurat për marrjen e masave për parandalimin dhe eliminimin e të metave, që mund të lindin gjatë procedurës së ofertës për marrjen në kontroll;
+d) procedurat për trajtimin e ankesave.
