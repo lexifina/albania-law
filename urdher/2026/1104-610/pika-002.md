@@ -1,0 +1,1 @@
+2. Delegimi sipas pikës 1 përfshin drejtimin e bashkërendimin e veprimtarisë së institucionit dhe nënshkrimin e akteve administrative e të korrespondencës zyrtare që janë në kompetencë të drejtorit të përgjithshëm, për aq sa delegimi i tyre lejohet nga legjislacioni në fuqi.

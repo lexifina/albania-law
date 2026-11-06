@@ -1,0 +1,1 @@
+1. Delegimin e ushtrimit të kompetencave të drejtorit të përgjithshëm të Arkivave te zëvendësdrejtori i përgjithshëm, z. Endrit Musaj, për shkak të mungesës së përkohshme të titullarit, për periudhën nga data 5.11.2026 deri më 6.11.2026.
