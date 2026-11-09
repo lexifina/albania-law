@@ -1,0 +1,1 @@
+3. Prindi aplikues i familjes kujdestare profesionale punësohet për ofrimin e shërbimit të kujdesit alternativ në familje pranë njësisë së vetëqeverisjes vendore, ku ka vendbanimin e përhershëm dhe lidh kontratë pune me këtë njësi.

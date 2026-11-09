@@ -1,0 +1,1 @@
+8. Njësitë e vetëqeverisjes vendore informojnë Shërbimin Social Shtetëror, nëpërmjet strukturave rajonale të varësisë, për fillimin dhe përfundimin e ofrimit të shërbimit nga familjet kujdestare profesionale dhe fëmijët e vendosur në kujdes alternativ, që përfitojnë mbështetje financiare sipas këtij vendimi.

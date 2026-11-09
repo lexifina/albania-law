@@ -1,0 +1,1 @@
+6. Pagesa mujore përfitohet edhe në rastet kur prindi aplikues është i punësuar, i vetëpunësuar ose ushtron një veprimtari tjetër profesionale. Në çdo rast, prindi duhet të sigurojë organizimin e kohës dhe të veprimtarisë në mënyrë të tillë që të mos cenohen në asnjë rast nevojat, siguria, mirëqenia dhe interesi më i lartë i fëmijës.

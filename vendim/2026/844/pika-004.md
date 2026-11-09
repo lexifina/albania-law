@@ -1,0 +1,1 @@
+4. Marrëdhëniet e punës ndërmjet njësisë së vetëqeverisjes vendore dhe prindit aplikues të familjes kujdestare profesionale rregullohen në përputhje me dispozitat e Kodit të Punës të Republikës së Shqipërisë.
