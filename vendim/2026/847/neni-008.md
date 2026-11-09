@@ -1,0 +1,11 @@
+# Neni 8
+Ndryshimi i fushës së miratimit të trupës së kontrollit, që vepron sipas ligjit
+1. Aplikimi për ndryshimin e fushës së miratimit të trupës së kontrollit kryhet online në portalin qeveritar “e-Albania”.
+2. Aplikimi i parashikuar në pikën 1, të këtij neni, përmban kërkesën për zgjerim ose reduktim të fushës së miratimit, për sa i përket fushës së veprimtarisë për certifikim të operatorit ose grupit të operatorëve organikë dhe kategorisë së produkteve, të përcaktuara në pikën 7, të nenit 37, të ligjit.
+3. Në rast të ndryshimit të fushës së akreditimit, trupa e kontrollit aplikon menjëherë për ndryshim të fushës së miratimit.
+4. Në rast të kërkesës për zgjerim të fushës së miratimit, aplikimi konsiderohet si aplikim i ri për miratim dhe zbatohet procedura sipas nenit 7, të këtij vendimi.
+5. Në rast të miratimit të kërkesës për zgjerim, afati i vlefshmërisë së certifikatës së regjistrimit është 5 (pesë) vjet nga data e miratimit nga ministri të aplikimit për zgjerim të fushës së miratimit, me të drejtë rinovimi.
+6. Kur aplikimi për zgjerim të fushës së miratimit nuk miratohet, certifikata e mëparshme e miratimit mbetet e pandryshuar, për sa i përket fushës së miratimit dhe afatit të vlefshmërisë.
+7. Në rast të kërkesës për reduktim të fushës së miratimit, aplikimi nuk shoqërohet me dokumentacion, por vetëm me një përshkrim të arsyes së kërkesës.
+8. KPO-ja vlerëson aplikimin brenda 10 (dhjetë) ditëve punë nga depozitimi i aplikimit nga sekretariati teknik dhe i propozon ministrit miratimin e reduktimit të fushës së miratimit të trupës së kontrollit dhe pajisjen me certifikatë regjistrimi brenda 5 (pesë) ditëve punë. Në këtë rast, sekretariati njofton menjëherë për miratimin e aplikimit, nëpërmjet portalit qeveritar “e-Albania”, në të cilin ngarkohet urdhri i ministrit dhe certifikata e re e regjistrimit. Certifikata e re e regjistrimit përmban fushën aktuale të miratimit të veprimtarisë, për certifikim të operatorit ose grupit të operatorëve organikë dhe kategoritë aktuale të produkteve dhe zëvendëson certifikatën e mëparshme të miratimit të trupës së kontrollit.
+9. Afati i vlefshmërisë së certifikatës së regjistrimit të përcaktuar në pikën 8, të këtij neni, mbetet i pandryshuar nga miratimi fillestar.

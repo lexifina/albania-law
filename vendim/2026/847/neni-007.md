@@ -1,0 +1,23 @@
+# Neni 7
+Procedura e miratimit të trupave të kontrollit, që veprojnë sipas ligjit dhe ankimimi
+1. Aplikimi për miratimin e trupës së kontrollit, siç përcaktohet në pikën 2, të nenit 45, të ligjit, kryhet online në portalin qeveritar “e-Albania”.
+2. Aplikimi sipas pikës 1, të këtij neni, shoqërohet me:
+a) dokumentacionin për procedurën e vlerësimit të riskut, që përcakton bazën për intensitetin dhe shpeshtësinë e verifikimit të përputhshmërisë së operatorit dhe grupit të operatorëve;
+b) dokumentacionin për procedurën standarde të kontrollit dhe certifikimit, që përmban një përshkrim të detajuar të masave të kontrollit dhe vendimit të certifikimit, që ndërmerr trupa e kontrollit ndaj operatorit e grupit të operatorëve nën kontrollin e saj;
+c) dokumentacionin që përshkruan masat, të cilat merren në përputhje me katalogun e përbashkët të masave, të përcaktuar në pikën 3, të nenit 51, të ligjit, për operatorin e grupin e operatorëve, në rastet e mospërputhjeve të dyshuara ose të vërtetuara;
+ç) dokumentacionin për procedurën e monitorimit efektiv të detyrave të caktuara për inspektimin, certifikimin dhe aktivitete të tjera të kontrollit zyrtar, që kryen trupa e kontrollit në lidhje me operatorin e grupin e operatorëve dhe raportimin për kryerjen e tyre;
+d) certifikatën e vlefshme të akreditimit dhe raportin e fundit të akreditimit për fushën e ligjit, në përputhje me standardet e harmonizuara për akreditimin;
+dh) kontratat me laboratorë të akredituar për analizimin e mostrave dhe dokumentacionin për procedurat standarde të marrjes së mostrave;
+e) dokumentacionin për strukturën organizative të punonjësve, kualifikimet profesionale e përvojën e tyre;
+ë) procedurat e brendshme dhe deklaratat e personelit për të siguruar në çdo rast paanshmëri dhe shmangie të konfliktit të interesit në ushtrimin e detyrave të personelit;
+f) tarifat që aplikohen për inspektimin dhe certifikimin e operatorit ose grupit të operatorëve dhe metodologjinë e llogaritjes së këtyre tarifave;
+g) dokumentacionin për procedurat e brendshme të komunikimit me ministrinë, autoritetet kompetente të kontrollit zyrtar dhe trupat e tjera të kontrollit;
+gj) adresa dhe të dhënat e kontaktit të zyrës lokale, ku ushtron veprimtarinë trupa e kontrollit, si dhe të drejtuesit të saj, së bashku me dokumentacionin që vërteton se zyra disponon kapacitetet, mjetet e burimet njerëzore të nevojshme për ushtrimin efektiv të veprimtarisë;
+h) mandatin e pagesës së tarifës, sipas pikës 11, të nenit 45, të ligjit.
+3. Aplikimi i përcaktuar në pikën 1, të këtij neni, pranohet nga sektori përgjegjës për prodhimin organik në ministrinë përgjegjëse për bujqësinë, i cili shërben si sekretariat teknik i komisionit për prodhimin organik (KPO) dhe verifikon paraprakisht plotësimin e aplikimit dhe të dokumentacionit shoqërues të kërkuar, brenda 5 (pesë) ditëve punë. Në rast të mangësive të vërejtura në plotësimin e formularit të aplikimit ose dokumentacionit shoqërues, sektori njofton vetëm një herë aplikantin për plotësimin e mangësive brenda afatit 7 (shtatë) ditë pune, nëpërmjet portalit “e-Albania”. Në rast se aplikanti nuk plotëson mangësitë brenda afatit, aplikimi i përcillet KPO-së për vijimin e procedurave për vlerësimin e aplikimit.
+4. Kur aplikimi është plotësuar në përputhje me pikat 1 dhe 2, të këtij neni, sekretariati teknik ia paraqet për shqyrtim KPO-së dosjen e plotë të aplikimit.
+5. KPO-ja mblidhet e shqyrton aplikimin për miratim të trupës së kontrollit brenda 20 (njëzet) ditëve punë nga depozitimi i aplikimit nga sekretariati teknik.
+6. Në rast se aplikimi përmbush kërkesat e përcaktuara në ligj dhe këtë vendim, KPO-ja i propozon ministrit miratimin e trupës së kontrollit dhe pajisjen me certifikatë regjistrimi brenda 5 (pesë) ditëve punë. Në këtë rast, sekretariati kryen menjëherë njoftimin për miratimin e aplikimit nëpërmjet portalit qeveritar “e-Albania”, në të cilin ngarkohet urdhri i ministrit dhe certifikata e regjistrimit.
+7. Afati i vlefshmërisë së certifikatës së regjistrimit, sipas pikës 6, të këtij neni, është 5 (pesë) vjet nga data e miratimit nga ministri, me të drejtë rinovimi për aq kohë sa trupa e kontrollit vazhdon të përmbushë kushtet e miratimit dhe të ruajë vlefshmërinë e akreditimit.
+8. Kur aplikimi nuk plotëson tërësisht kërkesat e përcaktuara në ligj dhe në këtë vendim, KPO-ja i propozon ministrit refuzimin e aplikimit dhe sekretariati njofton menjëherë për vendimin e arsyet e refuzimit, nëpërmjet portalit qeveritar “e-Albania”, në të cilin ngarkohet urdhri i ministrit.
+9. Kundër vendimit për refuzimin e kërkesës, aplikuesi ka të drejtën e ankimit brenda 30 (tridhjetë) ditëve punë nga data e marrjes së njoftimit, sipas rregullave të parashikuara në Kodin e Procedurave Administrative.
