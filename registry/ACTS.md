@@ -1,6 +1,6 @@
 # Every act in this repository
 
-17807 acts, 22,665 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+17813 acts, 22,671 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## aktnormativ (54, of which 1 amending acts)
 
@@ -6927,7 +6927,7 @@
 | Për disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqur në shtetin e Brazilit | [`urdher/2026/1021-1075/`](urdher/2026/1021-1075/) | repealed 2026-11-03 | 2 | 2026-10-29 | 2026-11-03 |
 | Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Danimarkës | [`urdher/2026/1026-1085/`](urdher/2026/1026-1085/) | repealed 2026-11-03 | 2 | 2026-11-03 | 2026-11-03 |
 
-## vendim (10911, of which 302 amending acts)
+## vendim (10917, of which 302 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11109,7 +11109,7 @@
 | Për miratimin e kritereve për ngritjen e njësive të auditimit të brendshëm në sektorin publik | [`vendim/2012/212/`](vendim/2012/212/) | repealed 2016-02-11 | 2 | 2012-04-29 | 2016-02-11 |
 | Për kompensimin e vlerës së taksës së biznesit të vogël, të përdorur për rimbursimin e pajisjeve fiskale dhe taksimetrave, për 5 bashki dhe 13 komuna | [`vendim/2012/216/`](vendim/2012/216/) | in force | 1 | 2012-04-29 | 2012-04-29 |
 | Për përcaktimin e standardeve, metodave të testimit dhe kufijtë e lejuar për biodegradimin e detergjenteve dhe vlerësimin e rrezikut për lëndët tensioaktive në detergjente | [`vendim/2012/220/`](vendim/2012/220/) | in force | 1 | 2012-05-06 | 2012-05-06 |
-| Për miratimin e rregullave teknike “për etiketimin e produkteve të qelqit kristal” | [`vendim/2012/221/`](vendim/2012/221/) | in force | 1 | 2012-04-29 | 2012-04-29 |
+| Për miratimin e rregullave teknike “për etiketimin e produkteve të qelqit kristal” | [`vendim/2012/221/`](vendim/2012/221/) | amended, not consolidated | 1 | 2012-04-29 | 2012-04-29 |
 | Për miratimin e rregullave teknike për etiketimin e materialeve që përdoren në përbërësit kryesorë të veshjeve të këmbës, në shitje për konsumatorët” | [`vendim/2012/222/`](vendim/2012/222/) | in force | 1 | 2012-04-29 | 2012-04-29 |
 | Për miratimin e marrëveshjes së bashkëpunimit financiar ushtarak, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së republikës së turqisë | [`vendim/2012/229/`](vendim/2012/229/) | in force | 1 | 2012-05-06 | 2012-05-06 |
 | Për një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e punëve të jashtme, për financimin e shoqatës “vatra”, me seli në shba, me rastin e festimit të 100-vjetorit të pavarësisë së republikës së shqipërisë, si dhe kremtimit të 100-vjetorit të krijimit të shoqatës | [`vendim/2012/232/`](vendim/2012/232/) | in force | 1 | 2012-05-09 | 2012-05-09 |
@@ -14627,7 +14627,7 @@
 | Për subvencionimin e Dhomës Kombëtare të Zejtarisë | [`vendim/2019/825/`](vendim/2019/825/) | in force | 1 | 2019-12-19 | 2019-12-19 |
 | Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Komuna e Parisit-Rrugë e Re Tiranë-Elbasan” (shtesa) | [`vendim/2019/826/`](vendim/2019/826/) | in force | 1 | 2019-12-19 | 2019-12-19 |
 | Për miratimin e kushteve të përgjithshme dhe të posaçme të kontratës së rijetëzimit | [`vendim/2019/828/`](vendim/2019/828/) | in force | 1 | 2019-12-23 | 2019-12-23 |
-| Për miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transportin, ruajtjen, etiketimin, njoftimin e aktivitetit dhe kontrollin e produkteve biologjike” | [`vendim/2019/830/`](vendim/2019/830/) | in force | 1 | 2019-12-19 | 2019-12-19 |
+| Për miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transportin, ruajtjen, etiketimin, njoftimin e aktivitetit dhe kontrollin e produkteve biologjike” | [`vendim/2019/830/`](vendim/2019/830/) | amended, not consolidated | 1 | 2019-12-19 | 2019-12-19 |
 | Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit: “Ndërtim-asfaltim i rrugës Cërrik-Belsh-Dragot-Kuçovë-Ura Vajgurore” | [`vendim/2019/832/`](vendim/2019/832/) | in force | 1 | 2019-12-23 | 2019-12-23 |
 | Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit: “Rikonstruksioni i rrugës Shkodër-Velipojë (segmenti Harku i Bërdicës-Baks)”, Shkodër | [`vendim/2019/833/`](vendim/2019/833/) | in force | 2 | 2019-12-23 | 2026-09-15 |
 | Për miratimin e programit të përgjithshëm analitik të projektakteve, që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2020 | [`vendim/2019/837/`](vendim/2019/837/) | in force | 2 | 2019-12-30 | 2020-02-26 |
@@ -15955,7 +15955,7 @@
 | Për miratimin e marrëveshjes së grantit dhe projektit të BE-së, ndërmjet Republikës së Shqipërisë (marrësi), të përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW) dhe Korporatës Elektroenergjetike Shqiptare (KESH) (agjencia e zbatimit të projektit), rehabilitimi i hidrocentralit të Fierzës | [`vendim/2022/260/`](vendim/2022/260/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Për njësitë bazë të Sistemit Ndërkombëtar të Njësive (SI), që do të përdoren në Shqipëri, njësitë që rrjedhin prej tyre, shumëfishat dhe nënfishat, njësitë shtesë të vendosura ndërkombëtarisht dhe mënyra e përdorimit të tyre | [`vendim/2022/261/`](vendim/2022/261/) | in force | 1 | 2022-05-16 | 2022-05-16 |
 | Për miratimin e letërmarrëveshjes së grantit nr.TF0B5581, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për projektin e forcimit të cilësisë së auditimit dhe raportimit | [`vendim/2022/263/`](vendim/2022/263/) | in force | 1 | 2022-04-29 | 2022-04-29 |
-| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemim rrugësh, blloku “Përroi i Çaprazit”, Pogradec” | [`vendim/2022/278/`](vendim/2022/278/) | in force | 1 | 2022-05-04 | 2022-05-04 |
+| Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemim rrugësh, blloku “Përroi i Çaprazit”, Pogradec” | [`vendim/2022/278/`](vendim/2022/278/) | amended, not consolidated | 1 | 2022-05-04 | 2022-05-04 |
 | Për përcaktimin e rregullave dhe kritereve të detajuara për kushtet teknike, sigurinë, përshtatshmërinë dhe aksesueshmërinë nga personat me aftësi të kufizuara, që duhet të plotësojnë ndërtesat e institucioneve të ekzekutimit të vendimeve penale | [`vendim/2022/280/`](vendim/2022/280/) | in force | 1 | 2022-05-04 | 2022-05-04 |
 | Për mbulimin e shpenzimeve të mjekimit të z. Mark Marku | [`vendim/2022/282/`](vendim/2022/282/) | in force | 1 | 2022-05-06 | 2022-05-06 |
 | Për masat menaxhuese të ruajtjes së burimeve peshkore dhe përfshirjen e institucioneve në marrjen dhe zbatimin e tyre | [`vendim/2022/283/`](vendim/2022/283/) | in force | 1 | 2022-05-04 | 2022-05-04 |
@@ -16573,7 +16573,7 @@
 | Për disa të drejta të punonjësve të Agjencisë së Mbikëqyrjes Policore | [`vendim/2023/722/`](vendim/2023/722/) | in force | 1 | 2023-12-15 | 2023-12-15 |
 | Për organizimin dhe funksionimin e Agjencisë së Menaxhimit të Garancive dhe Kredive të Pakthyera | [`vendim/2023/723/`](vendim/2023/723/) | in force | 1 | 2023-12-15 | 2023-12-15 |
 | Për miratimin e Strategjisë Ndërsektoriale për Mbrojtjen e Viktimave të Krimit 2024-2030, të planit të saj të veprimit dhe të pasaportës së treguesve | [`vendim/2023/729/`](vendim/2023/729/) | in force | 1 | 2023-12-22 | 2023-12-22 |
-| Për deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” e “Manastirit të 40 Shenjtorëve”, dhe miratimin e zonimit e të planit për ruajtjen, mbrojtjen dhe administrimin e tyre | [`vendim/2023/730/`](vendim/2023/730/) | in force | 1 | 2023-12-15 | 2023-12-15 |
+| Për deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” e “Manastirit të 40 Shenjtorëve”, dhe miratimin e zonimit e të planit për ruajtjen, mbrojtjen dhe administrimin e tyre | [`vendim/2023/730/`](vendim/2023/730/) | amended, not consolidated | 1 | 2023-12-15 | 2023-12-15 |
 | Për dhënien e statusit të veçantë ”Investitor në strukturë akomoduese me 5 yje, status special”, aplikuesit ”White Roads Hotel” sh.p.k | [`vendim/2023/731/`](vendim/2023/731/) | in force | 1 | 2023-12-14 | 2023-12-14 |
 | Për miratimin e planit të veprimit për zbatimin e rezolutës 1325 të Këshillit të Sigurimit të Organizatës së Kombeve të Bashkuara ”Për gruan, paqen dhe sigurinë” 2023-2027, në Republikën e Shqipërisë | [`vendim/2023/732/`](vendim/2023/732/) | in force | 1 | 2024-01-09 | 2024-01-09 |
 | Për ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor, për realizimin e projektit të zonës multifunksionale përreth kompleksit të stadiumit ”Flamurtari” në Vlorë, përfshirë stadiumin | [`vendim/2023/734/`](vendim/2023/734/) | repealed 2025-07-24 | 2 | 2023-12-15 | 2025-07-24 |
@@ -17842,6 +17842,12 @@
 | Për miratimin e kritereve dhe masës së kompensimit financiar për subjektet private për periudhën e aktivizimit të ushtarakut në shërbimin ushtarak rezervist | [`vendim/2026/818/`](vendim/2026/818/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 | Për miratimin e Strategjisë Sektoriale të Transportit dhe të planit të veprimit 2030 | [`vendim/2026/826/`](vendim/2026/826/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Për mbulimin e shpenzimeve të mjekimit të z. Erion Vishkulli | [`vendim/2026/828/`](vendim/2026/828/) | in force | 1 | 2026-10-29 | 2026-10-29 |
+| Për miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për parandalimin e bllokimit gjeografik të pajustifikuar” | [`vendim/2026/838/`](vendim/2026/838/) | in force | 1 | 2026-11-09 | 2026-11-09 |
+| Për përcaktimin e procedurave, të dokumentacionit dhe të masës së kompensimit për shoqëritë e linjave të transportit qytetës, rrethqytetës dhe ndërqytetës në kushtet e situatës së veçantë në tregun hidrokarbur | [`vendim/2026/840/`](vendim/2026/840/) | in force | 1 | 2026-11-09 | 2026-11-09 |
+| Për përcaktimin e kategorive të strukturave akomoduese | [`vendim/2026/842/`](vendim/2026/842/) | in force | 1 | 2026-11-09 | 2026-11-09 |
+| Për miratimin e masës së mbështetjes financiare për kujdesin alternativ në familje, si dhe të pagesës për kujdesin alternativ profesional | [`vendim/2026/844/`](vendim/2026/844/) | in force | 1 | 2026-11-09 | 2026-11-09 |
+| Për rishpërndarjen e fondeve ndërmjet programeve buxhetore të Ministrisë së Bujqësisë dhe Zhvillimit Rural, në buxhetin e miratuar për vitin 2026 | [`vendim/2026/846/`](vendim/2026/846/) | in force | 1 | 2026-11-09 | 2026-11-09 |
+| Për kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoftimin e aktivitetit nga trupat e kontrollit, që veprojnë në Shqipëri sipas standardeve të tjera për prodhimin organik | [`vendim/2026/847/`](vendim/2026/847/) | in force | 1 | 2026-11-09 | 2026-11-09 |
 
 ## Withdrawn from the record (1)
 

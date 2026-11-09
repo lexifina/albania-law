@@ -113646,11 +113646,19 @@
 "title": "Për miratimin e rregullave teknike “për etiketimin e produkteve të qelqit kristal”",
 "short": "Miratimin e rregullave teknike “për etiketimin e produkteve të qelqit kristal”",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2012-04-29",
 "latest": "2012-04-29",
-"portal": "https://qbz.gov.al/eli/vendim/2012/03/28/221"
+"portal": "https://qbz.gov.al/eli/vendim/2012/03/28/221",
+"amended_by": [
+{
+"ref": "qbz:120218",
+"title": "Vendimi i Këshillit të Ministrave nr. 839, datë 5.11.2026: Për disa ndryshime dhe shtesa në vendimin nr.221, datë 28.3.2012, të Këshillit të Ministrave, “Për miratimin e rregullit teknik për etiketimin e produkteve të qelqit kristal”",
+"url": "https://qbz.gov.al/eli/vendim/2026/11/05/839",
+"date": "2026-11-05"
+}
+]
 },
 {
 "slug": "vendim-2012-222",
@@ -200926,11 +200934,19 @@
 "title": "Për miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transportin, ruajtjen, etiketimin, njoftimin e aktivitetit dhe kontrollin e produkteve biologjike”",
 "short": "Miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transportin, ruajtjen, etiketimin, njoftimin e akt",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2019-12-19",
 "latest": "2019-12-19",
-"portal": "https://qbz.gov.al/eli/vendim/2019/12/18/830"
+"portal": "https://qbz.gov.al/eli/vendim/2019/12/18/830",
+"amended_by": [
+{
+"ref": "qbz:120226",
+"title": "Vendimi i Këshillit të Ministrave nr. 847, datë 5.11.2026: Për kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoftimin e aktivitetit nga trupat e kontrollit, që veprojnë në Shqipëri sipas standardeve të tjera për prodhimin organik",
+"url": "https://qbz.gov.al/eli/vendim/2026/11/05/847",
+"date": "2026-11-05"
+}
+]
 },
 {
 "slug": "vendim-2019-832",
@@ -239890,11 +239906,19 @@
 "title": "Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemim rrugësh, blloku “Përroi i Çaprazit”, Pogradec”",
 "short": "Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistem",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2022-05-04",
 "latest": "2022-05-04",
-"portal": "https://qbz.gov.al/eli/vendim/2022/04/29/278"
+"portal": "https://qbz.gov.al/eli/vendim/2022/04/29/278",
+"amended_by": [
+{
+"ref": "qbz:120220",
+"title": "Vendimi i Këshillit të Ministrave nr. 841, datë 5.11.2026: Për disa ndryshime në vendimin nr.278, datë 29.4.2022, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemim rrugësh, blloku “Përroi i Çaprazit”, Pogradec””",
+"url": "https://qbz.gov.al/eli/vendim/2026/11/05/841",
+"date": "2026-11-05"
+}
+]
 },
 {
 "slug": "vendim-2022-280",
@@ -256397,11 +256421,19 @@
 "title": "Për deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” e “Manastirit të 40 Shenjtorëve”, dhe miratimin e zonimit e të planit për ruajtjen, mbrojtjen dhe administrimin e tyre",
 "short": "Deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2023-12-15",
 "latest": "2023-12-15",
-"portal": "https://qbz.gov.al/eli/vendim/2023/12/13/730"
+"portal": "https://qbz.gov.al/eli/vendim/2023/12/13/730",
+"amended_by": [
+{
+"ref": "qbz:120222",
+"title": "Vendimi i Këshillit të Ministrave nr. 843, datë 5.11.2026: Për disa ndryshime në vendimin nr.730, datë 13.12.2023, të Këshillit të Ministrave, “Për deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” e “Manastirit të 40 Shenjtorëve” dhe miratimin e zonimit e të planit për ruajtjen, mbrojtjen dhe administrimin e tyre”",
+"url": "https://qbz.gov.al/eli/vendim/2026/11/05/843",
+"date": "2026-11-05"
+}
+]
 },
 {
 "slug": "vendim-2023-731",
@@ -315083,6 +315115,108 @@
 "from": "2026-10-29",
 "latest": "2026-10-29",
 "portal": "https://qbz.gov.al/eli/vendim/2026/10/28/828"
+},
+{
+"slug": "vendim-2026-838",
+"path": "vendim/2026/838",
+"kind": "vendim",
+"year": "2026",
+"number": "838",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për parandalimin e bllokimit gjeografik të pajustifikuar”",
+"short": "Miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/838"
+},
+{
+"slug": "vendim-2026-840",
+"path": "vendim/2026/840",
+"kind": "vendim",
+"year": "2026",
+"number": "840",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për përcaktimin e procedurave, të dokumentacionit dhe të masës së kompensimit për shoqëritë e linjave të transportit qytetës, rrethqytetës dhe ndërqytetës në kushtet e situatës së veçantë në tregun hidrokarbur",
+"short": "Përcaktimin e procedurave, të dokumentacionit dhe të masës së kompensimit për shoqëritë e linjave të transportit qytetës",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/840"
+},
+{
+"slug": "vendim-2026-842",
+"path": "vendim/2026/842",
+"kind": "vendim",
+"year": "2026",
+"number": "842",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për përcaktimin e kategorive të strukturave akomoduese",
+"short": "Përcaktimin e kategorive të strukturave akomoduese",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/842"
+},
+{
+"slug": "vendim-2026-844",
+"path": "vendim/2026/844",
+"kind": "vendim",
+"year": "2026",
+"number": "844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për miratimin e masës së mbështetjes financiare për kujdesin alternativ në familje, si dhe të pagesës për kujdesin alternativ profesional",
+"short": "Miratimin e masës së mbështetjes financiare për kujdesin alternativ në familje, si dhe të pagesës për kujdesin alternati",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/844"
+},
+{
+"slug": "vendim-2026-846",
+"path": "vendim/2026/846",
+"kind": "vendim",
+"year": "2026",
+"number": "846",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për rishpërndarjen e fondeve ndërmjet programeve buxhetore të Ministrisë së Bujqësisë dhe Zhvillimit Rural, në buxhetin e miratuar për vitin 2026",
+"short": "Rishpërndarjen e fondeve ndërmjet programeve buxhetore të Ministrisë së Bujqësisë dhe Zhvillimit Rural, në buxhetin e mi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/846"
+},
+{
+"slug": "vendim-2026-847",
+"path": "vendim/2026/847",
+"kind": "vendim",
+"year": "2026",
+"number": "847",
+"withdrawn_by": null,
+"reason": null,
+"title": "Për kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoftimin e aktivitetit nga trupat e kontrollit, që veprojnë në Shqipëri sipas standardeve të tjera për prodhimin organik",
+"short": "Kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoftimin e aktivitetit nga trupat e kontrollit",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-09",
+"latest": "2026-11-09",
+"portal": "https://qbz.gov.al/eli/vendim/2026/11/05/847"
 }
 ]
 }
