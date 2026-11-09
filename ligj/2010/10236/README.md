@@ -1,6 +1,6 @@
 # Për marrjen në kontroll të shoqërive me ofertë publike
 
-Marrjen në kontroll të shoqërive me ofertë publike · 2 versions, from 2010-04-02 (latest in force: 2010-04-02) · <https://qbz.gov.al/eli/ligj/2010/02/18/10236>
+Marrjen në kontroll të shoqërive me ofertë publike · 2 versions, from 2010-04-02 (latest in force: 2026-11-06) · <https://qbz.gov.al/eli/ligj/2010/02/18/10236>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -48,7 +48,10 @@ Marrjen në kontroll të shoqërive me ofertë publike · 2 versions, from 2010-
 | Neni 34 | [neni-034.md](neni-034.md) | 1 | 2026-11-06 |
 | Neni 35 | [neni-035.md](neni-035.md) | 0 |  |
 | Neni 36 | [neni-036.md](neni-036.md) | 1 | 2026-11-06 |
+| Neni 36/1 | [neni-036-01.md](neni-036-01.md) | 1 | 2026-11-06 |
+| Neni 36/2 | [neni-036-02.md](neni-036-02.md) | 1 | 2026-11-06 |
 | Neni 37 | [neni-037.md](neni-037.md) | 0 |  |
+| Neni 37/1 | [neni-037-01.md](neni-037-01.md) | 1 | 2026-11-06 |
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 

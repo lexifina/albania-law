@@ -16,3 +16,4 @@ Act id: `ligj-2025-62` (tags `ligj-2025-62/<day>`; `python tools/on.py <day> lig
 - Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.
 - The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
 - A law with no in-force clause enters into force 15 days after its publication (Kushtetuta, neni 84, pika 3).
+- A clause that puts an act in force on publication and starts its effects on a stated day (“i fillon efektet nga ...”) dates it by its entry into force, the publication day; the version note gives the day its effects run from.

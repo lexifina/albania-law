@@ -1,31 +1,17 @@
 # Për organizimin dhe funksionimin e bashkisë së tiranës
 
-Organizimin dhe funksionimin e bashkisë së tiranës · 1 versions, from 2000-08-22 (latest in force: 2000-08-22) · <https://qbz.gov.al/eli/ligj/2000/07/31/8654>
+Organizimin dhe funksionimin e bashkisë së tiranës · 2 versions, from 2000-08-22 (latest in force: 2014-09-26) · <https://qbz.gov.al/eli/ligj/2000/07/31/8654>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
-| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
-| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
-| Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
-| Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
-| Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
-| Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
-| Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
-| Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
-| Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
-| Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
-| Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
-| Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
-| Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
-| Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
-| Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
-| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
 Act id: `ligj-2000-8654` (tags `ligj-2000-8654/<day>`; `python tools/on.py <day> ligj-2000-8654`).
 
 ## Decisions made by hand
 
-- One of these laws is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
-- Its in-force day comes from its own clause, counted from the publication day of its Fletorja Zyrtare issue (“menjëherë”: the publication day, Kushtetuta, neni 84, pika 4); any other clause holds it back.
-- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Ligji nr. 8662: QBZ’s consolidated version 2 changes Hyrje, which neither a QBZ note nor Ligji nr. 10486/2011 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 8685: QBZ’s consolidated version 2 changes Neni 6/2, which neither a QBZ note nor Ligji nr. 9706 names; the change is recorded as unexplained, from the publisher.
+- A repeal QBZ does not link is taken from the repealing act’s own text when every act citing this one as changed repeals it as a whole there: an empty last version on the day the repealing act took effect, credited to it.

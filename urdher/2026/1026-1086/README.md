@@ -1,6 +1,6 @@
-# Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në Shtetet e Bashkuara të Amerikës
+# Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në Shtetet e Bashkuara të Amerikës
 
-Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në Shtetet e Ba · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/26/1086>
+Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në Shtetet e B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/26/1086>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

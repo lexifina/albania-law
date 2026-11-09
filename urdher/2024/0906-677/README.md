@@ -1,21 +1,15 @@
 # Për miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës ndërmjet Ministrisë së Bujqësisë dhe Zhvillimit Rural dhe subjektit fitues të procedurës së konkurrimit publik
 
-Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës ndërmjet Ministrisë së Bujqësisë dhe · 1 versions, from 2024-09-18 (latest in force: 2024-09-18) · <https://qbz.gov.al/eli/urdher/2024/09/06/677>
+Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës ndërmjet Ministrisë së Bujqësisë dhe · 2 versions, from 2024-09-18 (latest in force: 2026-11-06) · <https://qbz.gov.al/eli/urdher/2024/09/06/677>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
-| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
-| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
-| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
-| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
-| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
 Act id: `urdher-2024-0906-677` (tags `urdher-2024-0906-677/<day>`; `python tools/on.py <day> urdher-2024-0906-677`).
 
 ## Decisions made by hand
 
-- One of these orders (urdhra) is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
-- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names. A clause that puts it in force on publication and extends its effects back to an earlier day (“i shtrin efektet nga ...”) dates it by its entry into force, the publication day, and the version note gives the day of effect; any other clause holds it back.
-- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
-- An act whose issue day in QBZ’s gazette record is missing, before its adoption or more than 120 days after it is dated by the day printed on the masthead of the issue’s own PDF, when the masthead prints a full day and the issue’s contents list the act; otherwise it is held back, as are the acts of the “Ekstra” issues (some print acts left unpublished at the time, “Akte të papublikuara”) and acts adopted before the 1998 Constitution. The same applies to the act that changes or repeals it.
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- A repeal QBZ does not link is taken from the repealing act’s own text when every act citing this one as changed repeals it as a whole there: an empty last version on the day the repealing act took effect, credited to it.

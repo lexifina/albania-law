@@ -1,6 +1,6 @@
-# Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu të shfaqur në shtetin e Austrisë
+# Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Austrisë
 
-Disa masa mbrojtëse ndaj sëmundjes së gjuhës blu të shfaqur në shtetin e Austrisë · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/26/1087>
+Disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Austrisë · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/26/1087>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

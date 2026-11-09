@@ -1,6 +1,6 @@
-# Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në shtetin e Danimarkës
+# Për disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e Danimarkës
 
-Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve të shfaqur në shtetin e Da · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/28/1099>
+Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të lartë të shpendëve, të shfaqur në shtetin e D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://qbz.gov.al/eli/urdher/2026/10/28/1099>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

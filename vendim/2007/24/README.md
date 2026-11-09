@@ -1,0 +1,28 @@
+# Për procedurën e lëshimit të dokumenteve nga disa zyra të regjistrimit të pasurive të paluajtshme dhe ndryshimin e tarifave për to
+
+Procedurën e lëshimit të dokumenteve nga disa zyra të regjistrimit të pasurive të paluajtshme dhe ndryshimin e tarifave  · 2 versions, from 2007-01-31 (latest in force: 2012-06-21) · <https://qbz.gov.al/eli/vendim/2007/01/19/24>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `vendim-2007-24` (tags `vendim-2007-24/<day>`; `python tools/on.py <day> vendim-2007-24`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 1, datë 10.1.2007: QBZ’s consolidated version 9 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 301, datë 28.4.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1, datë 10.1.2007: QBZ’s consolidated version 11 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 967, datë 24.11.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 28, datë 24.1.2007: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 1248, datë 11.12.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 28, datë 24.1.2007: QBZ’s consolidated version 1 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 1248, datë 11.12.2009 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 138, datë 14.3.2007: QBZ’s consolidated version 1 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 879, datë 3.11.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 138, datë 14.3.2007: QBZ’s consolidated version 2 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 463, datë 9.7.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 216, datë 18.4.2007: QBZ’s consolidated version 1 changes Pika 9, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 480, datë 1.8.2007 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 486, datë 25.7.2007: QBZ’s consolidated version 3 changes Pika 1, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 111, datë 26.1.2011 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 489, datë 25.7.2007: QBZ’s consolidated version 1 changes Pika 6, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 540, datë 27.7.2011 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 489, datë 25.7.2007: QBZ’s consolidated version 1 changes Pika 7, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 540, datë 27.7.2011 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 862, datë 5.12.2007: QBZ’s consolidated version 1 changes Pika 19, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 846, datë 27.10.2010 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 867, datë 12.12.2007: QBZ’s consolidated version 1 changes Pika 2, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 637, datë 5.10.2022 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 867, datë 12.12.2007: QBZ’s consolidated version 1 changes Pika 7, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 637, datë 5.10.2022 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 867, datë 12.12.2007: QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 637, datë 5.10.2022 names; the change is recorded as unexplained, from the publisher.

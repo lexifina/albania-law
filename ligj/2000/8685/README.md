@@ -25,3 +25,4 @@ Act id: `ligj-2000-8685` (tags `ligj-2000-8685/<day>`; `python tools/on.py <day>
 - An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
 - Ligji nr. 8662: QBZ’s consolidated version 2 changes Hyrje, which neither a QBZ note nor Ligji nr. 10486/2011 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 8685: QBZ’s consolidated version 2 changes Neni 6/2, which neither a QBZ note nor Ligji nr. 9706 names; the change is recorded as unexplained, from the publisher.
+- A repeal QBZ does not link is taken from the repealing act’s own text when every act citing this one as changed repeals it as a whole there: an empty last version on the day the repealing act took effect, credited to it.

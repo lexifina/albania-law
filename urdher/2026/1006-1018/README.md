@@ -1,27 +1,14 @@
 # Për disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Lituanisë
 
-Disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Lituanisë · 1 versions, from 2026-10-22 (latest in force: 2026-10-22) · <https://qbz.gov.al/eli/urdher/2026/10/06/1018>
+Disa masa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Lituanisë · 2 versions, from 2026-10-22 (latest in force: 2026-11-05) · <https://qbz.gov.al/eli/urdher/2026/10/06/1018>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
-| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
-| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
-| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
-| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
-| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
-| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
-| Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
-| Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
-| Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
-| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
-| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
 Act id: `urdher-2026-1006-1018` (tags `urdher-2026-1006-1018/<day>`; `python tools/on.py <day> urdher-2026-1006-1018`).
 
 ## Decisions made by hand
 
-- One of these orders (urdhra) is published here only when QBZ links no act as changing or repealing it, no other act’s title in QBZ’s listing cites it as changed, and no text held here cites it as amended or repealed; its one version is the text as published in the Fletorja Zyrtare.
-- Its in-force day: the publication day of its Fletorja Zyrtare issue when its clause says “hyn në fuqi pas botimit” or “menjëherë” (Kushtetuta, neni 117, pika 1: the normative acts of the Council of Ministers and of ministers take legal force only once published), N days after it for “N ditë pas botimit”, or the day it names. A clause that puts it in force on publication and extends its effects back to an earlier day (“i shtrin efektet nga ...”) dates it by its entry into force, the publication day, and the version note gives the day of effect; any other clause holds it back.
-- The publication day of an issue is QBZ’s gazette record; an act whose issue day is missing, before its adoption or more than 120 days after it is held back.
-- A clause that puts an act in force on publication and starts its effects on a stated day (“i fillon efektet nga ...”) dates it by its entry into force, the publication day; the version note gives the day its effects run from.
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
