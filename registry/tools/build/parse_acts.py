@@ -321,7 +321,10 @@ def add_days(day: str, n: int) -> str:
 def add_months(day: str, n: int) -> str:
     d = dt.date.fromisoformat(day)
     y, mo = divmod(d.month - 1 + n, 12)
-    return d.replace(year=d.year + y, month=mo + 1).isoformat()
+    try:
+        return d.replace(year=d.year + y, month=mo + 1).isoformat()
+    except ValueError:  # "N muaj pas botimit" from a day the later month lacks (31 → 30): ambiguous, held
+        raise Hold(f'in_force_month_end:{day}+{n} months') from None
 
 
 def in_force(kind: str, text: str, published: str) -> tuple[str, str]:
@@ -382,6 +385,8 @@ def in_force_more(kind: str, text: str, published: str) -> tuple[str, str] | Non
     s = re.sub(r'\b(?:Fetoren|Fletores)\b', 'Fletoren', s, flags=re.I)
     s = re.sub(r'\bbotimi\b', 'botimit', s, flags=re.I)
     s = re.sub(r'\bn[eё](?=\s)', 'në', s)
+    s = s.replace('ё', 'ë')
+    s = re.sub(r'\bmenjehere\b', 'menjëherë', s, flags=re.I)
     s = re.sub(r'\s+', ' ', s).strip(' ,.;')
     if re.search(r'përveç|përjashtim|\bderi\b|zbatohet|hyrjes në fuqi|hyrjen në fuqi', s, re.I):
         return None
@@ -414,6 +419,15 @@ def in_force_more(kind: str, text: str, published: str) -> tuple[str, str] | Non
                      s, re.I)
     if m:
         day = iso(m.group(1), m.group(2), m.group(3))
+        if day and day >= published:
+            return day, f'"hyn në fuqi {c0}"'
+        raise Hold(f'in_force_day_before_publication:{c0[:60]}')
+    # a day with its month in words ("më 1 dhjetor 2023", "në datën 1 janar 2014"), after "Ky X botohet në Fletoren
+    # Zyrtare dhe hyn në fuqi" as well as before "dhe botohet ..."
+    m = re.fullmatch(r'(?:më|në|nga)\s+(?:datë\s+|datën\s+|data\s+)?(\d{1,2})\s+(' + '|'.join(MUAJ) + r')\s+(\d{4})'
+                     r'(?:\s*,?\s*dhe\s+(?:botohet|publikohet)' + fz + ')?', s, re.I)
+    if m:
+        day = iso(m.group(1), str(MUAJ.index(m.group(2).lower()) + 1), m.group(3))
         if day and day >= published:
             return day, f'"hyn në fuqi {c0}"'
         raise Hold(f'in_force_day_before_publication:{c0[:60]}')
@@ -757,6 +771,35 @@ def header_ok(kind: str, a: dict, paras: list[str]) -> bool:
     return iso(m.group(2), m.group(3), m.group(4)) == a['date']
 
 
+def header_typeset(kind: str, a: dict, paras: list[str]) -> bool:
+    """Only when header_ok reads nothing: the record's number and date in the header's first "Nr." with typesetting
+    slips that leave both intact: a Cyrillic "ё" in "datё", a dot for the comma after the number ("Nr.31. datë"), a
+    dot after "datë" ("datë. 9.7.2019"), no "datë" ("Nr.9063, 8.5.2003"), a doubled dot or a space in the date
+    ("23.4..2008", "19.1 2005"), a stray "1" before the year ("5.11.12004"), a leading zero in QBZ's number ("02"), or
+    a law's "N-YYYY" for "N/YYYY". The number (and a "/n" suffix, when the record has one) must match exactly."""
+    head = ' '.join(paras[:6]).replace('ё', 'ë').replace('Ё', 'Ë')
+    m = re.search(r'\bNr\.?\s*((?:\d\s?)+)(?:\s*[-/]\s*(\d+))?\s*[,.]?\s*(?:(?:datë|date|data|dt)\s*\.?\s*,?\s*)?'
+                  r'(\d{1,2})\s*\.{1,2}\s*(\d{1,2})\s*(?:\.{1,2}\s*|\s+)(1?)(\d{4})(?!\d)', head, re.I)
+    if not m:
+        if kind == 'ligj':
+            m2 = re.search(r'\bNr\.?\s*(\d+)\s*-\s*(\d{4})(?!\d)', head, re.I)
+            base = a['number'].split('-')[0]
+            return bool(m2) and base.isdigit() and int(m2.group(1)) == int(base) and m2.group(2) == a['date'][:4]
+        return False
+    num, suffix = re.sub(r'\s', '', m.group(1)), m.group(2)
+    base, _, rsuf = a['number'].partition('-')
+    if not base.isdigit() or int(num) != int(base):
+        return False
+    if kind == 'ligj':
+        if suffix and suffix != a['date'][:4]:
+            return False
+    elif (suffix or '') != rsuf:
+        return False
+    if m.group(5) and m.group(6) != a['date'][:4]:
+        return False
+    return iso(m.group(3), m.group(4), m.group(6)) == a['date']
+
+
 def header_strict(kind: str, a: dict, paras: list[str]) -> bool:
     head = ' '.join(paras[:6])
     num = re.escape(a['number'].split('-')[0])
@@ -786,6 +829,7 @@ def label_of(kind: str, a: dict) -> str:
 
 
 AMBIG: set = set()      # (family, year, number) that QBZ gives to more than one act
+INERT: dict = {}        # QBZ id -> why that act changed nothing (changes_nothing), or None
 APPROVED: dict = {}     # ('aktnormativ', number, day) -> the listing record of the law approving that act
 PUB_URL: dict = {}      # act slug on main -> its url, so a key already published never changes
 
@@ -876,6 +920,147 @@ def why_changed(key: str, notes: list, x: dict, xtext: str | None) -> str | None
     return None
 
 
+NOTE_NR = re.compile(r'\bnr\.?\s*(\d{1,3}(?:\s\d{3})+|\d+)(?:\s*/\s*(\d{4}))?(?:\s*,?\s*(?:datë|date|data|datё)\s*'
+                     r'(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4}))?', re.I)
+NUM_DATE: dict = {}     # (number, day) -> listing records; (number, year) -> laws: the acts QBZ's notes can name
+LISTING_FILES: list = []  # the listing's cache files (an act read through NUM_DATE depends on all of them)
+
+
+def noted_acts(notes: list[str], x: dict) -> set | None:
+    """The QBZ records every "nr. N, datë D" / "nr. N/YYYY" in QBZ's notes names (a law by number and year), or None
+    when one names no record or more than one."""
+    out = set()
+    for n in notes:
+        for m in NOTE_NR.finditer(n):
+            num = m.group(1).replace(' ', '')
+            if m.group(3):
+                day = iso(m.group(3), m.group(4), m.group(5))
+                hits = NUM_DATE.get((num, day), [])
+            elif m.group(2):
+                hits = NUM_DATE.get((num, m.group(2)), [])
+            else:
+                return None
+            hits = [h for h in hits if h['id'] != x['id']]
+            if len(hits) != 1:
+                return None
+            out.add(hits[0]['id'])
+    return out
+
+
+def changing_day(cache: Path, memo: Path | None, cb: dict) -> tuple[str, str, str, str]:
+    """(in-force day, how, publication day, its note) of an act that changes another, as for a QBZ version's act."""
+    cpub, cnote = issue_day(cache, cb)
+    if cb['type'] == 'Vendim' and cb.get('institution') == 'Gjykata Kushtetuese':
+        return cpub, 'a Constitutional Court decision takes effect on its publication (Kushtetuta, neni 132)', cpub, cnote
+    ck = kind_of(dict(cb, kind='Akt bazë'))
+    if ck not in WHO:
+        raise Hold(f'changing_act_kind:{cb["type"]}')
+    xt = text_of(cache, memo, cb) if cb.get('word') else None
+    if xt is None:
+        raise Hold('changing_act_text_not_fetched')
+    if ck == 'aktnormativ':
+        approved_in_time(cb, 'changing_act_')
+    day, how = in_force(ck, '\n'.join(xt), cpub)
+    late_clause_ok(ck, '\n'.join(xt), cb['id'])
+    return day, how, cpub, cnote
+
+
+def nameless_differs(cache: Path, memo: Path | None, u: dict, kind: str, units: dict) -> bool:
+    """Does QBZ version u (naming no changing act) read differently from units (spacing aside)? A version without a
+    text does not count."""
+    w = u.get('word') or {}
+    if not w.get('url', '').endswith(('.docx', '.doc')):
+        return False
+    up = text_of(cache, memo, {'word': w})
+    if up is None:
+        return True
+    try:
+        uu = split(up, kind, {})
+    except Hold:
+        return True
+    flat = lambda d: {k: ''.join(d[k]['text'].split()) for k in d}  # noqa: E731
+    return flat(uu) != flat(units)
+
+
+def late_start(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, vs: list, changes_in: set,
+               published: str, pub_note: str, day0: str, laws: dict, gap: str) -> tuple[int, dict, dict, str]:
+    """When QBZ's versions do not give the text after each change (gap: a version names no changing act, or an act QBZ
+    links as changing this one has no version), the oldest version that can be published: the first QBZ version s
+    such that every later version names its changing act, and every change it holds is known and dated: the acts QBZ
+    links as changing the act, other than those of later versions (an act with a version up to s and a later one rules
+    s out, as does an earlier version naming no act whose text differs), and every act its notes name ("nr. N, datë D",
+    "nr. N/YYYY", each one record in QBZ's listing), each named by a note of that version and none of them the act of
+    a later version. In force from the day the last of them took effect (not before the act itself). Returns
+    (s, its version, its units, that day); raises Hold(gap) when no version qualifies."""
+    if TOUCHED is not None:
+        TOUCHED.extend(LISTING_FILES)
+    g = x['gazette']
+    for s_at, v in enumerate(vs):
+        later = vs[s_at + 1:]
+        if any(not (u.get('changedBy') or {}).get('id') for u in later):
+            continue
+        later_by = {u['changedBy']['id'] for u in later}
+        if {(u.get('changedBy') or {}).get('id') for u in vs[:s_at + 1]} & later_by:
+            continue  # an act with a version here and a later one: this version is not before it
+        w = v.get('word') or {}
+        if not w.get('url', '').endswith(('.docx', '.doc')):
+            continue
+        vp = text_of(cache, memo, {'word': w})
+        if vp is None:
+            continue
+        notes: dict[str, list[str]] = {}
+        try:
+            units = split(vp, kind, notes)
+        except Hold:
+            continue
+        if kind == 'ligj' and not any(k.startswith(('neni-', 'pika-')) for k in units):
+            continue
+        # an earlier version naming no changing act whose text differs from this one: a change QBZ dates to no act
+        if not (v.get('changedBy') or {}).get('id') and any(
+                not (u.get('changedBy') or {}).get('id') and nameless_differs(cache, memo, u, kind, units)
+                for u in vs[:s_at]):
+            continue
+        all_notes = [n for k in sorted(notes) for n in notes[k]]
+        noted = noted_acts(all_notes, x)
+        if noted is None or noted & later_by:
+            continue
+        inc = ((set(changes_in) | {(u.get('changedBy') or {}).get('id') for u in vs[:s_at + 1]} | noted)
+               - {None} - later_by)
+        if not inc or any(i not in byid for i in inc) or \
+                any(not any(names_act(n, byid[i]) for n in all_notes) for i in inc):
+            continue
+        dated = []
+        try:
+            for i in sorted(inc):
+                if TOUCHED is not None:
+                    TOUCHED.append(f'id:{i}')
+                dated.append(changing_day(cache, memo, byid[i]) + (byid[i],))
+        except Hold:
+            continue
+        dated.sort(key=lambda t: (t[0], t[4]['date'], t[4]['id']))
+        day, how, cpub, cnote, cb = dated[-1]
+        if day < day0:
+            continue
+        for _, _, dpub, _, db in dated:
+            lk, label, lkind = law_ref(db)
+            laws[lk] = {'label': label, 'title': title_of(db), 'kind': lkind, 'enacted': db['date'], 'published': dpub,
+                        'url': f'{SITE}{db["eliPath"]}' if db.get('eliPath') else None,
+                        'temporary_until': None, 'restores': None, 'note': None}
+        names = ', '.join(law_ref(t[4])[1] for t in dated)
+        cg = cb.get('gazette') or {}
+        ver = {'from': day, 'source_url': SITE + w['url'], 'sha256': w['sha256'], 'units': units, 'credits': {},
+               '_earlier': [law_ref(t[4])[0] for t in dated],
+               'note': f'QBZ consolidated version {v["versionNo"]}, the oldest version published here: the act as '
+                       f'published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}{pub_note}; in '
+                       f'force from {day0}) with the changes made by {names}, each named in its notes. QBZ’s versions '
+                       f'do not give the text after each of these changes ({gap.split(":")[0].replace("_", " ")}), so '
+                       f'they are not published one by one. In force from {day}, the day the last of them took '
+                       f'effect ({law_ref(cb)[1]}, Fletorja Zyrtare nr. {cg.get("number")}/{cg.get("year")}, '
+                       f'{cpub}{cnote}: {how}).'}
+        return s_at, ver, units, day
+    raise Hold(gap)
+
+
 def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, published: str, base_paras: list[str],
             laws: dict, decisions: list, pub_note: str = '') -> list[dict]:
     """The act as published, then each QBZ consolidated version (dated by QBZ's validFrom, credited to the act QBZ
@@ -887,10 +1072,8 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
     vs = sorted(vs, key=lambda v: v['versionNo'])
     changes_in = {r['actId'] for r in rel if r.get('type') == 'CHANGES' and r.get('direction') == 'in'}
     by = {(v.get('changedBy') or {}).get('id') for v in vs}
-    if None in by:
-        raise Hold('version_without_changing_act')
-    if not changes_in <= by:
-        raise Hold('versions_incomplete:' + ','.join(map(str, sorted(changes_in - by)[:5])))
+    gap = 'version_without_changing_act' if None in by else \
+        'versions_incomplete:' + ','.join(map(str, sorted(changes_in - by)[:5])) if not changes_in <= by else None
     day0, how0 = in_force(kind, '\n'.join(base_paras), published)
     late_clause_ok(kind, '\n'.join(base_paras), x['id'])
     prev = split(base_paras, kind)
@@ -901,6 +1084,10 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
             'credits': {}, 'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}{pub_note}); '
                                    f'in force from {day0}: {how0}.'}]
     last = day0
+    if gap:  # QBZ's versions do not give the text after each change: start from the oldest complete one
+        s_at, ver0, prev, last = late_start(cache, memo, x, kind, byid, vs, changes_in, published, pub_note, day0,
+                                            laws, gap)
+        out, vs = [ver0], vs[s_at + 1:]
     for v in vs:
         cb = byid.get(v['changedBy']['id'])
         if TOUCHED is not None:
@@ -1148,11 +1335,72 @@ RULES['colophon'] = ('Where the masthead settles nothing (it prints only a month
                      'only when its own clause counts from publication (“pas botimit”, “me botimin”, “N ditë pas '
                      'botimit”) or names a day; “menjëherë” alone does not say whether it took effect on adoption '
                      'or on publication, so such acts are held. Acts printed in two issues are held.')
+RULES['inert_title'] = ('An act whose title names this one as changed does not hold it back when its own text shows '
+                         'it changed nothing: a Constitutional Court decision whose ruling only rejects the request, '
+                         'declares it inadmissible or ends the case (“Rrëzimin / Mospranimin e kërkesës”, “Pushimin e '
+                         'gjykimit”), or a decision of the Assembly that only overrides the President’s decree '
+                         'returning a law for reconsideration (“Rrëzimin e dekretit ...”) or does not approve a draft law '
+                         '(“Mosmiratimin e projektligjit ...”). The version note names it; any other act its title '
+                         'names as changing this one still holds it back.')
+RULES['oldest_available'] = (
+    'When QBZ’s consolidated versions do not give the text after each change (a version names no changing act, or '
+    'an act QBZ links as changing the act has no version of its own), the act is published from the first QBZ '
+    'version that holds every such change and after which every version names its changing act: the acts QBZ links '
+    'as changing it and every act its notes name (each one record in QBZ’s listing, dated as a changing act is), each '
+    'named in that version’s notes. That version is the oldest one published (“oldest version available”, credited '
+    'to the publisher, with the act as published and those changing acts as earlier laws), in force from the day the '
+    'last of those changes took effect; the versions after it follow as usual. The text in force before that day is '
+    'not published.')
+RULES['header_typeset'] = (
+    'An act whose header prints its number and date with a typesetting slip that leaves both intact (a Cyrillic “ё” in '
+    '“datё”, a dot for a comma, a doubled dot, a missing “datë”, a stray “1” before the year, a leading zero in QBZ’s '
+    'number, a law’s “N-YYYY”) is read as QBZ’s record gives them; the version note quotes the header. Any other '
+    'difference between the header and QBZ’s record holds the act back.')
 RULE_ORDER = [(k, None) for k in ('aktnormativ', 'dekret', 'masthead', 'colophon', 'law_default', 'effects',
-                                  'text_repeal')]
+                                  'text_repeal', 'inert_title', 'oldest_available', 'header_typeset')]
 RULE_MARKS = [('masthead', 'as printed on its masthead'), ('colophon', 'as printed in its colophon'),
               ('law_default', 'no in-force clause: 15 days after'),
-              ('effects', '(its effects run from ')]
+              ('effects', '(its effects run from '), ('inert_title', ', but its own text shows it changed nothing:'),
+              ('oldest_available', ', the oldest version published here:'),
+              ('header_typeset', 'with a typesetting slip (“')]
+
+INERT_RULING = re.compile(r'(?:Rrëzimin|Mospranimin|Pushimin|Refuzimin)\s+e\s+(?:kërkesës|gjykimit|çështjes|pretendimit)\b',
+                          re.I)
+INERT_ASSEMBLY = re.compile(r'(?:Rrëzimin\s+e\s+dekretit\b.*\bkthimin\b|Mosmiratimin\s+e\s+projektligjit\b)', re.I)
+
+
+def changes_nothing(cache: Path, memo: Path | None, n: dict) -> str | None:
+    """Why act n, whose title names another act as changed, changed nothing (None when its text does not show that):
+    a Constitutional Court decision whose ruling (after its last "VENDOSI:", up to its in-force line) has only items
+    rejecting the request, declaring it inadmissible or ending the case; or a decision of the Assembly whose ruling
+    only overrides the President's decree returning a law or does not approve a draft law."""
+    court = n['type'] == 'Vendim' and n.get('institution') == 'Gjykata Kushtetuese'
+    assembly = n['type'] == 'Vendim' and n.get('institution') == 'Kuvendi i Shqipërisë'
+    if not (court or assembly) or not n.get('word'):
+        return None
+    ps = text_of(cache, memo, n)
+    if not ps:
+        return None
+    ops = [i for i, p in enumerate(ps) if re.fullmatch(r'VENDOSI:?', ''.join(p.split()), re.I)]
+    if not ops or (assembly and len(ops) != 1):
+        return None
+    items = []
+    for p in ps[ops[-1] + 1:]:
+        q = re.sub(r'^(?:-|•|\d+\s*\.|[IVX]+\s*\.)\s*', '', p).strip()
+        if re.match(r'Ky\s+vendim\s+(?:është\s+përfundimtar|hyn\s+në\s+fuqi)', q, re.I):
+            break
+        items.append(q)
+    else:
+        return None
+    if not items:
+        return None
+    if court and all(INERT_RULING.match(q) and not re.search(r'shfuqiz|pranimin\s+e\s+kërkesës\s*(?:$|[.,;])|'
+                                                             r'papajtueshm', q, re.I) for q in items):
+        return 'its ruling only rejects the request, declares it inadmissible or ends the case'
+    if assembly and len(items) == 1 and INERT_ASSEMBLY.match(items[0]):
+        return ('it only overrides the President’s decree returning a law for reconsideration' if items[0].lower().startswith('rrëz')
+                else 'it only does not approve a draft law')
+    return None
 
 
 def load_results(path: str | None) -> dict:
@@ -1442,8 +1690,14 @@ def repeal_version(cache: Path, memo: Path | None, x: dict, rx: dict | None, ver
     return ver
 
 
+def inert_note(inert: tuple, byid: dict) -> str:
+    """The version note's words on the acts whose titles name this one as changed but which changed nothing."""
+    return ''.join(f' {law_ref(byid[i])[1]} names it in its title, but its own text shows it changed nothing: {why}.'
+                   for i, why in inert)
+
+
 def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid: dict, extra: tuple = (),
-            full_number: bool = False) -> tuple:
+            full_number: bool = False, inert: tuple = ()) -> tuple:
     """The act's part, slug, law record, act record and (for a history) the changing acts' records and decisions;
     raises Hold. Reads only x's own inputs (recorded in TOUCHED for --result-cache)."""
     hlaws: dict = {}
@@ -1466,8 +1720,13 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
                 raise Hold('text_not_fetched')
             if any(RE_NOTE.match(p) for p in paras):
                 raise Hold('qbz_amendment_notes')
+            tnote = ''
             if not header_ok(kind, x, paras):
-                raise Hold('header_mismatch')
+                if not header_typeset(kind, x, paras):
+                    raise Hold('header_mismatch')
+                tnote = (' Its header prints its number and date with a typesetting slip (“' +
+                         next(p for p in paras[:6] if re.search(r'\bNr\.?', p, re.I))[:60] +
+                         '”); they are read as QBZ’s record gives them.')
             if hist:
                 versions = history(cache, memo, x, kind, byid, published, paras, hlaws, hdec, pub_note)
             else:
@@ -1487,6 +1746,11 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
                 versions.append(repeal_version(cache, memo, x, byid.get(repealers[0]), versions, hlaws,
                                                strict=repealers[0] in extra))
                 hist = True
+        if tnote:
+            if hist:
+                versions[0]['note'] += tnote
+        if inert and hist:
+            versions[0]['note'] += inert_note(inert, byid)
         year = x['date'][:4]
         slug = year_key(kind, x) if kind in ('vendim', 'ligj', 'aktnormativ', 'dekret') else \
             f'{kind}-{year}-{x["date"][5:7]}{x["date"][8:10]}-{x["number"] if full_number else x["number"].split("-")[0]}'
@@ -1497,16 +1761,19 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
                'restores': None, 'note': None}
         g = x['gazette']
         if hist:
+            earlier = versions[0].pop('_earlier', None)
             return (f'{HIST_PART[kind]}-{year}', slug, law,
                     {'slug': slug, 'short': short_of(title), 'title': title, 'url': url,
-                     'first_law': slug, 'earlier_laws': [], 'versions': versions}, hlaws, hdec)
+                     'first_law': None if earlier is not None else slug,
+                     'earlier_laws': [slug] + earlier if earlier is not None else [], 'versions': versions}, hlaws, hdec)
         return (f'{PART[kind]}-{year}', slug, law, {
             'slug': slug, 'short': short_of(title), 'title': title, 'url': url, 'first_law': slug,
             'earlier_laws': [],
             'versions': [{'from': day, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'],
                           'units': units, 'credits': {},
                           'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}{pub_note}); '
-                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'}]}, {}, [])
+                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'
+                                  + inert_note(inert, byid) + tnote}]}, {}, [])
 
 
 
@@ -1533,6 +1800,13 @@ def main():
     memo = Path(a.memo) if a.memo else None
     L = listing(cache)
     set_ambiguous(L)
+    NUM_DATE.clear()
+    for x in L:
+        NUM_DATE.setdefault((x['number'].split('-')[0], x['date']), []).append(x)
+        if x['type'] == 'Ligj':
+            NUM_DATE.setdefault((x['number'].split('-')[0], x['date'][:4]), []).append(x)
+    LISTING_FILES[:] = [str(cpath(cache, f'{API}/acts?size=100&page={i}'))
+                        for i in range((read_json(cache, f'{API}/acts?size=100&page=0')['total'] + 99) // 100)]
     retrieved = a.retrieved or max((x['date'] for x in L), default='')
     held_old: set[tuple[str, str]] = set()
     if a.published and Path(a.published).exists():
@@ -1646,12 +1920,21 @@ def main():
                 if m and m.group(4) < retrieved[:4]:
                     raise Hold('spent_budget_law')
             extra: tuple = ()
+            inert: list = []
             if not hist:
                 own = {x['id']}
                 if (named.get(ref, set()) | cited_changed.get(ref, set())) - own:
                     rel0 = read_json(cache, f'{API}/acts/{x["id"]}/relations') or []
                     own |= {r['actId'] for r in rel0 if r.get('direction') == 'in' and r.get('type') == 'REPEALS'}
                 others = (named.get(ref, set()) | cited_changed.get(ref, set())) - own
+                # an act whose title names this one but whose own text shows it changed nothing (changes_nothing)
+                for i in sorted(others):
+                    if i in named.get(ref, set()) and i not in cited_changed.get(ref, set()):
+                        if i not in INERT:
+                            INERT[i] = changes_nothing(cache, memo, byid[i])
+                        if INERT[i]:
+                            inert.append((i, INERT[i]))
+                others -= {i for i, _ in inert}
                 # a repeal QBZ does not link: every act citing it as changed repeals it as a whole in its own text
                 if others and all(repeals_whole_strictly(text_of(cache, memo, byid[i]) or [], ref) for i in sorted(others)
                                   if byid[i].get('word')) and all(byid[i].get('word') for i in others):
@@ -1667,14 +1950,17 @@ def main():
                 if cited_changed.get(ref, set()) & others:
                     raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] & others)[:5])))
             xk = x
-            if extra or kind == 'aktnormativ' or full_number:
+            if extra or kind == 'aktnormativ' or full_number or inert:
                 xk = dict(x, _extra=list(extra), _approved=(APPROVED.get(ref) or {}).get('id'), _full=full_number)
+                if inert:
+                    xk['_inert'] = [list(t) for t in inert]
             res = cached_result(rc, xk, byid)
             if res is None:
                 global TOUCHED
                 TOUCHED = []
                 try:
-                    res = ('ok',) + compute(cache, memo, x, kind, hist, byid, extra, full_number)
+                    res = ('ok',) + compute(cache, memo, x, kind, hist, byid, extra, full_number,
+                                                   tuple(inert))
                 except Hold as h:
                     res = ('hold', str(h))
                 files, TOUCHED = TOUCHED, None

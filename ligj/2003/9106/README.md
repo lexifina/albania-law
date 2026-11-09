@@ -27,4 +27,3 @@ Act id: `ligj-2003-9106` (tags `ligj-2003-9106/<day>`; `python tools/on.py <day>
 - Ligji nr. 9154: QBZ’s consolidated version 2 changes Neni 93, which neither a QBZ note nor Ligji nr. 99/2024 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 9154: QBZ’s consolidated version 2 changes Neni 94, which neither a QBZ note nor Ligji nr. 99/2024 names; the change is recorded as unexplained, from the publisher.
 - Ligji nr. 9154: QBZ’s consolidated version 2 changes Neni 95, which neither a QBZ note nor Ligji nr. 99/2024 names; the change is recorded as unexplained, from the publisher.
-- A repeal QBZ does not link is taken from the repealing act’s own text when every act citing this one as changed repeals it as a whole there: an empty last version on the day the repealing act took effect, credited to it.
