@@ -245,6 +245,8 @@ This file is written by the build on 2026-11-09, the day the source data was ret
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): orders (urdhra) as published and their consolidated versions | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
+| Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
 | Qendra e Botimeve Zyrtare (qbz.gov.al): acts with the force of law of the Council of Ministers (akte normative) in force, as published | <https://qbz.gov.al/api/v1/acts> | 2026-11-09 | Official texts of the Republic of Albania; legal acts and their official collections are not subject to copyright (ligji nr. 35/2016, neni 12, pika 1, shkronja “b”). |
@@ -278,21 +280,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 17075 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 21708 | |
+| 17403 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 22169 | |
 
-The build made 2713 commits:
+The build made 3139 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1781 | first version of an act |
-| 820 | one law on its in-force day |
+| 2081 | first version of an act |
+| 946 | one law on its in-force day |
 | 112 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `e-ardhme`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 22311 laws in the record.
-- 43927 tags.
+- 23063 laws in the record.
+- 44721 tags.
 
 ## Dates
 
@@ -304,7 +306,7 @@ When a law gives no date of its own, the default rule applies: Kushtetuta, neni 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `637f0887e96aba48a95694a6f1bc39c0382ef7028d88ea4591503d57e3614898` (359087847 bytes).
+- Corpus: sha256 `335aae04cc3b17bd361fc90e05161ba17bd4946b1966135994d917bbc9f9452d` (377264154 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `57a43747859d3a0a8a29374325b006853d18227e`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -316,7 +318,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (2044 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (2072 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 

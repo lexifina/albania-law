@@ -832,6 +832,15 @@ AMBIG: set = set()      # (family, year, number) that QBZ gives to more than one
 INERT: dict = {}        # QBZ id -> why that act changed nothing (changes_nothing), or None
 APPROVED: dict = {}     # ('aktnormativ', number, day) -> the listing record of the law approving that act
 PUB_URL: dict = {}      # act slug on main -> its url, so a key already published never changes
+_PUB_URLS = None
+
+
+def ON_MAIN_URL(x: dict) -> bool:
+    """Whether an act with this record's official page is on main already (2026-11-09)."""
+    global _PUB_URLS
+    if _PUB_URLS is None:
+        _PUB_URLS = set(PUB_URL.values())
+    return bool(x.get('eliPath')) and f'{SITE}{x["eliPath"]}' in _PUB_URLS
 
 
 def family(x: dict) -> str | None:
@@ -1074,6 +1083,12 @@ def history(cache: Path, memo: Path | None, x: dict, kind: str, byid: dict, publ
     by = {(v.get('changedBy') or {}).get('id') for v in vs}
     gap = 'version_without_changing_act' if None in by else \
         'versions_incomplete:' + ','.join(map(str, sorted(changes_in - by)[:5])) if not changes_in <= by else None
+    # 2026-11-09: QBZ's base-act text is itself one of its consolidated versions (its text "as published" is not on
+    # QBZ): the act starts from the oldest version available, as for any other gap. An act already on main with that
+    # text as its first version keeps it and is labelled (see compute()).
+    if not gap and not ON_MAIN_URL(x) and \
+            x['word']['sha256'] in {(v.get('word') or {}).get('sha256') for v in vs}:
+        gap = 'base_text_is_a_consolidated_version'
     day0, how0 = in_force(kind, '\n'.join(base_paras), published)
     late_clause_ok(kind, '\n'.join(base_paras), x['id'])
     prev = split(base_paras, kind)
@@ -1696,8 +1711,20 @@ def inert_note(inert: tuple, byid: dict) -> str:
                    for i, why in inert)
 
 
+def amended_marks(ids: list, byid: dict) -> dict:
+    """2026-11-09: {'amended_by': [...], 'label': ...} for an act published as enacted that later acts change."""
+    if not ids:
+        return {}
+    out = []
+    for i in ids:
+        b = byid.get(i) or {}
+        out.append({'ref': f'qbz:{i}', 'title': f'{law_ref(b)[1]}: {title_of(b)}' if b else f'QBZ act {i}',
+                    'url': f'{SITE}{b["eliPath"]}' if b.get('eliPath') else None, 'date': b.get('date')})
+    return {'amended_by': out, 'label': 'amended, not consolidated'}
+
+
 def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid: dict, extra: tuple = (),
-            full_number: bool = False, inert: tuple = ()) -> tuple:
+            full_number: bool = False, inert: tuple = (), amended: tuple = ()) -> tuple:
     """The act's part, slug, law record, act record and (for a history) the changing acts' records and decisions;
     raises Hold. Reads only x's own inputs (recorded in TOUCHED for --result-cache)."""
     hlaws: dict = {}
@@ -1706,8 +1733,9 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
     if rel is None:
         raise Hold('relations_not_fetched')
     repealers = sorted({r['actId'] for r in rel if r.get('direction') == 'in' and r.get('type') == 'REPEALS'} | set(extra))
-    if not hist and any(r.get('direction') == 'in' and r.get('type') == 'CHANGES' for r in rel):
-        raise Hold('qbz_changed_or_repealed')
+    # 2026-11-09 (Romania standard): QBZ links an act as changing this one but keeps no consolidated version: the act
+    # is published as enacted, labelled "amended, not consolidated" with the changing acts (was: held back).
+    changers = sorted({r['actId'] for r in rel if r.get('direction') == 'in' and r.get('type') == 'CHANGES'})         if not hist else []
     if len(repealers) > 1:
         raise Hold('repealed_by_several:' + ','.join(map(str, repealers[:5])))
     if True:
@@ -1762,18 +1790,33 @@ def compute(cache: Path, memo: Path | None, x: dict, kind: str, hist: bool, byid
         g = x['gazette']
         if hist:
             earlier = versions[0].pop('_earlier', None)
+            marks = {}
+            vs_q = read_json(cache, f'{API}/acts/{x["id"]}/versions') or []
+            q = next((v for v in vs_q if (v.get('word') or {}).get('sha256') == x['word']['sha256']), None)
+            if q and versions and versions[0].get('sha256') == x['word']['sha256']:
+                # 2026-11-09: an act on main whose first version is QBZ's consolidated text (see history())
+                marks = {'label': 'first version is a later consolidated text',
+                         'label_note': f'QBZ gives no text of this act as published: its base-act file is its '
+                                       f'consolidated version {q.get("versionNo")} (after '
+                                       f'{(q.get("changedBy") or {}).get("number") or "a change QBZ does not name"}). '
+                                       f'The version dated {versions[0]["from"]} therefore shows that later text.'}
             return (f'{HIST_PART[kind]}-{year}', slug, law,
                     {'slug': slug, 'short': short_of(title), 'title': title, 'url': url,
                      'first_law': None if earlier is not None else slug,
-                     'earlier_laws': [slug] + earlier if earlier is not None else [], 'versions': versions}, hlaws, hdec)
+                     'earlier_laws': [slug] + earlier if earlier is not None else [], 'versions': versions,
+                     **marks}, hlaws, hdec)
         return (f'{PART[kind]}-{year}', slug, law, {
             'slug': slug, 'short': short_of(title), 'title': title, 'url': url, 'first_law': slug,
             'earlier_laws': [],
             'versions': [{'from': day, 'source_url': SITE + x['word']['url'], 'sha256': x['word']['sha256'],
                           'units': units, 'credits': {},
                           'note': f'As published in the Fletorja Zyrtare nr. {g["number"]}/{g["year"]} ({published}{pub_note}); '
-                                  f'in force from {day}: {how}. QBZ links no act as changing or repealing it.'
-                                  + inert_note(inert, byid) + tnote}]}, {}, [])
+                                  f'in force from {day}: {how}. '
+                                  + ('QBZ links later acts as changing it, but publishes no consolidated text: this is '
+                                     'the act as published.' if changers or amended else
+                                     'QBZ links no act as changing or repealing it.')
+                                  + inert_note(inert, byid) + tnote}],
+            **amended_marks(sorted(set(changers) | set(amended)), byid)}, {}, [])
 
 
 
@@ -1896,6 +1939,13 @@ def main():
     byid = {x['id']: x for x in L}
     for x in L:
         kind = kind_of(x)
+        # 2026-11-09: a base act of a kind published here that QBZ gives only as a PDF (or with no file) is listed,
+        # not dropped silently.
+        if not kind and x['kind'] == 'Akt bazë' and kind_of(dict(x, word={'url': '.docx', 'sha256': ''})):
+            holds.append({'id': x['id'], 'kind': kind_of(dict(x, word={'url': '.docx', 'sha256': ''})),
+                          'number': x['number'], 'date': x['date'], 'title': x['title'][:160],
+                          'reason': 'no_word_text:' + ('pdf_only' if x.get('pdf') else 'no_file')})
+            continue
         if not kind:
             continue
         ref = ident(x)
@@ -1921,6 +1971,7 @@ def main():
                     raise Hold('spent_budget_law')
             extra: tuple = ()
             inert: list = []
+            amended: tuple = ()
             if not hist:
                 own = {x['id']}
                 if (named.get(ref, set()) | cited_changed.get(ref, set())) - own:
@@ -1943,15 +1994,18 @@ def main():
                 # An act already published (listed in --kept) that such a citation found later would hold keeps its
                 # one version as published: right on its day, its later versions are added only from QBZ's texts or,
                 # when every act citing it repeals it as a whole (extra), as that repeal.
+                # 2026-11-09 (Romania standard): named as changed in a later act's title, or cited as changed by a
+                # later text, and QBZ keeps no consolidated version: published as enacted and labelled (was: held),
+                # an act already published as well.
+                if others:
+                    amended = tuple(sorted(others))
                 if str(x['id']) in kept and others:
                     extra, others, kept_now = (), set(), True
-                if named.get(ref, set()) & others:
-                    raise Hold('named_in_changing_title:' + ','.join(map(str, sorted(named[ref] & others)[:5])))
-                if cited_changed.get(ref, set()) & others:
-                    raise Hold('cited_as_changed:' + ','.join(map(str, sorted(cited_changed[ref] & others)[:5])))
             xk = x
-            if extra or kind == 'aktnormativ' or full_number or inert:
+            if extra or kind == 'aktnormativ' or full_number or inert or amended:
                 xk = dict(x, _extra=list(extra), _approved=(APPROVED.get(ref) or {}).get('id'), _full=full_number)
+                if amended:
+                    xk['_amended'] = list(amended)
                 if inert:
                     xk['_inert'] = [list(t) for t in inert]
             res = cached_result(rc, xk, byid)
@@ -1960,7 +2014,7 @@ def main():
                 TOUCHED = []
                 try:
                     res = ('ok',) + compute(cache, memo, x, kind, hist, byid, extra, full_number,
-                                                   tuple(inert))
+                                                   tuple(inert), amended)
                 except Hold as h:
                     res = ('hold', str(h))
                 files, TOUCHED = TOUCHED, None
