@@ -1,0 +1,58 @@
+# Për programin e nxitjes së punësimit, nëpërmjet formimit në punë
+
+Programin e nxitjes së punësimit, nëpërmjet formimit në punë · 1 versions, from 2018-04-03 (latest in force: 2018-04-03) · <https://qbz.gov.al/eli/vendim/2008/01/16/47>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
+| Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
+| Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
+| Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
+| Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
+| Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
+| Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
+| Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
+| Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
+| Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
+| Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
+| Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
+| Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
+| Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
+| Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
+| Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
+| Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
+| Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
+| Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
+| Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
+| Pika 27 | [pika-027.md](pika-027.md) | 0 |  |
+| Pika 28 | [pika-028.md](pika-028.md) | 0 |  |
+| Pika 29 | [pika-029.md](pika-029.md) | 0 |  |
+| Pika 30 | [pika-030.md](pika-030.md) | 0 |  |
+| Pika 31 | [pika-031.md](pika-031.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+
+Act id: `vendim-2008-47` (tags `vendim-2008-47/<day>`; `python tools/on.py <day> vendim-2008-47`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Vendimi i Këshillit të Ministrave nr. 332, datë 12.3.2008: QBZ’s consolidated version 1 changes Pika 4, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 688, datë 29.7.2015 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 332, datë 12.3.2008: QBZ’s consolidated version 1 changes Pika 5, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 688, datë 29.7.2015 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 725, datë 21.5.2008: QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 22, datë 22.1.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 725, datë 21.5.2008: QBZ’s consolidated version 1 changes Pika 16, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 22, datë 22.1.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 725, datë 21.5.2008: QBZ’s consolidated version 1 changes Pika 17, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 22, datë 22.1.2014 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1292, datë 24.9.2008: QBZ’s consolidated version 2 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 334, datë 19.6.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1292, datë 24.9.2008: QBZ’s consolidated version 3 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 637, datë 5.11.2025 names; the change is recorded as unexplained, from the publisher.
+- Vendimi i Këshillit të Ministrave nr. 1292, datë 24.9.2008: QBZ’s consolidated version 4 changes Shtojca, which neither a QBZ note nor Vendimi i Këshillit të Ministrave nr. 655, datë 12.11.2025 names; the change is recorded as unexplained, from the publisher.
+- An act whose issue day in QBZ’s gazette record is missing, before its adoption or more than 120 days after it is dated by the day printed on the masthead of the issue’s own PDF, when the masthead prints a full day and the issue’s contents list the act; otherwise it is held back, as are the acts of the “Ekstra” issues (some print acts left unpublished at the time, “Akte të papublikuara”) and acts adopted before the 1998 Constitution. The same applies to the act that changes or repeals it.
+- A repeal QBZ does not link is taken from the repealing act’s own text when every act citing this one as changed repeals it as a whole there: an empty last version on the day the repealing act took effect, credited to it.
+- When QBZ’s consolidated versions do not give the text after each change (a version names no changing act, or an act QBZ links as changing the act has no version of its own), the act is published from the first QBZ version that holds every such change and after which every version names its changing act: the acts QBZ links as changing it and every act its notes name (each one record in QBZ’s listing, dated as a changing act is), each named in that version’s notes. That version is the oldest one published (“oldest version available”, credited to the publisher, with the act as published and those changing acts as earlier laws), in force from the day the last of those changes took effect; the versions after it follow as usual. The text in force before that day is not published.

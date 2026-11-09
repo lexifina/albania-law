@@ -1,0 +1,49 @@
+# Për garantimin e integritet të personave që zgjidhen, emërohen ose ushtrojnë funksione publike
+
+Garantimin e integritet të personave që zgjidhen, emërohen ose ushtrojnë funksione publike · 1 versions, from 2016-05-24 (latest in force: 2016-05-24) · <https://qbz.gov.al/eli/ligj/2015/12/17/138>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
+| Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
+| Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
+| Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
+| Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
+| Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
+| Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
+| Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
+| Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
+| Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
+| Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
+| Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
+| Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
+| Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
+| Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
+| Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
+| Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
+| Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
+
+Act id: `ligj-2015-138` (tags `ligj-2015-138/<day>`; `python tools/on.py <day> ligj-2015-138`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 1, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 3, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 7, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 15, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 26, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 114/2015: QBZ’s consolidated version 1 changes Neni 28, which neither a QBZ note nor Ligji nr. 12/2023 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 139/2015: QBZ’s consolidated version 1 changes Neni 9, which neither a QBZ note nor Ligji nr. 38/2019 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 139/2015: QBZ’s consolidated version 1 changes Neni 22, which neither a QBZ note nor Ligji nr. 38/2019 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 139/2015: QBZ’s consolidated version 1 changes Neni 27, which neither a QBZ note nor Ligji nr. 38/2019 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 139/2015: QBZ’s consolidated version 1 changes Neni 52, which neither a QBZ note nor Ligji nr. 38/2019 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 155/2015: QBZ’s consolidated version 2 changes Neni 1, which neither a QBZ note nor Ligji nr. 18/2024 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 155/2015: QBZ’s consolidated version 2 changes Neni 5, which neither a QBZ note nor Ligji nr. 18/2024 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 155/2015: QBZ’s consolidated version 2 changes Neni 25, which neither a QBZ note nor Ligji nr. 18/2024 names; the change is recorded as unexplained, from the publisher.
+- Ligji nr. 155/2015: QBZ’s consolidated version 2 changes Neni 72, which neither a QBZ note nor Ligji nr. 18/2024 names; the change is recorded as unexplained, from the publisher.
+- An act whose issue day in QBZ’s gazette record is missing, before its adoption or more than 120 days after it is dated by the day printed on the masthead of the issue’s own PDF, when the masthead prints a full day and the issue’s contents list the act; otherwise it is held back, as are the acts of the “Ekstra” issues (some print acts left unpublished at the time, “Akte të papublikuara”) and acts adopted before the 1998 Constitution. The same applies to the act that changes or repeals it.
+- When QBZ’s consolidated versions do not give the text after each change (a version names no changing act, or an act QBZ links as changing the act has no version of its own), the act is published from the first QBZ version that holds every such change and after which every version names its changing act: the acts QBZ links as changing it and every act its notes name (each one record in QBZ’s listing, dated as a changing act is), each named in that version’s notes. That version is the oldest one published (“oldest version available”, credited to the publisher, with the act as published and those changing acts as earlier laws), in force from the day the last of those changes took effect; the versions after it follow as usual. The text in force before that day is not published.

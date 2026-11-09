@@ -278,21 +278,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 16835 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 21274 | |
+| 17075 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 21708 | |
 
-The build made 2244 commits:
+The build made 2713 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1541 | first version of an act |
-| 646 | one law on its in-force day |
-| 57 | changes no amendment note explains, credited to the publisher |
+| 1781 | first version of an act |
+| 820 | one law on its in-force day |
+| 112 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `e-ardhme`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 21515 laws in the record.
-- 43316 tags.
+- 22311 laws in the record.
+- 43927 tags.
 
 ## Dates
 
@@ -304,7 +304,7 @@ When a law gives no date of its own, the default rule applies: Kushtetuta, neni 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `5b1d5ed8b0235da222b4df01222c9f7e83b6cecd1273c34cdd9d98f072efc726` (346491277 bytes).
+- Corpus: sha256 `637f0887e96aba48a95694a6f1bc39c0382ef7028d88ea4591503d57e3614898` (359087847 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `57a43747859d3a0a8a29374325b006853d18227e`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -316,7 +316,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1848 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (2044 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 

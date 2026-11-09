@@ -1,0 +1,36 @@
+# Për përcaktimin e niveleve të gjuhëve të huaja dhe të testeve ndërkombëtare, për pranimet në programet e studimit të ciklit të dytë dhe të tretë, në institucionet e arsimit të lartë
+
+Përcaktimin e niveleve të gjuhëve të huaja dhe të testeve ndërkombëtare, për pranimet në programet e studimit të ciklit  · 1 versions, from 2023-06-23 (latest in force: 2023-06-23) · <https://qbz.gov.al/eli/udhezim/2015/12/03/52>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Hyrje | [hyrje.md](hyrje.md) | 0 |  |
+| Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
+| Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
+| Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
+| Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
+| Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
+| Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
+| Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
+| Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
+| Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
+| Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
+| Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
+| Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
+| Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
+| Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
+| Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
+
+Act id: `udhezim-2015-1203-52` (tags `udhezim-2015-1203-52/<day>`; `python tools/on.py <day> udhezim-2015-1203-52`).
+
+## Decisions made by hand
+
+- The first version is the act as published in the Fletorja Zyrtare, in force from the day its own clause gives (counted from its issue’s publication day, as for acts without versions).
+- Each later version is QBZ’s consolidated text, credited to the act QBZ names as having changed it and in force from the day that act took effect: its own clause counted from its issue’s publication day (the same rules as above), or for a Constitutional Court decision its publication day (Kushtetuta, neni 132). QBZ’s validFrom is the changing act’s adoption day and is not used as an in-force day. A version made by any other kind of act holds the act back. QBZ’s notes (“Ndryshuar me ...”) are kept out of the text. A provision is credited when a note on it or the changing act’s own text names it; any other change is recorded as unexplained. A provision whose words differ only in spacing keeps the earlier words.
+- An act is published with its history only when every act QBZ links as changing it has a consolidated version, no act repeals it, its versions are in date order, and no version is mostly unexplained.
+- Udhëzimi nr. 262, datë 25.5.2015 (Ministria e Brendshme): QBZ’s consolidated version 1 changes Pika 18, which neither a QBZ note nor Udhëzimi nr. 334, datë 28.10.2021 (Ministria e Brendshme) [QBZ 23696] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 262, datë 25.5.2015 (Ministria e Brendshme): QBZ’s consolidated version 1 changes Pika 19, which neither a QBZ note nor Udhëzimi nr. 334, datë 28.10.2021 (Ministria e Brendshme) [QBZ 23696] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 4038, datë 4.9.2015 (Kryeministri): QBZ’s consolidated version 1 changes Pika 1, which neither a QBZ note nor Udhëzimi nr. 1, datë 26.2.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22805] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 4038, datë 4.9.2015 (Kryeministri): QBZ’s consolidated version 1 changes Pika 7, which neither a QBZ note nor Udhëzimi nr. 1, datë 26.2.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22805] names; the change is recorded as unexplained, from the publisher.
+- Udhëzimi nr. 4038, datë 4.9.2015 (Kryeministri): QBZ’s consolidated version 1 changes Pika 8, which neither a QBZ note nor Udhëzimi nr. 1, datë 26.2.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22805] names; the change is recorded as unexplained, from the publisher.
+- When QBZ’s consolidated versions do not give the text after each change (a version names no changing act, or an act QBZ links as changing the act has no version of its own), the act is published from the first QBZ version that holds every such change and after which every version names its changing act: the acts QBZ links as changing it and every act its notes name (each one record in QBZ’s listing, dated as a changing act is), each named in that version’s notes. That version is the oldest one published (“oldest version available”, credited to the publisher, with the act as published and those changing acts as earlier laws), in force from the day the last of those changes took effect; the versions after it follow as usual. The text in force before that day is not published.
