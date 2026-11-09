@@ -76,12 +76,6 @@ Logoja kombëtare e prodhimit biologjik
 2. Përbërja, paraqitja, madhësia dhe dizenjimi i logos kombëtare të prodhimit biologjik (më poshtë logo) të jetë sipas modelit të paraqitur në aneksin I, të këtij vendimi.
 Neni 12
 Kushtet për përdorimin e numrit kodues dhe të vendit të origjinës
-1. Numri kodues i trupës së kontrollit duhet:
-a) të fillojë me akronimin AL (që identifikon Shqipërinë);
-b) të përmbajë termin “Bio”, i cili tregon metodën e prodhimit biologjik;
-c) të përmbajë një numër identifikues progresiv, i cili do të përmbajë 3 shifra që përcaktohen nga Komisioni për Bujqësinë Biologjike (duke filluar nga numri 001);
-ç) të vendoset në të njëjtën fushëpamje me logon dhe treguesin e vendit të origjinës, ku janë prodhuar lëndët e para bujqësore, prej të cilave përbëhet produkti.
-2. Treguesi i vendit të origjinës, ku janë kultivuar lëndët e para bujqësore nga të cilat përbëhet produkti, vendoset menjëherë poshtë numrit kodues, të përcaktuar në pikën 1, të këtij neni.
 Neni 13
 Përdorimi i markës tregtare dhe i përshkrimit të produktit për shitje në ushqimin për kafshët që përdoren për ushqim
 Marka tregtare dhe përshkrimi i produktit për shitje, të cilat përmbajnë termat “biologjik”, “organik”, “bio”, ose “eko”, përdoren vetëm nëse të gjithë përbërësit e produktit me origjinë bimore ose shtazore janë biologjikë dhe, të paktën, 95% e lëndës së thatë të produktit përbëhet nga përbërës të tillë.
