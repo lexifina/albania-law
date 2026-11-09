@@ -1,0 +1,1 @@
+10. Në zhvillimin e kategorisë “resort miks”, sipërfaqja totale e ndërtimit e komponentit turistik duhet të jetë jo më e vogël se 60 (gjashtëdhjetë) për qind e shumës së sipërfaqeve totale të ndërtimit të komponentit turistik dhe të komponentit rezidencial. Sipërfaqja totale e ndërtimit e komponentit rezidencial nuk duhet të jetë më e madhe se 40 (dyzet) për qind e kësaj shume.

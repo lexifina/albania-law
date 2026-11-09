@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kategoritë e strukturave akomoduese, sipas tipologjisë, funksionit, mënyrës së organizimit dhe karakteristikave të shërbimit të akomodimit, si dhe kriteret e projektimit e të ndërtimit për projektet e integruara të kategorisë. Këto kritere verifikohen edhe gjatë procedurës së kategorizimit paraprak, sipas legjislacionit në fuqi për turizmin.

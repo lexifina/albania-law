@@ -1,0 +1,1 @@
+19. Për strukturat akomoduese, për të cilat është lëshuar dokumenti i lejes së ndërtimit nga autoriteti kompetent përpara hyrjes në fuqi të ligjit nr. 83/2026, nuk kërkohet certifikatë paraprake kategorizimi. Këto struktura u nënshtrohen kategorizimit dhe, kur zbatohet, klasifikimit, sipas legjislacionit në fuqi për turizmin, përpara fillimit të ushtrimit të veprimtarisë.

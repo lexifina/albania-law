@@ -1,0 +1,1 @@
+14. Përcaktimet e pikave 9-13 të këtij vendimi zbatohen pa cenuar përdorimin e lejuar të tokës, intensitetin e ndërtimit, koeficientin e shfrytëzimit të tokës për ndërtim, lartësinë, distancat dhe treguesit e tjerë të zhvillimit, të përcaktuar në dokumentet e planifikimit apo në rregulloret e veçanta të miratuara nga KKTU-ja.

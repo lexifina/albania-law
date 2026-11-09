@@ -1,0 +1,5 @@
+11. Për llogaritjen e raportit të përcaktuar në pikën 10 të këtij vendimi:
+a) në komponentin turistik përfshihen sipërfaqet totale të ndërtimit të strukturës akomoduese të kategorisë “resort” dhe sipërfaqet e tjera të destinuara ekskluzivisht për funksione dhe shërbime turistike;
+b) në komponentin rezidencial përfshihen sipërfaqet totale të ndërtimit të objekteve, të njësive ose të pjesëve të objekteve të destinuara për funksion rezidencial;
+c) sipërfaqet e ambienteve, shërbimeve dhe infrastrukturës së përbashkët, që u shërbejnë njëkohësisht komponentit turistik dhe komponentit rezidencial dhe nuk mund të ndahen objektivisht sipas përdorimit, u shpërndahen të dy komponentëve në përpjesëtim me sipërfaqet e identifikuara drejtpërdrejt për secilin komponent;
+ç) sipërfaqet që, pavarësisht emërtimit në projekt, i shërbejnë kryesisht njërit komponent ose përdorimi i të cilave mund të ndahet në mënyrë objektive, i ngarkohen komponentit përkatës ose ndahen ndërmjet komponentëve në përpjesëtim me përdorimin e dokumentuar. Asnjë sipërfaqe ndërtimi e zhvillimit nuk përjashtohet nga llogaritja e raportit.

@@ -1,0 +1,1 @@
+4. Për kategoritë e parashikuara në pikën 3 të këtij vendimi, termat e përkufizuar në ligjin nr. 93/2015, “Për turizmin”, të ndryshuar, kanë kuptimin e dhënë në këtë ligj. Për kategoritë dhe termat e përkufizuar në pikën 2 të këtij vendimi zbatohen përkufizimet e kësaj pike.

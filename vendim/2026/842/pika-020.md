@@ -1,0 +1,1 @@
+20. Strukturat akomoduese, për të cilat nuk është lëshuar ende dokumenti i lejes së ndërtimit nga autoriteti përgjegjës përpara hyrjes në fuqi të ligjit nr. 83/2026, i nënshtrohen kategorizimit për marrjen e certifikatës paraprake.

@@ -1,0 +1,1 @@
+9. Për projektin e kategorisë “resort miks”, komponenti turistik dhe komponenti rezidencial përcaktohen, identifikohen e paraqiten në mënyrë të dallueshme në dokumentacionin e projektit, në përputhje me legjislacionin në fuqi për planifikimin dhe zhvillimin e territorit.

@@ -1,0 +1,1 @@
+15. Certifikata paraprake e kategorizimit vlerëson përputhshmërinë e projektit me kategorinë turistike të propozuar. Ajo nuk krijon të drejtë ndërtimi, nuk zëvendëson lejen e ndërtimit dhe nuk kufizon kompetencat e autoritetit përgjegjës për zhvillimin e territorit.
