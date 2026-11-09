@@ -1,0 +1,1 @@
+1. Miratimin e vendimit nr. 4/2024, të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për parandalimin e bllokimit gjeografik të pajustifikuar”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
