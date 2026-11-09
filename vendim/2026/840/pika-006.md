@@ -1,0 +1,2 @@
+6. Për shoqëritë që nuk kanë ushtruar aktivitet gjatë gjithë periudhës mars-maj 2026, si vlerë reference për kompensim merret sasia mesatare mujore e karburantit të konsumuar, që shërben si bazë referuese për përllogaritjen e kompensimit, përcaktohet duke pjesëtuar sasinë totale të karburantit të konsumuar dhe të dokumentuar gjatë muajve të plotë të ushtrimit të aktivitetit, brenda kësaj periudhe, me numrin e këtyre muajve.
+Përllogaritja kryhet mbi bazën e dokumentacionit provues të paraqitur nga subjekti dhe të verifikuar nga administrata detare.
