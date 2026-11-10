@@ -1,0 +1,1 @@
+4. Kodet statistikore të klasifikimit të produkteve të konsumit individual sipas qëllimit, të përdorura deri para hyrjes në fuqi të këtij vendimi, zëvendësohen me kodet e parashikuara në klasifikimin e ri (COICOP 2018), që i bashkëlidhet këtij vendimi.

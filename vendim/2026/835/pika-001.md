@@ -1,0 +1,1 @@
+1. Miratimin e klasifikimit të produkteve të konsumit individual sipas qëllimit (COICOP 2018), i miratuar paraprakisht nga Komisioni Kombëtar për Nomenklaturën, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
