@@ -1,3 +1,0 @@
-# Nënshkrimi
-ZËVENDËSKRYEMINISTRI
-Senida Mesi
