@@ -6,14 +6,28 @@ The law of Albania as a git history: one file per provision, one commit per law 
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `al/`.
 
-**What is in it now**
+**What is in it.** Albania's national legislation as Qendra e Botimeve Zyrtare (QBZ, the official publisher, qbz.gov.al) holds it from 2000: the Constitution with its full history, the laws of the Assembly (ligje), the decisions of the Council of Ministers (VKM), its acts with the force of law (akte normative), the normative decrees of the President on the courts (dekrete), and the instructions (udhëzime) and orders (urdhra) of ministers and other bodies. Each act is its text as published in the Fletorja Zyrtare, then every consolidated text QBZ publishes after each change, dated by the changing act's own entry into force. [registry/ACTS.md](registry/ACTS.md) lists every act; [registry/data/acts.json](registry/data/acts.json) gives each one's status and official page.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `kushtetuta/1998/` | Kushtetuta e Republikës së Shqipërisë (ligji nr. 8417, datë 21.10.1998) | 8 | From its entry into force on 28 November 1998, through all seven amending laws (2007, 2008, 2012, 2015, 2016, 2020, 2022), to today |
-| `ligj/2023/29/` | Ligji nr. 29/2023 “Për tatimin mbi të ardhurat” (income tax) | 7 | As published (in force 17 May 2023), then QBZ's official consolidated text after each of its six changes: three normative acts (2023, 2024), Constitutional Court decision nr. 52/2024 and laws 9/2025 and 81/2025, to today |
-| `ligj/2008/9917/` | Ligji nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” | 8 | As published (in force 10 September 2008), then QBZ's consolidated text after each of its seven amending laws (2011, 2012, 2017, 2019, 2021, 2023, 2026), to today |
-| `ligj/2020/113/` | Ligji nr. 113/2020 “Për shtetësinë” (citizenship) | 3 | As published (in force 14 October 2020), then QBZ's consolidated text after laws 77/2024 and 49/2026, to today |
+| Status (registry/data/acts.json) | Meaning |
+| --- | --- |
+| `in force` | QBZ links no change to it that this repository lacks |
+| `amending act` | an act whose purpose is to change another: published as enacted, in its own folder |
+| `amended, not consolidated` | QBZ (or a later act's title or text) names later acts that change it, but QBZ publishes no consolidated text: the text here is the act as published; `amended_by` lists the changing acts and their official pages |
+| `first version is a later consolidated text` | QBZ gives no text of the act as published (its file is a consolidated version), so the first version shows that later text; `label_note` names the change it includes |
+| `repealed YYYY-MM-DD` | an empty last version records the repeal on the day it took effect, credited to the repealing act |
+| `withdrawn` | a duplicate removed by a labelled correction commit; `withdrawn_by` names it |
+
+Acts whose text, dates or structure do not read cleanly are held back, not on `main`; [data/held.json](data/held.json) lists each with its reason and official page (among them base acts QBZ gives only as a PDF). Laws passed but not yet in force are in [data/pending.json](data/pending.json) and are appended on the day they take effect. QBZ's online records start in 2000: the codes adopted before it (the Civil Code of 1994, the Penal Code and the Criminal Procedure Code of 1995, the Labour Code of 1995) have no base record there, only their amending acts, and are not built.
+
+## Freshness
+
+Every version names the official page it was read from (its `Source:` and `Consolidated:` trailers), so every act can be checked against its source.
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+`python tools/freshness.py <act>` gives an act's status, its last check and the official link; `python tools/freshness.py --summary` the overall picture. Each act is checked by reading QBZ's record of it, its links to changing and repealing acts and its consolidated versions, and comparing them with the newest version here. The check runs weekly; [data/status.json](data/status.json) says whether updates are running and when QBZ last answered. Thresholds: 7 days for the Constitution, laws, Council of Ministers decisions, normative acts and decrees, 30 days for instructions and orders. Statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and columns are explained in [data/freshness.json](data/freshness.json). Acts labelled `amended, not consolidated` are `pending-change`: QBZ reports a change that no consolidated text here applies.
 
 **Folders.** Every act lives in a folder named by its official identifier, `<kind>/<year>/<number>/`: the laws in `ligj/` (ligji nr. 8569/2000 in `ligj/2000/8569/`), the Constitution in `kushtetuta/1998/`, and the decisions, instructions, orders, normative acts and decrees appended since in `vendim/`, `udhezim/`, `urdher/`, `aktnormativ/` and `dekret/`. Until 4 November 2026 the earlier acts' folders were named by their id (`kushtetuta/`, `ligji-8569-2000/`); the commit that renamed them changes no text, so `git log --follow` and `git blame` reach back through it, and the tools read both names. `registry/data/paths.json` maps every act id to its folder; `data/paths.json` lists this build's acts, and the 975 laws that had been published twice, whose copy in `ligj/` was kept.
 
@@ -73,7 +87,7 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **The Fletorja Zyrtare of 1998** (nr. 28/1998) is not online; the 1998 text is the Assembly's copy. It differs from QBZ's wording of the same, never-amended provisions only in typography (capitals such as "Forcat e Armatosura", a few accents, quotes and commas, in 15 provisions, listed in `REPRODUCE.md`; 7 more differ only in spacing). Those provisions read as QBZ prints them today, so such differences never appear as changes.
 - **Editorial changes between QBZ editions** (spacing, capitals, corrected accents) are not shown as changes, for the same reason.
 - **Rulings of the Constitutional Court** do not change the text of the Constitution and are not in the record.
-- **Other acts.** Only the Constitution so far. The Civil Code (1994) and the Penal Code (1995) predate QBZ's online archive, and no official machine-readable copy of their original texts has been found yet.
+- **Acts before 2000 and consolidated texts QBZ does not publish.** The Civil Code (1994), the Penal Code (1995) and other acts adopted before 2000 predate QBZ's online archive and are not built. An act QBZ links as changed but keeps no consolidated text of is its text as published, labelled `amended, not consolidated`.
 
 ## How it is built
 

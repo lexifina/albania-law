@@ -1,0 +1,36 @@
+{
+"note": "Acts published in the Fletorja Zyrtare but not yet in force; each is appended on the day it takes effect.",
+"count": 5,
+"acts": [
+{
+"act": "ligj-2026-115",
+"title": "Për Këshillin Fiskal të Republikës së Shqipërisë",
+"in_force_from": "2026-11-18",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/10/29/115"
+},
+{
+"act": "ligj-2026-100",
+"title": "Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë",
+"in_force_from": "2026-11-20",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/10/09/100"
+},
+{
+"act": "ligj-2026-60",
+"title": "Për informacionin elektronik të transportit të mallrave",
+"in_force_from": "2026-12-30",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/06/18/60"
+},
+{
+"act": "ligj-2026-56",
+"title": "Për nënproduktet me origjinë shtazore",
+"in_force_from": "2027-01-01",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/06/04/56"
+},
+{
+"act": "udhezim-2026-0717-6",
+"title": "Për miratimin e procedurës për mbledhjen dhe përdorimin e të ardhurave dytësore që krijohen nga pagesa e subjekteve të interesuara për promovimin e aktiviteteve dhe për shërbimet turistike në hapësirat e menaxhuara nga Agjencia Kombëtare e Turizmit",
+"in_force_from": "2027-01-30",
+"official_url": "https://qbz.gov.al/eli/udhezim/2026/07/17/6"
+}
+]
+}
