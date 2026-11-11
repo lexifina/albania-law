@@ -16,7 +16,7 @@ Act id: `vendim-2012-221` (tags `vendim-2012-221/<day>`; `python registry/tools/
 
 Amended or repealed by:
 
-- [Vendimi i Këshillit të Ministrave nr. 839, datë 5.11.2026: Për disa ndryshime dhe shtesa në vendimin nr.221, datë 28.3.2012, të Këshillit të Ministrave, “Për miratimin e rregullit teknik për etiketimin e produkteve të qelqit kristal”](https://qbz.gov.al/eli/vendim/2026/11/05/839)
+- [Vendimi i Këshillit të Ministrave nr. 839, datë 5.11.2026: Për disa ndryshime dhe shtesa në vendimin nr. 221, datë 28.3.2012, të Këshillit të Ministrave, “Për miratimin e rregullit teknik për etiketimin e produkteve të qelqit kristal”](https://qbz.gov.al/eli/vendim/2026/11/05/839)
 
 ## Decisions made by hand
 

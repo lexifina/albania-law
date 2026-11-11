@@ -1,6 +1,6 @@
-# Për miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës ndërmjet Ministrisë së Bujqësisë dhe Zhvillimit Rural, njësive të vetëqeverisjes vendore dhe subjektit fitues të procedurës së konkurimit publik
+# Për miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës, ndërmjet Ministrisë së Bujqësisë dhe Zhvillimit Rural, njësive të vetëqeverisjes vendore dhe subjektit fitues të procedurës së konkurimit publik
 
-Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës ndërmjet Ministrisë së Bujqësisë dhe · 1 versions, from 2026-11-06 (latest in force: 2026-11-06) · <https://qbz.gov.al/eli/urdher/2026/10/20/1068>
+Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuakulturës, ndërmjet Ministrisë së Bujqësisë dh · 1 versions, from 2026-11-06 (latest in force: 2026-11-06) · <https://qbz.gov.al/eli/urdher/2026/10/20/1068>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

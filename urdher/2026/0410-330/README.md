@@ -22,7 +22,7 @@ Act id: `urdher-2026-0410-330` (tags `urdher-2026-0410-330/<day>`; `python regis
 
 Amended or repealed by:
 
-- [Urdhri nr. 882, datë 30.10.2026 (Agjensia Shtetërore e Kadastrës) [QBZ 120199]: Për shfuqizimin e urdhrit nr.330, datë 10.4.2026 ”Për delegim kompetence”](https://qbz.gov.al/eli/urdher/2026/10/30/882)
+- [Urdhri nr. 882, datë 30.10.2026 (Agjensia Shtetërore e Kadastrës) [QBZ 120199]: Për shfuqizimin e urdhrit nr. 330, datë 10.4.2026, ”Për delegim kompetence”](https://qbz.gov.al/eli/urdher/2026/10/30/882)
 
 ## Decisions made by hand
 

@@ -1,6 +1,6 @@
-# Për miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për parandalimin e bllokimit gjeografik të pajustifikuar”
+# Për miratimin e vendimit nr.4/2024, të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për parandalimin e bllokimit gjeografik të pajustifikuar”
 
-Miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për  · 1 versions, from 2026-11-09 (latest in force: 2026-11-09) · <https://qbz.gov.al/eli/vendim/2026/11/05/838>
+Miratimin e vendimit nr.4/2024, të Komitetit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore, “Për · 1 versions, from 2026-11-09 (latest in force: 2026-11-09) · <https://qbz.gov.al/eli/vendim/2026/11/05/838>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
