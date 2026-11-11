@@ -5,7 +5,7 @@ Organizimin e punës për përafrimin e legjislacionit në fushën e së drejtë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-264` (tags `vendim-2013-264/<day>`; `python tools/on.py <day> vendim-2013-264`).
+Act id: `vendim-2013-264` (tags `vendim-2013-264/<day>`; `python registry/tools/on.py <day> vendim-2013-264`).
 
 ## Decisions made by hand
 

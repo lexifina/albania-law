@@ -20,7 +20,7 @@ Shërbimet publike të transportit rrugor të udhëtarëve · 1 versions, from 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-1220-16` (tags `udhezim-2023-1220-16/<day>`; `python tools/on.py <day> udhezim-2023-1220-16`).
+Act id: `udhezim-2023-1220-16` (tags `udhezim-2023-1220-16/<day>`; `python registry/tools/on.py <day> udhezim-2023-1220-16`).
 
 ## Decisions made by hand
 

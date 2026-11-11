@@ -80,7 +80,7 @@ Avokaturën e shtetit · 3 versions, from 2018-12-29 (latest in force: 2026-08-2
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-10018` (tags `ligj-2008-10018/<day>`; `python tools/on.py <day> ligj-2008-10018`).
+Act id: `ligj-2008-10018` (tags `ligj-2008-10018/<day>`; `python registry/tools/on.py <day> ligj-2008-10018`).
 
 ## Decisions made by hand
 

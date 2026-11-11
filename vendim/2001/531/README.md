@@ -5,7 +5,7 @@ Miratimin e uniformës dhe të emblemës së shërbimit doganor · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-531` (tags `vendim-2001-531/<day>`; `python tools/on.py <day> vendim-2001-531`).
+Act id: `vendim-2001-531` (tags `vendim-2001-531/<day>`; `python registry/tools/on.py <day> vendim-2001-531`).
 
 ## Decisions made by hand
 

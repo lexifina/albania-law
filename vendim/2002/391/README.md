@@ -9,7 +9,7 @@ Krijimin, shtrirjen territoriale dhe klasifikimin e zonës doganore në vendkali
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-391` (tags `vendim-2002-391/<day>`; `python tools/on.py <day> vendim-2002-391`).
+Act id: `vendim-2002-391` (tags `vendim-2002-391/<day>`; `python registry/tools/on.py <day> vendim-2002-391`).
 
 ## Decisions made by hand
 

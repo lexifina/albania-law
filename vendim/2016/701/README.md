@@ -10,7 +10,7 @@ Miratimin e strategjisë kombëtare të peshkimit 2016-2021 · 1 versions, from 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-701` (tags `vendim-2016-701/<day>`; `python tools/on.py <day> vendim-2016-701`).
+Act id: `vendim-2016-701` (tags `vendim-2016-701/<day>`; `python registry/tools/on.py <day> vendim-2016-701`).
 
 ## Decisions made by hand
 

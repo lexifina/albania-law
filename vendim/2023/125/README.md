@@ -16,7 +16,7 @@ Përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të mas
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-125` (tags `vendim-2023-125/<day>`; `python tools/on.py <day> vendim-2023-125`).
+Act id: `vendim-2023-125` (tags `vendim-2023-125/<day>`; `python registry/tools/on.py <day> vendim-2023-125`).
 
 ## Decisions made by hand
 

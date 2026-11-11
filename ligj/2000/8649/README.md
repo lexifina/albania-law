@@ -9,7 +9,7 @@ Ratifikimin e “marrëveshjeve të rezultateve të raundit të uruguait për ne
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8649` (tags `ligj-2000-8649/<day>`; `python tools/on.py <day> ligj-2000-8649`).
+Act id: `ligj-2000-8649` (tags `ligj-2000-8649/<day>`; `python registry/tools/on.py <day> ligj-2000-8649`).
 
 ## Decisions made by hand
 

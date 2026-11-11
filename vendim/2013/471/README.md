@@ -10,7 +10,7 @@ Kalimin në përgjegjësi administrimi të Prokurorisë së Përgjithshme të si
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-471` (tags `vendim-2013-471/<day>`; `python tools/on.py <day> vendim-2013-471`).
+Act id: `vendim-2013-471` (tags `vendim-2013-471/<day>`; `python registry/tools/on.py <day> vendim-2013-471`).
 
 ## Decisions made by hand
 

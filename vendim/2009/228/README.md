@@ -14,7 +14,7 @@ Lejimin e kalimit tranzit të dy autokolonave ushtarake italiane, përmes territ
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-228` (tags `vendim-2009-228/<day>`; `python tools/on.py <day> vendim-2009-228`).
+Act id: `vendim-2009-228` (tags `vendim-2009-228/<day>`; `python registry/tools/on.py <day> vendim-2009-228`).
 
 ## Decisions made by hand
 

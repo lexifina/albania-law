@@ -12,7 +12,7 @@ Marrjen e masave të veçanta në fushën e veprimtarisë gjyqësore, gjatë koh
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-9` (tags `aktnormativ-2020-9/<day>`; `python tools/on.py <day> aktnormativ-2020-9`).
+Act id: `aktnormativ-2020-9` (tags `aktnormativ-2020-9/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-9`).
 
 ## Decisions made by hand
 

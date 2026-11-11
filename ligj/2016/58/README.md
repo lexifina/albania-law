@@ -10,7 +10,7 @@ Ratifikimin e dokumentit të ndryshimit të marrëveshjes së huas, të ratifiku
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-58` (tags `ligj-2016-58/<day>`; `python tools/on.py <day> ligj-2016-58`).
+Act id: `ligj-2016-58` (tags `ligj-2016-58/<day>`; `python registry/tools/on.py <day> ligj-2016-58`).
 
 ## Decisions made by hand
 

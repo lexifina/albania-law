@@ -11,7 +11,7 @@ Emërimin e anëtarëve që përfaqësojnë palën shqiptare në Komisionin Shqi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-113` (tags `vendim-2019-113/<day>`; `python tools/on.py <day> vendim-2019-113`).
+Act id: `vendim-2019-113` (tags `vendim-2019-113/<day>`; `python registry/tools/on.py <day> vendim-2019-113`).
 
 ## Decisions made by hand
 

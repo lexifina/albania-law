@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të ministrit të Shteti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2025-520` (tags `vendim-2025-520/<day>`; `python tools/on.py <day> vendim-2025-520`).
+Act id: `vendim-2025-520` (tags `vendim-2025-520/<day>`; `python registry/tools/on.py <day> vendim-2025-520`).
 
 ## Decisions made by hand
 

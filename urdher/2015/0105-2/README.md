@@ -10,7 +10,7 @@ Miratimin e rregullores për zbatimin e marrëveshjes së bashkëpunimit datë 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2015-0105-2` (tags `urdher-2015-0105-2/<day>`; `python tools/on.py <day> urdher-2015-0105-2`).
+Act id: `urdher-2015-0105-2` (tags `urdher-2015-0105-2/<day>`; `python registry/tools/on.py <day> urdher-2015-0105-2`).
 
 ## Decisions made by hand
 

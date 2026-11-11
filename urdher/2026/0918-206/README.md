@@ -11,7 +11,7 @@ Miratimin e rregullores ”Mbi modulet për procedurat për vlerësimin e konfor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0918-206` (tags `urdher-2026-0918-206/<day>`; `python tools/on.py <day> urdher-2026-0918-206`).
+Act id: `urdher-2026-0918-206` (tags `urdher-2026-0918-206/<day>`; `python registry/tools/on.py <day> urdher-2026-0918-206`).
 
 ## Decisions made by hand
 

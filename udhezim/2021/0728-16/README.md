@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e sistemit të zhvillimit të vazhdueshëm profesio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2021-0728-16` (tags `udhezim-2021-0728-16/<day>`; `python tools/on.py <day> udhezim-2021-0728-16`).
+Act id: `udhezim-2021-0728-16` (tags `udhezim-2021-0728-16/<day>`; `python registry/tools/on.py <day> udhezim-2021-0728-16`).
 
 ## Decisions made by hand
 

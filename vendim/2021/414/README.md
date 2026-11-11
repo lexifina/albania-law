@@ -15,7 +15,7 @@ Miratimin e procedurave dhe kritereve të ndarjes dhe të përdorimit të fondit
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-414` (tags `vendim-2021-414/<day>`; `python tools/on.py <day> vendim-2021-414`).
+Act id: `vendim-2021-414` (tags `vendim-2021-414/<day>`; `python registry/tools/on.py <day> vendim-2021-414`).
 
 ## Decisions made by hand
 

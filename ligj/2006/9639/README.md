@@ -10,7 +10,7 @@ Ratifikimin e protokollit nr.13 të Konventës Europiane për Mbrojtjen e të Dr
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9639` (tags `ligj-2006-9639/<day>`; `python tools/on.py <day> ligj-2006-9639`).
+Act id: `ligj-2006-9639` (tags `ligj-2006-9639/<day>`; `python registry/tools/on.py <day> ligj-2006-9639`).
 
 ## Decisions made by hand
 

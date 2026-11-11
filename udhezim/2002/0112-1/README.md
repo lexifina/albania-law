@@ -10,7 +10,7 @@ Emërimin e anëtarëve të komisioneve të qendrave të votimit kur nuk arrihet
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2002-0112-1` (tags `udhezim-2002-0112-1/<day>`; `python tools/on.py <day> udhezim-2002-0112-1`).
+Act id: `udhezim-2002-0112-1` (tags `udhezim-2002-0112-1/<day>`; `python registry/tools/on.py <day> udhezim-2002-0112-1`).
 
 ## Decisions made by hand
 

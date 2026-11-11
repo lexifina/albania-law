@@ -22,7 +22,7 @@ Miratimin e minimumit të specifikimeve teknike të pajisjeve të Lotarisë Komb
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-278` (tags `vendim-2013-278/<day>`; `python tools/on.py <day> vendim-2013-278`).
+Act id: `vendim-2013-278` (tags `vendim-2013-278/<day>`; `python registry/tools/on.py <day> vendim-2013-278`).
 
 ## Decisions made by hand
 

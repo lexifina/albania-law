@@ -32,7 +32,7 @@ Verifikimin, identifikimin dhe regjistrimin e shtetasve nga njësitë e qeverisj
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9296-2004` (tags `ligji-9296-2004/<day>`; `python tools/on.py <day> ligji-9296-2004`).
+Act id: `ligji-9296-2004` (tags `ligji-9296-2004/<day>`; `python registry/tools/on.py <day> ligji-9296-2004`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e buxhetit faktik të vitit 2022 · 1 versions, from 2024-02-29 (lates
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-6-2024` (tags `ligji-6-2024/<day>`; `python tools/on.py <day> ligji-6-2024`).
+Act id: `ligji-6-2024` (tags `ligji-6-2024/<day>`; `python registry/tools/on.py <day> ligji-6-2024`).
 
 ## Decisions made by hand
 

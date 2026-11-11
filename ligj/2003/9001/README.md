@@ -10,7 +10,7 @@ Ratifikimin e “programit të veprimit rajonal “cards 2002” ndërmjet qever
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9001` (tags `ligj-2003-9001/<day>`; `python tools/on.py <day> ligj-2003-9001`).
+Act id: `ligj-2003-9001` (tags `ligj-2003-9001/<day>`; `python registry/tools/on.py <day> ligj-2003-9001`).
 
 ## Decisions made by hand
 

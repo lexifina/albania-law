@@ -187,7 +187,7 @@ Kodi hekurudhor i republikës së shqipërisë · 1 versions, from 2016-12-22 (l
 | Neni 162 | [neni-162.md](neni-162.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-142-2016` (tags `ligji-142-2016/<day>`; `python tools/on.py <day> ligji-142-2016`).
+Act id: `ligji-142-2016` (tags `ligji-142-2016/<day>`; `python registry/tools/on.py <day> ligji-142-2016`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së kredisë për zhvillim ndërmjet këshillit t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9337` (tags `ligj-2004-9337/<day>`; `python tools/on.py <day> ligj-2004-9337`).
+Act id: `ligj-2004-9337` (tags `ligj-2004-9337/<day>`; `python registry/tools/on.py <day> ligj-2004-9337`).
 
 ## Decisions made by hand
 

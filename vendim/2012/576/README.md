@@ -5,7 +5,7 @@ Përcaktimin e listës së shërbimeve që ofron zyra e regjistrimit të pasuriv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-576` (tags `vendim-2012-576/<day>`; `python tools/on.py <day> vendim-2012-576`).
+Act id: `vendim-2012-576` (tags `vendim-2012-576/<day>`; `python registry/tools/on.py <day> vendim-2012-576`).
 
 ## Decisions made by hand
 

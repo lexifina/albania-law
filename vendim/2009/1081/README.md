@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e autoritetit kombëtar të ushqimit · 3 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1081` (tags `vendim-2009-1081/<day>`; `python tools/on.py <day> vendim-2009-1081`).
+Act id: `vendim-2009-1081` (tags `vendim-2009-1081/<day>`; `python registry/tools/on.py <day> vendim-2009-1081`).
 
 ## Decisions made by hand
 

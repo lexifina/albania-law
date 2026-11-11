@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 8, datë 24.3.2020, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-29` (tags `ligj-2020-29/<day>`; `python tools/on.py <day> ligj-2020-29`).
+Act id: `ligj-2020-29` (tags `ligj-2020-29/<day>`; `python registry/tools/on.py <day> ligj-2020-29`).
 
 ## Decisions made by hand
 

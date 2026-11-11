@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.171 “mbi punën e natës”, 1990 të organizat
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9197` (tags `ligj-2004-9197/<day>`; `python tools/on.py <day> ligj-2004-9197`).
+Act id: `ligj-2004-9197` (tags `ligj-2004-9197/<day>`; `python registry/tools/on.py <day> ligj-2004-9197`).
 
 ## Decisions made by hand
 

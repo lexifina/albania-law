@@ -13,7 +13,7 @@ Dhënien me koncesion të uzinës së telave e kabllove Shkodër dhe për përca
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-592` (tags `vendim-2003-592/<day>`; `python tools/on.py <day> vendim-2003-592`).
+Act id: `vendim-2003-592` (tags `vendim-2003-592/<day>`; `python registry/tools/on.py <day> vendim-2003-592`).
 
 ## Decisions made by hand
 

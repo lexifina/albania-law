@@ -11,7 +11,7 @@ Regjistrimin e zgjedhësve që votojnë me vendim gjykate · 1 versions, from 20
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 
-Act id: `udhezim-2003-1010-17` (tags `udhezim-2003-1010-17/<day>`; `python tools/on.py <day> udhezim-2003-1010-17`).
+Act id: `udhezim-2003-1010-17` (tags `udhezim-2003-1010-17/<day>`; `python registry/tools/on.py <day> udhezim-2003-1010-17`).
 
 ## Decisions made by hand
 

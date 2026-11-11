@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas dhe programit 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-68` (tags `ligj-2018-68/<day>`; `python tools/on.py <day> ligj-2018-68`).
+Act id: `ligj-2018-68` (tags `ligj-2018-68/<day>`; `python registry/tools/on.py <day> ligj-2018-68`).
 
 ## Decisions made by hand
 

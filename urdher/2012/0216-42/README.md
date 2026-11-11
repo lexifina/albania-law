@@ -9,7 +9,7 @@ Speciet e bimëve, varieteti i të cilave duhet të regjistrohet në katalogun k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0216-42` (tags `urdher-2012-0216-42/<day>`; `python tools/on.py <day> urdher-2012-0216-42`).
+Act id: `urdher-2012-0216-42` (tags `urdher-2012-0216-42/<day>`; `python registry/tools/on.py <day> urdher-2012-0216-42`).
 
 ## Decisions made by hand
 

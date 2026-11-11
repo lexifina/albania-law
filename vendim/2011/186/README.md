@@ -14,7 +14,7 @@ PËR EKZEKUTIMIN E VENDIMIT TË GJYKATËS EUROPIANe PËR TË DREJTAT E NJERIUT, 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-186` (tags `vendim-2011-186/<day>`; `python tools/on.py <day> vendim-2011-186`).
+Act id: `vendim-2011-186` (tags `vendim-2011-186/<day>`; `python registry/tools/on.py <day> vendim-2011-186`).
 
 ## Decisions made by hand
 

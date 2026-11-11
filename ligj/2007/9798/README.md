@@ -10,7 +10,7 @@ Ligj Nr.9798 Dt.10.09.2007 · 1 versions, from 2007-10-12 (latest in force: 2007
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9798` (tags `ligj-2007-9798/<day>`; `python tools/on.py <day> ligj-2007-9798`).
+Act id: `ligj-2007-9798` (tags `ligj-2007-9798/<day>`; `python registry/tools/on.py <day> ligj-2007-9798`).
 
 ## Decisions made by hand
 

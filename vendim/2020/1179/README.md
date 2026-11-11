@@ -33,7 +33,7 @@ Rregullat e përdorimit, administrimit dhe ruajtjes së bazës së të dhënave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1179` (tags `vendim-2020-1179/<day>`; `python tools/on.py <day> vendim-2020-1179`).
+Act id: `vendim-2020-1179` (tags `vendim-2020-1179/<day>`; `python registry/tools/on.py <day> vendim-2020-1179`).
 
 ## Decisions made by hand
 

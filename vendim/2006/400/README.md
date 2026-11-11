@@ -5,7 +5,7 @@ Përcaktimin e koeficientëve të indeksimit të bazës së vlerësimit vjetor, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-400` (tags `vendim-2006-400/<day>`; `python tools/on.py <day> vendim-2006-400`).
+Act id: `vendim-2006-400` (tags `vendim-2006-400/<day>`; `python registry/tools/on.py <day> vendim-2006-400`).
 
 ## Decisions made by hand
 

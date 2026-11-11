@@ -9,7 +9,7 @@ Një shtesë në udhëzimin nr. 4, datë 9.03.2009 “për organizimin dhe funks
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0619-20` (tags `udhezim-2009-0619-20/<day>`; `python tools/on.py <day> udhezim-2009-0619-20`).
+Act id: `udhezim-2009-0619-20` (tags `udhezim-2009-0619-20/<day>`; `python registry/tools/on.py <day> udhezim-2009-0619-20`).
 
 ## Decisions made by hand
 

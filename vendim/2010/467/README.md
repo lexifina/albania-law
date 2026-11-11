@@ -9,7 +9,7 @@ Miratimin e protokollit të bisedimeve për bashkëpunimin për zhvillim, ndërm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-467` (tags `vendim-2010-467/<day>`; `python tools/on.py <day> vendim-2010-467`).
+Act id: `vendim-2010-467` (tags `vendim-2010-467/<day>`; `python registry/tools/on.py <day> vendim-2010-467`).
 
 ## Decisions made by hand
 

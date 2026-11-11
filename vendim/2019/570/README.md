@@ -19,7 +19,7 @@ Krijimin, organizimin dhe funksionimin e Agjencisë Kombëtare të Pyjeve · 3 v
 | Pika 11 | [pika-011.md](pika-011.md) | 2 | 2026-05-15 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-570` (tags `vendim-2019-570/<day>`; `python tools/on.py <day> vendim-2019-570`).
+Act id: `vendim-2019-570` (tags `vendim-2019-570/<day>`; `python registry/tools/on.py <day> vendim-2019-570`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Mbështetjen nëpërmjet kompesimit financiar për mjekët specialist të emëru
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0719-421` (tags `udhezim-2022-0719-421/<day>`; `python tools/on.py <day> udhezim-2022-0719-421`).
+Act id: `udhezim-2022-0719-421` (tags `udhezim-2022-0719-421/<day>`; `python registry/tools/on.py <day> udhezim-2022-0719-421`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së kredisë ndërmjet Republikës së Shqipëris
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9526` (tags `ligj-2006-9526/<day>`; `python tools/on.py <day> ligj-2006-9526`).
+Act id: `ligj-2006-9526` (tags `ligj-2006-9526/<day>`; `python registry/tools/on.py <day> ligj-2006-9526`).
 
 ## Decisions made by hand
 

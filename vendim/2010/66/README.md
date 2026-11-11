@@ -5,7 +5,7 @@ Riorganizimin e drejtorive arsimore rajonale dhe zyrave arsimore · 3 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-66` (tags `vendim-2010-66/<day>`; `python tools/on.py <day> vendim-2010-66`).
+Act id: `vendim-2010-66` (tags `vendim-2010-66/<day>`; `python registry/tools/on.py <day> vendim-2010-66`).
 
 ## Decisions made by hand
 

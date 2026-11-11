@@ -9,7 +9,7 @@ Masat dhe mënyrën e zbatimit të projektit “shtimi i prodhimeve ushqimore 2 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-7` (tags `vendim-2000-7/<day>`; `python tools/on.py <day> vendim-2000-7`).
+Act id: `vendim-2000-7` (tags `vendim-2000-7/<day>`; `python registry/tools/on.py <day> vendim-2000-7`).
 
 ## Decisions made by hand
 

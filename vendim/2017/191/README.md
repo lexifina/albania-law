@@ -9,7 +9,7 @@ PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI AGJENCISË PËR ZHVILLIMIN EKONOMIK 
 | Pika 2 | [pika-002.md](pika-002.md) | 1 | 2022-05-04 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-191` (tags `vendim-2017-191/<day>`; `python tools/on.py <day> vendim-2017-191`).
+Act id: `vendim-2017-191` (tags `vendim-2017-191/<day>`; `python registry/tools/on.py <day> vendim-2017-191`).
 
 ## Decisions made by hand
 

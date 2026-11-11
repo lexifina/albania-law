@@ -20,7 +20,16 @@ Shpronësimin, për interes publik, në funksion të procesit të rindërtimit, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-533` (tags `vendim-2021-533/<day>`; `python tools/on.py <day> vendim-2021-533`).
+Act id: `vendim-2021-533` (tags `vendim-2021-533/<day>`; `python registry/tools/on.py <day> vendim-2021-533`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 169, datë 24.2.2025 (Ministria e Infrastrukturës dhe Energjisë): Për ndryshimin e VKM-së nr. 533, datë 22.9.2021, ”Për shpronësimin, për interes publik, në funksion të procesit të rindërtimit për zhvillimin e zonës së re, në përputhje me planin e detyruar vendor, përmes kompesimit me shkëmbim, për të gjitha pasuritë që preken nga realizimi i projektit ”Për zonën e re për zhvillim në njësitë administrative 4 dhe 8, zona ’5 Maji’ Bashkia Tiranë”](https://qbz.gov.al/eli/kerkese/2025/02/24/169-6)
+- [Vendimi i Këshillit të Ministrave nr. 268, datë 9.5.2025: Për disa ndryshime dhe shtesa në vendimin nr. 533, datë 22.9.2021, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, në funksion të procesit të rindërtimit për zhvillimin e zonës së re, në përputhje me planin e detyruar vendor, përmes kompensimit me shkëmbim, për të gjitha pasuritë që preken nga realizimi i projektit “Për zonën e re për zhvillim në njësitë administrative 4 dhe 8, zona “5 Maji”, Bashkia Tiranë”](https://qbz.gov.al/eli/vendim/2025/05/09/268)
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Shpalljen e moratoriumit në pyje në republikën e shqipërisë · 2 versions, 
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-5` (tags `ligj-2016-5/<day>`; `python tools/on.py <day> ligj-2016-5`).
+Act id: `ligj-2016-5` (tags `ligj-2016-5/<day>`; `python registry/tools/on.py <day> ligj-2016-5`).
 
 ## Decisions made by hand
 

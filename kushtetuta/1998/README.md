@@ -251,7 +251,7 @@ Kushtetuta · 8 versions, from 1998-11-28 (latest in force: 2022-03-24) · <http
 | Pjesa e tetëmbëdhjetë | [pjesa-18.md](pjesa-18.md) | 0 |  |
 | Preambula | [preambula.md](preambula.md) | 0 |  |
 
-Act id: `kushtetuta` (tags `kushtetuta/<day>`; `python tools/on.py <day> kushtetuta`).
+Act id: `kushtetuta` (tags `kushtetuta/<day>`; `python registry/tools/on.py <day> kushtetuta`).
 
 ## Decisions made by hand
 

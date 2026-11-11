@@ -12,7 +12,7 @@ Përcaktimin e kritereve, të rregullave, procedurave dhe kontratës tip për dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-07-07 |
 
-Act id: `vendim-2018-373` (tags `vendim-2018-373/<day>`; `python tools/on.py <day> vendim-2018-373`).
+Act id: `vendim-2018-373` (tags `vendim-2018-373/<day>`; `python registry/tools/on.py <day> vendim-2018-373`).
 
 ## Decisions made by hand
 

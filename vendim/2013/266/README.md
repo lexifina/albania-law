@@ -11,7 +11,7 @@ Pagesën e këstit të pestë të shërbimeve juridike për përfaqësimin dhe m
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-266` (tags `vendim-2013-266/<day>`; `python tools/on.py <day> vendim-2013-266`).
+Act id: `vendim-2013-266` (tags `vendim-2013-266/<day>`; `python registry/tools/on.py <day> vendim-2013-266`).
 
 ## Decisions made by hand
 

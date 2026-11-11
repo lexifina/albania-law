@@ -19,7 +19,7 @@ Per mënyrën e ushtrimit të kompetencës për planifikimin e territorit nga nj
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-0811-4` (tags `udhezim-2004-0811-4/<day>`; `python tools/on.py <day> udhezim-2004-0811-4`).
+Act id: `udhezim-2004-0811-4` (tags `udhezim-2004-0811-4/<day>`; `python registry/tools/on.py <day> udhezim-2004-0811-4`).
 
 ## Decisions made by hand
 

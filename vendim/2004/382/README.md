@@ -8,7 +8,7 @@ Miratimin e strategjisë afatgjatË të zhvillimit të sistemit shëndetësor sh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-382` (tags `vendim-2004-382/<day>`; `python tools/on.py <day> vendim-2004-382`).
+Act id: `vendim-2004-382` (tags `vendim-2004-382/<day>`; `python registry/tools/on.py <day> vendim-2004-382`).
 
 ## Decisions made by hand
 

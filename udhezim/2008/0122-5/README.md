@@ -26,7 +26,15 @@ Përcaktimin e standardeve akademike të nevojshme për hapjen, mbylljen dhe rio
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0122-5` (tags `udhezim-2008-0122-5/<day>`; `python tools/on.py <day> udhezim-2008-0122-5`).
+Act id: `udhezim-2008-0122-5` (tags `udhezim-2008-0122-5/<day>`; `python registry/tools/on.py <day> udhezim-2008-0122-5`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 20, datë 29.7.2009 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 17574]: Për disa ndryshime në shtojcën 1 të udhëzimit nr.5, datë 22.1.2008 “Për përcaktimin e standardeve akademike të nevojshme për hapjen, mbylljen dhe riorganizimin e programeve të studimit të doktoratës, si dhe të elementeve bazë, sipas të cilave instituCionet e arsimit të lartë duhet të përgatisin rregulloren përkatëse](https://qbz.gov.al/eli/udhezim/2009/07/29/20)
 
 ## Decisions made by hand
 

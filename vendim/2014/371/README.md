@@ -34,7 +34,7 @@ Miratimin e rregullave për dorëzimin e mbetjeve të rrezikshme dhe të dokumen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-371` (tags `vendim-2014-371/<day>`; `python tools/on.py <day> vendim-2014-371`).
+Act id: `vendim-2014-371` (tags `vendim-2014-371/<day>`; `python registry/tools/on.py <day> vendim-2014-371`).
 
 ## Decisions made by hand
 

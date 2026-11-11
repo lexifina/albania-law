@@ -13,7 +13,7 @@ AdministrimiN e kuotave për shtetasit e huaj që do të studiojnë në instituc
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1103-38` (tags `udhezim-2008-1103-38/<day>`; `python tools/on.py <day> udhezim-2008-1103-38`).
+Act id: `udhezim-2008-1103-38` (tags `udhezim-2008-1103-38/<day>`; `python registry/tools/on.py <day> udhezim-2008-1103-38`).
 
 ## Decisions made by hand
 

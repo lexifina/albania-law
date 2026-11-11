@@ -15,7 +15,7 @@ Mbylljen e disa minierave të bakrit, mineraleve të tjera dhe fabrikave të pas
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-242` (tags `vendim-2000-242/<day>`; `python tools/on.py <day> vendim-2000-242`).
+Act id: `vendim-2000-242` (tags `vendim-2000-242/<day>`; `python registry/tools/on.py <day> vendim-2000-242`).
 
 ## Decisions made by hand
 

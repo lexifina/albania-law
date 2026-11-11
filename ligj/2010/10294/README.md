@@ -5,7 +5,7 @@ Inspektimin financiar publik · 2 versions, from 2010-08-10 (latest in force: 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2010-10294` (tags `ligj-2010-10294/<day>`; `python tools/on.py <day> ligj-2010-10294`).
+Act id: `ligj-2010-10294` (tags `ligj-2010-10294/<day>`; `python registry/tools/on.py <day> ligj-2010-10294`).
 
 ## Decisions made by hand
 

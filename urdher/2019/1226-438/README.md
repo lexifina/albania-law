@@ -18,7 +18,7 @@ Procedurat e regjistrimit, licencimit dhe publikimit në mënyrë elektronike ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-01-13 |
 
-Act id: `urdher-2019-1226-438` (tags `urdher-2019-1226-438/<day>`; `python tools/on.py <day> urdher-2019-1226-438`).
+Act id: `urdher-2019-1226-438` (tags `urdher-2019-1226-438/<day>`; `python registry/tools/on.py <day> urdher-2019-1226-438`).
 
 ## Decisions made by hand
 

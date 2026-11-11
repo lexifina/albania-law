@@ -10,7 +10,15 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-324` (tags `vendim-2012-324/<day>`; `python tools/on.py <day> vendim-2012-324`).
+Act id: `vendim-2012-324` (tags `vendim-2012-324/<day>`; `python registry/tools/on.py <day> vendim-2012-324`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 328, datë 29.5.2024: Për transferimin te Korporata e Investimeve Shqiptare të pronave shtetërore, në përgjegjësi administrimi të disa institucioneve shtetërore, për realizimin e projektit të investimit ”Për zhvillimin dhe menaxhimin e pronave shtetërore”](https://qbz.gov.al/eli/vendim/2024/05/29/328)
 
 ## Decisions made by hand
 

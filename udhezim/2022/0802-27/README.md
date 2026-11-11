@@ -5,7 +5,7 @@ Përcaktimin e rregullave, afateve të aplikimit, shqyrtimit dhe procedurat e ma
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2022-0802-27` (tags `udhezim-2022-0802-27/<day>`; `python tools/on.py <day> udhezim-2022-0802-27`).
+Act id: `udhezim-2022-0802-27` (tags `udhezim-2022-0802-27/<day>`; `python registry/tools/on.py <day> udhezim-2022-0802-27`).
 
 ## Decisions made by hand
 

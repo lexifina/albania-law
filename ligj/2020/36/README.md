@@ -82,7 +82,7 @@ Prokurimet në fushën e mbrojtjes dhe të sigurisë · 1 versions, from 2020-07
 | Neni 64 | [neni-064.md](neni-064.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-36-2020` (tags `ligji-36-2020/<day>`; `python tools/on.py <day> ligji-36-2020`).
+Act id: `ligji-36-2020` (tags `ligji-36-2020/<day>`; `python registry/tools/on.py <day> ligji-36-2020`).
 
 ## Decisions made by hand
 

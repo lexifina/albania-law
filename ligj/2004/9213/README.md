@@ -10,7 +10,7 @@ Aderimin e Republikës së shqipërisë në konventën ndërkombëtare detare �
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9213-2004` (tags `ligji-9213-2004/<day>`; `python tools/on.py <day> ligji-9213-2004`).
+Act id: `ligji-9213-2004` (tags `ligji-9213-2004/<day>`; `python registry/tools/on.py <day> ligji-9213-2004`).
 
 ## Decisions made by hand
 

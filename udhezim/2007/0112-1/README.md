@@ -5,7 +5,7 @@ Përcaktimin e veprimtarive që trajtohen si veprimtari, tregtare apo shërbimi,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0112-1` (tags `udhezim-2007-0112-1/<day>`; `python tools/on.py <day> udhezim-2007-0112-1`).
+Act id: `udhezim-2007-0112-1` (tags `udhezim-2007-0112-1/<day>`; `python registry/tools/on.py <day> udhezim-2007-0112-1`).
 
 ## Decisions made by hand
 

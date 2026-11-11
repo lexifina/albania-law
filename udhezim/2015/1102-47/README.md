@@ -15,7 +15,7 @@ Procedurat e pranimit dhe regjistrimit për kandidatët nga Republika e Kosovës
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1102-47` (tags `udhezim-2015-1102-47/<day>`; `python tools/on.py <day> udhezim-2015-1102-47`).
+Act id: `udhezim-2015-1102-47` (tags `udhezim-2015-1102-47/<day>`; `python registry/tools/on.py <day> udhezim-2015-1102-47`).
 
 ## Decisions made by hand
 

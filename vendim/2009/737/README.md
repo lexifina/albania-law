@@ -8,7 +8,7 @@ Miratimin e programit buxhetor afatmesëm 2010-2012 · 1 versions, from 2009-07-
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-737` (tags `vendim-2009-737/<day>`; `python tools/on.py <day> vendim-2009-737`).
+Act id: `vendim-2009-737` (tags `vendim-2009-737/<day>`; `python registry/tools/on.py <day> vendim-2009-737`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat, afatet dhe dokumentacionin e kërkesave për njohje të shtetësisë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0712-4573` (tags `udhezim-2013-0712-4573/<day>`; `python tools/on.py <day> udhezim-2013-0712-4573`).
+Act id: `udhezim-2013-0712-4573` (tags `udhezim-2013-0712-4573/<day>`; `python registry/tools/on.py <day> udhezim-2013-0712-4573`).
 
 ## Decisions made by hand
 

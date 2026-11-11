@@ -17,7 +17,7 @@ Krijimin e task-forcës për përmirësimin e nivelit të kontrollit të mjeteve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-12-29 |
 
-Act id: `vendim-2018-465` (tags `vendim-2018-465/<day>`; `python tools/on.py <day> vendim-2018-465`).
+Act id: `vendim-2018-465` (tags `vendim-2018-465/<day>`; `python registry/tools/on.py <day> vendim-2018-465`).
 
 ## Decisions made by hand
 

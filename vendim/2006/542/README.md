@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të Institutit të Statistikave, të disa
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-542` (tags `vendim-2006-542/<day>`; `python tools/on.py <day> vendim-2006-542`).
+Act id: `vendim-2006-542` (tags `vendim-2006-542/<day>`; `python registry/tools/on.py <day> vendim-2006-542`).
 
 ## Decisions made by hand
 

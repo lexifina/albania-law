@@ -19,7 +19,7 @@ Procedurat e marrëveshjes së paqes fiskale · 1 versions, from 2026-05-14 (lat
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0514-10` (tags `udhezim-2026-0514-10/<day>`; `python tools/on.py <day> udhezim-2026-0514-10`).
+Act id: `udhezim-2026-0514-10` (tags `udhezim-2026-0514-10/<day>`; `python registry/tools/on.py <day> udhezim-2026-0514-10`).
 
 ## Decisions made by hand
 

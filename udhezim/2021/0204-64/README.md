@@ -18,7 +18,7 @@ Përcaktimin e rregullave të detajuara për dokumentacionin e nevojshëm, form�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0204-64` (tags `udhezim-2021-0204-64/<day>`; `python tools/on.py <day> udhezim-2021-0204-64`).
+Act id: `udhezim-2021-0204-64` (tags `udhezim-2021-0204-64/<day>`; `python registry/tools/on.py <day> udhezim-2021-0204-64`).
 
 ## Decisions made by hand
 

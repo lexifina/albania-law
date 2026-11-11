@@ -5,7 +5,7 @@ Dhënien në përdorim Autoritetit Shtetëror për Informacionin Gjeohapësinor 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-771` (tags `vendim-2013-771/<day>`; `python tools/on.py <day> vendim-2013-771`).
+Act id: `vendim-2013-771` (tags `vendim-2013-771/<day>`; `python registry/tools/on.py <day> vendim-2013-771`).
 
 ## Decisions made by hand
 

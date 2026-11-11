@@ -8,7 +8,7 @@ Njësitë e shoqërisë “servcom” sh.a, që nuk do të konsiderohen pjesë t
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-348` (tags `vendim-2000-348/<day>`; `python tools/on.py <day> vendim-2000-348`).
+Act id: `vendim-2000-348` (tags `vendim-2000-348/<day>`; `python registry/tools/on.py <day> vendim-2000-348`).
 
 ## Decisions made by hand
 

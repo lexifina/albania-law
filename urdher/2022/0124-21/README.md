@@ -9,7 +9,7 @@ Ndërprerjen e procesit mësimor në të gjtha institucionet e arsmit profesiona
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0124-21` (tags `urdher-2022-0124-21/<day>`; `python tools/on.py <day> urdher-2022-0124-21`).
+Act id: `urdher-2022-0124-21` (tags `urdher-2022-0124-21/<day>`; `python registry/tools/on.py <day> urdher-2022-0124-21`).
 
 ## Decisions made by hand
 

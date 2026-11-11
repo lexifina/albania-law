@@ -10,7 +10,7 @@ Miratimin e formularit të vetëdeklarimit për gjendjen gjyqësore për marrjen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1111-270` (tags `urdher-2022-1111-270/<day>`; `python tools/on.py <day> urdher-2022-1111-270`).
+Act id: `urdher-2022-1111-270` (tags `urdher-2022-1111-270/<day>`; `python registry/tools/on.py <day> urdher-2022-1111-270`).
 
 ## Decisions made by hand
 

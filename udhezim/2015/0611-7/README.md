@@ -29,7 +29,7 @@ Përcaktimin e kritereve dhe procedurave të përzgjedhjes së punonjësve të F
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0611-7` (tags `udhezim-2015-0611-7/<day>`; `python tools/on.py <day> udhezim-2015-0611-7`).
+Act id: `udhezim-2015-0611-7` (tags `udhezim-2015-0611-7/<day>`; `python registry/tools/on.py <day> udhezim-2015-0611-7`).
 
 ## Decisions made by hand
 

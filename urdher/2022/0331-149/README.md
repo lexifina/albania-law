@@ -11,7 +11,7 @@ Miratimin e rregullores për zbatimin e ligjit nr. 64, datë 31.5.2012, “Për 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-05-04 |
 
-Act id: `urdher-2022-0331-149` (tags `urdher-2022-0331-149/<day>`; `python tools/on.py <day> urdher-2022-0331-149`).
+Act id: `urdher-2022-0331-149` (tags `urdher-2022-0331-149/<day>`; `python registry/tools/on.py <day> urdher-2022-0331-149`).
 
 ## Decisions made by hand
 

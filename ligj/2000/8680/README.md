@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së selisë qendrore ndërmjet republikës së sh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8680` (tags `ligj-2000-8680/<day>`; `python tools/on.py <day> ligj-2000-8680`).
+Act id: `ligj-2000-8680` (tags `ligj-2000-8680/<day>`; `python registry/tools/on.py <day> ligj-2000-8680`).
 
 ## Decisions made by hand
 

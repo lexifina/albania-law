@@ -10,7 +10,7 @@ PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPU
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9266` (tags `ligj-2004-9266/<day>`; `python tools/on.py <day> ligj-2004-9266`).
+Act id: `ligj-2004-9266` (tags `ligj-2004-9266/<day>`; `python registry/tools/on.py <day> ligj-2004-9266`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Zbatimin e vendimit të këshillit të ministrave nr.285, datë 4.5.2007 “për
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0621-10` (tags `udhezim-2007-0621-10/<day>`; `python tools/on.py <day> udhezim-2007-0621-10`).
+Act id: `udhezim-2007-0621-10` (tags `udhezim-2007-0621-10/<day>`; `python registry/tools/on.py <day> udhezim-2007-0621-10`).
 
 ## Decisions made by hand
 

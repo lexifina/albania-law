@@ -18,7 +18,7 @@ Funksionimin, të drejtat dhe detyrat e komisionit të vlerësimit të titujve a
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-252` (tags `vendim-2014-252/<day>`; `python tools/on.py <day> vendim-2014-252`).
+Act id: `vendim-2014-252` (tags `vendim-2014-252/<day>`; `python registry/tools/on.py <day> vendim-2014-252`).
 
 ## Decisions made by hand
 

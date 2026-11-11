@@ -8,7 +8,7 @@ Kalimin në pronësi të një sipërfaqjeje trualli, në favor të kishës katol
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-43` (tags `vendim-2000-43/<day>`; `python tools/on.py <day> vendim-2000-43`).
+Act id: `vendim-2000-43` (tags `vendim-2000-43/<day>`; `python registry/tools/on.py <day> vendim-2000-43`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@ Formatin dhe strukturën e planeve të prodhimit dhe marketingut · 1 versions, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0615-17` (tags `udhezim-2026-0615-17/<day>`; `python tools/on.py <day> udhezim-2026-0615-17`).
+Act id: `udhezim-2026-0615-17` (tags `udhezim-2026-0615-17/<day>`; `python registry/tools/on.py <day> udhezim-2026-0615-17`).
 
 ## Decisions made by hand
 

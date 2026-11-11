@@ -16,7 +16,7 @@ Procedurat për certifikimin, miratimin dhe verifikimin për përdorimin e vitit
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1217-1370` (tags `urdher-2025-1217-1370/<day>`; `python tools/on.py <day> urdher-2025-1217-1370`).
+Act id: `urdher-2025-1217-1370` (tags `urdher-2025-1217-1370/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-1370`).
 
 ## Decisions made by hand
 

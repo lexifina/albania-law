@@ -28,7 +28,19 @@ PËR KUOTAT E PRANIMIT DHE TARIFAT E SHKOLLIMIT NË INSTITUCIONET PUBLIKE TË AR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-984` (tags `vendim-2009-984/<day>`; `python tools/on.py <day> vendim-2009-984`).
+Act id: `vendim-2009-984` (tags `vendim-2009-984/<day>`; `python registry/tools/on.py <day> vendim-2009-984`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 358, datë 12.5.2010: Për disa shtesa në vendimin nr.984, datë 30.9.2009 të Këshillit të Ministrave “Për kuotat e pranimit dhe tarifat e shkollimit, në institucionet publike të arsimit të lartë, për ciklin e dytë të studimeve dhe “Master i nivelit të parë”, me kohë të plotë, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/05/12/358)
+- [Vendimi i Këshillit të Ministrave nr. 1089, datë 4.11.2009: Për disa ndryshime në vendimin nr.984, datë 30.9.2009 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për ciklin e dytë të studimeve dhe “master i nivelit të parë“, me kohë të plotë, për vitin akademik 2009-2010”](https://qbz.gov.al/eli/vendim/2009/11/04/1089)
+- [Vendimi i Këshillit të Ministrave nr. 1101, datë 11.11.2009: Për disa ndryshime në vendimin nr.984, datë 30.9.2009 të Këshillit të Ministrave “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për ciklin e dytë të studimeve dhe “Master i nivelit të Parë”, me kohë të plotë, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2009/11/11/1101)
+- [Vendimi i Këshillit të Ministrave nr. 1160, datë 25.11.2009: Për disa shtesa në vendimin nr.984, datë 30.9.2009 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve dhe “master i nivelit të parë”, me kohë të plotë, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2009/11/25/1160)
+- [Vendimi i Këshillit të Ministrave nr. 1280, datë 23.12.2009: Për disa ndryshime në vendimin nr.984, datë 30.9.2009 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve dhe “master i nivelit të parë”, me kohë të plotë, për vitin akademik 2009- 2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2009/12/23/1280)
 
 ## Decisions made by hand
 

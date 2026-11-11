@@ -18,7 +18,16 @@ Mënyrën e organizimit e të funksionimit të Agjencisë Shtetërore për Shpro
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-395` (tags `vendim-2020-395/<day>`; `python tools/on.py <day> vendim-2020-395`).
+Act id: `vendim-2020-395` (tags `vendim-2020-395/<day>`; `python registry/tools/on.py <day> vendim-2020-395`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 10, datë 11.1.2024: Për lirimin dhe emërimin në detyrë të drejtorit të përgjithshëm të Agjencisë Shtetërore pë Shpronësimin](https://qbz.gov.al/eli/vendim/2024/01/11/10)
+- [Vendimi i Këshillit të Ministrave nr. 490, datë 10.9.2025: Për lirimin dhe emërimin në detyrë të drejtorit të Përgjithshëm të Agjencisë Shtetërore për Shpronësimin](https://qbz.gov.al/eli/vendim/2025/09/10/490)
 
 ## Decisions made by hand
 

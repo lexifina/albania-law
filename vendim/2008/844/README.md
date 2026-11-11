@@ -10,7 +10,7 @@ Miratimin e strategjisë sektoriale të turizmit, për periudhën 2007-2013 · 1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-844` (tags `vendim-2008-844/<day>`; `python tools/on.py <day> vendim-2008-844`).
+Act id: `vendim-2008-844` (tags `vendim-2008-844/<day>`; `python registry/tools/on.py <day> vendim-2008-844`).
 
 ## Decisions made by hand
 

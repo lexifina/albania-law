@@ -12,7 +12,7 @@ Miratimin e dhënies në koncension të hidrocentraleve vendore · 2 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-355` (tags `vendim-2001-355/<day>`; `python tools/on.py <day> vendim-2001-355`).
+Act id: `vendim-2001-355` (tags `vendim-2001-355/<day>`; `python registry/tools/on.py <day> vendim-2001-355`).
 
 ## Decisions made by hand
 

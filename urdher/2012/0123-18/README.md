@@ -9,7 +9,7 @@ Licencimin e agjencisë së administrimit “amp”, agjencia e administrimit ko
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0123-18` (tags `urdher-2012-0123-18/<day>`; `python tools/on.py <day> urdher-2012-0123-18`).
+Act id: `urdher-2012-0123-18` (tags `urdher-2012-0123-18/<day>`; `python registry/tools/on.py <day> urdher-2012-0123-18`).
 
 ## Decisions made by hand
 

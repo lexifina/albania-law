@@ -17,7 +17,7 @@ Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-102` (tags `vendim-2011-102/<day>`; `python tools/on.py <day> vendim-2011-102`).
+Act id: `vendim-2011-102` (tags `vendim-2011-102/<day>`; `python registry/tools/on.py <day> vendim-2011-102`).
 
 ## Decisions made by hand
 

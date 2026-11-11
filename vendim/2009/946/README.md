@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-946` (tags `vendim-2009-946/<day>`; `python tools/on.py <day> vendim-2009-946`).
+Act id: `vendim-2009-946` (tags `vendim-2009-946/<day>`; `python registry/tools/on.py <day> vendim-2009-946`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 540, datë 27.7.2016: Për disa ndryshime dhe shtesa në vendimin nr. 946, datë 2.9.2009, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë krumë, të qarkut të kukësit”](https://qbz.gov.al/eli/vendim/2016/07/27/540)
 
 ## Decisions made by hand
 

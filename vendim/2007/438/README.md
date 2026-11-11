@@ -5,7 +5,7 @@ Pagat e punonjësve të policisë së mbrojtjes nga zjarri dhe shpëtimit · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-438` (tags `vendim-2007-438/<day>`; `python tools/on.py <day> vendim-2007-438`).
+Act id: `vendim-2007-438` (tags `vendim-2007-438/<day>`; `python registry/tools/on.py <day> vendim-2007-438`).
 
 ## Decisions made by hand
 

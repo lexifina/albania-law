@@ -5,7 +5,7 @@ Dhënien me qira për shfrytëzimin e monumenteve të kulturës · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0317-1829` (tags `udhezim-2011-0317-1829/<day>`; `python tools/on.py <day> udhezim-2011-0317-1829`).
+Act id: `udhezim-2011-0317-1829` (tags `udhezim-2011-0317-1829/<day>`; `python registry/tools/on.py <day> udhezim-2011-0317-1829`).
 
 ## Decisions made by hand
 

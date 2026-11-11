@@ -12,7 +12,7 @@ Dhënie amnistie · 1 versions, from 2002-06-29 (latest in force: 2002-06-29) ·
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 
-Act id: `ligji-8895-2002` (tags `ligji-8895-2002/<day>`; `python tools/on.py <day> ligji-8895-2002`).
+Act id: `ligji-8895-2002` (tags `ligji-8895-2002/<day>`; `python registry/tools/on.py <day> ligji-8895-2002`).
 
 ## Decisions made by hand
 

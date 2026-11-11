@@ -11,7 +11,7 @@ Pranimin e vendimit DEC-I 1/119-VI/2024, të Këshillit të Anëtarëve të Kës
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-94-2026` (tags `ligji-94-2026/<day>`; `python tools/on.py <day> ligji-94-2026`).
+Act id: `ligji-94-2026` (tags `ligji-94-2026/<day>`; `python registry/tools/on.py <day> ligji-94-2026`).
 
 ## Decisions made by hand
 

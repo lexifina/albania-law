@@ -20,7 +20,7 @@ Zbatimin e vendimit të Këshillit të Ministrave nr. 589, datë 7.9.2022, ”P�
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0923-27` (tags `udhezim-2022-0923-27/<day>`; `python tools/on.py <day> udhezim-2022-0923-27`).
+Act id: `udhezim-2022-0923-27` (tags `udhezim-2022-0923-27/<day>`; `python registry/tools/on.py <day> udhezim-2022-0923-27`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Disa përjashtime dhe për dhënien e disa stimujve për ndërtimin e hidrocentr
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8708` (tags `ligj-2000-8708/<day>`; `python tools/on.py <day> ligj-2000-8708`).
+Act id: `ligj-2000-8708` (tags `ligj-2000-8708/<day>`; `python registry/tools/on.py <day> ligj-2000-8708`).
 
 ## Decisions made by hand
 

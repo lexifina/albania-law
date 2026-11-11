@@ -17,7 +17,15 @@ Mbi përcaktimin e tarifës së shërbimit për qarkullimin e mjeteve të huaja 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0731-22` (tags `udhezim-2015-0731-22/<day>`; `python tools/on.py <day> udhezim-2015-0731-22`).
+Act id: `udhezim-2015-0731-22` (tags `udhezim-2015-0731-22/<day>`; `python registry/tools/on.py <day> udhezim-2015-0731-22`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 22-1, datë 17.9.2015 (Ministria e Financave) [QBZ 12427]: Për disa ndryshime në udhëzimin nr. 22, datë 31.7.2015 “Mbi përcaktimin e tarifës së shërbimit për qarkullimin e mjeteve të huaja të transportit të udhëtarëve, të më shumë se 20 personave, përfshirë edhe drejtuesin e mjetit, si dhe të mjeteve të transportit të mallrave me ngarkesë apo pa ngarkesë”](https://qbz.gov.al/eli/udhezim/2015/09/17/22-1)
 
 ## Decisions made by hand
 

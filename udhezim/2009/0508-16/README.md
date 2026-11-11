@@ -13,7 +13,7 @@ Përcaktimin e rregullave për shpërndarjen dhe rishpërndarjen e fondeve publi
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0508-16` (tags `udhezim-2009-0508-16/<day>`; `python tools/on.py <day> udhezim-2009-0508-16`).
+Act id: `udhezim-2009-0508-16` (tags `udhezim-2009-0508-16/<day>`; `python registry/tools/on.py <day> udhezim-2009-0508-16`).
 
 ## Decisions made by hand
 

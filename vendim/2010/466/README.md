@@ -13,7 +13,7 @@ Miratimin e vlerës së kompensimit të dëmeve të shkaktuara në kulturat bujq
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-466` (tags `vendim-2010-466/<day>`; `python tools/on.py <day> vendim-2010-466`).
+Act id: `vendim-2010-466` (tags `vendim-2010-466/<day>`; `python registry/tools/on.py <day> vendim-2010-466`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin dhe funksionimin e sistemit të identifikimit të kafshëve dhe të reg
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-19` (tags `vendim-2002-19/<day>`; `python tools/on.py <day> vendim-2002-19`).
+Act id: `vendim-2002-19` (tags `vendim-2002-19/<day>`; `python registry/tools/on.py <day> vendim-2002-19`).
 
 ## Decisions made by hand
 

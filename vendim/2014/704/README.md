@@ -5,7 +5,7 @@ Miratimin e manualit të tarifave për shërbime në planifikim territori, proje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-704` (tags `vendim-2014-704/<day>`; `python tools/on.py <day> vendim-2014-704`).
+Act id: `vendim-2014-704` (tags `vendim-2014-704/<day>`; `python registry/tools/on.py <day> vendim-2014-704`).
 
 ## Decisions made by hand
 

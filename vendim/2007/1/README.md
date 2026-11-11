@@ -12,7 +12,7 @@ Miratimin e rregullave të prokurimit publik · 15 versions, from 2007-01-10 (la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 14 | 2014-06-19 |
 
-Act id: `vendim-2007-1` (tags `vendim-2007-1/<day>`; `python tools/on.py <day> vendim-2007-1`).
+Act id: `vendim-2007-1` (tags `vendim-2007-1/<day>`; `python registry/tools/on.py <day> vendim-2007-1`).
 
 ## Decisions made by hand
 

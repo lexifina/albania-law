@@ -11,7 +11,7 @@ Kthimin në fond banese të ish-Konviktit të Shkollës së Rezervave, në rrug�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-550` (tags `vendim-2013-550/<day>`; `python tools/on.py <day> vendim-2013-550`).
+Act id: `vendim-2013-550` (tags `vendim-2013-550/<day>`; `python registry/tools/on.py <day> vendim-2013-550`).
 
 ## Decisions made by hand
 

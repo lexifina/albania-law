@@ -5,7 +5,7 @@ Miratimin e planit kombëtar të përafrimit të legjislacionit vendas me atë t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-317` (tags `vendim-2005-317/<day>`; `python tools/on.py <day> vendim-2005-317`).
+Act id: `vendim-2005-317` (tags `vendim-2005-317/<day>`; `python registry/tools/on.py <day> vendim-2005-317`).
 
 ## Decisions made by hand
 

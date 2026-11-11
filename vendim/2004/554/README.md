@@ -5,7 +5,7 @@ Njësimin e gradave ushtarake në funksionet organike në të gjitha nivelet e h
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-554` (tags `vendim-2004-554/<day>`; `python tools/on.py <day> vendim-2004-554`).
+Act id: `vendim-2004-554` (tags `vendim-2004-554/<day>`; `python registry/tools/on.py <day> vendim-2004-554`).
 
 ## Decisions made by hand
 

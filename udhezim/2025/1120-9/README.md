@@ -33,7 +33,7 @@ Kriteret e përgjitshme për certifikimin dhe për dhënien e vulave dhe të she
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-1120-9` (tags `udhezim-2025-1120-9/<day>`; `python tools/on.py <day> udhezim-2025-1120-9`).
+Act id: `udhezim-2025-1120-9` (tags `udhezim-2025-1120-9/<day>`; `python registry/tools/on.py <day> udhezim-2025-1120-9`).
 
 ## Decisions made by hand
 

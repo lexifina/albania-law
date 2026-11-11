@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-63` (tags `ligj-2015-63/<day>`; `python tools/on.py <day> ligj-2015-63`).
+Act id: `ligj-2015-63` (tags `ligj-2015-63/<day>`; `python registry/tools/on.py <day> ligj-2015-63`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 3/2018: Për ratifikimin e ndryshimit të marrëveshjes së grantit ndërmjet këshillit të ministrave të republikës së shqipërisë, të përfaqësuar nga ministria e financave, dhe bankës europiane për rindërtim dhe zhvillim, si administrator i fondeve grant, të siguruara nga qeveri të ndryshme, nën fondin e përbashkët europian të ballkanit perëndimor, për projektin e detajuar të linjës hekurudhore durrës-tiranë dhe vlerësimin financiar/ekonomik të të gjithë rrjetit hekurudhor në shqipëri, të ratifikuar me ligjin nr. 63/2015](https://qbz.gov.al/eli/ligj/2018/01/25/3-2018)
 
 ## Decisions made by hand
 

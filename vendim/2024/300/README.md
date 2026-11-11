@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e Ministrisë së Mbrojtjes, miratuar për vitin
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-300` (tags `vendim-2024-300/<day>`; `python tools/on.py <day> vendim-2024-300`).
+Act id: `vendim-2024-300` (tags `vendim-2024-300/<day>`; `python registry/tools/on.py <day> vendim-2024-300`).
 
 ## Decisions made by hand
 

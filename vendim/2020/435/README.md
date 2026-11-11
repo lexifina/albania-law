@@ -10,7 +10,7 @@ Hapjen e institucionit arsimor privat, parauniversitar, të arsimit bazë dhe t�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-435` (tags `vendim-2020-435/<day>`; `python tools/on.py <day> vendim-2020-435`).
+Act id: `vendim-2020-435` (tags `vendim-2020-435/<day>`; `python registry/tools/on.py <day> vendim-2020-435`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Dhënien në përdorim ministrisë së ekonomisë, tregtisë dhe energjetikës t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-324` (tags `vendim-2007-324/<day>`; `python tools/on.py <day> vendim-2007-324`).
+Act id: `vendim-2007-324` (tags `vendim-2007-324/<day>`; `python registry/tools/on.py <day> vendim-2007-324`).
 
 ## Decisions made by hand
 

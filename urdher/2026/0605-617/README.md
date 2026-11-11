@@ -15,7 +15,7 @@ Disa masa mbrojtëse ndaj sëmundjes së dermatozës nodulare të gjedhit (lumpy
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0605-617` (tags `urdher-2026-0605-617/<day>`; `python tools/on.py <day> urdher-2026-0605-617`).
+Act id: `urdher-2026-0605-617` (tags `urdher-2026-0605-617/<day>`; `python registry/tools/on.py <day> urdher-2026-0605-617`).
 
 ## Decisions made by hand
 

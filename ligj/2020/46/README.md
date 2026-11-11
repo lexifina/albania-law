@@ -10,7 +10,7 @@ Ratifikimin e protokollit shtesë 6 mbi tregtinë e shërbimeve të marrëveshje
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-46` (tags `ligj-2020-46/<day>`; `python tools/on.py <day> ligj-2020-46`).
+Act id: `ligj-2020-46` (tags `ligj-2020-46/<day>`; `python registry/tools/on.py <day> ligj-2020-46`).
 
 ## Decisions made by hand
 

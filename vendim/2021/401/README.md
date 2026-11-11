@@ -11,7 +11,7 @@ Përcaktimin e kritereve të hollësishme për miratimin dhe kompetencat e trupa
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-401` (tags `vendim-2021-401/<day>`; `python tools/on.py <day> vendim-2021-401`).
+Act id: `vendim-2021-401` (tags `vendim-2021-401/<day>`; `python registry/tools/on.py <day> vendim-2021-401`).
 
 ## Decisions made by hand
 

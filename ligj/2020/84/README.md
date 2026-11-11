@@ -10,7 +10,7 @@ Pranimin e vendimit II/1 të palëve, që ndryshon “Konventën e Aarhusit për
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-84` (tags `ligj-2020-84/<day>`; `python tools/on.py <day> ligj-2020-84`).
+Act id: `ligj-2020-84` (tags `ligj-2020-84/<day>`; `python registry/tools/on.py <day> ligj-2020-84`).
 
 ## Decisions made by hand
 

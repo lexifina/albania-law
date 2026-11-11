@@ -11,7 +11,7 @@ Delegimin e kompetencave për miratimin e shërbimeve, trajnimeve, workshope-ve 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0719-274` (tags `urdher-2019-0719-274/<day>`; `python tools/on.py <day> urdher-2019-0719-274`).
+Act id: `urdher-2019-0719-274` (tags `urdher-2019-0719-274/<day>`; `python registry/tools/on.py <day> urdher-2019-0719-274`).
 
 ## Decisions made by hand
 

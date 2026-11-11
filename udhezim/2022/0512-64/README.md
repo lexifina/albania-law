@@ -25,7 +25,7 @@ Përcaktimin e kritereve të veçanta të dhënies së certifikatës, për ushtr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-11-20 |
 
-Act id: `udhezim-2022-0512-64` (tags `udhezim-2022-0512-64/<day>`; `python tools/on.py <day> udhezim-2022-0512-64`).
+Act id: `udhezim-2022-0512-64` (tags `udhezim-2022-0512-64/<day>`; `python registry/tools/on.py <day> udhezim-2022-0512-64`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullit teknik “Për përputhshmërinë elektromag-netike” dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1054` (tags `vendim-2015-1054/<day>`; `python tools/on.py <day> vendim-2015-1054`).
+Act id: `vendim-2015-1054` (tags `vendim-2015-1054/<day>`; `python registry/tools/on.py <day> vendim-2015-1054`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mbylljen e përkohshme të veprimtarisë së ndërmarrjes shtetërore “Qendra 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-384` (tags `vendim-2009-384/<day>`; `python tools/on.py <day> vendim-2009-384`).
+Act id: `vendim-2009-384` (tags `vendim-2009-384/<day>`; `python registry/tools/on.py <day> vendim-2009-384`).
 
 ## Decisions made by hand
 

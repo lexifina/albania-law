@@ -56,7 +56,7 @@ Kriteret, dokumentacionin dhe procedurat për evidentimin e familjes kujdestare 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-149` (tags `vendim-2018-149/<day>`; `python tools/on.py <day> vendim-2018-149`).
+Act id: `vendim-2018-149` (tags `vendim-2018-149/<day>`; `python registry/tools/on.py <day> vendim-2018-149`).
 
 ## Decisions made by hand
 

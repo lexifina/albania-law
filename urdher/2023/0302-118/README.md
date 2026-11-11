@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për funksionimin e klinikës dhe të spitalit veteri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0302-118` (tags `urdher-2023-0302-118/<day>`; `python tools/on.py <day> urdher-2023-0302-118`).
+Act id: `urdher-2023-0302-118` (tags `urdher-2023-0302-118/<day>`; `python registry/tools/on.py <day> urdher-2023-0302-118`).
 
 ## Decisions made by hand
 

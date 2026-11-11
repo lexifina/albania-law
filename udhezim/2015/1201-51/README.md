@@ -14,7 +14,7 @@ Procedurën e pranimit në programet e studimit të ciklit të dytë me kohë t�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1201-51` (tags `udhezim-2015-1201-51/<day>`; `python tools/on.py <day> udhezim-2015-1201-51`).
+Act id: `udhezim-2015-1201-51` (tags `udhezim-2015-1201-51/<day>`; `python registry/tools/on.py <day> udhezim-2015-1201-51`).
 
 ## Decisions made by hand
 

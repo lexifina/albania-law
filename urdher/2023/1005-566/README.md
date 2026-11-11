@@ -11,7 +11,7 @@ Delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të Ars
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-1005-566` (tags `urdher-2023-1005-566/<day>`; `python tools/on.py <day> urdher-2023-1005-566`).
+Act id: `urdher-2023-1005-566` (tags `urdher-2023-1005-566/<day>`; `python registry/tools/on.py <day> urdher-2023-1005-566`).
 
 ## Decisions made by hand
 

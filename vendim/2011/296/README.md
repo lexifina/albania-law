@@ -9,7 +9,7 @@ Rishpërndarje fondesh ndërmjet programeve, brenda buxhetit të vitit 2011, mir
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-296` (tags `vendim-2011-296/<day>`; `python tools/on.py <day> vendim-2011-296`).
+Act id: `vendim-2011-296` (tags `vendim-2011-296/<day>`; `python registry/tools/on.py <day> vendim-2011-296`).
 
 ## Decisions made by hand
 

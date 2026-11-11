@@ -21,7 +21,7 @@ Përfundimin e procesit të kalimit në pronësi përfituesve të tokës bujqës
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-57-2012` (tags `ligji-57-2012/<day>`; `python tools/on.py <day> ligji-57-2012`).
+Act id: `ligji-57-2012` (tags `ligji-57-2012/<day>`; `python registry/tools/on.py <day> ligji-57-2012`).
 
 ## Decisions made by hand
 

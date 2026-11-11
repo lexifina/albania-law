@@ -5,7 +5,7 @@ Zbatimin e rekomandimit [Rec. ICCAT 22-08] ”Për ndryshimin e rekomandimit 21-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2023-0908-524` (tags `urdher-2023-0908-524/<day>`; `python tools/on.py <day> urdher-2023-0908-524`).
+Act id: `urdher-2023-0908-524` (tags `urdher-2023-0908-524/<day>`; `python registry/tools/on.py <day> urdher-2023-0908-524`).
 
 ## Decisions made by hand
 

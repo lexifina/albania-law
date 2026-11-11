@@ -12,7 +12,7 @@ PëR HAPJEN E PROGRAMEVE Të STUDIMIT, MASTER I NIVELIT TË PARë Në MËSUESI, 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1289` (tags `vendim-2008-1289/<day>`; `python tools/on.py <day> vendim-2008-1289`).
+Act id: `vendim-2008-1289` (tags `vendim-2008-1289/<day>`; `python registry/tools/on.py <day> vendim-2008-1289`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e masave për rehabilitimin e mjedisit të dëmtuar · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0828-459` (tags `urdher-2026-0828-459/<day>`; `python tools/on.py <day> urdher-2026-0828-459`).
+Act id: `urdher-2026-0828-459` (tags `urdher-2026-0828-459/<day>`; `python registry/tools/on.py <day> urdher-2026-0828-459`).
 
 ## Decisions made by hand
 

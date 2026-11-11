@@ -8,7 +8,7 @@ Emërimin në detyrë të Prefektit të Qarkut Shkodër · 1 versions, from 2020
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-697` (tags `vendim-2020-697/<day>`; `python tools/on.py <day> vendim-2020-697`).
+Act id: `vendim-2020-697` (tags `vendim-2020-697/<day>`; `python registry/tools/on.py <day> vendim-2020-697`).
 
 ## Decisions made by hand
 

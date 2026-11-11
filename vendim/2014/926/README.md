@@ -51,7 +51,7 @@ Kriteret e vlerësimit të pronës shtetërore, që privatizohet apo transformoh
 | Pika 43 | [pika-043.md](pika-043.md) | 3 | 2026-07-24 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-926` (tags `vendim-2014-926/<day>`; `python tools/on.py <day> vendim-2014-926`).
+Act id: `vendim-2014-926` (tags `vendim-2014-926/<day>`; `python registry/tools/on.py <day> vendim-2014-926`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-718` (tags `vendim-2005-718/<day>`; `python tools/on.py <day> vendim-2005-718`).
+Act id: `vendim-2005-718` (tags `vendim-2005-718/<day>`; `python registry/tools/on.py <day> vendim-2005-718`).
 
 ## Decisions made by hand
 

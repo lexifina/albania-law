@@ -10,7 +10,7 @@ Ratifikimin e Statutit të Romës për Gjykatën Ndërkombëtare Penale · 1 ver
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8984-2002` (tags `ligji-8984-2002/<day>`; `python tools/on.py <day> ligji-8984-2002`).
+Act id: `ligji-8984-2002` (tags `ligji-8984-2002/<day>`; `python registry/tools/on.py <day> ligji-8984-2002`).
 
 ## Decisions made by hand
 

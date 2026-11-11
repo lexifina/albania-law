@@ -10,7 +10,7 @@ Miratimin e rregullores së autonomisë spitalore · 1 versions, from 2023-02-09
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-72` (tags `vendim-2023-72/<day>`; `python tools/on.py <day> vendim-2023-72`).
+Act id: `vendim-2023-72` (tags `vendim-2023-72/<day>`; `python registry/tools/on.py <day> vendim-2023-72`).
 
 ## Decisions made by hand
 

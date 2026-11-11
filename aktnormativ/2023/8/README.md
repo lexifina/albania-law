@@ -20,7 +20,7 @@ Marrjen e masave urgjente, për mbrojtjen dhe përmirësimin e infrastrukturës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2023-8` (tags `aktnormativ-2023-8/<day>`; `python tools/on.py <day> aktnormativ-2023-8`).
+Act id: `aktnormativ-2023-8` (tags `aktnormativ-2023-8/<day>`; `python registry/tools/on.py <day> aktnormativ-2023-8`).
 
 ## Decisions made by hand
 

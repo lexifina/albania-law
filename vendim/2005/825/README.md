@@ -8,7 +8,7 @@ Emërimin e anëtarëve të Këshillit të Statistikave · 3 versions, from 2005
 | Vendimi | [pika-000.md](pika-000.md) | 2 | 2009-12-22 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-825` (tags `vendim-2005-825/<day>`; `python tools/on.py <day> vendim-2005-825`).
+Act id: `vendim-2005-825` (tags `vendim-2005-825/<day>`; `python registry/tools/on.py <day> vendim-2005-825`).
 
 ## Decisions made by hand
 

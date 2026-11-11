@@ -27,7 +27,7 @@ Të drejtat dhe detyrat e sekretarit të komisionit zgjedhor të zonës · 1 ver
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0608-46` (tags `udhezim-2001-0608-46/<day>`; `python tools/on.py <day> udhezim-2001-0608-46`).
+Act id: `udhezim-2001-0608-46` (tags `udhezim-2001-0608-46/<day>`; `python registry/tools/on.py <day> udhezim-2001-0608-46`).
 
 ## Decisions made by hand
 

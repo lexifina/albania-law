@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndryshuese të marrëveshjes, ndërmjet Këshillit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-719` (tags `vendim-2015-719/<day>`; `python tools/on.py <day> vendim-2015-719`).
+Act id: `vendim-2015-719` (tags `vendim-2015-719/<day>`; `python registry/tools/on.py <day> vendim-2015-719`).
 
 ## Decisions made by hand
 

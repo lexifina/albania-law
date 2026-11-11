@@ -10,7 +10,7 @@ Përzgjedhjen e shoqërisë për kontrollin e procedurave dhe ligjshmërinë e k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-804` (tags `vendim-2005-804/<day>`; `python tools/on.py <day> vendim-2005-804`).
+Act id: `vendim-2005-804` (tags `vendim-2005-804/<day>`; `python registry/tools/on.py <day> vendim-2005-804`).
 
 ## Decisions made by hand
 

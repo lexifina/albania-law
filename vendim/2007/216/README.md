@@ -5,7 +5,7 @@ Procedurat e konkurrimit publik, për përzgjedhjen e subjekteve të licencuara,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-216` (tags `vendim-2007-216/<day>`; `python tools/on.py <day> vendim-2007-216`).
+Act id: `vendim-2007-216` (tags `vendim-2007-216/<day>`; `python registry/tools/on.py <day> vendim-2007-216`).
 
 ## Decisions made by hand
 

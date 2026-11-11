@@ -10,7 +10,7 @@ Miratimin e planit të menaxhimit të rrezikut nga përmbytjet për disa zona, k
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-499` (tags `vendim-2024-499/<day>`; `python tools/on.py <day> vendim-2024-499`).
+Act id: `vendim-2024-499` (tags `vendim-2024-499/<day>`; `python registry/tools/on.py <day> vendim-2024-499`).
 
 ## Decisions made by hand
 

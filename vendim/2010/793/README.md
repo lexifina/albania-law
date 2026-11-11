@@ -24,7 +24,7 @@ Zbatimin e ligjit nr.10 142, datë 15.5.2009 “për sigurimin shoqëror supleme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-10-17 |
 
-Act id: `vendim-2010-793` (tags `vendim-2010-793/<day>`; `python tools/on.py <day> vendim-2010-793`).
+Act id: `vendim-2010-793` (tags `vendim-2010-793/<day>`; `python registry/tools/on.py <day> vendim-2010-793`).
 
 ## Decisions made by hand
 

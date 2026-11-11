@@ -27,7 +27,7 @@ Rregullat dhe procedurat për lidhjen e martesës dhe dokumentacionit që duhet 
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0927-188` (tags `udhezim-2024-0927-188/<day>`; `python tools/on.py <day> udhezim-2024-0927-188`).
+Act id: `udhezim-2024-0927-188` (tags `udhezim-2024-0927-188/<day>`; `python registry/tools/on.py <day> udhezim-2024-0927-188`).
 
 ## Decisions made by hand
 

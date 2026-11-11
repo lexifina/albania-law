@@ -15,7 +15,7 @@ Autorizimin e shoqërisë “ANSA” sh.p.k., për importin e mbetjeve të polie
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-331` (tags `vendim-2013-331/<day>`; `python tools/on.py <day> vendim-2013-331`).
+Act id: `vendim-2013-331` (tags `vendim-2013-331/<day>`; `python registry/tools/on.py <day> vendim-2013-331`).
 
 ## Decisions made by hand
 

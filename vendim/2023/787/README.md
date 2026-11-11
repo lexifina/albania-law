@@ -19,7 +19,7 @@ Rregullat dhe procedurat e shqyrtimit të nevojës, hartimit, bashkëpunimit, mi
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-787` (tags `vendim-2023-787/<day>`; `python tools/on.py <day> vendim-2023-787`).
+Act id: `vendim-2023-787` (tags `vendim-2023-787/<day>`; `python registry/tools/on.py <day> vendim-2023-787`).
 
 ## Decisions made by hand
 

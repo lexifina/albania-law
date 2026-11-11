@@ -5,7 +5,7 @@ PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË PUNËVE PUBLIKE, TRA
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-11` (tags `vendim-2007-11/<day>`; `python tools/on.py <day> vendim-2007-11`).
+Act id: `vendim-2007-11` (tags `vendim-2007-11/<day>`; `python registry/tools/on.py <day> vendim-2007-11`).
 
 ## Decisions made by hand
 

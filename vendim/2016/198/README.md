@@ -13,7 +13,7 @@ Autorizimin e ministrisë së transportit dhe infrastrukturës për lidhjen e ko
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-198` (tags `vendim-2016-198/<day>`; `python tools/on.py <day> vendim-2016-198`).
+Act id: `vendim-2016-198` (tags `vendim-2016-198/<day>`; `python registry/tools/on.py <day> vendim-2016-198`).
 
 ## Decisions made by hand
 

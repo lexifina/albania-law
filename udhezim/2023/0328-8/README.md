@@ -13,7 +13,7 @@ Përcaktimin e mënyrës dhe procedurat e aplikimit, mënyrës së llogaritjes s
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0328-8` (tags `udhezim-2023-0328-8/<day>`; `python tools/on.py <day> udhezim-2023-0328-8`).
+Act id: `udhezim-2023-0328-8` (tags `udhezim-2023-0328-8/<day>`; `python registry/tools/on.py <day> udhezim-2023-0328-8`).
 
 ## Decisions made by hand
 

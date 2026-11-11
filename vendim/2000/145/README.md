@@ -5,7 +5,7 @@ Riorganizimin e qendrave studentore · 2 versions, from 2000-04-21 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-145` (tags `vendim-2000-145/<day>`; `python tools/on.py <day> vendim-2000-145`).
+Act id: `vendim-2000-145` (tags `vendim-2000-145/<day>`; `python registry/tools/on.py <day> vendim-2000-145`).
 
 ## Decisions made by hand
 

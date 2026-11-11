@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së bashkëpunimit ndërmjet këshillit të minis
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9781` (tags `ligj-2007-9781/<day>`; `python tools/on.py <day> ligj-2007-9781`).
+Act id: `ligj-2007-9781` (tags `ligj-2007-9781/<day>`; `python registry/tools/on.py <day> ligj-2007-9781`).
 
 ## Decisions made by hand
 

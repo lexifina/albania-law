@@ -58,7 +58,7 @@ Shërbimin ushtarak në republikën e shqipërisë · 1 versions, from 2025-01-3
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9047` (tags `ligj-2003-9047/<day>`; `python tools/on.py <day> ligj-2003-9047`).
+Act id: `ligj-2003-9047` (tags `ligj-2003-9047/<day>`; `python registry/tools/on.py <day> ligj-2003-9047`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së kredisë të zhvillimit ndërmjet Qeverisë s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8941` (tags `ligj-2002-8941/<day>`; `python tools/on.py <day> ligj-2002-8941`).
+Act id: `ligj-2002-8941` (tags `ligj-2002-8941/<day>`; `python registry/tools/on.py <day> ligj-2002-8941`).
 
 ## Decisions made by hand
 

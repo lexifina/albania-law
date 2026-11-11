@@ -33,7 +33,7 @@ Miratimin r “marrëveshjes së koncensionit të formës “rot” të minierë
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 
-Act id: `ligji-8791-2001` (tags `ligji-8791-2001/<day>`; `python tools/on.py <day> ligji-8791-2001`).
+Act id: `ligji-8791-2001` (tags `ligji-8791-2001/<day>`; `python registry/tools/on.py <day> ligji-8791-2001`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,15 @@ Shpalljen e zonës së re për zhvillim në Njësinë Administrative Vorë, Bash
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-66` (tags `vendim-2020-66/<day>`; `python tools/on.py <day> vendim-2020-66`).
+Act id: `vendim-2020-66` (tags `vendim-2020-66/<day>`; `python registry/tools/on.py <day> vendim-2020-66`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 223, datë 7.4.2021: Për një ndryshim në vendimin nr. 66, datë 29.1.2020, të Këshillit të Ministrave, “Për shpalljen e zonës së re për zhvillim në njësinë administrative Vorë, Bashkia Vorë, dhe caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese”](https://qbz.gov.al/eli/vendim/2021/04/07/223)
 
 ## Decisions made by hand
 

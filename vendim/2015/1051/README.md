@@ -10,7 +10,7 @@ Autorizimin e Ministrisë së Financave për shlyerjen e detyrimeve të huas, n�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1051` (tags `vendim-2015-1051/<day>`; `python tools/on.py <day> vendim-2015-1051`).
+Act id: `vendim-2015-1051` (tags `vendim-2015-1051/<day>`; `python registry/tools/on.py <day> vendim-2015-1051`).
 
 ## Decisions made by hand
 

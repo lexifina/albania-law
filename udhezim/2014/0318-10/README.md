@@ -17,7 +17,7 @@ Përcaktimin e specifikimeve teknike të pullës së tatimit · 1 versions, from
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0318-10` (tags `udhezim-2014-0318-10/<day>`; `python tools/on.py <day> udhezim-2014-0318-10`).
+Act id: `udhezim-2014-0318-10` (tags `udhezim-2014-0318-10/<day>`; `python registry/tools/on.py <day> udhezim-2014-0318-10`).
 
 ## Decisions made by hand
 

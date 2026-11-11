@@ -11,7 +11,7 @@ Licencimin e ”Shoqatës së Filmit Audiovizual, Artistik dhe Dokumentar (F.A.A
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-1202-1049` (tags `urdher-2024-1202-1049/<day>`; `python tools/on.py <day> urdher-2024-1202-1049`).
+Act id: `urdher-2024-1202-1049` (tags `urdher-2024-1202-1049/<day>`; `python registry/tools/on.py <day> urdher-2024-1202-1049`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e Strategjisë Kombëtare kundër Ndërhyrjeve të Huaja dhe Dezinform
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-47-2025` (tags `ligji-47-2025/<day>`; `python tools/on.py <day> ligji-47-2025`).
+Act id: `ligji-47-2025` (tags `ligji-47-2025/<day>`; `python registry/tools/on.py <day> ligji-47-2025`).
 
 ## Decisions made by hand
 

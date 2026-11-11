@@ -5,7 +5,7 @@ Ruajtjen e nxehtësisë në ndërtesa · 2 versions, from 2002-11-01 (latest in 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8937` (tags `ligj-2002-8937/<day>`; `python tools/on.py <day> ligj-2002-8937`).
+Act id: `ligj-2002-8937` (tags `ligj-2002-8937/<day>`; `python registry/tools/on.py <day> ligj-2002-8937`).
 
 ## Decisions made by hand
 

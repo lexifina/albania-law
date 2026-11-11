@@ -34,7 +34,15 @@ Mbi zbatimin e vendimit të Këshillit të Ministrave nr.74, datë 11.2.1999 “
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0320-646` (tags `udhezim-2006-0320-646/<day>`; `python tools/on.py <day> udhezim-2006-0320-646`).
+Act id: `udhezim-2006-0320-646` (tags `udhezim-2006-0320-646/<day>`; `python registry/tools/on.py <day> udhezim-2006-0320-646`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 646-1, datë 15.5.2006 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 4374]: Mbi disa ndryshime në udhëzimin nr.646, datë 20.03.2006 “Mbi zbatimin e vendimit të Këshillit të Ministrave nr.74, datë 11.02.1999 “Për programin e nxitjes së punësimit, nëpërmjet mbështetjes së formimit institucional””](https://qbz.gov.al/eli/udhezim/2006/05/15/646-1)
 
 ## Decisions made by hand
 

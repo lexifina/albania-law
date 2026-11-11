@@ -5,7 +5,7 @@ Sigurimin fizik të informacionit të klasifikuar “Sekret shtetëror”, të N
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-189` (tags `vendim-2015-189/<day>`; `python tools/on.py <day> vendim-2015-189`).
+Act id: `vendim-2015-189` (tags `vendim-2015-189/<day>`; `python registry/tools/on.py <day> vendim-2015-189`).
 
 ## Decisions made by hand
 

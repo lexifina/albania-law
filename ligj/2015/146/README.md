@@ -17,7 +17,7 @@ Punëkërkuesit · 1 versions, from 2016-01-15 (latest in force: 2016-01-15) · 
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-146-2015` (tags `ligji-146-2015/<day>`; `python tools/on.py <day> ligji-146-2015`).
+Act id: `ligji-146-2015` (tags `ligji-146-2015/<day>`; `python registry/tools/on.py <day> ligji-146-2015`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Deklasifikimin plotësisht të informa-cioneve (dosjeve) të klasifikuara “Sek
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0427-5` (tags `urdher-2018-0427-5/<day>`; `python tools/on.py <day> urdher-2018-0427-5`).
+Act id: `urdher-2018-0427-5` (tags `urdher-2018-0427-5/<day>`; `python registry/tools/on.py <day> urdher-2018-0427-5`).
 
 ## Decisions made by hand
 

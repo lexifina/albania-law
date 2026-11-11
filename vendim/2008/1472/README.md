@@ -10,7 +10,15 @@ Shtyrjen e afatit të përfundimit të procedurave të prokurimit për ministrin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1472` (tags `vendim-2008-1472/<day>`; `python tools/on.py <day> vendim-2008-1472`).
+Act id: `vendim-2008-1472` (tags `vendim-2008-1472/<day>`; `python registry/tools/on.py <day> vendim-2008-1472`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1591, datë 3.12.2008: Për një ndryshim në vendimin nr.1472, datë 12.11.2008 të këshillit të ministrave “për shtyrjen e afatit të përfundimit të procedurave të prokurimit për ministrinë e drejtësisë dhe institucionet, në varësi të saj, si autoritete kontraktore”](https://qbz.gov.al/eli/vendim/2008/12/03/1591)
 
 ## Decisions made by hand
 

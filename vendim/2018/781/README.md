@@ -13,7 +13,7 @@ Garantimin e transparencës në institucionet publike të arsimit të lartë · 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-781` (tags `vendim-2018-781/<day>`; `python tools/on.py <day> vendim-2018-781`).
+Act id: `vendim-2018-781` (tags `vendim-2018-781/<day>`; `python registry/tools/on.py <day> vendim-2018-781`).
 
 ## Decisions made by hand
 

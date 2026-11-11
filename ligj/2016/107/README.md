@@ -38,7 +38,7 @@ Prefektin e qarkut · 2 versions, from 2016-11-29 (latest in force: 2024-05-25) 
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-107` (tags `ligj-2016-107/<day>`; `python tools/on.py <day> ligj-2016-107`).
+Act id: `ligj-2016-107` (tags `ligj-2016-107/<day>`; `python registry/tools/on.py <day> ligj-2016-107`).
 
 ## Decisions made by hand
 

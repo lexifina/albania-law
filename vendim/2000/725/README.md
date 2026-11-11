@@ -5,7 +5,7 @@ Regjimin e tranzitimit të duhaneve dhe cigareve · 2 versions, from 2000-12-31 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-725` (tags `vendim-2000-725/<day>`; `python tools/on.py <day> vendim-2000-725`).
+Act id: `vendim-2000-725` (tags `vendim-2000-725/<day>`; `python registry/tools/on.py <day> vendim-2000-725`).
 
 ## Decisions made by hand
 

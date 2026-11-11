@@ -11,7 +11,7 @@ Caktimin e Agjencisë Kombëtare të Shoqërisë së Informacionit (AKSHI), si n
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-103` (tags `vendim-2020-103/<day>`; `python tools/on.py <day> vendim-2020-103`).
+Act id: `vendim-2020-103` (tags `vendim-2020-103/<day>`; `python registry/tools/on.py <day> vendim-2020-103`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Procedurat e kalimit të automjeteve dhe motomjeteve nga mjediset e drejtorive v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0111-9714` (tags `udhezim-2019-0111-9714/<day>`; `python tools/on.py <day> udhezim-2019-0111-9714`).
+Act id: `udhezim-2019-0111-9714` (tags `udhezim-2019-0111-9714/<day>`; `python registry/tools/on.py <day> udhezim-2019-0111-9714`).
 
 ## Decisions made by hand
 

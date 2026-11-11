@@ -5,7 +5,7 @@ Zbatimin e rregullores ”Për udhëzimet e Bashkimit Evropian për zhvillimin e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0709-196` (tags `urdher-2020-0709-196/<day>`; `python tools/on.py <day> urdher-2020-0709-196`).
+Act id: `urdher-2020-0709-196` (tags `urdher-2020-0709-196/<day>`; `python registry/tools/on.py <day> urdher-2020-0709-196`).
 
 ## Decisions made by hand
 

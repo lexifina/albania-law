@@ -28,7 +28,7 @@ Procedurën e shqyrtimit të kërkesave për licencim dhe monitorimit të subjek
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1212-1093` (tags `udhezim-2024-1212-1093/<day>`; `python tools/on.py <day> udhezim-2024-1212-1093`).
+Act id: `udhezim-2024-1212-1093` (tags `udhezim-2024-1212-1093/<day>`; `python registry/tools/on.py <day> udhezim-2024-1212-1093`).
 
 ## Decisions made by hand
 

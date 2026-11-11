@@ -9,7 +9,7 @@ Kalimin te Bashkia Tiranë të njësive të banimit në ndërtesa (pallat) · 1 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-834` (tags `vendim-2024-834/<day>`; `python tools/on.py <day> vendim-2024-834`).
+Act id: `vendim-2024-834` (tags `vendim-2024-834/<day>`; `python registry/tools/on.py <day> vendim-2024-834`).
 
 ## Decisions made by hand
 

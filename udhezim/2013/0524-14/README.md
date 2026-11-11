@@ -9,7 +9,7 @@ Një shtesë në udhëzimin nr. 5, datë 30.1.2006 “Për tatimin mbi të ardhu
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0524-14` (tags `udhezim-2013-0524-14/<day>`; `python tools/on.py <day> udhezim-2013-0524-14`).
+Act id: `udhezim-2013-0524-14` (tags `udhezim-2013-0524-14/<day>`; `python registry/tools/on.py <day> udhezim-2013-0524-14`).
 
 ## Decisions made by hand
 

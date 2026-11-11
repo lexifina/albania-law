@@ -5,7 +5,7 @@ Miratimin e rregullores së funksionimit të këshillit kombëtar për mbrojtjen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-201` (tags `vendim-2011-201/<day>`; `python tools/on.py <day> vendim-2011-201`).
+Act id: `vendim-2011-201` (tags `vendim-2011-201/<day>`; `python registry/tools/on.py <day> vendim-2011-201`).
 
 ## Decisions made by hand
 

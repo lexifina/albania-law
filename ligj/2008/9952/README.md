@@ -62,7 +62,7 @@ Parandalimin dhe kontrollin e hiv/aids-it · 3 versions, from 2008-08-15 (latest
 | Neni 48 | [neni-048.md](neni-048.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9952` (tags `ligj-2008-9952/<day>`; `python tools/on.py <day> ligj-2008-9952`).
+Act id: `ligj-2008-9952` (tags `ligj-2008-9952/<day>`; `python registry/tools/on.py <day> ligj-2008-9952`).
 
 ## Decisions made by hand
 

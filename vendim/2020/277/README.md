@@ -17,7 +17,7 @@ Miratimin e garancisë shtetërore të huas me bankat e nivelit të dytë për p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-05-11 |
 
-Act id: `vendim-2020-277` (tags `vendim-2020-277/<day>`; `python tools/on.py <day> vendim-2020-277`).
+Act id: `vendim-2020-277` (tags `vendim-2020-277/<day>`; `python registry/tools/on.py <day> vendim-2020-277`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,15 @@ Procedurat e pranimit dhe regjistrimit për kandidatët nga Republika e Kosovës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0818-26` (tags `udhezim-2015-0818-26/<day>`; `python tools/on.py <day> udhezim-2015-0818-26`).
+Act id: `udhezim-2015-0818-26` (tags `udhezim-2015-0818-26/<day>`; `python registry/tools/on.py <day> udhezim-2015-0818-26`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 39, datë 6.10.2015 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 12600]: Për disa ndryshime në udhëzimin nr. 26, datë 18.8.2015, “Për procedurat e pranimit dhe të regjistrimit për kandidatët nga Republika e Kosovës, si dhe kandidatët shqiptarë nga Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja, në ciklin e parë të studimeve me kohë të plotë, si dhe në programet e integruara të studimeve të ciklit të dytë, në institucionet publike të arsimit të lartë, për vitin akademik 2015-2016”](https://qbz.gov.al/eli/udhezim/2015/10/06/39)
 
 ## Decisions made by hand
 

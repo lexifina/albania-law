@@ -5,7 +5,7 @@ Krijimin e agjencisë kombëtare të diasporës · 3 versions, from 2018-01-12 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2017-115` (tags `ligj-2017-115/<day>`; `python tools/on.py <day> ligj-2017-115`).
+Act id: `ligj-2017-115` (tags `ligj-2017-115/<day>`; `python registry/tools/on.py <day> ligj-2017-115`).
 
 ## Decisions made by hand
 

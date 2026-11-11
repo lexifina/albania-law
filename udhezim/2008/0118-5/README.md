@@ -5,7 +5,7 @@ Tatimi për kalimin e së drejtës së pronësisë mbi pasuritë e paluajtshme �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-0118-5` (tags `udhezim-2008-0118-5/<day>`; `python tools/on.py <day> udhezim-2008-0118-5`).
+Act id: `udhezim-2008-0118-5` (tags `udhezim-2008-0118-5/<day>`; `python registry/tools/on.py <day> udhezim-2008-0118-5`).
 
 ## Decisions made by hand
 

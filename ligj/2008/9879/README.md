@@ -5,7 +5,7 @@ Titujt · 2 versions, from 2008-03-27 (latest in force: 2020-09-01) · <https://
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9879` (tags `ligj-2008-9879/<day>`; `python tools/on.py <day> ligj-2008-9879`).
+Act id: `ligj-2008-9879` (tags `ligj-2008-9879/<day>`; `python registry/tools/on.py <day> ligj-2008-9879`).
 
 ## Decisions made by hand
 

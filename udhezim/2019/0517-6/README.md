@@ -19,7 +19,7 @@ Procedurat që ndiqen për administrimin e automjeteve dhe motomjeteve që kaloj
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0517-6` (tags `udhezim-2019-0517-6/<day>`; `python tools/on.py <day> udhezim-2019-0517-6`).
+Act id: `udhezim-2019-0517-6` (tags `udhezim-2019-0517-6/<day>`; `python registry/tools/on.py <day> udhezim-2019-0517-6`).
 
 ## Decisions made by hand
 

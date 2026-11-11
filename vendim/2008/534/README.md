@@ -10,7 +10,15 @@ PëR MIRATIMIN E LISTëS PARAPRAKE të PRONAVE të PALUAJTSHME PUBLIKE, SHTETëR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-534` (tags `vendim-2008-534/<day>`; `python tools/on.py <day> vendim-2008-534`).
+Act id: `vendim-2008-534` (tags `vendim-2008-534/<day>`; `python registry/tools/on.py <day> vendim-2008-534`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 995, datë 9.12.2015: Për kalimin në përgjegjësi administrimi të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave të sipërfaqes së tokës bujqësore prej 926.55 ha, në pronësi shtetërore, dhënë në përdorim komunave Buçimas, Çërravë dhe Udenisht dhe për disa ndryshime në vendimet e Këshillit të Ministrave nr. 244, datë 4.4.2012, nr. 417, datë 8.6.2011 dhe nr. 534, datë 1.5.2008](https://qbz.gov.al/eli/vendim/2015/12/09/995)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së infrastrukturave kritike të informacionit dhe të list�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-222` (tags `vendim-2018-222/<day>`; `python tools/on.py <day> vendim-2018-222`).
+Act id: `vendim-2018-222` (tags `vendim-2018-222/<day>`; `python registry/tools/on.py <day> vendim-2018-222`).
 
 ## Decisions made by hand
 

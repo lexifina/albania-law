@@ -5,7 +5,7 @@ Përcaktimin e dokumentacionit të nevojshëm për fitimin, heqjen dorë dhe rif
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2024-1120-228` (tags `udhezim-2024-1120-228/<day>`; `python tools/on.py <day> udhezim-2024-1120-228`).
+Act id: `udhezim-2024-1120-228` (tags `udhezim-2024-1120-228/<day>`; `python registry/tools/on.py <day> udhezim-2024-1120-228`).
 
 ## Decisions made by hand
 

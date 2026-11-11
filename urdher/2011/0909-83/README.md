@@ -12,7 +12,7 @@ Caktimin e funksionit të koordinimit të sloteve apo rregullimit të orareve n�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2011-0909-83` (tags `urdher-2011-0909-83/<day>`; `python tools/on.py <day> urdher-2011-0909-83`).
+Act id: `urdher-2011-0909-83` (tags `urdher-2011-0909-83/<day>`; `python registry/tools/on.py <day> urdher-2011-0909-83`).
 
 ## Decisions made by hand
 

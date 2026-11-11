@@ -25,7 +25,7 @@ Rregullat e detajuara për zhvillimin e programit të shitjes me të drejtë par
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-645` (tags `vendim-2024-645/<day>`; `python tools/on.py <day> vendim-2024-645`).
+Act id: `vendim-2024-645` (tags `vendim-2024-645/<day>`; `python registry/tools/on.py <day> vendim-2024-645`).
 
 ## Decisions made by hand
 

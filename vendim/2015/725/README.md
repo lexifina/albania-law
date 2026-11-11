@@ -13,7 +13,7 @@ Mënyrën e organizimit dhe të funksionimit të Agjencisë së Zhvillimit të T
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-12-30 |
 
-Act id: `vendim-2015-725` (tags `vendim-2015-725/<day>`; `python tools/on.py <day> vendim-2015-725`).
+Act id: `vendim-2015-725` (tags `vendim-2015-725/<day>`; `python registry/tools/on.py <day> vendim-2015-725`).
 
 ## Decisions made by hand
 

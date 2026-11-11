@@ -14,7 +14,7 @@ Procedurat për organizimin e operacioneve të kthimit dhe operacioneve të për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1108-219` (tags `udhezim-2022-1108-219/<day>`; `python tools/on.py <day> udhezim-2022-1108-219`).
+Act id: `udhezim-2022-1108-219` (tags `udhezim-2022-1108-219/<day>`; `python registry/tools/on.py <day> udhezim-2022-1108-219`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e formatit të lejeve dhe certifikatave për shërbimet e ofruara nga 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0602-112` (tags `urdher-2022-0602-112/<day>`; `python tools/on.py <day> urdher-2022-0602-112`).
+Act id: `urdher-2022-0602-112` (tags `urdher-2022-0602-112/<day>`; `python registry/tools/on.py <day> urdher-2022-0602-112`).
 
 ## Decisions made by hand
 

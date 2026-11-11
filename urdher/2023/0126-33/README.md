@@ -10,7 +10,7 @@ Miratimin e protokollit diagnostikues për brumbullin japonez (Popillia Japonica
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0126-33` (tags `urdher-2023-0126-33/<day>`; `python tools/on.py <day> urdher-2023-0126-33`).
+Act id: `urdher-2023-0126-33` (tags `urdher-2023-0126-33/<day>`; `python registry/tools/on.py <day> urdher-2023-0126-33`).
 
 ## Decisions made by hand
 

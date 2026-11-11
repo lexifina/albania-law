@@ -5,7 +5,7 @@ Dispozitat zbatuese të ligjit nr. 4/2020, “Për shkëmbimin automatik të inf
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-613` (tags `vendim-2020-613/<day>`; `python tools/on.py <day> vendim-2020-613`).
+Act id: `vendim-2020-613` (tags `vendim-2020-613/<day>`; `python registry/tools/on.py <day> vendim-2020-613`).
 
 ## Decisions made by hand
 

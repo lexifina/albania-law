@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e turizm
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-538` (tags `vendim-2018-538/<day>`; `python tools/on.py <day> vendim-2018-538`).
+Act id: `vendim-2018-538` (tags `vendim-2018-538/<day>`; `python registry/tools/on.py <day> vendim-2018-538`).
 
 ## Decisions made by hand
 

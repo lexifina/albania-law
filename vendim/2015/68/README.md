@@ -10,7 +10,7 @@ Miratimin e kuadrit makroekonomik e fiskal për periudhën 2016 - 2018 · 1 vers
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-68` (tags `vendim-2015-68/<day>`; `python tools/on.py <day> vendim-2015-68`).
+Act id: `vendim-2015-68` (tags `vendim-2015-68/<day>`; `python registry/tools/on.py <day> vendim-2015-68`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Një ndryshim në vendimin nr.351, datë 28.7.1999 të këshillit të ministrave
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-14` (tags `vendim-2004-14/<day>`; `python tools/on.py <day> vendim-2004-14`).
+Act id: `vendim-2004-14` (tags `vendim-2004-14/<day>`; `python registry/tools/on.py <day> vendim-2004-14`).
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Mbi procedurën e rinumërimit të votave · 1 versions, from 2003-10-11 (latest
 | Pjesa III | [pjesa-03.md](pjesa-03.md) | 0 |  |
 | Pjesa IV | [pjesa-04.md](pjesa-04.md) | 0 |  |
 
-Act id: `udhezim-2003-1009-15` (tags `udhezim-2003-1009-15/<day>`; `python tools/on.py <day> udhezim-2003-1009-15`).
+Act id: `udhezim-2003-1009-15` (tags `udhezim-2003-1009-15/<day>`; `python registry/tools/on.py <day> udhezim-2003-1009-15`).
 
 ## Decisions made by hand
 

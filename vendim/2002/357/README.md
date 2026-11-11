@@ -5,7 +5,7 @@ Dhënien e statusit ”spital universitar”, Spitalit Ushtarak Qendror · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-357` (tags `vendim-2002-357/<day>`; `python tools/on.py <day> vendim-2002-357`).
+Act id: `vendim-2002-357` (tags `vendim-2002-357/<day>`; `python registry/tools/on.py <day> vendim-2002-357`).
 
 ## Decisions made by hand
 

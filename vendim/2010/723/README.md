@@ -5,7 +5,7 @@ Projektimin, zbatimin dhe funksionimin e sistemeve të informacionit · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-723` (tags `vendim-2010-723/<day>`; `python tools/on.py <day> vendim-2010-723`).
+Act id: `vendim-2010-723` (tags `vendim-2010-723/<day>`; `python registry/tools/on.py <day> vendim-2010-723`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të dokumentacionit dhe procedurës, për pajisjen, re
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-348` (tags `vendim-2009-348/<day>`; `python tools/on.py <day> vendim-2009-348`).
+Act id: `vendim-2009-348` (tags `vendim-2009-348/<day>`; `python registry/tools/on.py <day> vendim-2009-348`).
 
 ## Decisions made by hand
 

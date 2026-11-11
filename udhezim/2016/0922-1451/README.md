@@ -19,7 +19,7 @@ Përcaktimin e procedurave të hartimit të propozimit, për kalimin e së drejt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0922-1451` (tags `udhezim-2016-0922-1451/<day>`; `python tools/on.py <day> udhezim-2016-0922-1451`).
+Act id: `udhezim-2016-0922-1451` (tags `udhezim-2016-0922-1451/<day>`; `python registry/tools/on.py <day> udhezim-2016-0922-1451`).
 
 ## Decisions made by hand
 

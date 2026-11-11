@@ -5,7 +5,7 @@ Procedurën e dhënies së autorizimit për magazinimin, transferimin dhe asgjë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-209` (tags `vendim-2012-209/<day>`; `python tools/on.py <day> vendim-2012-209`).
+Act id: `vendim-2012-209` (tags `vendim-2012-209/<day>`; `python registry/tools/on.py <day> vendim-2012-209`).
 
 ## Decisions made by hand
 

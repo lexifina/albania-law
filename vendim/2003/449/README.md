@@ -5,7 +5,7 @@ Tarifat në sektorin e pyjeve dhe të kullotave · 2 versions, from 2003-07-17 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-449` (tags `vendim-2003-449/<day>`; `python tools/on.py <day> vendim-2003-449`).
+Act id: `vendim-2003-449` (tags `vendim-2003-449/<day>`; `python registry/tools/on.py <day> vendim-2003-449`).
 
 ## Decisions made by hand
 

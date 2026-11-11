@@ -8,7 +8,7 @@ Miratimin e kontratës së koncesionit/partneritet publik privat, për projektim
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-866` (tags `vendim-2024-866/<day>`; `python tools/on.py <day> vendim-2024-866`).
+Act id: `vendim-2024-866` (tags `vendim-2024-866/<day>`; `python registry/tools/on.py <day> vendim-2024-866`).
 
 ## Decisions made by hand
 

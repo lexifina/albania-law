@@ -5,7 +5,7 @@ Miratimin e projektdokumentit të programit buxhetor afatmesëm, 2014 - 2016 · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-592` (tags `vendim-2013-592/<day>`; `python tools/on.py <day> vendim-2013-592`).
+Act id: `vendim-2013-592` (tags `vendim-2013-592/<day>`; `python registry/tools/on.py <day> vendim-2013-592`).
 
 ## Decisions made by hand
 

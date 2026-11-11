@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për shërbimet e transmetimeve radiotele
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1111-36` (tags `udhezim-2008-1111-36/<day>`; `python tools/on.py <day> udhezim-2008-1111-36`).
+Act id: `udhezim-2008-1111-36` (tags `udhezim-2008-1111-36/<day>`; `python registry/tools/on.py <day> udhezim-2008-1111-36`).
 
 ## Decisions made by hand
 

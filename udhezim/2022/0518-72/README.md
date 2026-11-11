@@ -26,7 +26,7 @@ Procedurat për pajisjen me letërnjoftim elektronik dhe dokument udhëtimi të 
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0518-72` (tags `udhezim-2022-0518-72/<day>`; `python tools/on.py <day> udhezim-2022-0518-72`).
+Act id: `udhezim-2022-0518-72` (tags `udhezim-2022-0518-72/<day>`; `python registry/tools/on.py <day> udhezim-2022-0518-72`).
 
 ## Decisions made by hand
 

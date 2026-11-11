@@ -15,7 +15,7 @@ Krijimin e regjistrit për depozitimin e të dhënave për agjencitë ndërmjet�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2013-0628-284` (tags `urdher-2013-0628-284/<day>`; `python tools/on.py <day> urdher-2013-0628-284`).
+Act id: `urdher-2013-0628-284` (tags `urdher-2013-0628-284/<day>`; `python registry/tools/on.py <day> urdher-2013-0628-284`).
 
 ## Decisions made by hand
 

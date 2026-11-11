@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së bashkëpunimit, ndërmjet Këshillit të Ministrav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-537` (tags `vendim-2015-537/<day>`; `python tools/on.py <day> vendim-2015-537`).
+Act id: `vendim-2015-537` (tags `vendim-2015-537/<day>`; `python registry/tools/on.py <day> vendim-2015-537`).
 
 ## Decisions made by hand
 

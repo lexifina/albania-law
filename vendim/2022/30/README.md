@@ -10,7 +10,7 @@ Transferimin në pronësi të Bashkisë Krujë, për njësinë administrative Bu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-30` (tags `vendim-2022-30/<day>`; `python tools/on.py <day> vendim-2022-30`).
+Act id: `vendim-2022-30` (tags `vendim-2022-30/<day>`; `python registry/tools/on.py <day> vendim-2022-30`).
 
 ## Decisions made by hand
 

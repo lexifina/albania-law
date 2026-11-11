@@ -12,7 +12,7 @@ Miratimin e raportit të vlerësimit të ofertave për privatizimin e shoqëris�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1430` (tags `vendim-2008-1430/<day>`; `python tools/on.py <day> vendim-2008-1430`).
+Act id: `vendim-2008-1430` (tags `vendim-2008-1430/<day>`; `python registry/tools/on.py <day> vendim-2008-1430`).
 
 ## Decisions made by hand
 

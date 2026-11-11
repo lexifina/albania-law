@@ -12,7 +12,7 @@ Mënyrën e ngritjes së qendrave të rishikimit të listave të zgjedhësve dhe
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0423-25` (tags `udhezim-2001-0423-25/<day>`; `python tools/on.py <day> udhezim-2001-0423-25`).
+Act id: `udhezim-2001-0423-25` (tags `udhezim-2001-0423-25/<day>`; `python registry/tools/on.py <day> udhezim-2001-0423-25`).
 
 ## Decisions made by hand
 

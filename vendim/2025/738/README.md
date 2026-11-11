@@ -18,7 +18,7 @@ Përthithjen e Drejtorisë së Shërbimit të Trupit Diplomatik nga Drejtoria e 
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-738` (tags `vendim-2025-738/<day>`; `python tools/on.py <day> vendim-2025-738`).
+Act id: `vendim-2025-738` (tags `vendim-2025-738/<day>`; `python registry/tools/on.py <day> vendim-2025-738`).
 
 ## Decisions made by hand
 

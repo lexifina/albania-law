@@ -5,7 +5,7 @@ PËR LICENCIMIN E VEPRIMTARISË PRIVATE Në FUSHËN E SHËNDETËSISË · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-238` (tags `vendim-2003-238/<day>`; `python tools/on.py <day> vendim-2003-238`).
+Act id: `vendim-2003-238` (tags `vendim-2003-238/<day>`; `python registry/tools/on.py <day> vendim-2003-238`).
 
 ## Decisions made by hand
 

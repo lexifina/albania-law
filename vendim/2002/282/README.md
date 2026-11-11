@@ -9,7 +9,7 @@ Kalimin e një pjese të territorit të INIMA-s dhe të INSTAT-it në administri
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-282` (tags `vendim-2002-282/<day>`; `python tools/on.py <day> vendim-2002-282`).
+Act id: `vendim-2002-282` (tags `vendim-2002-282/<day>`; `python registry/tools/on.py <day> vendim-2002-282`).
 
 ## Decisions made by hand
 

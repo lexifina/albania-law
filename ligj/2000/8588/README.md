@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e gjykatës së lartë të republikës së shqipër
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8588` (tags `ligj-2000-8588/<day>`; `python tools/on.py <day> ligj-2000-8588`).
+Act id: `ligj-2000-8588` (tags `ligj-2000-8588/<day>`; `python registry/tools/on.py <day> ligj-2000-8588`).
 
 ## Decisions made by hand
 

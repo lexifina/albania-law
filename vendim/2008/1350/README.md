@@ -8,7 +8,7 @@ Miratimin e raportit për gjendjen e mjedisit në shqipëri, për vitet 2005, 20
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1350` (tags `vendim-2008-1350/<day>`; `python tools/on.py <day> vendim-2008-1350`).
+Act id: `vendim-2008-1350` (tags `vendim-2008-1350/<day>`; `python registry/tools/on.py <day> vendim-2008-1350`).
 
 ## Decisions made by hand
 

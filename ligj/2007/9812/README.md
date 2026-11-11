@@ -10,7 +10,7 @@ Miratimin e “marrëveshjes minerare të shfrytëzimit ndërmjet ministrisë s�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9812` (tags `ligj-2007-9812/<day>`; `python tools/on.py <day> ligj-2007-9812`).
+Act id: `ligj-2007-9812` (tags `ligj-2007-9812/<day>`; `python registry/tools/on.py <day> ligj-2007-9812`).
 
 ## Decisions made by hand
 

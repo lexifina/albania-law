@@ -39,7 +39,7 @@ Përcaktimin e kritereve të vlerësimit, mënyrat dhe procedurat e dhënies në
 | Pika 31 | [pika-031.md](pika-031.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-888` (tags `vendim-2020-888/<day>`; `python tools/on.py <day> vendim-2020-888`).
+Act id: `vendim-2020-888` (tags `vendim-2020-888/<day>`; `python registry/tools/on.py <day> vendim-2020-888`).
 
 ## Decisions made by hand
 

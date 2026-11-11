@@ -5,7 +5,7 @@ Miratimin e procedurave standarde të veprimit për identifikimin dhe referimin 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-582` (tags `vendim-2011-582/<day>`; `python tools/on.py <day> vendim-2011-582`).
+Act id: `vendim-2011-582` (tags `vendim-2011-582/<day>`; `python registry/tools/on.py <day> vendim-2011-582`).
 
 ## Decisions made by hand
 

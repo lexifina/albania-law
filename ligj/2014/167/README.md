@@ -10,7 +10,7 @@ Ratifikimin e letërmarrëveshjes ndryshuese të marrëveshjes istisna’a dhe m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-167` (tags `ligj-2014-167/<day>`; `python tools/on.py <day> ligj-2014-167`).
+Act id: `ligj-2014-167` (tags `ligj-2014-167/<day>`; `python registry/tools/on.py <day> ligj-2014-167`).
 
 ## Decisions made by hand
 

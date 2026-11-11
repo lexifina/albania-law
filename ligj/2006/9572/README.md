@@ -65,7 +65,7 @@ Autoritetin e Mbikëqyrjes Financiare · 3 versions, from 2006-08-10 (latest in 
 | Neni 43 | [neni-043.md](neni-043.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9572` (tags `ligj-2006-9572/<day>`; `python tools/on.py <day> ligj-2006-9572`).
+Act id: `ligj-2006-9572` (tags `ligj-2006-9572/<day>`; `python registry/tools/on.py <day> ligj-2006-9572`).
 
 ## Decisions made by hand
 

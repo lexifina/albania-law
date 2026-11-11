@@ -13,7 +13,7 @@ Kompensimin financiar të pronarëve të pasurive të paluajtshme që preken nga
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-820` (tags `vendim-2022-820/<day>`; `python tools/on.py <day> vendim-2022-820`).
+Act id: `vendim-2022-820` (tags `vendim-2022-820/<day>`; `python registry/tools/on.py <day> vendim-2022-820`).
 
 ## Decisions made by hand
 

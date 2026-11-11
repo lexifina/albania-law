@@ -18,7 +18,7 @@ Organizimin, strukturën, funksionimin e qendrës ndërinstitucionale operaciona
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2010-04-02 |
 
-Act id: `vendim-2009-954` (tags `vendim-2009-954/<day>`; `python tools/on.py <day> vendim-2009-954`).
+Act id: `vendim-2009-954` (tags `vendim-2009-954/<day>`; `python registry/tools/on.py <day> vendim-2009-954`).
 
 ## Decisions made by hand
 

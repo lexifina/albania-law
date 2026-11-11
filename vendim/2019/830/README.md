@@ -10,7 +10,15 @@ Miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transpo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-830` (tags `vendim-2019-830/<day>`; `python tools/on.py <day> vendim-2019-830`).
+Act id: `vendim-2019-830` (tags `vendim-2019-830/<day>`; `python registry/tools/on.py <day> vendim-2019-830`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 847, datë 5.11.2026: Për kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoftimin e aktivitetit nga trupat e kontrollit, që veprojnë në Shqipëri sipas standardeve të tjera për prodhimin organik](https://qbz.gov.al/eli/vendim/2026/11/05/847)
 
 ## Decisions made by hand
 

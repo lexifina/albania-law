@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitit 2010, miratuar për Ministrinë e Drejt�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-164` (tags `vendim-2010-164/<day>`; `python tools/on.py <day> vendim-2010-164`).
+Act id: `vendim-2010-164` (tags `vendim-2010-164/<day>`; `python registry/tools/on.py <day> vendim-2010-164`).
 
 ## Decisions made by hand
 

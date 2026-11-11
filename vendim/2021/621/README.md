@@ -10,7 +10,7 @@ Miratimin e Strategjisë Kombëtare për Arsimin 2021-2026 dhe të planit të ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-621` (tags `vendim-2021-621/<day>`; `python tools/on.py <day> vendim-2021-621`).
+Act id: `vendim-2021-621` (tags `vendim-2021-621/<day>`; `python registry/tools/on.py <day> vendim-2021-621`).
 
 ## Decisions made by hand
 

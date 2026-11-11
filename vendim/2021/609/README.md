@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Shë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-609` (tags `vendim-2021-609/<day>`; `python tools/on.py <day> vendim-2021-609`).
+Act id: `vendim-2021-609` (tags `vendim-2021-609/<day>`; `python registry/tools/on.py <day> vendim-2021-609`).
 
 ## Decisions made by hand
 

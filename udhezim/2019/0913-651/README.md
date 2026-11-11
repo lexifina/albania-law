@@ -21,7 +21,7 @@ Procedurat e raportimit, të rasteve të fëmijëve në nevojë, për mbrojtje �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0913-651` (tags `udhezim-2019-0913-651/<day>`; `python tools/on.py <day> udhezim-2019-0913-651`).
+Act id: `udhezim-2019-0913-651` (tags `udhezim-2019-0913-651/<day>`; `python registry/tools/on.py <day> udhezim-2019-0913-651`).
 
 ## Decisions made by hand
 

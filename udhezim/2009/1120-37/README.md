@@ -25,7 +25,7 @@ Regjistrimin e kandidatëve dhe plotësimin e kuotave të parealizuara në fazë
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-1120-37` (tags `udhezim-2009-1120-37/<day>`; `python tools/on.py <day> udhezim-2009-1120-37`).
+Act id: `udhezim-2009-1120-37` (tags `udhezim-2009-1120-37/<day>`; `python registry/tools/on.py <day> udhezim-2009-1120-37`).
 
 ## Decisions made by hand
 

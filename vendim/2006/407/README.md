@@ -24,7 +24,7 @@ Miratimin e strukturës dhe të niveleve të pagave të nëpunësve të disa ins
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2006-10-30 |
 
-Act id: `vendim-2006-407` (tags `vendim-2006-407/<day>`; `python tools/on.py <day> vendim-2006-407`).
+Act id: `vendim-2006-407` (tags `vendim-2006-407/<day>`; `python registry/tools/on.py <day> vendim-2006-407`).
 
 ## Decisions made by hand
 

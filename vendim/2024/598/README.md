@@ -20,7 +20,7 @@ Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Bjeshkët e Orosh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-598` (tags `vendim-2024-598/<day>`; `python tools/on.py <day> vendim-2024-598`).
+Act id: `vendim-2024-598` (tags `vendim-2024-598/<day>`; `python registry/tools/on.py <day> vendim-2024-598`).
 
 ## Decisions made by hand
 

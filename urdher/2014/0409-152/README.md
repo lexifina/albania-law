@@ -10,7 +10,7 @@ Miratimin e rregullores mbi operimet me avionët ultra të lehtë · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0409-152` (tags `urdher-2014-0409-152/<day>`; `python tools/on.py <day> urdher-2014-0409-152`).
+Act id: `urdher-2014-0409-152` (tags `urdher-2014-0409-152/<day>`; `python registry/tools/on.py <day> urdher-2014-0409-152`).
 
 ## Decisions made by hand
 

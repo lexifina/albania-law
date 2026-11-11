@@ -11,7 +11,7 @@ Lejimin e kalimit transit të një autokolone ushtarake italiane, përmes territ
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-581` (tags `vendim-2008-581/<day>`; `python tools/on.py <day> vendim-2008-581`).
+Act id: `vendim-2008-581` (tags `vendim-2008-581/<day>`; `python registry/tools/on.py <day> vendim-2008-581`).
 
 ## Decisions made by hand
 

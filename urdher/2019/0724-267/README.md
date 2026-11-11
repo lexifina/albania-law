@@ -5,7 +5,7 @@ Mbi miratimin e rregullores për mënyrën, kriteret dhe procedurat e kategorizi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0724-267` (tags `urdher-2019-0724-267/<day>`; `python tools/on.py <day> urdher-2019-0724-267`).
+Act id: `urdher-2019-0724-267` (tags `urdher-2019-0724-267/<day>`; `python registry/tools/on.py <day> urdher-2019-0724-267`).
 
 ## Decisions made by hand
 

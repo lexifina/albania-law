@@ -27,7 +27,7 @@ Miratimin e rregullave të përfitimit të shërbimeve publike elektronike · 1 
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-495` (tags `vendim-2017-495/<day>`; `python tools/on.py <day> vendim-2017-495`).
+Act id: `vendim-2017-495` (tags `vendim-2017-495/<day>`; `python registry/tools/on.py <day> vendim-2017-495`).
 
 ## Decisions made by hand
 

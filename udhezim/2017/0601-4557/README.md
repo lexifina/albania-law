@@ -12,7 +12,7 @@ Regjistrimin e titujve në shoqërinë “qendra e regjistrimit të aksioneve”
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0601-4557` (tags `udhezim-2017-0601-4557/<day>`; `python tools/on.py <day> udhezim-2017-0601-4557`).
+Act id: `udhezim-2017-0601-4557` (tags `udhezim-2017-0601-4557/<day>`; `python registry/tools/on.py <day> udhezim-2017-0601-4557`).
 
 ## Decisions made by hand
 

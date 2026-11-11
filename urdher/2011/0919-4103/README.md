@@ -5,7 +5,7 @@ Miratimin e programit kombëtar të trajnimeve të sigurisë në aviacionin civi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-0919-4103` (tags `urdher-2011-0919-4103/<day>`; `python tools/on.py <day> urdher-2011-0919-4103`).
+Act id: `urdher-2011-0919-4103` (tags `urdher-2011-0919-4103/<day>`; `python registry/tools/on.py <day> urdher-2011-0919-4103`).
 
 ## Decisions made by hand
 

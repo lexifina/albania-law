@@ -14,7 +14,7 @@ Procedurën e pranimit në programet e studimit të ciklit të parë, për shtet
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0910-29` (tags `udhezim-2014-0910-29/<day>`; `python tools/on.py <day> udhezim-2014-0910-29`).
+Act id: `udhezim-2014-0910-29` (tags `udhezim-2014-0910-29/<day>`; `python registry/tools/on.py <day> udhezim-2014-0910-29`).
 
 ## Decisions made by hand
 

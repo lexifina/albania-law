@@ -5,7 +5,7 @@ Procedurat e menaxhimit të investimeve publike · 2 versions, from 2018-03-30 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-185` (tags `vendim-2018-185/<day>`; `python tools/on.py <day> vendim-2018-185`).
+Act id: `vendim-2018-185` (tags `vendim-2018-185/<day>`; `python registry/tools/on.py <day> vendim-2018-185`).
 
 ## Decisions made by hand
 

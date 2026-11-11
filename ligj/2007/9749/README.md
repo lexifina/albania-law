@@ -5,7 +5,7 @@ Policinë e shtetit · 2 versions, from 2007-07-04 (latest in force: 2015-03-11)
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9749` (tags `ligj-2007-9749/<day>`; `python tools/on.py <day> ligj-2007-9749`).
+Act id: `ligj-2007-9749` (tags `ligj-2007-9749/<day>`; `python registry/tools/on.py <day> ligj-2007-9749`).
 
 ## Decisions made by hand
 

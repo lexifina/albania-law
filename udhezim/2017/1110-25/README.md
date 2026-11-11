@@ -5,7 +5,7 @@ Regjistrimin e formave të diplomave dhe certifikatave në regjistrin shtetëror
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-1110-25` (tags `udhezim-2017-1110-25/<day>`; `python tools/on.py <day> udhezim-2017-1110-25`).
+Act id: `udhezim-2017-1110-25` (tags `udhezim-2017-1110-25/<day>`; `python registry/tools/on.py <day> udhezim-2017-1110-25`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,18 @@ Delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të Ars
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-1005-565` (tags `urdher-2023-1005-565/<day>`; `python tools/on.py <day> urdher-2023-1005-565`).
+Act id: `urdher-2023-1005-565` (tags `urdher-2023-1005-565/<day>`; `python registry/tools/on.py <day> urdher-2023-1005-565`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 12, datë 21.6.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28300]: Për kriteret për pajisjen e nxënësve me dëftesë klase, dëftesë të arsimit bazë, diplomë të Maturës Shtetërore dhe certifikatë të Maturës Shtetërore](https://qbz.gov.al/eli/udhezim/2024/06/21/12)
+- [Udhëzimi nr. 14, datë 18.7.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28444]: Për organizimin dhe zhvillimin e provimeve kombëare të arsimit bazë në Republikën e Shqipërisë, viti shkollor 2023-2024 (sesioni i dytë)](https://qbz.gov.al/eli/udhezim/2024/07/18/14)
+- [Udhëzimi nr. 16, datë 22.7.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28516]: Për organizimin dhe funksionimin e sistemit të zhvillimit të vazhdueshëm profesional të punonjësve arsimorë](https://qbz.gov.al/eli/udhezim/2024/07/22/16)
+- [Udhëzimi nr. 17, datë 22.7.2024 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 28517]: Për kriteret dhe procedurat e kualifikimit të punojësve arsimor](https://qbz.gov.al/eli/udhezim/2024/07/22/17)
 
 ## Decisions made by hand
 

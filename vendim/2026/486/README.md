@@ -12,7 +12,7 @@ Miratimin e rregulloreve “Për kushtet dhe procedurat e posaçme të autorizim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-486` (tags `vendim-2026-486/<day>`; `python tools/on.py <day> vendim-2026-486`).
+Act id: `vendim-2026-486` (tags `vendim-2026-486/<day>`; `python registry/tools/on.py <day> vendim-2026-486`).
 
 ## Decisions made by hand
 

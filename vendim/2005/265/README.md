@@ -9,7 +9,7 @@ Miratimin e strategjisë së shërbimeve shoqërore · 1 versions, from 2005-05-
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-265` (tags `vendim-2005-265/<day>`; `python tools/on.py <day> vendim-2005-265`).
+Act id: `vendim-2005-265` (tags `vendim-2005-265/<day>`; `python registry/tools/on.py <day> vendim-2005-265`).
 
 ## Decisions made by hand
 

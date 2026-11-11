@@ -10,7 +10,7 @@ Miratimin e listës së shërbimeve që do të ofrohen nga strukturat vartëse t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0814-1242` (tags `urdher-2019-0814-1242/<day>`; `python tools/on.py <day> urdher-2019-0814-1242`).
+Act id: `urdher-2019-0814-1242` (tags `urdher-2019-0814-1242/<day>`; `python registry/tools/on.py <day> urdher-2019-0814-1242`).
 
 ## Decisions made by hand
 

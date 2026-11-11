@@ -21,7 +21,7 @@ PËR MIRATIMIN E PROCEDURËs SË FSHIRJES SË REGJISTRIMEVE Të KRYERA NË KUND�
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-1121-4` (tags `udhezim-2007-1121-4/<day>`; `python tools/on.py <day> udhezim-2007-1121-4`).
+Act id: `udhezim-2007-1121-4` (tags `udhezim-2007-1121-4/<day>`; `python registry/tools/on.py <day> udhezim-2007-1121-4`).
 
 ## Decisions made by hand
 

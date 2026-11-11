@@ -11,7 +11,7 @@ Përcaktimin e listës së standardeve të harmonizuara shqiptare, që kanë kar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-93` (tags `vendim-2010-93/<day>`; `python tools/on.py <day> vendim-2010-93`).
+Act id: `vendim-2010-93` (tags `vendim-2010-93/<day>`; `python registry/tools/on.py <day> vendim-2010-93`).
 
 ## Decisions made by hand
 

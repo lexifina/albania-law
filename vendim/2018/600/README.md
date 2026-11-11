@@ -16,7 +16,7 @@ Miratimin e shërbimit të sigurisë publike në 150 institucione të arsimit pa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-600` (tags `vendim-2018-600/<day>`; `python tools/on.py <day> vendim-2018-600`).
+Act id: `vendim-2018-600` (tags `vendim-2018-600/<day>`; `python registry/tools/on.py <day> vendim-2018-600`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Dhënien në përdorim të truallit institucioneve arsimore, shëndetësore dhe 
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-119-2013` (tags `ligji-119-2013/<day>`; `python tools/on.py <day> ligji-119-2013`).
+Act id: `ligji-119-2013` (tags `ligji-119-2013/<day>`; `python registry/tools/on.py <day> ligji-119-2013`).
 
 ## Decisions made by hand
 

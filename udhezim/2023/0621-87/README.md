@@ -5,7 +5,7 @@ Mbi dokumentacionin dhe procedurën për aplikimin, vlerësimin, miratimin dhe r
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2023-0621-87` (tags `udhezim-2023-0621-87/<day>`; `python tools/on.py <day> udhezim-2023-0621-87`).
+Act id: `udhezim-2023-0621-87` (tags `udhezim-2023-0621-87/<day>`; `python registry/tools/on.py <day> udhezim-2023-0621-87`).
 
 ## Decisions made by hand
 

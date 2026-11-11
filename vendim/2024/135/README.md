@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të procedurave të kërkesës, të rregullave të kry
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-135` (tags `vendim-2024-135/<day>`; `python tools/on.py <day> vendim-2024-135`).
+Act id: `vendim-2024-135` (tags `vendim-2024-135/<day>`; `python registry/tools/on.py <day> vendim-2024-135`).
 
 ## Decisions made by hand
 

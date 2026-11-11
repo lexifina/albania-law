@@ -20,7 +20,7 @@ Menaxhimin e kapaciteteve të peshkimit tregtar dhe disa rregullime të mënyrë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-06-04 |
 
-Act id: `vendim-2016-719` (tags `vendim-2016-719/<day>`; `python tools/on.py <day> vendim-2016-719`).
+Act id: `vendim-2016-719` (tags `vendim-2016-719/<day>`; `python registry/tools/on.py <day> vendim-2016-719`).
 
 ## Decisions made by hand
 

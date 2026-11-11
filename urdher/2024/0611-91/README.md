@@ -9,7 +9,7 @@ Delegim të përkohshëm kompetencash · 1 versions, from 2024-06-14 (latest in 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0611-91` (tags `urdher-2024-0611-91/<day>`; `python tools/on.py <day> urdher-2024-0611-91`).
+Act id: `urdher-2024-0611-91` (tags `urdher-2024-0611-91/<day>`; `python registry/tools/on.py <day> urdher-2024-0611-91`).
 
 ## Decisions made by hand
 

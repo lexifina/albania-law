@@ -11,7 +11,15 @@ Transferim fondesh në buxhetin e vitit 2008, miratuar për ministrinë e ekonom
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1586` (tags `vendim-2008-1586/<day>`; `python tools/on.py <day> vendim-2008-1586`).
+Act id: `vendim-2008-1586` (tags `vendim-2008-1586/<day>`; `python registry/tools/on.py <day> vendim-2008-1586`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1662, datë 24.12.2008: Për NJË NDRYSHIM NË VENDIMIN NR.1586, DATË 3.12.2008 TË KËSHILLIT TË MINISTRAVE “PËR TRANSFERIM FONDESH NGA BUXHETI I VITIT 2008, PËR MINISTRINË E EKONOMISË, TREGTISË DHE ENERGJETIKËS](https://qbz.gov.al/eli/vendim/2008/12/24/1662)
 
 ## Decisions made by hand
 

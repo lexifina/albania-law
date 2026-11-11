@@ -10,7 +10,7 @@ Përdorimin e fondit të rindërtimit për financimin e rindërtimit të banesav
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1112` (tags `vendim-2020-1112/<day>`; `python tools/on.py <day> vendim-2020-1112`).
+Act id: `vendim-2020-1112` (tags `vendim-2020-1112/<day>`; `python registry/tools/on.py <day> vendim-2020-1112`).
 
 ## Decisions made by hand
 

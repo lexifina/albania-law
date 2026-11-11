@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për përcaktimin e kushteve shtesë për njohjen e o
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0729-357` (tags `urdher-2022-0729-357/<day>`; `python tools/on.py <day> urdher-2022-0729-357`).
+Act id: `urdher-2022-0729-357` (tags `urdher-2022-0729-357/<day>`; `python registry/tools/on.py <day> urdher-2022-0729-357`).
 
 ## Decisions made by hand
 

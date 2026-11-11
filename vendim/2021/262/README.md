@@ -15,7 +15,7 @@ Heqjen nga fondi kullosor dhe ndryshimin e statusit, nga kategoria e resursit â€
 | NÃ«nshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-262` (tags `vendim-2021-262/<day>`; `python tools/on.py <day> vendim-2021-262`).
+Act id: `vendim-2021-262` (tags `vendim-2021-262/<day>`; `python registry/tools/on.py <day> vendim-2021-262`).
 
 ## Decisions made by hand
 

@@ -44,7 +44,7 @@ Organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gje
 | Neni 30 | [neni-030.md](neni-030.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-72` (tags `ligj-2012-72/<day>`; `python tools/on.py <day> ligj-2012-72`).
+Act id: `ligj-2012-72` (tags `ligj-2012-72/<day>`; `python registry/tools/on.py <day> ligj-2012-72`).
 
 ## Decisions made by hand
 

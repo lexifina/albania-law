@@ -23,7 +23,7 @@ Organizimin dhe funksionimin e agjencisë kombëtare të financimit të arsimit 
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-397` (tags `vendim-2017-397/<day>`; `python tools/on.py <day> vendim-2017-397`).
+Act id: `vendim-2017-397` (tags `vendim-2017-397/<day>`; `python registry/tools/on.py <day> vendim-2017-397`).
 
 ## Decisions made by hand
 

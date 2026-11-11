@@ -21,7 +21,7 @@ PëR KRITERET DHE MASËN E PËRFITIMIT TË PAGESËS sË PAPUNËSISË PËR BASHK�
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-854` (tags `vendim-2004-854/<day>`; `python tools/on.py <day> vendim-2004-854`).
+Act id: `vendim-2004-854` (tags `vendim-2004-854/<day>`; `python registry/tools/on.py <day> vendim-2004-854`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Mbi kufizimet në qarkullimin e mjeteve të rënda për transportin rrugor të m
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0614-106` (tags `udhezim-2024-0614-106/<day>`; `python tools/on.py <day> udhezim-2024-0614-106`).
+Act id: `udhezim-2024-0614-106` (tags `udhezim-2024-0614-106/<day>`; `python registry/tools/on.py <day> udhezim-2024-0614-106`).
 
 ## Decisions made by hand
 

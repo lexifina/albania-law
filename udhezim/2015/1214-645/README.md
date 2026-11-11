@@ -5,7 +5,7 @@ Rregullat dhe procedurat për marrjen e informacionit dhe verifikimin e të dhë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-1214-645` (tags `udhezim-2015-1214-645/<day>`; `python tools/on.py <day> udhezim-2015-1214-645`).
+Act id: `udhezim-2015-1214-645` (tags `udhezim-2015-1214-645/<day>`; `python registry/tools/on.py <day> udhezim-2015-1214-645`).
 
 ## Decisions made by hand
 

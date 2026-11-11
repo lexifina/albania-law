@@ -5,7 +5,7 @@ Miratimin e listës së përditësuar të mallrave ushtarake dhe të listës së
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-106` (tags `vendim-2011-106/<day>`; `python tools/on.py <day> vendim-2011-106`).
+Act id: `vendim-2011-106` (tags `vendim-2011-106/<day>`; `python registry/tools/on.py <day> vendim-2011-106`).
 
 ## Decisions made by hand
 

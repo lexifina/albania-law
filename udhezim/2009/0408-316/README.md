@@ -19,7 +19,7 @@ PËR ZBATIMIN E Vendimit tË kËshillit tË ministrave NR.1712, DATË 24.12.2008
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0408-316` (tags `udhezim-2009-0408-316/<day>`; `python tools/on.py <day> udhezim-2009-0408-316`).
+Act id: `udhezim-2009-0408-316` (tags `udhezim-2009-0408-316/<day>`; `python registry/tools/on.py <day> udhezim-2009-0408-316`).
 
 ## Decisions made by hand
 

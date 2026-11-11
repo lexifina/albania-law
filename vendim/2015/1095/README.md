@@ -8,7 +8,7 @@ Përcaktimin e rregullave të bashkërendimit të punës, ndërmjet ALUIZNI-t dh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1095` (tags `vendim-2015-1095/<day>`; `python tools/on.py <day> vendim-2015-1095`).
+Act id: `vendim-2015-1095` (tags `vendim-2015-1095/<day>`; `python registry/tools/on.py <day> vendim-2015-1095`).
 
 ## Decisions made by hand
 

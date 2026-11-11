@@ -9,7 +9,7 @@ Kalimin e përgjegjësisë së administrimit të kinoklubit “studenti” nga �
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-92` (tags `vendim-2009-92/<day>`; `python tools/on.py <day> vendim-2009-92`).
+Act id: `vendim-2009-92` (tags `vendim-2009-92/<day>`; `python registry/tools/on.py <day> vendim-2009-92`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Rastet e shitjes, transferimit të aksioneve të shoqërive të licencuara të l
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-1115-820` (tags `udhezim-2006-1115-820/<day>`; `python tools/on.py <day> udhezim-2006-1115-820`).
+Act id: `udhezim-2006-1115-820` (tags `udhezim-2006-1115-820/<day>`; `python registry/tools/on.py <day> udhezim-2006-1115-820`).
 
 ## Decisions made by hand
 

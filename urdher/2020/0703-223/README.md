@@ -11,7 +11,7 @@ Miratimin e rregullores për veprimtarinë e Këshillit Kombëtar të Trashgimis
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0703-223` (tags `urdher-2020-0703-223/<day>`; `python tools/on.py <day> urdher-2020-0703-223`).
+Act id: `urdher-2020-0703-223` (tags `urdher-2020-0703-223/<day>`; `python registry/tools/on.py <day> urdher-2020-0703-223`).
 
 ## Decisions made by hand
 

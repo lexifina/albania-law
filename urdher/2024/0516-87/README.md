@@ -30,7 +30,7 @@ Përcaktimin e kritereve dhe rregullave të hollësishme për hartimin e listës
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0516-87` (tags `urdher-2024-0516-87/<day>`; `python tools/on.py <day> urdher-2024-0516-87`).
+Act id: `urdher-2024-0516-87` (tags `urdher-2024-0516-87/<day>`; `python registry/tools/on.py <day> urdher-2024-0516-87`).
 
 ## Decisions made by hand
 

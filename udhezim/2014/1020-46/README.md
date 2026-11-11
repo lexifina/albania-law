@@ -22,7 +22,7 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e dytë të studimeve me k
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-1020-46` (tags `udhezim-2014-1020-46/<day>`; `python tools/on.py <day> udhezim-2014-1020-46`).
+Act id: `udhezim-2014-1020-46` (tags `udhezim-2014-1020-46/<day>`; `python registry/tools/on.py <day> udhezim-2014-1020-46`).
 
 ## Decisions made by hand
 

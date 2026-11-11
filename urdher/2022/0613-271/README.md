@@ -10,7 +10,7 @@ Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0613-271` (tags `urdher-2022-0613-271/<day>`; `python tools/on.py <day> urdher-2022-0613-271`).
+Act id: `urdher-2022-0613-271` (tags `urdher-2022-0613-271/<day>`; `python registry/tools/on.py <day> urdher-2022-0613-271`).
 
 ## Decisions made by hand
 

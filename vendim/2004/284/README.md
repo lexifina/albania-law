@@ -5,7 +5,7 @@ Ngritjen e bordit të kullimit në zonën e shërbimit të kullimit Krujë-Kurbi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-284` (tags `vendim-2004-284/<day>`; `python tools/on.py <day> vendim-2004-284`).
+Act id: `vendim-2004-284` (tags `vendim-2004-284/<day>`; `python registry/tools/on.py <day> vendim-2004-284`).
 
 ## Decisions made by hand
 

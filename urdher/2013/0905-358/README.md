@@ -13,7 +13,7 @@ Tarifat e transkriptimit të procesverbalit të seancës gjyqësore, të mbajtur
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0905-358` (tags `urdher-2013-0905-358/<day>`; `python tools/on.py <day> urdher-2013-0905-358`).
+Act id: `urdher-2013-0905-358` (tags `urdher-2013-0905-358/<day>`; `python registry/tools/on.py <day> urdher-2013-0905-358`).
 
 ## Decisions made by hand
 

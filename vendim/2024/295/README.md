@@ -5,7 +5,7 @@ Pezullimin e pjesshëm të marrëveshjes, ndërmjet Këshillit të Ministrave t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-295` (tags `vendim-2024-295/<day>`; `python tools/on.py <day> vendim-2024-295`).
+Act id: `vendim-2024-295` (tags `vendim-2024-295/<day>`; `python registry/tools/on.py <day> vendim-2024-295`).
 
 ## Decisions made by hand
 

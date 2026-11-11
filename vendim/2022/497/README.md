@@ -19,7 +19,7 @@ Krijimin, përbërjen , organizimin, veprimtarinë dhe rregullat e funksionimit 
 | Pika 11 | [pika-011.md](pika-011.md) | 1 | 2026-05-25 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-497` (tags `vendim-2022-497/<day>`; `python tools/on.py <day> vendim-2022-497`).
+Act id: `vendim-2022-497` (tags `vendim-2022-497/<day>`; `python registry/tools/on.py <day> vendim-2022-497`).
 
 ## Decisions made by hand
 

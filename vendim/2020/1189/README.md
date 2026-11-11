@@ -44,7 +44,15 @@ Rregullat e kalimit të pronësisë, afatet, mënyrën e llogaritjes dhe të njo
 | Pika 36 | [pika-036.md](pika-036.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1189` (tags `vendim-2020-1189/<day>`; `python tools/on.py <day> vendim-2020-1189`).
+Act id: `vendim-2020-1189` (tags `vendim-2020-1189/<day>`; `python registry/tools/on.py <day> vendim-2020-1189`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 5975, datë 21.4.2021 (Kryeministri): Anekset 1 dhe 2 që i duhet t’i ishin bashkëlidhur vendimit nr. 1189, datë 24.12.2020, të Këshillit të Ministrave “Për rregullat e kalimit të pronësisë, afatet, mënyrën e llogaritjes dhe të njoftimit të pagesës së truallit, zbritjet që përfitohen, si dhe miratimin e modelit të aktit të kalimit të pronësisë, në zonat e stimuluara”, botuar në Fletoren Zyrtare nr.57, datë 12.4.2021](https://qbz.gov.al/eli/vendim/2021/04/21/5975)
 
 ## Decisions made by hand
 

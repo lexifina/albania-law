@@ -9,7 +9,7 @@ Ripërtëritjen e licencës nr.2, datë 1.4.2008 të agjencisë së administrimi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1104-257` (tags `urdher-2011-1104-257/<day>`; `python tools/on.py <day> urdher-2011-1104-257`).
+Act id: `urdher-2011-1104-257` (tags `urdher-2011-1104-257/<day>`; `python registry/tools/on.py <day> urdher-2011-1104-257`).
 
 ## Decisions made by hand
 

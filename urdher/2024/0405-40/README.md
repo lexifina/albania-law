@@ -10,7 +10,7 @@ Delegimin e kompetencës për mbikëqyrjen e veprimtarisë administrative të Ag
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0405-40` (tags `urdher-2024-0405-40/<day>`; `python tools/on.py <day> urdher-2024-0405-40`).
+Act id: `urdher-2024-0405-40` (tags `urdher-2024-0405-40/<day>`; `python registry/tools/on.py <day> urdher-2024-0405-40`).
 
 ## Decisions made by hand
 

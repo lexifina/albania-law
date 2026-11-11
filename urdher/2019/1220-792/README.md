@@ -10,7 +10,7 @@ Miratimin e standardeve të shërbimeve të integruara të kujdesit shoqëror t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1220-792` (tags `urdher-2019-1220-792/<day>`; `python tools/on.py <day> urdher-2019-1220-792`).
+Act id: `urdher-2019-1220-792` (tags `urdher-2019-1220-792/<day>`; `python registry/tools/on.py <day> urdher-2019-1220-792`).
 
 ## Decisions made by hand
 

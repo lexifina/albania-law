@@ -5,7 +5,7 @@ Miratimin e “Standardeve kombëtare për administrimin e masës së falimentim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-124` (tags `vendim-2013-124/<day>`; `python tools/on.py <day> vendim-2013-124`).
+Act id: `vendim-2013-124` (tags `vendim-2013-124/<day>`; `python registry/tools/on.py <day> vendim-2013-124`).
 
 ## Decisions made by hand
 

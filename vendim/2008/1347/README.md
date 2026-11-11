@@ -11,7 +11,7 @@ Lejimin e kalimit transit të një automjeti dhe dy trupave ushtarake sllovene, 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1347` (tags `vendim-2008-1347/<day>`; `python tools/on.py <day> vendim-2008-1347`).
+Act id: `vendim-2008-1347` (tags `vendim-2008-1347/<day>`; `python registry/tools/on.py <day> vendim-2008-1347`).
 
 ## Decisions made by hand
 

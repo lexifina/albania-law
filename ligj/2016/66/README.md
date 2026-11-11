@@ -5,7 +5,7 @@ Shërbimet në republikën e shqipërisë · 2 versions, from 2016-09-24 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2016-66` (tags `ligj-2016-66/<day>`; `python tools/on.py <day> ligj-2016-66`).
+Act id: `ligj-2016-66` (tags `ligj-2016-66/<day>`; `python registry/tools/on.py <day> ligj-2016-66`).
 
 ## Decisions made by hand
 

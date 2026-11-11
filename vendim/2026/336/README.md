@@ -17,7 +17,7 @@ Krijimin, funksionimin dhe administrimin e fondittë gjelbër të pemëve, në k
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-336` (tags `vendim-2026-336/<day>`; `python tools/on.py <day> vendim-2026-336`).
+Act id: `vendim-2026-336` (tags `vendim-2026-336/<day>`; `python registry/tools/on.py <day> vendim-2026-336`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e strategjisë së furnizimit me ujë dhe të kanalizimeve në zonat r
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-679` (tags `vendim-2003-679/<day>`; `python tools/on.py <day> vendim-2003-679`).
+Act id: `vendim-2003-679` (tags `vendim-2003-679/<day>`; `python registry/tools/on.py <day> vendim-2003-679`).
 
 ## Decisions made by hand
 

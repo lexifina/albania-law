@@ -9,7 +9,16 @@ Miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-444` (tags `vendim-2005-444/<day>`; `python tools/on.py <day> vendim-2005-444`).
+Act id: `vendim-2005-444` (tags `vendim-2005-444/<day>`; `python registry/tools/on.py <day> vendim-2005-444`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 412, datë 11.7.2007: PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT TË PRONËS “GODINË 2-KATËSHE”, NGA AGJENCIA TELEGRAFIKE SHQIPTARE te MINISTRIA E EKONOMISË, TREGTISË DHE ENERGJETIKËS, DHE PËR NJË NDRYSHIM NË VENDIMIN NR.444, DATË 16.6.2005 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI AGJENCISË TELEGRAFIKE SHQIPTARE”](https://qbz.gov.al/eli/vendim/2007/07/11/412)
+- [Vendimi i Këshillit të Ministrave nr. 273, datë 7.5.2014: Për kalimin në përgjegjësi administrimi të mjediseve nga ministria e zhvillimit ekonomik, tregtisë dhe sipërmarrjes dhe agjencia telegrafike shqiptare te ministria e mjedisit dhe institucionet në varësi të saj dhe për një ndryshim në vendimin nr. 444, datë 16.6.2005, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi agjencisë telegrafike shqiptare”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/05/07/273)
 
 ## Decisions made by hand
 

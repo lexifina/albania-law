@@ -19,7 +19,7 @@ Përcaktimin e kritereve dhe të procedurave për garantimin e rregullit e të s
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-538` (tags `vendim-2020-538/<day>`; `python tools/on.py <day> vendim-2020-538`).
+Act id: `vendim-2020-538` (tags `vendim-2020-538/<day>`; `python registry/tools/on.py <day> vendim-2020-538`).
 
 ## Decisions made by hand
 

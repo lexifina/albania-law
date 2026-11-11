@@ -30,7 +30,7 @@ Vitin shkollor 2022-2023 në sistemin arsimor parauniversitar · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-0727-22` (tags `udhezim-2022-0727-22/<day>`; `python tools/on.py <day> udhezim-2022-0727-22`).
+Act id: `udhezim-2022-0727-22` (tags `udhezim-2022-0727-22/<day>`; `python registry/tools/on.py <day> udhezim-2022-0727-22`).
 
 ## Decisions made by hand
 

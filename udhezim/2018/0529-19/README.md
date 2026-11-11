@@ -31,7 +31,7 @@ Masat për zhvillimin e provimeve të maturës shtetërore 2018 · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0529-19` (tags `udhezim-2018-0529-19/<day>`; `python tools/on.py <day> udhezim-2018-0529-19`).
+Act id: `udhezim-2018-0529-19` (tags `udhezim-2018-0529-19/<day>`; `python registry/tools/on.py <day> udhezim-2018-0529-19`).
 
 ## Decisions made by hand
 

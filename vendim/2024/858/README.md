@@ -25,7 +25,7 @@ Përcaktimin e dokumentacionit për përfundimin e procesit të privatizimit, m�
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-858` (tags `vendim-2024-858/<day>`; `python tools/on.py <day> vendim-2024-858`).
+Act id: `vendim-2024-858` (tags `vendim-2024-858/<day>`; `python registry/tools/on.py <day> vendim-2024-858`).
 
 ## Decisions made by hand
 

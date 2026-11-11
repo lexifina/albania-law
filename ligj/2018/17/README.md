@@ -49,7 +49,7 @@ Statistikat zyrtare · 1 versions, from 2018-04-05 (latest in force: 2018-04-05)
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-17-2018` (tags `ligji-17-2018/<day>`; `python tools/on.py <day> ligji-17-2018`).
+Act id: `ligji-17-2018` (tags `ligji-17-2018/<day>`; `python registry/tools/on.py <day> ligji-17-2018`).
 
 ## Decisions made by hand
 

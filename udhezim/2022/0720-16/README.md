@@ -14,7 +14,7 @@ Rregullat dhe procedurat për lëshimin e dokumentit të identifikimit të detar
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0720-16` (tags `udhezim-2022-0720-16/<day>`; `python tools/on.py <day> udhezim-2022-0720-16`).
+Act id: `udhezim-2022-0720-16` (tags `udhezim-2022-0720-16/<day>`; `python registry/tools/on.py <day> udhezim-2022-0720-16`).
 
 ## Decisions made by hand
 

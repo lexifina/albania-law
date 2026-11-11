@@ -12,7 +12,7 @@ Kalimin në përgjegjësi administrimi, nga Departamenti i Administratës Publik
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-507` (tags `vendim-2020-507/<day>`; `python tools/on.py <day> vendim-2020-507`).
+Act id: `vendim-2020-507` (tags `vendim-2020-507/<day>`; `python registry/tools/on.py <day> vendim-2020-507`).
 
 ## Decisions made by hand
 

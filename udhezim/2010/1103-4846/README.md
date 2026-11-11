@@ -15,7 +15,7 @@ Procedurën dhe afatet e dorëzimit të dokumentacionit pas çregjistrimit të p
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1103-4846` (tags `udhezim-2010-1103-4846/<day>`; `python tools/on.py <day> udhezim-2010-1103-4846`).
+Act id: `udhezim-2010-1103-4846` (tags `udhezim-2010-1103-4846/<day>`; `python registry/tools/on.py <day> udhezim-2010-1103-4846`).
 
 ## Decisions made by hand
 

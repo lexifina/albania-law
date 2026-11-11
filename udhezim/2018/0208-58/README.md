@@ -5,7 +5,7 @@ Përdorimin e ëmbëlsuesit ushqimor “e 955 sucralose”, në produktet ushqim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0208-58` (tags `udhezim-2018-0208-58/<day>`; `python tools/on.py <day> udhezim-2018-0208-58`).
+Act id: `udhezim-2018-0208-58` (tags `udhezim-2018-0208-58/<day>`; `python registry/tools/on.py <day> udhezim-2018-0208-58`).
 
 ## Decisions made by hand
 

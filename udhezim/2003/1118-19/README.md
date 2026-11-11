@@ -13,7 +13,7 @@ Procedurën e hedhjes së shortit për ndarjen e mandatit të fundit për këshi
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 
-Act id: `udhezim-2003-1118-19` (tags `udhezim-2003-1118-19/<day>`; `python tools/on.py <day> udhezim-2003-1118-19`).
+Act id: `udhezim-2003-1118-19` (tags `udhezim-2003-1118-19/<day>`; `python registry/tools/on.py <day> udhezim-2003-1118-19`).
 
 ## Decisions made by hand
 

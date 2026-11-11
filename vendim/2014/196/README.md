@@ -10,7 +10,7 @@ Miratimin e autorizimit për ndërtimin dhe shfrytëzimin e centralit elektrik f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-196` (tags `vendim-2014-196/<day>`; `python tools/on.py <day> vendim-2014-196`).
+Act id: `vendim-2014-196` (tags `vendim-2014-196/<day>`; `python registry/tools/on.py <day> vendim-2014-196`).
 
 ## Decisions made by hand
 

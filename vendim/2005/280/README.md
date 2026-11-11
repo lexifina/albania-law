@@ -8,7 +8,7 @@ Miratimin e marrëveshjes së aksionarëve të bankës italoshqiptare · 1 versi
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-280` (tags `vendim-2005-280/<day>`; `python tools/on.py <day> vendim-2005-280`).
+Act id: `vendim-2005-280` (tags `vendim-2005-280/<day>`; `python registry/tools/on.py <day> vendim-2005-280`).
 
 ## Decisions made by hand
 

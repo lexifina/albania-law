@@ -9,7 +9,7 @@ Hapjen e vendkalimeve kufitare në Shishtavec dhe Orgjost, qarku Kukës, në kuf
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-423` (tags `vendim-2002-423/<day>`; `python tools/on.py <day> vendim-2002-423`).
+Act id: `vendim-2002-423` (tags `vendim-2002-423/<day>`; `python registry/tools/on.py <day> vendim-2002-423`).
 
 ## Decisions made by hand
 

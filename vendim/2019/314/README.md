@@ -20,7 +20,7 @@ Organizimin, funksionimin, si dhe përcaktimin e rregullimeve specifike lidhur m
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-314` (tags `vendim-2019-314/<day>`; `python tools/on.py <day> vendim-2019-314`).
+Act id: `vendim-2019-314` (tags `vendim-2019-314/<day>`; `python registry/tools/on.py <day> vendim-2019-314`).
 
 ## Decisions made by hand
 

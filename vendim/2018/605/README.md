@@ -14,7 +14,15 @@ PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E DREJTËSIS
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-605` (tags `vendim-2018-605/<day>`; `python tools/on.py <day> vendim-2018-605`).
+Act id: `vendim-2018-605` (tags `vendim-2018-605/<day>`; `python registry/tools/on.py <day> vendim-2018-605`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 760, datë 19.12.2018: Për ndryshimin e përgjegjësisë së administrimit, nga ministria e mbrojtjes te ministria e financave dhe ekonomisë, të pronës nr. 98, me emërtimin “grup depo (ish-reparti ushtarak nr. 5011)”, me vendndodhje në brar, tiranë, dhe të disa sipërfaqeve, truall funksional dhe objekte, të pronës nr. 109, me emërtim “sha riparim artilerie”, me vendndodhje në brar, tiranë](https://qbz.gov.al/eli/vendim/2018/12/19/760)
 
 ## Decisions made by hand
 

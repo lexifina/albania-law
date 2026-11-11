@@ -8,7 +8,7 @@ Dhënie shtesë pensioni të posaçëm shtetëror z. spiro telemak qirko · 1 ve
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-798` (tags `vendim-2018-798/<day>`; `python tools/on.py <day> vendim-2018-798`).
+Act id: `vendim-2018-798` (tags `vendim-2018-798/<day>`; `python registry/tools/on.py <day> vendim-2018-798`).
 
 ## Decisions made by hand
 

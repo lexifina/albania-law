@@ -5,7 +5,7 @@ Kalimin në përgjegjësi administrimi, nga ministria e mbrojtjes te ministria e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-285` (tags `vendim-2011-285/<day>`; `python tools/on.py <day> vendim-2011-285`).
+Act id: `vendim-2011-285` (tags `vendim-2011-285/<day>`; `python registry/tools/on.py <day> vendim-2011-285`).
 
 ## Decisions made by hand
 

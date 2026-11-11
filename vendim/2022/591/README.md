@@ -13,7 +13,7 @@ Miratimin e llojeve të shërbimeve shtesë që ofron Policia e Shtetit dhe tari
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-591` (tags `vendim-2022-591/<day>`; `python tools/on.py <day> vendim-2022-591`).
+Act id: `vendim-2022-591` (tags `vendim-2022-591/<day>`; `python registry/tools/on.py <day> vendim-2022-591`).
 
 ## Decisions made by hand
 

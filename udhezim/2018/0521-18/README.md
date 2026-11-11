@@ -19,7 +19,19 @@ Procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0521-18` (tags `udhezim-2018-0521-18/<day>`; `python tools/on.py <day> udhezim-2018-0521-18`).
+Act id: `udhezim-2018-0521-18` (tags `udhezim-2018-0521-18/<day>`; `python registry/tools/on.py <day> udhezim-2018-0521-18`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 31, datë 13.9.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 16162]: Për disa ndryshime në udhëzimin nr. 18, datë 21.5.2018 “për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të ciklit të dytë, në institucionet e arsimit të lartë, në vitin akademik 2018-2019”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2018/09/13/31)
+- [Udhëzimi nr. 22, datë 20.6.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 55805]: Për një ndryshim në udhëzimin nr. 18, datë 21.5.2018, “për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të ciklit të dytë, në institucionet e arsimit të lartë për vitin akademik 2018-2019”](https://qbz.gov.al/eli/udhezim/2018/06/20/22)
+- [Udhëzimi nr. 26, datë 30.7.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 58542]: Për disa shtesa dhe ndryshime në udhëzimin nr. 18, datë 21.5.2018, “për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të ciklit të dytë, në institucionet e arsimit të lartë, në vitin akademik 2018-2019”](https://qbz.gov.al/eli/udhezim/2018/07/30/26)
+- [Udhëzimi nr. 33, datë 23.10.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 62131]: Për një shtesë në udhëzimin nr. 18, datë 21.5.2018, “për procedurat e aplikimit dhe të regjistrimit në vitin akademik 2018-2019”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2018/10/23/33)
+- [Udhëzimi nr. 32, datë 5.10.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 62793]: Për një shtesë në udhëzimin nr. 18, datë 21.5.2018, “për procedurat e aplikimit dhe të regjistrimit në vitin akademik 2018-2019”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2018/10/05/32)
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Procedurat e pranimit dhe të regjistrimit në raundin e parë dhe të dytë të
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0819-27` (tags `udhezim-2015-0819-27/<day>`; `python tools/on.py <day> udhezim-2015-0819-27`).
+Act id: `udhezim-2015-0819-27` (tags `udhezim-2015-0819-27/<day>`; `python registry/tools/on.py <day> udhezim-2015-0819-27`).
 
 ## Decisions made by hand
 

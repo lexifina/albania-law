@@ -9,7 +9,7 @@ Miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmes
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-138` (tags `vendim-2013-138/<day>`; `python tools/on.py <day> vendim-2013-138`).
+Act id: `vendim-2013-138` (tags `vendim-2013-138/<day>`; `python registry/tools/on.py <day> vendim-2013-138`).
 
 ## Decisions made by hand
 

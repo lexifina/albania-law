@@ -10,7 +10,7 @@ Përcaktimin e kërkesave dhe metodave specifike të kontrollit, të programit k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1008-405` (tags `urdher-2020-1008-405/<day>`; `python tools/on.py <day> urdher-2020-1008-405`).
+Act id: `urdher-2020-1008-405` (tags `urdher-2020-1008-405/<day>`; `python registry/tools/on.py <day> urdher-2020-1008-405`).
 
 ## Decisions made by hand
 

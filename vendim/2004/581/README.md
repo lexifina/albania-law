@@ -5,7 +5,7 @@ Përcaktimin e masës së shpërblimit për medaljet që i jepen personelit të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-581` (tags `vendim-2004-581/<day>`; `python tools/on.py <day> vendim-2004-581`).
+Act id: `vendim-2004-581` (tags `vendim-2004-581/<day>`; `python registry/tools/on.py <day> vendim-2004-581`).
 
 ## Decisions made by hand
 

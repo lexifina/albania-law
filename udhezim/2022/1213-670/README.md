@@ -14,7 +14,15 @@ Procedurën e aplikimit dhe përfitimit nga programi i mbrojtjes së veçantë n
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-1213-670` (tags `udhezim-2022-1213-670/<day>`; `python tools/on.py <day> udhezim-2022-1213-670`).
+Act id: `udhezim-2022-1213-670` (tags `udhezim-2022-1213-670/<day>`; `python registry/tools/on.py <day> udhezim-2022-1213-670`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 701, datë 24.9.2026 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 34385]: Për disa shtesa në udhëzimin nr. 670, datë 13.12.2022, ”Për procedurën e aplikimit dhe përfitimit nga programi i mbrojtjes së veçantë nga shteti, për gratë e papuna, me tre apo më shumë fëmijë të moshës deri në 18 vjeç”](https://qbz.gov.al/eli/udhezim/2026/09/24/701)
 
 ## Decisions made by hand
 

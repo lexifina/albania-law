@@ -8,7 +8,7 @@ Miratimin e dokumentit të Programit Buxhetor Afatmesëm, 2021 -2023, të rishik
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-897` (tags `vendim-2020-897/<day>`; `python tools/on.py <day> vendim-2020-897`).
+Act id: `vendim-2020-897` (tags `vendim-2020-897/<day>`; `python registry/tools/on.py <day> vendim-2020-897`).
 
 ## Decisions made by hand
 

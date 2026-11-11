@@ -24,7 +24,7 @@ Kriteret dhe procedurat e pranimit në Policinë e Shtetit, të ushtarakëve të
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0227-276` (tags `udhezim-2019-0227-276/<day>`; `python tools/on.py <day> udhezim-2019-0227-276`).
+Act id: `udhezim-2019-0227-276` (tags `udhezim-2019-0227-276/<day>`; `python registry/tools/on.py <day> udhezim-2019-0227-276`).
 
 ## Decisions made by hand
 

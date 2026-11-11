@@ -41,7 +41,15 @@ Marrjen e masave dhe monitorimin e veprimtarisë, sjelljes apo përdorimit të b
 | Pika 34 | [pika-034.md](pika-034.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-473` (tags `vendim-2017-473/<day>`; `python tools/on.py <day> vendim-2017-473`).
+Act id: `vendim-2017-473` (tags `vendim-2017-473/<day>`; `python registry/tools/on.py <day> vendim-2017-473`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 127, datë 5.6.2017 (Këshilli i Ministrave): Kërkesë për ndreqjen e një gabimi material në tekstin e vendimit nr. 473, datë 1.6.2017, të Këshillit të Ministrave, botuar në Fletoren Zyrtare nr. 126, viti 2017](https://qbz.gov.al/eli/vendim/2017/06/05/127)
 
 ## Decisions made by hand
 

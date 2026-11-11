@@ -10,7 +10,7 @@ Miratimin e rregullores “administrimi i sistemit të bazave të të dhënave s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-12-15 |
 
-Act id: `vendim-2012-945` (tags `vendim-2012-945/<day>`; `python tools/on.py <day> vendim-2012-945`).
+Act id: `vendim-2012-945` (tags `vendim-2012-945/<day>`; `python registry/tools/on.py <day> vendim-2012-945`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-404` (tags `vendim-2020-404/<day>`; `python tools/on.py <day> vendim-2020-404`).
+Act id: `vendim-2020-404` (tags `vendim-2020-404/<day>`; `python registry/tools/on.py <day> vendim-2020-404`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 1111, datë 29.5.2020 (Këshilli i Ministrave): Ndreqje gabimi material në vendimin nr. 404, datë 20.5.2020 të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikim urban Sheshi Borsh, Himarë”](https://qbz.gov.al/eli/vendim/2020/05/29/1111-1)
 
 ## Decisions made by hand
 

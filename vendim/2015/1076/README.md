@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Arben Duka · 1 versions, from 2015-1
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1076` (tags `vendim-2015-1076/<day>`; `python tools/on.py <day> vendim-2015-1076`).
+Act id: `vendim-2015-1076` (tags `vendim-2015-1076/<day>`; `python registry/tools/on.py <day> vendim-2015-1076`).
 
 ## Decisions made by hand
 

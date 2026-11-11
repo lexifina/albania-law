@@ -25,7 +25,7 @@ Përcaktimin e standardeve, të kritereve, rregullave të licencimit, procedurav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-601` (tags `vendim-2007-601/<day>`; `python tools/on.py <day> vendim-2007-601`).
+Act id: `vendim-2007-601` (tags `vendim-2007-601/<day>`; `python registry/tools/on.py <day> vendim-2007-601`).
 
 ## Decisions made by hand
 

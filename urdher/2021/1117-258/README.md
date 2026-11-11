@@ -5,7 +5,7 @@ Delegimin e kompetencave për përfaqësimin ligjor të Ministrisë së Turizmit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-1117-258` (tags `urdher-2021-1117-258/<day>`; `python tools/on.py <day> urdher-2021-1117-258`).
+Act id: `urdher-2021-1117-258` (tags `urdher-2021-1117-258/<day>`; `python registry/tools/on.py <day> urdher-2021-1117-258`).
 
 ## Decisions made by hand
 

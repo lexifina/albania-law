@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Gerond Husi · 1 versions, from 2021-
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-299` (tags `vendim-2021-299/<day>`; `python tools/on.py <day> vendim-2021-299`).
+Act id: `vendim-2021-299` (tags `vendim-2021-299/<day>`; `python registry/tools/on.py <day> vendim-2021-299`).
 
 ## Decisions made by hand
 

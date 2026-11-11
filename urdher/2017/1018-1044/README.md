@@ -5,7 +5,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të ministrisë së brends
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-1018-1044` (tags `urdher-2017-1018-1044/<day>`; `python tools/on.py <day> urdher-2017-1018-1044`).
+Act id: `urdher-2017-1018-1044` (tags `urdher-2017-1018-1044/<day>`; `python registry/tools/on.py <day> urdher-2017-1018-1044`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Dhënien e lejes për hapjen e institucionit “shkolla e lartë private mesdhet
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-177` (tags `vendim-2009-177/<day>`; `python tools/on.py <day> vendim-2009-177`).
+Act id: `vendim-2009-177` (tags `vendim-2009-177/<day>`; `python registry/tools/on.py <day> vendim-2009-177`).
 
 ## Decisions made by hand
 

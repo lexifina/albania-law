@@ -28,7 +28,7 @@ PËR ORGANIZIMIN E KUALIFIKIMIT PËR punonjËsIT QË KANË VJETËRSINË E DUHUR 
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0110-3` (tags `udhezim-2008-0110-3/<day>`; `python tools/on.py <day> udhezim-2008-0110-3`).
+Act id: `udhezim-2008-0110-3` (tags `udhezim-2008-0110-3/<day>`; `python registry/tools/on.py <day> udhezim-2008-0110-3`).
 
 ## Decisions made by hand
 

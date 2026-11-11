@@ -5,7 +5,7 @@ Mënyrën e ekzekutimit të detyrimeve monetare të institucioneve buxhetore në
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0818-2` (tags `udhezim-2011-0818-2/<day>`; `python tools/on.py <day> udhezim-2011-0818-2`).
+Act id: `udhezim-2011-0818-2` (tags `udhezim-2011-0818-2/<day>`; `python registry/tools/on.py <day> udhezim-2011-0818-2`).
 
 ## Decisions made by hand
 

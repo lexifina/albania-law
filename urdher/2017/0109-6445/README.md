@@ -12,7 +12,7 @@ Miratimin e tarifave zyrtare që do të zbatohen nga agjencia e trajtimit të pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2017-0109-6445` (tags `urdher-2017-0109-6445/<day>`; `python tools/on.py <day> urdher-2017-0109-6445`).
+Act id: `urdher-2017-0109-6445` (tags `urdher-2017-0109-6445/<day>`; `python registry/tools/on.py <day> urdher-2017-0109-6445`).
 
 ## Decisions made by hand
 

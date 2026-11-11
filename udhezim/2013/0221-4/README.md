@@ -12,7 +12,7 @@ Zhvillimin e provimeve të Maturës Shtetërore 2013 · 1 versions, from 2013-03
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0221-4` (tags `udhezim-2013-0221-4/<day>`; `python tools/on.py <day> udhezim-2013-0221-4`).
+Act id: `udhezim-2013-0221-4` (tags `udhezim-2013-0221-4/<day>`; `python registry/tools/on.py <day> udhezim-2013-0221-4`).
 
 ## Decisions made by hand
 

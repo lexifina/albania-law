@@ -40,7 +40,7 @@ Pёr përcaktimin e kritereve, rregullave dhe dokumentacionit për lëshimin e l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-1118-5627` (tags `udhezim-2016-1118-5627/<day>`; `python tools/on.py <day> udhezim-2016-1118-5627`).
+Act id: `udhezim-2016-1118-5627` (tags `udhezim-2016-1118-5627/<day>`; `python registry/tools/on.py <day> udhezim-2016-1118-5627`).
 
 ## Decisions made by hand
 

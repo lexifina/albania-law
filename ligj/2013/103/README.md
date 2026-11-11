@@ -9,7 +9,15 @@ Ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe 
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-103` (tags `ligj-2013-103/<day>`; `python tools/on.py <day> ligj-2013-103`).
+Act id: `ligj-2013-103` (tags `ligj-2013-103/<day>`; `python registry/tools/on.py <day> ligj-2013-103`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 88/2018: Për ratifikimin e marrëveshjes ndryshuese nr. 1, të marrëveshjes së huas, të datës 31.12.2012, ndërmjet republikës së shqipërisë dhe bankës evropiane për rindërtim dhe zhvillim (ebrd), për financimin e projektit të përmirësimit të sigurisë së digës në hidrocentralin e komanit, ratifikuar me ligjin nr. 103/2013](https://qbz.gov.al/eli/ligj/2018/11/22/88)
 
 ## Decisions made by hand
 

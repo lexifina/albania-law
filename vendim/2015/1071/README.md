@@ -5,7 +5,7 @@ Miratimin e Strategjisë Kombëtare të Mbrojtjes Sociale 2015-2020 dhe të plan
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1071` (tags `vendim-2015-1071/<day>`; `python tools/on.py <day> vendim-2015-1071`).
+Act id: `vendim-2015-1071` (tags `vendim-2015-1071/<day>`; `python registry/tools/on.py <day> vendim-2015-1071`).
 
 ## Decisions made by hand
 

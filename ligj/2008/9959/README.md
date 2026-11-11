@@ -5,7 +5,7 @@ Të huajt · 2 versions, from 2008-12-01 (latest in force: 2013-04-20) · <https
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9959` (tags `ligj-2008-9959/<day>`; `python tools/on.py <day> ligj-2008-9959`).
+Act id: `ligj-2008-9959` (tags `ligj-2008-9959/<day>`; `python registry/tools/on.py <day> ligj-2008-9959`).
 
 ## Decisions made by hand
 

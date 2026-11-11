@@ -19,7 +19,7 @@ Vlerësimin dhe menaxhimin e zhurmës mjedisore · 1 versions, from 2011-05-10 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0412-1037` (tags `udhezim-2011-0412-1037/<day>`; `python tools/on.py <day> udhezim-2011-0412-1037`).
+Act id: `udhezim-2011-0412-1037` (tags `udhezim-2011-0412-1037/<day>`; `python registry/tools/on.py <day> udhezim-2011-0412-1037`).
 
 ## Decisions made by hand
 

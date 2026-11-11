@@ -22,7 +22,7 @@ Kushtet, normat dhe standardet që duhet të plotësojnë banesat sociale me qir
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-258` (tags `vendim-2005-258/<day>`; `python tools/on.py <day> vendim-2005-258`).
+Act id: `vendim-2005-258` (tags `vendim-2005-258/<day>`; `python registry/tools/on.py <day> vendim-2005-258`).
 
 ## Decisions made by hand
 

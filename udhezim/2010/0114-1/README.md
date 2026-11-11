@@ -22,7 +22,7 @@ Mbi zbatimin e vendimit të Këshillit të Ministrave nr.1290, datë 23.12.2009 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0114-1` (tags `udhezim-2010-0114-1/<day>`; `python tools/on.py <day> udhezim-2010-0114-1`).
+Act id: `udhezim-2010-0114-1` (tags `udhezim-2010-0114-1/<day>`; `python registry/tools/on.py <day> udhezim-2010-0114-1`).
 
 ## Decisions made by hand
 

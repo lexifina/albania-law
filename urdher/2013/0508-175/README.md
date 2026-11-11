@@ -12,7 +12,7 @@ Hapjen e Institutit të Fizikës Bërthamore të Zbatuar në Universitetin e Tir
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0508-175` (tags `urdher-2013-0508-175/<day>`; `python tools/on.py <day> urdher-2013-0508-175`).
+Act id: `urdher-2013-0508-175` (tags `urdher-2013-0508-175/<day>`; `python registry/tools/on.py <day> urdher-2013-0508-175`).
 
 ## Decisions made by hand
 

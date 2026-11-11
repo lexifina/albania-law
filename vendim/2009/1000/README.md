@@ -12,7 +12,7 @@ Hapjen e programit të studimit të ciklit të dytë, “master i nivelit të pa
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1000` (tags `vendim-2009-1000/<day>`; `python tools/on.py <day> vendim-2009-1000`).
+Act id: `vendim-2009-1000` (tags `vendim-2009-1000/<day>`; `python registry/tools/on.py <day> vendim-2009-1000`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2020, ndërmjet Ministrisë së Fina
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-351` (tags `vendim-2020-351/<day>`; `python tools/on.py <day> vendim-2020-351`).
+Act id: `vendim-2020-351` (tags `vendim-2020-351/<day>`; `python registry/tools/on.py <day> vendim-2020-351`).
 
 ## Decisions made by hand
 

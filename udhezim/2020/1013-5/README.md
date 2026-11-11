@@ -20,7 +20,7 @@ Miratimin e procedurave për lëshimin, transferimin, modifikimin ose anulimin e
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-1013-5` (tags `udhezim-2020-1013-5/<day>`; `python tools/on.py <day> udhezim-2020-1013-5`).
+Act id: `udhezim-2020-1013-5` (tags `udhezim-2020-1013-5/<day>`; `python registry/tools/on.py <day> udhezim-2020-1013-5`).
 
 ## Decisions made by hand
 

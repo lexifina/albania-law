@@ -9,7 +9,7 @@ Caktimin e kompetencave tokësore, të qendrës së ushtrimit të veprimtarisë 
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2003-3993` (tags `dekret-2003-3993/<day>`; `python tools/on.py <day> dekret-2003-3993`).
+Act id: `dekret-2003-3993` (tags `dekret-2003-3993/<day>`; `python registry/tools/on.py <day> dekret-2003-3993`).
 
 ## Decisions made by hand
 

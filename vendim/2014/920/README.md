@@ -5,7 +5,7 @@ Përmiratimin dhe publikimin zyrtar të nomenklaturës së kombinuar të mallrav
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-920` (tags `vendim-2014-920/<day>`; `python tools/on.py <day> vendim-2014-920`).
+Act id: `vendim-2014-920` (tags `vendim-2014-920/<day>`; `python registry/tools/on.py <day> vendim-2014-920`).
 
 ## Decisions made by hand
 

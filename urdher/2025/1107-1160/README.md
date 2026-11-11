@@ -5,7 +5,7 @@ Disa mbrojtëse ndaj sëmundjes së gjuhës blu, të shfaqur në shtetin e Itali
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-1107-1160` (tags `urdher-2025-1107-1160/<day>`; `python tools/on.py <day> urdher-2025-1107-1160`).
+Act id: `urdher-2025-1107-1160` (tags `urdher-2025-1107-1160/<day>`; `python registry/tools/on.py <day> urdher-2025-1107-1160`).
 
 ## Decisions made by hand
 

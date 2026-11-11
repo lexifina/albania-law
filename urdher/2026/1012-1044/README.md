@@ -17,7 +17,7 @@ Miratimin e përbërjes, organizimit dhe funksionimit të Komisionit të Regjist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1012-1044` (tags `urdher-2026-1012-1044/<day>`; `python tools/on.py <day> urdher-2026-1012-1044`).
+Act id: `urdher-2026-1012-1044` (tags `urdher-2026-1012-1044/<day>`; `python registry/tools/on.py <day> urdher-2026-1012-1044`).
 
 ## Decisions made by hand
 

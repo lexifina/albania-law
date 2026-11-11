@@ -15,7 +15,7 @@ Dhënie amnistie · 1 versions, from 2024-04-24 (latest in force: 2024-04-24) ·
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-33-2024` (tags `ligji-33-2024/<day>`; `python tools/on.py <day> ligji-33-2024`).
+Act id: `ligji-33-2024` (tags `ligji-33-2024/<day>`; `python registry/tools/on.py <day> ligji-33-2024`).
 
 ## Decisions made by hand
 

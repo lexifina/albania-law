@@ -5,7 +5,7 @@ Sigurimin e informacionit të klasifikuar “sekret shtetëror” në fushën in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-380` (tags `vendim-2001-380/<day>`; `python tools/on.py <day> vendim-2001-380`).
+Act id: `vendim-2001-380` (tags `vendim-2001-380/<day>`; `python registry/tools/on.py <day> vendim-2001-380`).
 
 ## Decisions made by hand
 

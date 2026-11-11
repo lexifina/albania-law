@@ -5,7 +5,7 @@ Caktimin e disa anëtarëve të bordit të Autoritetit Kombëtar të Ushqimit ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-321` (tags `vendim-2010-321/<day>`; `python tools/on.py <day> vendim-2010-321`).
+Act id: `vendim-2010-321` (tags `vendim-2010-321/<day>`; `python registry/tools/on.py <day> vendim-2010-321`).
 
 ## Decisions made by hand
 

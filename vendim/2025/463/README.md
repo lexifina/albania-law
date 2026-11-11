@@ -14,7 +14,7 @@ Miratimin e skemës së veçantë të garancisë shtetërore të huas për garan
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-07-21 |
 
-Act id: `vendim-2025-463` (tags `vendim-2025-463/<day>`; `python tools/on.py <day> vendim-2025-463`).
+Act id: `vendim-2025-463` (tags `vendim-2025-463/<day>`; `python registry/tools/on.py <day> vendim-2025-463`).
 
 ## Decisions made by hand
 

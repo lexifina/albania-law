@@ -10,7 +10,7 @@ Shpallje ditë zie kombëtare · 1 versions, from 2011-12-02 (latest in force: 2
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-807` (tags `vendim-2011-807/<day>`; `python tools/on.py <day> vendim-2011-807`).
+Act id: `vendim-2011-807` (tags `vendim-2011-807/<day>`; `python registry/tools/on.py <day> vendim-2011-807`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Miratimin e vlerës së kompensimit të dëmeve në kulturat bujqësore të ferm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-529` (tags `vendim-2010-529/<day>`; `python tools/on.py <day> vendim-2010-529`).
+Act id: `vendim-2010-529` (tags `vendim-2010-529/<day>`; `python registry/tools/on.py <day> vendim-2010-529`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Përcaktimin e kritereve e të procedurave të bashkërendimit të informacionit
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-189` (tags `vendim-2008-189/<day>`; `python tools/on.py <day> vendim-2008-189`).
+Act id: `vendim-2008-189` (tags `vendim-2008-189/<day>`; `python registry/tools/on.py <day> vendim-2008-189`).
 
 ## Decisions made by hand
 

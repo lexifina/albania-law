@@ -5,7 +5,7 @@ Miratimin e rregullores “për kriteret dhe procedurat e licencimit të subjekt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-953` (tags `vendim-2012-953/<day>`; `python tools/on.py <day> vendim-2012-953`).
+Act id: `vendim-2012-953` (tags `vendim-2012-953/<day>`; `python registry/tools/on.py <day> vendim-2012-953`).
 
 ## Decisions made by hand
 

@@ -43,7 +43,7 @@ Numrin e nxënësve për klasë dhe ngarkesën mësimore të punojësve arsimor�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 1 | 2026-03-09 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-03-09 |
 
-Act id: `udhezim-2023-0710-14` (tags `udhezim-2023-0710-14/<day>`; `python tools/on.py <day> udhezim-2023-0710-14`).
+Act id: `udhezim-2023-0710-14` (tags `udhezim-2023-0710-14/<day>`; `python registry/tools/on.py <day> udhezim-2023-0710-14`).
 
 ## Decisions made by hand
 

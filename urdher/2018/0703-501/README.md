@@ -13,7 +13,7 @@ Miratimin e listës së barnave që tregtohen pa recetë mjekësore në republik
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0703-501` (tags `urdher-2018-0703-501/<day>`; `python tools/on.py <day> urdher-2018-0703-501`).
+Act id: `urdher-2018-0703-501` (tags `urdher-2018-0703-501/<day>`; `python registry/tools/on.py <day> urdher-2018-0703-501`).
 
 ## Decisions made by hand
 

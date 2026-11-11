@@ -11,7 +11,7 @@ Miratimin e rregullores për veprimtarinë e Këshillit Kombëtar të Menaxhimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1115-690` (tags `urdher-2019-1115-690/<day>`; `python tools/on.py <day> urdher-2019-1115-690`).
+Act id: `urdher-2019-1115-690` (tags `urdher-2019-1115-690/<day>`; `python registry/tools/on.py <day> urdher-2019-1115-690`).
 
 ## Decisions made by hand
 

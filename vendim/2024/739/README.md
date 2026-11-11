@@ -5,7 +5,7 @@ Caktimin e anëtarit të ekipit përzgjedhës për zgjedhjen e kandidatëve, an�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-739` (tags `vendim-2024-739/<day>`; `python tools/on.py <day> vendim-2024-739`).
+Act id: `vendim-2024-739` (tags `vendim-2024-739/<day>`; `python registry/tools/on.py <day> vendim-2024-739`).
 
 ## Decisions made by hand
 

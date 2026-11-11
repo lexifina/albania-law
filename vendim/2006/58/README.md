@@ -10,7 +10,7 @@ Miratimin e rregullores “Për procedurat e kontrollit të produktit në fabrik
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-58` (tags `vendim-2006-58/<day>`; `python tools/on.py <day> vendim-2006-58`).
+Act id: `vendim-2006-58` (tags `vendim-2006-58/<day>`; `python registry/tools/on.py <day> vendim-2006-58`).
 
 ## Decisions made by hand
 

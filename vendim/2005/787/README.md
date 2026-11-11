@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të procedurave dhe të masës së ndihmës ekonomike 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-787` (tags `vendim-2005-787/<day>`; `python tools/on.py <day> vendim-2005-787`).
+Act id: `vendim-2005-787` (tags `vendim-2005-787/<day>`; `python registry/tools/on.py <day> vendim-2005-787`).
 
 ## Decisions made by hand
 

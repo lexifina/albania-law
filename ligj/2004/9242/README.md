@@ -10,7 +10,7 @@ Ratifikimin e “konventës europiane antidoping, 1989” · 1 versions, from 20
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9242` (tags `ligj-2004-9242/<day>`; `python tools/on.py <day> ligj-2004-9242`).
+Act id: `ligj-2004-9242` (tags `ligj-2004-9242/<day>`; `python registry/tools/on.py <day> ligj-2004-9242`).
 
 ## Decisions made by hand
 

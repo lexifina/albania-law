@@ -15,7 +15,7 @@ Miratimin e normave të trajtimit me ushqim të Efektivëve Ushtarakë të Forca
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-10-26 |
 
-Act id: `vendim-2021-595` (tags `vendim-2021-595/<day>`; `python tools/on.py <day> vendim-2021-595`).
+Act id: `vendim-2021-595` (tags `vendim-2021-595/<day>`; `python registry/tools/on.py <day> vendim-2021-595`).
 
 ## Decisions made by hand
 

@@ -432,7 +432,7 @@ Tregjet e kapitalit · 1 versions, from 2020-05-14 (latest in force: 2020-05-14)
 | Seksioni IX | [seksioni-09.md](seksioni-09.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-62-2020` (tags `ligji-62-2020/<day>`; `python tools/on.py <day> ligji-62-2020`).
+Act id: `ligji-62-2020` (tags `ligji-62-2020/<day>`; `python registry/tools/on.py <day> ligji-62-2020`).
 
 ## Decisions made by hand
 

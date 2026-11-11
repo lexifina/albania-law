@@ -10,7 +10,7 @@ Miratimin e përdorimit të formularëve të aplikimit vetëm on-line, të stand
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1226-439` (tags `urdher-2019-1226-439/<day>`; `python tools/on.py <day> urdher-2019-1226-439`).
+Act id: `urdher-2019-1226-439` (tags `urdher-2019-1226-439/<day>`; `python registry/tools/on.py <day> urdher-2019-1226-439`).
 
 ## Decisions made by hand
 

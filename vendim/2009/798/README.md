@@ -14,7 +14,7 @@ PËR LICENCIMIN E KOLEGJIT PROFESIONAL, PRIVAT, “NEw GENERATION” · 1 versio
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-798` (tags `vendim-2009-798/<day>`; `python tools/on.py <day> vendim-2009-798`).
+Act id: `vendim-2009-798` (tags `vendim-2009-798/<day>`; `python registry/tools/on.py <day> vendim-2009-798`).
 
 ## Decisions made by hand
 

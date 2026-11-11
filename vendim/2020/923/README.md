@@ -27,7 +27,7 @@ Funksionimin e organizimin e Komitetit të Mbrojtjes Civile dhe bashkëpunimin n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-923` (tags `vendim-2020-923/<day>`; `python tools/on.py <day> vendim-2020-923`).
+Act id: `vendim-2020-923` (tags `vendim-2020-923/<day>`; `python registry/tools/on.py <day> vendim-2020-923`).
 
 ## Decisions made by hand
 

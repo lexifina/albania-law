@@ -14,7 +14,7 @@ Faljen e detyrimeve doganore dhe tatimore, si dhe të gjobave e kamatëvonesave 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1027-33` (tags `udhezim-2008-1027-33/<day>`; `python tools/on.py <day> udhezim-2008-1027-33`).
+Act id: `udhezim-2008-1027-33` (tags `udhezim-2008-1027-33/<day>`; `python registry/tools/on.py <day> udhezim-2008-1027-33`).
 
 ## Decisions made by hand
 

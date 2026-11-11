@@ -10,7 +10,7 @@ Ratifikimin e “Protokollit nr.14 të Konventës “Për mbrojtjen e të drejta
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9453` (tags `ligj-2005-9453/<day>`; `python tools/on.py <day> ligj-2005-9453`).
+Act id: `ligj-2005-9453` (tags `ligj-2005-9453/<day>`; `python registry/tools/on.py <day> ligj-2005-9453`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pёr formën, mënyrat e procedurat e raportimit të të dhënave të subjekteve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0401-1` (tags `udhezim-2009-0401-1/<day>`; `python tools/on.py <day> udhezim-2009-0401-1`).
+Act id: `udhezim-2009-0401-1` (tags `udhezim-2009-0401-1/<day>`; `python registry/tools/on.py <day> udhezim-2009-0401-1`).
 
 ## Decisions made by hand
 

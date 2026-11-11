@@ -13,7 +13,7 @@ Kushtet dhe procedurat për transferimin horizontal dhe vertikal brenda sistemit
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0903-8` (tags `udhezim-2026-0903-8/<day>`; `python tools/on.py <day> udhezim-2026-0903-8`).
+Act id: `udhezim-2026-0903-8` (tags `udhezim-2026-0903-8/<day>`; `python registry/tools/on.py <day> udhezim-2026-0903-8`).
 
 ## Decisions made by hand
 

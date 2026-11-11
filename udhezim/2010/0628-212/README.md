@@ -22,7 +22,7 @@ Marrjen dhe bashkërendimin e masave për garantimin e rendit dhe rritjen e sigu
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0628-212` (tags `udhezim-2010-0628-212/<day>`; `python tools/on.py <day> udhezim-2010-0628-212`).
+Act id: `udhezim-2010-0628-212` (tags `udhezim-2010-0628-212/<day>`; `python registry/tools/on.py <day> udhezim-2010-0628-212`).
 
 ## Decisions made by hand
 

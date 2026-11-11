@@ -8,7 +8,7 @@ MIRATIMIN E MARRëVESHJES Së BASHKëPUNIMIT Në FUSHËN E KARANTINËS DHE TË M
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-294` (tags `vendim-2001-294/<day>`; `python tools/on.py <day> vendim-2001-294`).
+Act id: `vendim-2001-294` (tags `vendim-2001-294/<day>`; `python registry/tools/on.py <day> vendim-2001-294`).
 
 ## Decisions made by hand
 

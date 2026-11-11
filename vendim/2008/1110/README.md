@@ -5,7 +5,7 @@ Cilësinë e lëndës djegëse diezel, të prodhuar nga rafinimi i naftës bruto
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1110` (tags `vendim-2008-1110/<day>`; `python tools/on.py <day> vendim-2008-1110`).
+Act id: `vendim-2008-1110` (tags `vendim-2008-1110/<day>`; `python registry/tools/on.py <day> vendim-2008-1110`).
 
 ## Decisions made by hand
 

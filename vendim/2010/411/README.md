@@ -5,7 +5,7 @@ Kriteret, procedurat dhe tipin e formularit të lejes së legalizimit · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-411` (tags `vendim-2010-411/<day>`; `python tools/on.py <day> vendim-2010-411`).
+Act id: `vendim-2010-411` (tags `vendim-2010-411/<day>`; `python registry/tools/on.py <day> vendim-2010-411`).
 
 ## Decisions made by hand
 

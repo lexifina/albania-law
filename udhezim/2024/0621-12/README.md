@@ -23,7 +23,7 @@ Kriteret për pajisjen e nxënësve me dëftesë klase, dëftesë të arsimit ba
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0621-12` (tags `udhezim-2024-0621-12/<day>`; `python tools/on.py <day> udhezim-2024-0621-12`).
+Act id: `udhezim-2024-0621-12` (tags `udhezim-2024-0621-12/<day>`; `python registry/tools/on.py <day> udhezim-2024-0621-12`).
 
 ## Decisions made by hand
 

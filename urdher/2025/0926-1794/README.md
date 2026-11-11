@@ -9,7 +9,7 @@ Caktimin e detyrave dhe delegimin e kompetencave për zëvendësministren e Mbro
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0926-1794` (tags `urdher-2025-0926-1794/<day>`; `python tools/on.py <day> urdher-2025-0926-1794`).
+Act id: `urdher-2025-0926-1794` (tags `urdher-2025-0926-1794/<day>`; `python registry/tools/on.py <day> urdher-2025-0926-1794`).
 
 ## Decisions made by hand
 

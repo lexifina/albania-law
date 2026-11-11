@@ -10,7 +10,15 @@ Miratimin e strategjisë së shkencës, të teknologjisë dhe inovacionit, 2009-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-863` (tags `vendim-2009-863/<day>`; `python tools/on.py <day> vendim-2009-863`).
+Act id: `vendim-2009-863` (tags `vendim-2009-863/<day>`; `python registry/tools/on.py <day> vendim-2009-863`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1007, datë 8.10.2009: Për një ndryshim në vendimin nr.863, datë 29.7.2009 të këshillit të ministrave “për miratimin e strategjisë së shkencës, të teknologjisë dhe inovacionit, 2009-2015”](https://qbz.gov.al/eli/vendim/2009/10/08/1007)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Hapjen e misionit diplomatik të Republikës së Shqipërisë në Republikën e 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-248` (tags `vendim-2024-248/<day>`; `python tools/on.py <day> vendim-2024-248`).
+Act id: `vendim-2024-248` (tags `vendim-2024-248/<day>`; `python registry/tools/on.py <day> vendim-2024-248`).
 
 ## Decisions made by hand
 

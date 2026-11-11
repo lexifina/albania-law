@@ -10,7 +10,7 @@ Miratimin e rregullores për organizimin dhe funksionimin e Qendrës së Ankandi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0921-419` (tags `urdher-2022-0921-419/<day>`; `python tools/on.py <day> urdher-2022-0921-419`).
+Act id: `urdher-2022-0921-419` (tags `urdher-2022-0921-419/<day>`; `python registry/tools/on.py <day> urdher-2022-0921-419`).
 
 ## Decisions made by hand
 

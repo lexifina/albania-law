@@ -31,7 +31,7 @@ Zbatimin e vendimit të këshillit të ministrave nr. 223, datë 19.4.2006, “p
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0408-13` (tags `udhezim-2016-0408-13/<day>`; `python tools/on.py <day> udhezim-2016-0408-13`).
+Act id: `udhezim-2016-0408-13` (tags `udhezim-2016-0408-13/<day>`; `python registry/tools/on.py <day> udhezim-2016-0408-13`).
 
 ## Decisions made by hand
 

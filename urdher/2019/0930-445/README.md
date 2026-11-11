@@ -11,7 +11,7 @@ Miratimin e Statutit të Dhomës Kombëtare të Noterisë · 1 versions, from 20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0930-445` (tags `urdher-2019-0930-445/<day>`; `python tools/on.py <day> urdher-2019-0930-445`).
+Act id: `urdher-2019-0930-445` (tags `urdher-2019-0930-445/<day>`; `python registry/tools/on.py <day> urdher-2019-0930-445`).
 
 ## Decisions made by hand
 

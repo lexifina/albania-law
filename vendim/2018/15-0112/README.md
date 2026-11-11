@@ -5,7 +5,7 @@ Miratimin e tarifave për shërbimet elektronike të agjencisë kombëtare të s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-15-0112` (tags `vendim-2018-15-0112/<day>`; `python tools/on.py <day> vendim-2018-15-0112`).
+Act id: `vendim-2018-15-0112` (tags `vendim-2018-15-0112/<day>`; `python registry/tools/on.py <day> vendim-2018-15-0112`).
 
 ## Decisions made by hand
 

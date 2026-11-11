@@ -5,7 +5,7 @@ Miratimin e strategjisë së zhvillimit të industrisë minerare · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-455` (tags `vendim-2006-455/<day>`; `python tools/on.py <day> vendim-2006-455`).
+Act id: `vendim-2006-455` (tags `vendim-2006-455/<day>`; `python registry/tools/on.py <day> vendim-2006-455`).
 
 ## Decisions made by hand
 

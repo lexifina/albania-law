@@ -12,7 +12,7 @@ Heqjen nga fondi kullosor të sipërfaqeve në ngastrat e ekonomisë kullosore �
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-59` (tags `vendim-2013-59/<day>`; `python tools/on.py <day> vendim-2013-59`).
+Act id: `vendim-2013-59` (tags `vendim-2013-59/<day>`; `python registry/tools/on.py <day> vendim-2013-59`).
 
 ## Decisions made by hand
 

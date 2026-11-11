@@ -9,7 +9,7 @@ Miratimin e Kodit Etik Ministror · 2 versions, from 2013-09-20 (latest in force
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-04-29 |
 
-Act id: `vendim-2013-830` (tags `vendim-2013-830/<day>`; `python tools/on.py <day> vendim-2013-830`).
+Act id: `vendim-2013-830` (tags `vendim-2013-830/<day>`; `python registry/tools/on.py <day> vendim-2013-830`).
 
 ## Decisions made by hand
 

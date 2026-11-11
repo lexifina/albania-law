@@ -16,7 +16,7 @@ Mënyrën e trajtimit të koleksionit të armëve të zjarrit të ish-familjes m
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-211` (tags `vendim-2008-211/<day>`; `python tools/on.py <day> vendim-2008-211`).
+Act id: `vendim-2008-211` (tags `vendim-2008-211/<day>`; `python registry/tools/on.py <day> vendim-2008-211`).
 
 ## Decisions made by hand
 

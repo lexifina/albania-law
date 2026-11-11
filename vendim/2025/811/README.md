@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Agim Nuri Bajko · 1 version
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-811` (tags `vendim-2025-811/<day>`; `python tools/on.py <day> vendim-2025-811`).
+Act id: `vendim-2025-811` (tags `vendim-2025-811/<day>`; `python registry/tools/on.py <day> vendim-2025-811`).
 
 ## Decisions made by hand
 

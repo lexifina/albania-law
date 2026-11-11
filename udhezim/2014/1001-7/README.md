@@ -5,7 +5,7 @@ Kërkesat që duhet të përmbushë administratori/ shoqëria e administrimit p�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-1001-7` (tags `udhezim-2014-1001-7/<day>`; `python tools/on.py <day> udhezim-2014-1001-7`).
+Act id: `udhezim-2014-1001-7` (tags `udhezim-2014-1001-7/<day>`; `python registry/tools/on.py <day> udhezim-2014-1001-7`).
 
 ## Decisions made by hand
 

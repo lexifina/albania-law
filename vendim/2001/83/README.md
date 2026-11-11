@@ -5,7 +5,7 @@ Per tarifat telefonike dhe për pagesat elektrike nga personat me aftësi të ku
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-83` (tags `vendim-2001-83/<day>`; `python tools/on.py <day> vendim-2001-83`).
+Act id: `vendim-2001-83` (tags `vendim-2001-83/<day>`; `python registry/tools/on.py <day> vendim-2001-83`).
 
 ## Decisions made by hand
 

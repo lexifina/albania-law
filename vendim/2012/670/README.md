@@ -10,7 +10,15 @@ Lejimin e ekspozimit në romë, itali, të disa objekteve të rralla me vlera un
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-670` (tags `vendim-2012-670/<day>`; `python tools/on.py <day> vendim-2012-670`).
+Act id: `vendim-2012-670` (tags `vendim-2012-670/<day>`; `python registry/tools/on.py <day> vendim-2012-670`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 776, datë 15.11.2012: Për një shtesë në vendimin nr. 670, datë 3.10.2012 të këshillit të ministrave ”për lejimin e ekspozimit, në romë, itali, të disa objekteve të rralla me vlera unike, në kuadër të realizimit të ekspozitës ”thesare të kulturës shqiptare”, nga data 20 nëntor 2012 deri më 6 janar 2013”](https://qbz.gov.al/eli/vendim/2012/11/15/776)
 
 ## Decisions made by hand
 

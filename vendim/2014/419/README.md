@@ -32,7 +32,7 @@ Miratimin e kërkesave të posaçme për shqyrtimin e kërkesave për leje mjedi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-419` (tags `vendim-2014-419/<day>`; `python tools/on.py <day> vendim-2014-419`).
+Act id: `vendim-2014-419` (tags `vendim-2014-419/<day>`; `python registry/tools/on.py <day> vendim-2014-419`).
 
 ## Decisions made by hand
 

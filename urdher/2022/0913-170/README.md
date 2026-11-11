@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për përcaktimin e kërkesave dhe procedurave admini
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-11-20 |
 
-Act id: `urdher-2022-0913-170` (tags `urdher-2022-0913-170/<day>`; `python tools/on.py <day> urdher-2022-0913-170`).
+Act id: `urdher-2022-0913-170` (tags `urdher-2022-0913-170/<day>`; `python registry/tools/on.py <day> urdher-2022-0913-170`).
 
 ## Decisions made by hand
 

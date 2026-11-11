@@ -15,7 +15,15 @@ Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, q
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-784` (tags `vendim-2004-784/<day>`; `python tools/on.py <day> vendim-2004-784`).
+Act id: `vendim-2004-784` (tags `vendim-2004-784/<day>`; `python registry/tools/on.py <day> vendim-2004-784`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 779, datë 14.12.2005: Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, të cilat preken nga ndërtimi i autostradës Lushnjë-Fier (faza e dytë) dhe për një ndryshim në vendimin nr.784, datë 5.11.2004 të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pasurive të paluajtshme, pronë private, të cilat preken nga ndërtimi i autostradës Lushnjë-Fier (faza e parë)”](https://qbz.gov.al/eli/vendim/2005/12/14/779)
 
 ## Decisions made by hand
 

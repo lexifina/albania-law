@@ -9,7 +9,7 @@ Lirimin nga detyra të drejtorit të Teatrit Kombëtar Eksperimental ”Kujtim S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-721` (tags `vendim-2022-721/<day>`; `python tools/on.py <day> vendim-2022-721`).
+Act id: `vendim-2022-721` (tags `vendim-2022-721/<day>`; `python registry/tools/on.py <day> vendim-2022-721`).
 
 ## Decisions made by hand
 

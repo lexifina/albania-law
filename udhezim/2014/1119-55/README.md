@@ -29,7 +29,7 @@ Organizimin e testimit të kandidatëve për ushtrimin e profesionit të mësues
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-1119-55` (tags `udhezim-2014-1119-55/<day>`; `python tools/on.py <day> udhezim-2014-1119-55`).
+Act id: `udhezim-2014-1119-55` (tags `udhezim-2014-1119-55/<day>`; `python registry/tools/on.py <day> udhezim-2014-1119-55`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e memorandumit të mirëkuptimit për kuadrin institucional të inic
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-135` (tags `ligj-2014-135/<day>`; `python tools/on.py <day> ligj-2014-135`).
+Act id: `ligj-2014-135` (tags `ligj-2014-135/<day>`; `python registry/tools/on.py <day> ligj-2014-135`).
 
 ## Decisions made by hand
 

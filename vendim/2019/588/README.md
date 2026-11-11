@@ -8,7 +8,7 @@ Miratimin e projektdokumentit të programit buxhetor afatmesëm 2020-2022 · 1 v
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-588` (tags `vendim-2019-588/<day>`; `python tools/on.py <day> vendim-2019-588`).
+Act id: `vendim-2019-588` (tags `vendim-2019-588/<day>`; `python registry/tools/on.py <day> vendim-2019-588`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Kalimin te bashkitë Durrës, Kavajë dhe Krujë të objekteve arsimore · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-318` (tags `vendim-2022-318/<day>`; `python tools/on.py <day> vendim-2022-318`).
+Act id: `vendim-2022-318` (tags `vendim-2022-318/<day>`; `python registry/tools/on.py <day> vendim-2022-318`).
 
 ## Decisions made by hand
 

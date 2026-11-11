@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe bashki
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9392-2005` (tags `ligji-9392-2005/<day>`; `python tools/on.py <day> ligji-9392-2005`).
+Act id: `ligji-9392-2005` (tags `ligji-9392-2005/<day>`; `python registry/tools/on.py <day> ligji-9392-2005`).
 
 ## Decisions made by hand
 

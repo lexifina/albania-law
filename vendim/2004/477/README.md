@@ -8,7 +8,15 @@ Miratimin e marrëveshjes për zhvillimin dhe prodhimin e hidrokarbureve në ven
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-477` (tags `vendim-2004-477/<day>`; `python tools/on.py <day> vendim-2004-477`).
+Act id: `vendim-2004-477` (tags `vendim-2004-477/<day>`; `python registry/tools/on.py <day> vendim-2004-477`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 726, datë 2.11.2014: Për miratimin e marrëveshjes së dytë ndryshuese, ndërmjet “albpetrol”, sha-së, dhe bankers petroleum albania, ltd, për marrëveshjen hidrokarbure të datës 19 qershor 2004, miratuar me vendimin nr.477, datë 16.7.2004, të këshillit të ministrave, “për miratimin e marrëveshjes për zhvillimin dhe prodhimin e hidrokarbureve në vendburimin e patos-marinzës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/11/02/726)
 
 ## Decisions made by hand
 

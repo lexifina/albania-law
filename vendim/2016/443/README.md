@@ -10,7 +10,7 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetëro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-05-02 |
 
-Act id: `vendim-2016-443` (tags `vendim-2016-443/<day>`; `python tools/on.py <day> vendim-2016-443`).
+Act id: `vendim-2016-443` (tags `vendim-2016-443/<day>`; `python registry/tools/on.py <day> vendim-2016-443`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Disa ndryshime në Rregulloren “Për kriteret dhe procedurat e dhënies së li
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0912-86` (tags `urdher-2011-0912-86/<day>`; `python tools/on.py <day> urdher-2011-0912-86`).
+Act id: `urdher-2011-0912-86` (tags `urdher-2011-0912-86/<day>`; `python registry/tools/on.py <day> urdher-2011-0912-86`).
 
 ## Decisions made by hand
 

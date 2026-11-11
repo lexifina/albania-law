@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes shtesë të konventës europiane të 21 marsit 1983 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9169` (tags `ligj-2004-9169/<day>`; `python tools/on.py <day> ligj-2004-9169`).
+Act id: `ligj-2004-9169` (tags `ligj-2004-9169/<day>`; `python registry/tools/on.py <day> ligj-2004-9169`).
 
 ## Decisions made by hand
 

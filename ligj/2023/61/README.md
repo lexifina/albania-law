@@ -62,7 +62,7 @@ Kontrollon e kultivimit dhe përpunimit të bimës së cannabis-it dhe prodhimit
 | Neni 45 | [neni-045.md](neni-045.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-61-2023` (tags `ligji-61-2023/<day>`; `python tools/on.py <day> ligji-61-2023`).
+Act id: `ligji-61-2023` (tags `ligji-61-2023/<day>`; `python registry/tools/on.py <day> ligji-61-2023`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitit 2015, miratuar për Ministrinë e Integr
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-622` (tags `vendim-2015-622/<day>`; `python tools/on.py <day> vendim-2015-622`).
+Act id: `vendim-2015-622` (tags `vendim-2015-622/<day>`; `python registry/tools/on.py <day> vendim-2015-622`).
 
 ## Decisions made by hand
 

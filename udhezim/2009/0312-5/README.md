@@ -24,7 +24,7 @@ Administrimin e materialeve zgjedhore që do të përdoren në zgjedhjet për ku
 | Pjesa II | [pjesa-02.md](pjesa-02.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0312-5` (tags `udhezim-2009-0312-5/<day>`; `python tools/on.py <day> udhezim-2009-0312-5`).
+Act id: `udhezim-2009-0312-5` (tags `udhezim-2009-0312-5/<day>`; `python registry/tools/on.py <day> udhezim-2009-0312-5`).
 
 ## Decisions made by hand
 

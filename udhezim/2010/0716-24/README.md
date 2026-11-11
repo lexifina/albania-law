@@ -12,7 +12,7 @@ Procedurat e faljes së tarifës së shërbimit për qarkullimin e automjeteve t
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0716-24` (tags `udhezim-2010-0716-24/<day>`; `python tools/on.py <day> udhezim-2010-0716-24`).
+Act id: `udhezim-2010-0716-24` (tags `udhezim-2010-0716-24/<day>`; `python registry/tools/on.py <day> udhezim-2010-0716-24`).
 
 ## Decisions made by hand
 

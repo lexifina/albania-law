@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes ndërmjet republikës së shqipërisë dhe island
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10014-2008` (tags `ligji-10014-2008/<day>`; `python tools/on.py <day> ligji-10014-2008`).
+Act id: `ligji-10014-2008` (tags `ligji-10014-2008/<day>`; `python registry/tools/on.py <day> ligji-10014-2008`).
 
 ## Decisions made by hand
 

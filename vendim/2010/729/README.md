@@ -5,7 +5,7 @@ Shpalljen e zonave arkeologjike “a” dhe “b” të qytetit të vlorës dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-729` (tags `vendim-2010-729/<day>`; `python tools/on.py <day> vendim-2010-729`).
+Act id: `vendim-2010-729` (tags `vendim-2010-729/<day>`; `python registry/tools/on.py <day> vendim-2010-729`).
 
 ## Decisions made by hand
 

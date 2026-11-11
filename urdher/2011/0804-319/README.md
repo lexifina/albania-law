@@ -9,7 +9,7 @@ Delegimin e autoritetit, për miratimin e pagesave të shtesës për orë pune m
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0804-319` (tags `urdher-2011-0804-319/<day>`; `python tools/on.py <day> urdher-2011-0804-319`).
+Act id: `urdher-2011-0804-319` (tags `urdher-2011-0804-319/<day>`; `python registry/tools/on.py <day> urdher-2011-0804-319`).
 
 ## Decisions made by hand
 

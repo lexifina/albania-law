@@ -10,7 +10,7 @@ Miratimin e tarifave të shërbimit “Posta direkte” · 1 versions, from 2006
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-595` (tags `vendim-2006-595/<day>`; `python tools/on.py <day> vendim-2006-595`).
+Act id: `vendim-2006-595` (tags `vendim-2006-595/<day>`; `python registry/tools/on.py <day> vendim-2006-595`).
 
 ## Decisions made by hand
 

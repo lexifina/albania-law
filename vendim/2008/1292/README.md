@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të ministrisë së Drejtësisë së troj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2025-11-14 |
 
-Act id: `vendim-2008-1292` (tags `vendim-2008-1292/<day>`; `python tools/on.py <day> vendim-2008-1292`).
+Act id: `vendim-2008-1292` (tags `vendim-2008-1292/<day>`; `python registry/tools/on.py <day> vendim-2008-1292`).
 
 ## Decisions made by hand
 

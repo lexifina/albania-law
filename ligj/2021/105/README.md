@@ -9,7 +9,7 @@ Miratimin e buxhetit faktik të vitit 2020 · 1 versions, from 2021-12-09 (lates
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-105` (tags `ligj-2021-105/<day>`; `python tools/on.py <day> ligj-2021-105`).
+Act id: `ligj-2021-105` (tags `ligj-2021-105/<day>`; `python registry/tools/on.py <day> ligj-2021-105`).
 
 ## Decisions made by hand
 

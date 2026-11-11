@@ -10,7 +10,7 @@ Kalimin në përgjegjësi administrimi, nga Autoriteti Portual Durrës te Minist
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-328` (tags `vendim-2013-328/<day>`; `python tools/on.py <day> vendim-2013-328`).
+Act id: `vendim-2013-328` (tags `vendim-2013-328/<day>`; `python registry/tools/on.py <day> vendim-2013-328`).
 
 ## Decisions made by hand
 

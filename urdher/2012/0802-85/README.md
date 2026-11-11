@@ -5,7 +5,7 @@ Miratimin e rregullores për kalibrimin e instalimeve aeronautike nga ajri · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0802-85` (tags `urdher-2012-0802-85/<day>`; `python tools/on.py <day> urdher-2012-0802-85`).
+Act id: `urdher-2012-0802-85` (tags `urdher-2012-0802-85/<day>`; `python registry/tools/on.py <day> urdher-2012-0802-85`).
 
 ## Decisions made by hand
 

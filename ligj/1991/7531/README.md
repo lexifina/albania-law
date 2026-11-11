@@ -10,7 +10,7 @@ Ratifikimin e Konventës për të drejtat e fëmijës · 1 versions, from 2013-1
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-7531-1991` (tags `ligji-7531-1991/<day>`; `python tools/on.py <day> ligji-7531-1991`).
+Act id: `ligji-7531-1991` (tags `ligji-7531-1991/<day>`; `python registry/tools/on.py <day> ligji-7531-1991`).
 
 ## Decisions made by hand
 

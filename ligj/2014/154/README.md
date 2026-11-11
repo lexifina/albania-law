@@ -58,7 +58,7 @@ Organizimin dhe funksionimin e kontrollit të lartë të shtetit · 1 versions, 
 | Neni 44 | [neni-044.md](neni-044.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-154-2014` (tags `ligji-154-2014/<day>`; `python tools/on.py <day> ligji-154-2014`).
+Act id: `ligji-154-2014` (tags `ligji-154-2014/<day>`; `python registry/tools/on.py <day> ligji-154-2014`).
 
 ## Decisions made by hand
 

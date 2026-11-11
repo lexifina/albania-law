@@ -5,7 +5,7 @@ Mënyrën e organizimit dhe të funksionimit të agjencisë së mbikëqyrjes së
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-852` (tags `vendim-2010-852/<day>`; `python tools/on.py <day> vendim-2010-852`).
+Act id: `vendim-2010-852` (tags `vendim-2010-852/<day>`; `python registry/tools/on.py <day> vendim-2010-852`).
 
 ## Decisions made by hand
 

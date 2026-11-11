@@ -45,7 +45,7 @@ Administrimin e mbetjeve të rrezikshme · 3 versions, from 2006-06-23 (latest i
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9537` (tags `ligj-2006-9537/<day>`; `python tools/on.py <day> ligj-2006-9537`).
+Act id: `ligj-2006-9537` (tags `ligj-2006-9537/<day>`; `python registry/tools/on.py <day> ligj-2006-9537`).
 
 ## Decisions made by hand
 

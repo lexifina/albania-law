@@ -5,7 +5,7 @@ Kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1211` (tags `vendim-2008-1211/<day>`; `python tools/on.py <day> vendim-2008-1211`).
+Act id: `vendim-2008-1211` (tags `vendim-2008-1211/<day>`; `python registry/tools/on.py <day> vendim-2008-1211`).
 
 ## Decisions made by hand
 

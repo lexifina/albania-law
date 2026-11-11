@@ -23,7 +23,7 @@ Kushtet dhe mënyrën e njohjes së udhërrëfyesit turistik të nderit · 1 ver
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-0201-745` (tags `urdher-2017-0201-745/<day>`; `python tools/on.py <day> urdher-2017-0201-745`).
+Act id: `urdher-2017-0201-745` (tags `urdher-2017-0201-745/<day>`; `python registry/tools/on.py <day> urdher-2017-0201-745`).
 
 ## Decisions made by hand
 

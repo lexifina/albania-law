@@ -40,7 +40,7 @@ Sigurimin e depozitave në shoqëritë e kursim-kreditit · 1 versions, from 201
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1218-3242` (tags `udhezim-2014-1218-3242/<day>`; `python tools/on.py <day> udhezim-2014-1218-3242`).
+Act id: `udhezim-2014-1218-3242` (tags `udhezim-2014-1218-3242/<day>`; `python registry/tools/on.py <day> udhezim-2014-1218-3242`).
 
 ## Decisions made by hand
 

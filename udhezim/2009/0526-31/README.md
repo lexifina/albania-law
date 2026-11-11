@@ -10,7 +10,7 @@ Disa shtesa në udhëzimin nr.7, datë 16.6.2003 “Për akcizat”, i ndryshuar
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0526-31` (tags `udhezim-2009-0526-31/<day>`; `python tools/on.py <day> udhezim-2009-0526-31`).
+Act id: `udhezim-2009-0526-31` (tags `udhezim-2009-0526-31/<day>`; `python registry/tools/on.py <day> udhezim-2009-0526-31`).
 
 ## Decisions made by hand
 

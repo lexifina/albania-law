@@ -18,7 +18,7 @@ Standardet, kriteret dhe procedurat për hapjen, riorganizimin, ndarjen, bashkim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-418` (tags `vendim-2017-418/<day>`; `python tools/on.py <day> vendim-2017-418`).
+Act id: `vendim-2017-418` (tags `vendim-2017-418/<day>`; `python registry/tools/on.py <day> vendim-2017-418`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e ”marrëveshjes së rishitjes së aksioneve të insig sha-së, nd
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9178` (tags `ligj-2004-9178/<day>`; `python tools/on.py <day> ligj-2004-9178`).
+Act id: `ligj-2004-9178` (tags `ligj-2004-9178/<day>`; `python registry/tools/on.py <day> ligj-2004-9178`).
 
 ## Decisions made by hand
 

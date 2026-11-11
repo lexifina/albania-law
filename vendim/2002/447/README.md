@@ -10,7 +10,7 @@ Rishpërndarjen e fondeve buxhetore për vitin 2002 · 1 versions, from 2002-10-
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-447` (tags `vendim-2002-447/<day>`; `python tools/on.py <day> vendim-2002-447`).
+Act id: `vendim-2002-447` (tags `vendim-2002-447/<day>`; `python registry/tools/on.py <day> vendim-2002-447`).
 
 ## Decisions made by hand
 

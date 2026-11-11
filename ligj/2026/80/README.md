@@ -60,7 +60,7 @@ Kërkesat e transparencës për emetuesit e titujve · 1 versions, from 2026-07-
 | Seksioni I | [seksioni-01.md](seksioni-01.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-80-2026` (tags `ligji-80-2026/<day>`; `python tools/on.py <day> ligji-80-2026`).
+Act id: `ligji-80-2026` (tags `ligji-80-2026/<day>`; `python registry/tools/on.py <day> ligji-80-2026`).
 
 ## Decisions made by hand
 

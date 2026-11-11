@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe procedurave të njëvlershmërisë së dëftesave d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0821-44` (tags `udhezim-2013-0821-44/<day>`; `python tools/on.py <day> udhezim-2013-0821-44`).
+Act id: `udhezim-2013-0821-44` (tags `udhezim-2013-0821-44/<day>`; `python registry/tools/on.py <day> udhezim-2013-0821-44`).
 
 ## Decisions made by hand
 

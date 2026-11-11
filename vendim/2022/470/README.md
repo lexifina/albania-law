@@ -38,7 +38,7 @@ Përcaktimin e rregullave, procedurave dhe kritereve të ofrimit të shërbimeve
 | Pika 31 | [pika-031.md](pika-031.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-470` (tags `vendim-2022-470/<day>`; `python tools/on.py <day> vendim-2022-470`).
+Act id: `vendim-2022-470` (tags `vendim-2022-470/<day>`; `python registry/tools/on.py <day> vendim-2022-470`).
 
 ## Decisions made by hand
 

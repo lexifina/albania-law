@@ -14,7 +14,7 @@ Kursimin e energjisë dhe ruajtjen e ngrohtësisë në ndërtime · 1 versions, 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-584` (tags `vendim-2000-584/<day>`; `python tools/on.py <day> vendim-2000-584`).
+Act id: `vendim-2000-584` (tags `vendim-2000-584/<day>`; `python registry/tools/on.py <day> vendim-2000-584`).
 
 ## Decisions made by hand
 

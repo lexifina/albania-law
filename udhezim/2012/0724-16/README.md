@@ -14,7 +14,7 @@ Vitin shkollor 2012-2013 në sistemin arsimor parauniversitar · 1 versions, fro
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0724-16` (tags `udhezim-2012-0724-16/<day>`; `python tools/on.py <day> udhezim-2012-0724-16`).
+Act id: `udhezim-2012-0724-16` (tags `udhezim-2012-0724-16/<day>`; `python registry/tools/on.py <day> udhezim-2012-0724-16`).
 
 ## Decisions made by hand
 

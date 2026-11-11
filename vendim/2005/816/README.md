@@ -9,7 +9,7 @@ Miratimin e rregullores “Për kushtet dhe procedurat e dhënies së ndihmës p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-816` (tags `vendim-2005-816/<day>`; `python tools/on.py <day> vendim-2005-816`).
+Act id: `vendim-2005-816` (tags `vendim-2005-816/<day>`; `python registry/tools/on.py <day> vendim-2005-816`).
 
 ## Decisions made by hand
 

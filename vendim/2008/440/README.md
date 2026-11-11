@@ -11,7 +11,7 @@ Lejimin e kalimit transit të një konvoji ushtarak italian, përmes territorit 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-440` (tags `vendim-2008-440/<day>`; `python tools/on.py <day> vendim-2008-440`).
+Act id: `vendim-2008-440` (tags `vendim-2008-440/<day>`; `python registry/tools/on.py <day> vendim-2008-440`).
 
 ## Decisions made by hand
 

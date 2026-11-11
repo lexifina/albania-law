@@ -35,7 +35,7 @@ Organizimin dhe funksionimin e kzqv-së · 1 versions, from 2003-09-03 (latest i
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 
-Act id: `udhezim-2003-0809-3` (tags `udhezim-2003-0809-3/<day>`; `python tools/on.py <day> udhezim-2003-0809-3`).
+Act id: `udhezim-2003-0809-3` (tags `udhezim-2003-0809-3/<day>`; `python registry/tools/on.py <day> udhezim-2003-0809-3`).
 
 ## Decisions made by hand
 

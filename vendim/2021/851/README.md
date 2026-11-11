@@ -11,7 +11,7 @@ Miratimin e transfertës kapitale në llogari të Fondit Shqiptar të Zhvillimit
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-851` (tags `vendim-2021-851/<day>`; `python tools/on.py <day> vendim-2021-851`).
+Act id: `vendim-2021-851` (tags `vendim-2021-851/<day>`; `python registry/tools/on.py <day> vendim-2021-851`).
 
 ## Decisions made by hand
 

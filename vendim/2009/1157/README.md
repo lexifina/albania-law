@@ -9,7 +9,18 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1157` (tags `vendim-2009-1157/<day>`; `python tools/on.py <day> vendim-2009-1157`).
+Act id: `vendim-2009-1157` (tags `vendim-2009-1157/<day>`; `python registry/tools/on.py <day> vendim-2009-1157`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 181, datë 13.3.2012: Për transferimin e infrastrukturës së ujitjes dhe kullimit, nga ministria e bujqësisë, ushqimit dhe mbrojtjes së konsumatorit në pronësi të komunës bushat, dhe për një ndryshim në vendimin nr. 1157, datë 25.11.2009 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të bordeve të kullimit, të cilat i kalojnë në përgjegjësi administrimi ministrisë së bujqësisë, ushqimit dhe mbrojtjes së konsumatorit”](https://qbz.gov.al/eli/vendim/2012/03/13/181)
+- [Vendimi i Këshillit të Ministrave nr. 922, datë 19.12.2012: Për transferimin e stacioneve të pompimit dhe skemave ujitëse përkatëse, nga ministria e bujqësisë, ushqimit dhe mbrojtjes së konsumatorit në pronësi të njësive të qeverisjes vendore, dhe për një ndryshim në vendimin nr. 1157, datë 25.11.2009 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të bordeve të kullimit, të cilat i kalojnë në përgjegjësi administrimi ministrisë së bujqësisë, ushqimit dhe mbrojtjes së konsumatorit”](https://qbz.gov.al/eli/vendim/2012/12/19/922)
+- [Vendimi i Këshillit të Ministrave nr. 567, datë 14.7.2010: PËR TRANSFERIMIN E REZERVUARëVE DHE SKEMAVE UJITëSE PëRKATëSE NGA MINISTRIA E BUJQëSISë, USHQIMIT DHE MBROJTJES SË KONSUMATORIT, Në PRONëSI Të NJëSIVE Të QEVERISJES VENDORE DHE PËR NJË NDRYSHIM NË VENDIMIN NR.1157, DATË 25.11.2009 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË BORDEVE TË KULLIMIT, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË BUJQËSISË, USHQIMIT DHE MBROJTJES SË KONSUMATORIT”](https://qbz.gov.al/eli/vendim/2010/07/14/567)
+- [Vendimi i Këshillit të Ministrave nr. 437, datë 17.5.2017: Për krijimin, organizimin dhe funksionimin e drejtorive të ujitjes dhe të kullimit lezhë, durrës, fier dhe korçë](https://qbz.gov.al/eli/vendim/2017/05/17/437)
 
 ## Decisions made by hand
 

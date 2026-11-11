@@ -10,7 +10,16 @@ Ratifikimin e marrëveshjes së kredisë për eksport ndërmjet këshillit të m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-69` (tags `ligj-2014-69/<day>`; `python tools/on.py <day> ligj-2014-69`).
+Act id: `ligj-2014-69` (tags `ligj-2014-69/<day>`; `python registry/tools/on.py <day> ligj-2014-69`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 74, datë 27.1.2016: Për miratimin e planit kombëtar për integrimin evropian 2016-2020](https://qbz.gov.al/eli/vendim/2016/01/27/74)
+- [Ligji nr. 55/2017: Për ratifikimin e ndryshimit nr. 1 të marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që përfaqësohet nga ministria e financave, dhe unicredit bank austria ag, lidhur me financimin e projektit “shëndetësia elektronike në shqipëri - regjistri mbarëkombëtar i shëndetësisë elektronike”, ratifikuar me ligjin nr. 69/2014](https://qbz.gov.al/eli/ligj/2017/04/13/55-2017)
 
 ## Decisions made by hand
 

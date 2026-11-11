@@ -72,7 +72,7 @@ Librin në Republikën e Shqipërisë · 3 versions, from 2006-11-09 (latest in 
 | Neni 51 | [neni-051.md](neni-051.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9616` (tags `ligj-2006-9616/<day>`; `python tools/on.py <day> ligj-2006-9616`).
+Act id: `ligj-2006-9616` (tags `ligj-2006-9616/<day>`; `python registry/tools/on.py <day> ligj-2006-9616`).
 
 ## Decisions made by hand
 

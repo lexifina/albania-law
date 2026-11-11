@@ -5,7 +5,7 @@ Miratimin e rregullave të prokurimit publik · 2 versions, from 2020-10-26 (lat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-914` (tags `vendim-2014-914/<day>`; `python tools/on.py <day> vendim-2014-914`).
+Act id: `vendim-2014-914` (tags `vendim-2014-914/<day>`; `python registry/tools/on.py <day> vendim-2014-914`).
 
 ## Decisions made by hand
 

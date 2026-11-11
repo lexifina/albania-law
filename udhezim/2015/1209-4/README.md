@@ -30,7 +30,7 @@ Mënyrat e kryerjes së zhvarrosjes dhe zhvarrosjes murale të rasteve të veça
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-1209-4` (tags `udhezim-2015-1209-4/<day>`; `python tools/on.py <day> udhezim-2015-1209-4`).
+Act id: `udhezim-2015-1209-4` (tags `udhezim-2015-1209-4/<day>`; `python registry/tools/on.py <day> udhezim-2015-1209-4`).
 
 ## Decisions made by hand
 

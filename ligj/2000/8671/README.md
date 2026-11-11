@@ -5,7 +5,7 @@ Pushtetet dhe autoritetet e komandimit e të drejtimit strategjik të forcave t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8671` (tags `ligj-2000-8671/<day>`; `python tools/on.py <day> ligj-2000-8671`).
+Act id: `ligj-2000-8671` (tags `ligj-2000-8671/<day>`; `python registry/tools/on.py <day> ligj-2000-8671`).
 
 ## Decisions made by hand
 

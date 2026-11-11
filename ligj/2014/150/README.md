@@ -20,7 +20,7 @@ Pensionet e punonjësve që kanë punuar në miniera, në nëntokë · 1 version
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-150-2014` (tags `ligji-150-2014/<day>`; `python tools/on.py <day> ligji-150-2014`).
+Act id: `ligji-150-2014` (tags `ligji-150-2014/<day>`; `python registry/tools/on.py <day> ligji-150-2014`).
 
 ## Decisions made by hand
 

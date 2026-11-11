@@ -5,7 +5,7 @@ Rregullat dhe procedurat e shqyrtimit të kërkesave për leje zhvillimore që m
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0328-217` (tags `udhezim-2014-0328-217/<day>`; `python tools/on.py <day> udhezim-2014-0328-217`).
+Act id: `udhezim-2014-0328-217` (tags `udhezim-2014-0328-217/<day>`; `python registry/tools/on.py <day> udhezim-2014-0328-217`).
 
 ## Decisions made by hand
 

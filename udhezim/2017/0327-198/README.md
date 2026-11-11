@@ -5,7 +5,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet e parakohshme p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-0327-198` (tags `udhezim-2017-0327-198/<day>`; `python tools/on.py <day> udhezim-2017-0327-198`).
+Act id: `udhezim-2017-0327-198` (tags `udhezim-2017-0327-198/<day>`; `python registry/tools/on.py <day> udhezim-2017-0327-198`).
 
 ## Decisions made by hand
 

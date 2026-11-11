@@ -10,7 +10,7 @@ Standardet e shërbimeve shoqërore · 1 versions, from 2005-10-31 (latest in fo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-658` (tags `vendim-2005-658/<day>`; `python tools/on.py <day> vendim-2005-658`).
+Act id: `vendim-2005-658` (tags `vendim-2005-658/<day>`; `python registry/tools/on.py <day> vendim-2005-658`).
 
 ## Decisions made by hand
 

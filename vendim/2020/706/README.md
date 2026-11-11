@@ -10,7 +10,7 @@ Miratimin e Planit Kombëtar të Deinstitucionalizimit, 2020-2022, dhe të plani
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-706` (tags `vendim-2020-706/<day>`; `python tools/on.py <day> vendim-2020-706`).
+Act id: `vendim-2020-706` (tags `vendim-2020-706/<day>`; `python registry/tools/on.py <day> vendim-2020-706`).
 
 ## Decisions made by hand
 

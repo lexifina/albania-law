@@ -25,7 +25,7 @@ Organizimin dhe funksionimin e zyrave rajonale zgjedhore · 1 versions, from 200
 | Pjesa II | [pjesa-02.md](pjesa-02.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-0920-2` (tags `udhezim-2006-0920-2/<day>`; `python tools/on.py <day> udhezim-2006-0920-2`).
+Act id: `udhezim-2006-0920-2` (tags `udhezim-2006-0920-2/<day>`; `python registry/tools/on.py <day> udhezim-2006-0920-2`).
 
 ## Decisions made by hand
 

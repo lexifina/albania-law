@@ -10,7 +10,7 @@ Procedurat dhe dokumentacionin për pajisjen me licencën e “Importit të subs
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-10-04 |
 
-Act id: `urdher-2019-0524-166` (tags `urdher-2019-0524-166/<day>`; `python tools/on.py <day> urdher-2019-0524-166`).
+Act id: `urdher-2019-0524-166` (tags `urdher-2019-0524-166/<day>`; `python registry/tools/on.py <day> urdher-2019-0524-166`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Unifikimin e procedurave të kontrollit të territorit nga Inspektorati ndërtim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-862` (tags `vendim-2007-862/<day>`; `python tools/on.py <day> vendim-2007-862`).
+Act id: `vendim-2007-862` (tags `vendim-2007-862/<day>`; `python registry/tools/on.py <day> vendim-2007-862`).
 
 ## Decisions made by hand
 

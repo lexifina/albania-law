@@ -5,7 +5,7 @@ Përgjegjësitë dhe detyrat e departamentit të planifikimit dhe të përballim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-532` (tags `vendim-2003-532/<day>`; `python tools/on.py <day> vendim-2003-532`).
+Act id: `vendim-2003-532` (tags `vendim-2003-532/<day>`; `python registry/tools/on.py <day> vendim-2003-532`).
 
 ## Decisions made by hand
 

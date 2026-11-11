@@ -11,7 +11,7 @@ Kalimin e pasurisë me nr.5/409, në zonën kadastrale nr.8513, të rrethit durr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1051` (tags `vendim-2010-1051/<day>`; `python tools/on.py <day> vendim-2010-1051`).
+Act id: `vendim-2010-1051` (tags `vendim-2010-1051/<day>`; `python registry/tools/on.py <day> vendim-2010-1051`).
 
 ## Decisions made by hand
 

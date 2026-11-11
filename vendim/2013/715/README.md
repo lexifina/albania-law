@@ -8,7 +8,7 @@ Emërim në detyrë të prefektit të qarkut Tiranë · 1 versions, from 2013-09
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-715` (tags `vendim-2013-715/<day>`; `python tools/on.py <day> vendim-2013-715`).
+Act id: `vendim-2013-715` (tags `vendim-2013-715/<day>`; `python registry/tools/on.py <day> vendim-2013-715`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,15 @@ Miratimin e formës dhe përmbajtjes së shpalljes, për kërkesën e ndryshimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0402-90` (tags `udhezim-2014-0402-90/<day>`; `python tools/on.py <day> udhezim-2014-0402-90`).
+Act id: `udhezim-2014-0402-90` (tags `udhezim-2014-0402-90/<day>`; `python registry/tools/on.py <day> udhezim-2014-0402-90`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 2, datë 4.11.2024 (Prefekt) [QBZ 29131]: Për botim në Fletoren Zyrtare të kërkesës për ndryshim emri](https://qbz.gov.al/eli/urdher/2024/11/04/2)
 
 ## Decisions made by hand
 

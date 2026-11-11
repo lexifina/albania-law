@@ -5,7 +5,7 @@ Miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avioni
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0604-167` (tags `urdher-2020-0604-167/<day>`; `python tools/on.py <day> urdher-2020-0604-167`).
+Act id: `urdher-2020-0604-167` (tags `urdher-2020-0604-167/<day>`; `python registry/tools/on.py <day> urdher-2020-0604-167`).
 
 ## Decisions made by hand
 

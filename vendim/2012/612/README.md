@@ -182,7 +182,7 @@ Dispozitat zbatuese të ligjit “për akcizat” · 4 versions, from 2022-05-31
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-08-05 |
 
-Act id: `vendim-2012-612` (tags `vendim-2012-612/<day>`; `python tools/on.py <day> vendim-2012-612`).
+Act id: `vendim-2012-612` (tags `vendim-2012-612/<day>`; `python registry/tools/on.py <day> vendim-2012-612`).
 
 ## Decisions made by hand
 

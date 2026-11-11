@@ -21,7 +21,7 @@ Miratimin e kritereve të ushtrimit dhe të monitorimit të veprimtarive kërkim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-829` (tags `vendim-2021-829/<day>`; `python tools/on.py <day> vendim-2021-829`).
+Act id: `vendim-2021-829` (tags `vendim-2021-829/<day>`; `python registry/tools/on.py <day> vendim-2021-829`).
 
 ## Decisions made by hand
 

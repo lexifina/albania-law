@@ -10,7 +10,7 @@ Rritjen e fondeve të mbrojtjes sociale · 1 versions, from 2008-08-04 (latest i
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1049` (tags `vendim-2008-1049/<day>`; `python tools/on.py <day> vendim-2008-1049`).
+Act id: `vendim-2008-1049` (tags `vendim-2008-1049/<day>`; `python registry/tools/on.py <day> vendim-2008-1049`).
 
 ## Decisions made by hand
 

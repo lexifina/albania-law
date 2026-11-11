@@ -18,7 +18,7 @@ Krijimin e maturës shtetërore dhe pranimet në shkollat e larta publike · 5 v
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-78` (tags `vendim-2006-78/<day>`; `python tools/on.py <day> vendim-2006-78`).
+Act id: `vendim-2006-78` (tags `vendim-2006-78/<day>`; `python registry/tools/on.py <day> vendim-2006-78`).
 
 ## Decisions made by hand
 

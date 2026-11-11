@@ -11,7 +11,7 @@ Miratimin e rregullores për funksionimin e institucioneve arsimore parauniversi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-09-11 |
 
-Act id: `urdher-2020-0128-31` (tags `urdher-2020-0128-31/<day>`; `python tools/on.py <day> urdher-2020-0128-31`).
+Act id: `urdher-2020-0128-31` (tags `urdher-2020-0128-31/<day>`; `python registry/tools/on.py <day> urdher-2020-0128-31`).
 
 ## Decisions made by hand
 

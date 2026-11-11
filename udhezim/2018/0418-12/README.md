@@ -17,7 +17,7 @@ Mbi mënyrën e aplikimit të njësive të vetëqeverisjes vendore për fonde st
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0418-12` (tags `udhezim-2018-0418-12/<day>`; `python tools/on.py <day> udhezim-2018-0418-12`).
+Act id: `udhezim-2018-0418-12` (tags `udhezim-2018-0418-12/<day>`; `python registry/tools/on.py <day> udhezim-2018-0418-12`).
 
 ## Decisions made by hand
 

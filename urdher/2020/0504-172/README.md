@@ -11,7 +11,7 @@ Përditësimin e urdhrit të ministrit nr.72, datë 2.3.2017, ”Për miratimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0504-172` (tags `urdher-2020-0504-172/<day>`; `python tools/on.py <day> urdher-2020-0504-172`).
+Act id: `urdher-2020-0504-172` (tags `urdher-2020-0504-172/<day>`; `python registry/tools/on.py <day> urdher-2020-0504-172`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e formës dhe të përmbajtjes së deklaratës së ekspertit për marr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0204-53` (tags `urdher-2021-0204-53/<day>`; `python tools/on.py <day> urdher-2021-0204-53`).
+Act id: `urdher-2021-0204-53` (tags `urdher-2021-0204-53/<day>`; `python registry/tools/on.py <day> urdher-2021-0204-53`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Hapjen e thirrjes së katërt për aplikime për programin IPARD II · 1 version
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-1222-380` (tags `urdher-2021-1222-380/<day>`; `python tools/on.py <day> urdher-2021-1222-380`).
+Act id: `urdher-2021-1222-380` (tags `urdher-2021-1222-380/<day>`; `python registry/tools/on.py <day> urdher-2021-1222-380`).
 
 ## Decisions made by hand
 

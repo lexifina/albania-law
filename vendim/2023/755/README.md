@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e miratuar për vitin 2023, për disa institucio
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-755` (tags `vendim-2023-755/<day>`; `python tools/on.py <day> vendim-2023-755`).
+Act id: `vendim-2023-755` (tags `vendim-2023-755/<day>`; `python registry/tools/on.py <day> vendim-2023-755`).
 
 ## Decisions made by hand
 

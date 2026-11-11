@@ -5,7 +5,7 @@ Turizmin · 2 versions, from 2007-06-19 (latest in force: 2015-10-06) · <https:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9734` (tags `ligj-2007-9734/<day>`; `python tools/on.py <day> ligj-2007-9734`).
+Act id: `ligj-2007-9734` (tags `ligj-2007-9734/<day>`; `python registry/tools/on.py <day> ligj-2007-9734`).
 
 ## Decisions made by hand
 

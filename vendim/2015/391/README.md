@@ -17,7 +17,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-391` (tags `vendim-2015-391/<day>`; `python tools/on.py <day> vendim-2015-391`).
+Act id: `vendim-2015-391` (tags `vendim-2015-391/<day>`; `python registry/tools/on.py <day> vendim-2015-391`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 323, datë 27.4.2016: Për një ndryshim dhe shtesë në vendimin nr. 391, datë 6.5.2015, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës lidhëse midis rrugëve “qemal stafa” dhe “esat bordi”, si dhe ndërtimi i lulishtes në pjesën jugore të bulevardit “aqif pasha”, te “xhamlliku para sahatit”, në bashkinë e elbasanit”](https://qbz.gov.al/eli/vendim/2016/04/27/323)
+- [Kërkesë nr. 6276, datë 11.1.2016 (Ministria e Brendshme): Për shpronësimin e pasurive të paluajtshme, për interes publik, të pronarëve që do të shpronësohen për shkak të disa shtesave dhe ndryshimeve në vendimet e Këshillit të Ministrave nr. 205, datë 9.4.2014, nr. 432, 2.7.2014 dhe nr. 391, datë 6.5.2015, në Bashkinë e Elbasanit](https://qbz.gov.al/eli/kerkese/2016/01/11/6276-3)
 
 ## Decisions made by hand
 

@@ -33,7 +33,7 @@ Buxhetin e vitit 2026 · 2 versions, from 2026-01-13 (latest in force: 2026-07-0
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-02 |
 
-Act id: `ligj-2025-87` (tags `ligj-2025-87/<day>`; `python tools/on.py <day> ligj-2025-87`).
+Act id: `ligj-2025-87` (tags `ligj-2025-87/<day>`; `python registry/tools/on.py <day> ligj-2025-87`).
 
 ## Decisions made by hand
 

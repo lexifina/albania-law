@@ -5,7 +5,7 @@ Azilin në republikën e shqipërisë · 2 versions, from 2014-10-29 (latest in 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2014-121` (tags `ligj-2014-121/<day>`; `python tools/on.py <day> ligj-2014-121`).
+Act id: `ligj-2014-121` (tags `ligj-2014-121/<day>`; `python registry/tools/on.py <day> ligj-2014-121`).
 
 ## Decisions made by hand
 

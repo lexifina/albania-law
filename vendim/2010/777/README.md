@@ -36,7 +36,7 @@ Miratimin e rregullave për kryerjen e inspektimit, çështjet, metodologjinë, 
 | Pika 29 | [pika-029.md](pika-029.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-777` (tags `vendim-2010-777/<day>`; `python tools/on.py <day> vendim-2010-777`).
+Act id: `vendim-2010-777` (tags `vendim-2010-777/<day>`; `python registry/tools/on.py <day> vendim-2010-777`).
 
 ## Decisions made by hand
 

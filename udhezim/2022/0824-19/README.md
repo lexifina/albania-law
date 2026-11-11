@@ -13,7 +13,7 @@ Miratimin e formatit standard për hartimin e planit të rehabilitimit të mjedi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-0824-19` (tags `udhezim-2022-0824-19/<day>`; `python tools/on.py <day> udhezim-2022-0824-19`).
+Act id: `udhezim-2022-0824-19` (tags `udhezim-2022-0824-19/<day>`; `python registry/tools/on.py <day> udhezim-2022-0824-19`).
 
 ## Decisions made by hand
 

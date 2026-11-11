@@ -14,7 +14,7 @@ Përbërjen, funksionet, funksionimin, fushën e veprimtarisë, kriteret e anët
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-729` (tags `vendim-2018-729/<day>`; `python tools/on.py <day> vendim-2018-729`).
+Act id: `vendim-2018-729` (tags `vendim-2018-729/<day>`; `python registry/tools/on.py <day> vendim-2018-729`).
 
 ## Decisions made by hand
 

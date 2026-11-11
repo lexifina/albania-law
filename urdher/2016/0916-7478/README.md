@@ -10,7 +10,7 @@ Miratimin e rregullores “për trajtimin e ankesave të depozituara pranë insp
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-0916-7478` (tags `urdher-2016-0916-7478/<day>`; `python tools/on.py <day> urdher-2016-0916-7478`).
+Act id: `urdher-2016-0916-7478` (tags `urdher-2016-0916-7478/<day>`; `python registry/tools/on.py <day> urdher-2016-0916-7478`).
 
 ## Decisions made by hand
 

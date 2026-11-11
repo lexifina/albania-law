@@ -5,7 +5,7 @@ Ngarkimin e Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale për kryerjen 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-603` (tags `vendim-2021-603/<day>`; `python tools/on.py <day> vendim-2021-603`).
+Act id: `vendim-2021-603` (tags `vendim-2021-603/<day>`; `python registry/tools/on.py <day> vendim-2021-603`).
 
 ## Decisions made by hand
 

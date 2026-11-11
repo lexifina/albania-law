@@ -9,7 +9,7 @@ Ndryshimin e përgjegjësisë së administrimit të objektit tË ish-magazinave 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-203` (tags `vendim-2004-203/<day>`; `python tools/on.py <day> vendim-2004-203`).
+Act id: `vendim-2004-203` (tags `vendim-2004-203/<day>`; `python registry/tools/on.py <day> vendim-2004-203`).
 
 ## Decisions made by hand
 

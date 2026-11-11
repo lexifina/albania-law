@@ -15,7 +15,7 @@ Miratimin e paketës së barnave për trajtimin ambulator në banesë të person
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-908` (tags `vendim-2020-908/<day>`; `python tools/on.py <day> vendim-2020-908`).
+Act id: `vendim-2020-908` (tags `vendim-2020-908/<day>`; `python registry/tools/on.py <day> vendim-2020-908`).
 
 ## Decisions made by hand
 

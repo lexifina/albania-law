@@ -8,7 +8,7 @@ Emërimin në detyrë të zëvendëskryetarit të Komisionit të Prokurimit Publ
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-187` (tags `vendim-2015-187/<day>`; `python tools/on.py <day> vendim-2015-187`).
+Act id: `vendim-2015-187` (tags `vendim-2015-187/<day>`; `python registry/tools/on.py <day> vendim-2015-187`).
 
 ## Decisions made by hand
 

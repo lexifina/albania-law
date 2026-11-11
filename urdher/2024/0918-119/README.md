@@ -10,7 +10,7 @@ Përfundimin e delegimit të përkohshëm të kompetencës për mbikëqyrjen e v
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0918-119` (tags `urdher-2024-0918-119/<day>`; `python tools/on.py <day> urdher-2024-0918-119`).
+Act id: `urdher-2024-0918-119` (tags `urdher-2024-0918-119/<day>`; `python registry/tools/on.py <day> urdher-2024-0918-119`).
 
 ## Decisions made by hand
 

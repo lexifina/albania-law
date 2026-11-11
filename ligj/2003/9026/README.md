@@ -25,7 +25,7 @@ Aderimin e republikës së shqipërisë në “konventën për njoftimin e shpej
 | Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 
-Act id: `ligji-9026-2003` (tags `ligji-9026-2003/<day>`; `python tools/on.py <day> ligji-9026-2003`).
+Act id: `ligji-9026-2003` (tags `ligji-9026-2003/<day>`; `python registry/tools/on.py <day> ligji-9026-2003`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurën për dhënien e lejes së importimit, eksportimit dhe të prodhimit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-597` (tags `vendim-2004-597/<day>`; `python tools/on.py <day> vendim-2004-597`).
+Act id: `vendim-2004-597` (tags `vendim-2004-597/<day>`; `python registry/tools/on.py <day> vendim-2004-597`).
 
 ## Decisions made by hand
 

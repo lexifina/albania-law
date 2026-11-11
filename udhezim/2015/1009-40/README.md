@@ -5,7 +5,7 @@ Organizimin e testimit të kandidatëve për ushtrimin e profesionit të mësues
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-1009-40` (tags `udhezim-2015-1009-40/<day>`; `python tools/on.py <day> udhezim-2015-1009-40`).
+Act id: `udhezim-2015-1009-40` (tags `udhezim-2015-1009-40/<day>`; `python registry/tools/on.py <day> udhezim-2015-1009-40`).
 
 ## Decisions made by hand
 

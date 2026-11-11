@@ -21,7 +21,7 @@ Pezullimin e veprimtarisë së disa institucioneve private të arsimit të lart�
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-540` (tags `vendim-2014-540/<day>`; `python tools/on.py <day> vendim-2014-540`).
+Act id: `vendim-2014-540` (tags `vendim-2014-540/<day>`; `python registry/tools/on.py <day> vendim-2014-540`).
 
 ## Decisions made by hand
 

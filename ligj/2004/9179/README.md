@@ -21,7 +21,7 @@ Një trajtim të veçantë të punonjësve, që kanë punuar në disa ndërmarrj
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9179` (tags `ligj-2004-9179/<day>`; `python tools/on.py <day> ligj-2004-9179`).
+Act id: `ligj-2004-9179` (tags `ligj-2004-9179/<day>`; `python registry/tools/on.py <day> ligj-2004-9179`).
 
 ## Decisions made by hand
 

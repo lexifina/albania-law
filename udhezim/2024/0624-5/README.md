@@ -30,7 +30,7 @@ Përcaktimin e rregullave të detajuara për mënyrën e zhvillimit të arsimit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0624-5` (tags `udhezim-2024-0624-5/<day>`; `python tools/on.py <day> udhezim-2024-0624-5`).
+Act id: `udhezim-2024-0624-5` (tags `udhezim-2024-0624-5/<day>`; `python registry/tools/on.py <day> udhezim-2024-0624-5`).
 
 ## Decisions made by hand
 

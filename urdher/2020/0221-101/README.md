@@ -10,7 +10,7 @@ Miratimin e Procedurave Standarde të Veprimit (PSV) për trajtimin e rasteve t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0221-101` (tags `urdher-2020-0221-101/<day>`; `python tools/on.py <day> urdher-2020-0221-101`).
+Act id: `urdher-2020-0221-101` (tags `urdher-2020-0221-101/<day>`; `python registry/tools/on.py <day> urdher-2020-0221-101`).
 
 ## Decisions made by hand
 

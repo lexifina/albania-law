@@ -8,7 +8,7 @@ Emërimin e anëtarëve të bordit mbikëqyrës të Agjencisë për Mbështetjen
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-161` (tags `vendim-2010-161/<day>`; `python tools/on.py <day> vendim-2010-161`).
+Act id: `vendim-2010-161` (tags `vendim-2010-161/<day>`; `python registry/tools/on.py <day> vendim-2010-161`).
 
 ## Decisions made by hand
 

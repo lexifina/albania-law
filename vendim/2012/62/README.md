@@ -5,7 +5,7 @@ Mënyrën e funksionimit të komisionit të çmimit të barnave · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-62` (tags `vendim-2012-62/<day>`; `python tools/on.py <day> vendim-2012-62`).
+Act id: `vendim-2012-62` (tags `vendim-2012-62/<day>`; `python registry/tools/on.py <day> vendim-2012-62`).
 
 ## Decisions made by hand
 

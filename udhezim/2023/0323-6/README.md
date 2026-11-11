@@ -10,7 +10,15 @@ Rregullat për kryerjen e kontrolleve zyrtare në lidhje me kontaminantët në u
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0323-6` (tags `udhezim-2023-0323-6/<day>`; `python tools/on.py <day> udhezim-2023-0323-6`).
+Act id: `udhezim-2023-0323-6` (tags `udhezim-2023-0323-6/<day>`; `python registry/tools/on.py <day> udhezim-2023-0323-6`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 7, datë 23.3.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 25733]: Rregullat për hartimin, përmbajtjen e planeve të kontrolleve zyrtare përsa i përket kontaminantëve në ushqim](https://qbz.gov.al/eli/udhezim/2023/03/23/7)
 
 ## Decisions made by hand
 

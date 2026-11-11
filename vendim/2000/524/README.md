@@ -8,7 +8,7 @@ Përcaktimin e termave dhe kushteve të bonove të thesarit për detyrimet e sht
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-524` (tags `vendim-2000-524/<day>`; `python tools/on.py <day> vendim-2000-524`).
+Act id: `vendim-2000-524` (tags `vendim-2000-524/<day>`; `python registry/tools/on.py <day> vendim-2000-524`).
 
 ## Decisions made by hand
 

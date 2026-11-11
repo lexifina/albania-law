@@ -12,7 +12,7 @@ Kushtet e zbatimit të urdhërit për evakuimin e ndërtesave që janë objekt i
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0306-80` (tags `udhezim-2020-0306-80/<day>`; `python tools/on.py <day> udhezim-2020-0306-80`).
+Act id: `udhezim-2020-0306-80` (tags `udhezim-2020-0306-80/<day>`; `python registry/tools/on.py <day> udhezim-2020-0306-80`).
 
 ## Decisions made by hand
 

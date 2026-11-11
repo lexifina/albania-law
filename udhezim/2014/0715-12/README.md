@@ -5,7 +5,7 @@ Përcaktimin e treguesve të sigurisë dhe cilësisë së miellit të grurit të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0715-12` (tags `udhezim-2014-0715-12/<day>`; `python tools/on.py <day> udhezim-2014-0715-12`).
+Act id: `udhezim-2014-0715-12` (tags `udhezim-2014-0715-12/<day>`; `python registry/tools/on.py <day> udhezim-2014-0715-12`).
 
 ## Decisions made by hand
 

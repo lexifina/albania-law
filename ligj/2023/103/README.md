@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së nivelit të lartë ndërmjet Republikës së Shq
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-103-2023` (tags `ligji-103-2023/<day>`; `python tools/on.py <day> ligji-103-2023`).
+Act id: `ligji-103-2023` (tags `ligji-103-2023/<day>`; `python registry/tools/on.py <day> ligji-103-2023`).
 
 ## Decisions made by hand
 

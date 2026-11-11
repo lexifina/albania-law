@@ -12,7 +12,15 @@ Bashkëfinancimin e projektit të stadiumit “ruzhdi bizhuta”, elbasan, dhe f
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-411` (tags `vendim-2014-411/<day>`; `python tools/on.py <day> vendim-2014-411`).
+Act id: `vendim-2014-411` (tags `vendim-2014-411/<day>`; `python registry/tools/on.py <day> vendim-2014-411`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 620, datë 24.9.2014: Për një ndryshim në vendimin nr. 411, datë 20.6.2014, të këshillit të ministrave, “për bashkëfinancimin e projektit të stadiumit “ruzhdi bizhuta”, elbasan, dhe financimin e parkut olimpik të tiranës”](https://qbz.gov.al/eli/vendim/2014/09/24/620)
 
 ## Decisions made by hand
 

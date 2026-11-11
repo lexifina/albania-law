@@ -10,7 +10,15 @@ Miratimin e aneksit shtesë të strategjisë kombëtare të luftës kundër traf
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-361` (tags `vendim-2002-361/<day>`; `python tools/on.py <day> vendim-2002-361`).
+Act id: `vendim-2002-361` (tags `vendim-2002-361/<day>`; `python registry/tools/on.py <day> vendim-2002-361`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 296, datë 14.5.2004: Për ngritjen dhe mënyrën e funksionimit të komitetit të sigurisë së Aviacionit civil të aeroportit ndërkombëtar “Nënë Tereza”](https://qbz.gov.al/eli/vendim/2004/05/14/296)
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 30.6.2026, “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2026-74` (tags `ligj-2026-74/<day>`; `python tools/on.py <day> ligj-2026-74`).
+Act id: `ligj-2026-74` (tags `ligj-2026-74/<day>`; `python registry/tools/on.py <day> ligj-2026-74`).
 
 ## Decisions made by hand
 

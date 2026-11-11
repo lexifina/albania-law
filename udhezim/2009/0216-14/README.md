@@ -18,7 +18,7 @@ PËR ZBATIMIN E vendimit të Këshillit tË Ministrave NR.98 DatË 27.1.2009 “
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0216-14` (tags `udhezim-2009-0216-14/<day>`; `python tools/on.py <day> udhezim-2009-0216-14`).
+Act id: `udhezim-2009-0216-14` (tags `udhezim-2009-0216-14/<day>`; `python registry/tools/on.py <day> udhezim-2009-0216-14`).
 
 ## Decisions made by hand
 

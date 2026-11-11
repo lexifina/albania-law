@@ -17,7 +17,7 @@ Subvencionimin e lidhjes së kontratave dhe të vendosjes së matësve të ujit 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-18` (tags `vendim-2018-18/<day>`; `python tools/on.py <day> vendim-2018-18`).
+Act id: `vendim-2018-18` (tags `vendim-2018-18/<day>`; `python registry/tools/on.py <day> vendim-2018-18`).
 
 ## Decisions made by hand
 

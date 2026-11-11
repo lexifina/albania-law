@@ -26,7 +26,7 @@ Mbylljen e vitit shkollor 2013-2014 dhe organizimin e provimit të gjuhës së h
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0508-14` (tags `udhezim-2014-0508-14/<day>`; `python tools/on.py <day> udhezim-2014-0508-14`).
+Act id: `udhezim-2014-0508-14` (tags `udhezim-2014-0508-14/<day>`; `python registry/tools/on.py <day> udhezim-2014-0508-14`).
 
 ## Decisions made by hand
 

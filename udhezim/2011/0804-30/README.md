@@ -10,7 +10,7 @@ Një ndryshim në “dispozitat normative të arsimit parauniversitar” · 1 ve
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0804-30` (tags `udhezim-2011-0804-30/<day>`; `python tools/on.py <day> udhezim-2011-0804-30`).
+Act id: `udhezim-2011-0804-30` (tags `udhezim-2011-0804-30/<day>`; `python registry/tools/on.py <day> udhezim-2011-0804-30`).
 
 ## Decisions made by hand
 

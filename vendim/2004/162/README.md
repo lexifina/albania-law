@@ -5,7 +5,7 @@ Përdorimin dhe kontrollin e fondit për veprimtaritë specifike të shërbimit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-162` (tags `vendim-2004-162/<day>`; `python tools/on.py <day> vendim-2004-162`).
+Act id: `vendim-2004-162` (tags `vendim-2004-162/<day>`; `python registry/tools/on.py <day> vendim-2004-162`).
 
 ## Decisions made by hand
 

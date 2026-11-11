@@ -12,7 +12,7 @@ Përcaktimin e masës së shpërblimit mujor të përhershëm për titull të an
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-302` (tags `vendim-2023-302/<day>`; `python tools/on.py <day> vendim-2023-302`).
+Act id: `vendim-2023-302` (tags `vendim-2023-302/<day>`; `python registry/tools/on.py <day> vendim-2023-302`).
 
 ## Decisions made by hand
 

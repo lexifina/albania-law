@@ -11,7 +11,7 @@ Mbulimin e pjesshëm të shpenzimeve të mjekimit të z. Fatmir Prifti · 1 vers
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-295` (tags `vendim-2023-295/<day>`; `python tools/on.py <day> vendim-2023-295`).
+Act id: `vendim-2023-295` (tags `vendim-2023-295/<day>`; `python registry/tools/on.py <day> vendim-2023-295`).
 
 ## Decisions made by hand
 

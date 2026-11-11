@@ -5,7 +5,7 @@ Delegim kompetencash për procedurat e prokurimit publik · 2 versions, from 202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0113-15` (tags `urdher-2021-0113-15/<day>`; `python tools/on.py <day> urdher-2021-0113-15`).
+Act id: `urdher-2021-0113-15` (tags `urdher-2021-0113-15/<day>`; `python registry/tools/on.py <day> urdher-2021-0113-15`).
 
 ## Decisions made by hand
 

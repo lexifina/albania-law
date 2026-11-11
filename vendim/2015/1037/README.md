@@ -32,7 +32,7 @@ Procedurat e vlerësimit të nëpunësve civilë, për përfitimin dhe përditë
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1037` (tags `vendim-2015-1037/<day>`; `python tools/on.py <day> vendim-2015-1037`).
+Act id: `vendim-2015-1037` (tags `vendim-2015-1037/<day>`; `python registry/tools/on.py <day> vendim-2015-1037`).
 
 ## Decisions made by hand
 

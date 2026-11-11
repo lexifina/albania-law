@@ -14,7 +14,7 @@ Heqjen nga fondi pyjor e kullosor publik dhe pakësimin në volum të sipërfaqe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-777` (tags `vendim-2016-777/<day>`; `python tools/on.py <day> vendim-2016-777`).
+Act id: `vendim-2016-777` (tags `vendim-2016-777/<day>`; `python registry/tools/on.py <day> vendim-2016-777`).
 
 ## Decisions made by hand
 

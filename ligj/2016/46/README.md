@@ -14,7 +14,7 @@ Faljen e detyrimeve që kanë ish-ushtarakët në skemën e pensioneve suplement
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-46-2016` (tags `ligji-46-2016/<day>`; `python tools/on.py <day> ligji-46-2016`).
+Act id: `ligji-46-2016` (tags `ligji-46-2016/<day>`; `python registry/tools/on.py <day> ligji-46-2016`).
 
 ## Decisions made by hand
 

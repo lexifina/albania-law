@@ -11,7 +11,7 @@
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2003-12-23 |
 
-Act id: `vendim-2001-602` (tags `vendim-2001-602/<day>`; `python tools/on.py <day> vendim-2001-602`).
+Act id: `vendim-2001-602` (tags `vendim-2001-602/<day>`; `python registry/tools/on.py <day> vendim-2001-602`).
 
 ## Decisions made by hand
 

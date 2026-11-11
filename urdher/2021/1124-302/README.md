@@ -13,7 +13,7 @@ Delegim të përkohshëm kompetencash · 1 versions, from 2021-11-26 (latest in 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-1124-302` (tags `urdher-2021-1124-302/<day>`; `python tools/on.py <day> urdher-2021-1124-302`).
+Act id: `urdher-2021-1124-302` (tags `urdher-2021-1124-302/<day>`; `python registry/tools/on.py <day> urdher-2021-1124-302`).
 
 ## Decisions made by hand
 

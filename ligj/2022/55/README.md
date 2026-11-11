@@ -49,7 +49,7 @@ Shërbimin spitalor në Republikën e Shqipërisë · 2 versions, from 2022-08-2
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2025-05-13 |
 
-Act id: `ligj-2022-55` (tags `ligj-2022-55/<day>`; `python tools/on.py <day> ligj-2022-55`).
+Act id: `ligj-2022-55` (tags `ligj-2022-55/<day>`; `python registry/tools/on.py <day> ligj-2022-55`).
 
 ## Decisions made by hand
 

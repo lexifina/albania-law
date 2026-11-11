@@ -29,7 +29,7 @@ Procedurën e konkurrimit me formularin a3 dhe regjistrimin e kandidatëve fitue
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1013-41` (tags `udhezim-2011-1013-41/<day>`; `python tools/on.py <day> udhezim-2011-1013-41`).
+Act id: `udhezim-2011-1013-41` (tags `udhezim-2011-1013-41/<day>`; `python registry/tools/on.py <day> udhezim-2011-1013-41`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Frekuentimin e procesit mësimor, sipas llojit të veprimtarive mësimore në au
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2022-0620-13` (tags `udhezim-2022-0620-13/<day>`; `python tools/on.py <day> udhezim-2022-0620-13`).
+Act id: `udhezim-2022-0620-13` (tags `udhezim-2022-0620-13/<day>`; `python registry/tools/on.py <day> udhezim-2022-0620-13`).
 
 ## Decisions made by hand
 

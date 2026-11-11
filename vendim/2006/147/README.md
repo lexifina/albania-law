@@ -12,7 +12,7 @@ Lejimin e Ministrisë së Arsimit dhe të Shkencës të kryejë procedurat e pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-147` (tags `vendim-2006-147/<day>`; `python tools/on.py <day> vendim-2006-147`).
+Act id: `vendim-2006-147` (tags `vendim-2006-147/<day>`; `python registry/tools/on.py <day> vendim-2006-147`).
 
 ## Decisions made by hand
 

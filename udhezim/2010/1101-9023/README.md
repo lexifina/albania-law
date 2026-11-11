@@ -28,7 +28,7 @@ Formën, përmbajtjen dhe administrimin e regjistrave të noterëve dhe asistent
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-1101-9023` (tags `udhezim-2010-1101-9023/<day>`; `python tools/on.py <day> udhezim-2010-1101-9023`).
+Act id: `udhezim-2010-1101-9023` (tags `udhezim-2010-1101-9023/<day>`; `python registry/tools/on.py <day> udhezim-2010-1101-9023`).
 
 ## Decisions made by hand
 

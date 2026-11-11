@@ -15,7 +15,7 @@ Miratimin e tarifave dhe të mënyrës së përdorimit të tyre për shërbimet 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0827-5` (tags `udhezim-2025-0827-5/<day>`; `python tools/on.py <day> udhezim-2025-0827-5`).
+Act id: `udhezim-2025-0827-5` (tags `udhezim-2025-0827-5/<day>`; `python registry/tools/on.py <day> udhezim-2025-0827-5`).
 
 ## Decisions made by hand
 

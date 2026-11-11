@@ -26,7 +26,18 @@ Kriteret e zgjedhjes dhe rregullimin e marrëdhënieve të shoqërive që do të
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-30` (tags `vendim-2002-30/<day>`; `python tools/on.py <day> vendim-2002-30`).
+Act id: `vendim-2002-30` (tags `vendim-2002-30/<day>`; `python registry/tools/on.py <day> vendim-2002-30`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 195, datë 9.5.2002: Për disa ndryshime në vendimin nr. 30, datë 28.1.2002 të Këshillit të Ministrave ”Për kriteret e zgjedhjes dhe rregullimin e marrëdhënieve të shoqërive që do të ndërtojnë dhe përdorin instalime bregdetare për transportimin dhe depozitimin e naftës, gazit dhe të nënprodukteve të tyre”](https://qbz.gov.al/eli/vendim/2002/05/09/195)
+- [Vendimi i Këshillit të Ministrave nr. 555, datë 3.8.2005: Për një ndryshim në vendimin nr.30, datë 28.1.2002 të Këshillit të Ministrave “Për kriteret e zgjedhjes dhe rregullimin e marrëdhënieve të shoqërive, që do të ndërtojnë dhe përdorin instalime bregdetare për transportimin dhe depozitimin e naftës, gazit dhe nënprodukteve të tyre”, të ndryshuar](https://qbz.gov.al/eli/vendim/2005/08/03/555)
+- [Vendimi i Këshillit të Ministrave nr. 214, datë 29.3.2006: Për disa ndryshime në vendimin nr.30, datë 28.1.2002 të Këshillit të Ministrave “Për kriteret e zgjedhjes dhe rregullimin e marrëdhënieve të shoqërive, që do të ndërtojnë dhe përdorin instalime bregdetare, për transportimin dhe depozitimin e naftës, gazit dhe nënprodukteve të tyre”, të ndryshuar](https://qbz.gov.al/eli/vendim/2006/03/29/214)
+- [Vendimi i Këshillit të Ministrave nr. 349, datë 1.6.2004: Për fillimin e negocimit për dhënien me koncesion të zonës së Porto-Romanos, durrës dhe për disa ndryshime në vendimin nr.30, datë 28.1.2002 të këshillit të ministrave “për kriteret e zgjedhjes dhe Rregullimin e marrëdhënieve të shoqërive, që do të ndërtojnë dhe përdorin instAlime bregdetare, për transportimin dhe depozitimin e naftës, gazit dhe të nënprodukteve të tyre”](https://qbz.gov.al/eli/vendim/2004/06/01/349)
 
 ## Decisions made by hand
 

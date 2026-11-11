@@ -18,7 +18,7 @@ Përcaktimin e kritereve të pranimit dhe procedurave të regjistrimit në shkol
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0519-18` (tags `udhezim-2015-0519-18/<day>`; `python tools/on.py <day> udhezim-2015-0519-18`).
+Act id: `udhezim-2015-0519-18` (tags `udhezim-2015-0519-18/<day>`; `python registry/tools/on.py <day> udhezim-2015-0519-18`).
 
 ## Decisions made by hand
 

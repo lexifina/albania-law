@@ -27,7 +27,7 @@ Mënyrën e organizimit e të funksionimit të agjencive private të punësimit 
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-101` (tags `vendim-2018-101/<day>`; `python tools/on.py <day> vendim-2018-101`).
+Act id: `vendim-2018-101` (tags `vendim-2018-101/<day>`; `python registry/tools/on.py <day> vendim-2018-101`).
 
 ## Decisions made by hand
 

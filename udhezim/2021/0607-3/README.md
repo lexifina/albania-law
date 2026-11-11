@@ -19,7 +19,7 @@ Procedurat praktike të krijimit dhe administrimit të inventarit të unifikuar,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0607-3` (tags `udhezim-2021-0607-3/<day>`; `python tools/on.py <day> udhezim-2021-0607-3`).
+Act id: `udhezim-2021-0607-3` (tags `udhezim-2021-0607-3/<day>`; `python registry/tools/on.py <day> udhezim-2021-0607-3`).
 
 ## Decisions made by hand
 

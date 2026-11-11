@@ -5,7 +5,7 @@ Kalimin në përgjegjësi administrimi të Autoritetit Shtetëror për Informaci
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-110` (tags `vendim-2015-110/<day>`; `python tools/on.py <day> vendim-2015-110`).
+Act id: `vendim-2015-110` (tags `vendim-2015-110/<day>`; `python registry/tools/on.py <day> vendim-2015-110`).
 
 ## Decisions made by hand
 

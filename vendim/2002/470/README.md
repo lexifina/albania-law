@@ -5,7 +5,7 @@ Kushtet e dhënies së autorizimit zyrtar dhe rregullat e ndërmjetësimit në s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-470` (tags `vendim-2002-470/<day>`; `python tools/on.py <day> vendim-2002-470`).
+Act id: `vendim-2002-470` (tags `vendim-2002-470/<day>`; `python registry/tools/on.py <day> vendim-2002-470`).
 
 ## Decisions made by hand
 

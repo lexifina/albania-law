@@ -11,7 +11,15 @@ Hapjen e procedurës së pranimit në kategorinë e ulët dhe të mesme drejtues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-284` (tags `vendim-2016-284/<day>`; `python tools/on.py <day> vendim-2016-284`).
+Act id: `vendim-2016-284` (tags `vendim-2016-284/<day>`; `python registry/tools/on.py <day> vendim-2016-284`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 860, datë 7.12.2016: Për disa ndryshime në vendimin nr. 284, datë 13.4.2016, të këshillit të ministrave, “për hapjen e procedurës së pranimit në kategorinë e ulët dhe të mesme drejtuese edhe për kandidatë të tjerë, jashtë shërbimit civil, për vitin 2016”](https://qbz.gov.al/eli/vendim/2016/12/07/860)
 
 ## Decisions made by hand
 

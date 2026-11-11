@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes shumëpalëshe “Për ngritjen e një rrjeti hek
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9620` (tags `ligj-2006-9620/<day>`; `python tools/on.py <day> ligj-2006-9620`).
+Act id: `ligj-2006-9620` (tags `ligj-2006-9620/<day>`; `python registry/tools/on.py <day> ligj-2006-9620`).
 
 ## Decisions made by hand
 

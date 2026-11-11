@@ -10,7 +10,7 @@ Miratimin e rekomandimit GFCM/45/2022/11 ”Mbi standardet minimale për menaxhi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0706-399` (tags `urdher-2023-0706-399/<day>`; `python tools/on.py <day> urdher-2023-0706-399`).
+Act id: `urdher-2023-0706-399` (tags `urdher-2023-0706-399/<day>`; `python registry/tools/on.py <day> urdher-2023-0706-399`).
 
 ## Decisions made by hand
 

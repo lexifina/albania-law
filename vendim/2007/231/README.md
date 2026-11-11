@@ -11,7 +11,7 @@ Lejimin e kalimit transit të disa trupave ushtarake italiane, përmes territori
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-231` (tags `vendim-2007-231/<day>`; `python tools/on.py <day> vendim-2007-231`).
+Act id: `vendim-2007-231` (tags `vendim-2007-231/<day>`; `python registry/tools/on.py <day> vendim-2007-231`).
 
 ## Decisions made by hand
 

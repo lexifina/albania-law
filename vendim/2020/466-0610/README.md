@@ -16,7 +16,7 @@ Përcaktimin e kritereve dhe të procedurave për hapjen dhe mbylljen e instituc
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-10-14 |
 
-Act id: `vendim-2020-466-0610` (tags `vendim-2020-466-0610/<day>`; `python tools/on.py <day> vendim-2020-466-0610`).
+Act id: `vendim-2020-466-0610` (tags `vendim-2020-466-0610/<day>`; `python registry/tools/on.py <day> vendim-2020-466-0610`).
 
 ## Decisions made by hand
 

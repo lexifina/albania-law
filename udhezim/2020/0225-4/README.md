@@ -5,7 +5,7 @@ Mënyrën e përdorimit të fondit ”Grand/Transfertë korrente e brendshme” 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0225-4` (tags `udhezim-2020-0225-4/<day>`; `python tools/on.py <day> udhezim-2020-0225-4`).
+Act id: `udhezim-2020-0225-4` (tags `udhezim-2020-0225-4/<day>`; `python registry/tools/on.py <day> udhezim-2020-0225-4`).
 
 ## Decisions made by hand
 

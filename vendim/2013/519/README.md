@@ -11,7 +11,7 @@ Kalimin në fond banesash të ish-objekteve të dala nga ristrukturimi i Ministr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-519` (tags `vendim-2013-519/<day>`; `python tools/on.py <day> vendim-2013-519`).
+Act id: `vendim-2013-519` (tags `vendim-2013-519/<day>`; `python registry/tools/on.py <day> vendim-2013-519`).
 
 ## Decisions made by hand
 

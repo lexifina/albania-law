@@ -11,7 +11,7 @@ Autorizimin e firmës së Drejtorit të Përgjithshëm të Tatimeve · 1 version
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0929-170` (tags `urdher-2021-0929-170/<day>`; `python tools/on.py <day> urdher-2021-0929-170`).
+Act id: `urdher-2021-0929-170` (tags `urdher-2021-0929-170/<day>`; `python registry/tools/on.py <day> urdher-2021-0929-170`).
 
 ## Decisions made by hand
 

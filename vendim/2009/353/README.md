@@ -5,7 +5,7 @@ PËR PËRCAKTIMIN E KRITEREVE, TË DOKUMENTACIONIT DHE TË Procedurës, për paj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-353` (tags `vendim-2009-353/<day>`; `python tools/on.py <day> vendim-2009-353`).
+Act id: `vendim-2009-353` (tags `vendim-2009-353/<day>`; `python registry/tools/on.py <day> vendim-2009-353`).
 
 ## Decisions made by hand
 

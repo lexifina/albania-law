@@ -5,7 +5,7 @@ Krijimin, funksionimin dhe shpërblimin e anëtarëve të komisionit të kualifi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-886` (tags `vendim-2007-886/<day>`; `python tools/on.py <day> vendim-2007-886`).
+Act id: `vendim-2007-886` (tags `vendim-2007-886/<day>`; `python registry/tools/on.py <day> vendim-2007-886`).
 
 ## Decisions made by hand
 

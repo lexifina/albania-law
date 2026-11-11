@@ -9,7 +9,7 @@ Miratimin e kuadrit makroekonomik e fiskal, për periudhën 2022-2024 · 1 versi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-7` (tags `vendim-2021-7/<day>`; `python tools/on.py <day> vendim-2021-7`).
+Act id: `vendim-2021-7` (tags `vendim-2021-7/<day>`; `python registry/tools/on.py <day> vendim-2021-7`).
 
 ## Decisions made by hand
 

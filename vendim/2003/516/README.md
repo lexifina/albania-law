@@ -9,7 +9,7 @@ Kalimin e varësisë së tipografisë ushtarake SHA nga ministria e mbrojtjes, m
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-516` (tags `vendim-2003-516/<day>`; `python tools/on.py <day> vendim-2003-516`).
+Act id: `vendim-2003-516` (tags `vendim-2003-516/<day>`; `python registry/tools/on.py <day> vendim-2003-516`).
 
 ## Decisions made by hand
 

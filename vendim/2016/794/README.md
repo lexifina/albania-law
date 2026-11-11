@@ -11,7 +11,7 @@ Ndryshimin e statusit, nga kategoria e resursit “tokë bujqësore” në “to
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-794` (tags `vendim-2016-794/<day>`; `python tools/on.py <day> vendim-2016-794`).
+Act id: `vendim-2016-794` (tags `vendim-2016-794/<day>`; `python registry/tools/on.py <day> vendim-2016-794`).
 
 ## Decisions made by hand
 

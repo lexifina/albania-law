@@ -15,7 +15,7 @@ Ngritjen e njësisë së kërkim-studimit me aktivitet afatgjatë “Qendra Kër
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-298` (tags `vendim-2024-298/<day>`; `python tools/on.py <day> vendim-2024-298`).
+Act id: `vendim-2024-298` (tags `vendim-2024-298/<day>`; `python registry/tools/on.py <day> vendim-2024-298`).
 
 ## Decisions made by hand
 

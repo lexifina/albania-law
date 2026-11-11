@@ -9,7 +9,15 @@ Miratimin e marrëveshjes, ndërmjet qeverisë së Republikës së Shqipërisë,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-460` (tags `vendim-2020-460/<day>`; `python tools/on.py <day> vendim-2020-460`).
+Act id: `vendim-2020-460` (tags `vendim-2020-460/<day>`; `python registry/tools/on.py <day> vendim-2020-460`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 819, datë 20.10.2020: Për miratimin e marrëveshjes ndryshuese ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë, dhe Konfederatës Zvicerane, përfaqësuar nga Sekretariati i Shtetit Zviceran për Çështjet Ekonomike, të Departamentit Federal të Çështjeve Ekonomike, Arsimit dhe Kërkimit, për dhënien e asistencës teknike dhe financiare për projektin e “Menaxhimit të mbetjeve të ngurta në qarkun e Beratit”, miratuar me vendimin nr. 460, datë 10.6.2020, të Këshillit të Ministrave](https://qbz.gov.al/eli/vendim/2020/10/21/819)
 
 ## Decisions made by hand
 

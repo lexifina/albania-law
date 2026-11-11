@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për pajisjen me lejedrejtimi · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1027-34` (tags `udhezim-2008-1027-34/<day>`; `python tools/on.py <day> udhezim-2008-1027-34`).
+Act id: `udhezim-2008-1027-34` (tags `udhezim-2008-1027-34/<day>`; `python registry/tools/on.py <day> udhezim-2008-1027-34`).
 
 ## Decisions made by hand
 

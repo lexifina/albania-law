@@ -27,7 +27,7 @@ Zbatimin e vendimit nr. 54, datë 5.2.2014, të Këshillit të Ministrave ”Pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0901-6` (tags `udhezim-2026-0901-6/<day>`; `python tools/on.py <day> udhezim-2026-0901-6`).
+Act id: `udhezim-2026-0901-6` (tags `udhezim-2026-0901-6/<day>`; `python registry/tools/on.py <day> udhezim-2026-0901-6`).
 
 ## Decisions made by hand
 

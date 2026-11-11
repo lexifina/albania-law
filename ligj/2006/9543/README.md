@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së sigurisë ndërmjet Këshillit të Ministrave
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9543` (tags `ligj-2006-9543/<day>`; `python tools/on.py <day> ligj-2006-9543`).
+Act id: `ligj-2006-9543` (tags `ligj-2006-9543/<day>`; `python registry/tools/on.py <day> ligj-2006-9543`).
 
 ## Decisions made by hand
 

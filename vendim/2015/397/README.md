@@ -5,7 +5,7 @@ Krijimin e ndërmarrjes shtetërore “Kantieri i ndërtimit dhe riparimit të a
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-397` (tags `vendim-2015-397/<day>`; `python tools/on.py <day> vendim-2015-397`).
+Act id: `vendim-2015-397` (tags `vendim-2015-397/<day>`; `python registry/tools/on.py <day> vendim-2015-397`).
 
 ## Decisions made by hand
 

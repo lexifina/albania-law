@@ -116,7 +116,7 @@ Mbarështimin e blegtorisë · 2 versions, from 2013-03-27 (latest in force: 201
 | Neni 99 | [neni-099.md](neni-099.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2005-9426` (tags `ligj-2005-9426/<day>`; `python tools/on.py <day> ligj-2005-9426`).
+Act id: `ligj-2005-9426` (tags `ligj-2005-9426/<day>`; `python registry/tools/on.py <day> ligj-2005-9426`).
 
 ## Decisions made by hand
 

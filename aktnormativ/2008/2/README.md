@@ -12,7 +12,7 @@ Dërgimin në bosnjë-hercegovinë të një grupi të asgjësimit të municionev
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2008-2` (tags `aktnormativ-2008-2/<day>`; `python tools/on.py <day> aktnormativ-2008-2`).
+Act id: `aktnormativ-2008-2` (tags `aktnormativ-2008-2/<day>`; `python registry/tools/on.py <day> aktnormativ-2008-2`).
 
 ## Decisions made by hand
 

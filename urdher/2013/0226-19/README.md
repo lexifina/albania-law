@@ -5,7 +5,7 @@ Miratimin e “Programit kombëtar të kontrollit të cilësisë së sigurisë n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2013-0226-19` (tags `urdher-2013-0226-19/<day>`; `python tools/on.py <day> urdher-2013-0226-19`).
+Act id: `urdher-2013-0226-19` (tags `urdher-2013-0226-19/<day>`; `python registry/tools/on.py <day> urdher-2013-0226-19`).
 
 ## Decisions made by hand
 

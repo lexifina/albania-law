@@ -10,7 +10,7 @@ Miratimin e rregullores “Për kushtet dhe rregullat e sigurisë së armëve”
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-05-17 |
 
-Act id: `vendim-2015-275` (tags `vendim-2015-275/<day>`; `python tools/on.py <day> vendim-2015-275`).
+Act id: `vendim-2015-275` (tags `vendim-2015-275/<day>`; `python registry/tools/on.py <day> vendim-2015-275`).
 
 ## Decisions made by hand
 

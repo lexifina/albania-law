@@ -14,7 +14,7 @@ Rregullat e hollësishme për informacionin që duhet të përmbajnë paketimet 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-1106-609` (tags `udhezim-2020-1106-609/<day>`; `python tools/on.py <day> udhezim-2020-1106-609`).
+Act id: `udhezim-2020-1106-609` (tags `udhezim-2020-1106-609/<day>`; `python registry/tools/on.py <day> udhezim-2020-1106-609`).
 
 ## Decisions made by hand
 

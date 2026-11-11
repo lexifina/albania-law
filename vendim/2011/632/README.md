@@ -11,7 +11,7 @@ PëR NJë SHTESë FONDi Në BUXHETIN E VITIT 2011, MIRATUAR PëR MINISTRINë E S
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-632` (tags `vendim-2011-632/<day>`; `python tools/on.py <day> vendim-2011-632`).
+Act id: `vendim-2011-632` (tags `vendim-2011-632/<day>`; `python registry/tools/on.py <day> vendim-2011-632`).
 
 ## Decisions made by hand
 

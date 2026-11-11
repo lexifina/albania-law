@@ -47,7 +47,7 @@ PËR TRAJTIMIN E KREDIVE TË TRANSFERUARA NGA BANKAT E NIVELIT TË DYTË ME KAPI
 | Pika 39 | [pika-039.md](pika-039.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0924-33` (tags `udhezim-2010-0924-33/<day>`; `python tools/on.py <day> udhezim-2010-0924-33`).
+Act id: `udhezim-2010-0924-33` (tags `udhezim-2010-0924-33/<day>`; `python registry/tools/on.py <day> udhezim-2010-0924-33`).
 
 ## Decisions made by hand
 

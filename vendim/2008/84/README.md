@@ -17,7 +17,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-84` (tags `vendim-2008-84/<day>`; `python tools/on.py <day> vendim-2008-84`).
+Act id: `vendim-2008-84` (tags `vendim-2008-84/<day>`; `python registry/tools/on.py <day> vendim-2008-84`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1675, datë 24.12.2008: PËR DISA ndryshimE DHE SHTESA në vendimin nr.84, datë 3.2.2008 të Këshillit të Ministrave “për SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR KALIMASH-MORINË](https://qbz.gov.al/eli/vendim/2008/12/24/1675)
+- [Vendimi i Këshillit të Ministrave nr. 235, datë 6.3.2009: Për disa shtesa në vendimin nr.84, datë 3.2.2008 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “kalimash-morinë”](https://qbz.gov.al/eli/vendim/2009/03/06/235)
 
 ## Decisions made by hand
 

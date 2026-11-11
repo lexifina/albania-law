@@ -13,7 +13,7 @@ Miratimin r formularit të aplikimit dhe procedurave për përfitimin e mbështe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-1013-8136` (tags `urdher-2016-1013-8136/<day>`; `python tools/on.py <day> urdher-2016-1013-8136`).
+Act id: `urdher-2016-1013-8136` (tags `urdher-2016-1013-8136/<day>`; `python registry/tools/on.py <day> urdher-2016-1013-8136`).
 
 ## Decisions made by hand
 

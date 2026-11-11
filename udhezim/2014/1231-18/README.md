@@ -34,7 +34,7 @@ Të drejtat, detyrat, mandatin, mënyrën e zgjedhjes dhe funksionimit të borde
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1231-18` (tags `udhezim-2014-1231-18/<day>`; `python tools/on.py <day> udhezim-2014-1231-18`).
+Act id: `udhezim-2014-1231-18` (tags `udhezim-2014-1231-18/<day>`; `python registry/tools/on.py <day> udhezim-2014-1231-18`).
 
 ## Decisions made by hand
 

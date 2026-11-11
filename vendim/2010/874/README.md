@@ -14,7 +14,7 @@ Trajnimin e personelit të regjistrimit të përgjithshëm të njësive ekonomik
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-874` (tags `vendim-2010-874/<day>`; `python tools/on.py <day> vendim-2010-874`).
+Act id: `vendim-2010-874` (tags `vendim-2010-874/<day>`; `python registry/tools/on.py <day> vendim-2010-874`).
 
 ## Decisions made by hand
 

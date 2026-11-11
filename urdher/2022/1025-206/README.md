@@ -10,7 +10,7 @@ Miratimin e formatit të planeve vendore të veprimit për efiçencën e energji
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1025-206` (tags `urdher-2022-1025-206/<day>`; `python tools/on.py <day> urdher-2022-1025-206`).
+Act id: `urdher-2022-1025-206` (tags `urdher-2022-1025-206/<day>`; `python registry/tools/on.py <day> urdher-2022-1025-206`).
 
 ## Decisions made by hand
 

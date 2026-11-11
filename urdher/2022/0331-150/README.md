@@ -21,7 +21,7 @@ Zvogëlimin e ndikimit të aktivitetit të peshkimit dhe ruajtjen e specieve të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0331-150` (tags `urdher-2022-0331-150/<day>`; `python tools/on.py <day> urdher-2022-0331-150`).
+Act id: `urdher-2022-0331-150` (tags `urdher-2022-0331-150/<day>`; `python registry/tools/on.py <day> urdher-2022-0331-150`).
 
 ## Decisions made by hand
 

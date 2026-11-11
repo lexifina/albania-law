@@ -10,7 +10,7 @@ Ratifikimin e Konventës për Njohjen dhe Ekzekutimin e Vendimeve Gjyqësore të
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-122-2024` (tags `ligji-122-2024/<day>`; `python tools/on.py <day> ligji-122-2024`).
+Act id: `ligji-122-2024` (tags `ligji-122-2024/<day>`; `python registry/tools/on.py <day> ligji-122-2024`).
 
 ## Decisions made by hand
 

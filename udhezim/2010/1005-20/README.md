@@ -5,7 +5,7 @@ Përcaktimin e kërkesave mbi procedurat për planet e fluturimit në fazën e p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-1005-20` (tags `udhezim-2010-1005-20/<day>`; `python tools/on.py <day> udhezim-2010-1005-20`).
+Act id: `udhezim-2010-1005-20` (tags `udhezim-2010-1005-20/<day>`; `python registry/tools/on.py <day> udhezim-2010-1005-20`).
 
 ## Decisions made by hand
 

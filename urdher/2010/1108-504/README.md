@@ -13,7 +13,7 @@ Hapjen e programeve të studimit ”master profesional” në universitetin ”a
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1108-504` (tags `urdher-2010-1108-504/<day>`; `python tools/on.py <day> urdher-2010-1108-504`).
+Act id: `urdher-2010-1108-504` (tags `urdher-2010-1108-504/<day>`; `python registry/tools/on.py <day> urdher-2010-1108-504`).
 
 ## Decisions made by hand
 

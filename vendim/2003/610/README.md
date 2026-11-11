@@ -8,7 +8,7 @@ Financimin e programeve kombëtare të kërkimit dhe të zhvillimit për vitin 2
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-610` (tags `vendim-2003-610/<day>`; `python tools/on.py <day> vendim-2003-610`).
+Act id: `vendim-2003-610` (tags `vendim-2003-610/<day>`; `python registry/tools/on.py <day> vendim-2003-610`).
 
 ## Decisions made by hand
 

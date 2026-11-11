@@ -11,7 +11,7 @@ Kalimin te bashkia Lezhë dhe Fondi Shqiptar i Zhvillimit të njësive të banim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-83` (tags `vendim-2022-83/<day>`; `python tools/on.py <day> vendim-2022-83`).
+Act id: `vendim-2022-83` (tags `vendim-2022-83/<day>`; `python registry/tools/on.py <day> vendim-2022-83`).
 
 ## Decisions made by hand
 

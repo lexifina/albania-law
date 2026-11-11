@@ -21,7 +21,7 @@ Rregullat, mënyrat dhe afatet e trajtimit të poseduesve të ndërtimeve pa lej
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-409` (tags `vendim-2022-409/<day>`; `python tools/on.py <day> vendim-2022-409`).
+Act id: `vendim-2022-409` (tags `vendim-2022-409/<day>`; `python registry/tools/on.py <day> vendim-2022-409`).
 
 ## Decisions made by hand
 

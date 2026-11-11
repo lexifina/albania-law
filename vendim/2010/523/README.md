@@ -10,7 +10,15 @@ PËR MIRATIMIN E LISTËS PËrfundimtare TË PRONAVE TË PALUAJTSHME PUBLIKE, SHT
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-523` (tags `vendim-2010-523/<day>`; `python tools/on.py <day> vendim-2010-523`).
+Act id: `vendim-2010-523` (tags `vendim-2010-523/<day>`; `python registry/tools/on.py <day> vendim-2010-523`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 802, datë 16.11.2011: Për disa ndryshime në vendimin nr.148, datë 11.2.2009 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën martanesh, të qarkut të dibrës ”, dhe për një shtesë në vendimin nr.523, datë 30.6.2010 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës martanesh, të qarkut të dibrës”](https://qbz.gov.al/eli/vendim/2011/11/16/802)
 
 ## Decisions made by hand
 

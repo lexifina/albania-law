@@ -17,7 +17,7 @@ Përcaktimin e rregullave të përgjithshme të zbatimit të programit të banes
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-05-17 |
 
-Act id: `udhezim-2007-0913-19` (tags `udhezim-2007-0913-19/<day>`; `python tools/on.py <day> udhezim-2007-0913-19`).
+Act id: `udhezim-2007-0913-19` (tags `udhezim-2007-0913-19/<day>`; `python registry/tools/on.py <day> udhezim-2007-0913-19`).
 
 ## Decisions made by hand
 

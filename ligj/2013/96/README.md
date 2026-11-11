@@ -5,7 +5,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 1, datë 6.2.2013 të Kësh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2013-96` (tags `ligj-2013-96/<day>`; `python tools/on.py <day> ligj-2013-96`).
+Act id: `ligj-2013-96` (tags `ligj-2013-96/<day>`; `python registry/tools/on.py <day> ligj-2013-96`).
 
 ## Decisions made by hand
 

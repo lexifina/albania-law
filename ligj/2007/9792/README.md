@@ -12,7 +12,7 @@ Heqjen nga fondi pyjor kombëtar të parcelave në ekonomitë pyjore krastë - k
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9792` (tags `ligj-2007-9792/<day>`; `python tools/on.py <day> ligj-2007-9792`).
+Act id: `ligj-2007-9792` (tags `ligj-2007-9792/<day>`; `python registry/tools/on.py <day> ligj-2007-9792`).
 
 ## Decisions made by hand
 

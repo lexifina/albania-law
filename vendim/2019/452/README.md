@@ -10,7 +10,7 @@ Hapjen e Ambasadës së Republikës së Shqipërisë në Kanberra, Australi · 1
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-452` (tags `vendim-2019-452/<day>`; `python tools/on.py <day> vendim-2019-452`).
+Act id: `vendim-2019-452` (tags `vendim-2019-452/<day>`; `python registry/tools/on.py <day> vendim-2019-452`).
 
 ## Decisions made by hand
 

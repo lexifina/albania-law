@@ -8,7 +8,7 @@ Miratimin e dokumentit të Programit Buxhetor Afatmesëm 2025-2027, të rishikua
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-763` (tags `vendim-2024-763/<day>`; `python tools/on.py <day> vendim-2024-763`).
+Act id: `vendim-2024-763` (tags `vendim-2024-763/<day>`; `python registry/tools/on.py <day> vendim-2024-763`).
 
 ## Decisions made by hand
 

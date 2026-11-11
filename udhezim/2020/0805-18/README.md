@@ -14,7 +14,7 @@ Miratimin e kritereve të përfitimit të pagesave dhe tarifat e shpërblimit t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0805-18` (tags `udhezim-2020-0805-18/<day>`; `python tools/on.py <day> udhezim-2020-0805-18`).
+Act id: `udhezim-2020-0805-18` (tags `udhezim-2020-0805-18/<day>`; `python registry/tools/on.py <day> udhezim-2020-0805-18`).
 
 ## Decisions made by hand
 

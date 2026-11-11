@@ -5,7 +5,7 @@ Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-385` (tags `vendim-2006-385/<day>`; `python tools/on.py <day> vendim-2006-385`).
+Act id: `vendim-2006-385` (tags `vendim-2006-385/<day>`; `python registry/tools/on.py <day> vendim-2006-385`).
 
 ## Decisions made by hand
 

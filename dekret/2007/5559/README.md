@@ -9,7 +9,7 @@ Disa ndryshime në dekretin nr.5351, datë 11.6.2007 “për krijimin e seksione
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2007-5559` (tags `dekret-2007-5559/<day>`; `python tools/on.py <day> dekret-2007-5559`).
+Act id: `dekret-2007-5559` (tags `dekret-2007-5559/<day>`; `python registry/tools/on.py <day> dekret-2007-5559`).
 
 ## Decisions made by hand
 

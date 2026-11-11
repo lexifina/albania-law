@@ -9,7 +9,7 @@ Hapjen e institucionit arsimor privat parauniversitar, të arsimit bazë ”Rrug
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-552` (tags `vendim-2022-552/<day>`; `python tools/on.py <day> vendim-2022-552`).
+Act id: `vendim-2022-552` (tags `vendim-2022-552/<day>`; `python registry/tools/on.py <day> vendim-2022-552`).
 
 ## Decisions made by hand
 

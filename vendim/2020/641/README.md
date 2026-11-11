@@ -11,7 +11,7 @@ Përcaktimin e autoritetit kontraktor për zhvillimin e procedurave të prokurim
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-641` (tags `vendim-2020-641/<day>`; `python tools/on.py <day> vendim-2020-641`).
+Act id: `vendim-2020-641` (tags `vendim-2020-641/<day>`; `python registry/tools/on.py <day> vendim-2020-641`).
 
 ## Decisions made by hand
 

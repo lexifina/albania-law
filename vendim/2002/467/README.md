@@ -10,7 +10,15 @@ Miratimin e Kontratës Koncesionare të formës ”Rot” ndërmjet Ministrisë 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-467` (tags `vendim-2002-467/<day>`; `python tools/on.py <day> vendim-2002-467`).
+Act id: `vendim-2002-467` (tags `vendim-2002-467/<day>`; `python registry/tools/on.py <day> vendim-2002-467`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 148, datë 22.3.2007: Për disa shtesa dhe ndryshime në marrëveshjen e koncesionit të formës “rot”, të lidhur ndërmjet ministrisë së industrisë dhe energjetikës e ministrisë së ekonomisë, nga njëra anë, dhe shoqërisë italiane “essegei”, s.p.a, nga ana tjetër, për hidrocentralet vendore, miratuar me vendimin nr.467, datë 3.10.2002 të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2007/03/22/148)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Punësimin e studentëve të ekselencës në institucionet e administratës shte
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-766` (tags `vendim-2018-766/<day>`; `python tools/on.py <day> vendim-2018-766`).
+Act id: `vendim-2018-766` (tags `vendim-2018-766/<day>`; `python registry/tools/on.py <day> vendim-2018-766`).
 
 ## Decisions made by hand
 

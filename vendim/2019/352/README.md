@@ -21,7 +21,7 @@ Ngritjen dhe funksionimin e komisionit për vlerësimin dhe negocimin e kontrat�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-352` (tags `vendim-2019-352/<day>`; `python tools/on.py <day> vendim-2019-352`).
+Act id: `vendim-2019-352` (tags `vendim-2019-352/<day>`; `python registry/tools/on.py <day> vendim-2019-352`).
 
 ## Decisions made by hand
 

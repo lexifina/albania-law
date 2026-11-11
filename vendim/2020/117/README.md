@@ -11,7 +11,7 @@ Miratimin e buxhetit të Agjencisë Shtetërore të Kadastrës, për vitin 2020 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-07-29 |
 
-Act id: `vendim-2020-117` (tags `vendim-2020-117/<day>`; `python tools/on.py <day> vendim-2020-117`).
+Act id: `vendim-2020-117` (tags `vendim-2020-117/<day>`; `python registry/tools/on.py <day> vendim-2020-117`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,15 @@ Ratifikimin e “marrëveshjes së financimit ndërmjet republikës së shqipër
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9965` (tags `ligj-2008-9965/<day>`; `python tools/on.py <day> ligj-2008-9965`).
+Act id: `ligj-2008-9965` (tags `ligj-2008-9965/<day>`; `python registry/tools/on.py <day> ligj-2008-9965`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 16/2019: Për ratifikimin e letërmarrëveshjes ndryshuese të marrëveshjes së financimit ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin “Siguria e digave”, të ratifikuar me ligjin nr. 9965, datë 24.7.2008](https://qbz.gov.al/eli/ligj/2019/03/13/16)
 
 ## Decisions made by hand
 

@@ -33,7 +33,7 @@ Përbërjen, organizimin dhe funksionimin e Komisionit të Disiplinës dhe të K
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-85` (tags `vendim-2025-85/<day>`; `python tools/on.py <day> vendim-2025-85`).
+Act id: `vendim-2025-85` (tags `vendim-2025-85/<day>`; `python registry/tools/on.py <day> vendim-2025-85`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Hapjen e programeve të studimeve “master i nivelit të dytë” në fakulteti
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-829` (tags `vendim-2009-829/<day>`; `python tools/on.py <day> vendim-2009-829`).
+Act id: `vendim-2009-829` (tags `vendim-2009-829/<day>`; `python registry/tools/on.py <day> vendim-2009-829`).
 
 ## Decisions made by hand
 

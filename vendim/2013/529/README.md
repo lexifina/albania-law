@@ -10,7 +10,7 @@ Miratimin e amendamentit nr.1 të kontratës me ndarje prodhimi për kërkimin, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-529` (tags `vendim-2013-529/<day>`; `python tools/on.py <day> vendim-2013-529`).
+Act id: `vendim-2013-529` (tags `vendim-2013-529/<day>`; `python registry/tools/on.py <day> vendim-2013-529`).
 
 ## Decisions made by hand
 

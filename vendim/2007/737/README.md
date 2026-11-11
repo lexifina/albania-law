@@ -8,7 +8,7 @@ Miratimin, në parim, të marrëveshjes së huasë, ndërmjet republikës së sh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-737` (tags `vendim-2007-737/<day>`; `python tools/on.py <day> vendim-2007-737`).
+Act id: `vendim-2007-737` (tags `vendim-2007-737/<day>`; `python registry/tools/on.py <day> vendim-2007-737`).
 
 ## Decisions made by hand
 

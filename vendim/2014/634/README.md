@@ -10,7 +10,7 @@ Përmiratimin e rregullave për vlerësimin dhe dhënienme koncesion/partneritet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-04-11 |
 
-Act id: `vendim-2014-634` (tags `vendim-2014-634/<day>`; `python tools/on.py <day> vendim-2014-634`).
+Act id: `vendim-2014-634` (tags `vendim-2014-634/<day>`; `python registry/tools/on.py <day> vendim-2014-634`).
 
 ## Decisions made by hand
 

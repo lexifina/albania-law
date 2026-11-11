@@ -11,7 +11,7 @@ Dhënien në përdorim, pa shpërblim, të një sipërfaqeje prej 371 m², në p
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1079` (tags `vendim-2015-1079/<day>`; `python tools/on.py <day> vendim-2015-1079`).
+Act id: `vendim-2015-1079` (tags `vendim-2015-1079/<day>`; `python registry/tools/on.py <day> vendim-2015-1079`).
 
 ## Decisions made by hand
 

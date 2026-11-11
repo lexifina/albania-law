@@ -28,7 +28,7 @@ Miratimin e rregullave për transferimin e mbetjeve jo të rrezikshme dhe inform
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-12-21 |
 
-Act id: `vendim-2014-229` (tags `vendim-2014-229/<day>`; `python tools/on.py <day> vendim-2014-229`).
+Act id: `vendim-2014-229` (tags `vendim-2014-229/<day>`; `python registry/tools/on.py <day> vendim-2014-229`).
 
 ## Decisions made by hand
 

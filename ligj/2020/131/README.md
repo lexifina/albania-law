@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes për mbështetje teknike ndërmjet Këshillit të Mi
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-131` (tags `ligj-2020-131/<day>`; `python tools/on.py <day> ligj-2020-131`).
+Act id: `ligj-2020-131` (tags `ligj-2020-131/<day>`; `python registry/tools/on.py <day> ligj-2020-131`).
 
 ## Decisions made by hand
 

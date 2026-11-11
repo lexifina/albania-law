@@ -9,7 +9,7 @@ Delegimin e kompetencave për ndjekjen e zbatimit të projektit ”Mjedis i past
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1229-687` (tags `urdher-2025-1229-687/<day>`; `python tools/on.py <day> urdher-2025-1229-687`).
+Act id: `urdher-2025-1229-687` (tags `urdher-2025-1229-687/<day>`; `python registry/tools/on.py <day> urdher-2025-1229-687`).
 
 ## Decisions made by hand
 

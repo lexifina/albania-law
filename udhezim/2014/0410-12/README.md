@@ -20,7 +20,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë (provime të lirimit) 2014 �
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0410-12` (tags `udhezim-2014-0410-12/<day>`; `python tools/on.py <day> udhezim-2014-0410-12`).
+Act id: `udhezim-2014-0410-12` (tags `udhezim-2014-0410-12/<day>`; `python registry/tools/on.py <day> udhezim-2014-0410-12`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Zbatimin e planit shumëvjeçar të menaxhimit të tonit të kuq në Atlantikun 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0205-102` (tags `urdher-2019-0205-102/<day>`; `python tools/on.py <day> urdher-2019-0205-102`).
+Act id: `urdher-2019-0205-102` (tags `urdher-2019-0205-102/<day>`; `python registry/tools/on.py <day> urdher-2019-0205-102`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Heqjen nga fondi pyjor të sipërfaqes, në ekonominë pyjore “Mamëz-Kalimash
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-259` (tags `vendim-2015-259/<day>`; `python tools/on.py <day> vendim-2015-259`).
+Act id: `vendim-2015-259` (tags `vendim-2015-259/<day>`; `python registry/tools/on.py <day> vendim-2015-259`).
 
 ## Decisions made by hand
 

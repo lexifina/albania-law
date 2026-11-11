@@ -10,7 +10,7 @@ Miratimin e rregullores për oficerët ndërlidhës të atashuar në vendet e tj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-221` (tags `vendim-2025-221/<day>`; `python tools/on.py <day> vendim-2025-221`).
+Act id: `vendim-2025-221` (tags `vendim-2025-221/<day>`; `python registry/tools/on.py <day> vendim-2025-221`).
 
 ## Decisions made by hand
 

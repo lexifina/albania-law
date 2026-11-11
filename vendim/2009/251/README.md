@@ -10,7 +10,7 @@ Vendim Nr.251 Dt.12.03.2009 · 1 versions, from 2010-08-07 (latest in force: 201
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-251` (tags `vendim-2009-251/<day>`; `python tools/on.py <day> vendim-2009-251`).
+Act id: `vendim-2009-251` (tags `vendim-2009-251/<day>`; `python registry/tools/on.py <day> vendim-2009-251`).
 
 ## Decisions made by hand
 

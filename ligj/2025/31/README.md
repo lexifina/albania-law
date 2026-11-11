@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet Këshillit të Ministrave të Rep
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2025-31` (tags `ligj-2025-31/<day>`; `python tools/on.py <day> ligj-2025-31`).
+Act id: `ligj-2025-31` (tags `ligj-2025-31/<day>`; `python registry/tools/on.py <day> ligj-2025-31`).
 
 ## Decisions made by hand
 

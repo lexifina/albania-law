@@ -15,7 +15,7 @@ Bashkëpunimin e njësive të vetëqeverisjes vendore me shërbimin veterinar ·
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-475` (tags `vendim-2021-475/<day>`; `python tools/on.py <day> vendim-2021-475`).
+Act id: `vendim-2021-475` (tags `vendim-2021-475/<day>`; `python registry/tools/on.py <day> vendim-2021-475`).
 
 ## Decisions made by hand
 

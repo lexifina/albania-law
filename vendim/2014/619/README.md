@@ -8,7 +8,7 @@ Emërimin në detyrë të dy anëtarëve të komisionit kombëtar rregullator t�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-619` (tags `vendim-2014-619/<day>`; `python tools/on.py <day> vendim-2014-619`).
+Act id: `vendim-2014-619` (tags `vendim-2014-619/<day>`; `python registry/tools/on.py <day> vendim-2014-619`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Ratifikimin e “kontratës koncesionare “për prodhimin dhe shpërndarjen e k
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9972-2008` (tags `ligji-9972-2008/<day>`; `python tools/on.py <day> ligji-9972-2008`).
+Act id: `ligji-9972-2008` (tags `ligji-9972-2008/<day>`; `python registry/tools/on.py <day> ligji-9972-2008`).
 
 ## Decisions made by hand
 

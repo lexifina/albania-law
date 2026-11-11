@@ -5,7 +5,7 @@ Rregullimin e disa çështjeve që kanë të bëjnë me procedurën e dhënies s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0214-103` (tags `udhezim-2014-0214-103/<day>`; `python tools/on.py <day> udhezim-2014-0214-103`).
+Act id: `udhezim-2014-0214-103` (tags `udhezim-2014-0214-103/<day>`; `python registry/tools/on.py <day> udhezim-2014-0214-103`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Reduktimin e shpenzimeve të transportit për funksionarët, nëpunësit, punonj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-160` (tags `vendim-2022-160/<day>`; `python tools/on.py <day> vendim-2022-160`).
+Act id: `vendim-2022-160` (tags `vendim-2022-160/<day>`; `python registry/tools/on.py <day> vendim-2022-160`).
 
 ## Decisions made by hand
 

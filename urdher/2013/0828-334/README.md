@@ -28,7 +28,7 @@ Përdorimin dhe hedhjen e të dhënave në sistemin e menaxhimit elektronik të 
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0828-334` (tags `urdher-2013-0828-334/<day>`; `python tools/on.py <day> urdher-2013-0828-334`).
+Act id: `urdher-2013-0828-334` (tags `urdher-2013-0828-334/<day>`; `python registry/tools/on.py <day> urdher-2013-0828-334`).
 
 ## Decisions made by hand
 

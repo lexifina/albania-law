@@ -25,7 +25,7 @@ PËR ZBATIMIN E LIGJIT NR.9869, DATë 4.2.2008 “PëR HUAMARRJEN E QEVERISJES V
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1105-35` (tags `udhezim-2008-1105-35/<day>`; `python tools/on.py <day> udhezim-2008-1105-35`).
+Act id: `udhezim-2008-1105-35` (tags `udhezim-2008-1105-35/<day>`; `python registry/tools/on.py <day> udhezim-2008-1105-35`).
 
 ## Decisions made by hand
 

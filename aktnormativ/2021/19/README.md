@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së nënshkruar, ndërmjet ”Human Vaccine” LLC dhe
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2021-19` (tags `aktnormativ-2021-19/<day>`; `python tools/on.py <day> aktnormativ-2021-19`).
+Act id: `aktnormativ-2021-19` (tags `aktnormativ-2021-19/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-19`).
 
 ## Decisions made by hand
 

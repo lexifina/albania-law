@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes plotësuese ndërmjet qeverisë së republikës t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9246` (tags `ligj-2004-9246/<day>`; `python tools/on.py <day> ligj-2004-9246`).
+Act id: `ligj-2004-9246` (tags `ligj-2004-9246/<day>`; `python registry/tools/on.py <day> ligj-2004-9246`).
 
 ## Decisions made by hand
 

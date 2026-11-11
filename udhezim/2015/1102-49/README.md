@@ -15,7 +15,7 @@ Kriteret dhe procedurat e përzgjedhjes dhe regjistrimit për kandidatët me sta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-1102-49` (tags `udhezim-2015-1102-49/<day>`; `python tools/on.py <day> udhezim-2015-1102-49`).
+Act id: `udhezim-2015-1102-49` (tags `udhezim-2015-1102-49/<day>`; `python registry/tools/on.py <day> udhezim-2015-1102-49`).
 
 ## Decisions made by hand
 

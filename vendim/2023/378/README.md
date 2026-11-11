@@ -13,7 +13,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Drejtësisë, për pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-378` (tags `vendim-2023-378/<day>`; `python tools/on.py <day> vendim-2023-378`).
+Act id: `vendim-2023-378` (tags `vendim-2023-378/<day>`; `python registry/tools/on.py <day> vendim-2023-378`).
 
 ## Decisions made by hand
 

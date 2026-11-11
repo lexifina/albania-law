@@ -9,7 +9,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-707` (tags `vendim-2011-707/<day>`; `python tools/on.py <day> vendim-2011-707`).
+Act id: `vendim-2011-707` (tags `vendim-2011-707/<day>`; `python registry/tools/on.py <day> vendim-2011-707`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 606, datë 5.9.2012: Për një ndryshim në vendimin nr. 707, datë 12.10.2011 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi apo në përdorim të komunës dajç të qarkut të lezhës”](https://qbz.gov.al/eli/vendim/2012/09/05/606)
 
 ## Decisions made by hand
 

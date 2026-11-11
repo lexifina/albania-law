@@ -17,7 +17,7 @@ Riorganizimin e fakultetit të mësuesisë në fakultetin e edukimit dhe filolog
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0117-16` (tags `urdher-2012-0117-16/<day>`; `python tools/on.py <day> urdher-2012-0117-16`).
+Act id: `urdher-2012-0117-16` (tags `urdher-2012-0117-16/<day>`; `python registry/tools/on.py <day> urdher-2012-0117-16`).
 
 ## Decisions made by hand
 

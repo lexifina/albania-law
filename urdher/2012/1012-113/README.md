@@ -5,7 +5,7 @@ Miratimin e rregullores “për regjistrimin e avionëve civilë shqiptarë” �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-1012-113` (tags `urdher-2012-1012-113/<day>`; `python tools/on.py <day> urdher-2012-1012-113`).
+Act id: `urdher-2012-1012-113` (tags `urdher-2012-1012-113/<day>`; `python registry/tools/on.py <day> urdher-2012-1012-113`).
 
 ## Decisions made by hand
 

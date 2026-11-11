@@ -14,7 +14,15 @@ Autorizimin e shoqërisë “Scholz” sh.p.k. për importin e mbetjeve metalike
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-198` (tags `vendim-2013-198/<day>`; `python tools/on.py <day> vendim-2013-198`).
+Act id: `vendim-2013-198` (tags `vendim-2013-198/<day>`; `python registry/tools/on.py <day> vendim-2013-198`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 63-4, datë 30.4.2013: Ndreqje gabimi në vendimin e Këshillit të Ministrave nr.198, datë 6.3.2013](https://qbz.gov.al/eli/vendim/2013/04/30/63-4)
 
 ## Decisions made by hand
 

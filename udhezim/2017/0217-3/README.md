@@ -29,7 +29,16 @@ Udhëzim Nr.3 Dt.17.02.2017 · 1 versions, from 2017-03-09 (latest in force: 201
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0217-3` (tags `udhezim-2017-0217-3/<day>`; `python tools/on.py <day> udhezim-2017-0217-3`).
+Act id: `udhezim-2017-0217-3` (tags `udhezim-2017-0217-3/<day>`; `python registry/tools/on.py <day> udhezim-2017-0217-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 618, datë 27.12.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 14582]: Për disa shtesa dhe ndryshime në udhëzimin nr. 3, datë 17.2.2017, mbi zbatimin e vendimit nr. 955, datë 7.12.2016, të këshillit të ministrave, “për përcaktimin e kritereve, të procedurave, dokumentacionit dhe masës së përfitimit të ndihmës ekonomike”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2017/12/27/618)
+- [Udhëzimi nr. 8, datë 8.5.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 64487]: Për disa ndryshime dhe shtesa në udhëzimin nr. 3, datë 17.2.2017 “mbi zbatimin e vendimit nr. 955 datë 7.12.2016 të këshillit të ministrave “për përcaktimin e kritereve, të procedurave, dokumentacionit dhe masës së përfitimit të ndihmës ekonomike”](https://qbz.gov.al/eli/udhezim/2017/05/08/8)
 
 ## Decisions made by hand
 

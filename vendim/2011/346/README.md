@@ -5,7 +5,7 @@ Miratimin e rregullores “Për organizimin dhe funksionimin e agjencisë shtet�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-346` (tags `vendim-2011-346/<day>`; `python tools/on.py <day> vendim-2011-346`).
+Act id: `vendim-2011-346` (tags `vendim-2011-346/<day>`; `python registry/tools/on.py <day> vendim-2011-346`).
 
 ## Decisions made by hand
 

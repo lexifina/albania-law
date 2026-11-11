@@ -10,7 +10,7 @@ Lirimin dhe emërimin në/nga detyra të zëvendëskryetarit dhe të anëtarit t
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-302` (tags `vendim-2011-302/<day>`; `python tools/on.py <day> vendim-2011-302`).
+Act id: `vendim-2011-302` (tags `vendim-2011-302/<day>`; `python registry/tools/on.py <day> vendim-2011-302`).
 
 ## Decisions made by hand
 

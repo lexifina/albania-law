@@ -10,7 +10,7 @@ Miratimin e standardeve të shërbimit të linjës kombëtare të këshillimit p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-430` (tags `vendim-2016-430/<day>`; `python tools/on.py <day> vendim-2016-430`).
+Act id: `vendim-2016-430` (tags `vendim-2016-430/<day>`; `python registry/tools/on.py <day> vendim-2016-430`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,15 @@ Miratimin e marrëveshjes së grantit, ndërmjet Ministrisë së Shëndetësisë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-219` (tags `vendim-2020-219/<day>`; `python tools/on.py <day> vendim-2020-219`).
+Act id: `vendim-2020-219` (tags `vendim-2020-219/<day>`; `python registry/tools/on.py <day> vendim-2020-219`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 821, datë 20.10.2020: Për miratimin e letërmarrëveshjes ndryshuese të marrëveshjes së grantit, ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, në emër të Këshillit të Ministrave të Republikës së Shqipërisë, dhe fondit global për të luftuar sida-n, tuberkulozin dhe malarien, për programin “Përshkallëzimi dhe sigurimi i qëndrueshmërisë së përgjigjes kombëtare ndaj HIV/SIDA-s dhe tuberkulozit në grupet kryesore të popullatës”, miratuar me vendimin nr.219, datë 12.3.2020, të Këshillit të Ministrave](https://qbz.gov.al/eli/vendim/2020/10/21/821)
 
 ## Decisions made by hand
 

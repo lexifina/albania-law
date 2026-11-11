@@ -15,7 +15,7 @@ Autorizimin e “General Polymeren Recycling Albania” sh.p.k., për importin e
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-449` (tags `vendim-2013-449/<day>`; `python tools/on.py <day> vendim-2013-449`).
+Act id: `vendim-2013-449` (tags `vendim-2013-449/<day>`; `python registry/tools/on.py <day> vendim-2013-449`).
 
 ## Decisions made by hand
 

@@ -42,7 +42,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare për v
 | Neni 33 | [neni-033.md](neni-033.md) | 0 |  |
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 
-Act id: `ligji-9032-2003` (tags `ligji-9032-2003/<day>`; `python tools/on.py <day> ligji-9032-2003`).
+Act id: `ligji-9032-2003` (tags `ligji-9032-2003/<day>`; `python registry/tools/on.py <day> ligji-9032-2003`).
 
 ## Decisions made by hand
 

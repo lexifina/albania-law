@@ -33,7 +33,7 @@ Përcaktimin e procedurave dhe të rregullave të përzgjedhjes së organizatave
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-110` (tags `vendim-2019-110/<day>`; `python tools/on.py <day> vendim-2019-110`).
+Act id: `vendim-2019-110` (tags `vendim-2019-110/<day>`; `python registry/tools/on.py <day> vendim-2019-110`).
 
 ## Decisions made by hand
 

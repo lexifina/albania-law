@@ -5,7 +5,7 @@ PËR RRITJen E NIVELIT TË PAGESËS SË PAPUNËSISË · 2 versions, from 2003-10
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-631` (tags `vendim-2003-631/<day>`; `python tools/on.py <day> vendim-2003-631`).
+Act id: `vendim-2003-631` (tags `vendim-2003-631/<day>`; `python registry/tools/on.py <day> vendim-2003-631`).
 
 ## Decisions made by hand
 

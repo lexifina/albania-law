@@ -5,7 +5,7 @@ PËR TRANSFERIMIN E PRONËS SHTETËRORE SIPAS HARTËS TREGUESE, ME NOMENKLATURË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-727` (tags `vendim-2017-727/<day>`; `python tools/on.py <day> vendim-2017-727`).
+Act id: `vendim-2017-727` (tags `vendim-2017-727/<day>`; `python registry/tools/on.py <day> vendim-2017-727`).
 
 ## Decisions made by hand
 

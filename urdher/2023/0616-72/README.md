@@ -11,7 +11,7 @@ Miratimin e kërkesës së shoqërisë ”Karavasta Solar” sh.p.k. për marrje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0616-72` (tags `urdher-2023-0616-72/<day>`; `python tools/on.py <day> urdher-2023-0616-72`).
+Act id: `urdher-2023-0616-72` (tags `urdher-2023-0616-72/<day>`; `python registry/tools/on.py <day> urdher-2023-0616-72`).
 
 ## Decisions made by hand
 

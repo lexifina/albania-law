@@ -21,7 +21,7 @@ Përcaktimin e rregullave për njoftimin e detyrimit për vetëdeklarim të adre
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-915` (tags `vendim-2020-915/<day>`; `python tools/on.py <day> vendim-2020-915`).
+Act id: `vendim-2020-915` (tags `vendim-2020-915/<day>`; `python registry/tools/on.py <day> vendim-2020-915`).
 
 ## Decisions made by hand
 

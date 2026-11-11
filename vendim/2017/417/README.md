@@ -5,7 +5,7 @@ Miratimin e planit të emergjencës për gazin natyror, në përputhje me standa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-417` (tags `vendim-2017-417/<day>`; `python tools/on.py <day> vendim-2017-417`).
+Act id: `vendim-2017-417` (tags `vendim-2017-417/<day>`; `python registry/tools/on.py <day> vendim-2017-417`).
 
 ## Decisions made by hand
 

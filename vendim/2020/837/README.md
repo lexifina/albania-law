@@ -15,7 +15,7 @@ Procedurat, kriteret e rregullat për ofrimin e shërbimeve të punësimit · 3 
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2022-04-29 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-837` (tags `vendim-2020-837/<day>`; `python tools/on.py <day> vendim-2020-837`).
+Act id: `vendim-2020-837` (tags `vendim-2020-837/<day>`; `python registry/tools/on.py <day> vendim-2020-837`).
 
 ## Decisions made by hand
 

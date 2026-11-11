@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për kalimin me avion të kufirit të Rep
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1224-40` (tags `udhezim-2008-1224-40/<day>`; `python tools/on.py <day> udhezim-2008-1224-40`).
+Act id: `udhezim-2008-1224-40` (tags `udhezim-2008-1224-40/<day>`; `python registry/tools/on.py <day> udhezim-2008-1224-40`).
 
 ## Decisions made by hand
 

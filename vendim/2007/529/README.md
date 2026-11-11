@@ -10,7 +10,7 @@ Miratimin e kritereve dhe të procedurave të aplikimit e të miratimit të leje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2007-11-08 |
 
-Act id: `vendim-2007-529` (tags `vendim-2007-529/<day>`; `python tools/on.py <day> vendim-2007-529`).
+Act id: `vendim-2007-529` (tags `vendim-2007-529/<day>`; `python registry/tools/on.py <day> vendim-2007-529`).
 
 ## Decisions made by hand
 

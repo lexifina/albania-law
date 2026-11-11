@@ -5,7 +5,7 @@ Miratimin e rregullores për përshkrimin, procedurat e propozimit, të shqyrtim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-406` (tags `vendim-2004-406/<day>`; `python tools/on.py <day> vendim-2004-406`).
+Act id: `vendim-2004-406` (tags `vendim-2004-406/<day>`; `python registry/tools/on.py <day> vendim-2004-406`).
 
 ## Decisions made by hand
 

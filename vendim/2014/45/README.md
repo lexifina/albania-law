@@ -12,7 +12,7 @@ Kalimin në administrim të ministrisë së bujqësisë, zhvillimit rural dhe ad
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-03-16 |
 
-Act id: `vendim-2014-45` (tags `vendim-2014-45/<day>`; `python tools/on.py <day> vendim-2014-45`).
+Act id: `vendim-2014-45` (tags `vendim-2014-45/<day>`; `python registry/tools/on.py <day> vendim-2014-45`).
 
 ## Decisions made by hand
 

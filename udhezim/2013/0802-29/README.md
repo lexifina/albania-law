@@ -5,7 +5,7 @@ Procedurat e ndjekjes së arsimit bazë me kohë të pjesshme · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0802-29` (tags `udhezim-2013-0802-29/<day>`; `python tools/on.py <day> udhezim-2013-0802-29`).
+Act id: `udhezim-2013-0802-29` (tags `udhezim-2013-0802-29/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-29`).
 
 ## Decisions made by hand
 

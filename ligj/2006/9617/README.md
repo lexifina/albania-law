@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republik�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9617` (tags `ligj-2006-9617/<day>`; `python tools/on.py <day> ligj-2006-9617`).
+Act id: `ligj-2006-9617` (tags `ligj-2006-9617/<day>`; `python registry/tools/on.py <day> ligj-2006-9617`).
 
 ## Decisions made by hand
 

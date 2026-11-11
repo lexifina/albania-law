@@ -15,7 +15,7 @@ Grumbullimin e diferencuar të mbetjeve në burime · 1 versions, from 2014-07-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-418` (tags `vendim-2014-418/<day>`; `python tools/on.py <day> vendim-2014-418`).
+Act id: `vendim-2014-418` (tags `vendim-2014-418/<day>`; `python registry/tools/on.py <day> vendim-2014-418`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e programit buxhetor afatmesëm, të rishikuar, 2016 -2018 · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-939` (tags `vendim-2015-939/<day>`; `python tools/on.py <day> vendim-2015-939`).
+Act id: `vendim-2015-939` (tags `vendim-2015-939/<day>`; `python registry/tools/on.py <day> vendim-2015-939`).
 
 ## Decisions made by hand
 

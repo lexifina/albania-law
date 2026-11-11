@@ -25,7 +25,7 @@ Mënyrën e organizimit dhe procedurën e votimit, për përcaktimin e përfaqë
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-740` (tags `vendim-2003-740/<day>`; `python tools/on.py <day> vendim-2003-740`).
+Act id: `vendim-2003-740` (tags `vendim-2003-740/<day>`; `python registry/tools/on.py <day> vendim-2003-740`).
 
 ## Decisions made by hand
 

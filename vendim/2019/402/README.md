@@ -17,7 +17,7 @@ Lejimin e përdorimit të brigjeve dhe të sipërfaqes përpara resortit, në fu
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-402` (tags `vendim-2019-402/<day>`; `python tools/on.py <day> vendim-2019-402`).
+Act id: `vendim-2019-402` (tags `vendim-2019-402/<day>`; `python registry/tools/on.py <day> vendim-2019-402`).
 
 ## Decisions made by hand
 

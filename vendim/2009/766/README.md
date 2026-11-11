@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit, ndërmjet këshillit të ministrave të r
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-766` (tags `vendim-2009-766/<day>`; `python tools/on.py <day> vendim-2009-766`).
+Act id: `vendim-2009-766` (tags `vendim-2009-766/<day>`; `python registry/tools/on.py <day> vendim-2009-766`).
 
 ## Decisions made by hand
 

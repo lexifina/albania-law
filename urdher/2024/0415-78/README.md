@@ -11,7 +11,7 @@ Miratimin e rregullores për transportin ajror të mallrave të rrezikshme në R
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0415-78` (tags `urdher-2024-0415-78/<day>`; `python tools/on.py <day> urdher-2024-0415-78`).
+Act id: `urdher-2024-0415-78` (tags `urdher-2024-0415-78/<day>`; `python registry/tools/on.py <day> urdher-2024-0415-78`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e raportit të 13-të dhe 14-të periodik kombëtar për zbatimin e ko
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-387` (tags `vendim-2021-387/<day>`; `python tools/on.py <day> vendim-2021-387`).
+Act id: `vendim-2021-387` (tags `vendim-2021-387/<day>`; `python registry/tools/on.py <day> vendim-2021-387`).
 
 ## Decisions made by hand
 

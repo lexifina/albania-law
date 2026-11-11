@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së Garancisë ndërmjet Qeverisë së Republikë
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8972-2002` (tags `ligji-8972-2002/<day>`; `python tools/on.py <day> ligji-8972-2002`).
+Act id: `ligji-8972-2002` (tags `ligji-8972-2002/<day>`; `python registry/tools/on.py <day> ligji-8972-2002`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Heqjen e licencës së Shoqatës ”F.M.A.A” si Agjenci e Administrimit Kolekt
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0928-581` (tags `urdher-2023-0928-581/<day>`; `python tools/on.py <day> urdher-2023-0928-581`).
+Act id: `urdher-2023-0928-581` (tags `urdher-2023-0928-581/<day>`; `python registry/tools/on.py <day> urdher-2023-0928-581`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Bashkimin e ambasadës së republikës së shqipërisë në mbretërinë e belgj
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-16` (tags `vendim-2000-16/<day>`; `python tools/on.py <day> vendim-2000-16`).
+Act id: `vendim-2000-16` (tags `vendim-2000-16/<day>`; `python registry/tools/on.py <day> vendim-2000-16`).
 
 ## Decisions made by hand
 

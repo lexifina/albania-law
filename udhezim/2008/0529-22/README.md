@@ -18,7 +18,7 @@ Përdorimin e fondeve të planifikuara për transportin e mësuesve dhe të nxë
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0529-22` (tags `udhezim-2008-0529-22/<day>`; `python tools/on.py <day> udhezim-2008-0529-22`).
+Act id: `udhezim-2008-0529-22` (tags `udhezim-2008-0529-22/<day>`; `python registry/tools/on.py <day> udhezim-2008-0529-22`).
 
 ## Decisions made by hand
 

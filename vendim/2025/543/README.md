@@ -8,7 +8,7 @@ Lirim dhe emërim në detyrë · 1 versions, from 2025-10-07 (latest in force: 2
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-543` (tags `vendim-2025-543/<day>`; `python tools/on.py <day> vendim-2025-543`).
+Act id: `vendim-2025-543` (tags `vendim-2025-543/<day>`; `python registry/tools/on.py <day> vendim-2025-543`).
 
 ## Decisions made by hand
 

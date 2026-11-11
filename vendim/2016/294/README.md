@@ -9,7 +9,7 @@ Miratimin e dokumentit të ndryshimit të marrëveshjes së grantit, të miratua
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-294` (tags `vendim-2016-294/<day>`; `python tools/on.py <day> vendim-2016-294`).
+Act id: `vendim-2016-294` (tags `vendim-2016-294/<day>`; `python registry/tools/on.py <day> vendim-2016-294`).
 
 ## Decisions made by hand
 

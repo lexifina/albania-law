@@ -11,7 +11,7 @@ Ndryshimin e referencës ligjore në Standardet Kombëtare të Kontabilitetit t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0721-134` (tags `urdher-2021-0721-134/<day>`; `python tools/on.py <day> urdher-2021-0721-134`).
+Act id: `urdher-2021-0721-134` (tags `urdher-2021-0721-134/<day>`; `python registry/tools/on.py <day> urdher-2021-0721-134`).
 
 ## Decisions made by hand
 

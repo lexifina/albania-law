@@ -5,7 +5,7 @@ Përdorimin e fondeve publike për transportimin e MËSUESVE dhe të nxënësve 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-709` (tags `vendim-2011-709/<day>`; `python tools/on.py <day> vendim-2011-709`).
+Act id: `vendim-2011-709` (tags `vendim-2011-709/<day>`; `python registry/tools/on.py <day> vendim-2011-709`).
 
 ## Decisions made by hand
 

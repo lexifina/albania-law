@@ -12,7 +12,7 @@ Delegim të përkohshëm të kompetencave · 1 versions, from 2017-08-07 (latest
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-0803-2125` (tags `urdher-2017-0803-2125/<day>`; `python tools/on.py <day> urdher-2017-0803-2125`).
+Act id: `urdher-2017-0803-2125` (tags `urdher-2017-0803-2125/<day>`; `python registry/tools/on.py <day> urdher-2017-0803-2125`).
 
 ## Decisions made by hand
 

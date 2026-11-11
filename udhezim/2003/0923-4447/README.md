@@ -44,7 +44,7 @@ Shoqërimin teknik të mjeteve jashtë norme në kryerjen e · 1 versions, from 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2003-0923-4447` (tags `udhezim-2003-0923-4447/<day>`; `python tools/on.py <day> udhezim-2003-0923-4447`).
+Act id: `udhezim-2003-0923-4447` (tags `udhezim-2003-0923-4447/<day>`; `python registry/tools/on.py <day> udhezim-2003-0923-4447`).
 
 ## Decisions made by hand
 

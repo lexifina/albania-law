@@ -11,7 +11,7 @@ PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA Ministria e Drejtësisë TE MIN
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-868` (tags `vendim-2016-868/<day>`; `python tools/on.py <day> vendim-2016-868`).
+Act id: `vendim-2016-868` (tags `vendim-2016-868/<day>`; `python registry/tools/on.py <day> vendim-2016-868`).
 
 ## Decisions made by hand
 

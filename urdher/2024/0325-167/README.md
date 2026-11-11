@@ -12,7 +12,7 @@ Përcaktimin e rregullave të hollësishme për organizimin dhe funksionimin e K
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0325-167` (tags `urdher-2024-0325-167/<day>`; `python tools/on.py <day> urdher-2024-0325-167`).
+Act id: `urdher-2024-0325-167` (tags `urdher-2024-0325-167/<day>`; `python registry/tools/on.py <day> urdher-2024-0325-167`).
 
 ## Decisions made by hand
 

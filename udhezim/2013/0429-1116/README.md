@@ -14,7 +14,7 @@ Procedurat e administrimit dhe asgjësimit të barnave që kalojnë në Drejtori
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0429-1116` (tags `udhezim-2013-0429-1116/<day>`; `python tools/on.py <day> udhezim-2013-0429-1116`).
+Act id: `udhezim-2013-0429-1116` (tags `udhezim-2013-0429-1116/<day>`; `python registry/tools/on.py <day> udhezim-2013-0429-1116`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e rregullave për grumbullimin, menaxhimin e përdorimin e të dhë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-301` (tags `vendim-2013-301/<day>`; `python tools/on.py <day> vendim-2013-301`).
+Act id: `vendim-2013-301` (tags `vendim-2013-301/<day>`; `python registry/tools/on.py <day> vendim-2013-301`).
 
 ## Decisions made by hand
 

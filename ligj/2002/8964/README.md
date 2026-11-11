@@ -10,7 +10,7 @@ Buxhetin faktik të Shtetit të vitit 2001 · 1 versions, from 2002-12-23 (lates
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8964` (tags `ligj-2002-8964/<day>`; `python tools/on.py <day> ligj-2002-8964`).
+Act id: `ligj-2002-8964` (tags `ligj-2002-8964/<day>`; `python registry/tools/on.py <day> ligj-2002-8964`).
 
 ## Decisions made by hand
 

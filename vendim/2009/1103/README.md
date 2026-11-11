@@ -10,7 +10,7 @@ Miratimin e planit të veprimit të strategjisë ndërsektoriale të luftës kun
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1103` (tags `vendim-2009-1103/<day>`; `python tools/on.py <day> vendim-2009-1103`).
+Act id: `vendim-2009-1103` (tags `vendim-2009-1103/<day>`; `python registry/tools/on.py <day> vendim-2009-1103`).
 
 ## Decisions made by hand
 

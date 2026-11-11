@@ -40,7 +40,7 @@ Dhënien e statusit të veçantë Akademisë së Sigurisë, si institucioni i ve
 | Pika 33 | [pika-033.md](pika-033.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-881` (tags `vendim-2020-881/<day>`; `python tools/on.py <day> vendim-2020-881`).
+Act id: `vendim-2020-881` (tags `vendim-2020-881/<day>`; `python registry/tools/on.py <day> vendim-2020-881`).
 
 ## Decisions made by hand
 

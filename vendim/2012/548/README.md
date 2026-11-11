@@ -26,7 +26,15 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-548` (tags `vendim-2012-548/<day>`; `python tools/on.py <day> vendim-2012-548`).
+Act id: `vendim-2012-548` (tags `vendim-2012-548/<day>`; `python registry/tools/on.py <day> vendim-2012-548`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 720, datë 16.10.2012: Për një ndryshim në vendimin nr. 548, datë 16.8.2012 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve, me kohë të plotë “master i shkencave”/“master i arteve të bukura” për vitin akademik 2012-2013”](https://qbz.gov.al/eli/vendim/2012/10/16/720)
 
 ## Decisions made by hand
 

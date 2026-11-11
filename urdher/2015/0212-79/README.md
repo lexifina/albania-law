@@ -9,7 +9,7 @@ Zhvillimin e procesit të vlerësimit të njohurive dhe aftësive të personelit
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0212-79` (tags `urdher-2015-0212-79/<day>`; `python tools/on.py <day> urdher-2015-0212-79`).
+Act id: `urdher-2015-0212-79` (tags `urdher-2015-0212-79/<day>`; `python registry/tools/on.py <day> urdher-2015-0212-79`).
 
 ## Decisions made by hand
 

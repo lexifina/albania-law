@@ -5,7 +5,7 @@ Mbrojtjen e konsumatorëve · 2 versions, from 2003-10-22 (latest in force: 2008
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9135` (tags `ligj-2003-9135/<day>`; `python tools/on.py <day> ligj-2003-9135`).
+Act id: `ligj-2003-9135` (tags `ligj-2003-9135/<day>`; `python registry/tools/on.py <day> ligj-2003-9135`).
 
 ## Decisions made by hand
 

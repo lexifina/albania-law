@@ -16,7 +16,7 @@ Përcaktimin e rregullave për mbajtjen e adresës së postës elektronike për 
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0504-191` (tags `urdher-2022-0504-191/<day>`; `python tools/on.py <day> urdher-2022-0504-191`).
+Act id: `urdher-2022-0504-191` (tags `urdher-2022-0504-191/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-191`).
 
 ## Decisions made by hand
 

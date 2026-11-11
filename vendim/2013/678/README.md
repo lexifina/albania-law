@@ -16,7 +16,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-678` (tags `vendim-2013-678/<day>`; `python tools/on.py <day> vendim-2013-678`).
+Act id: `vendim-2013-678` (tags `vendim-2013-678/<day>`; `python registry/tools/on.py <day> vendim-2013-678`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 494, datë 22.7.2014: Për disa ndryshime në vendimin nr. 678, datë 16.1.2013, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, vënia në punë, administrimi e mirëmbajtja e hidrocentraleve të gojanit, gjegjanit, peshqeshit, ura e fanit, fangut”](https://qbz.gov.al/eli/vendim/2014/07/22/494)
+- [Vendimi i Këshillit të Ministrave nr. 210, datë 15.3.2017: Për disa shtesa dhe ndryshime në vendimin nr. 678, datë 16.8.2013, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, vënia në punë, administrimi dhe mirëmbajtja e hidrocentraleve të gojanit, gjegjanit, peshqeshit, ura e fanit, fangut”, të ndryshuar](https://qbz.gov.al/eli/vendim/2017/03/15/210)
 
 ## Decisions made by hand
 

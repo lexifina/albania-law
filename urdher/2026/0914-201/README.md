@@ -11,7 +11,7 @@ Miratimin e rregullores ”Mbi kushtet teknike të ndërveprimit (TSI) për nën
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0914-201` (tags `urdher-2026-0914-201/<day>`; `python tools/on.py <day> urdher-2026-0914-201`).
+Act id: `urdher-2026-0914-201` (tags `urdher-2026-0914-201/<day>`; `python registry/tools/on.py <day> urdher-2026-0914-201`).
 
 ## Decisions made by hand
 

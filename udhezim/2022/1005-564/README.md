@@ -12,7 +12,7 @@ Miratimin e standardeve për qendrat e trajtimit të fëmijëve viktima apo dës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1005-564` (tags `udhezim-2022-1005-564/<day>`; `python tools/on.py <day> udhezim-2022-1005-564`).
+Act id: `udhezim-2022-1005-564` (tags `udhezim-2022-1005-564/<day>`; `python registry/tools/on.py <day> udhezim-2022-1005-564`).
 
 ## Decisions made by hand
 

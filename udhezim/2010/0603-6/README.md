@@ -28,7 +28,17 @@ Mbi dispozitat e shërbimit të navigimit ajror në Qiellin e Vetëm Europian (r
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0603-6` (tags `udhezim-2010-0603-6/<day>`; `python tools/on.py <day> udhezim-2010-0603-6`).
+Act id: `udhezim-2010-0603-6` (tags `udhezim-2010-0603-6/<day>`; `python registry/tools/on.py <day> udhezim-2010-0603-6`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 8, datë 15.9.2015 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 12497]: Për disa shtesa dhe ndryshime në udhëzimin nr. 5, datë 3.6.2010 “Kuadri rregullativ në qiellin e vetëm evropian”, në udhëzimin nr. 6, datë 3.6.2010 “Mbi dispozitat e shërbimit të navigimit ajror në qiellin e vetëm evropian”, në udhëzimin nr. 7, datë 3.6.2010 “Mbi organizimin dhe përdorimin e hapësirës ajrore brenda qiellit të vetëm evropian” dhe në udhëzimin nr. 8, datë 3.6.2010 “Për ndërveprimin në rrjetin evropian të menaxhimit të trafikut ajror”, me qëllim përmirësimin e performancës dhe qëndrueshmërisë së sistemit të aviacionit civil](https://qbz.gov.al/eli/udhezim/2015/09/15/8)
+- [Urdhri nr. 118, datë 23.10.2012 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 19517]: Për miratimin e rregullores “për mbikëqyrjen e sigurisë në menaxhimin e trafikut ajror dhe në shërbimet e lundrimit ajror”](https://qbz.gov.al/eli/urdher/2012/10/23/118)
+- [Urdhri nr. 26, datë 18.1.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22624]: Për miratimin e rregullores për përcaktimin e kërkesave të përbashkëta për ofruesit e shërbimeve të menaxhimit të trafikut ajror dhe të lundrimit ajror, si dhe funksionet e tjera të rrjetit të menaxhimit të trafikut ajror dhe mbikëqyrjen e tyre](https://qbz.gov.al/eli/urdher/2021/01/18/26)
 
 ## Decisions made by hand
 

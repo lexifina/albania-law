@@ -20,7 +20,7 @@ Miratimin e rregullave të hollësishme për veprimtarinë, emërimin, shkarkimi
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-561` (tags `vendim-2025-561/<day>`; `python tools/on.py <day> vendim-2025-561`).
+Act id: `vendim-2025-561` (tags `vendim-2025-561/<day>`; `python registry/tools/on.py <day> vendim-2025-561`).
 
 ## Decisions made by hand
 

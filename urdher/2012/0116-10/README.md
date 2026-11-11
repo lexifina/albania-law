@@ -13,7 +13,7 @@ Hapjen e programeve të studimit të ciklit të dytë që përfundojnë me “ma
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0116-10` (tags `urdher-2012-0116-10/<day>`; `python tools/on.py <day> urdher-2012-0116-10`).
+Act id: `urdher-2012-0116-10` (tags `urdher-2012-0116-10/<day>`; `python registry/tools/on.py <day> urdher-2012-0116-10`).
 
 ## Decisions made by hand
 

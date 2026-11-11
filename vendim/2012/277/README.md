@@ -14,7 +14,7 @@ Autorizimin e “ama recycling”, shpk për importin e mbetjeve metalike të al
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-277` (tags `vendim-2012-277/<day>`; `python tools/on.py <day> vendim-2012-277`).
+Act id: `vendim-2012-277` (tags `vendim-2012-277/<day>`; `python registry/tools/on.py <day> vendim-2012-277`).
 
 ## Decisions made by hand
 

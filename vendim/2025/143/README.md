@@ -23,7 +23,7 @@ Përcaktimin e kushteve dhe të mënyrës për mbrojtjen e veçantë të punonj�
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-143` (tags `vendim-2025-143/<day>`; `python tools/on.py <day> vendim-2025-143`).
+Act id: `vendim-2025-143` (tags `vendim-2025-143/<day>`; `python registry/tools/on.py <day> vendim-2025-143`).
 
 ## Decisions made by hand
 

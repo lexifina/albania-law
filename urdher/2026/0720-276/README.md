@@ -42,7 +42,7 @@ Administrimin e Regjistrit të Inspektorëve, Numrit Unik të Identifikimit dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-09-08 |
 
-Act id: `urdher-2026-0720-276` (tags `urdher-2026-0720-276/<day>`; `python tools/on.py <day> urdher-2026-0720-276`).
+Act id: `urdher-2026-0720-276` (tags `urdher-2026-0720-276/<day>`; `python registry/tools/on.py <day> urdher-2026-0720-276`).
 
 ## Decisions made by hand
 

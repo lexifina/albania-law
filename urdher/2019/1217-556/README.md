@@ -19,7 +19,7 @@ Caktimin e personave të autorizuar që do të përdorin portalin qeveritar e-Al
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1217-556` (tags `urdher-2019-1217-556/<day>`; `python tools/on.py <day> urdher-2019-1217-556`).
+Act id: `urdher-2019-1217-556` (tags `urdher-2019-1217-556/<day>`; `python registry/tools/on.py <day> urdher-2019-1217-556`).
 
 ## Decisions made by hand
 

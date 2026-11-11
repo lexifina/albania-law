@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese të marrëveshjes kuadër të huas ndërm
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-79` (tags `ligj-2015-79/<day>`; `python tools/on.py <day> ligj-2015-79`).
+Act id: `ligj-2015-79` (tags `ligj-2015-79/<day>`; `python registry/tools/on.py <day> ligj-2015-79`).
 
 ## Decisions made by hand
 

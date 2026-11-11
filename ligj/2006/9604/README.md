@@ -10,7 +10,7 @@ Ratifikimin e “Konventës së bashkëpunimit policor për Europën Juglindore�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9604` (tags `ligj-2006-9604/<day>`; `python tools/on.py <day> ligj-2006-9604`).
+Act id: `ligj-2006-9604` (tags `ligj-2006-9604/<day>`; `python registry/tools/on.py <day> ligj-2006-9604`).
 
 ## Decisions made by hand
 

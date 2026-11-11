@@ -10,7 +10,7 @@ Kalimin te Bashkia Kamzë të njësive individuale të banimit · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-207` (tags `vendim-2024-207/<day>`; `python tools/on.py <day> vendim-2024-207`).
+Act id: `vendim-2024-207` (tags `vendim-2024-207/<day>`; `python registry/tools/on.py <day> vendim-2024-207`).
 
 ## Decisions made by hand
 

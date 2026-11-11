@@ -12,7 +12,7 @@ Miratimin e strategjisë kombëtare të energjisë deri në vitin 2015 · 1 vers
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-424` (tags `vendim-2003-424/<day>`; `python tools/on.py <day> vendim-2003-424`).
+Act id: `vendim-2003-424` (tags `vendim-2003-424/<day>`; `python registry/tools/on.py <day> vendim-2003-424`).
 
 ## Decisions made by hand
 

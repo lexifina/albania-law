@@ -11,7 +11,7 @@ Delegim kompetencash për procedurat e prokurimit publik · 1 versions, from 201
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0225-33` (tags `urdher-2014-0225-33/<day>`; `python tools/on.py <day> urdher-2014-0225-33`).
+Act id: `urdher-2014-0225-33` (tags `urdher-2014-0225-33/<day>`; `python registry/tools/on.py <day> urdher-2014-0225-33`).
 
 ## Decisions made by hand
 

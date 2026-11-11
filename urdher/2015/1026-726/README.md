@@ -9,7 +9,7 @@ Miratimin e formatit të dokumenteve standarde, në përputhje me dispozitat lig
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-1026-726` (tags `urdher-2015-1026-726/<day>`; `python tools/on.py <day> urdher-2015-1026-726`).
+Act id: `urdher-2015-1026-726` (tags `urdher-2015-1026-726/<day>`; `python registry/tools/on.py <day> urdher-2015-1026-726`).
 
 ## Decisions made by hand
 

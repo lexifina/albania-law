@@ -5,7 +5,7 @@ Delegimin e kompetencës për trajtimin e çështjeve konsullore · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0503-311` (tags `urdher-2024-0503-311/<day>`; `python tools/on.py <day> urdher-2024-0503-311`).
+Act id: `urdher-2024-0503-311` (tags `urdher-2024-0503-311/<day>`; `python registry/tools/on.py <day> urdher-2024-0503-311`).
 
 ## Decisions made by hand
 

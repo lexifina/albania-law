@@ -28,7 +28,7 @@ Procedurën e trajnimit, testimit fillestar dhe periodik, si dhe kriteret përka
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0225-1` (tags `udhezim-2020-0225-1/<day>`; `python tools/on.py <day> udhezim-2020-0225-1`).
+Act id: `udhezim-2020-0225-1` (tags `udhezim-2020-0225-1/<day>`; `python registry/tools/on.py <day> udhezim-2020-0225-1`).
 
 ## Decisions made by hand
 

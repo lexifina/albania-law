@@ -23,7 +23,7 @@ Procedurat e menaxhimit të investimeve publike · 3 versions, from 2022-12-29 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-03-21 |
 
-Act id: `vendim-2022-887` (tags `vendim-2022-887/<day>`; `python tools/on.py <day> vendim-2022-887`).
+Act id: `vendim-2022-887` (tags `vendim-2022-887/<day>`; `python registry/tools/on.py <day> vendim-2022-887`).
 
 ## Decisions made by hand
 

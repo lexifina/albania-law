@@ -52,7 +52,7 @@ Procedurat e mbylljes së llogarive vjetore të buxhetit për vitin 2016 · 1 ve
 | Pika 44 | [pika-044.md](pika-044.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1228-25` (tags `udhezim-2016-1228-25/<day>`; `python tools/on.py <day> udhezim-2016-1228-25`).
+Act id: `udhezim-2016-1228-25` (tags `udhezim-2016-1228-25/<day>`; `python registry/tools/on.py <day> udhezim-2016-1228-25`).
 
 ## Decisions made by hand
 

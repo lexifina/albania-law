@@ -5,7 +5,7 @@ Nënshkrimin elektronik · 3 versions, from 2022-12-09 (latest in force: 2026-06
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9880` (tags `ligj-2008-9880/<day>`; `python tools/on.py <day> ligj-2008-9880`).
+Act id: `ligj-2008-9880` (tags `ligj-2008-9880/<day>`; `python registry/tools/on.py <day> ligj-2008-9880`).
 
 ## Decisions made by hand
 

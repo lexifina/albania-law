@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-326` (tags `vendim-2008-326/<day>`; `python tools/on.py <day> vendim-2008-326`).
+Act id: `vendim-2008-326` (tags `vendim-2008-326/<day>`; `python registry/tools/on.py <day> vendim-2008-326`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 225, datë 28.3.2012: Për një ndryshim në vendimin nr. 180, datë 31.3.2005 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, në komunën e kozarës të qarkut të beratit”, dhe për një ndryshim në vendimin nr. 326, datë 19.3.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pyjeve dhe kullotave që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna kozarë, të qarkut të beratit”](https://qbz.gov.al/eli/vendim/2012/03/28/225)
 
 ## Decisions made by hand
 

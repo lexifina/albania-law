@@ -40,7 +40,7 @@ Përcaktimin e procedurave të veçanta të legalizimit në favor të poseduesve
 | Pika 32 | [pika-032.md](pika-032.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1180` (tags `vendim-2020-1180/<day>`; `python tools/on.py <day> vendim-2020-1180`).
+Act id: `vendim-2020-1180` (tags `vendim-2020-1180/<day>`; `python registry/tools/on.py <day> vendim-2020-1180`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e strategjisë kombëtare kundër trafikimit të fëmijëve dhe mbrojt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-171` (tags `vendim-2005-171/<day>`; `python tools/on.py <day> vendim-2005-171`).
+Act id: `vendim-2005-171` (tags `vendim-2005-171/<day>`; `python registry/tools/on.py <day> vendim-2005-171`).
 
 ## Decisions made by hand
 

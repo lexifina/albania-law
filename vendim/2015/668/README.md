@@ -9,7 +9,15 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë, me tarifën 1 euro/k
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-668` (tags `vendim-2015-668/<day>`; `python tools/on.py <day> vendim-2015-668`).
+Act id: `vendim-2015-668` (tags `vendim-2015-668/<day>`; `python registry/tools/on.py <day> vendim-2015-668`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 721, datë 16.9.2020: Për dhënien e miratimit për një ndryshim në kontratën e qirasë me tarifën 1 euro/kontrata, të miratuar me vendimin nr. 668, datë 29.7.2015, të Këshillit të Ministrave](https://qbz.gov.al/eli/vendim/2020/09/16/721)
 
 ## Decisions made by hand
 

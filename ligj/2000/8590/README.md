@@ -14,7 +14,7 @@ Miratimin e “marrëveshjes së koncensionit të formës “bot” për uzinën
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8590` (tags `ligj-2000-8590/<day>`; `python tools/on.py <day> ligj-2000-8590`).
+Act id: `ligj-2000-8590` (tags `ligj-2000-8590/<day>`; `python registry/tools/on.py <day> ligj-2000-8590`).
 
 ## Decisions made by hand
 

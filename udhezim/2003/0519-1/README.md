@@ -14,7 +14,7 @@ Mbi licencimin dhe kontrollin e ushtrimit të veprimtarisë turistike · 1 versi
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2003-0519-1` (tags `udhezim-2003-0519-1/<day>`; `python tools/on.py <day> udhezim-2003-0519-1`).
+Act id: `udhezim-2003-0519-1` (tags `udhezim-2003-0519-1/<day>`; `python registry/tools/on.py <day> udhezim-2003-0519-1`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,15 @@ Deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-730` (tags `vendim-2023-730/<day>`; `python tools/on.py <day> vendim-2023-730`).
+Act id: `vendim-2023-730` (tags `vendim-2023-730/<day>`; `python registry/tools/on.py <day> vendim-2023-730`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 843, datë 5.11.2026: Për disa ndryshime në vendimin nr.730, datë 13.12.2023, të Këshillit të Ministrave, “Për deklarimin pasuri kulturore e paluajtshme e zonave arkeologjike “A” dhe “B” të qytetit të Sarandës, “Kalasë së Lëkurësit” e “Manastirit të 40 Shenjtorëve” dhe miratimin e zonimit e të planit për ruajtjen, mbrojtjen dhe administrimin e tyre”](https://qbz.gov.al/eli/vendim/2026/11/05/843)
 
 ## Decisions made by hand
 

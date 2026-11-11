@@ -27,7 +27,7 @@ Procedurën e korrigjimit të kartelave të pasurive të paluajtshme që janë p
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0603-1150` (tags `urdher-2019-0603-1150/<day>`; `python tools/on.py <day> urdher-2019-0603-1150`).
+Act id: `urdher-2019-0603-1150` (tags `urdher-2019-0603-1150/<day>`; `python registry/tools/on.py <day> urdher-2019-0603-1150`).
 
 ## Decisions made by hand
 

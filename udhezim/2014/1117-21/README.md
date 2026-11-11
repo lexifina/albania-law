@@ -8,7 +8,7 @@ Mbi procedurën e pagesave të detyrimeve e doganore të paguara tepër nga drej
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-1117-21` (tags `udhezim-2014-1117-21/<day>`; `python tools/on.py <day> udhezim-2014-1117-21`).
+Act id: `udhezim-2014-1117-21` (tags `udhezim-2014-1117-21/<day>`; `python registry/tools/on.py <day> udhezim-2014-1117-21`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores ”Mbi pikat e referencës për veprim për substancat f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0310-134` (tags `urdher-2023-0310-134/<day>`; `python tools/on.py <day> urdher-2023-0310-134`).
+Act id: `urdher-2023-0310-134` (tags `urdher-2023-0310-134/<day>`; `python registry/tools/on.py <day> urdher-2023-0310-134`).
 
 ## Decisions made by hand
 

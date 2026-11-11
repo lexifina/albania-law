@@ -5,7 +5,7 @@ Rregulloren e përbashkët të përdorimit fleksibël të hapësirës ajrore · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-0603-10` (tags `udhezim-2010-0603-10/<day>`; `python tools/on.py <day> udhezim-2010-0603-10`).
+Act id: `udhezim-2010-0603-10` (tags `udhezim-2010-0603-10/<day>`; `python registry/tools/on.py <day> udhezim-2010-0603-10`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Instalimin e pajisjeve fiskale në magazinat doganore dhe tatimore të karburant
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-1030-43` (tags `udhezim-2009-1030-43/<day>`; `python tools/on.py <day> udhezim-2009-1030-43`).
+Act id: `udhezim-2009-1030-43` (tags `udhezim-2009-1030-43/<day>`; `python registry/tools/on.py <day> udhezim-2009-1030-43`).
 
 ## Decisions made by hand
 

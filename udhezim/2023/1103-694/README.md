@@ -13,7 +13,7 @@ Procedurat e përditësimit të bazës së të dhënave dhe administrimin e pasu
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1103-694` (tags `udhezim-2023-1103-694/<day>`; `python tools/on.py <day> udhezim-2023-1103-694`).
+Act id: `udhezim-2023-1103-694` (tags `udhezim-2023-1103-694/<day>`; `python registry/tools/on.py <day> udhezim-2023-1103-694`).
 
 ## Decisions made by hand
 

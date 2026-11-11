@@ -14,7 +14,7 @@ Tregtimi i pjesëve të këmbimit të mjeteve rrugore me motor dhe/ose të rimor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0329-1548` (tags `udhezim-2016-0329-1548/<day>`; `python tools/on.py <day> udhezim-2016-0329-1548`).
+Act id: `udhezim-2016-0329-1548` (tags `udhezim-2016-0329-1548/<day>`; `python registry/tools/on.py <day> udhezim-2016-0329-1548`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Pjesëmarrjen e shqipërisë në panairin ndërkombëtar “expo milano 2015” 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-140` (tags `vendim-2014-140/<day>`; `python tools/on.py <day> vendim-2014-140`).
+Act id: `vendim-2014-140` (tags `vendim-2014-140/<day>`; `python registry/tools/on.py <day> vendim-2014-140`).
 
 ## Decisions made by hand
 

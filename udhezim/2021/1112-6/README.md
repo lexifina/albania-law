@@ -29,7 +29,7 @@ Mbi kontrollin teknik të mjeteve rrugore · 2 versions, from 2021-12-08 (latest
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-01-09 |
 
-Act id: `udhezim-2021-1112-6` (tags `udhezim-2021-1112-6/<day>`; `python tools/on.py <day> udhezim-2021-1112-6`).
+Act id: `udhezim-2021-1112-6` (tags `udhezim-2021-1112-6/<day>`; `python registry/tools/on.py <day> udhezim-2021-1112-6`).
 
 ## Decisions made by hand
 

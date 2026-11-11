@@ -9,7 +9,7 @@ Konstatimin e përfundimit të mandatit të anëtarit të Bordit Drejtues të Au
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-350` (tags `vendim-2021-350/<day>`; `python tools/on.py <day> vendim-2021-350`).
+Act id: `vendim-2021-350` (tags `vendim-2021-350/<day>`; `python registry/tools/on.py <day> vendim-2021-350`).
 
 ## Decisions made by hand
 

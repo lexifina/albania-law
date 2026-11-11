@@ -5,7 +5,7 @@ Zbatimin e ligjit nr.10 270, datë 22.4.2010 “Për të drejtën e privatizimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-0907-30` (tags `udhezim-2010-0907-30/<day>`; `python tools/on.py <day> udhezim-2010-0907-30`).
+Act id: `udhezim-2010-0907-30` (tags `udhezim-2010-0907-30/<day>`; `python registry/tools/on.py <day> udhezim-2010-0907-30`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e autoritetit mbikëqyrës të sigurimeve · 2 vers
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9268` (tags `ligj-2004-9268/<day>`; `python tools/on.py <day> ligj-2004-9268`).
+Act id: `ligj-2004-9268` (tags `ligj-2004-9268/<day>`; `python registry/tools/on.py <day> ligj-2004-9268`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Procedurat e miratimit të zonës informale · 1 versions, from 2005-05-30 (late
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2005-0513-3` (tags `udhezim-2005-0513-3/<day>`; `python tools/on.py <day> udhezim-2005-0513-3`).
+Act id: `udhezim-2005-0513-3` (tags `udhezim-2005-0513-3/<day>`; `python registry/tools/on.py <day> udhezim-2005-0513-3`).
 
 ## Decisions made by hand
 

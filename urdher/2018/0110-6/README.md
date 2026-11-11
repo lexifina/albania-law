@@ -5,7 +5,7 @@ Delegim kompetence · 2 versions, from 2018-01-23 (latest in force: 2019-01-09) 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2018-0110-6` (tags `urdher-2018-0110-6/<day>`; `python tools/on.py <day> urdher-2018-0110-6`).
+Act id: `urdher-2018-0110-6` (tags `urdher-2018-0110-6/<day>`; `python registry/tools/on.py <day> urdher-2018-0110-6`).
 
 ## Decisions made by hand
 

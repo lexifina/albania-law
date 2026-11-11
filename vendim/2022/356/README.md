@@ -5,7 +5,7 @@ Përcaktimin e organizatave të punëdhënësve dhe të organizatave sindikale n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-356` (tags `vendim-2022-356/<day>`; `python tools/on.py <day> vendim-2022-356`).
+Act id: `vendim-2022-356` (tags `vendim-2022-356/<day>`; `python registry/tools/on.py <day> vendim-2022-356`).
 
 ## Decisions made by hand
 

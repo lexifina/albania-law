@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes ndërmjet Qeverisë së Republikës së Shqipëri
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9429` (tags `ligj-2005-9429/<day>`; `python tools/on.py <day> ligj-2005-9429`).
+Act id: `ligj-2005-9429` (tags `ligj-2005-9429/<day>`; `python registry/tools/on.py <day> ligj-2005-9429`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Emërimin e anëtarëve të Këshillit të Statistikave · 2 versions, from 2013
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-310` (tags `vendim-2013-310/<day>`; `python tools/on.py <day> vendim-2013-310`).
+Act id: `vendim-2013-310` (tags `vendim-2013-310/<day>`; `python registry/tools/on.py <day> vendim-2013-310`).
 
 ## Decisions made by hand
 

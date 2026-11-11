@@ -12,7 +12,7 @@ Miratimin e kostos mesatare të ndërtimit të banesave, nga Enti Kombëtar i Ba
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0907-5` (tags `udhezim-2006-0907-5/<day>`; `python tools/on.py <day> udhezim-2006-0907-5`).
+Act id: `udhezim-2006-0907-5` (tags `udhezim-2006-0907-5/<day>`; `python registry/tools/on.py <day> udhezim-2006-0907-5`).
 
 ## Decisions made by hand
 

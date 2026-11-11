@@ -14,7 +14,7 @@ Mbi përllogaritjen e përfitimit të ndihmës ekonomike, në zonat pilot · 1 v
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0623-8` (tags `udhezim-2014-0623-8/<day>`; `python tools/on.py <day> udhezim-2014-0623-8`).
+Act id: `udhezim-2014-0623-8` (tags `udhezim-2014-0623-8/<day>`; `python registry/tools/on.py <day> udhezim-2014-0623-8`).
 
 ## Decisions made by hand
 

@@ -32,7 +32,7 @@ Përcaktimin e kritereve dhe të procedurës për përfitimin e mbrojtjes së ve
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-208` (tags `vendim-2022-208/<day>`; `python tools/on.py <day> vendim-2022-208`).
+Act id: `vendim-2022-208` (tags `vendim-2022-208/<day>`; `python registry/tools/on.py <day> vendim-2022-208`).
 
 ## Decisions made by hand
 

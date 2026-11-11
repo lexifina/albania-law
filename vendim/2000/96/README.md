@@ -5,7 +5,7 @@ Miratimin e rregullores së përgjithshme të burgjeve · 2 versions, from 2000-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-96` (tags `vendim-2000-96/<day>`; `python tools/on.py <day> vendim-2000-96`).
+Act id: `vendim-2000-96` (tags `vendim-2000-96/<day>`; `python registry/tools/on.py <day> vendim-2000-96`).
 
 ## Decisions made by hand
 

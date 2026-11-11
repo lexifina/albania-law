@@ -37,7 +37,7 @@ Përcaktimin e procedurave e të kritereve të përzgjedhjes së zhvilluesit në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-05-15 |
 
-Act id: `vendim-2015-646` (tags `vendim-2015-646/<day>`; `python tools/on.py <day> vendim-2015-646`).
+Act id: `vendim-2015-646` (tags `vendim-2015-646/<day>`; `python registry/tools/on.py <day> vendim-2015-646`).
 
 ## Decisions made by hand
 

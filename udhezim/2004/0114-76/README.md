@@ -5,7 +5,7 @@ ZBATIMIN E VENDIMIT TË KËSHILLIT TË MINISTRAVE NR.632, DATË 18.9.2003 “PË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2004-0114-76` (tags `udhezim-2004-0114-76/<day>`; `python tools/on.py <day> udhezim-2004-0114-76`).
+Act id: `udhezim-2004-0114-76` (tags `udhezim-2004-0114-76/<day>`; `python registry/tools/on.py <day> udhezim-2004-0114-76`).
 
 ## Decisions made by hand
 

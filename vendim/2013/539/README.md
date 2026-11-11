@@ -10,7 +10,7 @@ Miratimin e ndryshimit të statusit të shkollës së lartë universitare privat
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-539` (tags `vendim-2013-539/<day>`; `python tools/on.py <day> vendim-2013-539`).
+Act id: `vendim-2013-539` (tags `vendim-2013-539/<day>`; `python registry/tools/on.py <day> vendim-2013-539`).
 
 ## Decisions made by hand
 

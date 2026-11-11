@@ -187,7 +187,7 @@ Të huajt · 2 versions, from 2021-11-02 (latest in force: 2025-07-25) · <https
 | Seksioni IX | [seksioni-09.md](seksioni-09.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-79` (tags `ligj-2021-79/<day>`; `python tools/on.py <day> ligj-2021-79`).
+Act id: `ligj-2021-79` (tags `ligj-2021-79/<day>`; `python registry/tools/on.py <day> ligj-2021-79`).
 
 ## Decisions made by hand
 

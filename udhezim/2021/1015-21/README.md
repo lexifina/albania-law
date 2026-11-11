@@ -22,7 +22,7 @@ Kriteret dhe procedurat për njohjen dhe njësimin në Republikën e Shqipëris�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-05-28 |
 
-Act id: `udhezim-2021-1015-21` (tags `udhezim-2021-1015-21/<day>`; `python tools/on.py <day> udhezim-2021-1015-21`).
+Act id: `udhezim-2021-1015-21` (tags `udhezim-2021-1015-21/<day>`; `python registry/tools/on.py <day> udhezim-2021-1015-21`).
 
 ## Decisions made by hand
 

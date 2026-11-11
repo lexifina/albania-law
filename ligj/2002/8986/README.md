@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes Financiare ndërmjet Republikës së Shqipërisë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8986` (tags `ligj-2002-8986/<day>`; `python tools/on.py <day> ligj-2002-8986`).
+Act id: `ligj-2002-8986` (tags `ligj-2002-8986/<day>`; `python registry/tools/on.py <day> ligj-2002-8986`).
 
 ## Decisions made by hand
 

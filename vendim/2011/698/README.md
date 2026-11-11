@@ -11,7 +11,7 @@ Kompensimin e vlerës së taksës së biznesit të vogël, të përdorur për ri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-698` (tags `vendim-2011-698/<day>`; `python tools/on.py <day> vendim-2011-698`).
+Act id: `vendim-2011-698` (tags `vendim-2011-698/<day>`; `python registry/tools/on.py <day> vendim-2011-698`).
 
 ## Decisions made by hand
 

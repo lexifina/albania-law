@@ -5,7 +5,7 @@ Tatimin mbi vlerën e shtuar · 2 versions, from 2006-02-21 (latest in force: 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0130-3` (tags `udhezim-2006-0130-3/<day>`; `python tools/on.py <day> udhezim-2006-0130-3`).
+Act id: `udhezim-2006-0130-3` (tags `udhezim-2006-0130-3/<day>`; `python registry/tools/on.py <day> udhezim-2006-0130-3`).
 
 ## Decisions made by hand
 

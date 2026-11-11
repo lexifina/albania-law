@@ -12,7 +12,7 @@ Pezullimin e funksionimit të komisioneve të vlerësimit të personave me aftë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0311-158` (tags `urdher-2020-0311-158/<day>`; `python tools/on.py <day> urdher-2020-0311-158`).
+Act id: `urdher-2020-0311-158` (tags `urdher-2020-0311-158/<day>`; `python registry/tools/on.py <day> urdher-2020-0311-158`).
 
 ## Decisions made by hand
 

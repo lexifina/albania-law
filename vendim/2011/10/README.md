@@ -13,7 +13,7 @@ PëR NGRITJEN E GRUPEVE Të PUNëS PëR EVIDENTIMIN DHE VLERëSIMIN E DëMEVE T�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-10` (tags `vendim-2011-10/<day>`; `python tools/on.py <day> vendim-2011-10`).
+Act id: `vendim-2011-10` (tags `vendim-2011-10/<day>`; `python registry/tools/on.py <day> vendim-2011-10`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0412-173` (tags `urdher-2019-0412-173/<day>`; `python tools/on.py <day> urdher-2019-0412-173`).
+Act id: `urdher-2019-0412-173` (tags `urdher-2019-0412-173/<day>`; `python registry/tools/on.py <day> urdher-2019-0412-173`).
 
 ## Decisions made by hand
 

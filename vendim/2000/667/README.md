@@ -5,7 +5,7 @@ Kalimin e rrugëve rurale në administrimin e këshillave të qarqeve · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-667` (tags `vendim-2000-667/<day>`; `python tools/on.py <day> vendim-2000-667`).
+Act id: `vendim-2000-667` (tags `vendim-2000-667/<day>`; `python registry/tools/on.py <day> vendim-2000-667`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Mbi zbatimin e vendimit nr. 31, datë 20.1.2001, të Këshillit të Ministrave, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0801-593` (tags `udhezim-2019-0801-593/<day>`; `python tools/on.py <day> udhezim-2019-0801-593`).
+Act id: `udhezim-2019-0801-593` (tags `udhezim-2019-0801-593/<day>`; `python registry/tools/on.py <day> udhezim-2019-0801-593`).
 
 ## Decisions made by hand
 

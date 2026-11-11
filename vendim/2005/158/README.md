@@ -5,7 +5,7 @@ Miratimin e rregullores së organizimit e të funksionimit të komisionit qendro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-158` (tags `vendim-2005-158/<day>`; `python tools/on.py <day> vendim-2005-158`).
+Act id: `vendim-2005-158` (tags `vendim-2005-158/<day>`; `python registry/tools/on.py <day> vendim-2005-158`).
 
 ## Decisions made by hand
 

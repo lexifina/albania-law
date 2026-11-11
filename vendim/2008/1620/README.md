@@ -5,7 +5,7 @@ Miratimin e çmimeve të trojeve, që ndodhen në të gjitha bashkitë dhe në d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1620` (tags `vendim-2008-1620/<day>`; `python tools/on.py <day> vendim-2008-1620`).
+Act id: `vendim-2008-1620` (tags `vendim-2008-1620/<day>`; `python registry/tools/on.py <day> vendim-2008-1620`).
 
 ## Decisions made by hand
 

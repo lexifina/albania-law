@@ -28,7 +28,7 @@ Ngritjen dhe mënyrën e funksionimit të komisionit të çmimit të barnave · 
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-645` (tags `vendim-2014-645/<day>`; `python tools/on.py <day> vendim-2014-645`).
+Act id: `vendim-2014-645` (tags `vendim-2014-645/<day>`; `python registry/tools/on.py <day> vendim-2014-645`).
 
 ## Decisions made by hand
 

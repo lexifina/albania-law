@@ -11,7 +11,7 @@ Rishpërndarjen sipas njësive vendore të numrit të përgjithshëm të noterë
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-1003-195` (tags `urdher-2012-1003-195/<day>`; `python tools/on.py <day> urdher-2012-1003-195`).
+Act id: `urdher-2012-1003-195` (tags `urdher-2012-1003-195/<day>`; `python registry/tools/on.py <day> urdher-2012-1003-195`).
 
 ## Decisions made by hand
 

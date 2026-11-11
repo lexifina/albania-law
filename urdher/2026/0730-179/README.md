@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për kushtet teknike për ndërveprimin në lidhje me
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0730-179` (tags `urdher-2026-0730-179/<day>`; `python tools/on.py <day> urdher-2026-0730-179`).
+Act id: `urdher-2026-0730-179` (tags `urdher-2026-0730-179/<day>`; `python registry/tools/on.py <day> urdher-2026-0730-179`).
 
 ## Decisions made by hand
 

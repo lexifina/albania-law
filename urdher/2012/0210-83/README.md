@@ -38,7 +38,19 @@ Rregullat dhe procedurat e shitjes së produkteve hidrokarbure · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0210-83` (tags `urdher-2012-0210-83/<day>`; `python tools/on.py <day> urdher-2012-0210-83`).
+Act id: `urdher-2012-0210-83` (tags `urdher-2012-0210-83/<day>`; `python registry/tools/on.py <day> urdher-2012-0210-83`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 83, datë 10.5.2012 (Ministria e Financave) [QBZ 8150]: PËR DISA NDRYSHIME DHE SHTESA NË URDHRIN NR. 83, DATË 10.2.2012 “PËR RREGULLAT dhe procedurat E SHITJES SË PRODUKTEVE HIDROKARBURE (NAFTË BRUTO)”](https://qbz.gov.al/eli/urdher/2012/05/10/83)
+- [Urdhri nr. 635, datë 13.9.2012 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 8578]: Për disa ndryshime dhe shtesa në urdhrin nr. 83, datë 10.2.2012 “për rregullat dhe procedurat e shitjes së produkteve hidrokarbure (naftë bruto)”, të ndryshuar](https://qbz.gov.al/eli/urdher/2012/09/13/635)
+- [Urdhri nr. 101, datë 17.4.2015 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 12248]: Për disa shtesa dhe ndryshime në urdhrin nr. 83, datë 10.2.2012 “Për rregullat dhe procedurat e shitjes së produkteve hidrokarbure (naftë bruto)”, të ndryshuar](https://qbz.gov.al/eli/urdher/2015/04/17/101)
+- [Urdhri nr. 258, datë 3.8.2016 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 15668]: Për disa shtesa dhe ndryshime në urdhrin nr. 83, datë 10.2.2012, “për rregullat dhe procedurat e shitjes së produkteve hidrokarbure (naftë bruto)”, të ndryshuar](https://qbz.gov.al/eli/urdher/2016/08/03/258)
+- [Urdhri nr. 398, datë 30.11.2016 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 63070]: Për një ndryshim në urdhrin nr. 83, datë 10.2.2012, “për rregullat dhe procedurat e shitjes së produkteve hidrokarbure (naftë bruto)”, të ndryshuar](https://qbz.gov.al/eli/urdher/2016/11/30/398)
 
 ## Decisions made by hand
 

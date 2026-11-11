@@ -5,7 +5,7 @@ Miratimin e rregullave për sigurimin e personelit · 2 versions, from 2015-03-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-188` (tags `vendim-2015-188/<day>`; `python tools/on.py <day> vendim-2015-188`).
+Act id: `vendim-2015-188` (tags `vendim-2015-188/<day>`; `python registry/tools/on.py <day> vendim-2015-188`).
 
 ## Decisions made by hand
 

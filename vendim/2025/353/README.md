@@ -11,7 +11,7 @@ Miratimin e rregullave për sigurimin e ndërveprueshmërisë së pajisjeve radi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-353` (tags `vendim-2025-353/<day>`; `python tools/on.py <day> vendim-2025-353`).
+Act id: `vendim-2025-353` (tags `vendim-2025-353/<day>`; `python registry/tools/on.py <day> vendim-2025-353`).
 
 ## Decisions made by hand
 

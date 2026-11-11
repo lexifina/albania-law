@@ -5,7 +5,7 @@ Dhënien e miratimit për lidhjen e kontratës ndryshuese të qirasë, me tarif�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-342` (tags `vendim-2017-342/<day>`; `python tools/on.py <day> vendim-2017-342`).
+Act id: `vendim-2017-342` (tags `vendim-2017-342/<day>`; `python registry/tools/on.py <day> vendim-2017-342`).
 
 ## Decisions made by hand
 

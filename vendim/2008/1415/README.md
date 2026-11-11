@@ -10,7 +10,15 @@ Shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1415` (tags `vendim-2008-1415/<day>`; `python tools/on.py <day> vendim-2008-1415`).
+Act id: `vendim-2008-1415` (tags `vendim-2008-1415/<day>`; `python registry/tools/on.py <day> vendim-2008-1415`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1519, datë 21.11.2008: Për një ndryshim në vendimin nr.1415, datë 22.10.2008 të këshillit të ministrave “për shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur, për procedurat e prokurimit, të kryera nga ministria e shëndetësisë dhe qendra spitalore universitare “nënë tereza”, tiranë, si autoritete kontraktore](https://qbz.gov.al/eli/vendim/2008/11/21/1519)
 
 ## Decisions made by hand
 

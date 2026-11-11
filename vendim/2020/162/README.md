@@ -18,7 +18,15 @@ Rregullat e hollësishme për hartimin, miratimin, rishikimin dhe zbatimin e pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-162` (tags `vendim-2020-162/<day>`; `python tools/on.py <day> vendim-2020-162`).
+Act id: `vendim-2020-162` (tags `vendim-2020-162/<day>`; `python registry/tools/on.py <day> vendim-2020-162`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 966, datë 28.10.2020 (Kryeministri): Anekset e vendimit nr. 162, datë 19.2.2020, të Këshillit të Ministrave “Për rregullat e hollësishme për hartimin, miratimin, rishikimin dhe zbatimin e programeve të pakësimit të shkarkimeve në ajër”, botuar në Fletoren Zyrtare nr. 22, datë 24 shkurt 2020](https://qbz.gov.al/eli/vendim/2020/10/28/966-2)
 
 ## Decisions made by hand
 

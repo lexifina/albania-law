@@ -11,7 +11,7 @@ Vjetërsinë e punës në arsim · 1 versions, from 2008-01-30 (latest in force:
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0110-2` (tags `udhezim-2008-0110-2/<day>`; `python tools/on.py <day> udhezim-2008-0110-2`).
+Act id: `udhezim-2008-0110-2` (tags `udhezim-2008-0110-2/<day>`; `python registry/tools/on.py <day> udhezim-2008-0110-2`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,16 @@ Procedurat tatimore · 1 versions, from 2006-02-21 (latest in force: 2006-02-21)
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0130-2` (tags `udhezim-2006-0130-2/<day>`; `python tools/on.py <day> udhezim-2006-0130-2`).
+Act id: `udhezim-2006-0130-2` (tags `udhezim-2006-0130-2/<day>`; `python registry/tools/on.py <day> udhezim-2006-0130-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 7, datë 9.8.2006 (Ministria e Financave) [QBZ 4690]: Për procedurat tatimore në Republikën e Shqipërisë](https://qbz.gov.al/eli/udhezim/2006/08/09/7)
+- [Udhëzimi nr. 14, datë 6.8.2007 (Ministria e Financave) [QBZ 5584]: Për disa ndryshime në udhëzimin nr.2, datë 30.1.2006 “për procedurat tatimore](https://qbz.gov.al/eli/udhezim/2007/08/06/14)
 
 ## Decisions made by hand
 

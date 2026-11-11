@@ -15,7 +15,7 @@ Mbi kriteret dhe procedurën për certifikimin e operatorëve të turizmit detar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-04-24 |
 
-Act id: `udhezim-2020-1231-4` (tags `udhezim-2020-1231-4/<day>`; `python tools/on.py <day> udhezim-2020-1231-4`).
+Act id: `udhezim-2020-1231-4` (tags `udhezim-2020-1231-4/<day>`; `python registry/tools/on.py <day> udhezim-2020-1231-4`).
 
 ## Decisions made by hand
 

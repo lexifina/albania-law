@@ -43,7 +43,7 @@ Përcaktimin e kritereve dhe rregullave, për paraqitjen e kërkesave, për të 
 | Neni 32 | [neni-032.md](neni-032.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-294` (tags `vendim-2023-294/<day>`; `python tools/on.py <day> vendim-2023-294`).
+Act id: `vendim-2023-294` (tags `vendim-2023-294/<day>`; `python registry/tools/on.py <day> vendim-2023-294`).
 
 ## Decisions made by hand
 

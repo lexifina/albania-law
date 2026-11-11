@@ -14,7 +14,15 @@ Miratimin e “marrëveshjes së koncesionit të formës “bot” ndërmjet min
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8761` (tags `ligj-2001-8761/<day>`; `python tools/on.py <day> ligj-2001-8761`).
+Act id: `ligj-2001-8761` (tags `ligj-2001-8761/<day>`; `python registry/tools/on.py <day> ligj-2001-8761`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 73/2017: Për miratimin e shtesës së marrëveshjes së koncesionit ndërmjet ministrisë së energjisë dhe industrisë, si autoritet kontraktues, dhe nesko metal san.tic.a.ş, si koncesionari, për disa objekte të industrisë së bakrit dhe të kromit](https://qbz.gov.al/eli/ligj/2017/04/27/73-2017)
 
 ## Decisions made by hand
 

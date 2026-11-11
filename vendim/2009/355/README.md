@@ -5,7 +5,7 @@ PëRCAKTIMIN E KRITEREVE, të DOKUMENTACIONIT DHE Të PROCEDURëS, për PAJISJEN
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-355` (tags `vendim-2009-355/<day>`; `python tools/on.py <day> vendim-2009-355`).
+Act id: `vendim-2009-355` (tags `vendim-2009-355/<day>`; `python registry/tools/on.py <day> vendim-2009-355`).
 
 ## Decisions made by hand
 

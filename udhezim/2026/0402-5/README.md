@@ -19,7 +19,7 @@ Përcaktimin e numrit, procedurave dhe kritereve të punonjësve me kontratë t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0402-5` (tags `udhezim-2026-0402-5/<day>`; `python tools/on.py <day> udhezim-2026-0402-5`).
+Act id: `udhezim-2026-0402-5` (tags `udhezim-2026-0402-5/<day>`; `python registry/tools/on.py <day> udhezim-2026-0402-5`).
 
 ## Decisions made by hand
 

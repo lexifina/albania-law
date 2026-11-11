@@ -10,7 +10,15 @@ Përcaktimin e autoritetit kontraktues, për dhënien me koncesion të shërbimi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-172` (tags `vendim-2010-172/<day>`; `python tools/on.py <day> vendim-2010-172`).
+Act id: `vendim-2010-172` (tags `vendim-2010-172/<day>`; `python registry/tools/on.py <day> vendim-2010-172`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 653, datë 28.7.2010: Për disa ndryshime në vendimin nr.172, datë 10.3.2010 të këshillit të ministrave “për përcaktimin e autoritetit kontraktues për dhënien me koncesion të shërbimit të anijeve detare dhe miratimin e bonusit në procedurën përzgjedhëse konkurruese që i jepet shoqërisë “anijet e shërbimit detar” sha](https://qbz.gov.al/eli/vendim/2010/07/28/653)
 
 ## Decisions made by hand
 

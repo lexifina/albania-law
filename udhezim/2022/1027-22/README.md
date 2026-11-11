@@ -19,7 +19,7 @@ Përcaktimin e rregullave, procedurave dhe metodologjisë për subjektet dhe kli
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1027-22` (tags `udhezim-2022-1027-22/<day>`; `python tools/on.py <day> udhezim-2022-1027-22`).
+Act id: `udhezim-2022-1027-22` (tags `udhezim-2022-1027-22/<day>`; `python registry/tools/on.py <day> udhezim-2022-1027-22`).
 
 ## Decisions made by hand
 

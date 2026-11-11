@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së murtajës afrikane të derrave të shfa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0903-851` (tags `urdher-2025-0903-851/<day>`; `python tools/on.py <day> urdher-2025-0903-851`).
+Act id: `urdher-2025-0903-851` (tags `urdher-2025-0903-851/<day>`; `python registry/tools/on.py <day> urdher-2025-0903-851`).
 
 ## Decisions made by hand
 

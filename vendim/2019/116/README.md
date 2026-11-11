@@ -15,7 +15,7 @@ Ngritjen e task-forcës pranë Ministrisë për Evropën dhe Punët e Jashtme dh
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-116` (tags `vendim-2019-116/<day>`; `python tools/on.py <day> vendim-2019-116`).
+Act id: `vendim-2019-116` (tags `vendim-2019-116/<day>`; `python registry/tools/on.py <day> vendim-2019-116`).
 
 ## Decisions made by hand
 

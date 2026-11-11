@@ -12,7 +12,7 @@ Kryerjen e anketimit dhe të regjistrimit të përfituesve të ndihmës ekonomik
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-947` (tags `vendim-2010-947/<day>`; `python tools/on.py <day> vendim-2010-947`).
+Act id: `vendim-2010-947` (tags `vendim-2010-947/<day>`; `python registry/tools/on.py <day> vendim-2010-947`).
 
 ## Decisions made by hand
 

@@ -224,7 +224,7 @@ Procedura për menaxhimin e vështirësive financiare për njësitë e vetëqeve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-1229-35` (tags `udhezim-2023-1229-35/<day>`; `python tools/on.py <day> udhezim-2023-1229-35`).
+Act id: `udhezim-2023-1229-35` (tags `udhezim-2023-1229-35/<day>`; `python registry/tools/on.py <day> udhezim-2023-1229-35`).
 
 ## Decisions made by hand
 

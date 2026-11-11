@@ -5,7 +5,7 @@ Përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-391` (tags `vendim-2006-391/<day>`; `python tools/on.py <day> vendim-2006-391`).
+Act id: `vendim-2006-391` (tags `vendim-2006-391/<day>`; `python registry/tools/on.py <day> vendim-2006-391`).
 
 ## Decisions made by hand
 

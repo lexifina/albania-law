@@ -5,7 +5,7 @@ Miratimin e Planit Kombëtar për Integrimin Evropian 2020-2022 · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-151` (tags `vendim-2020-151/<day>`; `python tools/on.py <day> vendim-2020-151`).
+Act id: `vendim-2020-151` (tags `vendim-2020-151/<day>`; `python registry/tools/on.py <day> vendim-2020-151`).
 
 ## Decisions made by hand
 

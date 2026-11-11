@@ -13,7 +13,7 @@ Miratimin e distancave kilometrike ndërmjet qyteteve të Republikës së Shqip�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0407-48` (tags `urdher-2023-0407-48/<day>`; `python tools/on.py <day> urdher-2023-0407-48`).
+Act id: `urdher-2023-0407-48` (tags `urdher-2023-0407-48/<day>`; `python registry/tools/on.py <day> urdher-2023-0407-48`).
 
 ## Decisions made by hand
 

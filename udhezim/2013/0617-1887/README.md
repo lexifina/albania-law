@@ -54,7 +54,7 @@ Rregullat dhe kriteret e hollësishme për kushtet teknike, që duhet të plotë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0617-1887` (tags `udhezim-2013-0617-1887/<day>`; `python tools/on.py <day> udhezim-2013-0617-1887`).
+Act id: `udhezim-2013-0617-1887` (tags `udhezim-2013-0617-1887/<day>`; `python registry/tools/on.py <day> udhezim-2013-0617-1887`).
 
 ## Decisions made by hand
 

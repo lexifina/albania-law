@@ -10,7 +10,7 @@ Miratimin e tarifave për shërbimet, që ofron zyra shqiptare për të drejtat 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2008-05-14 |
 
-Act id: `vendim-2007-343` (tags `vendim-2007-343/<day>`; `python tools/on.py <day> vendim-2007-343`).
+Act id: `vendim-2007-343` (tags `vendim-2007-343/<day>`; `python registry/tools/on.py <day> vendim-2007-343`).
 
 ## Decisions made by hand
 

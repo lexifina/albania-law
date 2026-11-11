@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së partneritetit, tregtisë dhe bashkëpunimit ndë
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-31-2021` (tags `ligji-31-2021/<day>`; `python tools/on.py <day> ligji-31-2021`).
+Act id: `ligji-31-2021` (tags `ligji-31-2021/<day>`; `python registry/tools/on.py <day> ligji-31-2021`).
 
 ## Decisions made by hand
 

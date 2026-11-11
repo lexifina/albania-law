@@ -25,7 +25,7 @@ Marrëveshjen e paqes fiskale · 1 versions, from 2026-01-30 (latest in force: 2
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-84-2025` (tags `ligji-84-2025/<day>`; `python tools/on.py <day> ligji-84-2025`).
+Act id: `ligji-84-2025` (tags `ligji-84-2025/<day>`; `python registry/tools/on.py <day> ligji-84-2025`).
 
 ## Decisions made by hand
 

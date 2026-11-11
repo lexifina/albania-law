@@ -5,7 +5,7 @@ Rregullat e procesit të klasifikimit të sekretit shtetëror, procedurat që p�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-123` (tags `vendim-2001-123/<day>`; `python tools/on.py <day> vendim-2001-123`).
+Act id: `vendim-2001-123` (tags `vendim-2001-123/<day>`; `python registry/tools/on.py <day> vendim-2001-123`).
 
 ## Decisions made by hand
 

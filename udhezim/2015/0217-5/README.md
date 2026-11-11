@@ -16,7 +16,15 @@ Të drejtat, detyrat, zgjedhjen dhe mandatin e anëtarëve të bordeve në qendr
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0217-5` (tags `udhezim-2015-0217-5/<day>`; `python tools/on.py <day> udhezim-2015-0217-5`).
+Act id: `udhezim-2015-0217-5` (tags `udhezim-2015-0217-5/<day>`; `python registry/tools/on.py <day> udhezim-2015-0217-5`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 8, datë 16.3.2016 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 66166]: Për një ndryshim dhe shtesë në udhëzimin nr. 5, datë 17.2.2015, “për të drejtat, detyrat, zgjedhjen dhe mandatin e anëtarëve të bordeve në qendrat publike të formimit profesional”](https://qbz.gov.al/eli/udhezim/2016/03/16/8)
 
 ## Decisions made by hand
 

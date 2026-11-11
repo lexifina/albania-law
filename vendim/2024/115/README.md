@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së zbatimit nr. II, ndërmjet Këshillit të Ministra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-115` (tags `vendim-2024-115/<day>`; `python tools/on.py <day> vendim-2024-115`).
+Act id: `vendim-2024-115` (tags `vendim-2024-115/<day>`; `python registry/tools/on.py <day> vendim-2024-115`).
 
 ## Decisions made by hand
 

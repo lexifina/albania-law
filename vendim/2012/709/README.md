@@ -14,7 +14,7 @@ Procedurat e financimit të projekteve dhe veprimtarive artistike e kulturore ·
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-709` (tags `vendim-2012-709/<day>`; `python tools/on.py <day> vendim-2012-709`).
+Act id: `vendim-2012-709` (tags `vendim-2012-709/<day>`; `python registry/tools/on.py <day> vendim-2012-709`).
 
 ## Decisions made by hand
 

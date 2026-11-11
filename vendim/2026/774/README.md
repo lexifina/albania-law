@@ -13,7 +13,7 @@ Miratimin e rregullave për vlerësimin dhe miratimin e studimeve të fizibilite
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-774` (tags `vendim-2026-774/<day>`; `python tools/on.py <day> vendim-2026-774`).
+Act id: `vendim-2026-774` (tags `vendim-2026-774/<day>`; `python registry/tools/on.py <day> vendim-2026-774`).
 
 ## Decisions made by hand
 

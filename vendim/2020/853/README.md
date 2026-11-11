@@ -11,7 +11,7 @@ Transferimin në pronësi të Këshillit të Qarkut Kukës të një pjese të pa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-853` (tags `vendim-2020-853/<day>`; `python tools/on.py <day> vendim-2020-853`).
+Act id: `vendim-2020-853` (tags `vendim-2020-853/<day>`; `python registry/tools/on.py <day> vendim-2020-853`).
 
 ## Decisions made by hand
 

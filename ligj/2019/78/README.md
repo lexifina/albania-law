@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit nr. 4, datë 30.11.2019, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-78` (tags `ligj-2019-78/<day>`; `python tools/on.py <day> ligj-2019-78`).
+Act id: `ligj-2019-78` (tags `ligj-2019-78/<day>`; `python registry/tools/on.py <day> ligj-2019-78`).
 
 ## Decisions made by hand
 

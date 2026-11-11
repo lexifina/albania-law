@@ -16,7 +16,7 @@ Mënyrat dhe procedurat për raportimin nga organet doganore · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-1111-25` (tags `udhezim-2025-1111-25/<day>`; `python tools/on.py <day> udhezim-2025-1111-25`).
+Act id: `udhezim-2025-1111-25` (tags `udhezim-2025-1111-25/<day>`; `python registry/tools/on.py <day> udhezim-2025-1111-25`).
 
 ## Decisions made by hand
 

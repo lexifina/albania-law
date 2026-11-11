@@ -45,7 +45,7 @@ Përcaktimin e rregullave, të procedurave e të llojeve të testeve ekzaminuese
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-09-09 |
 
-Act id: `vendim-2016-639` (tags `vendim-2016-639/<day>`; `python tools/on.py <day> vendim-2016-639`).
+Act id: `vendim-2016-639` (tags `vendim-2016-639/<day>`; `python registry/tools/on.py <day> vendim-2016-639`).
 
 ## Decisions made by hand
 

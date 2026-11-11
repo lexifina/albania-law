@@ -10,7 +10,7 @@ Ratifikimin e “konventës europiane “për shtypjen e terrorizmit”” · 1 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8642` (tags `ligj-2000-8642/<day>`; `python tools/on.py <day> ligj-2000-8642`).
+Act id: `ligj-2000-8642` (tags `ligj-2000-8642/<day>`; `python registry/tools/on.py <day> ligj-2000-8642`).
 
 ## Decisions made by hand
 

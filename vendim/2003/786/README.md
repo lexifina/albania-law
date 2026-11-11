@@ -5,7 +5,7 @@ KomisioniMIN dhe pagesën për personat me aftësi të kufizuar · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-786` (tags `vendim-2003-786/<day>`; `python tools/on.py <day> vendim-2003-786`).
+Act id: `vendim-2003-786` (tags `vendim-2003-786/<day>`; `python registry/tools/on.py <day> vendim-2003-786`).
 
 ## Decisions made by hand
 

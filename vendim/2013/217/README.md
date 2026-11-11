@@ -5,7 +5,7 @@ Miratimin e nivelit të pagave të punonjësve të zyrës së regjistrimit të p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-217` (tags `vendim-2013-217/<day>`; `python tools/on.py <day> vendim-2013-217`).
+Act id: `vendim-2013-217` (tags `vendim-2013-217/<day>`; `python registry/tools/on.py <day> vendim-2013-217`).
 
 ## Decisions made by hand
 

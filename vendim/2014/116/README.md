@@ -15,7 +15,7 @@ Statusin e nëpunësve dhe punonjësve aktualë që përfitojnë statusin e nëp
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-116` (tags `vendim-2014-116/<day>`; `python tools/on.py <day> vendim-2014-116`).
+Act id: `vendim-2014-116` (tags `vendim-2014-116/<day>`; `python registry/tools/on.py <day> vendim-2014-116`).
 
 ## Decisions made by hand
 

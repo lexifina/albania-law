@@ -10,7 +10,7 @@ Miratimin e rregullores “për trajtimin e llojeve të faunës së egër në zo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-0920-182` (tags `urdher-2016-0920-182/<day>`; `python tools/on.py <day> urdher-2016-0920-182`).
+Act id: `urdher-2016-0920-182` (tags `urdher-2016-0920-182/<day>`; `python registry/tools/on.py <day> urdher-2016-0920-182`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Kriteret, mënyrën e shpërblimit dhe trajtimin e sportistëve, që përfitojn�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2026-05-12 |
 
-Act id: `vendim-2021-789` (tags `vendim-2021-789/<day>`; `python tools/on.py <day> vendim-2021-789`).
+Act id: `vendim-2021-789` (tags `vendim-2021-789/<day>`; `python registry/tools/on.py <day> vendim-2021-789`).
 
 ## Decisions made by hand
 

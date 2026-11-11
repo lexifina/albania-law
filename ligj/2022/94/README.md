@@ -34,7 +34,7 @@ Titujt e nderit dhe titujt vendorë të nderit në Republikën e Shqipërisë ·
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-94` (tags `ligj-2022-94/<day>`; `python tools/on.py <day> ligj-2022-94`).
+Act id: `ligj-2022-94` (tags `ligj-2022-94/<day>`; `python registry/tools/on.py <day> ligj-2022-94`).
 
 ## Decisions made by hand
 

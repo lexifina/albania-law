@@ -23,7 +23,7 @@ Përpunimin e të dhënave personale në regjistrat publikë · 1 versions, from
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0805-39` (tags `udhezim-2013-0805-39/<day>`; `python tools/on.py <day> udhezim-2013-0805-39`).
+Act id: `udhezim-2013-0805-39` (tags `udhezim-2013-0805-39/<day>`; `python registry/tools/on.py <day> udhezim-2013-0805-39`).
 
 ## Decisions made by hand
 

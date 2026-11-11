@@ -8,7 +8,15 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 8, datë 25.3.2022, “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-42` (tags `ligj-2022-42/<day>`; `python tools/on.py <day> ligj-2022-42`).
+Act id: `ligj-2022-42` (tags `ligj-2022-42/<day>`; `python registry/tools/on.py <day> ligj-2022-42`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Gjykatës Kushtetuese nr. 21, datë 18.4.2023: Me objekt shfuqizimin e ligjit nr. 39/2022, ”Për miratimin e aktit normativ nr. 5, datë 12.3.2022, ”Për disa shtesa në ligjin nr. 8450, datë 24.2.1999, ”Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre, të ndryshuar””, si të papajtueshëm me Kushtetutën e Republikës së Shqipërisë. Shfuqizimin e ligjit nr. 42/2022, ”Për miratimin e aktit normativ nr. 8, datë 25.3.2022, ”Për disa shtesa në ligjin nr. 8450, datë 24.2.1999 Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre, të ndryshuar, si të papajtueshëm me Kushtetutën e Republikës së Shqipërisë](https://qbz.gov.al/eli/vendim/2023/04/18/21)
 
 ## Decisions made by hand
 

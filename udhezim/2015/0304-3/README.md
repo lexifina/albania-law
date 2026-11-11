@@ -15,7 +15,7 @@ Procedurën e hedhjes së shortit për përcaktimin e renditjes së subjekteve z
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 
-Act id: `udhezim-2015-0304-3` (tags `udhezim-2015-0304-3/<day>`; `python tools/on.py <day> udhezim-2015-0304-3`).
+Act id: `udhezim-2015-0304-3` (tags `udhezim-2015-0304-3/<day>`; `python registry/tools/on.py <day> udhezim-2015-0304-3`).
 
 ## Decisions made by hand
 

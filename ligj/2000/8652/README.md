@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e qeverisjes vendore · 2 versions, from 2000-08-23
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8652` (tags `ligj-2000-8652/<day>`; `python tools/on.py <day> ligj-2000-8652`).
+Act id: `ligj-2000-8652` (tags `ligj-2000-8652/<day>`; `python registry/tools/on.py <day> ligj-2000-8652`).
 
 ## Decisions made by hand
 

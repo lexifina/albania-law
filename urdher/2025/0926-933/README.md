@@ -11,7 +11,7 @@ Zbatimin e Rekomandimit (23-12) të ICCAT-it për ruajtjen e peshkaqenit balenë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0926-933` (tags `urdher-2025-0926-933/<day>`; `python tools/on.py <day> urdher-2025-0926-933`).
+Act id: `urdher-2025-0926-933` (tags `urdher-2025-0926-933/<day>`; `python registry/tools/on.py <day> urdher-2025-0926-933`).
 
 ## Decisions made by hand
 

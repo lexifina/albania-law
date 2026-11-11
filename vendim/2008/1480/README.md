@@ -11,7 +11,7 @@ Miratimin e shtesës nr.2 të kontratës së miratuar me vendimin nr.665, datë 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1480` (tags `vendim-2008-1480/<day>`; `python tools/on.py <day> vendim-2008-1480`).
+Act id: `vendim-2008-1480` (tags `vendim-2008-1480/<day>`; `python registry/tools/on.py <day> vendim-2008-1480`).
 
 ## Decisions made by hand
 

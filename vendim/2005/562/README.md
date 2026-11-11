@@ -5,7 +5,7 @@ Caktimin e funksioneve të përfaqësuesve të institucioneve shtetërore në p�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-562` (tags `vendim-2005-562/<day>`; `python tools/on.py <day> vendim-2005-562`).
+Act id: `vendim-2005-562` (tags `vendim-2005-562/<day>`; `python registry/tools/on.py <day> vendim-2005-562`).
 
 ## Decisions made by hand
 

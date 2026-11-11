@@ -5,7 +5,7 @@ Shpalljen e konkurseve kombëtare dhe ndërkombëtare për realizimin e veprave 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-510-0718` (tags `vendim-2012-510-0718/<day>`; `python tools/on.py <day> vendim-2012-510-0718`).
+Act id: `vendim-2012-510-0718` (tags `vendim-2012-510-0718/<day>`; `python registry/tools/on.py <day> vendim-2012-510-0718`).
 
 ## Decisions made by hand
 

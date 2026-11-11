@@ -166,7 +166,7 @@ Kodi i drejtësisë penale për të mitur · 1 versions, from 2017-03-30 (latest
 | Neni 143 | [neni-143.md](neni-143.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-37-2017` (tags `ligji-37-2017/<day>`; `python tools/on.py <day> ligji-37-2017`).
+Act id: `ligji-37-2017` (tags `ligji-37-2017/<day>`; `python registry/tools/on.py <day> ligji-37-2017`).
 
 ## Decisions made by hand
 

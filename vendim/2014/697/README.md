@@ -19,7 +19,15 @@ Shpronësimin, për interes publik, të pronarëvetë pasurive të paluajtshme, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-697` (tags `vendim-2014-697/<day>`; `python tools/on.py <day> vendim-2014-697`).
+Act id: `vendim-2014-697` (tags `vendim-2014-697/<day>`; `python registry/tools/on.py <day> vendim-2014-697`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 862, datë 10.12.2014: Për një shtesë në vendimin nr. 697, të këshillit të ministrave, datë 22.10.2014, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “by-pass shkozet-plepa” (objekte)”](https://qbz.gov.al/eli/vendim/2014/12/10/862)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/ko
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-526` (tags `vendim-2019-526/<day>`; `python tools/on.py <day> vendim-2019-526`).
+Act id: `vendim-2019-526` (tags `vendim-2019-526/<day>`; `python registry/tools/on.py <day> vendim-2019-526`).
 
 ## Decisions made by hand
 

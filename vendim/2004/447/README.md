@@ -13,7 +13,7 @@ Përcaktimin e gjendjes së të sëmurit që ka nevojë për ndihmë urgjente, s
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-447` (tags `vendim-2004-447/<day>`; `python tools/on.py <day> vendim-2004-447`).
+Act id: `vendim-2004-447` (tags `vendim-2004-447/<day>`; `python registry/tools/on.py <day> vendim-2004-447`).
 
 ## Decisions made by hand
 

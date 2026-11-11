@@ -10,7 +10,11 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-5` (tags `vendim-2013-5/<day>`; `python tools/on.py <day> vendim-2013-5`).
+Act id: `vendim-2013-5` (tags `vendim-2013-5/<day>`; `python registry/tools/on.py <day> vendim-2013-5`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

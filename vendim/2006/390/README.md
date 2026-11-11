@@ -5,7 +5,7 @@ Sistemin e identifikimit të kafshëve dhe regjistrimin e fermave blegtorale · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-390` (tags `vendim-2006-390/<day>`; `python tools/on.py <day> vendim-2006-390`).
+Act id: `vendim-2006-390` (tags `vendim-2006-390/<day>`; `python registry/tools/on.py <day> vendim-2006-390`).
 
 ## Decisions made by hand
 

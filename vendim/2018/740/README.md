@@ -5,7 +5,7 @@ Përcaktimin e masës së ndihmës së menjëhershme financiare (bonusi) për n�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-740` (tags `vendim-2018-740/<day>`; `python tools/on.py <day> vendim-2018-740`).
+Act id: `vendim-2018-740` (tags `vendim-2018-740/<day>`; `python registry/tools/on.py <day> vendim-2018-740`).
 
 ## Decisions made by hand
 

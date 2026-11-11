@@ -20,7 +20,7 @@ Procedurat në zbatim të ligjit nr. 146/2015, datë 17.12.2015, “për punëk�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0215-4` (tags `udhezim-2016-0215-4/<day>`; `python tools/on.py <day> udhezim-2016-0215-4`).
+Act id: `udhezim-2016-0215-4` (tags `udhezim-2016-0215-4/<day>`; `python registry/tools/on.py <day> udhezim-2016-0215-4`).
 
 ## Decisions made by hand
 

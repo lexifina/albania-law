@@ -50,7 +50,7 @@ Mbi procedurën e pranimit të kandidatëve për punonjës në Policinë e Burgj
 | Pika 43 | [pika-043.md](pika-043.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-1124-7375` (tags `urdher-2015-1124-7375/<day>`; `python tools/on.py <day> urdher-2015-1124-7375`).
+Act id: `urdher-2015-1124-7375` (tags `urdher-2015-1124-7375/<day>`; `python registry/tools/on.py <day> urdher-2015-1124-7375`).
 
 ## Decisions made by hand
 

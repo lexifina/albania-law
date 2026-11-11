@@ -8,7 +8,7 @@ Një shtesë në vendimin nr.66, datë 24.2.2000 të Këshillit të Ministrave �
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-31` (tags `vendim-2002-31/<day>`; `python tools/on.py <day> vendim-2002-31`).
+Act id: `vendim-2002-31` (tags `vendim-2002-31/<day>`; `python registry/tools/on.py <day> vendim-2002-31`).
 
 ## Decisions made by hand
 

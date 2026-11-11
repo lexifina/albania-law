@@ -18,7 +18,7 @@ Përbërjen dhe rregullat e funksionimit të komisionit të miratimit të agjenc
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-399` (tags `vendim-2011-399/<day>`; `python tools/on.py <day> vendim-2011-399`).
+Act id: `vendim-2011-399` (tags `vendim-2011-399/<day>`; `python registry/tools/on.py <day> vendim-2011-399`).
 
 ## Decisions made by hand
 

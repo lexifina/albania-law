@@ -11,7 +11,7 @@ Miratimin e rregullores “kriteret për pajisjen me certifikatë për ushtrimin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2024-08-06 |
 
-Act id: `vendim-2016-692` (tags `vendim-2016-692/<day>`; `python tools/on.py <day> vendim-2016-692`).
+Act id: `vendim-2016-692` (tags `vendim-2016-692/<day>`; `python registry/tools/on.py <day> vendim-2016-692`).
 
 ## Decisions made by hand
 

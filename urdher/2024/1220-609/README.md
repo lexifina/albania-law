@@ -5,7 +5,7 @@ Delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të Ars
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-1220-609` (tags `urdher-2024-1220-609/<day>`; `python tools/on.py <day> urdher-2024-1220-609`).
+Act id: `urdher-2024-1220-609` (tags `urdher-2024-1220-609/<day>`; `python registry/tools/on.py <day> urdher-2024-1220-609`).
 
 ## Decisions made by hand
 

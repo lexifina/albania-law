@@ -166,7 +166,7 @@ Noterinë · 3 versions, from 2019-02-28 (latest in force: 2022-03-02) · <https
 | Pjesa II | [pjesa-02.md](pjesa-02.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2018-110` (tags `ligj-2018-110/<day>`; `python tools/on.py <day> ligj-2018-110`).
+Act id: `ligj-2018-110` (tags `ligj-2018-110/<day>`; `python registry/tools/on.py <day> ligj-2018-110`).
 
 ## Decisions made by hand
 

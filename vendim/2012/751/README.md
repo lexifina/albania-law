@@ -17,7 +17,7 @@ Përcaktimin e rregullave të hollësishme për procedurën e bashkëpunimit dhe
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-751` (tags `vendim-2012-751/<day>`; `python tools/on.py <day> vendim-2012-751`).
+Act id: `vendim-2012-751` (tags `vendim-2012-751/<day>`; `python registry/tools/on.py <day> vendim-2012-751`).
 
 ## Decisions made by hand
 

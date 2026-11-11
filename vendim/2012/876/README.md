@@ -11,7 +11,7 @@ Shlyerjen e një pjese të detyrimeve të prapambetura ndaj “albtelecom” sha
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-876` (tags `vendim-2012-876/<day>`; `python tools/on.py <day> vendim-2012-876`).
+Act id: `vendim-2012-876` (tags `vendim-2012-876/<day>`; `python registry/tools/on.py <day> vendim-2012-876`).
 
 ## Decisions made by hand
 

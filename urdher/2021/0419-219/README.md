@@ -10,7 +10,7 @@ Karantinimin e personave që vijnë në Republikën e Shqipërisë nga Republika
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0419-219` (tags `urdher-2021-0419-219/<day>`; `python tools/on.py <day> urdher-2021-0419-219`).
+Act id: `urdher-2021-0419-219` (tags `urdher-2021-0419-219/<day>`; `python registry/tools/on.py <day> urdher-2021-0419-219`).
 
 ## Decisions made by hand
 

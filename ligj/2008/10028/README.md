@@ -5,7 +5,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen ndërkombëtare pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-10028` (tags `ligj-2008-10028/<day>`; `python tools/on.py <day> ligj-2008-10028`).
+Act id: `ligj-2008-10028` (tags `ligj-2008-10028/<day>`; `python registry/tools/on.py <day> ligj-2008-10028`).
 
 ## Decisions made by hand
 

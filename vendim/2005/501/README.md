@@ -5,7 +5,7 @@ Kriteret e përfaqësimit, të përzgjedhjes, emërimit, shkarkimit dhe funksion
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-501` (tags `vendim-2005-501/<day>`; `python tools/on.py <day> vendim-2005-501`).
+Act id: `vendim-2005-501` (tags `vendim-2005-501/<day>`; `python registry/tools/on.py <day> vendim-2005-501`).
 
 ## Decisions made by hand
 

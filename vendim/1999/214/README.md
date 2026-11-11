@@ -13,7 +13,7 @@ Miratimin e kostos mesatare të ndërtimit të banesave nga enti kombëtar i ban
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-1999-214` (tags `vendim-1999-214/<day>`; `python tools/on.py <day> vendim-1999-214`).
+Act id: `vendim-1999-214` (tags `vendim-1999-214/<day>`; `python registry/tools/on.py <day> vendim-1999-214`).
 
 ## Decisions made by hand
 

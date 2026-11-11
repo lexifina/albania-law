@@ -12,7 +12,7 @@ Miratimin e rregullores për konstituimin, organizimin, funksionimin dhe shpërb
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-09-29 |
 
-Act id: `urdher-2020-0622-189` (tags `urdher-2020-0622-189/<day>`; `python tools/on.py <day> urdher-2020-0622-189`).
+Act id: `urdher-2020-0622-189` (tags `urdher-2020-0622-189/<day>`; `python registry/tools/on.py <day> urdher-2020-0622-189`).
 
 ## Decisions made by hand
 

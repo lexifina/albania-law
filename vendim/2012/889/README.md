@@ -9,7 +9,7 @@ Lejimin e drejtorisë së përgjithshme të ujësjellës - kanalizimeve për kry
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-889` (tags `vendim-2012-889/<day>`; `python tools/on.py <day> vendim-2012-889`).
+Act id: `vendim-2012-889` (tags `vendim-2012-889/<day>`; `python registry/tools/on.py <day> vendim-2012-889`).
 
 ## Decisions made by hand
 

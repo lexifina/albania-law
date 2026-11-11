@@ -12,7 +12,7 @@ Mënyrën e trajtimit me strehim të disa familjeve, të vendosura në mjediset 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-521` (tags `vendim-2000-521/<day>`; `python tools/on.py <day> vendim-2000-521`).
+Act id: `vendim-2000-521` (tags `vendim-2000-521/<day>`; `python registry/tools/on.py <day> vendim-2000-521`).
 
 ## Decisions made by hand
 

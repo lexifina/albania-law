@@ -18,7 +18,7 @@ Miratimin e modelit të vërtetimit të transportit të materialit drusor të pa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0429-144` (tags `urdher-2026-0429-144/<day>`; `python tools/on.py <day> urdher-2026-0429-144`).
+Act id: `urdher-2026-0429-144` (tags `urdher-2026-0429-144/<day>`; `python registry/tools/on.py <day> urdher-2026-0429-144`).
 
 ## Decisions made by hand
 

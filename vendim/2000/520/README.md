@@ -10,7 +10,7 @@ Dhënie fondi për parti të reja politike · 1 versions, from 2000-10-06 (lates
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-520` (tags `vendim-2000-520/<day>`; `python tools/on.py <day> vendim-2000-520`).
+Act id: `vendim-2000-520` (tags `vendim-2000-520/<day>`; `python registry/tools/on.py <day> vendim-2000-520`).
 
 ## Decisions made by hand
 

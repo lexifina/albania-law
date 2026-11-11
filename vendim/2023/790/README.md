@@ -9,7 +9,7 @@ Miratimin e programit të përgjithshëm analitik të projektakteve që do të p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-790` (tags `vendim-2023-790/<day>`; `python tools/on.py <day> vendim-2023-790`).
+Act id: `vendim-2023-790` (tags `vendim-2023-790/<day>`; `python registry/tools/on.py <day> vendim-2023-790`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e Planit të Veprimit për Ruajtjen e Rrëqebullit të Ballkanit (Lynx
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0901-466` (tags `urdher-2026-0901-466/<day>`; `python tools/on.py <day> urdher-2026-0901-466`).
+Act id: `urdher-2026-0901-466` (tags `urdher-2026-0901-466/<day>`; `python registry/tools/on.py <day> urdher-2026-0901-466`).
 
 ## Decisions made by hand
 

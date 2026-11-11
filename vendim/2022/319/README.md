@@ -10,7 +10,7 @@ Kalimin te bashkitë Shijak, Kamzë, Kavajë dhe Krujë të njësive individuale
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-319` (tags `vendim-2022-319/<day>`; `python tools/on.py <day> vendim-2022-319`).
+Act id: `vendim-2022-319` (tags `vendim-2022-319/<day>`; `python registry/tools/on.py <day> vendim-2022-319`).
 
 ## Decisions made by hand
 

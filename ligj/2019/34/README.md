@@ -44,7 +44,7 @@ Administrimin e pasurive të sekuestruara e të konfiskuara · 2 versions, from 
 | Neni 37 | [neni-037.md](neni-037.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-34` (tags `ligj-2019-34/<day>`; `python tools/on.py <day> ligj-2019-34`).
+Act id: `ligj-2019-34` (tags `ligj-2019-34/<day>`; `python registry/tools/on.py <day> ligj-2019-34`).
 
 ## Decisions made by hand
 

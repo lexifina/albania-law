@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. zef deda · 1 versions, from
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-917` (tags `vendim-2016-917/<day>`; `python tools/on.py <day> vendim-2016-917`).
+Act id: `vendim-2016-917` (tags `vendim-2016-917/<day>`; `python registry/tools/on.py <day> vendim-2016-917`).
 
 ## Decisions made by hand
 

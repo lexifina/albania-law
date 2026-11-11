@@ -5,7 +5,7 @@ Organizimin, kompetencat dhe funksionimin e agjencisë së administrimit të pas
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-687` (tags `vendim-2011-687/<day>`; `python tools/on.py <day> vendim-2011-687`).
+Act id: `vendim-2011-687` (tags `vendim-2011-687/<day>`; `python registry/tools/on.py <day> vendim-2011-687`).
 
 ## Decisions made by hand
 

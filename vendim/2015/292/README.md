@@ -5,7 +5,7 @@ Përcaktimin e rregullave për krijimin dhe administrimin e regjistrit të armë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-292` (tags `vendim-2015-292/<day>`; `python tools/on.py <day> vendim-2015-292`).
+Act id: `vendim-2015-292` (tags `vendim-2015-292/<day>`; `python registry/tools/on.py <day> vendim-2015-292`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurën e lëshimit, e refuzimit të lëshimit, e ripërtëritjes apo anulim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2024-0709-114` (tags `udhezim-2024-0709-114/<day>`; `python tools/on.py <day> udhezim-2024-0709-114`).
+Act id: `udhezim-2024-0709-114` (tags `udhezim-2024-0709-114/<day>`; `python registry/tools/on.py <day> udhezim-2024-0709-114`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,7 @@ Mënyrën e krijimit, organizimit dhe funksionimit të spitalit ditor dhe spital
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0418-250` (tags `urdher-2023-0418-250/<day>`; `python tools/on.py <day> urdher-2023-0418-250`).
+Act id: `urdher-2023-0418-250` (tags `urdher-2023-0418-250/<day>`; `python registry/tools/on.py <day> urdher-2023-0418-250`).
 
 ## Decisions made by hand
 

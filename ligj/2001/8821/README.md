@@ -11,7 +11,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare të eu
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8821` (tags `ligj-2001-8821/<day>`; `python tools/on.py <day> ligj-2001-8821`).
+Act id: `ligj-2001-8821` (tags `ligj-2001-8821/<day>`; `python registry/tools/on.py <day> ligj-2001-8821`).
 
 ## Decisions made by hand
 

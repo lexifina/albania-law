@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e Komisionit të Çmimeve të Barnave · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-52` (tags `vendim-2006-52/<day>`; `python tools/on.py <day> vendim-2006-52`).
+Act id: `vendim-2006-52` (tags `vendim-2006-52/<day>`; `python registry/tools/on.py <day> vendim-2006-52`).
 
 ## Decisions made by hand
 

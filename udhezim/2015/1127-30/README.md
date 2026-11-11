@@ -25,7 +25,7 @@ Rregullat dhe procedurat e kryerjes së inspektimit financiar publik · 1 versio
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1127-30` (tags `udhezim-2015-1127-30/<day>`; `python tools/on.py <day> udhezim-2015-1127-30`).
+Act id: `udhezim-2015-1127-30` (tags `udhezim-2015-1127-30/<day>`; `python registry/tools/on.py <day> udhezim-2015-1127-30`).
 
 ## Decisions made by hand
 

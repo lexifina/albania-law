@@ -16,7 +16,15 @@ Procedurat e njehsimit të dëftesave/diplomave të shkollave të mesme të shte
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0119-1` (tags `udhezim-2012-0119-1/<day>`; `python tools/on.py <day> udhezim-2012-0119-1`).
+Act id: `udhezim-2012-0119-1` (tags `udhezim-2012-0119-1/<day>`; `python registry/tools/on.py <day> udhezim-2012-0119-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 9, datë 4.7.2012 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 8290]: Për një shtesë në udhëzimin nr. 1, datë 19.1.2012 ”për procedurat e njehsimit të dëftesave/diplomave të shkollave të mesme të shtetasve shqiptarë dhe të huaj që kanë kryer arsimin e mesëm jashtë shtetit”](https://qbz.gov.al/eli/udhezim/2012/07/04/9)
 
 ## Decisions made by hand
 

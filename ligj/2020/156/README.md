@@ -11,7 +11,7 @@ Faljen e detyrimeve të ushtarakëve ndaj fondit të sigurimeve shoqërore, të 
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-156` (tags `ligj-2020-156/<day>`; `python tools/on.py <day> ligj-2020-156`).
+Act id: `ligj-2020-156` (tags `ligj-2020-156/<day>`; `python registry/tools/on.py <day> ligj-2020-156`).
 
 ## Decisions made by hand
 

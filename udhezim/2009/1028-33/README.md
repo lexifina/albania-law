@@ -18,7 +18,7 @@ PËR PROCEDURAT E PËRDORIMIT TË FONDEVE Të BUXHETIT Të SHTETIT PËR BOTIMIN,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-1028-33` (tags `udhezim-2009-1028-33/<day>`; `python tools/on.py <day> udhezim-2009-1028-33`).
+Act id: `udhezim-2009-1028-33` (tags `udhezim-2009-1028-33/<day>`; `python registry/tools/on.py <day> udhezim-2009-1028-33`).
 
 ## Decisions made by hand
 

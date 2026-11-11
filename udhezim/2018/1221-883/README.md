@@ -30,7 +30,7 @@ Përcaktimin e kushteve, procedurave dhe afateve të vlefshmërisë së licencav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1221-883` (tags `udhezim-2018-1221-883/<day>`; `python tools/on.py <day> udhezim-2018-1221-883`).
+Act id: `udhezim-2018-1221-883` (tags `udhezim-2018-1221-883/<day>`; `python registry/tools/on.py <day> udhezim-2018-1221-883`).
 
 ## Decisions made by hand
 

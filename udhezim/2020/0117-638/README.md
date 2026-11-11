@@ -32,7 +32,7 @@ Mbi kontrollin për gadishmërinë teknike në rrugë të mjeteve tregtare · 1 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0117-638` (tags `udhezim-2020-0117-638/<day>`; `python tools/on.py <day> udhezim-2020-0117-638`).
+Act id: `udhezim-2020-0117-638` (tags `udhezim-2020-0117-638/<day>`; `python registry/tools/on.py <day> udhezim-2020-0117-638`).
 
 ## Decisions made by hand
 

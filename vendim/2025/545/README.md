@@ -10,7 +10,7 @@ Emërimin e dy anëtarëve të Kolegjit të Urdhrave dhe Medaljeve · 1 versions
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-545` (tags `vendim-2025-545/<day>`; `python tools/on.py <day> vendim-2025-545`).
+Act id: `vendim-2025-545` (tags `vendim-2025-545/<day>`; `python registry/tools/on.py <day> vendim-2025-545`).
 
 ## Decisions made by hand
 

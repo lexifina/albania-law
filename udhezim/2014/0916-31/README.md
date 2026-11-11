@@ -5,7 +5,7 @@ Pajisjen e institucioneve të arsimit të lartë publik dhe privat me regjistrat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0916-31` (tags `udhezim-2014-0916-31/<day>`; `python tools/on.py <day> udhezim-2014-0916-31`).
+Act id: `udhezim-2014-0916-31` (tags `udhezim-2014-0916-31/<day>`; `python registry/tools/on.py <day> udhezim-2014-0916-31`).
 
 ## Decisions made by hand
 

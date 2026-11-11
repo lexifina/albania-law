@@ -11,7 +11,15 @@ PËR MIRATIMIN E kuadrit makroekonomik të treguesve makroekonomikë e fiskalë,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-588` (tags `vendim-2010-588/<day>`; `python tools/on.py <day> vendim-2010-588`).
+Act id: `vendim-2010-588` (tags `vendim-2010-588/<day>`; `python registry/tools/on.py <day> vendim-2010-588`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1074, datë 3.11.2010: Për një ndryshim në vendimin nr.588, datë 28.7.2010 të këshillit të ministrave ”për miratimin e kuadrit makroekonomik, të treguesve makroekonomikë e fiskalë të rishikuar dhe të tavaneve përfundimtare të programit buxhetor afatmesëm 2011-2013”](https://qbz.gov.al/eli/vendim/2010/11/03/1074)
 
 ## Decisions made by hand
 

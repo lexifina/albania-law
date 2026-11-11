@@ -10,7 +10,18 @@ Miratimin e kontratës së koncesionit të formës “BOT” (ndërtim, shfrytë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-104` (tags `ligj-2015-104/<day>`; `python tools/on.py <day> ligj-2015-104`).
+Act id: `ligj-2015-104` (tags `ligj-2015-104/<day>`; `python registry/tools/on.py <day> ligj-2015-104`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 58/2020: Për miratimin e shtesës së kontratës së koncesionit të formës “BOT” (ndërtim, shfrytëzim dhe transferim) të një porti të llojit MBM në Porto-Romano, Durrës, miratuar me ligjin nr. 104/2015, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë dhe shoqërisë koncesionare “Porti MBM (Multy Buoy Mooring)”, të ndryshuar](https://qbz.gov.al/eli/ligj/2020/04/30/58)
+- [Udhëzimi nr. 4884, datë 14.6.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 23423]: Për përcaktimin e tarifave të shërbimeve portuale të portit të llojit MBM në Porto Romano, Durrës](https://qbz.gov.al/eli/udhezim/2021/06/14/4884)
+- [Urdhri nr. 463, datë 22.12.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 23947]: Për miratimin e rregullores ”Për funksionimin e ’Portit MBM’ në Porto Romano ,Durrës”](https://qbz.gov.al/eli/urdher/2021/12/22/463)
+- [Ligji nr. 13/2018: Për miratimin e shtesës së kontratës së koncesionit të formës “bot” (ndërtim, shfrytëzim dhe transferim) të një porti të llojit mbm në porto-romano, durrës, miratuar me ligjin nr. 104/2015, ndërmjet ministrisë së infrastrukturës dhe energjisë dhe shoqërisë koncesionare “porti mbm (multy buoy mooring)”](https://qbz.gov.al/eli/ligj/2018/03/15/13-2018)
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Kriteret dhe procedurat e pranimit dhe regjistrimit të kandidatëve që aplikoj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1119-56` (tags `udhezim-2014-1119-56/<day>`; `python tools/on.py <day> udhezim-2014-1119-56`).
+Act id: `udhezim-2014-1119-56` (tags `udhezim-2014-1119-56/<day>`; `python registry/tools/on.py <day> udhezim-2014-1119-56`).
 
 ## Decisions made by hand
 

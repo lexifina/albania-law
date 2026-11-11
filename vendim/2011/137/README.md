@@ -8,7 +8,7 @@ Shkarkimin nga detyra të kryetarit të komunës gosë, z. sinan shala · 1 vers
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-137` (tags `vendim-2011-137/<day>`; `python tools/on.py <day> vendim-2011-137`).
+Act id: `vendim-2011-137` (tags `vendim-2011-137/<day>`; `python registry/tools/on.py <day> vendim-2011-137`).
 
 ## Decisions made by hand
 

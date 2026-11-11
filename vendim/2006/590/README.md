@@ -14,7 +14,7 @@ Zbatimin e ligjit nr.9588, datë 25.7.2006 “Për rillogaritjen e pensioneve”
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-590` (tags `vendim-2006-590/<day>`; `python tools/on.py <day> vendim-2006-590`).
+Act id: `vendim-2006-590` (tags `vendim-2006-590/<day>`; `python registry/tools/on.py <day> vendim-2006-590`).
 
 ## Decisions made by hand
 

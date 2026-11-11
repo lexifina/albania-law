@@ -42,7 +42,15 @@ Miratimin e kërkesave për dhënien e licencës së operimit për ofrimin e sh�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-802` (tags `vendim-2023-802/<day>`; `python tools/on.py <day> vendim-2023-802`).
+Act id: `vendim-2023-802` (tags `vendim-2023-802/<day>`; `python registry/tools/on.py <day> vendim-2023-802`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 79, datë 15.4.2024 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 27973]: Për miratimin e rregullores mbi vazhdueshmërinë e vlefshmërisë ajrore të avionëve dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra](https://qbz.gov.al/eli/urdher/2024/04/15/79)
 
 ## Decisions made by hand
 

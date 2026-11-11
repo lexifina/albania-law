@@ -46,7 +46,7 @@ Organizimin dhe funksionimin e agjencisë për mbështetjen e shoqërisë civile
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10093` (tags `ligj-2009-10093/<day>`; `python tools/on.py <day> ligj-2009-10093`).
+Act id: `ligj-2009-10093` (tags `ligj-2009-10093/<day>`; `python registry/tools/on.py <day> ligj-2009-10093`).
 
 ## Decisions made by hand
 

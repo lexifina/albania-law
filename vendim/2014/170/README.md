@@ -13,7 +13,15 @@ Ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-170` (tags `vendim-2014-170/<day>`; `python tools/on.py <day> vendim-2014-170`).
+Act id: `vendim-2014-170` (tags `vendim-2014-170/<day>`; `python registry/tools/on.py <day> vendim-2014-170`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 450, datë 9.7.2014: Për një ndryshim në vendimin nr. 170, datë 26.3.2014, të këshillit të ministrave, “për ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë 15.1.2013, për çështjen nr. 13620/10, “tushaj kundër shqipërisë””](https://qbz.gov.al/eli/vendim/2014/07/09/450)
 
 ## Decisions made by hand
 

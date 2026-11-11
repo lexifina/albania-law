@@ -14,7 +14,7 @@ Vendim Nr.580 Dt.23.08.2006 · 1 versions, from 2006-08-30 (latest in force: 200
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-580` (tags `vendim-2006-580/<day>`; `python tools/on.py <day> vendim-2006-580`).
+Act id: `vendim-2006-580` (tags `vendim-2006-580/<day>`; `python registry/tools/on.py <day> vendim-2006-580`).
 
 ## Decisions made by hand
 

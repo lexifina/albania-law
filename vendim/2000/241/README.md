@@ -5,7 +5,7 @@ Riorganizimin dhe funksionimin e komisionit të çmimeve të barnave · 3 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-241` (tags `vendim-2000-241/<day>`; `python tools/on.py <day> vendim-2000-241`).
+Act id: `vendim-2000-241` (tags `vendim-2000-241/<day>`; `python registry/tools/on.py <day> vendim-2000-241`).
 
 ## Decisions made by hand
 

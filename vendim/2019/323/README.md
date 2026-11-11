@@ -8,7 +8,7 @@ Emërimin në detyrë të prefektit të qarkut të Shkodrës · 1 versions, from
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-323` (tags `vendim-2019-323/<day>`; `python tools/on.py <day> vendim-2019-323`).
+Act id: `vendim-2019-323` (tags `vendim-2019-323/<day>`; `python registry/tools/on.py <day> vendim-2019-323`).
 
 ## Decisions made by hand
 

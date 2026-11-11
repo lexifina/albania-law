@@ -79,7 +79,7 @@ Sektorin minerar në republikën e shqipërisë · 3 versions, from 2019-11-06 (
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2010-10304` (tags `ligj-2010-10304/<day>`; `python tools/on.py <day> ligj-2010-10304`).
+Act id: `ligj-2010-10304` (tags `ligj-2010-10304/<day>`; `python registry/tools/on.py <day> ligj-2010-10304`).
 
 ## Decisions made by hand
 

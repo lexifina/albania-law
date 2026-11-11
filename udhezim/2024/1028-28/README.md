@@ -31,7 +31,7 @@ Kushtet higjenike dhe kontrollet për produketet e peshkimit · 1 versions, from
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-1028-28` (tags `udhezim-2024-1028-28/<day>`; `python tools/on.py <day> udhezim-2024-1028-28`).
+Act id: `udhezim-2024-1028-28` (tags `udhezim-2024-1028-28/<day>`; `python registry/tools/on.py <day> udhezim-2024-1028-28`).
 
 ## Decisions made by hand
 

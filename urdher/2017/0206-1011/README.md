@@ -11,7 +11,7 @@ Miratimin e modelit të certifikatës dhe dokumentit identifikues zyrtar të udh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2017-0206-1011` (tags `urdher-2017-0206-1011/<day>`; `python tools/on.py <day> urdher-2017-0206-1011`).
+Act id: `urdher-2017-0206-1011` (tags `urdher-2017-0206-1011/<day>`; `python registry/tools/on.py <day> urdher-2017-0206-1011`).
 
 ## Decisions made by hand
 

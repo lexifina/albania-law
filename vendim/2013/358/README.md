@@ -5,7 +5,7 @@ Mënyrën e prokurimit të mallrave, punëve e të shërbimeve, në kuadër të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-358` (tags `vendim-2013-358/<day>`; `python tools/on.py <day> vendim-2013-358`).
+Act id: `vendim-2013-358` (tags `vendim-2013-358/<day>`; `python registry/tools/on.py <day> vendim-2013-358`).
 
 ## Decisions made by hand
 

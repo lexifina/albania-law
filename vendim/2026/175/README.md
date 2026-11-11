@@ -15,7 +15,7 @@ Përcaktimin e kategorizimit në pagë dhe shpërblimit për punën në bazë t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-175` (tags `vendim-2026-175/<day>`; `python tools/on.py <day> vendim-2026-175`).
+Act id: `vendim-2026-175` (tags `vendim-2026-175/<day>`; `python registry/tools/on.py <day> vendim-2026-175`).
 
 ## Decisions made by hand
 

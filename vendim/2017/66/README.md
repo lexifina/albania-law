@@ -25,7 +25,7 @@ Përcaktimin e kritereve e të procedurave për ngritjen e organizimin e shërbi
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-66` (tags `vendim-2017-66/<day>`; `python tools/on.py <day> vendim-2017-66`).
+Act id: `vendim-2017-66` (tags `vendim-2017-66/<day>`; `python registry/tools/on.py <day> vendim-2017-66`).
 
 ## Decisions made by hand
 

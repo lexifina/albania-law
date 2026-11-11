@@ -10,7 +10,7 @@ Disa ndryshime dhe shtesa në vendimin nr. 545, datë 11.8.2011, të këshillit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-452` (tags `vendim-2016-452/<day>`; `python tools/on.py <day> vendim-2016-452`).
+Act id: `vendim-2016-452` (tags `vendim-2016-452/<day>`; `python registry/tools/on.py <day> vendim-2016-452`).
 
 ## Decisions made by hand
 

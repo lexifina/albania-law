@@ -10,7 +10,7 @@ Miratimin e autorizimit të ndërtimit të centralit elektrik me erë (parqe eol
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-10-21 |
 
-Act id: `vendim-2013-677` (tags `vendim-2013-677/<day>`; `python tools/on.py <day> vendim-2013-677`).
+Act id: `vendim-2013-677` (tags `vendim-2013-677/<day>`; `python registry/tools/on.py <day> vendim-2013-677`).
 
 ## Decisions made by hand
 

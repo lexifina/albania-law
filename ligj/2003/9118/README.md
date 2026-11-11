@@ -12,7 +12,7 @@ Faljen e kamatëvonesave të kontributeve të sigurimeve shoqërore të papaguar
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9118` (tags `ligj-2003-9118/<day>`; `python tools/on.py <day> ligj-2003-9118`).
+Act id: `ligj-2003-9118` (tags `ligj-2003-9118/<day>`; `python registry/tools/on.py <day> ligj-2003-9118`).
 
 ## Decisions made by hand
 

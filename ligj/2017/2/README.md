@@ -5,7 +5,7 @@ Sigurinë kibernetike · 2 versions, from 2017-02-28 (latest in force: 2024-05-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2017-2` (tags `ligj-2017-2/<day>`; `python tools/on.py <day> ligj-2017-2`).
+Act id: `ligj-2017-2` (tags `ligj-2017-2/<day>`; `python registry/tools/on.py <day> ligj-2017-2`).
 
 ## Decisions made by hand
 

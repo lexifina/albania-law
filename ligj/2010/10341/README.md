@@ -18,7 +18,7 @@ Standardizimin ushtarak në forcat e armatosura të republikës së shqipërisë
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10341-2010` (tags `ligji-10341-2010/<day>`; `python tools/on.py <day> ligji-10341-2010`).
+Act id: `ligji-10341-2010` (tags `ligji-10341-2010/<day>`; `python registry/tools/on.py <day> ligji-10341-2010`).
 
 ## Decisions made by hand
 

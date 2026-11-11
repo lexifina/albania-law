@@ -20,7 +20,7 @@ Miratimin e kushteve të negociimit të shoqërisë ”KAYO”, sh.a., për sigu
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-230` (tags `vendim-2025-230/<day>`; `python tools/on.py <day> vendim-2025-230`).
+Act id: `vendim-2025-230` (tags `vendim-2025-230/<day>`; `python registry/tools/on.py <day> vendim-2025-230`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e raportit përfundimtar të vlerësimit të ofertave dhe shpalljen e 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-867` (tags `vendim-2008-867/<day>`; `python tools/on.py <day> vendim-2008-867`).
+Act id: `vendim-2008-867` (tags `vendim-2008-867/<day>`; `python registry/tools/on.py <day> vendim-2008-867`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit nr. tf013194, të fondit global të mjedis
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-58` (tags `vendim-2014-58/<day>`; `python tools/on.py <day> vendim-2014-58`).
+Act id: `vendim-2014-58` (tags `vendim-2014-58/<day>`; `python registry/tools/on.py <day> vendim-2014-58`).
 
 ## Decisions made by hand
 

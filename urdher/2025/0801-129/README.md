@@ -5,7 +5,7 @@ Përcaktimin e moshës për kategorit e pranimit në rolet policore · 2 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0801-129` (tags `urdher-2025-0801-129/<day>`; `python tools/on.py <day> urdher-2025-0801-129`).
+Act id: `urdher-2025-0801-129` (tags `urdher-2025-0801-129/<day>`; `python registry/tools/on.py <day> urdher-2025-0801-129`).
 
 ## Decisions made by hand
 

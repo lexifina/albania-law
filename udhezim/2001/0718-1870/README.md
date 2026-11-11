@@ -30,7 +30,7 @@ Organizimin e miratuar të mirëmbajtjes · 1 versions, from 2001-09-17 (latest 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2001-0718-1870` (tags `udhezim-2001-0718-1870/<day>`; `python tools/on.py <day> udhezim-2001-0718-1870`).
+Act id: `udhezim-2001-0718-1870` (tags `udhezim-2001-0718-1870/<day>`; `python registry/tools/on.py <day> udhezim-2001-0718-1870`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Transferimin e disa pasurive, truall, në pronësi të bashkisë së elbasanit �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-212` (tags `vendim-2009-212/<day>`; `python tools/on.py <day> vendim-2009-212`).
+Act id: `vendim-2009-212` (tags `vendim-2009-212/<day>`; `python registry/tools/on.py <day> vendim-2009-212`).
 
 ## Decisions made by hand
 

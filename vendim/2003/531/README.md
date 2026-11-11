@@ -35,7 +35,7 @@ Organizimin, funksionimin, detyrat dhe përgjegjësitë e shërbimit të emergje
 | Pika 28 | [pika-028.md](pika-028.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-531` (tags `vendim-2003-531/<day>`; `python tools/on.py <day> vendim-2003-531`).
+Act id: `vendim-2003-531` (tags `vendim-2003-531/<day>`; `python registry/tools/on.py <day> vendim-2003-531`).
 
 ## Decisions made by hand
 

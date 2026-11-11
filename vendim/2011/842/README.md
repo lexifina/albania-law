@@ -12,7 +12,7 @@ Miratimin e vlerës së kompensimit të dëmeve të shkaktuara në kulturat bujq
 | Pika 5 | [pika-005.md](pika-005.md) | 1 | 2017-04-14 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-842` (tags `vendim-2011-842/<day>`; `python tools/on.py <day> vendim-2011-842`).
+Act id: `vendim-2011-842` (tags `vendim-2011-842/<day>`; `python registry/tools/on.py <day> vendim-2011-842`).
 
 ## Decisions made by hand
 

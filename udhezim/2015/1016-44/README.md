@@ -30,7 +30,7 @@ Procedurat e pranimit dhe regjistrimit në programet e specializimeve afatgjata,
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1016-44` (tags `udhezim-2015-1016-44/<day>`; `python tools/on.py <day> udhezim-2015-1016-44`).
+Act id: `udhezim-2015-1016-44` (tags `udhezim-2015-1016-44/<day>`; `python registry/tools/on.py <day> udhezim-2015-1016-44`).
 
 ## Decisions made by hand
 

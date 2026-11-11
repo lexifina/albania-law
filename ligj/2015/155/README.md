@@ -106,7 +106,7 @@ Lojërat e fatit në Republikën e Shqipërisë · 2 versions, from 2018-12-01 (
 | Neni 76 | [neni-076.md](neni-076.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-155` (tags `ligj-2015-155/<day>`; `python tools/on.py <day> ligj-2015-155`).
+Act id: `ligj-2015-155` (tags `ligj-2015-155/<day>`; `python registry/tools/on.py <day> ligj-2015-155`).
 
 ## Decisions made by hand
 

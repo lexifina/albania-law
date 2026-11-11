@@ -23,7 +23,7 @@ Miratimin e rregullave për kohëzgjatjen e punës dhe të pushimit, orët shtes
 | Pika 15 | [pika-015.md](pika-015.md) | 1 | 2024-08-01 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-568` (tags `vendim-2021-568/<day>`; `python tools/on.py <day> vendim-2021-568`).
+Act id: `vendim-2021-568` (tags `vendim-2021-568/<day>`; `python registry/tools/on.py <day> vendim-2021-568`).
 
 ## Decisions made by hand
 

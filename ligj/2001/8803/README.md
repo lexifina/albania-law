@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes no.aba-r1-1-d për shtyrjen e borxheve që rrjedh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8803` (tags `ligj-2001-8803/<day>`; `python tools/on.py <day> ligj-2001-8803`).
+Act id: `ligj-2001-8803` (tags `ligj-2001-8803/<day>`; `python registry/tools/on.py <day> ligj-2001-8803`).
 
 ## Decisions made by hand
 

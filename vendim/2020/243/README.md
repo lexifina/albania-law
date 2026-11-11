@@ -15,7 +15,7 @@ Shpalljen e gjendjes së fatkeqësisë natyrore · 2 versions, from 2020-03-24 (
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-243` (tags `vendim-2020-243/<day>`; `python tools/on.py <day> vendim-2020-243`).
+Act id: `vendim-2020-243` (tags `vendim-2020-243/<day>`; `python registry/tools/on.py <day> vendim-2020-243`).
 
 ## Decisions made by hand
 

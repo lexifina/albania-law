@@ -17,7 +17,7 @@ Marrjen e masave të përkohshme për mbështetjen e sektorit të turizmit · 1 
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-26` (tags `aktnormativ-2020-26/<day>`; `python tools/on.py <day> aktnormativ-2020-26`).
+Act id: `aktnormativ-2020-26` (tags `aktnormativ-2020-26/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-26`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e strategjisë ndërsektoriale të luftës kundër krimit të organizu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2016-11-14 |
 
-Act id: `vendim-2013-663` (tags `vendim-2013-663/<day>`; `python tools/on.py <day> vendim-2013-663`).
+Act id: `vendim-2013-663` (tags `vendim-2013-663/<day>`; `python registry/tools/on.py <day> vendim-2013-663`).
 
 ## Decisions made by hand
 

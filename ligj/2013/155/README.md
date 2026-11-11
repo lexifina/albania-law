@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 21.5.2013, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-155` (tags `ligj-2013-155/<day>`; `python tools/on.py <day> ligj-2013-155`).
+Act id: `ligj-2013-155` (tags `ligj-2013-155/<day>`; `python registry/tools/on.py <day> ligj-2013-155`).
 
 ## Decisions made by hand
 

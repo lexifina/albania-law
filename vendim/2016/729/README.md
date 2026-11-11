@@ -5,7 +5,7 @@ Përcaktimin e tabelave dhe të simboleve në pikat e kalimit kufitar dhe zonat 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-729` (tags `vendim-2016-729/<day>`; `python tools/on.py <day> vendim-2016-729`).
+Act id: `vendim-2016-729` (tags `vendim-2016-729/<day>`; `python registry/tools/on.py <day> vendim-2016-729`).
 
 ## Decisions made by hand
 

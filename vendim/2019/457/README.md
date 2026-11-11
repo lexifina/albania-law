@@ -28,7 +28,7 @@ Miratimin e procedurave për pjesëmarrje në Qendrën e Trajnimeve në Fushën 
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-457` (tags `vendim-2019-457/<day>`; `python tools/on.py <day> vendim-2019-457`).
+Act id: `vendim-2019-457` (tags `vendim-2019-457/<day>`; `python registry/tools/on.py <day> vendim-2019-457`).
 
 ## Decisions made by hand
 

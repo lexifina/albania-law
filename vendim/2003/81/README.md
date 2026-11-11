@@ -10,7 +10,7 @@ Shitje trualli, kishës ortodokse autoqefale të shqipërisë · 2 versions, fro
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-81` (tags `vendim-2003-81/<day>`; `python tools/on.py <day> vendim-2003-81`).
+Act id: `vendim-2003-81` (tags `vendim-2003-81/<day>`; `python registry/tools/on.py <day> vendim-2003-81`).
 
 ## Decisions made by hand
 

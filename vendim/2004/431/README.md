@@ -5,7 +5,7 @@ Kriteret e gradimit të oficerëve, nënoficerëve dhe ushtarëve rezervistë ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-431` (tags `vendim-2004-431/<day>`; `python tools/on.py <day> vendim-2004-431`).
+Act id: `vendim-2004-431` (tags `vendim-2004-431/<day>`; `python registry/tools/on.py <day> vendim-2004-431`).
 
 ## Decisions made by hand
 

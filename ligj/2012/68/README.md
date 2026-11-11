@@ -5,7 +5,7 @@ Informacionin e konsumit të energjisë dhe burimeve të tjera të produkteve me
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-68` (tags `ligj-2012-68/<day>`; `python tools/on.py <day> ligj-2012-68`).
+Act id: `ligj-2012-68` (tags `ligj-2012-68/<day>`; `python registry/tools/on.py <day> ligj-2012-68`).
 
 ## Decisions made by hand
 

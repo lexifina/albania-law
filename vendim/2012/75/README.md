@@ -8,7 +8,7 @@ Dhënie shtesë pensioni të posaçëm shtetëror z. lorenc vorfi · 1 versions,
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-75` (tags `vendim-2012-75/<day>`; `python tools/on.py <day> vendim-2012-75`).
+Act id: `vendim-2012-75` (tags `vendim-2012-75/<day>`; `python registry/tools/on.py <day> vendim-2012-75`).
 
 ## Decisions made by hand
 

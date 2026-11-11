@@ -11,7 +11,7 @@ Miratimin e rekomandimeve prioritare në luftën kundër kriminalitetit, për vi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-231` (tags `vendim-2025-231/<day>`; `python tools/on.py <day> vendim-2025-231`).
+Act id: `vendim-2025-231` (tags `vendim-2025-231/<day>`; `python registry/tools/on.py <day> vendim-2025-231`).
 
 ## Decisions made by hand
 

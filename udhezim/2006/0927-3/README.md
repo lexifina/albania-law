@@ -44,7 +44,7 @@ Organizimin dhe funksionimin e komisionit të zgjedhjeve për qeverisjen vendore
 | Pjesa IX | [pjesa-09.md](pjesa-09.md) | 0 |  |
 | Pjesa X | [pjesa-10.md](pjesa-10.md) | 0 |  |
 
-Act id: `udhezim-2006-0927-3` (tags `udhezim-2006-0927-3/<day>`; `python tools/on.py <day> udhezim-2006-0927-3`).
+Act id: `udhezim-2006-0927-3` (tags `udhezim-2006-0927-3/<day>`; `python registry/tools/on.py <day> udhezim-2006-0927-3`).
 
 ## Decisions made by hand
 

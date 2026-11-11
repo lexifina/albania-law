@@ -15,7 +15,7 @@ Hartimin e marrëveshjes së nivelit të shërbimit · 2 versions, from 2014-06-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-11-11 |
 
-Act id: `udhezim-2014-0317-1159` (tags `udhezim-2014-0317-1159/<day>`; `python tools/on.py <day> udhezim-2014-0317-1159`).
+Act id: `udhezim-2014-0317-1159` (tags `udhezim-2014-0317-1159/<day>`; `python registry/tools/on.py <day> udhezim-2014-0317-1159`).
 
 ## Decisions made by hand
 

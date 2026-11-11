@@ -20,7 +20,7 @@ Mënyrën e zbatimit të vendimit të Këshillit të Ministrave nr. 325, datë 3
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0616-16` (tags `udhezim-2023-0616-16/<day>`; `python tools/on.py <day> udhezim-2023-0616-16`).
+Act id: `udhezim-2023-0616-16` (tags `udhezim-2023-0616-16/<day>`; `python registry/tools/on.py <day> udhezim-2023-0616-16`).
 
 ## Decisions made by hand
 

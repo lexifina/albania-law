@@ -5,7 +5,7 @@ Ndërmjetësimin në zgjidhjen e mosmarrëveshjeve · 2 versions, from 2003-08-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9090` (tags `ligj-2003-9090/<day>`; `python tools/on.py <day> ligj-2003-9090`).
+Act id: `ligj-2003-9090` (tags `ligj-2003-9090/<day>`; `python registry/tools/on.py <day> ligj-2003-9090`).
 
 ## Decisions made by hand
 

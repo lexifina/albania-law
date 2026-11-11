@@ -20,7 +20,7 @@ Krijimin e task-forcës “roja e gjelbër” për marrjen e masave emergjente m
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-215` (tags `vendim-2016-215/<day>`; `python tools/on.py <day> vendim-2016-215`).
+Act id: `vendim-2016-215` (tags `vendim-2016-215/<day>`; `python registry/tools/on.py <day> vendim-2016-215`).
 
 ## Decisions made by hand
 

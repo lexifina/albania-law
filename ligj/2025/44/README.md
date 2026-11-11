@@ -38,7 +38,7 @@ Zyrën e Rikuperimit të Aseteve · 1 versions, from 2025-07-25 (latest in force
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-44-2025` (tags `ligji-44-2025/<day>`; `python tools/on.py <day> ligji-44-2025`).
+Act id: `ligji-44-2025` (tags `ligji-44-2025/<day>`; `python registry/tools/on.py <day> ligji-44-2025`).
 
 ## Decisions made by hand
 

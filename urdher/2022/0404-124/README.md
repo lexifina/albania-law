@@ -11,7 +11,7 @@ Miratimin e “Programit të detyrueshëm të trajnimit vazhdues për ndihmësp�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0404-124` (tags `urdher-2022-0404-124/<day>`; `python tools/on.py <day> urdher-2022-0404-124`).
+Act id: `urdher-2022-0404-124` (tags `urdher-2022-0404-124/<day>`; `python registry/tools/on.py <day> urdher-2022-0404-124`).
 
 ## Decisions made by hand
 

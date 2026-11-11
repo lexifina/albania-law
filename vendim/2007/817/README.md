@@ -10,7 +10,7 @@ Miratimin e listës paraprake të pronave të paluajtshme publike shtetërore, q
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-817` (tags `vendim-2007-817/<day>`; `python tools/on.py <day> vendim-2007-817`).
+Act id: `vendim-2007-817` (tags `vendim-2007-817/<day>`; `python registry/tools/on.py <day> vendim-2007-817`).
 
 ## Decisions made by hand
 

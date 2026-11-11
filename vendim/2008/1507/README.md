@@ -16,7 +16,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1507` (tags `vendim-2008-1507/<day>`; `python tools/on.py <day> vendim-2008-1507`).
+Act id: `vendim-2008-1507` (tags `vendim-2008-1507/<day>`; `python registry/tools/on.py <day> vendim-2008-1507`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 614, datë 17.9.2014: Për disa ndryshime dhe shtesa në vendimin nr. 1507, datë 19.11.2008, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës hyrëse - shkodër”](https://qbz.gov.al/eli/vendim/2014/09/17/614)
 
 ## Decisions made by hand
 

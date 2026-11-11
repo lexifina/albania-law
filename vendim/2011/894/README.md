@@ -15,7 +15,7 @@ Licencimin e akademisë pedagogjike, tiranë · 1 versions, from 2011-12-31 (lat
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-894` (tags `vendim-2011-894/<day>`; `python tools/on.py <day> vendim-2011-894`).
+Act id: `vendim-2011-894` (tags `vendim-2011-894/<day>`; `python registry/tools/on.py <day> vendim-2011-894`).
 
 ## Decisions made by hand
 

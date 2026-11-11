@@ -8,7 +8,7 @@ Miratimin e rregullave teknike për etiketimin e materialeve që përdoren në p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-222` (tags `vendim-2012-222/<day>`; `python tools/on.py <day> vendim-2012-222`).
+Act id: `vendim-2012-222` (tags `vendim-2012-222/<day>`; `python registry/tools/on.py <day> vendim-2012-222`).
 
 ## Decisions made by hand
 

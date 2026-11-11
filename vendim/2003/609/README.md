@@ -10,7 +10,7 @@ PËR MIRATIMIN E MARRËVESHJES SË KONCESIONIT TË FORMËS ”ROT” NDËRMJET M
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2007-04-19 |
 
-Act id: `vendim-2003-609` (tags `vendim-2003-609/<day>`; `python tools/on.py <day> vendim-2003-609`).
+Act id: `vendim-2003-609` (tags `vendim-2003-609/<day>`; `python registry/tools/on.py <day> vendim-2003-609`).
 
 ## Decisions made by hand
 

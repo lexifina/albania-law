@@ -9,7 +9,7 @@ Miratimin e Statutit të Organizatës së Menaxhimit të Peshkimit (OMP) të Qar
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0315-208` (tags `urdher-2019-0315-208/<day>`; `python tools/on.py <day> urdher-2019-0315-208`).
+Act id: `urdher-2019-0315-208` (tags `urdher-2019-0315-208/<day>`; `python registry/tools/on.py <day> urdher-2019-0315-208`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “memorandumit të mirëkuptimit për zhvillimin e bashkërenduar
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9820` (tags `ligj-2007-9820/<day>`; `python tools/on.py <day> ligj-2007-9820`).
+Act id: `ligj-2007-9820` (tags `ligj-2007-9820/<day>`; `python registry/tools/on.py <day> ligj-2007-9820`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin e pushtetit gjyqësor në Republikën e Shqipërisë · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9877` (tags `ligj-2008-9877/<day>`; `python tools/on.py <day> ligj-2008-9877`).
+Act id: `ligj-2008-9877` (tags `ligj-2008-9877/<day>`; `python registry/tools/on.py <day> ligj-2008-9877`).
 
 ## Decisions made by hand
 

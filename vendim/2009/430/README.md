@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr.370, datë 15.9.1997 të këshillit të ministrav
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-430` (tags `vendim-2009-430/<day>`; `python tools/on.py <day> vendim-2009-430`).
+Act id: `vendim-2009-430` (tags `vendim-2009-430/<day>`; `python registry/tools/on.py <day> vendim-2009-430`).
 
 ## Decisions made by hand
 

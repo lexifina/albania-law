@@ -5,7 +5,7 @@ Kriteret dhe procedurat e shqyrtimit të kërkesave për licencë të institucio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-1101-33` (tags `udhezim-2010-1101-33/<day>`; `python tools/on.py <day> udhezim-2010-1101-33`).
+Act id: `udhezim-2010-1101-33` (tags `udhezim-2010-1101-33/<day>`; `python registry/tools/on.py <day> udhezim-2010-1101-33`).
 
 ## Decisions made by hand
 

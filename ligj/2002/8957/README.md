@@ -5,7 +5,7 @@ Ndërmarrjet e vogla dhe të mesme · 5 versions, from 2002-12-02 (latest in for
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8957` (tags `ligj-2002-8957/<day>`; `python tools/on.py <day> ligj-2002-8957`).
+Act id: `ligj-2002-8957` (tags `ligj-2002-8957/<day>`; `python registry/tools/on.py <day> ligj-2002-8957`).
 
 ## Decisions made by hand
 

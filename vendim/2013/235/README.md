@@ -5,7 +5,7 @@ Kalimin në përgjegjësi administrimi, nga bashkia Korçë te universiteti “F
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-235` (tags `vendim-2013-235/<day>`; `python tools/on.py <day> vendim-2013-235`).
+Act id: `vendim-2013-235` (tags `vendim-2013-235/<day>`; `python registry/tools/on.py <day> vendim-2013-235`).
 
 ## Decisions made by hand
 

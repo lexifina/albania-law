@@ -11,7 +11,7 @@ Përdorimin e fondit të rindërtimit për financimin e rindërtimit të njësiv
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-645` (tags `vendim-2020-645/<day>`; `python tools/on.py <day> vendim-2020-645`).
+Act id: `vendim-2020-645` (tags `vendim-2020-645/<day>`; `python registry/tools/on.py <day> vendim-2020-645`).
 
 ## Decisions made by hand
 

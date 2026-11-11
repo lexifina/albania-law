@@ -88,7 +88,7 @@ Të drejtat dhe mbrojtjen e fëmijës · 1 versions, from 2017-02-23 (latest in 
 | Neni 73 | [neni-073.md](neni-073.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-18-2017` (tags `ligji-18-2017/<day>`; `python tools/on.py <day> ligji-18-2017`).
+Act id: `ligji-18-2017` (tags `ligji-18-2017/<day>`; `python registry/tools/on.py <day> ligji-18-2017`).
 
 ## Decisions made by hand
 

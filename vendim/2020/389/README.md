@@ -26,7 +26,7 @@ Miratimin e listës dhe të tarifave të shërbimeve kadastrale · 3 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-08-04 |
 
-Act id: `vendim-2020-389` (tags `vendim-2020-389/<day>`; `python tools/on.py <day> vendim-2020-389`).
+Act id: `vendim-2020-389` (tags `vendim-2020-389/<day>`; `python registry/tools/on.py <day> vendim-2020-389`).
 
 ## Decisions made by hand
 

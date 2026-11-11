@@ -19,7 +19,7 @@ Procedurat e njehsimit të dëftesave/diplomave të shkollave të mesme dhe regj
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0218-9` (tags `udhezim-2011-0218-9/<day>`; `python tools/on.py <day> udhezim-2011-0218-9`).
+Act id: `udhezim-2011-0218-9` (tags `udhezim-2011-0218-9/<day>`; `python registry/tools/on.py <day> udhezim-2011-0218-9`).
 
 ## Decisions made by hand
 

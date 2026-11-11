@@ -5,7 +5,7 @@ Krijimin e agjencisë së nxitjes së eksporteve (ane) · 2 versions, from 2003-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9023` (tags `ligj-2003-9023/<day>`; `python tools/on.py <day> ligj-2003-9023`).
+Act id: `ligj-2003-9023` (tags `ligj-2003-9023/<day>`; `python registry/tools/on.py <day> ligj-2003-9023`).
 
 ## Decisions made by hand
 

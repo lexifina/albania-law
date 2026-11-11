@@ -21,7 +21,7 @@ Ngritjen, përbërjen dhe detyrat e zyrave të censusit të popullsisë dhe të 
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-533` (tags `vendim-2011-533/<day>`; `python tools/on.py <day> vendim-2011-533`).
+Act id: `vendim-2011-533` (tags `vendim-2011-533/<day>`; `python registry/tools/on.py <day> vendim-2011-533`).
 
 ## Decisions made by hand
 

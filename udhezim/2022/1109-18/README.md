@@ -41,7 +41,19 @@ Aditivët ushqimorë të lejuar · 1 versions, from 2024-01-01 (latest in force:
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1109-18` (tags `udhezim-2022-1109-18/<day>`; `python tools/on.py <day> udhezim-2022-1109-18`).
+Act id: `udhezim-2022-1109-18` (tags `udhezim-2022-1109-18/<day>`; `python registry/tools/on.py <day> udhezim-2022-1109-18`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 18, datë 21.7.2023 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 26378]: Për disa shtesa dhe ndryshime në udhëzimin nr. 18, datë 9.11.2022, ”Për aditivët ushqimorë të lejuar”](https://qbz.gov.al/eli/udhezim/2023/07/21/18)
+- [Udhëzimi nr. 25, datë 26.7.2024 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 28592]: Mbi specifikimet për aditivët ushqimorë të listuar në shtojcat II dhe III, të udhëzimit nr. 18, datë 9.11.2022, ”Për aditivët ushqimorë të lejuar”](https://qbz.gov.al/eli/udhezim/2024/07/26/25)
+- [Udhëzimi nr. 28, datë 28.10.2024 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 29294]: Për kushtet higjenike dhe kontrollet për produketet e peshkimit](https://qbz.gov.al/eli/udhezim/2024/10/28/28)
+- [Udhëzimi nr. 19, datë 5.6.2025 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 30536]: Mbi listën e substancave aromatizuese në produktet ushqimore](https://qbz.gov.al/eli/udhezim/2025/06/05/19)
+- [Udhëzimi nr. 23, datë 15.7.2025 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 54698]: Për disa shtesa dhe ndryshime në udhëzimin nr. 18, datë 9.11.2022, ”Për aditivët ushqimorë të lejuar”, i ndryshuar](https://qbz.gov.al/eli/udhezim/2025/07/15/23)
 
 ## Decisions made by hand
 

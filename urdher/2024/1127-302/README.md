@@ -10,7 +10,7 @@ Miratimin e rregullores ”Kushtet teknike për ndërveprueshmërinë në lidhje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1127-302` (tags `urdher-2024-1127-302/<day>`; `python tools/on.py <day> urdher-2024-1127-302`).
+Act id: `urdher-2024-1127-302` (tags `urdher-2024-1127-302/<day>`; `python registry/tools/on.py <day> urdher-2024-1127-302`).
 
 ## Decisions made by hand
 

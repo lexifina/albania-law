@@ -5,7 +5,7 @@ Procedurat e emërimit dhe të largimit nga puna të mësuesit në institucionin
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0819-41` (tags `udhezim-2013-0819-41/<day>`; `python tools/on.py <day> udhezim-2013-0819-41`).
+Act id: `udhezim-2013-0819-41` (tags `udhezim-2013-0819-41/<day>`; `python registry/tools/on.py <day> udhezim-2013-0819-41`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ PËR TRANSFERIMIN NË PRONËSI BASHKISË SË QYTETIT TË RRËSHENIT TË DEGËS S
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-134` (tags `vendim-2004-134/<day>`; `python tools/on.py <day> vendim-2004-134`).
+Act id: `vendim-2004-134` (tags `vendim-2004-134/<day>`; `python registry/tools/on.py <day> vendim-2004-134`).
 
 ## Decisions made by hand
 

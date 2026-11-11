@@ -11,7 +11,15 @@ Miratimin e rregullores për organizimin e kohës së punës të personave, që 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1243` (tags `vendim-2008-1243/<day>`; `python tools/on.py <day> vendim-2008-1243`).
+Act id: `vendim-2008-1243` (tags `vendim-2008-1243/<day>`; `python registry/tools/on.py <day> vendim-2008-1243`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1054, datë 22.12.2010: Për miratimin e rregullores ”për pajisjet e regjistrimit në transportin rrugor”](https://qbz.gov.al/eli/vendim/2010/12/22/1054)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Ratifikimin e “marrëveshjes së grantit ndërmjet këshillit të ministrave t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9841` (tags `ligj-2007-9841/<day>`; `python tools/on.py <day> ligj-2007-9841`).
+Act id: `ligj-2007-9841` (tags `ligj-2007-9841/<day>`; `python registry/tools/on.py <day> ligj-2007-9841`).
 
 ## Decisions made by hand
 

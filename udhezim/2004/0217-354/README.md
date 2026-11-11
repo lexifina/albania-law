@@ -5,7 +5,7 @@ Dokumentacionin e deklarimit dhe pagesës së kontributeve të detyrueshme të s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2004-0217-354` (tags `udhezim-2004-0217-354/<day>`; `python tools/on.py <day> udhezim-2004-0217-354`).
+Act id: `udhezim-2004-0217-354` (tags `udhezim-2004-0217-354/<day>`; `python registry/tools/on.py <day> udhezim-2004-0217-354`).
 
 ## Decisions made by hand
 

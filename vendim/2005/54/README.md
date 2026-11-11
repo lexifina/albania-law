@@ -5,7 +5,7 @@ Përcaktimin e kritereve për dhënien e lejeve profesionale specialistëve që 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-54` (tags `vendim-2005-54/<day>`; `python tools/on.py <day> vendim-2005-54`).
+Act id: `vendim-2005-54` (tags `vendim-2005-54/<day>`; `python registry/tools/on.py <day> vendim-2005-54`).
 
 ## Decisions made by hand
 

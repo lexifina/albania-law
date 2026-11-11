@@ -8,7 +8,7 @@ Miratimin e memorandumit të mirëkuptimit për bashkëpunimin e ndërsjellë, n
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-716` (tags `vendim-2023-716/<day>`; `python tools/on.py <day> vendim-2023-716`).
+Act id: `vendim-2023-716` (tags `vendim-2023-716/<day>`; `python registry/tools/on.py <day> vendim-2023-716`).
 
 ## Decisions made by hand
 

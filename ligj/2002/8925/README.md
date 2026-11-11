@@ -8,7 +8,7 @@ Miratimin e aktit normativ nr.5, datë 13.6.2002 të Këshillit të Ministrave, 
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8925-2002` (tags `ligji-8925-2002/<day>`; `python tools/on.py <day> ligji-8925-2002`).
+Act id: `ligji-8925-2002` (tags `ligji-8925-2002/<day>`; `python registry/tools/on.py <day> ligji-8925-2002`).
 
 ## Decisions made by hand
 

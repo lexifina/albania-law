@@ -76,7 +76,7 @@ Parandalimin dhe mbrojtjen nga dhuna ndaj grave dhe dhuna në familje · 1 versi
 | Neni 60 | [neni-060.md](neni-060.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-11-2026` (tags `ligji-11-2026/<day>`; `python tools/on.py <day> ligji-11-2026`).
+Act id: `ligji-11-2026` (tags `ligji-11-2026/<day>`; `python registry/tools/on.py <day> ligji-11-2026`).
 
 ## Decisions made by hand
 

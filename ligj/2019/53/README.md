@@ -40,7 +40,7 @@ Akademinë e Shkencave në Republikën e Shqipërisë · 2 versions, from 2019-1
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-53` (tags `ligj-2019-53/<day>`; `python tools/on.py <day> ligj-2019-53`).
+Act id: `ligj-2019-53` (tags `ligj-2019-53/<day>`; `python registry/tools/on.py <day> ligj-2019-53`).
 
 ## Decisions made by hand
 

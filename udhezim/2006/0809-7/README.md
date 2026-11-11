@@ -11,7 +11,7 @@ Procedurat tatimore në Republikën e Shqipërisë · 1 versions, from 2006-08-2
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-0809-7` (tags `udhezim-2006-0809-7/<day>`; `python tools/on.py <day> udhezim-2006-0809-7`).
+Act id: `udhezim-2006-0809-7` (tags `udhezim-2006-0809-7/<day>`; `python registry/tools/on.py <day> udhezim-2006-0809-7`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e strukturës së vitit shkollor 2021-2022 në sistemin arsimor paraun
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0510-88` (tags `urdher-2021-0510-88/<day>`; `python tools/on.py <day> urdher-2021-0510-88`).
+Act id: `urdher-2021-0510-88` (tags `urdher-2021-0510-88/<day>`; `python registry/tools/on.py <day> urdher-2021-0510-88`).
 
 ## Decisions made by hand
 

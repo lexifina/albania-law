@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 1, datë 5.2.2025, të Kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2025-13` (tags `ligj-2025-13/<day>`; `python tools/on.py <day> ligj-2025-13`).
+Act id: `ligj-2025-13` (tags `ligj-2025-13/<day>`; `python registry/tools/on.py <day> ligj-2025-13`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Miratimin e metodologjisë së vlerësimit paraprak të ndikimeve në mjedis të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1227-6` (tags `udhezim-2006-1227-6/<day>`; `python tools/on.py <day> udhezim-2006-1227-6`).
+Act id: `udhezim-2006-1227-6` (tags `udhezim-2006-1227-6/<day>`; `python registry/tools/on.py <day> udhezim-2006-1227-6`).
 
 ## Decisions made by hand
 

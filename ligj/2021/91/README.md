@@ -28,7 +28,7 @@ Krijimin, organizimin dhe funksionimin e Autoritetit Kombëtar të Investigimit 
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-91` (tags `ligj-2021-91/<day>`; `python tools/on.py <day> ligj-2021-91`).
+Act id: `ligj-2021-91` (tags `ligj-2021-91/<day>`; `python registry/tools/on.py <day> ligj-2021-91`).
 
 ## Decisions made by hand
 

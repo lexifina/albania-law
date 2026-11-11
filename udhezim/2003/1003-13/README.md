@@ -11,7 +11,7 @@ Shpërndarjen dhe përdorimin e fletëve të votimit nga kqv · 1 versions, from
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 
-Act id: `udhezim-2003-1003-13` (tags `udhezim-2003-1003-13/<day>`; `python tools/on.py <day> udhezim-2003-1003-13`).
+Act id: `udhezim-2003-1003-13` (tags `udhezim-2003-1003-13/<day>`; `python registry/tools/on.py <day> udhezim-2003-1003-13`).
 
 ## Decisions made by hand
 

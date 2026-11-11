@@ -5,7 +5,7 @@ Nivelin e kuotave të shpenzimeve për ushqime, në institucionet publike rezide
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0801-5` (tags `udhezim-2012-0801-5/<day>`; `python tools/on.py <day> udhezim-2012-0801-5`).
+Act id: `udhezim-2012-0801-5` (tags `udhezim-2012-0801-5/<day>`; `python registry/tools/on.py <day> udhezim-2012-0801-5`).
 
 ## Decisions made by hand
 

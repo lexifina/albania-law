@@ -5,7 +5,7 @@ Procedurat e pranimit e të emërimit të mësuesit në një vend të lirë pune
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0522-13` (tags `udhezim-2019-0522-13/<day>`; `python tools/on.py <day> udhezim-2019-0522-13`).
+Act id: `udhezim-2019-0522-13` (tags `udhezim-2019-0522-13/<day>`; `python registry/tools/on.py <day> udhezim-2019-0522-13`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Procedurën e hedhjes së shortit për caktimin e mandatit të fundit midis subj
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0504-15` (tags `udhezim-2009-0504-15/<day>`; `python tools/on.py <day> udhezim-2009-0504-15`).
+Act id: `udhezim-2009-0504-15` (tags `udhezim-2009-0504-15/<day>`; `python registry/tools/on.py <day> udhezim-2009-0504-15`).
 
 ## Decisions made by hand
 

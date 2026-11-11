@@ -9,7 +9,7 @@ Delegim kompetencash, për nënshkrimin e urdhrave për nxjerrjen nga përdorimi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0118-58` (tags `urdher-2024-0118-58/<day>`; `python tools/on.py <day> urdher-2024-0118-58`).
+Act id: `urdher-2024-0118-58` (tags `urdher-2024-0118-58/<day>`; `python registry/tools/on.py <day> urdher-2024-0118-58`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-598` (tags `vendim-2016-598/<day>`; `python tools/on.py <day> vendim-2016-598`).
+Act id: `vendim-2016-598` (tags `vendim-2016-598/<day>`; `python registry/tools/on.py <day> vendim-2016-598`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 44-1, datë 9.3.2017: Korrigjim gabimi në vendimin nr. 598, datë 31.8.2016, të Këshillit të Ministrave, “Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme pronë private që preken nga realizimi i projektit “Rikonstruksion i bulevardit ’Jakov Xoxa’, Fier”, botuar në Fletoren Zyrtare nr. 166/2016, datë 7.9.2016, në faqet 20193 dhe 20194](https://qbz.gov.al/eli/vendim/2017/03/09/44-1)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores për zhvillimin e Maturës Shtetërore në Republikën e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-01-14 |
 
-Act id: `urdher-2023-1201-661` (tags `urdher-2023-1201-661/<day>`; `python tools/on.py <day> urdher-2023-1201-661`).
+Act id: `urdher-2023-1201-661` (tags `urdher-2023-1201-661/<day>`; `python registry/tools/on.py <day> urdher-2023-1201-661`).
 
 ## Decisions made by hand
 

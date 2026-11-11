@@ -9,7 +9,7 @@ Caktimin e “ditës së triumfit të paqes” · 1 versions, from 2000-07-26 (l
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8625` (tags `ligj-2000-8625/<day>`; `python tools/on.py <day> ligj-2000-8625`).
+Act id: `ligj-2000-8625` (tags `ligj-2000-8625/<day>`; `python registry/tools/on.py <day> ligj-2000-8625`).
 
 ## Decisions made by hand
 

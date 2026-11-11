@@ -5,7 +5,7 @@ Miratimin e rregullores së brendshme të organizimit dhe funksionimit të Kësh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-672` (tags `vendim-2005-672/<day>`; `python tools/on.py <day> vendim-2005-672`).
+Act id: `vendim-2005-672` (tags `vendim-2005-672/<day>`; `python registry/tools/on.py <day> vendim-2005-672`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e përmbajtjes dhe formës së “kontratës tip për dhënien me qira
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2007-0709-234` (tags `urdher-2007-0709-234/<day>`; `python tools/on.py <day> urdher-2007-0709-234`).
+Act id: `urdher-2007-0709-234` (tags `urdher-2007-0709-234/<day>`; `python registry/tools/on.py <day> urdher-2007-0709-234`).
 
 ## Decisions made by hand
 

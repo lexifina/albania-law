@@ -11,7 +11,7 @@ Miratimin e rregullores mbi ”Parimet dhe udhëzimet e praktikave të mira të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0811-780` (tags `urdher-2025-0811-780/<day>`; `python tools/on.py <day> urdher-2025-0811-780`).
+Act id: `urdher-2025-0811-780` (tags `urdher-2025-0811-780/<day>`; `python registry/tools/on.py <day> urdher-2025-0811-780`).
 
 ## Decisions made by hand
 

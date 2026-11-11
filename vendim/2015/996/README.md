@@ -12,7 +12,7 @@ Kriteret e bashkëfinancimit të projekteve apo shërbimeve të kujdesit paliati
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-996` (tags `vendim-2015-996/<day>`; `python tools/on.py <day> vendim-2015-996`).
+Act id: `vendim-2015-996` (tags `vendim-2015-996/<day>`; `python registry/tools/on.py <day> vendim-2015-996`).
 
 ## Decisions made by hand
 

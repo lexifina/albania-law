@@ -9,7 +9,7 @@ Prodhimin, shpërndarjen dhe përdorimin e fletëvotimeve nga KQV-të e zonës z
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 
-Act id: `udhezim-2002-0618-5` (tags `udhezim-2002-0618-5/<day>`; `python tools/on.py <day> udhezim-2002-0618-5`).
+Act id: `udhezim-2002-0618-5` (tags `udhezim-2002-0618-5/<day>`; `python registry/tools/on.py <day> udhezim-2002-0618-5`).
 
 ## Decisions made by hand
 

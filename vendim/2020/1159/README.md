@@ -9,7 +9,7 @@ Miratimin e garancisë shtetërore, në favor të Intesa Sanpaolo Bank Albania s
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1159` (tags `vendim-2020-1159/<day>`; `python tools/on.py <day> vendim-2020-1159`).
+Act id: `vendim-2020-1159` (tags `vendim-2020-1159/<day>`; `python registry/tools/on.py <day> vendim-2020-1159`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të ushtarakëve aktivë të forcave të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-224` (tags `vendim-2017-224/<day>`; `python tools/on.py <day> vendim-2017-224`).
+Act id: `vendim-2017-224` (tags `vendim-2017-224/<day>`; `python registry/tools/on.py <day> vendim-2017-224`).
 
 ## Decisions made by hand
 

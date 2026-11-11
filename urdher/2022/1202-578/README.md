@@ -11,7 +11,7 @@ Miratimin e planit të veprimit për përdorimin e qëndrueshëm të produkteve 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1202-578` (tags `urdher-2022-1202-578/<day>`; `python tools/on.py <day> urdher-2022-1202-578`).
+Act id: `urdher-2022-1202-578` (tags `urdher-2022-1202-578/<day>`; `python registry/tools/on.py <day> urdher-2022-1202-578`).
 
 ## Decisions made by hand
 

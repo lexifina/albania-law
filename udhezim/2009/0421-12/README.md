@@ -5,7 +5,7 @@ Caktimin dhe përgatitjen e vendit të numërimit të votave, mënyrën e ngritj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0421-12` (tags `udhezim-2009-0421-12/<day>`; `python tools/on.py <day> udhezim-2009-0421-12`).
+Act id: `udhezim-2009-0421-12` (tags `udhezim-2009-0421-12/<day>`; `python registry/tools/on.py <day> udhezim-2009-0421-12`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,16 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 9, datë 25.3.2020, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-30` (tags `ligj-2020-30/<day>`; `python tools/on.py <day> ligj-2020-30`).
+Act id: `ligj-2020-30` (tags `ligj-2020-30/<day>`; `python registry/tools/on.py <day> ligj-2020-30`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Akti normativ nr. 21, datë 27.5.2020: Për disa ndryshime në aktin normativ nr.9, datë 25.3.2020, të Këshillit të Ministrave, “Për marrjen e masave të veçanta në fushën e veprimtarisë gjyqësore, gjatë kohëzgjatjes së gjendjes së epidemisë së shkaktuar nga COVID-19”, miratuar me ligjin nr.30/2020](https://qbz.gov.al/eli/akt-normativ/2020/05/27/21)
+- [Ligji nr. 75/2020: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 21, datë 27.5.2020 “Për disa ndryshime në aktin normativ nr. 9, datë 25.3.2020, të Këshillit të Ministrave, “Për marrjen e masave te veçanta në fushën e veprimtarisë gjyqësore, gjatë kohëzgjatjes së gjendjes së epidemisë së shkaktuar nga Covid-19””, miratuar me ligjin nr. 30/2020](https://qbz.gov.al/eli/ligj/2020/06/25/75)
 
 ## Decisions made by hand
 

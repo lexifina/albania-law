@@ -10,7 +10,7 @@ Miratimin e rregullores “Për kategorizimin e burimeve radioaktive në Republi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-9` (tags `vendim-2010-9/<day>`; `python tools/on.py <day> vendim-2010-9`).
+Act id: `vendim-2010-9` (tags `vendim-2010-9/<day>`; `python registry/tools/on.py <day> vendim-2010-9`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Ngritjen e Sekretariatit të Komitetit Koordinues të Ministerialit të Mbrojtje
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-604` (tags `vendim-2019-604/<day>`; `python tools/on.py <day> vendim-2019-604`).
+Act id: `vendim-2019-604` (tags `vendim-2019-604/<day>`; `python registry/tools/on.py <day> vendim-2019-604`).
 
 ## Decisions made by hand
 

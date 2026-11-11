@@ -10,7 +10,15 @@ Shtyrjen e afatit të botimit të njoftimit të fituesit dhe njoftimit të kontr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1649` (tags `vendim-2008-1649/<day>`; `python tools/on.py <day> vendim-2008-1649`).
+Act id: `vendim-2008-1649` (tags `vendim-2008-1649/<day>`; `python registry/tools/on.py <day> vendim-2008-1649`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 940, datë 4.9.2009: Për disa ndryshime në vendimin nr.1694, datë 24.12.2008 të këshillit të ministrave “Për përcaktimin e numrit të punonjësve, pËr vitin 2009, në ministritë dhe institucionet qendrore”](https://qbz.gov.al/eli/vendim/2009/09/04/940)
 
 ## Decisions made by hand
 

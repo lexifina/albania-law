@@ -5,7 +5,7 @@ Akreditimin e laboratorëve testues, kalibrues, organizmave certifikues dhe insp
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9024` (tags `ligj-2003-9024/<day>`; `python tools/on.py <day> ligj-2003-9024`).
+Act id: `ligj-2003-9024` (tags `ligj-2003-9024/<day>`; `python registry/tools/on.py <day> ligj-2003-9024`).
 
 ## Decisions made by hand
 

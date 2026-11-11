@@ -9,7 +9,7 @@ Miratimin e raportit vjetor për ndihmat shtetërore të vitit 2025 · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-427` (tags `vendim-2026-427/<day>`; `python tools/on.py <day> vendim-2026-427`).
+Act id: `vendim-2026-427` (tags `vendim-2026-427/<day>`; `python registry/tools/on.py <day> vendim-2026-427`).
 
 ## Decisions made by hand
 

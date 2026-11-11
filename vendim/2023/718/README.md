@@ -10,7 +10,7 @@ Miratimin e planit të veprimit parandalues për gazin natyror në Republikën e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-718` (tags `vendim-2023-718/<day>`; `python tools/on.py <day> vendim-2023-718`).
+Act id: `vendim-2023-718` (tags `vendim-2023-718/<day>`; `python registry/tools/on.py <day> vendim-2023-718`).
 
 ## Decisions made by hand
 

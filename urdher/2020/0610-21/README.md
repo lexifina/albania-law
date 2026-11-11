@@ -11,7 +11,7 @@ Miratimin e rregullores për metodologjinë e testimit të inspektorëve shtetë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0610-21` (tags `urdher-2020-0610-21/<day>`; `python tools/on.py <day> urdher-2020-0610-21`).
+Act id: `urdher-2020-0610-21` (tags `urdher-2020-0610-21/<day>`; `python registry/tools/on.py <day> urdher-2020-0610-21`).
 
 ## Decisions made by hand
 

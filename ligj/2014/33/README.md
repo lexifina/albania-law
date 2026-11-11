@@ -10,7 +10,15 @@ Miratimin e huamarrjes prej 295 420 000 sdr-sh, që fondi monetar ndërkombëtar
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-33` (tags `ligj-2014-33/<day>`; `python tools/on.py <day> ligj-2014-33`).
+Act id: `ligj-2014-33` (tags `ligj-2014-33/<day>`; `python registry/tools/on.py <day> ligj-2014-33`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 56/2016: Për disa ndryshime në ligjin nr. 33/2014, “për miratimin e huamarrjes prej 295 420 000 sdr-sh, që fondi monetar ndërkombëtar i akordon shqipërisë për programin 36-mujor të ndihmës (eff)”](https://qbz.gov.al/eli/ligj/2016/06/02/56-2016)
 
 ## Decisions made by hand
 

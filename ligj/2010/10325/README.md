@@ -26,7 +26,7 @@ Bazat e të dhënave shtetërore · 1 versions, from 2010-10-28 (latest in force
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10325-2010` (tags `ligji-10325-2010/<day>`; `python tools/on.py <day> ligji-10325-2010`).
+Act id: `ligji-10325-2010` (tags `ligji-10325-2010/<day>`; `python registry/tools/on.py <day> ligji-10325-2010`).
 
 ## Decisions made by hand
 

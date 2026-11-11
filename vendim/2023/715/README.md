@@ -11,7 +11,7 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-09-15 |
 
-Act id: `vendim-2023-715` (tags `vendim-2023-715/<day>`; `python tools/on.py <day> vendim-2023-715`).
+Act id: `vendim-2023-715` (tags `vendim-2023-715/<day>`; `python registry/tools/on.py <day> vendim-2023-715`).
 
 ## Decisions made by hand
 

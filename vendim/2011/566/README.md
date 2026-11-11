@@ -5,7 +5,7 @@ Përcaktimin e koefiÇientëve të indeksimit të bazës së vlerësuar individu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-566` (tags `vendim-2011-566/<day>`; `python tools/on.py <day> vendim-2011-566`).
+Act id: `vendim-2011-566` (tags `vendim-2011-566/<day>`; `python registry/tools/on.py <day> vendim-2011-566`).
 
 ## Decisions made by hand
 

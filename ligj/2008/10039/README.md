@@ -5,7 +5,7 @@ Ndihmën juridike · 2 versions, from 2009-03-31 (latest in force: 2018-06-01) �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-10039` (tags `ligj-2008-10039/<day>`; `python tools/on.py <day> ligj-2008-10039`).
+Act id: `ligj-2008-10039` (tags `ligj-2008-10039/<day>`; `python registry/tools/on.py <day> ligj-2008-10039`).
 
 ## Decisions made by hand
 

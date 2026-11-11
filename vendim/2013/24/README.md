@@ -14,7 +14,16 @@ Miratimin e kuotave të pranimit dhe të tarifave të shkollimit, në programet 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-24` (tags `vendim-2013-24/<day>`; `python tools/on.py <day> vendim-2013-24`).
+Act id: `vendim-2013-24` (tags `vendim-2013-24/<day>`; `python registry/tools/on.py <day> vendim-2013-24`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 267, datë 3.4.2013: Për disa ndryshime dhe një shtesë në vendimin nr. 24, datë 9.1.2013 të Këshillit të Ministrave “Për miratimin e kuotave të pranimit dhe të tarifave të shkollimit, në programet e studimeve të ciklit të tretë, të doktoratës, në institucionet publike të arsimit të lartë, për vitin akademik 2012-2013”](https://qbz.gov.al/eli/vendim/2013/04/03/267)
+- [Vendimi i Këshillit të Ministrave nr. 508, datë 13.6.2013: Për disa ndryshime në vendimin nr. 24, datë 9.1.2013 të Këshillit të Ministrave “Për miratimin e kuotave të pranimit dhe të tarifave të shkollimit në programet e studimeve të ciklit të tretë, të doktoratës, në institucionet publike të arsimit të lartë, për vitin akademik 2012 - 2013”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/06/13/508)
 
 ## Decisions made by hand
 

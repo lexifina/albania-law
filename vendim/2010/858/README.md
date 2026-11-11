@@ -9,7 +9,7 @@ Miratimin, në parim, të marrëveshjeve, ndërmjet Këshillit të Ministrave t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-858` (tags `vendim-2010-858/<day>`; `python tools/on.py <day> vendim-2010-858`).
+Act id: `vendim-2010-858` (tags `vendim-2010-858/<day>`; `python registry/tools/on.py <day> vendim-2010-858`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Përcaktimin e rregullave për organizimin dhe përmbajtjen e programit të traj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0630-433` (tags `urdher-2023-0630-433/<day>`; `python tools/on.py <day> urdher-2023-0630-433`).
+Act id: `urdher-2023-0630-433` (tags `urdher-2023-0630-433/<day>`; `python registry/tools/on.py <day> urdher-2023-0630-433`).
 
 ## Decisions made by hand
 

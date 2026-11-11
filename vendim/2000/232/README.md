@@ -12,7 +12,7 @@ Dhënie ndihme familjeve të zonave verilindore, të cilat kanë humbur pjesëta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-232` (tags `vendim-2000-232/<day>`; `python tools/on.py <day> vendim-2000-232`).
+Act id: `vendim-2000-232` (tags `vendim-2000-232/<day>`; `python registry/tools/on.py <day> vendim-2000-232`).
 
 ## Decisions made by hand
 

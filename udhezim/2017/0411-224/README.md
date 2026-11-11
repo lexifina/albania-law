@@ -16,7 +16,15 @@ Rregullat për kryerjen e inspektimeve nga policia e shtetit, për monitorimin e
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0411-224` (tags `udhezim-2017-0411-224/<day>`; `python tools/on.py <day> udhezim-2017-0411-224`).
+Act id: `udhezim-2017-0411-224` (tags `udhezim-2017-0411-224/<day>`; `python registry/tools/on.py <day> udhezim-2017-0411-224`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 634, datë 6.11.2018 (Ministria e Brendshme) [QBZ 66402]: Për disa shtesa dhe ndryshime në udhëzimin e ministrit të punëve të brendshme nr. 224, datë 11.4.2017, “për rregullat për kryerjen e inspektimeve nga policia e shtetit, për monitorimin e përmbushjes së masave shtesë të sigurisë publike”](https://qbz.gov.al/eli/udhezim/2018/11/06/634)
 
 ## Decisions made by hand
 

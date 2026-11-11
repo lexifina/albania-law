@@ -19,7 +19,7 @@ Përcaktimin e autoriteteve mbikëqyrëse · 1 versions, from 2025-11-14 (latest
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-665` (tags `vendim-2025-665/<day>`; `python tools/on.py <day> vendim-2025-665`).
+Act id: `vendim-2025-665` (tags `vendim-2025-665/<day>`; `python registry/tools/on.py <day> vendim-2025-665`).
 
 ## Decisions made by hand
 

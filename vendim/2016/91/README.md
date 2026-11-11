@@ -14,7 +14,7 @@ Përcaktimin e kritereve bazë, të sektorëve që do të mbështeten dhe të ma
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-91` (tags `vendim-2016-91/<day>`; `python tools/on.py <day> vendim-2016-91`).
+Act id: `vendim-2016-91` (tags `vendim-2016-91/<day>`; `python registry/tools/on.py <day> vendim-2016-91`).
 
 ## Decisions made by hand
 

@@ -48,7 +48,7 @@ Mënyrën e kryerjes së procesit të akreditimit të institucioneve të kujdesi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-865` (tags `vendim-2019-865/<day>`; `python tools/on.py <day> vendim-2019-865`).
+Act id: `vendim-2019-865` (tags `vendim-2019-865/<day>`; `python registry/tools/on.py <day> vendim-2019-865`).
 
 ## Decisions made by hand
 

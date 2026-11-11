@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmudjes së gjuhës blu të shfaqur në shtetin e Po
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0923-736` (tags `urdher-2024-0923-736/<day>`; `python tools/on.py <day> urdher-2024-0923-736`).
+Act id: `urdher-2024-0923-736` (tags `urdher-2024-0923-736/<day>`; `python registry/tools/on.py <day> urdher-2024-0923-736`).
 
 ## Decisions made by hand
 

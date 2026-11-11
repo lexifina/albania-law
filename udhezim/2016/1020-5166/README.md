@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe procedurave të tjera shtesë në sqarim të kriter
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-1020-5166` (tags `udhezim-2016-1020-5166/<day>`; `python tools/on.py <day> udhezim-2016-1020-5166`).
+Act id: `udhezim-2016-1020-5166` (tags `udhezim-2016-1020-5166/<day>`; `python registry/tools/on.py <day> udhezim-2016-1020-5166`).
 
 ## Decisions made by hand
 

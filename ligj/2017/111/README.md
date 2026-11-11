@@ -53,7 +53,7 @@ Ndihmën juridike të garantuar nga shteti · 1 versions, from 2018-06-01 (lates
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-111-2017` (tags `ligji-111-2017/<day>`; `python tools/on.py <day> ligji-111-2017`).
+Act id: `ligji-111-2017` (tags `ligji-111-2017/<day>`; `python registry/tools/on.py <day> ligji-111-2017`).
 
 ## Decisions made by hand
 

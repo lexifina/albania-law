@@ -9,7 +9,7 @@ Kriteret e vlerësimit të ofertave për privatizimin e shoqërisë anonime “A
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-417` (tags `vendim-2004-417/<day>`; `python tools/on.py <day> vendim-2004-417`).
+Act id: `vendim-2004-417` (tags `vendim-2004-417/<day>`; `python registry/tools/on.py <day> vendim-2004-417`).
 
 ## Decisions made by hand
 

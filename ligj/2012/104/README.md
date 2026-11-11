@@ -9,7 +9,7 @@ Ratifikimin e konventës së këshillit të europës ”për parandalimin dhe lu
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-104` (tags `ligj-2012-104/<day>`; `python tools/on.py <day> ligj-2012-104`).
+Act id: `ligj-2012-104` (tags `ligj-2012-104/<day>`; `python registry/tools/on.py <day> ligj-2012-104`).
 
 ## Decisions made by hand
 

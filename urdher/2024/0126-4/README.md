@@ -11,7 +11,7 @@ Miratimin e ”Manualit të menaxhimit financiar dhe kontrollit” · 1 versions
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0126-4` (tags `urdher-2024-0126-4/<day>`; `python tools/on.py <day> urdher-2024-0126-4`).
+Act id: `urdher-2024-0126-4` (tags `urdher-2024-0126-4/<day>`; `python registry/tools/on.py <day> urdher-2024-0126-4`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Shpalljen “zonë ekonomike”, me statusin e “zonës së lirë’, të një 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-12-02 |
 
-Act id: `vendim-2009-628` (tags `vendim-2009-628/<day>`; `python tools/on.py <day> vendim-2009-628`).
+Act id: `vendim-2009-628` (tags `vendim-2009-628/<day>`; `python registry/tools/on.py <day> vendim-2009-628`).
 
 ## Decisions made by hand
 

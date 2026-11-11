@@ -12,7 +12,15 @@ Miratimin e metodologjisë për vlerësimin e pronave të paluajtshme në republ
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-658` (tags `vendim-2012-658/<day>`; `python tools/on.py <day> vendim-2012-658`).
+Act id: `vendim-2012-658` (tags `vendim-2012-658/<day>`; `python registry/tools/on.py <day> vendim-2012-658`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1034, datë 16.12.2015: Për disa ndryshime në vendimin nr. 658, datë 26.9.2012, të Këshillit të Ministrave, “Për miratimin e metodologjisë për vlerësimin e pronave të paluajtshme në Republikën e Shqipërisë”](https://qbz.gov.al/eli/vendim/2015/12/16/1034)
 
 ## Decisions made by hand
 

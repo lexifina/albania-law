@@ -31,7 +31,7 @@ Dhënien e statusit të veçantë Akademisë së Forcave të Armatosura, si inst
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-156` (tags `vendim-2020-156/<day>`; `python tools/on.py <day> vendim-2020-156`).
+Act id: `vendim-2020-156` (tags `vendim-2020-156/<day>`; `python registry/tools/on.py <day> vendim-2020-156`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Delegimin e përfaqësimit ligjor të kuvendit të shqipërisë · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-1016-1` (tags `urdher-2017-1016-1/<day>`; `python tools/on.py <day> urdher-2017-1016-1`).
+Act id: `urdher-2017-1016-1` (tags `urdher-2017-1016-1/<day>`; `python registry/tools/on.py <day> urdher-2017-1016-1`).
 
 ## Decisions made by hand
 

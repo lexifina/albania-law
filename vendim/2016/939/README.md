@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve operative, për vitin 2017, për entin rregul
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-939` (tags `vendim-2016-939/<day>`; `python tools/on.py <day> vendim-2016-939`).
+Act id: `vendim-2016-939` (tags `vendim-2016-939/<day>`; `python registry/tools/on.py <day> vendim-2016-939`).
 
 ## Decisions made by hand
 

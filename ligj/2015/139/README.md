@@ -121,7 +121,7 @@ Vetëqeverisjen vendore · 2 versions, from 2016-01-15 (latest in force: 2019-10
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-139` (tags `ligj-2015-139/<day>`; `python tools/on.py <day> ligj-2015-139`).
+Act id: `ligj-2015-139` (tags `ligj-2015-139/<day>`; `python registry/tools/on.py <day> ligj-2015-139`).
 
 ## Decisions made by hand
 

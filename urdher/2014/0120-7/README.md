@@ -13,7 +13,7 @@ Miratimin e kushteve të përgjithshme të marrëveshjes për kryerjen e oponenc
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0120-7` (tags `urdher-2014-0120-7/<day>`; `python tools/on.py <day> urdher-2014-0120-7`).
+Act id: `urdher-2014-0120-7` (tags `urdher-2014-0120-7/<day>`; `python registry/tools/on.py <day> urdher-2014-0120-7`).
 
 ## Decisions made by hand
 

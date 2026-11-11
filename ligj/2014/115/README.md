@@ -13,7 +13,7 @@ Ndarjen administrativo-territoriale të njësive të qeverisjes vendore në repu
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2026-11-20 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-11-20 |
 
-Act id: `ligj-2014-115` (tags `ligj-2014-115/<day>`; `python tools/on.py <day> ligj-2014-115`).
+Act id: `ligj-2014-115` (tags `ligj-2014-115/<day>`; `python registry/tools/on.py <day> ligj-2014-115`).
 
 ## Decisions made by hand
 

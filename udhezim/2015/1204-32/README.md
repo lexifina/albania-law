@@ -20,7 +20,7 @@ Përcaktimin e rregullave dhe masës së shpërblimit të informatorëve të jas
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1204-32` (tags `udhezim-2015-1204-32/<day>`; `python tools/on.py <day> udhezim-2015-1204-32`).
+Act id: `udhezim-2015-1204-32` (tags `udhezim-2015-1204-32/<day>`; `python registry/tools/on.py <day> udhezim-2015-1204-32`).
 
 ## Decisions made by hand
 

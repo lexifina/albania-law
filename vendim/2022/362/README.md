@@ -9,7 +9,7 @@ Miratimin e programit të bashkëpunimit arsimor, shkencor, kulturor dhe rinor n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-362` (tags `vendim-2022-362/<day>`; `python tools/on.py <day> vendim-2022-362`).
+Act id: `vendim-2022-362` (tags `vendim-2022-362/<day>`; `python registry/tools/on.py <day> vendim-2022-362`).
 
 ## Decisions made by hand
 

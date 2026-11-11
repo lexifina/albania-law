@@ -5,7 +5,7 @@ Listën e mallrave, të zgjedhura për llogaritjen e indeksit dhe përcaktimin e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-63` (tags `vendim-2006-63/<day>`; `python tools/on.py <day> vendim-2006-63`).
+Act id: `vendim-2006-63` (tags `vendim-2006-63/<day>`; `python registry/tools/on.py <day> vendim-2006-63`).
 
 ## Decisions made by hand
 

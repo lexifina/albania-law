@@ -5,7 +5,7 @@ Financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-1` (tags `vendim-2014-1/<day>`; `python tools/on.py <day> vendim-2014-1`).
+Act id: `vendim-2014-1` (tags `vendim-2014-1/<day>`; `python registry/tools/on.py <day> vendim-2014-1`).
 
 ## Decisions made by hand
 

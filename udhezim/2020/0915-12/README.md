@@ -21,7 +21,7 @@ Rregullat për njohjen e zonave të pastra · 2 versions, from 2020-10-28 (lates
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0915-12` (tags `udhezim-2020-0915-12/<day>`; `python tools/on.py <day> udhezim-2020-0915-12`).
+Act id: `udhezim-2020-0915-12` (tags `udhezim-2020-0915-12/<day>`; `python registry/tools/on.py <day> udhezim-2020-0915-12`).
 
 ## Decisions made by hand
 

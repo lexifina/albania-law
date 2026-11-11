@@ -8,7 +8,18 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 1, datë 10.1.2021, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-2` (tags `ligj-2021-2/<day>`; `python tools/on.py <day> ligj-2021-2`).
+Act id: `ligj-2021-2` (tags `ligj-2021-2/<day>`; `python registry/tools/on.py <day> ligj-2021-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Akti normativ nr. 7, datë 12.3.2021: Për një ndryshim në aktin normativ nr.1, datë 10.1.2021, të Këshillit të Ministrave, “Për miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Export B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin, autorizimin e procedurës për lejimin e hyrjes dhe administrimit të vaksinave anticovid-19 në Republikën e Shqipërisë, si dhe përdorimin e tyre në popullatë”, miratuar me ligjin nr.2/2021](https://qbz.gov.al/eli/akt-normativ/2021/03/12/7)
+- [Akti normativ nr. 15, datë 7.4.2021: Për një ndryshim në aktin normativ nr. 1, datë 10.1.2021, të Këshillit të Ministrave, “Për miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Export B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit publik dhe ministrit të Shtetit për Rindërtimin, autorizimin e procedurës për lejimin e hyrjes dhe administrimit të vaksinave Anticovid-19 në Republikën e Shqipërisë, si dhe përdorimin e tyre në popullatë”, miratuar me ligjin nr. 2/2021”, të ndryshuar](https://qbz.gov.al/eli/akt-normativ/2021/04/07/15)
+- [Ligji nr. 37/2021: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 7, datë 12.3.2021 “Për një ndryshim në aktin normativ nr. 1, datë 10.1.2021, të Këshillit të Ministrave “Për miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet PFIZER EXPORT B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin, autorizimin e procedurës për lejimin e hyrjes dhe administrimit të vaksinave anticovid-19 në Republikën e Shqipërisë, si dhe përdorimin e tyre në popullatë”, miratuar me ligjin nr. 2/2021”](https://qbz.gov.al/eli/ligj/2021/03/23/37)
+- [Ligji nr. 58/2021: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 15, datë 7.4.2021, “Për një ndryshim në aktin normativ nr. 1 datë 10.1.2021, “Për miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Export B.V., dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Institutit të Shëndetit Publik dhe ministrit të Shtetit për Rindërtimin, autorizimin e procedurës për lejimin e hyrjes dhe administrimit të vaksinave anti-Covid-19 në Republikën e Shqipërisë, si dhe përdorimin e tyre në popullatë”, miratuar me ligjin nr. 2/2021, të ndryshuar](https://qbz.gov.al/eli/ligj/2021/05/07/58)
 
 ## Decisions made by hand
 

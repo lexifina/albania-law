@@ -11,7 +11,23 @@ Pjesëmarrje të forcave të armatosura të republikës së shqipërisë në ope
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-532` (tags `vendim-2010-532/<day>`; `python tools/on.py <day> vendim-2010-532`).
+Act id: `vendim-2010-532` (tags `vendim-2010-532/<day>`; `python registry/tools/on.py <day> vendim-2010-532`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 171, datë 6.3.2012: Për një shtesë dhe ndryshim në vendimin nr. 532, datë 7.7.2010 të këshillit të ministrave “për pjesëmarrje të forcave të armatosura të republikës së shqipërisë në operacione ushtarake, në shtabe të ndryshme në afganistan”](https://qbz.gov.al/eli/vendim/2012/03/06/171)
+- [Vendimi i Këshillit të Ministrave nr. 446, datë 11.7.2012: Për disa ndryshime në vendimin nr. 532, datë 7.7.2010 të këshillit të ministrave “për pjesëmarrjen e forcave të armatosura të republikës së shqipërisë në operacione ushtarake në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2012/07/11/446)
+- [Vendimi i Këshillit të Ministrave nr. 719, datë 16.10.2012: Për një ndryshim dhe shtesë në vendimin nr. 532, datë 7.7.2010 të këshillit të ministrave “për pjesëmarrjen e forcave të armatosura të republikës së shqipërisë në operacione ushtarake në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2012/10/16/719)
+- [Vendimi i Këshillit të Ministrave nr. 594, datë 10.7.2013: Për disa ndryshime në vendimin nr. 532, datë 7.7.2010 të Këshillit të Ministrave “Për pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në operacione ushtarake, në shtabe të ndryshme në Afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/07/10/594)
+- [Vendimi i Këshillit të Ministrave nr. 979, datë 30.10.2013: Për disa ndryshime dhe shtesa në vendimin nr. 532, datë 7.7.2010 të Këshillit të Ministrave “Për pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në operacione ushtarake në shtabe të ndryshme në Afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/10/30/979)
+- [Vendimi i Këshillit të Ministrave nr. 40, datë 29.1.2014: Për disa ndryshime në vendimin nr. 532, datë 7.7.2010 të këshillit të ministrave “për pjesëmarrjen e forcave të armatosura të republikës së shqipërisë në operacione ushtarake në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/01/29/40)
+- [Vendimi i Këshillit të Ministrave nr. 651, datë 8.10.2014: Për një shtesë në vendimin nr. 532, datë 7.7.2010, të këshillit të ministrave, “për pjesëmarrjen e forcave të armatosura të republikës së shqipërisë në operacione ushtarake, në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/10/08/651)
+- [Vendimi i Këshillit të Ministrave nr. 400, datë 18.6.2014: Për një ndryshim në vendimin nr. 532, datë 7.7.2010, të këshillit të ministrave, “për pjesëmarrje të forcave të armatosura të republikës së shqipërisë në operacione ushtarake, në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/06/18/400)
+- [Vendimi i Këshillit të Ministrave nr. 905, datë 12.12.2012: Për një ndryshim në vendimin nr. 532, datë 7.7.2010 të këshillit të ministrave “për pjesëmarrjen e forcave të armatosura të republikës së shqipërisë në operacione ushtarake në shtabe të ndryshme në afganistan”, të ndryshuar](https://qbz.gov.al/eli/vendim/2012/12/12/905)
 
 ## Decisions made by hand
 

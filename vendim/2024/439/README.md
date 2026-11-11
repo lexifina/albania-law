@@ -15,7 +15,7 @@ Shpalljen ditë zie kombëtare në nderim të të ndjerit, Ismail Kadare, person
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-439` (tags `vendim-2024-439/<day>`; `python tools/on.py <day> vendim-2024-439`).
+Act id: `vendim-2024-439` (tags `vendim-2024-439/<day>`; `python registry/tools/on.py <day> vendim-2024-439`).
 
 ## Decisions made by hand
 

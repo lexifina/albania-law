@@ -9,7 +9,7 @@ Kalimin në përgjegjësi administrimi të ministrisë së kulturës të pasuriv
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-931` (tags `vendim-2014-931/<day>`; `python tools/on.py <day> vendim-2014-931`).
+Act id: `vendim-2014-931` (tags `vendim-2014-931/<day>`; `python registry/tools/on.py <day> vendim-2014-931`).
 
 ## Decisions made by hand
 

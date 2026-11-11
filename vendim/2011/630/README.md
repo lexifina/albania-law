@@ -5,7 +5,7 @@ PëR ORGANIZIMIN DHE FUNKSIONIMIN E INSPEKTORATIT qENDROR · 2 versions, from 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-630` (tags `vendim-2011-630/<day>`; `python tools/on.py <day> vendim-2011-630`).
+Act id: `vendim-2011-630` (tags `vendim-2011-630/<day>`; `python registry/tools/on.py <day> vendim-2011-630`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e autoritetit kombëtar për certifikimin elektroni
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-141` (tags `vendim-2017-141/<day>`; `python tools/on.py <day> vendim-2017-141`).
+Act id: `vendim-2017-141` (tags `vendim-2017-141/<day>`; `python registry/tools/on.py <day> vendim-2017-141`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Tërheqjen e njohjes së organizatës së menaxhimit të peshkimit (omp, liqeni 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-1017-435` (tags `urdher-2018-1017-435/<day>`; `python tools/on.py <day> urdher-2018-1017-435`).
+Act id: `urdher-2018-1017-435` (tags `urdher-2018-1017-435/<day>`; `python registry/tools/on.py <day> urdher-2018-1017-435`).
 
 ## Decisions made by hand
 

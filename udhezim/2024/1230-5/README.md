@@ -17,7 +17,7 @@ Përcaktimin e strukturës përgjegjëse, organizimin e punës për shqyrtimin e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1230-5` (tags `udhezim-2024-1230-5/<day>`; `python tools/on.py <day> udhezim-2024-1230-5`).
+Act id: `udhezim-2024-1230-5` (tags `udhezim-2024-1230-5/<day>`; `python registry/tools/on.py <day> udhezim-2024-1230-5`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Sigurinë në anije dhe në porte · 2 versions, from 2004-11-11 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9281` (tags `ligj-2004-9281/<day>`; `python tools/on.py <day> ligj-2004-9281`).
+Act id: `ligj-2004-9281` (tags `ligj-2004-9281/<day>`; `python registry/tools/on.py <day> ligj-2004-9281`).
 
 ## Decisions made by hand
 

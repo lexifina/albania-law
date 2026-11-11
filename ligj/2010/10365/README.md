@@ -10,7 +10,7 @@ Një ndryshim në ligjin nr.8976, datë 12.12.2002 ”për akcizat në republik�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10365-2010` (tags `ligji-10365-2010/<day>`; `python tools/on.py <day> ligji-10365-2010`).
+Act id: `ligji-10365-2010` (tags `ligji-10365-2010/<day>`; `python registry/tools/on.py <day> ligji-10365-2010`).
 
 ## Decisions made by hand
 

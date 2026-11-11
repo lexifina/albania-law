@@ -16,7 +16,7 @@ Zbatimin e planit shumëvjeçar të rimëkëmbjes së tonit të kuq në mesdhe d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2009-0730-330` (tags `urdher-2009-0730-330/<day>`; `python tools/on.py <day> urdher-2009-0730-330`).
+Act id: `urdher-2009-0730-330` (tags `urdher-2009-0730-330/<day>`; `python registry/tools/on.py <day> urdher-2009-0730-330`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mbi zbatimin e vendimit nr.277, datë 18.6.1997 të Këshillit të Ministrave �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0804-115` (tags `udhezim-2011-0804-115/<day>`; `python tools/on.py <day> udhezim-2011-0804-115`).
+Act id: `udhezim-2011-0804-115` (tags `udhezim-2011-0804-115/<day>`; `python registry/tools/on.py <day> udhezim-2011-0804-115`).
 
 ## Decisions made by hand
 

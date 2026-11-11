@@ -5,7 +5,7 @@ Kontrollin zyrtar të trikinelës · 2 versions, from 2016-11-16 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-1010-9` (tags `udhezim-2016-1010-9/<day>`; `python tools/on.py <day> udhezim-2016-1010-9`).
+Act id: `udhezim-2016-1010-9` (tags `udhezim-2016-1010-9/<day>`; `python registry/tools/on.py <day> udhezim-2016-1010-9`).
 
 ## Decisions made by hand
 

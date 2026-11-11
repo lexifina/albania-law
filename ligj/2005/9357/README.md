@@ -69,7 +69,7 @@ Statusin e punonjësit të shërbimit informativ të shtetit · 1 versions, from
 | Neni 56 | [neni-056.md](neni-056.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2005-9357` (tags `ligj-2005-9357/<day>`; `python tools/on.py <day> ligj-2005-9357`).
+Act id: `ligj-2005-9357` (tags `ligj-2005-9357/<day>`; `python registry/tools/on.py <day> ligj-2005-9357`).
 
 ## Decisions made by hand
 

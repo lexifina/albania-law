@@ -20,7 +20,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-345` (tags `vendim-2021-345/<day>`; `python tools/on.py <day> vendim-2021-345`).
+Act id: `vendim-2021-345` (tags `vendim-2021-345/<day>`; `python registry/tools/on.py <day> vendim-2021-345`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 222, datë 28.2.2023 (Ministria e Infrastrukturës dhe Energjisë): Për shpronësimin, dhe/ose për shkëmbimin e pronës për disa shtesa dhe ndryshime në VKM-në nr. 345, datë 10.6.2021, ”Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private dhe shkëmbimin e pronës, në funksion të procesit të rindërtimit, në zonën e re për zhvillim, në Njësinë Administrative Vorë, Bashkia Vorë, faza I”](https://qbz.gov.al/eli/kerkese/2023/02/28/222-5)
 
 ## Decisions made by hand
 

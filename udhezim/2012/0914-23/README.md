@@ -23,7 +23,7 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me k
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0914-23` (tags `udhezim-2012-0914-23/<day>`; `python tools/on.py <day> udhezim-2012-0914-23`).
+Act id: `udhezim-2012-0914-23` (tags `udhezim-2012-0914-23/<day>`; `python registry/tools/on.py <day> udhezim-2012-0914-23`).
 
 ## Decisions made by hand
 

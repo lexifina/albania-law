@@ -38,7 +38,7 @@ Pёr pёrmirёsimin e zonave tё biznesit (BID) · 1 versions, from 2020-07-25 (
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-63-2020` (tags `ligji-63-2020/<day>`; `python tools/on.py <day> ligji-63-2020`).
+Act id: `ligji-63-2020` (tags `ligji-63-2020/<day>`; `python registry/tools/on.py <day> ligji-63-2020`).
 
 ## Decisions made by hand
 

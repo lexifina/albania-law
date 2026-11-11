@@ -9,7 +9,7 @@ Ratifikimin e Konventës nr.150 “Administrimi i punës, 1978” të Organizat�
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8910` (tags `ligj-2002-8910/<day>`; `python tools/on.py <day> ligj-2002-8910`).
+Act id: `ligj-2002-8910` (tags `ligj-2002-8910/<day>`; `python registry/tools/on.py <day> ligj-2002-8910`).
 
 ## Decisions made by hand
 

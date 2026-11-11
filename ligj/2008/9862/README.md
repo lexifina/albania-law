@@ -13,7 +13,7 @@ Kalimin e së drejtës së pronësisë mbi sasinë e arit dhe të metaleve të t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9862` (tags `ligj-2008-9862/<day>`; `python tools/on.py <day> ligj-2008-9862`).
+Act id: `ligj-2008-9862` (tags `ligj-2008-9862/<day>`; `python registry/tools/on.py <day> ligj-2008-9862`).
 
 ## Decisions made by hand
 

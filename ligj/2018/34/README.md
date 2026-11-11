@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në marrëveshjen e vjenës “për klas
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-34-2018` (tags `ligji-34-2018/<day>`; `python tools/on.py <day> ligji-34-2018`).
+Act id: `ligji-34-2018` (tags `ligji-34-2018/<day>`; `python registry/tools/on.py <day> ligji-34-2018`).
 
 ## Decisions made by hand
 

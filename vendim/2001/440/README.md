@@ -10,7 +10,7 @@ Rregullat për formën dhe përmbajtjen e njoftimeve në veprimtarinë e investi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-440` (tags `vendim-2001-440/<day>`; `python tools/on.py <day> vendim-2001-440`).
+Act id: `vendim-2001-440` (tags `vendim-2001-440/<day>`; `python registry/tools/on.py <day> vendim-2001-440`).
 
 ## Decisions made by hand
 

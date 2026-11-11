@@ -11,7 +11,7 @@ Shpalljen e Standardeve Kombëtare të Kontabilitetit të përditësuara në vit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0209-16` (tags `urdher-2024-0209-16/<day>`; `python tools/on.py <day> urdher-2024-0209-16`).
+Act id: `urdher-2024-0209-16` (tags `urdher-2024-0209-16/<day>`; `python registry/tools/on.py <day> urdher-2024-0209-16`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së kuqe të florës dhe faunës · 2 versions, from 2007-05
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2007-0508-146` (tags `urdher-2007-0508-146/<day>`; `python tools/on.py <day> urdher-2007-0508-146`).
+Act id: `urdher-2007-0508-146` (tags `urdher-2007-0508-146/<day>`; `python registry/tools/on.py <day> urdher-2007-0508-146`).
 
 ## Decisions made by hand
 

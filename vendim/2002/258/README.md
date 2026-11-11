@@ -5,7 +5,7 @@ Përcaktimin e bazës së vlerësimit vjetor, individual, për llogaritjen fille
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-258` (tags `vendim-2002-258/<day>`; `python tools/on.py <day> vendim-2002-258`).
+Act id: `vendim-2002-258` (tags `vendim-2002-258/<day>`; `python registry/tools/on.py <day> vendim-2002-258`).
 
 ## Decisions made by hand
 

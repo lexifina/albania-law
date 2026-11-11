@@ -9,7 +9,7 @@ Miratimin e memorandumit të mirëkuptimit për krijimin e forumit rajonal të n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-873` (tags `vendim-2004-873/<day>`; `python tools/on.py <day> vendim-2004-873`).
+Act id: `vendim-2004-873` (tags `vendim-2004-873/<day>`; `python registry/tools/on.py <day> vendim-2004-873`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,16 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-902` (tags `vendim-2011-902/<day>`; `python tools/on.py <day> vendim-2011-902`).
+Act id: `vendim-2011-902` (tags `vendim-2011-902/<day>`; `python registry/tools/on.py <day> vendim-2011-902`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 594, datë 29.8.2012: Për një shtesë në vendimin nr. 902, datë 21.12.2011 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë çorovodë të qarkut të beratit”](https://qbz.gov.al/eli/vendim/2012/08/29/594)
+- [Vendimi i Këshillit të Ministrave nr. 50, datë 16.1.2013: Për kalimin në përgjegjësi administrimi, nga bashkia Çorovodë te Ministria e Ekonomisë, Tregtisë dhe Energjetikës, të sipërfaqes prej 3538 m2, pjesë e pronës truall me nr. 8/45, të zonës kadastrale 1420, Çorovodë, dhe për një ndryshim në vendimin nr. 902, datë 21.12.2011 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Çorovodë të qarkut të Beratit”](https://qbz.gov.al/eli/vendim/2013/01/16/50)
 
 ## Decisions made by hand
 

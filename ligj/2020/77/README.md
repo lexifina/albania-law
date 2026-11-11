@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, Nr. 23, datë 3.6.2020 ”Për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-77` (tags `ligj-2020-77/<day>`; `python tools/on.py <day> ligj-2020-77`).
+Act id: `ligj-2020-77` (tags `ligj-2020-77/<day>`; `python registry/tools/on.py <day> ligj-2020-77`).
 
 ## Decisions made by hand
 

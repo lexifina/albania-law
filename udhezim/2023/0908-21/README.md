@@ -17,7 +17,7 @@ Përcaktimin e rregullave dhe procedurave për krijimin e klasave të arsimit t�
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0908-21` (tags `udhezim-2023-0908-21/<day>`; `python tools/on.py <day> udhezim-2023-0908-21`).
+Act id: `udhezim-2023-0908-21` (tags `udhezim-2023-0908-21/<day>`; `python registry/tools/on.py <day> udhezim-2023-0908-21`).
 
 ## Decisions made by hand
 

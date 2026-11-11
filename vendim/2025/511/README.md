@@ -15,7 +15,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Fina
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-511` (tags `vendim-2025-511/<day>`; `python tools/on.py <day> vendim-2025-511`).
+Act id: `vendim-2025-511` (tags `vendim-2025-511/<day>`; `python registry/tools/on.py <day> vendim-2025-511`).
 
 ## Decisions made by hand
 

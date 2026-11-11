@@ -9,7 +9,7 @@ Heqjen e licencës së kolegjit profesional privat “dentarium-al” · 1 versi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-534` (tags `vendim-2012-534/<day>`; `python tools/on.py <day> vendim-2012-534`).
+Act id: `vendim-2012-534` (tags `vendim-2012-534/<day>`; `python registry/tools/on.py <day> vendim-2012-534`).
 
 ## Decisions made by hand
 

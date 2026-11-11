@@ -58,7 +58,7 @@ Shëndetin mendor · 2 versions, from 2021-03-26 (latest in force: 2025-05-13) �
 | Neni 37 | [neni-037.md](neni-037.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-44` (tags `ligj-2012-44/<day>`; `python tools/on.py <day> ligj-2012-44`).
+Act id: `ligj-2012-44` (tags `ligj-2012-44/<day>`; `python registry/tools/on.py <day> ligj-2012-44`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e logos kombëtare për produktet me emërtim “Specialitet tradicion
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-677` (tags `vendim-2019-677/<day>`; `python tools/on.py <day> vendim-2019-677`).
+Act id: `vendim-2019-677` (tags `vendim-2019-677/<day>`; `python registry/tools/on.py <day> vendim-2019-677`).
 
 ## Decisions made by hand
 

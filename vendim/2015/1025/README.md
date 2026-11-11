@@ -17,7 +17,7 @@ Shërbimet e promovimit dhe përfaqësimit të investimeve strategjike · 1 vers
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1025` (tags `vendim-2015-1025/<day>`; `python tools/on.py <day> vendim-2015-1025`).
+Act id: `vendim-2015-1025` (tags `vendim-2015-1025/<day>`; `python registry/tools/on.py <day> vendim-2015-1025`).
 
 ## Decisions made by hand
 

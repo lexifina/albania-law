@@ -17,7 +17,7 @@ Procedurat dhe afatet e hartimit të listave të zgjedhësve “Për zgjedhjet e
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-1211-3071` (tags `udhezim-2006-1211-3071/<day>`; `python tools/on.py <day> udhezim-2006-1211-3071`).
+Act id: `udhezim-2006-1211-3071` (tags `udhezim-2006-1211-3071/<day>`; `python registry/tools/on.py <day> udhezim-2006-1211-3071`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kriteret e përcaktimit të nivelit të lartë sportiv dhe mënyrën e shpërbli
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-305` (tags `vendim-2006-305/<day>`; `python tools/on.py <day> vendim-2006-305`).
+Act id: `vendim-2006-305` (tags `vendim-2006-305/<day>`; `python registry/tools/on.py <day> vendim-2006-305`).
 
 ## Decisions made by hand
 

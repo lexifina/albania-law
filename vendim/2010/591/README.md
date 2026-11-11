@@ -9,7 +9,28 @@ Disiplinimin e përdorimit të fondeve buxhetore · 1 versions, from 2010-08-17 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-591` (tags `vendim-2010-591/<day>`; `python tools/on.py <day> vendim-2010-591`).
+Act id: `vendim-2010-591` (tags `vendim-2010-591/<day>`; `python registry/tools/on.py <day> vendim-2010-591`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 688, datë 18.8.2010: Për disa shtesa në vendimin nr.591, datë 23.7.2010 të Këshillit të Ministrave “Për disiplinimin e përdorimit të fondeve buxhetore”](https://qbz.gov.al/eli/vendim/2010/08/18/688)
+- [Vendimi i Këshillit të Ministrave nr. 701, datë 25.8.2010: PëR NJë SHTESë në VENDIMIN NR.591, DATë 23.7.2010 Të KëSHILLIT të MINISTRAVE “PëR DISIPLINIMIN E PëRDORIMIT të FONDEVE BUXHETORE”, Të NDRYSHUAR](https://qbz.gov.al/eli/vendim/2010/08/25/701)
+- [Vendimi i Këshillit të Ministrave nr. 733, datë 1.9.2010: Për një shtesë në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshua](https://qbz.gov.al/eli/vendim/2010/09/01/733)
+- [Vendimi i Këshillit të Ministrave nr. 743, datë 8.9.2010: Për një shtesë në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/09/08/743)
+- [Vendimi i Këshillit të Ministrave nr. 745, datë 15.9.2010: Për disa shtesa në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/09/15/745)
+- [Vendimi i Këshillit të Ministrave nr. 771, datë 24.9.2010: Për një shtesë në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/09/24/771)
+- [Vendimi i Këshillit të Ministrave nr. 782, datë 29.9.2010: Për disa shtesa në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/09/29/782)
+- [Vendimi i Këshillit të Ministrave nr. 836, datë 21.10.2010: Për një shtesë në vendimin nr.591, datë 23.7.2010 të Këshillit të Ministrave “Për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/10/21/836)
+- [Vendimi i Këshillit të Ministrave nr. 805, datë 6.10.2010: Për disa shtesa në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/10/06/805)
+- [Vendimi i Këshillit të Ministrave nr. 883, datë 3.11.2010: Për një shtesë në vendimin nr.591, datë 23.7.2010 të këshillit të ministrave “për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/11/03/883)
+- [Vendimi i Këshillit të Ministrave nr. 844, datë 21.10.2010: PëR RISHPëRNDARJE FONDESH, BRENDA BUXHETIT Të VITIT 2010, MIRATUAR PëR MINISTRINë E SHëNDETëSISë DHE LEJIMIN E KRYERJES së PROCEDURAVE Të PROKURIMIT PëR FONDET që PROKUROHEN](https://qbz.gov.al/eli/vendim/2010/10/21/844)
+- [Vendimi i Këshillit të Ministrave nr. 889, datë 11.11.2010: Për një shtesë në vendimin nR.591, datë 23.7.2010 të Këshillit të Ministrave “Për disipliNimin e përdorimit të fondeve buxhetore”, te ndryshuar](https://qbz.gov.al/eli/vendim/2010/11/11/889)
+- [Vendimi i Këshillit të Ministrave nr. 893, datë 10.11.2010: Për disa shtesa në vendimin nr.591, datë 23.7.2010 të Këshillit të Ministrave “Për disiplinimin e përdorimit të fondeve buxhetore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/11/10/893)
+- [Urdhri nr. 33, datë 28.2.2011 (Ministria e Brendshme) [QBZ 18106]: Për delegimin e autoritetit, për miratimin e pagesave të shtesës për orë pune mbi kohën normale të punës, për punonjësit e policisë së shtetit](https://qbz.gov.al/eli/urdher/2011/02/28/33)
 
 ## Decisions made by hand
 

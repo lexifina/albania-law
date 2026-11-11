@@ -10,7 +10,7 @@ Miratimin e buxhetit të Zyrës së Regjistrimit të Pasurive të Paluajtshme ·
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-216` (tags `vendim-2013-216/<day>`; `python tools/on.py <day> vendim-2013-216`).
+Act id: `vendim-2013-216` (tags `vendim-2013-216/<day>`; `python registry/tools/on.py <day> vendim-2013-216`).
 
 ## Decisions made by hand
 

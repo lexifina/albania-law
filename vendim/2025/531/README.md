@@ -10,7 +10,7 @@ Përmbajtjen dhe mënyrën e dokumentimit të masave organizative, teknike dhe o
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-531` (tags `vendim-2025-531/<day>`; `python tools/on.py <day> vendim-2025-531`).
+Act id: `vendim-2025-531` (tags `vendim-2025-531/<day>`; `python registry/tools/on.py <day> vendim-2025-531`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Zhvillimin dhe pjesëmarrjen e forcave të vendeve anëtare të Organizatës së
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-29` (tags `ligj-2021-29/<day>`; `python tools/on.py <day> ligj-2021-29`).
+Act id: `ligj-2021-29` (tags `ligj-2021-29/<day>`; `python registry/tools/on.py <day> ligj-2021-29`).
 
 ## Decisions made by hand
 

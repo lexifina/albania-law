@@ -9,7 +9,7 @@ Përdorimin e fondit të rindërtimit për financimin e rindërtimit të objekte
 | Pika 2 | [pika-002.md](pika-002.md) | 10 | 2024-06-10 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-212` (tags `vendim-2020-212/<day>`; `python tools/on.py <day> vendim-2020-212`).
+Act id: `vendim-2020-212` (tags `vendim-2020-212/<day>`; `python registry/tools/on.py <day> vendim-2020-212`).
 
 ## Decisions made by hand
 

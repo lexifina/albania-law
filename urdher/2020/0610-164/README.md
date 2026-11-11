@@ -37,7 +37,7 @@ Miratimin e rregullave për procedurat e plotësimit të vendeve vakante si note
 | Pika 30 | [pika-030.md](pika-030.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0610-164` (tags `urdher-2020-0610-164/<day>`; `python tools/on.py <day> urdher-2020-0610-164`).
+Act id: `urdher-2020-0610-164` (tags `urdher-2020-0610-164/<day>`; `python registry/tools/on.py <day> urdher-2020-0610-164`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Lejimin e Ministrisë së Shëndetësisë, si autoritet kontraktues, për kryerj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-1022` (tags `vendim-2013-1022/<day>`; `python tools/on.py <day> vendim-2013-1022`).
+Act id: `vendim-2013-1022` (tags `vendim-2013-1022/<day>`; `python registry/tools/on.py <day> vendim-2013-1022`).
 
 ## Decisions made by hand
 

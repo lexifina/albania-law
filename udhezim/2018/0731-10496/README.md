@@ -12,7 +12,7 @@ Zbatimin e vendimit të këshillit të ministrave nr. 332, datë 6.6.2018 “pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0731-10496` (tags `udhezim-2018-0731-10496/<day>`; `python tools/on.py <day> udhezim-2018-0731-10496`).
+Act id: `udhezim-2018-0731-10496` (tags `udhezim-2018-0731-10496/<day>`; `python registry/tools/on.py <day> udhezim-2018-0731-10496`).
 
 ## Decisions made by hand
 

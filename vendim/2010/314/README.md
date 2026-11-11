@@ -16,7 +16,16 @@ Organizimin, kompetencat dhe funksionimin e agjencisë së Administrimit të Pas
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-314` (tags `vendim-2010-314/<day>`; `python tools/on.py <day> vendim-2010-314`).
+Act id: `vendim-2010-314` (tags `vendim-2010-314/<day>`; `python registry/tools/on.py <day> vendim-2010-314`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 666, datë 4.8.2010: Për disa ndryshime dhe shtesa në vendimin nr.314, datë 5.5.2010 të këshillit të ministrave “Për organizimin, Kompetencat dhe funksionimin e agjencisë së administrimit të pasurive të sekuestruara dhe të konfiskuara, si dhe për përcaktimin e shpërblimit të personave të tretë në administrimin e pasurisë”](https://qbz.gov.al/eli/vendim/2010/08/04/666)
+- [Vendimi i Këshillit të Ministrave nr. 687, datë 5.10.2011: Për organizimin, kompetencat dhe funksionimin e agjencisë së administrimit të pasurive të sekuestruara e të konfiskuara, si dhe mënyrën e administrimit të pasurive të sekuestruara e të konfiskuara](https://qbz.gov.al/eli/vendim/2011/10/05/687)
 
 ## Decisions made by hand
 

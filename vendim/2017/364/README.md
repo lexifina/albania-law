@@ -9,7 +9,7 @@ Transferimin e pronësisë së 30 për qind të kuotave të shoqërisë “super
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-364` (tags `vendim-2017-364/<day>`; `python tools/on.py <day> vendim-2017-364`).
+Act id: `vendim-2017-364` (tags `vendim-2017-364/<day>`; `python registry/tools/on.py <day> vendim-2017-364`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.2, datë 19.9.2003 të kësh
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9138-2003` (tags `ligji-9138-2003/<day>`; `python tools/on.py <day> ligji-9138-2003`).
+Act id: `ligji-9138-2003` (tags `ligji-9138-2003/<day>`; `python registry/tools/on.py <day> ligji-9138-2003`).
 
 ## Decisions made by hand
 

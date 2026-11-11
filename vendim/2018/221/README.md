@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e agjencisë së menaxhimit të burimeve ujore · 3
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-221` (tags `vendim-2018-221/<day>`; `python tools/on.py <day> vendim-2018-221`).
+Act id: `vendim-2018-221` (tags `vendim-2018-221/<day>`; `python registry/tools/on.py <day> vendim-2018-221`).
 
 ## Decisions made by hand
 

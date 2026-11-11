@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të ministrisë së infr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-504` (tags `vendim-2017-504/<day>`; `python tools/on.py <day> vendim-2017-504`).
+Act id: `vendim-2017-504` (tags `vendim-2017-504/<day>`; `python registry/tools/on.py <day> vendim-2017-504`).
 
 ## Decisions made by hand
 

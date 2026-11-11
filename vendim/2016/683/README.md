@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-683` (tags `vendim-2016-683/<day>`; `python tools/on.py <day> vendim-2016-683`).
+Act id: `vendim-2016-683` (tags `vendim-2016-683/<day>`; `python registry/tools/on.py <day> vendim-2016-683`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 4, datë 19.1.2017 (Këshilli i Ministrave): Ndreqje gabimi material në vendimin nr. 683, datë 28.9.2016, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ansambli i Rilindjes Urbane, Belsh”, botuar në Fletoren Zyrtare nr. 199, viti 2016](https://qbz.gov.al/eli/vendim/2017/01/19/4-2)
 
 ## Decisions made by hand
 

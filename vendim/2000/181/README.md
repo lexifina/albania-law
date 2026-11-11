@@ -12,7 +12,7 @@ Një shtesë në buxhetin e vitit 2000, të ministrisë së transportit, për ri
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-181` (tags `vendim-2000-181/<day>`; `python tools/on.py <day> vendim-2000-181`).
+Act id: `vendim-2000-181` (tags `vendim-2000-181/<day>`; `python registry/tools/on.py <day> vendim-2000-181`).
 
 ## Decisions made by hand
 

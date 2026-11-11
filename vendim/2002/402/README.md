@@ -12,7 +12,7 @@ Përcaktimin e kuotës financiare që përfitojnë nga shteti personat pa të ar
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-402` (tags `vendim-2002-402/<day>`; `python tools/on.py <day> vendim-2002-402`).
+Act id: `vendim-2002-402` (tags `vendim-2002-402/<day>`; `python registry/tools/on.py <day> vendim-2002-402`).
 
 ## Decisions made by hand
 

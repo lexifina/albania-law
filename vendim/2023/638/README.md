@@ -12,7 +12,7 @@ Një shtesë fondi në buxhetin e vitit 2023, miratuar për Ministrinë e Arsimi
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-638` (tags `vendim-2023-638/<day>`; `python tools/on.py <day> vendim-2023-638`).
+Act id: `vendim-2023-638` (tags `vendim-2023-638/<day>`; `python registry/tools/on.py <day> vendim-2023-638`).
 
 ## Decisions made by hand
 

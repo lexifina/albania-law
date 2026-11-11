@@ -53,7 +53,7 @@ Kujdesin alternativ në familje në Republikën e Shqipërisë · 1 versions, fr
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-92-2025` (tags `ligji-92-2025/<day>`; `python tools/on.py <day> ligji-92-2025`).
+Act id: `ligji-92-2025` (tags `ligji-92-2025/<day>`; `python registry/tools/on.py <day> ligji-92-2025`).
 
 ## Decisions made by hand
 

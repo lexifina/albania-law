@@ -25,7 +25,16 @@ Kontrollin e mjeteve të transportit në regjim të temperaturave të kontrollua
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0615-7` (tags `udhezim-2012-0615-7/<day>`; `python tools/on.py <day> udhezim-2012-0615-7`).
+Act id: `udhezim-2012-0615-7` (tags `udhezim-2012-0615-7/<day>`; `python registry/tools/on.py <day> udhezim-2012-0615-7`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 3807, datë 27.7.2016 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 15642]: Për një ndryshim në udhëzimin nr. 7, datë 15.6.2012 për kontrollin e mjeteve të transportit në regjim të temperaturave të kontrolluara, sipas marrëveshjes atp](https://qbz.gov.al/eli/udhezim/2016/07/27/3807)
+- [Udhëzimi nr. 253, datë 17.1.2017 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 59026]: Për një ndryshim në udhëzimin nr. 7, datë 15.6.2012 “për kontrollin e mjeteve të transportit në regjim të temperaturave të kontrolluara, sipas marrëveshjes atp”](https://qbz.gov.al/eli/udhezim/2017/01/17/253)
 
 ## Decisions made by hand
 

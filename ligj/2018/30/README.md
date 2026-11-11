@@ -10,7 +10,7 @@ Pranimin e skedulit cxlvi të zgjerimit të listës së marrëveshjes së teknol
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-30` (tags `ligj-2018-30/<day>`; `python tools/on.py <day> ligj-2018-30`).
+Act id: `ligj-2018-30` (tags `ligj-2018-30/<day>`; `python registry/tools/on.py <day> ligj-2018-30`).
 
 ## Decisions made by hand
 

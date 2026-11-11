@@ -5,7 +5,7 @@ Përcaktimin e shkeljeve të tjera të ligjit nr. 9049, datë 10.4.2003 “për 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-0313-27` (tags `urdher-2014-0313-27/<day>`; `python tools/on.py <day> urdher-2014-0313-27`).
+Act id: `urdher-2014-0313-27` (tags `urdher-2014-0313-27/<day>`; `python registry/tools/on.py <day> urdher-2014-0313-27`).
 
 ## Decisions made by hand
 

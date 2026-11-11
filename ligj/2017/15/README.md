@@ -51,7 +51,7 @@ Arsimin dhe formimin profesional në republikën e shqipërisë · 2 versions, f
 | Neni 36 | [neni-036.md](neni-036.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2017-15` (tags `ligj-2017-15/<day>`; `python tools/on.py <day> ligj-2017-15`).
+Act id: `ligj-2017-15` (tags `ligj-2017-15/<day>`; `python registry/tools/on.py <day> ligj-2017-15`).
 
 ## Decisions made by hand
 

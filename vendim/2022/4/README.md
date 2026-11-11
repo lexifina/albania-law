@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Et’hem Mehmet Kaso · 1 ve
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-4` (tags `vendim-2022-4/<day>`; `python tools/on.py <day> vendim-2022-4`).
+Act id: `vendim-2022-4` (tags `vendim-2022-4/<day>`; `python registry/tools/on.py <day> vendim-2022-4`).
 
 ## Decisions made by hand
 

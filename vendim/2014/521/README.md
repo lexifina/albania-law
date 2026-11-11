@@ -10,7 +10,7 @@ Miratimin e rregullores “për kërkesat minimale të sigurisë dhe shëndetit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-521` (tags `vendim-2014-521/<day>`; `python tools/on.py <day> vendim-2014-521`).
+Act id: `vendim-2014-521` (tags `vendim-2014-521/<day>`; `python registry/tools/on.py <day> vendim-2014-521`).
 
 ## Decisions made by hand
 

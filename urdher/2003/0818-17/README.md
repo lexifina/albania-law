@@ -9,7 +9,7 @@ Miratimin e Statutit të Organizatës së menaxhimit të Peshkimit (OMP Durrës)
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2003-0818-17` (tags `urdher-2003-0818-17/<day>`; `python tools/on.py <day> urdher-2003-0818-17`).
+Act id: `urdher-2003-0818-17` (tags `urdher-2003-0818-17/<day>`; `python registry/tools/on.py <day> urdher-2003-0818-17`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Lejimin e lëvizjes jashtë territorit të republikës së shqipërisë të 36 n
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-642` (tags `vendim-2016-642/<day>`; `python tools/on.py <day> vendim-2016-642`).
+Act id: `vendim-2016-642` (tags `vendim-2016-642/<day>`; `python registry/tools/on.py <day> vendim-2016-642`).
 
 ## Decisions made by hand
 

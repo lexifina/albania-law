@@ -8,7 +8,7 @@ Miratimin e rishpërndarjes së fondeve të akorduara nëpërmjet marrëveshjes 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-627` (tags `vendim-2013-627/<day>`; `python tools/on.py <day> vendim-2013-627`).
+Act id: `vendim-2013-627` (tags `vendim-2013-627/<day>`; `python registry/tools/on.py <day> vendim-2013-627`).
 
 ## Decisions made by hand
 

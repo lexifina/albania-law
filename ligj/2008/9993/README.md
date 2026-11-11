@@ -11,7 +11,7 @@ Ratifikimin e kontratës së shitjes së 85 për qind të aksioneve të armo, sh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9993` (tags `ligj-2008-9993/<day>`; `python tools/on.py <day> ligj-2008-9993`).
+Act id: `ligj-2008-9993` (tags `ligj-2008-9993/<day>`; `python registry/tools/on.py <day> ligj-2008-9993`).
 
 ## Decisions made by hand
 

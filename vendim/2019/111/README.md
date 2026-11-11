@@ -79,7 +79,7 @@ Procedurat dhe rregullat për kthimin e riatdhesimin e fëmijës · 1 versions, 
 | Pika 71 | [pika-071.md](pika-071.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-111` (tags `vendim-2019-111/<day>`; `python tools/on.py <day> vendim-2019-111`).
+Act id: `vendim-2019-111` (tags `vendim-2019-111/<day>`; `python registry/tools/on.py <day> vendim-2019-111`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Krijimin dhe funksionimin e mekanizmit të bashkërendimit të punës ndërmjet 
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-265` (tags `vendim-2012-265/<day>`; `python tools/on.py <day> vendim-2012-265`).
+Act id: `vendim-2012-265` (tags `vendim-2012-265/<day>`; `python registry/tools/on.py <day> vendim-2012-265`).
 
 ## Decisions made by hand
 

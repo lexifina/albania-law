@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes së huas direkte ndërmjet Republikës së Shqipëri
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-91-2026` (tags `ligji-91-2026/<day>`; `python tools/on.py <day> ligji-91-2026`).
+Act id: `ligji-91-2026` (tags `ligji-91-2026/<day>`; `python registry/tools/on.py <day> ligji-91-2026`).
 
 ## Decisions made by hand
 

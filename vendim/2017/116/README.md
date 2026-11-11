@@ -15,7 +15,7 @@ Mënyrën e paraqitjes, formatin dhe përmbajtjen e etiketimit të produkteve z�
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-116` (tags `vendim-2017-116/<day>`; `python tools/on.py <day> vendim-2017-116`).
+Act id: `vendim-2017-116` (tags `vendim-2017-116/<day>`; `python registry/tools/on.py <day> vendim-2017-116`).
 
 ## Decisions made by hand
 

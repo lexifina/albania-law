@@ -5,7 +5,7 @@ Procedurat e kryerjes së kontrollit dhe të vendosjes së sanksionit nga agjenc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-264` (tags `vendim-2012-264/<day>`; `python tools/on.py <day> vendim-2012-264`).
+Act id: `vendim-2012-264` (tags `vendim-2012-264/<day>`; `python registry/tools/on.py <day> vendim-2012-264`).
 
 ## Decisions made by hand
 

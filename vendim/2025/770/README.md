@@ -10,7 +10,7 @@ Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike fotovolt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-770` (tags `vendim-2025-770/<day>`; `python tools/on.py <day> vendim-2025-770`).
+Act id: `vendim-2025-770` (tags `vendim-2025-770/<day>`; `python registry/tools/on.py <day> vendim-2025-770`).
 
 ## Decisions made by hand
 

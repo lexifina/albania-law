@@ -63,7 +63,7 @@ Zhvillimin profesional të punonjësve arsimorë · 2 versions, from 2014-11-20 
 | Neni 43 | [neni-043.md](neni-043.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0815-26` (tags `udhezim-2014-0815-26/<day>`; `python tools/on.py <day> udhezim-2014-0815-26`).
+Act id: `udhezim-2014-0815-26` (tags `udhezim-2014-0815-26/<day>`; `python registry/tools/on.py <day> udhezim-2014-0815-26`).
 
 ## Decisions made by hand
 

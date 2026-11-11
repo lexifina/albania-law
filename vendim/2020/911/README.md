@@ -14,7 +14,7 @@ Një shtesë fondi në buxhetin e vitit 2020 për bashkitë Patos dhe Roskovec, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-911` (tags `vendim-2020-911/<day>`; `python tools/on.py <day> vendim-2020-911`).
+Act id: `vendim-2020-911` (tags `vendim-2020-911/<day>`; `python registry/tools/on.py <day> vendim-2020-911`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,15 @@ Kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-710` (tags `vendim-2014-710/<day>`; `python tools/on.py <day> vendim-2014-710`).
+Act id: `vendim-2014-710` (tags `vendim-2014-710/<day>`; `python registry/tools/on.py <day> vendim-2014-710`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 382, datë 5.5.2015: Për një ndryshim në vendimin nr. 710, datë 29.10.2014, të Këshillit të Ministrave, “Për kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve e të studentëve në institucionet arsimore publike, për vitin shkollor 2014 - 2015”](https://qbz.gov.al/eli/vendim/2015/05/06/382)
 
 ## Decisions made by hand
 

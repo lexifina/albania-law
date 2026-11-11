@@ -9,7 +9,7 @@ Vendosjen e autoritetit kombëtar për certifikimin elektronik në varësi të m
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-664` (tags `vendim-2014-664/<day>`; `python tools/on.py <day> vendim-2014-664`).
+Act id: `vendim-2014-664` (tags `vendim-2014-664/<day>`; `python registry/tools/on.py <day> vendim-2014-664`).
 
 ## Decisions made by hand
 

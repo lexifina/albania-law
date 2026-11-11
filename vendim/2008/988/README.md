@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-988` (tags `vendim-2008-988/<day>`; `python tools/on.py <day> vendim-2008-988`).
+Act id: `vendim-2008-988` (tags `vendim-2008-988/<day>`; `python registry/tools/on.py <day> vendim-2008-988`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 276, datë 18.4.2012: Për disa shtesa në vendimet e këshillit të ministrave nr. 256, datë 12.3.2009 “për miratimin e listës së inventarit të pronave të paluajtshme publike në territorin administrativ të komunës pajovë, të qarkut elbasan” dhe nr. 988, datë 2.7.2008 “për miratimin e listës përfundimtare të pyjeve dhe kullotave, që transferohen në pronësi të komunës pajovë të qarkut elbasan”](https://qbz.gov.al/eli/vendim/2012/04/18/276)
 
 ## Decisions made by hand
 

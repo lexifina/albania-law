@@ -5,7 +5,7 @@ Shërbimin e jashtëm të republikës së shqipërisë · 2 versions, from 2003-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9095` (tags `ligj-2003-9095/<day>`; `python tools/on.py <day> ligj-2003-9095`).
+Act id: `ligj-2003-9095` (tags `ligj-2003-9095/<day>`; `python registry/tools/on.py <day> ligj-2003-9095`).
 
 ## Decisions made by hand
 

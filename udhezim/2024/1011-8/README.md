@@ -39,7 +39,7 @@ Miratimin e metodologjisë, kritereve dhe procedurat, për vlerësimin dhe prior
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1011-8` (tags `udhezim-2024-1011-8/<day>`; `python tools/on.py <day> udhezim-2024-1011-8`).
+Act id: `udhezim-2024-1011-8` (tags `udhezim-2024-1011-8/<day>`; `python registry/tools/on.py <day> udhezim-2024-1011-8`).
 
 ## Decisions made by hand
 

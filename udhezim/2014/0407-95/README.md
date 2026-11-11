@@ -5,7 +5,7 @@ Përcaktimin e institucioneve dhe organeve që marrin të dhëna personale nga s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0407-95` (tags `udhezim-2014-0407-95/<day>`; `python tools/on.py <day> udhezim-2014-0407-95`).
+Act id: `udhezim-2014-0407-95` (tags `udhezim-2014-0407-95/<day>`; `python registry/tools/on.py <day> udhezim-2014-0407-95`).
 
 ## Decisions made by hand
 

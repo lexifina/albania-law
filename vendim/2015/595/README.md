@@ -16,7 +16,7 @@ Miratimin e ndryshimit të statusit nga tokë bujqësore në tokë truall dhe v�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-595` (tags `vendim-2015-595/<day>`; `python tools/on.py <day> vendim-2015-595`).
+Act id: `vendim-2015-595` (tags `vendim-2015-595/<day>`; `python registry/tools/on.py <day> vendim-2015-595`).
 
 ## Decisions made by hand
 

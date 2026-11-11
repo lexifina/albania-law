@@ -5,7 +5,7 @@ Miratimin e Planit Kombëtar për Integrimin Evropian, 2021-2023 · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-90` (tags `vendim-2021-90/<day>`; `python tools/on.py <day> vendim-2021-90`).
+Act id: `vendim-2021-90` (tags `vendim-2021-90/<day>`; `python registry/tools/on.py <day> vendim-2021-90`).
 
 ## Decisions made by hand
 

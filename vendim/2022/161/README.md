@@ -10,7 +10,7 @@ Caktimin e ditës së hënë, datë 21.3.2022, ditë pushimi · 1 versions, from
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-161` (tags `vendim-2022-161/<day>`; `python tools/on.py <day> vendim-2022-161`).
+Act id: `vendim-2022-161` (tags `vendim-2022-161/<day>`; `python registry/tools/on.py <day> vendim-2022-161`).
 
 ## Decisions made by hand
 

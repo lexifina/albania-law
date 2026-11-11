@@ -5,7 +5,7 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-182` (tags `vendim-2008-182/<day>`; `python tools/on.py <day> vendim-2008-182`).
+Act id: `vendim-2008-182` (tags `vendim-2008-182/<day>`; `python registry/tools/on.py <day> vendim-2008-182`).
 
 ## Decisions made by hand
 

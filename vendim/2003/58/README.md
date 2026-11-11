@@ -5,7 +5,7 @@ Vendim Nr.58 Dt.23.01.2003 · 2 versions, from 2003-01-31 (latest in force: 2005
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-58` (tags `vendim-2003-58/<day>`; `python tools/on.py <day> vendim-2003-58`).
+Act id: `vendim-2003-58` (tags `vendim-2003-58/<day>`; `python registry/tools/on.py <day> vendim-2003-58`).
 
 ## Decisions made by hand
 

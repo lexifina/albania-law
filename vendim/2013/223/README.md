@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e Inspektoratit Shtetëror të Mjedisit, Pyjeve, Uj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-223` (tags `vendim-2013-223/<day>`; `python tools/on.py <day> vendim-2013-223`).
+Act id: `vendim-2013-223` (tags `vendim-2013-223/<day>`; `python registry/tools/on.py <day> vendim-2013-223`).
 
 ## Decisions made by hand
 

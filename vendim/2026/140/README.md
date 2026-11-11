@@ -23,7 +23,7 @@ Përcaktimin e procedurës së detajuar për kthimin e garancive, huave dhe nën
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-140` (tags `vendim-2026-140/<day>`; `python tools/on.py <day> vendim-2026-140`).
+Act id: `vendim-2026-140` (tags `vendim-2026-140/<day>`; `python registry/tools/on.py <day> vendim-2026-140`).
 
 ## Decisions made by hand
 

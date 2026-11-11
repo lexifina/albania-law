@@ -10,7 +10,7 @@ PËR RATIFIKIMIN E MARRËVESHJES KUADËR NDËRMJET KËSHILLIT TË MINISTRAVE TË
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-83` (tags `ligj-2016-83/<day>`; `python tools/on.py <day> ligj-2016-83`).
+Act id: `ligj-2016-83` (tags `ligj-2016-83/<day>`; `python registry/tools/on.py <day> ligj-2016-83`).
 
 ## Decisions made by hand
 

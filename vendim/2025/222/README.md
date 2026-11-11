@@ -20,7 +20,7 @@ Përcaktimin e kritereve dhe të procedurave për kompensimin e menjëhershëm f
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-222` (tags `vendim-2025-222/<day>`; `python tools/on.py <day> vendim-2025-222`).
+Act id: `vendim-2025-222` (tags `vendim-2025-222/<day>`; `python registry/tools/on.py <day> vendim-2025-222`).
 
 ## Decisions made by hand
 

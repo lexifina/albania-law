@@ -5,7 +5,11 @@ Miratimin e listës së barnave që rimbursohen nga Fondi i Sigurimit të Detyru
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-444` (tags `vendim-2019-444/<day>`; `python tools/on.py <day> vendim-2019-444`).
+Act id: `vendim-2019-444` (tags `vendim-2019-444/<day>`; `python registry/tools/on.py <day> vendim-2019-444`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

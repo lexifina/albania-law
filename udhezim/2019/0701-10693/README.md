@@ -16,7 +16,7 @@ Përcaktimin e tarifave për kryerjen e shërbimeve të veçanta dhe administrim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0701-10693` (tags `udhezim-2019-0701-10693/<day>`; `python tools/on.py <day> udhezim-2019-0701-10693`).
+Act id: `udhezim-2019-0701-10693` (tags `udhezim-2019-0701-10693/<day>`; `python registry/tools/on.py <day> udhezim-2019-0701-10693`).
 
 ## Decisions made by hand
 

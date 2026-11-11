@@ -13,7 +13,17 @@ Miratimin e kontratës së lidhur ndërmjet Ministrisë së Mbrojtjes të Republ
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2010-10222` (tags `ligj-2010-10222/<day>`; `python tools/on.py <day> ligj-2010-10222`).
+Act id: `ligj-2010-10222` (tags `ligj-2010-10222/<day>`; `python registry/tools/on.py <day> ligj-2010-10222`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 106/2014: Për disa ndryshime në ligjin nr. 10 222, datë 4.2.2010, “për miratimin e kontratës së lidhur ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe shoqërisë “eurocopter” për furnizimin me 5 helikopterë të mesëm shumërolësh”, të ndryshuar](https://qbz.gov.al/eli/ligj/2014/07/31/106)
+- [Ligji nr. 10445/2011: Për disa ndryshime në ligjin nr.10 222, datë 4.2.2010 “për miratimin e kontratës së lidhur ndërmjet ministrisë së mbrojtjes të republikës së shqipërisë dhe shoqërisë “eurocopter” për furnizimin me 5 helikopterë të mesëm shumërolësh”](https://qbz.gov.al/eli/ligj/2011/07/14/10445)
+- [Vendimi i Këshillit të Ministrave nr. 326, datë 28.5.2014: Për njohjen dhe shlyerjen e detyrimit të ministrisë së mbrojtjes së republikës së shqipërisë kundrejt drejtorisë së përgjithshme të armatimit në ministrinë e mbrojtjes së republikës së francës, për kontrollin teknik të kryer gjatë procesit të pranimit të tre helikopterëve cougar as532al](https://qbz.gov.al/eli/vendim/2014/05/28/326)
 
 ## Decisions made by hand
 

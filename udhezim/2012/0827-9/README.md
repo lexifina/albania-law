@@ -17,7 +17,7 @@ Kushtet e transportimit, magazinimit dhe mirëmbajtjes së plehrave që përdore
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-0827-9` (tags `udhezim-2012-0827-9/<day>`; `python tools/on.py <day> udhezim-2012-0827-9`).
+Act id: `udhezim-2012-0827-9` (tags `udhezim-2012-0827-9/<day>`; `python registry/tools/on.py <day> udhezim-2012-0827-9`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Miratimin e rregullave për mbajtjen, përditësimin dhe publikimin e statistika
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-09-28 |
 
-Act id: `vendim-2015-687` (tags `vendim-2015-687/<day>`; `python tools/on.py <day> vendim-2015-687`).
+Act id: `vendim-2015-687` (tags `vendim-2015-687/<day>`; `python registry/tools/on.py <day> vendim-2015-687`).
 
 ## Decisions made by hand
 

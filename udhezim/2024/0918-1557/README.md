@@ -18,7 +18,7 @@ Rregullat e hollësishme për mënyrën e plotësimit dhe administrimit të akte
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0918-1557` (tags `udhezim-2024-0918-1557/<day>`; `python tools/on.py <day> udhezim-2024-0918-1557`).
+Act id: `udhezim-2024-0918-1557` (tags `udhezim-2024-0918-1557/<day>`; `python registry/tools/on.py <day> udhezim-2024-0918-1557`).
 
 ## Decisions made by hand
 

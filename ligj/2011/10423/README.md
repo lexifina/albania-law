@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 29.4.2011 të kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10423` (tags `ligj-2011-10423/<day>`; `python tools/on.py <day> ligj-2011-10423`).
+Act id: `ligj-2011-10423` (tags `ligj-2011-10423/<day>`; `python registry/tools/on.py <day> ligj-2011-10423`).
 
 ## Decisions made by hand
 

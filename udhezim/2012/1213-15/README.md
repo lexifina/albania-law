@@ -33,7 +33,7 @@ Materialet dhe artikujt në kontakt me ushqimin · 1 versions, from 2012-12-31 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1213-15` (tags `udhezim-2012-1213-15/<day>`; `python tools/on.py <day> udhezim-2012-1213-15`).
+Act id: `udhezim-2012-1213-15` (tags `udhezim-2012-1213-15/<day>`; `python registry/tools/on.py <day> udhezim-2012-1213-15`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Krijimin e arkivit qendror për sistemiMIN, ruajtjen dhe shfrytëzimin e dokumen
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-761` (tags `vendim-2004-761/<day>`; `python tools/on.py <day> vendim-2004-761`).
+Act id: `vendim-2004-761` (tags `vendim-2004-761/<day>`; `python registry/tools/on.py <day> vendim-2004-761`).
 
 ## Decisions made by hand
 

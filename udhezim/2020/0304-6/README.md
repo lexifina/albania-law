@@ -17,7 +17,7 @@ Përcaktimin e rregullave për afatet e aplikimit, të zbatimit të kritereve dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0304-6` (tags `udhezim-2020-0304-6/<day>`; `python tools/on.py <day> udhezim-2020-0304-6`).
+Act id: `udhezim-2020-0304-6` (tags `udhezim-2020-0304-6/<day>`; `python registry/tools/on.py <day> udhezim-2020-0304-6`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e marrëveshjes ndryshuese të marrëveshjes për një hua shtesë nd�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-225` (tags `vendim-2023-225/<day>`; `python tools/on.py <day> vendim-2023-225`).
+Act id: `vendim-2023-225` (tags `vendim-2023-225/<day>`; `python registry/tools/on.py <day> vendim-2023-225`).
 
 ## Decisions made by hand
 

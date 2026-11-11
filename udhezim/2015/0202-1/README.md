@@ -16,7 +16,15 @@ Mbi zbatimin e vendimit nr. 8, datë 14.1.2015 të Këshillit të Ministrave pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0202-1` (tags `udhezim-2015-0202-1/<day>`; `python tools/on.py <day> udhezim-2015-0202-1`).
+Act id: `udhezim-2015-0202-1` (tags `udhezim-2015-0202-1/<day>`; `python registry/tools/on.py <day> udhezim-2015-0202-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 15, datë 8.4.2015 (Ministria e Financave) [QBZ 59004]: Për disa ndryshime në udhëzimin nr. 1, datë 2.2.2015, “Mbi zbatimin e vendimit nr. 8, datë 14.1.2015 të Këshillit të Ministrave për mbrojtjen e shtresave në nevojë, nga heqja e fashës deri në 300 kwh për faturimin e çmimit të energjisë elektrike”](https://qbz.gov.al/eli/udhezim/2015/04/08/15)
 
 ## Decisions made by hand
 

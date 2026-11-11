@@ -12,7 +12,7 @@ Delegimin e kompetencës drejtorit të përgjithshëm të Policisë së Shtetit 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0615-119` (tags `urdher-2026-0615-119/<day>`; `python tools/on.py <day> urdher-2026-0615-119`).
+Act id: `urdher-2026-0615-119` (tags `urdher-2026-0615-119/<day>`; `python registry/tools/on.py <day> urdher-2026-0615-119`).
 
 ## Decisions made by hand
 

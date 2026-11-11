@@ -9,7 +9,7 @@ Miratimin e formularit të deklarimit dhe pagesës së taksës mbi truallin shte
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2010-0907-63` (tags `urdher-2010-0907-63/<day>`; `python tools/on.py <day> urdher-2010-0907-63`).
+Act id: `urdher-2010-0907-63` (tags `urdher-2010-0907-63/<day>`; `python registry/tools/on.py <day> urdher-2010-0907-63`).
 
 ## Decisions made by hand
 

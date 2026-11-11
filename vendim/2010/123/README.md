@@ -13,7 +13,7 @@ Krijimin e Universitetit të Sporteve të Tiranës · 1 versions, from 2010-03-0
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-123` (tags `vendim-2010-123/<day>`; `python tools/on.py <day> vendim-2010-123`).
+Act id: `vendim-2010-123` (tags `vendim-2010-123/<day>`; `python registry/tools/on.py <day> vendim-2010-123`).
 
 ## Decisions made by hand
 

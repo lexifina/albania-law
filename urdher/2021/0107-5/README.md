@@ -21,7 +21,7 @@ Miratimin e rregullave të hollësishme për Regjistrin Kombëtar të Testamente
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0107-5` (tags `urdher-2021-0107-5/<day>`; `python tools/on.py <day> urdher-2021-0107-5`).
+Act id: `urdher-2021-0107-5` (tags `urdher-2021-0107-5/<day>`; `python registry/tools/on.py <day> urdher-2021-0107-5`).
 
 ## Decisions made by hand
 

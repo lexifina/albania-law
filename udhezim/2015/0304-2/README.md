@@ -30,7 +30,7 @@ Mënyrën e ngritjes, organizimit dhe funksionimit të komisionit të qendrës s
 | Pjesa IV | [pjesa-04.md](pjesa-04.md) | 0 |  |
 | Pjesa V | [pjesa-05.md](pjesa-05.md) | 0 |  |
 
-Act id: `udhezim-2015-0304-2` (tags `udhezim-2015-0304-2/<day>`; `python tools/on.py <day> udhezim-2015-0304-2`).
+Act id: `udhezim-2015-0304-2` (tags `udhezim-2015-0304-2/<day>`; `python registry/tools/on.py <day> udhezim-2015-0304-2`).
 
 ## Decisions made by hand
 

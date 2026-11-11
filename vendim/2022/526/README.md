@@ -19,7 +19,7 @@ Organizimin dhe funksionimin e Agjencisë për Dialog dhe Bashkëqeverisje · 2 
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-526` (tags `vendim-2022-526/<day>`; `python tools/on.py <day> vendim-2022-526`).
+Act id: `vendim-2022-526` (tags `vendim-2022-526/<day>`; `python registry/tools/on.py <day> vendim-2022-526`).
 
 ## Decisions made by hand
 

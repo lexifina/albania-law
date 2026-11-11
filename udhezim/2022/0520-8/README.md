@@ -30,7 +30,7 @@ Përcaktimin e kostove të pranueshme, që mbështeten nga ndërhyrjet strukturo
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0520-8` (tags `udhezim-2022-0520-8/<day>`; `python tools/on.py <day> udhezim-2022-0520-8`).
+Act id: `udhezim-2022-0520-8` (tags `udhezim-2022-0520-8/<day>`; `python registry/tools/on.py <day> udhezim-2022-0520-8`).
 
 ## Decisions made by hand
 

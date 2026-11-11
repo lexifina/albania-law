@@ -5,7 +5,7 @@ Kriteret dhe rregullat e shfrytëzimit të pyjeve dhe të shitjes së materialit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-394` (tags `vendim-2006-394/<day>`; `python tools/on.py <day> vendim-2006-394`).
+Act id: `vendim-2006-394` (tags `vendim-2006-394/<day>`; `python registry/tools/on.py <day> vendim-2006-394`).
 
 ## Decisions made by hand
 

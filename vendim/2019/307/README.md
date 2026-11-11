@@ -8,7 +8,7 @@ Shpallje ditë zie kombëtare · 1 versions, from 2019-05-17 (latest in force: 2
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-307` (tags `vendim-2019-307/<day>`; `python tools/on.py <day> vendim-2019-307`).
+Act id: `vendim-2019-307` (tags `vendim-2019-307/<day>`; `python registry/tools/on.py <day> vendim-2019-307`).
 
 ## Decisions made by hand
 

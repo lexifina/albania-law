@@ -5,7 +5,7 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1284` (tags `vendim-2009-1284/<day>`; `python tools/on.py <day> vendim-2009-1284`).
+Act id: `vendim-2009-1284` (tags `vendim-2009-1284/<day>`; `python registry/tools/on.py <day> vendim-2009-1284`).
 
 ## Decisions made by hand
 

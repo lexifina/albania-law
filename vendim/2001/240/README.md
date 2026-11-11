@@ -5,7 +5,7 @@ PËR NDARJEN E TË ARDHURAVE, QË RRJEDHIN NGA USHTRIMI i VEPRIMTARISË NGA SUBJ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-240` (tags `vendim-2001-240/<day>`; `python tools/on.py <day> vendim-2001-240`).
+Act id: `vendim-2001-240` (tags `vendim-2001-240/<day>`; `python registry/tools/on.py <day> vendim-2001-240`).
 
 ## Decisions made by hand
 

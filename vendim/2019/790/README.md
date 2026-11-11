@@ -19,7 +19,7 @@ Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-790` (tags `vendim-2019-790/<day>`; `python tools/on.py <day> vendim-2019-790`).
+Act id: `vendim-2019-790` (tags `vendim-2019-790/<day>`; `python registry/tools/on.py <day> vendim-2019-790`).
 
 ## Decisions made by hand
 

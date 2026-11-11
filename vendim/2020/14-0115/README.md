@@ -12,7 +12,7 @@ Planin vjetor të pranimit për vitin 2020 në institucionet e administratës sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-14-0115` (tags `vendim-2020-14-0115/<day>`; `python tools/on.py <day> vendim-2020-14-0115`).
+Act id: `vendim-2020-14-0115` (tags `vendim-2020-14-0115/<day>`; `python registry/tools/on.py <day> vendim-2020-14-0115`).
 
 ## Decisions made by hand
 

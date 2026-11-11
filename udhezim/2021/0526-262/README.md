@@ -10,7 +10,7 @@ Miratimin e metodologjisë së punës për menaxhimin e rastit të fëmijës në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0526-262` (tags `udhezim-2021-0526-262/<day>`; `python tools/on.py <day> udhezim-2021-0526-262`).
+Act id: `udhezim-2021-0526-262` (tags `udhezim-2021-0526-262/<day>`; `python registry/tools/on.py <day> udhezim-2021-0526-262`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Krijimin e Agjencisë Kombëtare Bërthamore · 3 versions, from 2010-01-27 (lat
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-23` (tags `vendim-2010-23/<day>`; `python tools/on.py <day> vendim-2010-23`).
+Act id: `vendim-2010-23` (tags `vendim-2010-23/<day>`; `python registry/tools/on.py <day> vendim-2010-23`).
 
 ## Decisions made by hand
 

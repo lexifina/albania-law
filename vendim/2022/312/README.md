@@ -15,7 +15,7 @@ Përcaktimin e rregullave të hollësishme për përmbajtjen e regjistrit të st
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2023-07-28 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-312` (tags `vendim-2022-312/<day>`; `python tools/on.py <day> vendim-2022-312`).
+Act id: `vendim-2022-312` (tags `vendim-2022-312/<day>`; `python registry/tools/on.py <day> vendim-2022-312`).
 
 ## Decisions made by hand
 

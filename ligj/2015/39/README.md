@@ -13,7 +13,7 @@ Heqjen nga fondi pyjor dhe kullosor kombëtar të sipërfaqes dhe zvogëlimin n�
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-39` (tags `ligj-2015-39/<day>`; `python tools/on.py <day> ligj-2015-39`).
+Act id: `ligj-2015-39` (tags `ligj-2015-39/<day>`; `python registry/tools/on.py <day> ligj-2015-39`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-909` (tags `vendim-2014-909/<day>`; `python tools/on.py <day> vendim-2014-909`).
+Act id: `vendim-2014-909` (tags `vendim-2014-909/<day>`; `python registry/tools/on.py <day> vendim-2014-909`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 934, datë 29.12.2014: Për disa ndryshime dhe shtesa në vendimin nr. 909, datë 22.12.2014, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rehabilitim i bregut të liqenit të ohrit dhe gjelbërimi përgjatë rrugës lin - pogradec”](https://qbz.gov.al/eli/vendim/2014/12/29/934)
+- [Vendimi i Këshillit të Ministrave nr. 56, datë 21.1.2015: Për një ndryshim në vendimin nr. 909, datë 22.12.2014, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “rehabilitimi i bregut të liqenit të Ohrit dhe gjelbërimi përgjatë rrugës Lin - Pogradec](https://qbz.gov.al/eli/vendim/2015/01/21/56)
 
 ## Decisions made by hand
 

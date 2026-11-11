@@ -5,7 +5,7 @@ Zbatimin e punimeve të ndërtimit · 2 versions, from 2005-05-26 (latest in for
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2005-0513-2` (tags `udhezim-2005-0513-2/<day>`; `python tools/on.py <day> udhezim-2005-0513-2`).
+Act id: `udhezim-2005-0513-2` (tags `udhezim-2005-0513-2/<day>`; `python registry/tools/on.py <day> udhezim-2005-0513-2`).
 
 ## Decisions made by hand
 

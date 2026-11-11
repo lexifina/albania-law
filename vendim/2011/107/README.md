@@ -35,7 +35,7 @@ Përbërjen, rregullat e organizimit dhe të funksionimit të këshillit të sig
 | Pika 27 | [pika-027.md](pika-027.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-107` (tags `vendim-2011-107/<day>`; `python tools/on.py <day> vendim-2011-107`).
+Act id: `vendim-2011-107` (tags `vendim-2011-107/<day>`; `python registry/tools/on.py <day> vendim-2011-107`).
 
 ## Decisions made by hand
 

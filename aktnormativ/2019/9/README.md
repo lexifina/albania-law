@@ -69,7 +69,7 @@ Përballimin e pasojave të fatkeqësisë natyrore · 1 versions, from 2019-12-1
 | Seksioni V | [seksioni-05.md](seksioni-05.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2019-9` (tags `aktnormativ-2019-9/<day>`; `python tools/on.py <day> aktnormativ-2019-9`).
+Act id: `aktnormativ-2019-9` (tags `aktnormativ-2019-9/<day>`; `python registry/tools/on.py <day> aktnormativ-2019-9`).
 
 ## Decisions made by hand
 

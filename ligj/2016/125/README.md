@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së garancisë ndërmjet republikës së shqipëris�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-125-2016` (tags `ligji-125-2016/<day>`; `python tools/on.py <day> ligji-125-2016`).
+Act id: `ligji-125-2016` (tags `ligji-125-2016/<day>`; `python registry/tools/on.py <day> ligji-125-2016`).
 
 ## Decisions made by hand
 

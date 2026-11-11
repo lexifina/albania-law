@@ -10,7 +10,7 @@ Ratifikimin e “amendamentit të marrëveshjes së huasë ndërmjet qeverisë s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8800` (tags `ligj-2001-8800/<day>`; `python tools/on.py <day> ligj-2001-8800`).
+Act id: `ligj-2001-8800` (tags `ligj-2001-8800/<day>`; `python registry/tools/on.py <day> ligj-2001-8800`).
 
 ## Decisions made by hand
 

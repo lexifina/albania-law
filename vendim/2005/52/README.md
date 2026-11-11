@@ -14,7 +14,7 @@ PëR SHPërndarjen ME KOEFICIENT KREDITORËVE TË SHOQËRISë “Vefa HOLDING”
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-52` (tags `vendim-2005-52/<day>`; `python tools/on.py <day> vendim-2005-52`).
+Act id: `vendim-2005-52` (tags `vendim-2005-52/<day>`; `python registry/tools/on.py <day> vendim-2005-52`).
 
 ## Decisions made by hand
 

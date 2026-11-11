@@ -5,7 +5,7 @@ Mbledhjen, administrimin dhe publikimin e informacionit për procesin e numërim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0522-17` (tags `udhezim-2009-0522-17/<day>`; `python tools/on.py <day> udhezim-2009-0522-17`).
+Act id: `udhezim-2009-0522-17` (tags `udhezim-2009-0522-17/<day>`; `python registry/tools/on.py <day> udhezim-2009-0522-17`).
 
 ## Decisions made by hand
 

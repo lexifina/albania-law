@@ -12,7 +12,7 @@ Miratimin e rregullores për kërkesat e përbashkëta të përdorimit të hapë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0720-162` (tags `urdher-2026-0720-162/<day>`; `python tools/on.py <day> urdher-2026-0720-162`).
+Act id: `urdher-2026-0720-162` (tags `urdher-2026-0720-162/<day>`; `python registry/tools/on.py <day> urdher-2026-0720-162`).
 
 ## Decisions made by hand
 

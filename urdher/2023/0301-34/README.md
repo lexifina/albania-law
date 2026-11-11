@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për organizimin dhe funksionimin e strukturës së s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0301-34` (tags `urdher-2023-0301-34/<day>`; `python tools/on.py <day> urdher-2023-0301-34`).
+Act id: `urdher-2023-0301-34` (tags `urdher-2023-0301-34/<day>`; `python registry/tools/on.py <day> urdher-2023-0301-34`).
 
 ## Decisions made by hand
 

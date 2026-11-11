@@ -5,7 +5,7 @@ Përcaktimin e procedurave dhe të kritereve për përzgjedhjen, kontraktimin e 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-381` (tags `vendim-2019-381/<day>`; `python tools/on.py <day> vendim-2019-381`).
+Act id: `vendim-2019-381` (tags `vendim-2019-381/<day>`; `python registry/tools/on.py <day> vendim-2019-381`).
 
 ## Decisions made by hand
 

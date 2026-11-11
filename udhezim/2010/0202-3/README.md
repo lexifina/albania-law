@@ -5,7 +5,7 @@ Formatin e formularit të deklarimit dhe pagesës së tatimit mbi lojërat e fat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-0202-3` (tags `udhezim-2010-0202-3/<day>`; `python tools/on.py <day> udhezim-2010-0202-3`).
+Act id: `udhezim-2010-0202-3` (tags `udhezim-2010-0202-3/<day>`; `python registry/tools/on.py <day> udhezim-2010-0202-3`).
 
 ## Decisions made by hand
 

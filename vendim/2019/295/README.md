@@ -18,7 +18,7 @@ Përcaktimin e kriterit të notës mesatare për pranimin e kandidatëve në pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-07-12 |
 
-Act id: `vendim-2019-295` (tags `vendim-2019-295/<day>`; `python tools/on.py <day> vendim-2019-295`).
+Act id: `vendim-2019-295` (tags `vendim-2019-295/<day>`; `python registry/tools/on.py <day> vendim-2019-295`).
 
 ## Decisions made by hand
 

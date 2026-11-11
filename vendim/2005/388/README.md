@@ -16,7 +16,15 @@ Përbërjen, funksionimin, të drejtat dhe detyrat e komisionit shtetëror të p
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-388` (tags `vendim-2005-388/<day>`; `python tools/on.py <day> vendim-2005-388`).
+Act id: `vendim-2005-388` (tags `vendim-2005-388/<day>`; `python registry/tools/on.py <day> vendim-2005-388`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 145, datë 8.3.2006: Për disa ndryshime në vendimin nr.388, datë 31.5.2005 të Këshillit të Ministrave “Për përbërjen, funksionimin, të drejtat dhe detyrat e Komisionit Shtetëror të Prodhimit Organik”](https://qbz.gov.al/eli/vendim/2006/03/08/145)
 
 ## Decisions made by hand
 

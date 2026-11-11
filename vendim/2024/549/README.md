@@ -25,7 +25,7 @@ Përdorimin e mjeteve ajrore pa pilot në administrim të Forcave të Armatosura
 | Pika 17 | [pika-017.md](pika-017.md) | 1 | 2025-09-16 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-549` (tags `vendim-2024-549/<day>`; `python tools/on.py <day> vendim-2024-549`).
+Act id: `vendim-2024-549` (tags `vendim-2024-549/<day>`; `python registry/tools/on.py <day> vendim-2024-549`).
 
 ## Decisions made by hand
 

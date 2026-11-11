@@ -11,7 +11,7 @@ Rritjen e pagesës kalimtare të ushtarakëve në rezervë (lirim) · 1 versions
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-425` (tags `vendim-2002-425/<day>`; `python tools/on.py <day> vendim-2002-425`).
+Act id: `vendim-2002-425` (tags `vendim-2002-425/<day>`; `python registry/tools/on.py <day> vendim-2002-425`).
 
 ## Decisions made by hand
 

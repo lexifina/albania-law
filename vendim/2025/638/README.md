@@ -17,7 +17,7 @@ Autorizimin e shoqërisë aksionare shtetërore “Kayo”, sh.a., që, vetë os
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-638` (tags `vendim-2025-638/<day>`; `python tools/on.py <day> vendim-2025-638`).
+Act id: `vendim-2025-638` (tags `vendim-2025-638/<day>`; `python registry/tools/on.py <day> vendim-2025-638`).
 
 ## Decisions made by hand
 

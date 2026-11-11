@@ -71,7 +71,7 @@ Autoritetin portual · 1 versions, from 2003-10-21 (latest in force: 2003-10-21)
 | Neni 55 | [neni-055.md](neni-055.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9130-2003` (tags `ligji-9130-2003/<day>`; `python tools/on.py <day> ligji-9130-2003`).
+Act id: `ligji-9130-2003` (tags `ligji-9130-2003/<day>`; `python registry/tools/on.py <day> ligji-9130-2003`).
 
 ## Decisions made by hand
 

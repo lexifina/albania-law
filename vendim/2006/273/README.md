@@ -5,7 +5,7 @@ Krijimin e Agjencisë Kombëtare të Arsimit dhe Formimit Profesional · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-273` (tags `vendim-2006-273/<day>`; `python tools/on.py <day> vendim-2006-273`).
+Act id: `vendim-2006-273` (tags `vendim-2006-273/<day>`; `python registry/tools/on.py <day> vendim-2006-273`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Vendosjen e oponencës teknike për projektet e veprave të ndërtimit · 2 vers
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-1055` (tags `vendim-2010-1055/<day>`; `python tools/on.py <day> vendim-2010-1055`).
+Act id: `vendim-2010-1055` (tags `vendim-2010-1055/<day>`; `python registry/tools/on.py <day> vendim-2010-1055`).
 
 ## Decisions made by hand
 

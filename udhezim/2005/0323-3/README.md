@@ -44,7 +44,7 @@ Organizimin dhe funksionimin e komisionit të zonës zgjedhore · 1 versions, fr
 | Pjesa IX | [pjesa-09.md](pjesa-09.md) | 0 |  |
 | Pjesa X | [pjesa-10.md](pjesa-10.md) | 0 |  |
 
-Act id: `udhezim-2005-0323-3` (tags `udhezim-2005-0323-3/<day>`; `python tools/on.py <day> udhezim-2005-0323-3`).
+Act id: `udhezim-2005-0323-3` (tags `udhezim-2005-0323-3/<day>`; `python registry/tools/on.py <day> udhezim-2005-0323-3`).
 
 ## Decisions made by hand
 

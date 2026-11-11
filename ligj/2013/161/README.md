@@ -8,7 +8,15 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 5, datë 30.9.2013, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-161` (tags `ligj-2013-161/<day>`; `python tools/on.py <day> ligj-2013-161`).
+Act id: `ligj-2013-161` (tags `ligj-2013-161/<day>`; `python registry/tools/on.py <day> ligj-2013-161`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Gjykatës Kushtetuese nr. 5, datë 5.2.2014: Shfuqizimi, si i papajtueshëm me Kushtetutën, i aktit normativ të Këshillit të Ministrave nr.5, datë 30.09.2013 “Për disa ndryshime në ligjin nr.152/2013 “Për nëpunësin civil””;Shfuqizimi i ligjit nr.161/2013 “Për miratimin e aktit normativ nr.5, datë 30.09.2013 “Për disa ndryshime në ligjin nr.152/2013 “Për nëpunësin civil””](https://qbz.gov.al/eli/vendim/2014/02/05/5)
 
 ## Decisions made by hand
 

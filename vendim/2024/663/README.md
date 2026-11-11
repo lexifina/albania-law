@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve operative, për vitin 2025, të Entit Rregull
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-663` (tags `vendim-2024-663/<day>`; `python tools/on.py <day> vendim-2024-663`).
+Act id: `vendim-2024-663` (tags `vendim-2024-663/<day>`; `python registry/tools/on.py <day> vendim-2024-663`).
 
 ## Decisions made by hand
 

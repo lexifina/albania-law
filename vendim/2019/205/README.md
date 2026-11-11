@@ -11,7 +11,7 @@ Miratimin e ndryshimit të statusit, nga kategoria e rekursit ”Tokë bujqësor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-205` (tags `vendim-2019-205/<day>`; `python tools/on.py <day> vendim-2019-205`).
+Act id: `vendim-2019-205` (tags `vendim-2019-205/<day>`; `python registry/tools/on.py <day> vendim-2019-205`).
 
 ## Decisions made by hand
 

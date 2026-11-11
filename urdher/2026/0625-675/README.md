@@ -10,7 +10,7 @@ Zgjatjen e afatit të aplikimeve në skemën kombëtare të mbështetjes për vi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0625-675` (tags `urdher-2026-0625-675/<day>`; `python tools/on.py <day> urdher-2026-0625-675`).
+Act id: `urdher-2026-0625-675` (tags `urdher-2026-0625-675/<day>`; `python registry/tools/on.py <day> urdher-2026-0625-675`).
 
 ## Decisions made by hand
 

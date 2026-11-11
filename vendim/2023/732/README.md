@@ -9,7 +9,7 @@ Miratimin e planit të veprimit për zbatimin e rezolutës 1325 të Këshillit t
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-732` (tags `vendim-2023-732/<day>`; `python tools/on.py <day> vendim-2023-732`).
+Act id: `vendim-2023-732` (tags `vendim-2023-732/<day>`; `python registry/tools/on.py <day> vendim-2023-732`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,15 @@ Zhvillimin e provimeve kombëtare të arsimit bazë, viti shkollor 2017-2018 · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0308-13` (tags `udhezim-2018-0308-13/<day>`; `python tools/on.py <day> udhezim-2018-0308-13`).
+Act id: `udhezim-2018-0308-13` (tags `udhezim-2018-0308-13/<day>`; `python registry/tools/on.py <day> udhezim-2018-0308-13`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 20, datë 12.6.2018 (Këshilli i Ministrave) [QBZ 56706]: Për një ndryshim në udhëzimin nr. 13, datë 8.3.2018, “për zhvillimin e provimeve kombëtare të arsimit bazë, viti shkollor 2017-2018](https://qbz.gov.al/eli/udhezim/2018/06/12/20)
 
 ## Decisions made by hand
 

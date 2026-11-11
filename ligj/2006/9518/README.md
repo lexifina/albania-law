@@ -25,7 +25,7 @@ Mbrojtjen e të miturve nga përdorimi i alkoolit · 2 versions, from 2018-12-06
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9518` (tags `ligj-2006-9518/<day>`; `python tools/on.py <day> ligj-2006-9518`).
+Act id: `ligj-2006-9518` (tags `ligj-2006-9518/<day>`; `python registry/tools/on.py <day> ligj-2006-9518`).
 
 ## Decisions made by hand
 

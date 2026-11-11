@@ -18,7 +18,7 @@ PËR MIRATIMIN E RREGULLAVE PËR PËRDORIMIN E TË DHËNAVE MINERARE TË NJË LE
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0520-386` (tags `urdher-2011-0520-386/<day>`; `python tools/on.py <day> urdher-2011-0520-386`).
+Act id: `urdher-2011-0520-386` (tags `urdher-2011-0520-386/<day>`; `python registry/tools/on.py <day> urdher-2011-0520-386`).
 
 ## Decisions made by hand
 

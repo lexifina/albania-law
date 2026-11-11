@@ -11,7 +11,7 @@ Miratimin e rregullit teknik “Për makineritë” dhe pёrcaktimin e listёs s
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1060` (tags `vendim-2015-1060/<day>`; `python tools/on.py <day> vendim-2015-1060`).
+Act id: `vendim-2015-1060` (tags `vendim-2015-1060/<day>`; `python registry/tools/on.py <day> vendim-2015-1060`).
 
 ## Decisions made by hand
 

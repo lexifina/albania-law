@@ -16,7 +16,7 @@ PËR MëNYRëN E NGRITJES DHE CAKTIMIN E VENDNDODHJES SË QENDRAVE TË VOTIMIT �
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 
-Act id: `udhezim-2003-0905-6` (tags `udhezim-2003-0905-6/<day>`; `python tools/on.py <day> udhezim-2003-0905-6`).
+Act id: `udhezim-2003-0905-6` (tags `udhezim-2003-0905-6/<day>`; `python registry/tools/on.py <day> udhezim-2003-0905-6`).
 
 ## Decisions made by hand
 

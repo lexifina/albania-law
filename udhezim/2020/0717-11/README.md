@@ -32,7 +32,7 @@ Miratimin e rregullave për modalitetet, afatet dhe mënyrën e caktimit të pë
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0717-11` (tags `udhezim-2020-0717-11/<day>`; `python tools/on.py <day> udhezim-2020-0717-11`).
+Act id: `udhezim-2020-0717-11` (tags `udhezim-2020-0717-11/<day>`; `python registry/tools/on.py <day> udhezim-2020-0717-11`).
 
 ## Decisions made by hand
 

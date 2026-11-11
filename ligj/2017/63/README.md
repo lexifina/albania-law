@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit nr. 7, të marrëveshjes së ndihmës për objektiva zh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-63` (tags `ligj-2017-63/<day>`; `python tools/on.py <day> ligj-2017-63`).
+Act id: `ligj-2017-63` (tags `ligj-2017-63/<day>`; `python registry/tools/on.py <day> ligj-2017-63`).
 
 ## Decisions made by hand
 

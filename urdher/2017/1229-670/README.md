@@ -15,7 +15,7 @@ Hapjen në republikën e shqipërisë të degës së institucionit të arsimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2017-1229-670` (tags `urdher-2017-1229-670/<day>`; `python tools/on.py <day> urdher-2017-1229-670`).
+Act id: `urdher-2017-1229-670` (tags `urdher-2017-1229-670/<day>`; `python registry/tools/on.py <day> urdher-2017-1229-670`).
 
 ## Decisions made by hand
 

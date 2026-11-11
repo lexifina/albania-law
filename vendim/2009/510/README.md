@@ -5,7 +5,7 @@ Ngritjen, përbërjen, organizimin, funksionimin dhe mënyrën e shpërblimit t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-510` (tags `vendim-2009-510/<day>`; `python tools/on.py <day> vendim-2009-510`).
+Act id: `vendim-2009-510` (tags `vendim-2009-510/<day>`; `python registry/tools/on.py <day> vendim-2009-510`).
 
 ## Decisions made by hand
 

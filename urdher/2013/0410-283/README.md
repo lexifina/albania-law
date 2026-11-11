@@ -11,7 +11,7 @@ Miratimin e listës së sipërfaqeve ligatinore bregdetare, që shërbejnë si h
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2013-0410-283` (tags `urdher-2013-0410-283/<day>`; `python tools/on.py <day> urdher-2013-0410-283`).
+Act id: `urdher-2013-0410-283` (tags `urdher-2013-0410-283/<day>`; `python registry/tools/on.py <day> urdher-2013-0410-283`).
 
 ## Decisions made by hand
 

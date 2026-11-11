@@ -9,7 +9,7 @@ Shpalljen e ndryshimeve në standardet ndërkombëtare të raportimit financiar,
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-1221-127` (tags `urdher-2016-1221-127/<day>`; `python tools/on.py <day> urdher-2016-1221-127`).
+Act id: `urdher-2016-1221-127` (tags `urdher-2016-1221-127/<day>`; `python registry/tools/on.py <day> urdher-2016-1221-127`).
 
 ## Decisions made by hand
 

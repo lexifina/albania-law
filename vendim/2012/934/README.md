@@ -14,7 +14,19 @@ Përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-934` (tags `vendim-2012-934/<day>`; `python tools/on.py <day> vendim-2012-934`).
+Act id: `vendim-2012-934` (tags `vendim-2012-934/<day>`; `python registry/tools/on.py <day> vendim-2012-934`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 44, datë 23.1.2013: Për disa ndryshime në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”](https://qbz.gov.al/eli/vendim/2013/01/23/44)
+- [Vendimi i Këshillit të Ministrave nr. 127, datë 20.2.2013: Për një ndryshim në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/02/20/127)
+- [Vendimi i Këshillit të Ministrave nr. 265, datë 3.4.2013: Për një ndryshim në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/04/03/265)
+- [Vendimi i Këshillit të Ministrave nr. 355, datë 24.4.2013: Për një ndryshim në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”](https://qbz.gov.al/eli/vendim/2013/04/24/355)
+- [Vendimi i Këshillit të Ministrave nr. 536, datë 27.6.2013: Për një ndryshim në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/06/27/536)
 
 ## Decisions made by hand
 

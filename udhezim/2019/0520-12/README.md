@@ -30,7 +30,7 @@ Masat për zhvillimin e provimeve të maturës shtetërore 2019 · 1 versions, f
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0520-12` (tags `udhezim-2019-0520-12/<day>`; `python tools/on.py <day> udhezim-2019-0520-12`).
+Act id: `udhezim-2019-0520-12` (tags `udhezim-2019-0520-12/<day>`; `python registry/tools/on.py <day> udhezim-2019-0520-12`).
 
 ## Decisions made by hand
 

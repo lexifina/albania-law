@@ -9,7 +9,7 @@ Miratimin e buxhetit faktik të shtetit për vitin 2016 · 1 versions, from 2017
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2017-97` (tags `ligj-2017-97/<day>`; `python tools/on.py <day> ligj-2017-97`).
+Act id: `ligj-2017-97` (tags `ligj-2017-97/<day>`; `python registry/tools/on.py <day> ligj-2017-97`).
 
 ## Decisions made by hand
 

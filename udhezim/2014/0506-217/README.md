@@ -37,7 +37,7 @@ Rregullat dhe procedurat e shqyrtimit të kërkesave për leje zhvillimore ndër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0506-217` (tags `udhezim-2014-0506-217/<day>`; `python tools/on.py <day> udhezim-2014-0506-217`).
+Act id: `udhezim-2014-0506-217` (tags `udhezim-2014-0506-217/<day>`; `python registry/tools/on.py <day> udhezim-2014-0506-217`).
 
 ## Decisions made by hand
 

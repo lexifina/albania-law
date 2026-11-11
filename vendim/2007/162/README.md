@@ -5,7 +5,7 @@ Dhënien me qira ose enfiteozë të pasurive të ndërmarrjeve, shoqërive dhe i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-162` (tags `vendim-2007-162/<day>`; `python tools/on.py <day> vendim-2007-162`).
+Act id: `vendim-2007-162` (tags `vendim-2007-162/<day>`; `python registry/tools/on.py <day> vendim-2007-162`).
 
 ## Decisions made by hand
 

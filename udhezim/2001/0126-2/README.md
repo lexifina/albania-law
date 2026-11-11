@@ -5,7 +5,7 @@ Zbatimin e ligjit nr. 8093, datë 21.3.1996 “për rezervat ujore” dhe të ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2001-0126-2` (tags `udhezim-2001-0126-2/<day>`; `python tools/on.py <day> udhezim-2001-0126-2`).
+Act id: `udhezim-2001-0126-2` (tags `udhezim-2001-0126-2/<day>`; `python registry/tools/on.py <day> udhezim-2001-0126-2`).
 
 ## Decisions made by hand
 

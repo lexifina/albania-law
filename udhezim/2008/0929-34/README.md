@@ -27,7 +27,7 @@ STRUKTURËN E VITIT AKADEMIK 2008-2009 NË INSTITUCIONET PUBLIKE TË ARSIMIT TË
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0929-34` (tags `udhezim-2008-0929-34/<day>`; `python tools/on.py <day> udhezim-2008-0929-34`).
+Act id: `udhezim-2008-0929-34` (tags `udhezim-2008-0929-34/<day>`; `python registry/tools/on.py <day> udhezim-2008-0929-34`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Sigurimin e jetës së ushtarakëve të forcave të armatosura të republikës s
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-361` (tags `vendim-2018-361/<day>`; `python tools/on.py <day> vendim-2018-361`).
+Act id: `vendim-2018-361` (tags `vendim-2018-361/<day>`; `python registry/tools/on.py <day> vendim-2018-361`).
 
 ## Decisions made by hand
 

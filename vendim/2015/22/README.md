@@ -10,7 +10,7 @@ Miratimin e autorizimit të ndërtimit të centralit elektrik fotovoltaik, dhën
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-22` (tags `vendim-2015-22/<day>`; `python tools/on.py <day> vendim-2015-22`).
+Act id: `vendim-2015-22` (tags `vendim-2015-22/<day>`; `python registry/tools/on.py <day> vendim-2015-22`).
 
 ## Decisions made by hand
 

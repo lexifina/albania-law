@@ -8,7 +8,7 @@ Emërimin në detyrë të drejtorit të Bibliotekës Kombëtare · 1 versions, f
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-567` (tags `vendim-2019-567/<day>`; `python tools/on.py <day> vendim-2019-567`).
+Act id: `vendim-2019-567` (tags `vendim-2019-567/<day>`; `python registry/tools/on.py <day> vendim-2019-567`).
 
 ## Decisions made by hand
 

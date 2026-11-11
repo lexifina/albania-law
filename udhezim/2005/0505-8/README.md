@@ -8,7 +8,7 @@ Një shtesë në udhëzimin nr. 6, datë 21.4.2005 “për mënyrën e ngritjes 
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 
-Act id: `udhezim-2005-0505-8` (tags `udhezim-2005-0505-8/<day>`; `python tools/on.py <day> udhezim-2005-0505-8`).
+Act id: `udhezim-2005-0505-8` (tags `udhezim-2005-0505-8/<day>`; `python registry/tools/on.py <day> udhezim-2005-0505-8`).
 
 ## Decisions made by hand
 

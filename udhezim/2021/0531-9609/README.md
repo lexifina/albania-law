@@ -10,7 +10,7 @@ Miratimin e marrëveshjes operacionale TIP · 1 versions, from 2021-07-21 (lates
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0531-9609` (tags `udhezim-2021-0531-9609/<day>`; `python tools/on.py <day> udhezim-2021-0531-9609`).
+Act id: `udhezim-2021-0531-9609` (tags `udhezim-2021-0531-9609/<day>`; `python registry/tools/on.py <day> udhezim-2021-0531-9609`).
 
 ## Decisions made by hand
 

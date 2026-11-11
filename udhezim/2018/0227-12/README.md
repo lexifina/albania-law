@@ -5,7 +5,7 @@ Organizimin e testimit të informatizuar të kandidatëve për t’u punësuar n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0227-12` (tags `udhezim-2018-0227-12/<day>`; `python tools/on.py <day> udhezim-2018-0227-12`).
+Act id: `udhezim-2018-0227-12` (tags `udhezim-2018-0227-12/<day>`; `python registry/tools/on.py <day> udhezim-2018-0227-12`).
 
 ## Decisions made by hand
 

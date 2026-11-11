@@ -33,7 +33,7 @@ Vendim Nr.27 Dt.11.01.2012 · 1 versions, from 2018-04-03 (latest in force: 2018
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-27` (tags `vendim-2012-27/<day>`; `python tools/on.py <day> vendim-2012-27`).
+Act id: `vendim-2012-27` (tags `vendim-2012-27/<day>`; `python registry/tools/on.py <day> vendim-2012-27`).
 
 ## Decisions made by hand
 

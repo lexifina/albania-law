@@ -5,7 +5,7 @@ Miratimin e bonusit në procedurën përzgjedhëse konkurruese, që i jepet shoq
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1068` (tags `vendim-2015-1068/<day>`; `python tools/on.py <day> vendim-2015-1068`).
+Act id: `vendim-2015-1068` (tags `vendim-2015-1068/<day>`; `python registry/tools/on.py <day> vendim-2015-1068`).
 
 ## Decisions made by hand
 

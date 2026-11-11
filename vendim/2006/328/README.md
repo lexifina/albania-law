@@ -8,7 +8,7 @@ Disa ndryshime në vendimin nr.511, datë 24.10.2002 të Këshillit të Ministra
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-328` (tags `vendim-2006-328/<day>`; `python tools/on.py <day> vendim-2006-328`).
+Act id: `vendim-2006-328` (tags `vendim-2006-328/<day>`; `python registry/tools/on.py <day> vendim-2006-328`).
 
 ## Decisions made by hand
 

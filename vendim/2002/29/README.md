@@ -16,7 +16,7 @@ Disa shtesa dhe ndryshime në vendimin nr.190, datë 3.5.1995 të Këshillit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-29` (tags `vendim-2002-29/<day>`; `python tools/on.py <day> vendim-2002-29`).
+Act id: `vendim-2002-29` (tags `vendim-2002-29/<day>`; `python registry/tools/on.py <day> vendim-2002-29`).
 
 ## Decisions made by hand
 

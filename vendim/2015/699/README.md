@@ -15,7 +15,7 @@ Licencimin e institucionit të arsimit të lartë, privat, me statusin e kolegji
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-699` (tags `vendim-2015-699/<day>`; `python tools/on.py <day> vendim-2015-699`).
+Act id: `vendim-2015-699` (tags `vendim-2015-699/<day>`; `python registry/tools/on.py <day> vendim-2015-699`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/ko
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-664` (tags `vendim-2017-664/<day>`; `python tools/on.py <day> vendim-2017-664`).
+Act id: `vendim-2017-664` (tags `vendim-2017-664/<day>`; `python registry/tools/on.py <day> vendim-2017-664`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e kontratës për lotin 2 me objekt “Spostimi i sistemit të dializ�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-323` (tags `vendim-2020-323/<day>`; `python tools/on.py <day> vendim-2020-323`).
+Act id: `vendim-2020-323` (tags `vendim-2020-323/<day>`; `python registry/tools/on.py <day> vendim-2020-323`).
 
 ## Decisions made by hand
 

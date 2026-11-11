@@ -5,7 +5,7 @@ Mënyrën e licencimit dhe të funksionimit të agjencive private të punësimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-708` (tags `vendim-2003-708/<day>`; `python tools/on.py <day> vendim-2003-708`).
+Act id: `vendim-2003-708` (tags `vendim-2003-708/<day>`; `python registry/tools/on.py <day> vendim-2003-708`).
 
 ## Decisions made by hand
 

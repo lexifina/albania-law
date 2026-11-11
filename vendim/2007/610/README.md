@@ -10,7 +10,15 @@ Transferimin e pasurive, troje dhe objekte, me interes vendor, në pronësi të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-610` (tags `vendim-2007-610/<day>`; `python tools/on.py <day> vendim-2007-610`).
+Act id: `vendim-2007-610` (tags `vendim-2007-610/<day>`; `python registry/tools/on.py <day> vendim-2007-610`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 211, datë 25.2.2009: Për një ndryshim në vendimin nr.610, datë 12.9.2007 të këshillit të ministrave “për transferimin e pasurive, troje dhe objekte, me interes vendor, në pronësi të bashkisë së tiranës”](https://qbz.gov.al/eli/vendim/2009/02/25/211)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së bashkëpunimit ndërmjet këshillit të ministra
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-4` (tags `ligj-2016-4/<day>`; `python tools/on.py <day> ligj-2016-4`).
+Act id: `ligj-2016-4` (tags `ligj-2016-4/<day>`; `python registry/tools/on.py <day> ligj-2016-4`).
 
 ## Decisions made by hand
 

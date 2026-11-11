@@ -10,7 +10,7 @@ Miratimin e kushteve dhe të procedurave për ndërtimin e linjave direkte · 1 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-52` (tags `vendim-2017-52/<day>`; `python tools/on.py <day> vendim-2017-52`).
+Act id: `vendim-2017-52` (tags `vendim-2017-52/<day>`; `python registry/tools/on.py <day> vendim-2017-52`).
 
 ## Decisions made by hand
 

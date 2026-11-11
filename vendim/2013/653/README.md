@@ -15,7 +15,7 @@ Autorizimin e shoqërisë “V.A.L.E. Recycling” sh.p.k., për importin e mbet
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-653` (tags `vendim-2013-653/<day>`; `python tools/on.py <day> vendim-2013-653`).
+Act id: `vendim-2013-653` (tags `vendim-2013-653/<day>`; `python registry/tools/on.py <day> vendim-2013-653`).
 
 ## Decisions made by hand
 

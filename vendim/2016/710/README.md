@@ -10,7 +10,7 @@ Miratimin e rregullores “për kërkesat dhe kriteret për ushtrimin e veprimta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-04-23 |
 
-Act id: `vendim-2016-710` (tags `vendim-2016-710/<day>`; `python tools/on.py <day> vendim-2016-710`).
+Act id: `vendim-2016-710` (tags `vendim-2016-710/<day>`; `python registry/tools/on.py <day> vendim-2016-710`).
 
 ## Decisions made by hand
 

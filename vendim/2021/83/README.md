@@ -12,7 +12,7 @@ Miratimin e rregullave teknike të projektimit e të ndërtimit për furnizimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-83` (tags `vendim-2021-83/<day>`; `python tools/on.py <day> vendim-2021-83`).
+Act id: `vendim-2021-83` (tags `vendim-2021-83/<day>`; `python registry/tools/on.py <day> vendim-2021-83`).
 
 ## Decisions made by hand
 

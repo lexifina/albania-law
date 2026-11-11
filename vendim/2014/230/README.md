@@ -5,7 +5,7 @@ Përbërjen dhe mënyrën e organizimit dhe të funksionimit të sekretariatit t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-230` (tags `vendim-2014-230/<day>`; `python tools/on.py <day> vendim-2014-230`).
+Act id: `vendim-2014-230` (tags `vendim-2014-230/<day>`; `python registry/tools/on.py <day> vendim-2014-230`).
 
 ## Decisions made by hand
 

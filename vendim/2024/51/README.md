@@ -22,7 +22,7 @@ Mënyrën e organizimit dhe të funksionimit të Agjencisë së Inteligjencës F
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-51` (tags `vendim-2024-51/<day>`; `python tools/on.py <day> vendim-2024-51`).
+Act id: `vendim-2024-51` (tags `vendim-2024-51/<day>`; `python registry/tools/on.py <day> vendim-2024-51`).
 
 ## Decisions made by hand
 

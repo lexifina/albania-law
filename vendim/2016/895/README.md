@@ -18,7 +18,7 @@ Kriteret e ecurisë dhe fitimit të gradave, njësimin e funksioneve korrespondu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-895` (tags `vendim-2016-895/<day>`; `python tools/on.py <day> vendim-2016-895`).
+Act id: `vendim-2016-895` (tags `vendim-2016-895/<day>`; `python registry/tools/on.py <day> vendim-2016-895`).
 
 ## Decisions made by hand
 

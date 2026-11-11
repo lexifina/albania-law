@@ -11,7 +11,7 @@ Kalimin, në përgjegjësi administrimi të Ministrisë së Drejtësisë, të pa
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-334` (tags `vendim-2015-334/<day>`; `python tools/on.py <day> vendim-2015-334`).
+Act id: `vendim-2015-334` (tags `vendim-2015-334/<day>`; `python registry/tools/on.py <day> vendim-2015-334`).
 
 ## Decisions made by hand
 

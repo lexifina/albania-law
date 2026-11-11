@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e agjencisë për dialog dhe bashkëqever
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-638` (tags `vendim-2017-638/<day>`; `python tools/on.py <day> vendim-2017-638`).
+Act id: `vendim-2017-638` (tags `vendim-2017-638/<day>`; `python registry/tools/on.py <day> vendim-2017-638`).
 
 ## Decisions made by hand
 

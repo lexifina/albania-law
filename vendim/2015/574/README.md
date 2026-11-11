@@ -11,7 +11,7 @@ Kriteret e tregtimit, certifikimit dhe testimit të farës së patates · 2 vers
 | Pika 3 | [pika-003.md](pika-003.md) | 1 | 2016-05-05 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-574` (tags `vendim-2015-574/<day>`; `python tools/on.py <day> vendim-2015-574`).
+Act id: `vendim-2015-574` (tags `vendim-2015-574/<day>`; `python registry/tools/on.py <day> vendim-2015-574`).
 
 ## Decisions made by hand
 

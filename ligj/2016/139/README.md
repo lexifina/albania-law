@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese nr. 1 të marrëveshjes ndërmjet qeveris
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-139` (tags `ligj-2016-139/<day>`; `python tools/on.py <day> ligj-2016-139`).
+Act id: `ligj-2016-139` (tags `ligj-2016-139/<day>`; `python registry/tools/on.py <day> ligj-2016-139`).
 
 ## Decisions made by hand
 

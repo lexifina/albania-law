@@ -48,7 +48,7 @@ Organizimin dhe funksionimin e sistemit të zhvillimit të vazhdueshëm profesio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0722-16` (tags `udhezim-2024-0722-16/<day>`; `python tools/on.py <day> udhezim-2024-0722-16`).
+Act id: `udhezim-2024-0722-16` (tags `udhezim-2024-0722-16/<day>`; `python registry/tools/on.py <day> udhezim-2024-0722-16`).
 
 ## Decisions made by hand
 

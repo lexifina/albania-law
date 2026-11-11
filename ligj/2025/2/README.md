@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në aktet dhe dokumentet e Kongresit të
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-2-2025` (tags `ligji-2-2025/<day>`; `python tools/on.py <day> ligji-2-2025`).
+Act id: `ligji-2-2025` (tags `ligji-2-2025/<day>`; `python registry/tools/on.py <day> ligji-2-2025`).
 
 ## Decisions made by hand
 

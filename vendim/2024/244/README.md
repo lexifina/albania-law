@@ -43,7 +43,7 @@ Mënyrën e organizimit të funksionimit të Këshillit Konsultativ të Qeverisj
 | Pika 35 | [pika-035.md](pika-035.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-244` (tags `vendim-2024-244/<day>`; `python tools/on.py <day> vendim-2024-244`).
+Act id: `vendim-2024-244` (tags `vendim-2024-244/<day>`; `python registry/tools/on.py <day> vendim-2024-244`).
 
 ## Decisions made by hand
 

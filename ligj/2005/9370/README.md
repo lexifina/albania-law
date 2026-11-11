@@ -11,7 +11,7 @@ Ratifikimin e instrumenteve, që ndryshojnë kushtetutën dhe konventën e bashk
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9370-2005` (tags `ligji-9370-2005/<day>`; `python tools/on.py <day> ligji-9370-2005`).
+Act id: `ligji-9370-2005` (tags `ligji-9370-2005/<day>`; `python registry/tools/on.py <day> ligji-9370-2005`).
 
 ## Decisions made by hand
 

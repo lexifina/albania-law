@@ -10,7 +10,15 @@ Një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e turizm
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-758` (tags `vendim-2012-758/<day>`; `python tools/on.py <day> vendim-2012-758`).
+Act id: `vendim-2012-758` (tags `vendim-2012-758/<day>`; `python registry/tools/on.py <day> vendim-2012-758`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 812, datë 21.11.2012: Për një shtesë dhe ndryshim në vendimin nr. 758, datë 2.11.2012 të Këshillit të Ministrave “Për një shtesë fondesh në buxhetin e vitit 2012, miratuar për Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve, për ekspozitat e Drejtorisë së Përgjithshme të Arkivave dhe ekspozitën “Veshje të trevave shqiptare”, në kuadër të 100-vjetorit të pavarësisë”](https://qbz.gov.al/eli/vendim/2012/11/21/812)
 
 ## Decisions made by hand
 

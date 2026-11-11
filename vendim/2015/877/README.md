@@ -11,7 +11,15 @@ Miratimin e rregullores “Për sigurimin e burimeve radioaktive në Republikën
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-877` (tags `vendim-2015-877/<day>`; `python tools/on.py <day> vendim-2015-877`).
+Act id: `vendim-2015-877` (tags `vendim-2015-877/<day>`; `python registry/tools/on.py <day> vendim-2015-877`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 815, datë 16.11.2016: Për miratimin e rregullores “për transportin e sigurt të materialeve radioaktive”](https://qbz.gov.al/eli/vendim/2016/11/16/815)
 
 ## Decisions made by hand
 

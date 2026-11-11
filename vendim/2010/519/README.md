@@ -5,7 +5,7 @@ Procedurat e propozimit e të miratimit dhe rregullat e administrimit të parqev
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-519` (tags `vendim-2010-519/<day>`; `python tools/on.py <day> vendim-2010-519`).
+Act id: `vendim-2010-519` (tags `vendim-2010-519/<day>`; `python registry/tools/on.py <day> vendim-2010-519`).
 
 ## Decisions made by hand
 

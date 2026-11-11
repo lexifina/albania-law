@@ -8,7 +8,7 @@ Emërimin në detyrë të drejtorit të Galerisë Kombëtare të Arteve · 1 ver
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-461` (tags `vendim-2025-461/<day>`; `python tools/on.py <day> vendim-2025-461`).
+Act id: `vendim-2025-461` (tags `vendim-2025-461/<day>`; `python registry/tools/on.py <day> vendim-2025-461`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-331` (tags `vendim-2023-331/<day>`; `python tools/on.py <day> vendim-2023-331`).
+Act id: `vendim-2023-331` (tags `vendim-2023-331/<day>`; `python registry/tools/on.py <day> vendim-2023-331`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 75, datë 7.8.2024 (Ministria e Infrastrukturës dhe Energjisë): Për disa ndryshime në vendimin nr.331 datë 31.05.2023, për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”Ndërtimi i linjës 110kV Lushnje-Fier”](https://qbz.gov.al/eli/kerkese/2024/08/07/75-17)
+- [Vendimi i Këshillit të Ministrave nr. 258, datë 7.5.2025: Për disa ndryshime dhe shtesa në vendimin nr. 331, datë 31.5.2023, të Këshillit të Ministrave,“Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i linjës 110 kV Lushnjë-Fier””](https://qbz.gov.al/eli/vendim/2025/05/07/258)
 
 ## Decisions made by hand
 

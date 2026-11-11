@@ -10,7 +10,7 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1044` (tags `vendim-2009-1044/<day>`; `python tools/on.py <day> vendim-2009-1044`).
+Act id: `vendim-2009-1044` (tags `vendim-2009-1044/<day>`; `python registry/tools/on.py <day> vendim-2009-1044`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Përcaktimin e kushteve dhe të kritereve të posaçme të licencimit, dokumente
 | Pika 12 | [pika-012.md](pika-012.md) | 1 | 2021-06-11 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-792` (tags `vendim-2020-792/<day>`; `python tools/on.py <day> vendim-2020-792`).
+Act id: `vendim-2020-792` (tags `vendim-2020-792/<day>`; `python registry/tools/on.py <day> vendim-2020-792`).
 
 ## Decisions made by hand
 

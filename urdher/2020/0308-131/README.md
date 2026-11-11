@@ -5,7 +5,7 @@ Ndalimin e eksportit të barnave dhe të pajisjeve mjekësore · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0308-131` (tags `urdher-2020-0308-131/<day>`; `python tools/on.py <day> urdher-2020-0308-131`).
+Act id: `urdher-2020-0308-131` (tags `urdher-2020-0308-131/<day>`; `python registry/tools/on.py <day> urdher-2020-0308-131`).
 
 ## Decisions made by hand
 

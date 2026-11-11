@@ -5,7 +5,7 @@ Kushtet e nxjerrjes së pullës postare shqiptare · 2 versions, from 2000-08-24
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-405` (tags `vendim-2000-405/<day>`; `python tools/on.py <day> vendim-2000-405`).
+Act id: `vendim-2000-405` (tags `vendim-2000-405/<day>`; `python registry/tools/on.py <day> vendim-2000-405`).
 
 ## Decisions made by hand
 

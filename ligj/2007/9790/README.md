@@ -34,7 +34,7 @@ Masat mbrojtëse në importe · 1 versions, from 2007-08-21 (latest in force: 20
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9790` (tags `ligj-2007-9790/<day>`; `python tools/on.py <day> ligj-2007-9790`).
+Act id: `ligj-2007-9790` (tags `ligj-2007-9790/<day>`; `python registry/tools/on.py <day> ligj-2007-9790`).
 
 ## Decisions made by hand
 

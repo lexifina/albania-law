@@ -32,7 +32,7 @@ Rregullat shtesë specifike për etiketimin e produkteve të verës · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0814-806` (tags `urdher-2025-0814-806/<day>`; `python tools/on.py <day> urdher-2025-0814-806`).
+Act id: `urdher-2025-0814-806` (tags `urdher-2025-0814-806/<day>`; `python registry/tools/on.py <day> urdher-2025-0814-806`).
 
 ## Decisions made by hand
 

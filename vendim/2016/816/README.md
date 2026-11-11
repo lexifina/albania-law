@@ -5,7 +5,7 @@ Strukturën, kriteret e përzgjedhjes dhe marrëdhëniet e punës së punonjësv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-816` (tags `vendim-2016-816/<day>`; `python tools/on.py <day> vendim-2016-816`).
+Act id: `vendim-2016-816` (tags `vendim-2016-816/<day>`; `python registry/tools/on.py <day> vendim-2016-816`).
 
 ## Decisions made by hand
 

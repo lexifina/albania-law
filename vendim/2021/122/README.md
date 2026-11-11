@@ -5,7 +5,7 @@ Miratimin e kategorisë së ndërtesave, që përjashtohen nga ligji nr. 116/201
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-122` (tags `vendim-2021-122/<day>`; `python tools/on.py <day> vendim-2021-122`).
+Act id: `vendim-2021-122` (tags `vendim-2021-122/<day>`; `python registry/tools/on.py <day> vendim-2021-122`).
 
 ## Decisions made by hand
 

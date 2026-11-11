@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes kuadër të huasë ndërmjet republikës së shqi
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9821` (tags `ligj-2007-9821/<day>`; `python tools/on.py <day> ligj-2007-9821`).
+Act id: `ligj-2007-9821` (tags `ligj-2007-9821/<day>`; `python registry/tools/on.py <day> ligj-2007-9821`).
 
 ## Decisions made by hand
 

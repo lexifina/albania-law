@@ -10,7 +10,7 @@ Miratimin e rregullores së teknikës së sigurimit për përdorimin civil të l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-533` (tags `vendim-2005-533/<day>`; `python tools/on.py <day> vendim-2005-533`).
+Act id: `vendim-2005-533` (tags `vendim-2005-533/<day>`; `python registry/tools/on.py <day> vendim-2005-533`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e Programit të Transparencës të Rishikuar · 3 versions, from 2020-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-1218-187` (tags `urdher-2020-1218-187/<day>`; `python tools/on.py <day> urdher-2020-1218-187`).
+Act id: `urdher-2020-1218-187` (tags `urdher-2020-1218-187/<day>`; `python registry/tools/on.py <day> urdher-2020-1218-187`).
 
 ## Decisions made by hand
 

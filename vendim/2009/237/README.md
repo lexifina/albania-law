@@ -14,7 +14,7 @@ Përcaktimin e kritereve për hapjen dhe mbylljen e spitaleve · 2 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-12-13 |
 
-Act id: `vendim-2009-237` (tags `vendim-2009-237/<day>`; `python tools/on.py <day> vendim-2009-237`).
+Act id: `vendim-2009-237` (tags `vendim-2009-237/<day>`; `python registry/tools/on.py <day> vendim-2009-237`).
 
 ## Decisions made by hand
 

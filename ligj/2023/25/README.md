@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2023-25` (tags `ligj-2023-25/<day>`; `python tools/on.py <day> ligj-2023-25`).
+Act id: `ligj-2023-25` (tags `ligj-2023-25/<day>`; `python registry/tools/on.py <day> ligj-2023-25`).
 
 ## Decisions made by hand
 

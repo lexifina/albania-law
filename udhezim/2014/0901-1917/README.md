@@ -18,7 +18,7 @@ Përcaktimin e tarifës së shërbimit për kalimin me avion të kufirit të rep
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-04-12 |
 
-Act id: `udhezim-2014-0901-1917` (tags `udhezim-2014-0901-1917/<day>`; `python tools/on.py <day> udhezim-2014-0901-1917`).
+Act id: `udhezim-2014-0901-1917` (tags `udhezim-2014-0901-1917/<day>`; `python registry/tools/on.py <day> udhezim-2014-0901-1917`).
 
 ## Decisions made by hand
 

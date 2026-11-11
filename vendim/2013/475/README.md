@@ -5,7 +5,7 @@ Inspektoratin Shtetëror të Mbikëqyrjes së Tregut · 2 versions, from 2013-06
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-475` (tags `vendim-2013-475/<day>`; `python tools/on.py <day> vendim-2013-475`).
+Act id: `vendim-2013-475` (tags `vendim-2013-475/<day>`; `python registry/tools/on.py <day> vendim-2013-475`).
 
 ## Decisions made by hand
 

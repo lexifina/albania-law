@@ -9,7 +9,7 @@ Miratimin e tekstit të amendimit të katërt në marrëveshjen për prodhimin d
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2022-13` (tags `aktnormativ-2022-13/<day>`; `python tools/on.py <day> aktnormativ-2022-13`).
+Act id: `aktnormativ-2022-13` (tags `aktnormativ-2022-13/<day>`; `python registry/tools/on.py <day> aktnormativ-2022-13`).
 
 ## Decisions made by hand
 

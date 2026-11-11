@@ -11,7 +11,7 @@ Miratimin e rregullores për mënyrën e organizimit, funksionimit dhe përbërj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2017-0106-101` (tags `urdher-2017-0106-101/<day>`; `python tools/on.py <day> urdher-2017-0106-101`).
+Act id: `urdher-2017-0106-101` (tags `urdher-2017-0106-101/<day>`; `python registry/tools/on.py <day> urdher-2017-0106-101`).
 
 ## Decisions made by hand
 

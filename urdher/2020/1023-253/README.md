@@ -11,7 +11,7 @@ Shpalljen e ndryshimeve të Standardit Ndërkombëtar të Kontabilitetit nr. 1 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1023-253` (tags `urdher-2020-1023-253/<day>`; `python tools/on.py <day> urdher-2020-1023-253`).
+Act id: `urdher-2020-1023-253` (tags `urdher-2020-1023-253/<day>`; `python registry/tools/on.py <day> urdher-2020-1023-253`).
 
 ## Decisions made by hand
 

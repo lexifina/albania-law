@@ -5,7 +5,7 @@ Mbi bashkëpunimin ndërinstitucional ndërmjet autoriteteve përgjegjëse të M
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2023-0111-3` (tags `udhezim-2023-0111-3/<day>`; `python tools/on.py <day> udhezim-2023-0111-3`).
+Act id: `udhezim-2023-0111-3` (tags `udhezim-2023-0111-3/<day>`; `python registry/tools/on.py <day> udhezim-2023-0111-3`).
 
 ## Decisions made by hand
 

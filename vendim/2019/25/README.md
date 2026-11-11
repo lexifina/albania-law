@@ -9,7 +9,7 @@ Një shtesë fondi në buxhetin e vitit 2019, miratuar për Ministrinë e Turizm
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-25` (tags `vendim-2019-25/<day>`; `python tools/on.py <day> vendim-2019-25`).
+Act id: `vendim-2019-25` (tags `vendim-2019-25/<day>`; `python registry/tools/on.py <day> vendim-2019-25`).
 
 ## Decisions made by hand
 

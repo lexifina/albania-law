@@ -27,7 +27,7 @@ Mbi zbatimin e vendimit të këshillit të ministrave nr.873, datë 27.12.2006 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0201-203` (tags `udhezim-2007-0201-203/<day>`; `python tools/on.py <day> udhezim-2007-0201-203`).
+Act id: `udhezim-2007-0201-203` (tags `udhezim-2007-0201-203/<day>`; `python registry/tools/on.py <day> udhezim-2007-0201-203`).
 
 ## Decisions made by hand
 

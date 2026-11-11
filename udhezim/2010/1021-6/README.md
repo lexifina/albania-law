@@ -15,7 +15,15 @@ Zbatimin e ligjit nr.10289, datë 17.6.2010 “për mënyrën e trajtimit ekonom
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1021-6` (tags `udhezim-2010-1021-6/<day>`; `python tools/on.py <day> udhezim-2010-1021-6`).
+Act id: `udhezim-2010-1021-6` (tags `udhezim-2010-1021-6/<day>`; `python registry/tools/on.py <day> udhezim-2010-1021-6`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 7, datë 10.11.2010 (Kryeministri) [QBZ 59051]: Për disa ndryshime në udhëzimin nr.6, datë 21.10.2010 të Këshillit të Ministrave “Për zbatimin e ligjit nr.10 289, datë 17.6.2010 “Për mënyrën e trajtimit ekonomik e financiar dhe për dhënie ndihme të menjëhershme familjeve të punonjësve të policisë së shtetit, të gardës së republikës, të shërbimit të kontrollit të brendshëm, të policisë së mbrojtjes nga zjarri dhe tË shpËtimit, tË forcave tË armatosura, tË shËrbimit informativ tË shtetit dhe tË policisË sË burgjeve, që humbin jetën në krye apo për shkak të detyrës””](https://qbz.gov.al/eli/udhezim/2010/11/10/7)
 
 ## Decisions made by hand
 

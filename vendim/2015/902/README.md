@@ -9,7 +9,7 @@ Miratimin e Raportit Kombëtar, për zbatimin e Konventës Ndërkombëtare të O
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-902` (tags `vendim-2015-902/<day>`; `python tools/on.py <day> vendim-2015-902`).
+Act id: `vendim-2015-902` (tags `vendim-2015-902/<day>`; `python registry/tools/on.py <day> vendim-2015-902`).
 
 ## Decisions made by hand
 

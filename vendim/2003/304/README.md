@@ -5,7 +5,7 @@ Mbulimin e shpenzimeve të udhëtimeve dhe për dietat për punonjësit e minist
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-304` (tags `vendim-2003-304/<day>`; `python tools/on.py <day> vendim-2003-304`).
+Act id: `vendim-2003-304` (tags `vendim-2003-304/<day>`; `python registry/tools/on.py <day> vendim-2003-304`).
 
 ## Decisions made by hand
 

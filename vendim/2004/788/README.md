@@ -9,7 +9,15 @@ Përcaktimin e tarifës dhe të peshës së shërbimeve të rezervuara për oper
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-788` (tags `vendim-2004-788/<day>`; `python tools/on.py <day> vendim-2004-788`).
+Act id: `vendim-2004-788` (tags `vendim-2004-788/<day>`; `python registry/tools/on.py <day> vendim-2004-788`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 711, datë 21.8.2013: Për një ndryshim në vendimin nr. 788, datë 26.11.2004 të Këshillit të Ministrave “Për përcaktimin e tarifës dhe të peshës së shërbimeve të rezervuara për operatorin publik postar”](https://qbz.gov.al/eli/vendim/2013/08/21/711)
 
 ## Decisions made by hand
 

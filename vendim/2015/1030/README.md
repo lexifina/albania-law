@@ -28,7 +28,15 @@ Organizimin dhe formën e pjesëmarrjes së shtetit në investimet strategjike d
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1030` (tags `vendim-2015-1030/<day>`; `python tools/on.py <day> vendim-2015-1030`).
+Act id: `vendim-2015-1030` (tags `vendim-2015-1030/<day>`; `python registry/tools/on.py <day> vendim-2015-1030`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 433, datë 19.7.2023: Për transferimin në fondin e pasurive të paluajtshme për mbështetjen e investimeve strategjike për vënien në dispozicion të investitorit strategjik të pronës së paluajtshme shtetërore, në zonën kadastrale nr.8561, Bashkia Korçë, për zhvillimin dhe realizimin e projektit investues strategjik “Green House Korça Resort”](https://qbz.gov.al/eli/vendim/2023/07/19/433)
 
 ## Decisions made by hand
 

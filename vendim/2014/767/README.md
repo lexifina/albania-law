@@ -5,7 +5,7 @@ Shpalljen “qendër historike” të një zone në qytetin-muze të beratit dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-767` (tags `vendim-2014-767/<day>`; `python tools/on.py <day> vendim-2014-767`).
+Act id: `vendim-2014-767` (tags `vendim-2014-767/<day>`; `python registry/tools/on.py <day> vendim-2014-767`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Trajtimin e bimëve, lëndëve narkotike apo psikotrope dhe prekursorëve kimik�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0515-2487` (tags `udhezim-2017-0515-2487/<day>`; `python tools/on.py <day> udhezim-2017-0515-2487`).
+Act id: `udhezim-2017-0515-2487` (tags `udhezim-2017-0515-2487/<day>`; `python registry/tools/on.py <day> udhezim-2017-0515-2487`).
 
 ## Decisions made by hand
 

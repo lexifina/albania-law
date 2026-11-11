@@ -9,7 +9,18 @@ Miratimin e listës së inventarit të pronave tË paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-120` (tags `vendim-2004-120/<day>`; `python tools/on.py <day> vendim-2004-120`).
+Act id: `vendim-2004-120` (tags `vendim-2004-120/<day>`; `python registry/tools/on.py <day> vendim-2004-120`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 434, datë 6.3.2013: Për transferimin e pasurive, troje dhe objekte, me interes vendor, në pronësi të Bashkisë së Tiranës, dhe për një ndryshim në vendimin nr. 120, datë 4.3.2004 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Transportit dhe Telekomunikacionit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/03/06/434)
+- [Vendimi i Këshillit të Ministrave nr. 714, datë 20.10.2011: Për kalimin e përgjegjësisë së administrimit, nga ministria e punëve publike dhe transportit te ministria e drejtësisë, të sipërfaqes 46 266 m², në zonën kadastrale nr.8340, me numër pasurie 8/76, dhe për një ndryshim në vendimin nr.120, datë 4.3.2004 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së transportit dhe telekomunikacionit”](https://qbz.gov.al/eli/vendim/2011/11/20/714)
+- [Vendimi i Këshillit të Ministrave nr. 47, datë 27.1.2021: Për kalimin në përgjegjësi administrimi, nga Ministria e Drejtësisë te Ministria e Turizmit dhe Mjedisit, të një pjese të pronës së paluajtshme me sipërfaqe prej 19 000 m2, nga trualli funksional i pronës ndodhur në zonën kadastrale 8340, me numër pasurie 8/76, me sipërfaqe prej 46 266 m2, me emërtimin “Stacion hekurudhor”, Tiranë, si dhe për një ndryshim në vendimin nr. 714, datë 20.10.2011, të Këshillit të Ministrave, “Për kalimin e përgjegjësisë së administrimit, nga Ministria e Punëve Publike dhe Transportit te Ministria e Drejtësisë, të sipërfaqes 46 266 m², në zonën kadastrale nr. 8340, me numër pasurie 8/76, dhe për një ndryshim në vendimin nr. 120, datë 4.3.2004, të Këshillit të Ministrave, ’Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Transportit dhe Telekomunikacionit’](https://qbz.gov.al/eli/vendim/2021/01/27/47)
+- [Vendimi i Këshillit të Ministrave nr. 660, datë 2.9.2026: Për transferimin te Korporata e Investimeve Shqiptare të një pjese të pasurisë nr.8/738, zona kadastrale 8340, për realizimin e projektit të investimit “Kompleksi Governativ, Bulevardi i Ri, Tiranë”, si dhe për një ndryshim në vendimin nr. 434, datë 6.3.2013, të Këshillit të Ministrave, “Për transferimin e pasurive, troje dhe objekte, me interes vendor, në pronësi të Bashkisë së Tiranës, dhe për një ndryshim në vendimin nr.120, datë 4.3.2004, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Transportit dhe Telekomunikacionit”, të ndryshuar”](https://qbz.gov.al/eli/vendim/2026/09/02/660)
 
 ## Decisions made by hand
 

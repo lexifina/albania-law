@@ -13,7 +13,7 @@ Përcaktimin e rregullave të hollësishme, kritereve specifike shtesë dhe proc
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-1209-3` (tags `udhezim-2025-1209-3/<day>`; `python tools/on.py <day> udhezim-2025-1209-3`).
+Act id: `udhezim-2025-1209-3` (tags `udhezim-2025-1209-3/<day>`; `python registry/tools/on.py <day> udhezim-2025-1209-3`).
 
 ## Decisions made by hand
 

@@ -36,7 +36,7 @@ Riorganizimin e agjencisë kombëtare të shoqërisë së informacionit · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-673` (tags `vendim-2017-673/<day>`; `python tools/on.py <day> vendim-2017-673`).
+Act id: `vendim-2017-673` (tags `vendim-2017-673/<day>`; `python registry/tools/on.py <day> vendim-2017-673`).
 
 ## Decisions made by hand
 

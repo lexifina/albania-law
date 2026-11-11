@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-131` (tags `vendim-2008-131/<day>`; `python tools/on.py <day> vendim-2008-131`).
+Act id: `vendim-2008-131` (tags `vendim-2008-131/<day>`; `python registry/tools/on.py <day> vendim-2008-131`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 370, datë 30.5.2012: Për një ndryshim në vendimin nr. 90, datë 31.1.2007 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme publike në territorin administrativ të komunës shezë, të qarkut elbasan”, dhe për një ndryshim në vendimin nr. 131, datë 3.2.2008 të këshillit të ministrave “për miratimin e listës së pyjeve dhe kullotave që transferohen në përdorim të komunës shezë, të qarkut elbasan”](https://qbz.gov.al/eli/vendim/2012/05/30/370)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kalimin e disa mjediseve në përgjegjësi administrimi të Ministrisë së Pun�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-568` (tags `vendim-2006-568/<day>`; `python tools/on.py <day> vendim-2006-568`).
+Act id: `vendim-2006-568` (tags `vendim-2006-568/<day>`; `python registry/tools/on.py <day> vendim-2006-568`).
 
 ## Decisions made by hand
 

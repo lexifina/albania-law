@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe procedurave për dhënien e medaljes së artë · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0802-21` (tags `udhezim-2013-0802-21/<day>`; `python tools/on.py <day> udhezim-2013-0802-21`).
+Act id: `udhezim-2013-0802-21` (tags `udhezim-2013-0802-21/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-21`).
 
 ## Decisions made by hand
 

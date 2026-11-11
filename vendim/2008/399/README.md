@@ -5,7 +5,7 @@ Miratimin e masës së shpërblimit të anëtarëve të rregullt dhe të anëtar
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-399` (tags `vendim-2008-399/<day>`; `python tools/on.py <day> vendim-2008-399`).
+Act id: `vendim-2008-399` (tags `vendim-2008-399/<day>`; `python registry/tools/on.py <day> vendim-2008-399`).
 
 ## Decisions made by hand
 

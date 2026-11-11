@@ -22,7 +22,7 @@ Miratimin e rregullave të detajuara për të dhënat parësore dhe dytësore, q
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-874` (tags `vendim-2022-874/<day>`; `python tools/on.py <day> vendim-2022-874`).
+Act id: `vendim-2022-874` (tags `vendim-2022-874/<day>`; `python registry/tools/on.py <day> vendim-2022-874`).
 
 ## Decisions made by hand
 

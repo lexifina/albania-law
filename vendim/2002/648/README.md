@@ -10,7 +10,7 @@ Ndalimin e përkohshëm të prerjes së lëndëve drusore, me përjashtim të as
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-648` (tags `vendim-2002-648/<day>`; `python tools/on.py <day> vendim-2002-648`).
+Act id: `vendim-2002-648` (tags `vendim-2002-648/<day>`; `python registry/tools/on.py <day> vendim-2002-648`).
 
 ## Decisions made by hand
 

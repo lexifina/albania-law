@@ -5,7 +5,7 @@ PËR KRITERET E VLERËSIMIT TË PRONËS SHTETËRORE QË PRIVATIZOHET, SI DHE Pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-159` (tags `vendim-2003-159/<day>`; `python tools/on.py <day> vendim-2003-159`).
+Act id: `vendim-2003-159` (tags `vendim-2003-159/<day>`; `python registry/tools/on.py <day> vendim-2003-159`).
 
 ## Decisions made by hand
 

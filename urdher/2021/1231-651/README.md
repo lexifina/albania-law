@@ -10,7 +10,7 @@ Miratimin e formateve të protokoll kontrolleve që kryhen nga veterineri zyrtar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-02-26 |
 
-Act id: `urdher-2021-1231-651` (tags `urdher-2021-1231-651/<day>`; `python tools/on.py <day> urdher-2021-1231-651`).
+Act id: `urdher-2021-1231-651` (tags `urdher-2021-1231-651/<day>`; `python registry/tools/on.py <day> urdher-2021-1231-651`).
 
 ## Decisions made by hand
 

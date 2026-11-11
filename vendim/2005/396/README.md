@@ -12,7 +12,7 @@ Miratimin e kufijve dhe të rregullores së administrimit të parqeve arkeologji
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 5 | 2026-07-02 |
 
-Act id: `vendim-2005-396` (tags `vendim-2005-396/<day>`; `python tools/on.py <day> vendim-2005-396`).
+Act id: `vendim-2005-396` (tags `vendim-2005-396/<day>`; `python registry/tools/on.py <day> vendim-2005-396`).
 
 ## Decisions made by hand
 

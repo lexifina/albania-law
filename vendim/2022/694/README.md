@@ -5,7 +5,7 @@ Ndryshimin e statusit dhe të sipërfaqes së ekosistemit natyror/ligatinor ”P
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-694` (tags `vendim-2022-694/<day>`; `python tools/on.py <day> vendim-2022-694`).
+Act id: `vendim-2022-694` (tags `vendim-2022-694/<day>`; `python registry/tools/on.py <day> vendim-2022-694`).
 
 ## Decisions made by hand
 

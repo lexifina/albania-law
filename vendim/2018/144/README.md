@@ -5,7 +5,7 @@ Krijimin e bazës së të dhënave shtetërore “regjistri elektronik i subjekt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-144` (tags `vendim-2018-144/<day>`; `python tools/on.py <day> vendim-2018-144`).
+Act id: `vendim-2018-144` (tags `vendim-2018-144/<day>`; `python registry/tools/on.py <day> vendim-2018-144`).
 
 ## Decisions made by hand
 

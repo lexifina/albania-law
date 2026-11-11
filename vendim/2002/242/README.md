@@ -14,7 +14,7 @@ Krijimin e zyrave rajonale të turizmit · 1 versions, from 2002-06-18 (latest i
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-242` (tags `vendim-2002-242/<day>`; `python tools/on.py <day> vendim-2002-242`).
+Act id: `vendim-2002-242` (tags `vendim-2002-242/<day>`; `python registry/tools/on.py <day> vendim-2002-242`).
 
 ## Decisions made by hand
 

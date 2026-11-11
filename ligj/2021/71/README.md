@@ -8,7 +8,7 @@ Miratimin e aktit normativ me fuqinë e ligjit nr.20, datë 5.5.2021 të Këshil
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-71` (tags `ligj-2021-71/<day>`; `python tools/on.py <day> ligj-2021-71`).
+Act id: `ligj-2021-71` (tags `ligj-2021-71/<day>`; `python registry/tools/on.py <day> ligj-2021-71`).
 
 ## Decisions made by hand
 

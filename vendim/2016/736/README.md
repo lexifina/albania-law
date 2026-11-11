@@ -5,7 +5,7 @@ Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-736` (tags `vendim-2016-736/<day>`; `python tools/on.py <day> vendim-2016-736`).
+Act id: `vendim-2016-736` (tags `vendim-2016-736/<day>`; `python registry/tools/on.py <day> vendim-2016-736`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Shpronësimin për interes publik të pasurive të paluajtshme, që preken nga n
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-565` (tags `vendim-2003-565/<day>`; `python tools/on.py <day> vendim-2003-565`).
+Act id: `vendim-2003-565` (tags `vendim-2003-565/<day>`; `python registry/tools/on.py <day> vendim-2003-565`).
 
 ## Decisions made by hand
 

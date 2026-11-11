@@ -9,7 +9,7 @@ Lejimin e ministrisë së shëndetësisë të përdorë procedurën “prokurim 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-143` (tags `vendim-2005-143/<day>`; `python tools/on.py <day> vendim-2005-143`).
+Act id: `vendim-2005-143` (tags `vendim-2005-143/<day>`; `python registry/tools/on.py <day> vendim-2005-143`).
 
 ## Decisions made by hand
 

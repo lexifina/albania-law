@@ -5,7 +5,7 @@ Nivelin maksimal të mbetjeve të pesticideve në banane, domate, grurë, kastra
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0514-5` (tags `udhezim-2014-0514-5/<day>`; `python tools/on.py <day> udhezim-2014-0514-5`).
+Act id: `udhezim-2014-0514-5` (tags `udhezim-2014-0514-5/<day>`; `python registry/tools/on.py <day> udhezim-2014-0514-5`).
 
 ## Decisions made by hand
 

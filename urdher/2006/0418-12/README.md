@@ -5,7 +5,7 @@ Miratimin e primit të pastër të sigurimit të detyrueshëm të mbajtësve të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2006-0418-12` (tags `urdher-2006-0418-12/<day>`; `python tools/on.py <day> urdher-2006-0418-12`).
+Act id: `urdher-2006-0418-12` (tags `urdher-2006-0418-12/<day>`; `python registry/tools/on.py <day> urdher-2006-0418-12`).
 
 ## Decisions made by hand
 

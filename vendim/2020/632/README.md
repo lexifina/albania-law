@@ -22,7 +22,7 @@ Krijimin, organizimin dhe funksionimin e Drejtorisë së Përgjithshme të Shër
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-632` (tags `vendim-2020-632/<day>`; `python tools/on.py <day> vendim-2020-632`).
+Act id: `vendim-2020-632` (tags `vendim-2020-632/<day>`; `python registry/tools/on.py <day> vendim-2020-632`).
 
 ## Decisions made by hand
 

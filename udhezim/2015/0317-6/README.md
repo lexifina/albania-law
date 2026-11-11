@@ -9,7 +9,7 @@ Një ndryshim në udhëzimin nr. 6, datë 30.1.2015 “Për tatimin mbi vlerën 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0317-6` (tags `udhezim-2015-0317-6/<day>`; `python tools/on.py <day> udhezim-2015-0317-6`).
+Act id: `udhezim-2015-0317-6` (tags `udhezim-2015-0317-6/<day>`; `python registry/tools/on.py <day> udhezim-2015-0317-6`).
 
 ## Decisions made by hand
 

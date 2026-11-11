@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndryshuese nr. 1 të marrëveshjes së grantit, për P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-445` (tags `vendim-2026-445/<day>`; `python tools/on.py <day> vendim-2026-445`).
+Act id: `vendim-2026-445` (tags `vendim-2026-445/<day>`; `python registry/tools/on.py <day> vendim-2026-445`).
 
 ## Decisions made by hand
 

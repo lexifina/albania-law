@@ -5,7 +5,7 @@ Sigurimin shëndetësor të veçantë të punonjësve të strukturave speciale o
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2014-31` (tags `ligj-2014-31/<day>`; `python tools/on.py <day> ligj-2014-31`).
+Act id: `ligj-2014-31` (tags `ligj-2014-31/<day>`; `python registry/tools/on.py <day> ligj-2014-31`).
 
 ## Decisions made by hand
 

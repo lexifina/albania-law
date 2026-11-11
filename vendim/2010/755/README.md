@@ -16,7 +16,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-755` (tags `vendim-2010-755/<day>`; `python tools/on.py <day> vendim-2010-755`).
+Act id: `vendim-2010-755` (tags `vendim-2010-755/<day>`; `python registry/tools/on.py <day> vendim-2010-755`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 217, datë 28.3.2012: Për një ndryshim në vendimin nr. 755, datë 15.9.2010 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës së tensionit të lartë 400 kv tiranë - podgoricë, qarku lezhë”](https://qbz.gov.al/eli/vendim/2012/03/28/217)
+- [Vendimi i Këshillit të Ministrave nr. 103, datë 9.2.2011: Për disa ndryshime në vendimin nr.755, datë 15.9.2010 të KËSHILLIT të ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv, tiranë-podgoricë, qarku Lezhë”](https://qbz.gov.al/eli/vendim/2011/02/09/103)
 
 ## Decisions made by hand
 

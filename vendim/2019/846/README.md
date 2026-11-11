@@ -5,7 +5,7 @@ Miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-846` (tags `vendim-2019-846/<day>`; `python tools/on.py <day> vendim-2019-846`).
+Act id: `vendim-2019-846` (tags `vendim-2019-846/<day>`; `python registry/tools/on.py <day> vendim-2019-846`).
 
 ## Decisions made by hand
 

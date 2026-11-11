@@ -8,7 +8,7 @@ Dhënie shtesë pensioni të posaçëm shtetëror znj. drita haxhiraj · 1 versi
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-165` (tags `vendim-2011-165/<day>`; `python tools/on.py <day> vendim-2011-165`).
+Act id: `vendim-2011-165` (tags `vendim-2011-165/<day>`; `python registry/tools/on.py <day> vendim-2011-165`).
 
 ## Decisions made by hand
 

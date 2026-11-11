@@ -11,7 +11,7 @@ Shpalljen e disa ndryshimeve të standardit ndërkombëtar të raportimit financ
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0722-180` (tags `urdher-2020-0722-180/<day>`; `python tools/on.py <day> urdher-2020-0722-180`).
+Act id: `urdher-2020-0722-180` (tags `urdher-2020-0722-180/<day>`; `python registry/tools/on.py <day> urdher-2020-0722-180`).
 
 ## Decisions made by hand
 

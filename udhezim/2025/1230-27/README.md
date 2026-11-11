@@ -30,7 +30,7 @@ Organizimin dhe zhvillimin e provimeve të Maturës Shtetërore dhe të Maturës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-1230-27` (tags `udhezim-2025-1230-27/<day>`; `python tools/on.py <day> udhezim-2025-1230-27`).
+Act id: `udhezim-2025-1230-27` (tags `udhezim-2025-1230-27/<day>`; `python registry/tools/on.py <day> udhezim-2025-1230-27`).
 
 ## Decisions made by hand
 

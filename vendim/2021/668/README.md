@@ -5,7 +5,7 @@ Miratimin e listës së mallrave ushtarake dhe të listës të artikujve e tekno
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-668` (tags `vendim-2021-668/<day>`; `python tools/on.py <day> vendim-2021-668`).
+Act id: `vendim-2021-668` (tags `vendim-2021-668/<day>`; `python registry/tools/on.py <day> vendim-2021-668`).
 
 ## Decisions made by hand
 

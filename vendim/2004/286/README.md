@@ -5,7 +5,7 @@ Ngritjen e bordit të kullimit në zonën e shërbimit të kullimit të elbasani
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-286` (tags `vendim-2004-286/<day>`; `python tools/on.py <day> vendim-2004-286`).
+Act id: `vendim-2004-286` (tags `vendim-2004-286/<day>`; `python registry/tools/on.py <day> vendim-2004-286`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kryetarit dhe emërimin e anëtarëve, përfaqësues të pushteti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-982` (tags `vendim-2013-982/<day>`; `python tools/on.py <day> vendim-2013-982`).
+Act id: `vendim-2013-982` (tags `vendim-2013-982/<day>`; `python registry/tools/on.py <day> vendim-2013-982`).
 
 ## Decisions made by hand
 

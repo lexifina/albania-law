@@ -11,7 +11,7 @@ Pёr shpalljen e disa ndryshimeve tё Standardit Ndёrkombёtar tё Kontabilitet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0703-167` (tags `urdher-2020-0703-167/<day>`; `python tools/on.py <day> urdher-2020-0703-167`).
+Act id: `urdher-2020-0703-167` (tags `urdher-2020-0703-167/<day>`; `python registry/tools/on.py <day> urdher-2020-0703-167`).
 
 ## Decisions made by hand
 

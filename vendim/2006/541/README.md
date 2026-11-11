@@ -10,7 +10,15 @@ Miratimin e modelit të pasaportave dhe përmirësimin e sistemit të lëshimit 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-541` (tags `vendim-2006-541/<day>`; `python tools/on.py <day> vendim-2006-541`).
+Act id: `vendim-2006-541` (tags `vendim-2006-541/<day>`; `python registry/tools/on.py <day> vendim-2006-541`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 427, datë 13.7.2007: Për disa ndryshime dhe shtesa në vendimin nr.541, datë 26.7.2006 të këshillit të ministrave “për miratimin e modelit të pasaportave dhe përmirësimin e sistemit të lëshimit të tyre”](https://qbz.gov.al/eli/vendim/2007/07/13/427)
 
 ## Decisions made by hand
 

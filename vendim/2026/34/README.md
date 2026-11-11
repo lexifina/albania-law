@@ -21,7 +21,7 @@ Përcaktimin e kritereve dhe të procedurave të shpërndarjes së grantit për 
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-34` (tags `vendim-2026-34/<day>`; `python tools/on.py <day> vendim-2026-34`).
+Act id: `vendim-2026-34` (tags `vendim-2026-34/<day>`; `python registry/tools/on.py <day> vendim-2026-34`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Administrimin e konvikteve të sistemit arsimor parauniversitar · 2 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2009-01-01 |
 
-Act id: `vendim-2008-502` (tags `vendim-2008-502/<day>`; `python tools/on.py <day> vendim-2008-502`).
+Act id: `vendim-2008-502` (tags `vendim-2008-502/<day>`; `python registry/tools/on.py <day> vendim-2008-502`).
 
 ## Decisions made by hand
 

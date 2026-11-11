@@ -11,7 +11,15 @@ Kalimin e disa pronave, në pronësi të bashkisë tiranë, të njësisë admini
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-285` (tags `vendim-2018-285/<day>`; `python tools/on.py <day> vendim-2018-285`).
+Act id: `vendim-2018-285` (tags `vendim-2018-285/<day>`; `python registry/tools/on.py <day> vendim-2018-285`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 718, datë 5.12.2018: Për revokimin e transferimit të së drejtës së pronësisë dhe për një ndryshim në vendimin nr. 285, datë 21.5.2018, të këshillit të ministrave, “për kalimin e disa pronave, në pronësi të bashkisë tiranë, të njësisë administrative tiranë”](https://qbz.gov.al/eli/vendim/2018/12/05/718)
 
 ## Decisions made by hand
 

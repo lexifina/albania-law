@@ -18,7 +18,7 @@ Përcaktimin e procedurës për marrjen e mostrave dhe transportin e tyre për k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0426-10` (tags `udhezim-2024-0426-10/<day>`; `python tools/on.py <day> udhezim-2024-0426-10`).
+Act id: `udhezim-2024-0426-10` (tags `udhezim-2024-0426-10/<day>`; `python registry/tools/on.py <day> udhezim-2024-0426-10`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Hapjen e shkollës pasuniversitare të administrim biznesit · 2 versions, from 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-13` (tags `vendim-2000-13/<day>`; `python tools/on.py <day> vendim-2000-13`).
+Act id: `vendim-2000-13` (tags `vendim-2000-13/<day>`; `python registry/tools/on.py <day> vendim-2000-13`).
 
 ## Decisions made by hand
 

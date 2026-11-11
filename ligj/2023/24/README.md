@@ -46,7 +46,7 @@ Nxitjen e përdorimit të energjisë nga burimet e rinovueshme · 1 versions, fr
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-24-2023` (tags `ligji-24-2023/<day>`; `python tools/on.py <day> ligji-24-2023`).
+Act id: `ligji-24-2023` (tags `ligji-24-2023/<day>`; `python registry/tools/on.py <day> ligji-24-2023`).
 
 ## Decisions made by hand
 

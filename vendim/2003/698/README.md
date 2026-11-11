@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndërmjet qeverisë së republikës të shqipërisë d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-698` (tags `vendim-2003-698/<day>`; `python tools/on.py <day> vendim-2003-698`).
+Act id: `vendim-2003-698` (tags `vendim-2003-698/<day>`; `python registry/tools/on.py <day> vendim-2003-698`).
 
 ## Decisions made by hand
 

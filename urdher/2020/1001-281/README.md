@@ -16,7 +16,7 @@ Përcaktimin e rregullave për përmbajtjen e urdhrit të inspektimit, të lësh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1001-281` (tags `urdher-2020-1001-281/<day>`; `python tools/on.py <day> urdher-2020-1001-281`).
+Act id: `urdher-2020-1001-281` (tags `urdher-2020-1001-281/<day>`; `python registry/tools/on.py <day> urdher-2020-1001-281`).
 
 ## Decisions made by hand
 

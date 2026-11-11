@@ -11,7 +11,7 @@ Dhënien e miratimit për fillimin e procedurave të privatizimit të pasurive �
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-312` (tags `vendim-2019-312/<day>`; `python tools/on.py <day> vendim-2019-312`).
+Act id: `vendim-2019-312` (tags `vendim-2019-312/<day>`; `python registry/tools/on.py <day> vendim-2019-312`).
 
 ## Decisions made by hand
 

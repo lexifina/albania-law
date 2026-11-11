@@ -10,7 +10,7 @@ Miratimin e rregullores për mënyrën e funksionimit të Komitetit të Përzgje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-280` (tags `vendim-2020-280/<day>`; `python tools/on.py <day> vendim-2020-280`).
+Act id: `vendim-2020-280` (tags `vendim-2020-280/<day>`; `python registry/tools/on.py <day> vendim-2020-280`).
 
 ## Decisions made by hand
 

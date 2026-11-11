@@ -10,7 +10,7 @@ Ratifikimin e “protokollit opsional të konventës kundër torturës dhe trajt
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9094` (tags `ligj-2003-9094/<day>`; `python tools/on.py <day> ligj-2003-9094`).
+Act id: `ligj-2003-9094` (tags `ligj-2003-9094/<day>`; `python registry/tools/on.py <day> ligj-2003-9094`).
 
 ## Decisions made by hand
 

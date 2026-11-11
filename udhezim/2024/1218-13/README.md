@@ -23,7 +23,7 @@ Procedurat e mbylljes së llogarive vjetore të buxhetit për vitin 2024 · 1 ve
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-1218-13` (tags `udhezim-2024-1218-13/<day>`; `python tools/on.py <day> udhezim-2024-1218-13`).
+Act id: `udhezim-2024-1218-13` (tags `udhezim-2024-1218-13/<day>`; `python registry/tools/on.py <day> udhezim-2024-1218-13`).
 
 ## Decisions made by hand
 

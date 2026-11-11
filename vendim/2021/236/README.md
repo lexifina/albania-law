@@ -11,7 +11,7 @@ Përdorimin e fondit të rindërtimit për financimin e rindërtimit të godinë
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-236` (tags `vendim-2021-236/<day>`; `python tools/on.py <day> vendim-2021-236`).
+Act id: `vendim-2021-236` (tags `vendim-2021-236/<day>`; `python registry/tools/on.py <day> vendim-2021-236`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e Planit Kombëtar për Integrimin Evropian 2024-2026 · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-16` (tags `vendim-2024-16/<day>`; `python tools/on.py <day> vendim-2024-16`).
+Act id: `vendim-2024-16` (tags `vendim-2024-16/<day>`; `python registry/tools/on.py <day> vendim-2024-16`).
 
 ## Decisions made by hand
 

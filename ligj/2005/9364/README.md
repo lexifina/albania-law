@@ -11,7 +11,7 @@ Ratifikimin e “konventës “për pjesëmarrjen e të huajve në jetën publik
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9364` (tags `ligj-2005-9364/<day>`; `python tools/on.py <day> ligj-2005-9364`).
+Act id: `ligj-2005-9364` (tags `ligj-2005-9364/<day>`; `python registry/tools/on.py <day> ligj-2005-9364`).
 
 ## Decisions made by hand
 

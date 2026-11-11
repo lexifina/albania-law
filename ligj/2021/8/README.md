@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 13.1.2021, “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-8` (tags `ligj-2021-8/<day>`; `python tools/on.py <day> ligj-2021-8`).
+Act id: `ligj-2021-8` (tags `ligj-2021-8/<day>`; `python registry/tools/on.py <day> ligj-2021-8`).
 
 ## Decisions made by hand
 

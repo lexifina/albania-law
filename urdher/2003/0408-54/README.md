@@ -22,7 +22,7 @@ Hartimin, miratimin dhe ndjekjen e planit të veprimit “Për menaxhimin e sezo
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2003-0408-54` (tags `urdher-2003-0408-54/<day>`; `python tools/on.py <day> urdher-2003-0408-54`).
+Act id: `urdher-2003-0408-54` (tags `urdher-2003-0408-54/<day>`; `python registry/tools/on.py <day> urdher-2003-0408-54`).
 
 ## Decisions made by hand
 

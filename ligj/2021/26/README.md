@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 5, datë 12.2.2021, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-26` (tags `ligj-2021-26/<day>`; `python tools/on.py <day> ligj-2021-26`).
+Act id: `ligj-2021-26` (tags `ligj-2021-26/<day>`; `python registry/tools/on.py <day> ligj-2021-26`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,15 @@ PËr miratimin e strategjisË kombËtare tË pronËsisË intelektuale dhe indust
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-760` (tags `vendim-2010-760/<day>`; `python tools/on.py <day> vendim-2010-760`).
+Act id: `vendim-2010-760` (tags `vendim-2010-760/<day>`; `python registry/tools/on.py <day> vendim-2010-760`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 636, datë 19.9.2012: Për një shtesë në vendimin nr. 760, datë 1.9.2010 të këshillit të ministrave “për miratimin e strategjisë kombëtare të pronësisë intelektuale dhe industriale, 2010-2015”](https://qbz.gov.al/eli/vendim/2012/09/19/636)
 
 ## Decisions made by hand
 

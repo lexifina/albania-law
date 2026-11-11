@@ -5,7 +5,7 @@ Miratimin e procedurës së tenderimit, për shitjen e paketës së aksioneve, g
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-491` (tags `vendim-2000-491/<day>`; `python tools/on.py <day> vendim-2000-491`).
+Act id: `vendim-2000-491` (tags `vendim-2000-491/<day>`; `python registry/tools/on.py <day> vendim-2000-491`).
 
 ## Decisions made by hand
 

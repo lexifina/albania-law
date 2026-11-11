@@ -172,7 +172,7 @@ Kodi Ajror i Republikës së Shqipërisë · 1 versions, from 2020-08-22 (latest
 | Neni 165 | [neni-165.md](neni-165.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-96-2020` (tags `ligji-96-2020/<day>`; `python tools/on.py <day> ligji-96-2020`).
+Act id: `ligji-96-2020` (tags `ligji-96-2020/<day>`; `python registry/tools/on.py <day> ligji-96-2020`).
 
 ## Decisions made by hand
 

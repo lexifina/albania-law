@@ -10,7 +10,15 @@ Një shtesë fondi në buxhetin e vitit 2011, miratuar për ministrinë e punës
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-909` (tags `vendim-2011-909/<day>`; `python tools/on.py <day> vendim-2011-909`).
+Act id: `vendim-2011-909` (tags `vendim-2011-909/<day>`; `python registry/tools/on.py <day> vendim-2011-909`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 911, datë 30.12.2011: Për një shtesë fondi në llogarinë speciale të shpronësimeve dhe për një ndryshim në vendimin nr.909, datë 28.12.2011 të këshIllit të ministrave “Për një shtesë fondi në buxhetin e vitit 2011, miratuar për ministrinë e punës, çështjeve sociale dhe shanseve të barabarta, për institutin e sigurimeve shoqërore”](https://qbz.gov.al/eli/vendim/2011/12/30/911)
 
 ## Decisions made by hand
 

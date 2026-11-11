@@ -26,7 +26,7 @@ Miratimin e rregullave të hollësishme për paraqitjen dhe trajtimin e shprehje
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0626-197` (tags `urdher-2020-0626-197/<day>`; `python tools/on.py <day> urdher-2020-0626-197`).
+Act id: `urdher-2020-0626-197` (tags `urdher-2020-0626-197/<day>`; `python registry/tools/on.py <day> urdher-2020-0626-197`).
 
 ## Decisions made by hand
 

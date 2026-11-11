@@ -8,7 +8,7 @@ Miratimin në parim, të marrëveshjes ndryshuese në marrëveshjen e kredisë p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-642` (tags `vendim-2012-642/<day>`; `python tools/on.py <day> vendim-2012-642`).
+Act id: `vendim-2012-642` (tags `vendim-2012-642/<day>`; `python registry/tools/on.py <day> vendim-2012-642`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Aderimin e Republikës së Shqipërisë në ndryshimet e neneve të marrëveshje
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-90` (tags `ligj-2013-90/<day>`; `python tools/on.py <day> ligj-2013-90`).
+Act id: `ligj-2013-90` (tags `ligj-2013-90/<day>`; `python registry/tools/on.py <day> ligj-2013-90`).
 
 ## Decisions made by hand
 

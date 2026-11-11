@@ -12,7 +12,7 @@ Dhënien në përdorim të përkohshëm, nga Ministria e Mbrojtjes tek Ministria
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-565` (tags `vendim-2022-565/<day>`; `python tools/on.py <day> vendim-2022-565`).
+Act id: `vendim-2022-565` (tags `vendim-2022-565/<day>`; `python registry/tools/on.py <day> vendim-2022-565`).
 
 ## Decisions made by hand
 

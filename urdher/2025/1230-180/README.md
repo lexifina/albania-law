@@ -9,7 +9,7 @@ Miratimin e programit për nxitjen dhe lehtësimin e eksporteve 2026-2030 · 1 v
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1230-180` (tags `urdher-2025-1230-180/<day>`; `python tools/on.py <day> urdher-2025-1230-180`).
+Act id: `urdher-2025-1230-180` (tags `urdher-2025-1230-180/<day>`; `python registry/tools/on.py <day> urdher-2025-1230-180`).
 
 ## Decisions made by hand
 

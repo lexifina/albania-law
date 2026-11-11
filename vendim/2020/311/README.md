@@ -16,7 +16,7 @@ Mënyrën e organizimit të akomodimit të përkohshëm të personave që riatdh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-05-06 |
 
-Act id: `vendim-2020-311` (tags `vendim-2020-311/<day>`; `python tools/on.py <day> vendim-2020-311`).
+Act id: `vendim-2020-311` (tags `vendim-2020-311/<day>`; `python registry/tools/on.py <day> vendim-2020-311`).
 
 ## Decisions made by hand
 

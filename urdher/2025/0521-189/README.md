@@ -10,7 +10,7 @@ Miratimin e formatit të raportit trevjeçar për zbatimin e ligjit nr. 162/2014
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0521-189` (tags `urdher-2025-0521-189/<day>`; `python tools/on.py <day> urdher-2025-0521-189`).
+Act id: `urdher-2025-0521-189` (tags `urdher-2025-0521-189/<day>`; `python registry/tools/on.py <day> urdher-2025-0521-189`).
 
 ## Decisions made by hand
 

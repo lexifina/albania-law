@@ -14,7 +14,7 @@ Formën, mënyrën dhe procedurën e raportimit të të dhënave nga autoritetet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-668` (tags `vendim-2025-668/<day>`; `python tools/on.py <day> vendim-2025-668`).
+Act id: `vendim-2025-668` (tags `vendim-2025-668/<day>`; `python registry/tools/on.py <day> vendim-2025-668`).
 
 ## Decisions made by hand
 

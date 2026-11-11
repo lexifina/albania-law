@@ -10,7 +10,7 @@ Shpalljen e përkthimit të ndryshimeve në ”Standardin Ndërkombëtar të Rap
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1222-160` (tags `urdher-2025-1222-160/<day>`; `python tools/on.py <day> urdher-2025-1222-160`).
+Act id: `urdher-2025-1222-160` (tags `urdher-2025-1222-160/<day>`; `python registry/tools/on.py <day> urdher-2025-1222-160`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Disa çështje në zbatim të ligjit nr.7703, datë 11.5.1993 “Për sigurimet 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-167` (tags `vendim-2006-167/<day>`; `python tools/on.py <day> vendim-2006-167`).
+Act id: `vendim-2006-167` (tags `vendim-2006-167/<day>`; `python registry/tools/on.py <day> vendim-2006-167`).
 
 ## Decisions made by hand
 

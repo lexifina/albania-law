@@ -17,7 +17,7 @@ Miratimin e procedurave të shpërndarjes së fondit të kompensimit të pronar�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1343` (tags `vendim-2008-1343/<day>`; `python tools/on.py <day> vendim-2008-1343`).
+Act id: `vendim-2008-1343` (tags `vendim-2008-1343/<day>`; `python registry/tools/on.py <day> vendim-2008-1343`).
 
 ## Decisions made by hand
 

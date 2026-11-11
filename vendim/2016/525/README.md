@@ -12,7 +12,7 @@ Financimin nga fondi shqiptar i zhvillimit të fazës përgatitore të projektit
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-525` (tags `vendim-2016-525/<day>`; `python tools/on.py <day> vendim-2016-525`).
+Act id: `vendim-2016-525` (tags `vendim-2016-525/<day>`; `python registry/tools/on.py <day> vendim-2016-525`).
 
 ## Decisions made by hand
 

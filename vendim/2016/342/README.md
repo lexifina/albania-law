@@ -5,7 +5,7 @@ Miratimin e kufijve territorialë e hidrografikë të baseneve ujore në republi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-342` (tags `vendim-2016-342/<day>`; `python tools/on.py <day> vendim-2016-342`).
+Act id: `vendim-2016-342` (tags `vendim-2016-342/<day>`; `python registry/tools/on.py <day> vendim-2016-342`).
 
 ## Decisions made by hand
 

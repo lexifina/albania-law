@@ -11,7 +11,7 @@ Vendim · 1 versions, from 2008-07-18 (latest in force: 2008-07-18) · <https://
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-880` (tags `vendim-2008-880/<day>`; `python tools/on.py <day> vendim-2008-880`).
+Act id: `vendim-2008-880` (tags `vendim-2008-880/<day>`; `python registry/tools/on.py <day> vendim-2008-880`).
 
 ## Decisions made by hand
 

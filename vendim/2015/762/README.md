@@ -10,7 +10,7 @@ Miratimin e dokumentit për përcaktimin e Kontributit Kombëtar të Pikësynuar
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-762` (tags `vendim-2015-762/<day>`; `python tools/on.py <day> vendim-2015-762`).
+Act id: `vendim-2015-762` (tags `vendim-2015-762/<day>`; `python registry/tools/on.py <day> vendim-2015-762`).
 
 ## Decisions made by hand
 

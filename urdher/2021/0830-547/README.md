@@ -10,7 +10,7 @@ Ripërtëritjen e licencës së shoqërisë ”Albautor” në administrimin kol
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0830-547` (tags `urdher-2021-0830-547/<day>`; `python tools/on.py <day> urdher-2021-0830-547`).
+Act id: `urdher-2021-0830-547` (tags `urdher-2021-0830-547/<day>`; `python registry/tools/on.py <day> urdher-2021-0830-547`).
 
 ## Decisions made by hand
 

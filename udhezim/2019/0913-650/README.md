@@ -35,7 +35,7 @@ Përcaktimin e kritereve dhe procedurave për përzgjedhjen e përfaqësuesve pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0913-650` (tags `udhezim-2019-0913-650/<day>`; `python tools/on.py <day> udhezim-2019-0913-650`).
+Act id: `udhezim-2019-0913-650` (tags `udhezim-2019-0913-650/<day>`; `python registry/tools/on.py <day> udhezim-2019-0913-650`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mbështetjen financiare të studentëve të shkëlqyer dhe të nëpunësve civil
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-483` (tags `vendim-2014-483/<day>`; `python tools/on.py <day> vendim-2014-483`).
+Act id: `vendim-2014-483` (tags `vendim-2014-483/<day>`; `python registry/tools/on.py <day> vendim-2014-483`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Kriteret, në bazë të të cilave përcaktohet kur disa tipa të metalit skrap 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-04-06 |
 
-Act id: `vendim-2013-117` (tags `vendim-2013-117/<day>`; `python tools/on.py <day> vendim-2013-117`).
+Act id: `vendim-2013-117` (tags `vendim-2013-117/<day>`; `python registry/tools/on.py <day> vendim-2013-117`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Shpalljen e gjendjes së emergjencës në furnizimin me energji elektrike · 4 v
 | Pika 6 | [pika-006.md](pika-006.md) | 1 | 2022-10-12 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-584` (tags `vendim-2021-584/<day>`; `python tools/on.py <day> vendim-2021-584`).
+Act id: `vendim-2021-584` (tags `vendim-2021-584/<day>`; `python registry/tools/on.py <day> vendim-2021-584`).
 
 ## Decisions made by hand
 

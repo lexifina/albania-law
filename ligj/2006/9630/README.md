@@ -44,7 +44,15 @@ Faktoringun · 1 versions, from 2006-12-09 (latest in force: 2006-12-09) · <htt
 | Neni 32 | [neni-032.md](neni-032.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9630` (tags `ligj-2006-9630/<day>`; `python tools/on.py <day> ligj-2006-9630`).
+Act id: `ligj-2006-9630` (tags `ligj-2006-9630/<day>`; `python registry/tools/on.py <day> ligj-2006-9630`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 10029: Për disa ndryshime në ligjin nr.9630, datë 30.10.2006 “për faktoringun](https://qbz.gov.al/eli/ligj/2008/12/11/10029)
 
 ## Decisions made by hand
 

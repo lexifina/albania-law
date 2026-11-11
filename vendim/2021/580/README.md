@@ -20,7 +20,16 @@ Shpronësimin, për interes publik, në funksion të procesit të rindërtimit p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-580` (tags `vendim-2021-580/<day>`; `python tools/on.py <day> vendim-2021-580`).
+Act id: `vendim-2021-580` (tags `vendim-2021-580/<day>`; `python registry/tools/on.py <day> vendim-2021-580`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 703, datë 6.12.2024 (Ministria e Infrastrukturës dhe Energjisë): Për disa shtesa dhe ndryshime në VKM nr.580, datë 6.10.2021 ”Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, në funksion të procesit të rindërtimit, për zonën e re për zhvillim në njësinë administrative 6, zona Kombinat, Bashkia Tiranë](https://qbz.gov.al/eli/kerkese/2024/12/06/703)
+- [Vendimi i Këshillit të Ministrave nr. 267, datë 9.5.2025: Për disa ndryshime dhe shtesa në vendimin nr. 580, datë 6.10.2021, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, në funksion të procesit të rindërtimit për zhvillimin e zonës së re, në përputhje me planin e detajuar vendor, përmes kompensimit me shkëmbim, për të gjitha pasuritë që preken nga realizimi i projektit “Për zonën e re për zhvillim në njësinë administrative nr.6, zona “Kombinat”, Bashkia Tiranë””](https://qbz.gov.al/eli/vendim/2025/05/09/267)
 
 ## Decisions made by hand
 

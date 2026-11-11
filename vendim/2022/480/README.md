@@ -10,7 +10,7 @@ Miratimin e dhënies së granteve për startup-et dhe lehtësuesit e startup-eve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-09-23 |
 
-Act id: `vendim-2022-480` (tags `vendim-2022-480/<day>`; `python tools/on.py <day> vendim-2022-480`).
+Act id: `vendim-2022-480` (tags `vendim-2022-480/<day>`; `python registry/tools/on.py <day> vendim-2022-480`).
 
 ## Decisions made by hand
 

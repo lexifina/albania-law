@@ -10,7 +10,7 @@ Ngarkim të përkohshëm në detyrë (zëvendësim) · 1 versions, from 2025-03-
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0312-207` (tags `urdher-2025-0312-207/<day>`; `python tools/on.py <day> urdher-2025-0312-207`).
+Act id: `urdher-2025-0312-207` (tags `urdher-2025-0312-207/<day>`; `python registry/tools/on.py <day> urdher-2025-0312-207`).
 
 ## Decisions made by hand
 

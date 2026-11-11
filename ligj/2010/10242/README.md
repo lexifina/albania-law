@@ -33,7 +33,7 @@ Institutin e Studimeve për Krimet dhe Pasojat e Komunizmit në Shqipëri · 2 v
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10242` (tags `ligj-2010-10242/<day>`; `python tools/on.py <day> ligj-2010-10242`).
+Act id: `ligj-2010-10242` (tags `ligj-2010-10242/<day>`; `python registry/tools/on.py <day> ligj-2010-10242`).
 
 ## Decisions made by hand
 

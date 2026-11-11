@@ -5,7 +5,7 @@ Tarifat e shërbimeve që kryhen nga seksionet e administrimit dhe mbrojtjes së
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2004-1109-482` (tags `urdher-2004-1109-482/<day>`; `python tools/on.py <day> urdher-2004-1109-482`).
+Act id: `urdher-2004-1109-482` (tags `urdher-2004-1109-482/<day>`; `python registry/tools/on.py <day> urdher-2004-1109-482`).
 
 ## Decisions made by hand
 

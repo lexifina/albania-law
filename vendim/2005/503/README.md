@@ -5,7 +5,7 @@ Organizimin, kompetencat dhe funksionimin e Agjencisë së Administrimit të Pas
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-503` (tags `vendim-2005-503/<day>`; `python tools/on.py <day> vendim-2005-503`).
+Act id: `vendim-2005-503` (tags `vendim-2005-503/<day>`; `python registry/tools/on.py <day> vendim-2005-503`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kompetencat, përbërjen, funksionimin dhe mënyrën e mbledhjes dhe të shpërb
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-775` (tags `vendim-2005-775/<day>`; `python tools/on.py <day> vendim-2005-775`).
+Act id: `vendim-2005-775` (tags `vendim-2005-775/<day>`; `python registry/tools/on.py <day> vendim-2005-775`).
 
 ## Decisions made by hand
 

@@ -52,7 +52,7 @@ Legalizimin e kapitalit dhe faljen e një pjese të borxhit tatimor dhe doganor 
 | Seksioni II | [seksioni-02.md](seksioni-02.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10418` (tags `ligj-2011-10418/<day>`; `python tools/on.py <day> ligj-2011-10418`).
+Act id: `ligj-2011-10418` (tags `ligj-2011-10418/<day>`; `python registry/tools/on.py <day> ligj-2011-10418`).
 
 ## Decisions made by hand
 

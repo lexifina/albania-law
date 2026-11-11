@@ -11,7 +11,7 @@ Hapjen e procedurës së pranimit në kategorinë e ulët dhe të mesme drejtues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2015-08-10 |
 
-Act id: `vendim-2015-555` (tags `vendim-2015-555/<day>`; `python tools/on.py <day> vendim-2015-555`).
+Act id: `vendim-2015-555` (tags `vendim-2015-555/<day>`; `python registry/tools/on.py <day> vendim-2015-555`).
 
 ## Decisions made by hand
 

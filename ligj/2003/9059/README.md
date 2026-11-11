@@ -29,7 +29,7 @@ Aderimin e republikës së shqipërisë në “konventën për reduktimin e pash
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 
-Act id: `ligji-9059-2003` (tags `ligji-9059-2003/<day>`; `python tools/on.py <day> ligji-9059-2003`).
+Act id: `ligji-9059-2003` (tags `ligji-9059-2003/<day>`; `python registry/tools/on.py <day> ligji-9059-2003`).
 
 ## Decisions made by hand
 

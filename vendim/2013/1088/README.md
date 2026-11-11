@@ -10,7 +10,15 @@ Miratimin e buxhetit të vitit 2014 për Zyrën e Regjistrimit të Pasurive të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-1088` (tags `vendim-2013-1088/<day>`; `python tools/on.py <day> vendim-2013-1088`).
+Act id: `vendim-2013-1088` (tags `vendim-2013-1088/<day>`; `python registry/tools/on.py <day> vendim-2013-1088`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 504, datë 30.7.2014: Për një ndryshim në vendimin nr. 1088, datë 26.12.2013, të këshillit të ministrave, “për miratimin e buxhetit të vitit 2014 për zyrën e regjistrimit të pasurive të paluajtshme”](https://qbz.gov.al/eli/vendim/2014/07/30/504)
 
 ## Decisions made by hand
 

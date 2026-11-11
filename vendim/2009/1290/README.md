@@ -10,7 +10,7 @@ Përcaktimin e kritereve bazë,të sektorëve që do të mbështeten dhe të mas
 | Pika 3 | [pika-003.md](pika-003.md) | 2 | 2010-11-18 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1290` (tags `vendim-2009-1290/<day>`; `python tools/on.py <day> vendim-2009-1290`).
+Act id: `vendim-2009-1290` (tags `vendim-2009-1290/<day>`; `python registry/tools/on.py <day> vendim-2009-1290`).
 
 ## Decisions made by hand
 

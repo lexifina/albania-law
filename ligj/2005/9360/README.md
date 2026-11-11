@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen europiane në plot�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9360` (tags `ligj-2005-9360/<day>`; `python tools/on.py <day> ligj-2005-9360`).
+Act id: `ligj-2005-9360` (tags `ligj-2005-9360/<day>`; `python registry/tools/on.py <day> ligj-2005-9360`).
 
 ## Decisions made by hand
 

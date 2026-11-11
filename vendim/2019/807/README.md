@@ -18,7 +18,7 @@ Përcaktimin e kritereve dhe të kushteve për kalimin e pronës shtetërore në
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-807` (tags `vendim-2019-807/<day>`; `python tools/on.py <day> vendim-2019-807`).
+Act id: `vendim-2019-807` (tags `vendim-2019-807/<day>`; `python registry/tools/on.py <day> vendim-2019-807`).
 
 ## Decisions made by hand
 

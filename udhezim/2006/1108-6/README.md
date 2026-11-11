@@ -5,7 +5,7 @@ Dokumentacionin tekniko-ligjor për miratimin e kufirit të zonës/vendbanimit/b
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-1108-6` (tags `udhezim-2006-1108-6/<day>`; `python tools/on.py <day> udhezim-2006-1108-6`).
+Act id: `udhezim-2006-1108-6` (tags `udhezim-2006-1108-6/<day>`; `python registry/tools/on.py <day> udhezim-2006-1108-6`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Miratimin e tarifave dhe të mënyrës së përdorimit të tyre për shërbimet 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-08-01 |
 
-Act id: `vendim-2024-428` (tags `vendim-2024-428/<day>`; `python tools/on.py <day> vendim-2024-428`).
+Act id: `vendim-2024-428` (tags `vendim-2024-428/<day>`; `python registry/tools/on.py <day> vendim-2024-428`).
 
 ## Decisions made by hand
 

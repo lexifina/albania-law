@@ -74,7 +74,7 @@ Qeverisjen elektronike · 3 versions, from 2023-07-20 (latest in force: 2026-04-
 | Neni 59 | [neni-059.md](neni-059.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2023-43` (tags `ligj-2023-43/<day>`; `python tools/on.py <day> ligj-2023-43`).
+Act id: `ligj-2023-43` (tags `ligj-2023-43/<day>`; `python registry/tools/on.py <day> ligj-2023-43`).
 
 ## Decisions made by hand
 

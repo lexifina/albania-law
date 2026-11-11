@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të inspektorit të përgjithshëm të Shërbi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-34` (tags `vendim-2024-34/<day>`; `python tools/on.py <day> vendim-2024-34`).
+Act id: `vendim-2024-34` (tags `vendim-2024-34/<day>`; `python registry/tools/on.py <day> vendim-2024-34`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Përcaktimin e kriterit të notës mesatare për pranimin e kandidatëve në pro
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-346` (tags `vendim-2017-346/<day>`; `python tools/on.py <day> vendim-2017-346`).
+Act id: `vendim-2017-346` (tags `vendim-2017-346/<day>`; `python registry/tools/on.py <day> vendim-2017-346`).
 
 ## Decisions made by hand
 

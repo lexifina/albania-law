@@ -10,7 +10,7 @@ Miratimin e formatit të marrëveshjes për transferimin e materialit gjenetik n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0901-465` (tags `urdher-2026-0901-465/<day>`; `python tools/on.py <day> urdher-2026-0901-465`).
+Act id: `urdher-2026-0901-465` (tags `urdher-2026-0901-465/<day>`; `python registry/tools/on.py <day> urdher-2026-0901-465`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes kuadër ndërmjet Këshillit të Ministrave të Republ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-496` (tags `vendim-2025-496/<day>`; `python tools/on.py <day> vendim-2025-496`).
+Act id: `vendim-2025-496` (tags `vendim-2025-496/<day>`; `python registry/tools/on.py <day> vendim-2025-496`).
 
 ## Decisions made by hand
 

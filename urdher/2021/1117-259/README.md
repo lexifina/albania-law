@@ -11,7 +11,7 @@ Delegimin e kompetencave për procedura të burimeve njerëzore dhe shërbimeve 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-1117-259` (tags `urdher-2021-1117-259/<day>`; `python tools/on.py <day> urdher-2021-1117-259`).
+Act id: `urdher-2021-1117-259` (tags `urdher-2021-1117-259/<day>`; `python registry/tools/on.py <day> urdher-2021-1117-259`).
 
 ## Decisions made by hand
 

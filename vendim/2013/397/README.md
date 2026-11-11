@@ -9,7 +9,7 @@ Kalimin në pronësi, pa shpërblim, të një sipërfaqeje trualli Kishës Katol
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-397` (tags `vendim-2013-397/<day>`; `python tools/on.py <day> vendim-2013-397`).
+Act id: `vendim-2013-397` (tags `vendim-2013-397/<day>`; `python registry/tools/on.py <day> vendim-2013-397`).
 
 ## Decisions made by hand
 

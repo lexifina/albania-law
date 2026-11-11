@@ -18,7 +18,15 @@ Përcaktimin e mënyrës e të kritereve të përzgjedhjes së operatorit që do
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-647` (tags `vendim-2016-647/<day>`; `python tools/on.py <day> vendim-2016-647`).
+Act id: `vendim-2016-647` (tags `vendim-2016-647/<day>`; `python registry/tools/on.py <day> vendim-2016-647`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Gjykatës Kushtetuese nr. 89, datë 28.12.2017: Me objekt shfuqizimin si të papajtueshëm me Kushtetutën të nenit 48, pika 2, shprehja “si dhe tarifën e mirëmbajtjes së Sistemit Qendror të Monitorimit On-line që duhet të paguajnë shoqëritë e licencuara” dhe të nenit 70, pika 12, shprehja “tarifa e mirëmbajtjes së tij që duhet të paguajnë shoqëritë e licencuara”, të ligjit nr. 155, datë 21.12.2015, “Për lojërat e fatit në Republikën e Shqipërisë”, të ndryshuar. Shfuqizimin si të papajtueshme me Kushtetutën të fjalisë së fundit të pikës 1 të dispozitave të përgjithshme dhe të pikave 2 dhe 3, të kreut VI të VKM-së nr. 647, datë 14.9.2016, “Për përcaktimin e mënyrës dhe kritereve të përzgjedhjes të operatorit që do të ndërtojë Sistemin Qendror të Monitorimit On-line (SQMO), si dhe autoritetin përgjegjës për zhvillimin e procedurave të përzgjedhjes”. Shfuqizimin si të papajtueshme me Kushtetutën të pikës 1, të VKM-së nr. 331, datë 12.4.2017, “Për miratimin e tarifës së mirëmbajtjes së Sistemit Qendror të Monitorimit On-line (SQMO) që duhet të paguajnë shoqëritë e licencuara”, në lidhje me tarifat e mirëmbajtjes për kategorinë baste sportive](https://qbz.gov.al/eli/vendim/2017/12/28/89)
 
 ## Decisions made by hand
 

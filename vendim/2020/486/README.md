@@ -18,7 +18,7 @@ Shtypjen, botimin, shpërndarjen dhe shitjen e teksteve shkollore të sistemit t
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-486` (tags `vendim-2020-486/<day>`; `python tools/on.py <day> vendim-2020-486`).
+Act id: `vendim-2020-486` (tags `vendim-2020-486/<day>`; `python registry/tools/on.py <day> vendim-2020-486`).
 
 ## Decisions made by hand
 

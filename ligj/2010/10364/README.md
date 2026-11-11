@@ -13,7 +13,7 @@ Disa shtesa dhe ndryshime në ligjin nr.8438, datë 28.12.1998 ”për tatimin m
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10364-2010` (tags `ligji-10364-2010/<day>`; `python tools/on.py <day> ligji-10364-2010`).
+Act id: `ligji-10364-2010` (tags `ligji-10364-2010/<day>`; `python registry/tools/on.py <day> ligji-10364-2010`).
 
 ## Decisions made by hand
 

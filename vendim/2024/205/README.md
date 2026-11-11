@@ -10,7 +10,7 @@ Kalimin te Bashkia Durrës të njësive individuale të banimit · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-205` (tags `vendim-2024-205/<day>`; `python tools/on.py <day> vendim-2024-205`).
+Act id: `vendim-2024-205` (tags `vendim-2024-205/<day>`; `python registry/tools/on.py <day> vendim-2024-205`).
 
 ## Decisions made by hand
 

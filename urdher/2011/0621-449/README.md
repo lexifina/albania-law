@@ -21,7 +21,7 @@ Mënyrën e funksionimit të komisionit të vlerësimit të kërkesave dhe të d
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0621-449` (tags `urdher-2011-0621-449/<day>`; `python tools/on.py <day> urdher-2011-0621-449`).
+Act id: `urdher-2011-0621-449` (tags `urdher-2011-0621-449/<day>`; `python registry/tools/on.py <day> urdher-2011-0621-449`).
 
 ## Decisions made by hand
 

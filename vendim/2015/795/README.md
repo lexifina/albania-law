@@ -19,7 +19,7 @@ Pronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2022-04-15 |
 
-Act id: `vendim-2015-795` (tags `vendim-2015-795/<day>`; `python tools/on.py <day> vendim-2015-795`).
+Act id: `vendim-2015-795` (tags `vendim-2015-795/<day>`; `python registry/tools/on.py <day> vendim-2015-795`).
 
 ## Decisions made by hand
 

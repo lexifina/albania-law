@@ -5,7 +5,7 @@ R miratimin e praktikave për promovimin e investimeve të përbashkëta, rajona
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-685` (tags `vendim-2018-685/<day>`; `python tools/on.py <day> vendim-2018-685`).
+Act id: `vendim-2018-685` (tags `vendim-2018-685/<day>`; `python registry/tools/on.py <day> vendim-2018-685`).
 
 ## Decisions made by hand
 

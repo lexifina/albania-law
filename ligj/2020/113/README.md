@@ -38,7 +38,7 @@ Shtetësia · 3 versions, from 2020-10-14 (latest in force: 2026-06-20) · <http
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `shtetesia` (tags `shtetesia/<day>`; `python tools/on.py <day> shtetesia`).
+Act id: `shtetesia` (tags `shtetesia/<day>`; `python registry/tools/on.py <day> shtetesia`).
 
 ## Decisions made by hand
 

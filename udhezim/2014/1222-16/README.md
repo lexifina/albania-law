@@ -5,7 +5,7 @@ Përcaktimin e kriterit të pastërtisë së ngjyruesve të përdorur në produk
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-1222-16` (tags `udhezim-2014-1222-16/<day>`; `python tools/on.py <day> udhezim-2014-1222-16`).
+Act id: `udhezim-2014-1222-16` (tags `udhezim-2014-1222-16/<day>`; `python registry/tools/on.py <day> udhezim-2014-1222-16`).
 
 ## Decisions made by hand
 

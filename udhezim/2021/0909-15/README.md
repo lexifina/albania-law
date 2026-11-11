@@ -14,7 +14,7 @@ Mbi kriteret mikrobiologjike për produktet ushqimore · 1 versions, from 2021-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0909-15` (tags `udhezim-2021-0909-15/<day>`; `python tools/on.py <day> udhezim-2021-0909-15`).
+Act id: `udhezim-2021-0909-15` (tags `udhezim-2021-0909-15/<day>`; `python registry/tools/on.py <day> udhezim-2021-0909-15`).
 
 ## Decisions made by hand
 

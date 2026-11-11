@@ -34,7 +34,7 @@ Mbrojtjen e pakicave kombëtare në republikën e shqipërisë · 1 versions, fr
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-96-2017` (tags `ligji-96-2017/<day>`; `python tools/on.py <day> ligji-96-2017`).
+Act id: `ligji-96-2017` (tags `ligji-96-2017/<day>`; `python registry/tools/on.py <day> ligji-96-2017`).
 
 ## Decisions made by hand
 

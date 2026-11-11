@@ -23,7 +23,7 @@ Miratimin e paketës informuese altertekst 2009 · 1 versions, from 2009-03-27 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2009-0224-36` (tags `urdher-2009-0224-36/<day>`; `python tools/on.py <day> urdher-2009-0224-36`).
+Act id: `urdher-2009-0224-36` (tags `urdher-2009-0224-36/<day>`; `python registry/tools/on.py <day> urdher-2009-0224-36`).
 
 ## Decisions made by hand
 

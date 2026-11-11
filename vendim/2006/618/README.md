@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të dokumentacionit dhe masës së përfitimit të pag
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-618` (tags `vendim-2006-618/<day>`; `python tools/on.py <day> vendim-2006-618`).
+Act id: `vendim-2006-618` (tags `vendim-2006-618/<day>`; `python registry/tools/on.py <day> vendim-2006-618`).
 
 ## Decisions made by hand
 

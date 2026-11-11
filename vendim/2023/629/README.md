@@ -23,7 +23,7 @@ Përcaktimin e procedurës dhe mënyrës së kompensimit të drejtë për përdo
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-629` (tags `vendim-2023-629/<day>`; `python tools/on.py <day> vendim-2023-629`).
+Act id: `vendim-2023-629` (tags `vendim-2023-629/<day>`; `python registry/tools/on.py <day> vendim-2023-629`).
 
 ## Decisions made by hand
 

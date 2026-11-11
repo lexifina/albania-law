@@ -12,7 +12,7 @@ Ndryshimin e përgjegjësisë së administrimit të sipërfaqes 15 238 m2 dhe t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-254` (tags `vendim-2006-254/<day>`; `python tools/on.py <day> vendim-2006-254`).
+Act id: `vendim-2006-254` (tags `vendim-2006-254/<day>`; `python registry/tools/on.py <day> vendim-2006-254`).
 
 ## Decisions made by hand
 

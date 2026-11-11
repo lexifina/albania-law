@@ -39,7 +39,7 @@ Mekanizmin e bashkërendimit të punës ndërmjet autoriteteve përgjegjëse pë
 | Pika 31 | [pika-031.md](pika-031.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-327` (tags `vendim-2021-327/<day>`; `python tools/on.py <day> vendim-2021-327`).
+Act id: `vendim-2021-327` (tags `vendim-2021-327/<day>`; `python registry/tools/on.py <day> vendim-2021-327`).
 
 ## Decisions made by hand
 

@@ -33,7 +33,7 @@ Urdhrin e stomatologut në republikën e shqipërisë · 2 versions, from 2014-1
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2025-05-13 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-05-13 |
 
-Act id: `ligj-2014-127` (tags `ligj-2014-127/<day>`; `python tools/on.py <day> ligj-2014-127`).
+Act id: `ligj-2014-127` (tags `ligj-2014-127/<day>`; `python registry/tools/on.py <day> ligj-2014-127`).
 
 ## Decisions made by hand
 

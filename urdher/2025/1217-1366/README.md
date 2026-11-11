@@ -39,7 +39,7 @@ Përcaktimin e rregullave të detajuara për regjistrat e hyrjeve dhe të daljev
 | Pika 32 | [pika-032.md](pika-032.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1217-1366` (tags `urdher-2025-1217-1366/<day>`; `python tools/on.py <day> urdher-2025-1217-1366`).
+Act id: `urdher-2025-1217-1366` (tags `urdher-2025-1217-1366/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-1366`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-1111-1171` (tags `urdher-2025-1111-1171/<day>`; `python tools/on.py <day> urdher-2025-1111-1171`).
+Act id: `urdher-2025-1111-1171` (tags `urdher-2025-1111-1171/<day>`; `python registry/tools/on.py <day> urdher-2025-1111-1171`).
 
 ## Decisions made by hand
 

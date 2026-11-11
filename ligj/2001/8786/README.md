@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.26 “krijimi i mekanizmit për caktimin e pagës
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8786` (tags `ligj-2001-8786/<day>`; `python tools/on.py <day> ligj-2001-8786`).
+Act id: `ligj-2001-8786` (tags `ligj-2001-8786/<day>`; `python registry/tools/on.py <day> ligj-2001-8786`).
 
 ## Decisions made by hand
 

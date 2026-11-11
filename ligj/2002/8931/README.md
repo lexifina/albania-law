@@ -8,7 +8,7 @@ Miratimin e aktit normativ nr.6, datë 4.7.2002 të Këshillit të Ministrave, m
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8931-2002` (tags `ligji-8931-2002/<day>`; `python tools/on.py <day> ligji-8931-2002`).
+Act id: `ligji-8931-2002` (tags `ligji-8931-2002/<day>`; `python registry/tools/on.py <day> ligji-8931-2002`).
 
 ## Decisions made by hand
 

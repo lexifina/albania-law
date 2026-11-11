@@ -13,7 +13,7 @@ Njoftimet e akteve jashtëgjyqësore nga noteri · 1 versions, from 2020-06-24 (
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0615-180` (tags `urdher-2020-0615-180/<day>`; `python tools/on.py <day> urdher-2020-0615-180`).
+Act id: `urdher-2020-0615-180` (tags `urdher-2020-0615-180/<day>`; `python registry/tools/on.py <day> urdher-2020-0615-180`).
 
 ## Decisions made by hand
 

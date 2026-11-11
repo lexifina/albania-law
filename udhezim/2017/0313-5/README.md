@@ -12,7 +12,7 @@ Krijimin e informacionit mbi tokën bujqësore nga zbatimi i programit “menaxh
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0313-5` (tags `udhezim-2017-0313-5/<day>`; `python tools/on.py <day> udhezim-2017-0313-5`).
+Act id: `udhezim-2017-0313-5` (tags `udhezim-2017-0313-5/<day>`; `python registry/tools/on.py <day> udhezim-2017-0313-5`).
 
 ## Decisions made by hand
 

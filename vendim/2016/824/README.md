@@ -5,7 +5,7 @@ Përcaktimin e formatit e të specifikimeve teknike të vulave të verifikimit k
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-824` (tags `vendim-2016-824/<day>`; `python tools/on.py <day> vendim-2016-824`).
+Act id: `vendim-2016-824` (tags `vendim-2016-824/<day>`; `python registry/tools/on.py <day> vendim-2016-824`).
 
 ## Decisions made by hand
 

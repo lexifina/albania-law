@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën ndërkombëtare për ruaj
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9822-2007` (tags `ligji-9822-2007/<day>`; `python tools/on.py <day> ligji-9822-2007`).
+Act id: `ligji-9822-2007` (tags `ligji-9822-2007/<day>`; `python registry/tools/on.py <day> ligji-9822-2007`).
 
 ## Decisions made by hand
 

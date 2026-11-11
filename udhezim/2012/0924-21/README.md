@@ -5,7 +5,7 @@ Përcaktimin e rregullave për ruajtjen e sigurisë së të dhënave personale t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0924-21` (tags `udhezim-2012-0924-21/<day>`; `python tools/on.py <day> udhezim-2012-0924-21`).
+Act id: `udhezim-2012-0924-21` (tags `udhezim-2012-0924-21/<day>`; `python registry/tools/on.py <day> udhezim-2012-0924-21`).
 
 ## Decisions made by hand
 

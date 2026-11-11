@@ -5,7 +5,7 @@
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2009-0528-350` (tags `urdher-2009-0528-350/<day>`; `python tools/on.py <day> urdher-2009-0528-350`).
+Act id: `urdher-2009-0528-350` (tags `urdher-2009-0528-350/<day>`; `python registry/tools/on.py <day> urdher-2009-0528-350`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Rregullat e hollësishme mbi lejen për hulumtime arkeologjike · 1 versions, fr
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-1230-4` (tags `udhezim-2025-1230-4/<day>`; `python tools/on.py <day> udhezim-2025-1230-4`).
+Act id: `udhezim-2025-1230-4` (tags `udhezim-2025-1230-4/<day>`; `python registry/tools/on.py <day> udhezim-2025-1230-4`).
 
 ## Decisions made by hand
 

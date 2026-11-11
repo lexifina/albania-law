@@ -17,7 +17,7 @@ Transferimin e pronave të paluajtshme shtetërore të sistemit të ujësjellës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2007-10-24 |
 
-Act id: `vendim-2004-81` (tags `vendim-2004-81/<day>`; `python tools/on.py <day> vendim-2004-81`).
+Act id: `vendim-2004-81` (tags `vendim-2004-81/<day>`; `python registry/tools/on.py <day> vendim-2004-81`).
 
 ## Decisions made by hand
 

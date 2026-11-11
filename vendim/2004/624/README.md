@@ -13,7 +13,7 @@ Shlyerjen e detyrimeve të prapambetura të ujësjellësve ndaj kesh sha për tr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-624` (tags `vendim-2004-624/<day>`; `python tools/on.py <day> vendim-2004-624`).
+Act id: `vendim-2004-624` (tags `vendim-2004-624/<day>`; `python registry/tools/on.py <day> vendim-2004-624`).
 
 ## Decisions made by hand
 

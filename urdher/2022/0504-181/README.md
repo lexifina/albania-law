@@ -29,7 +29,7 @@ Miratimin e rregullave të hollësishme për procedurën e hetimit disiplinor t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0504-181` (tags `urdher-2022-0504-181/<day>`; `python tools/on.py <day> urdher-2022-0504-181`).
+Act id: `urdher-2022-0504-181` (tags `urdher-2022-0504-181/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-181`).
 
 ## Decisions made by hand
 

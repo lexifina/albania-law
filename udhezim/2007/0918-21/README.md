@@ -13,7 +13,7 @@ Zbatimin e vendimit të Këshillit të Ministrave nr.369, datë 13.6.2007 “Pë
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0918-21` (tags `udhezim-2007-0918-21/<day>`; `python tools/on.py <day> udhezim-2007-0918-21`).
+Act id: `udhezim-2007-0918-21` (tags `udhezim-2007-0918-21/<day>`; `python registry/tools/on.py <day> udhezim-2007-0918-21`).
 
 ## Decisions made by hand
 

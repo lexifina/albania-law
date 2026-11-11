@@ -17,7 +17,7 @@ Përcaktimin e metodologjisë për vlerësimin e kritereve të konkurrimit publi
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0722-7` (tags `udhezim-2019-0722-7/<day>`; `python tools/on.py <day> udhezim-2019-0722-7`).
+Act id: `udhezim-2019-0722-7` (tags `udhezim-2019-0722-7/<day>`; `python registry/tools/on.py <day> udhezim-2019-0722-7`).
 
 ## Decisions made by hand
 

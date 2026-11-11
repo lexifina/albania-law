@@ -11,7 +11,7 @@ Detyrimet e kontrolluesve përpara se të përpunojnë të dhënat personale · 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-1227-24` (tags `udhezim-2012-1227-24/<day>`; `python tools/on.py <day> udhezim-2012-1227-24`).
+Act id: `udhezim-2012-1227-24` (tags `udhezim-2012-1227-24/<day>`; `python registry/tools/on.py <day> udhezim-2012-1227-24`).
 
 ## Decisions made by hand
 

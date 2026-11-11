@@ -9,7 +9,7 @@ PËR PëRCAKTIMIN E KëRKESAVE të HOLLëSISHME për PLEHRAT ME BAZë nITRAT AMO
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-612` (tags `vendim-2011-612/<day>`; `python tools/on.py <day> vendim-2011-612`).
+Act id: `vendim-2011-612` (tags `vendim-2011-612/<day>`; `python registry/tools/on.py <day> vendim-2011-612`).
 
 ## Decisions made by hand
 

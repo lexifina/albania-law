@@ -14,7 +14,7 @@ Ngritjen dhe përbërjen e Komitetit Sektorial të Energjisë · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0224-248` (tags `urdher-2025-0224-248/<day>`; `python tools/on.py <day> urdher-2025-0224-248`).
+Act id: `urdher-2025-0224-248` (tags `urdher-2025-0224-248/<day>`; `python registry/tools/on.py <day> urdher-2025-0224-248`).
 
 ## Decisions made by hand
 

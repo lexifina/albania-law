@@ -18,7 +18,7 @@ Krijimin e fondit të inovacionit · 1 versions, from 2018-04-27 (latest in forc
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-211` (tags `vendim-2018-211/<day>`; `python tools/on.py <day> vendim-2018-211`).
+Act id: `vendim-2018-211` (tags `vendim-2018-211/<day>`; `python registry/tools/on.py <day> vendim-2018-211`).
 
 ## Decisions made by hand
 

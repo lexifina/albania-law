@@ -11,7 +11,7 @@ Kriteret e ndërtimit me koncesion, të formës rot/bot, të termocentralit në 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-83` (tags `vendim-2007-83/<day>`; `python tools/on.py <day> vendim-2007-83`).
+Act id: `vendim-2007-83` (tags `vendim-2007-83/<day>`; `python registry/tools/on.py <day> vendim-2007-83`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes për bashkëpunimin në fushën e veterinarisë, sigur
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-41` (tags `vendim-2022-41/<day>`; `python tools/on.py <day> vendim-2022-41`).
+Act id: `vendim-2022-41` (tags `vendim-2022-41/<day>`; `python registry/tools/on.py <day> vendim-2022-41`).
 
 ## Decisions made by hand
 

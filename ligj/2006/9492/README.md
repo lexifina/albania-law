@@ -13,7 +13,7 @@ Ratifikimin e Konventës së Kombeve të Bashkuara Kundër Korrupsionit · 1 ver
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9492` (tags `ligj-2006-9492/<day>`; `python tools/on.py <day> ligj-2006-9492`).
+Act id: `ligj-2006-9492` (tags `ligj-2006-9492/<day>`; `python registry/tools/on.py <day> ligj-2006-9492`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e statutit të Organizatës së Menaxhimit të Peshkimit (OMP, Fier) �
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2002-1008-28-4` (tags `urdher-2002-1008-28-4/<day>`; `python tools/on.py <day> urdher-2002-1008-28-4`).
+Act id: `urdher-2002-1008-28-4` (tags `urdher-2002-1008-28-4/<day>`; `python registry/tools/on.py <day> urdher-2002-1008-28-4`).
 
 ## Decisions made by hand
 

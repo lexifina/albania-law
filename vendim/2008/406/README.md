@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-406` (tags `vendim-2008-406/<day>`; `python tools/on.py <day> vendim-2008-406`).
+Act id: `vendim-2008-406` (tags `vendim-2008-406/<day>`; `python registry/tools/on.py <day> vendim-2008-406`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendim nr. 491, datë 6.7.2011 (Kryeministri): Për kalimin në përgjegjësi administrimi të ministrisë së drejtësisë, të pasurisë me sipërfaqe 16 ha, në zonën kadastrale nr. 2488, fshati lohe e sipërme në komunën shkrel të qarkut të shkodrës, si dhe për një ndryshim në vendimet e këshillit të ministrave nr.406, datë 8.4.2008 “për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna shkrel e qarkut të shkodrës”, dhe nr.1524, datë 19.11.2008 “për miratimin e listës së inventarit të pronave të paluajtshme në komunën shkrel të qarkut të shkodrës”](https://qbz.gov.al/eli/vendim/2011/07/06/491)
 
 ## Decisions made by hand
 

@@ -19,7 +19,15 @@ Sekuestrimin e pasurive të shtetasit nabil abdul sayadi, i cili rezulton i shpa
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2005-0310-5` (tags `urdher-2005-0310-5/<day>`; `python tools/on.py <day> urdher-2005-0310-5`).
+Act id: `urdher-2005-0310-5` (tags `urdher-2005-0310-5/<day>`; `python registry/tools/on.py <day> urdher-2005-0310-5`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 5553, datë 25.7.2006 (Ministria e Financave) [QBZ 4659]: Për disa ndryshime në urdhrin nr.5, datë 10.03.2005 të Ministrit të Financave “Për sekuestrimin e pasurive të shtetasit Nabil Abdyl Sayadi, i cili rezulton i shpallur në listën e financuesve të terrorizmit”](https://qbz.gov.al/eli/urdher/2006/07/25/5553)
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Përpunimin e informacionit të udhëtimit në Republikën e Shqipërisë · 1 v
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-38-2025` (tags `ligji-38-2025/<day>`; `python tools/on.py <day> ligji-38-2025`).
+Act id: `ligji-38-2025` (tags `ligji-38-2025/<day>`; `python registry/tools/on.py <day> ligji-38-2025`).
 
 ## Decisions made by hand
 

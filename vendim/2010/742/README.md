@@ -10,7 +10,17 @@ PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHT
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-742` (tags `vendim-2010-742/<day>`; `python tools/on.py <day> vendim-2010-742`).
+Act id: `vendim-2010-742` (tags `vendim-2010-742/<day>`; `python registry/tools/on.py <day> vendim-2010-742`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 429, datë 4.7.2012: Për një shtesë në vendimin nr. 742, datë 8.9.2010 të këshillit të ministrave ”për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës drenovë të qarkut të korçës”](https://qbz.gov.al/eli/vendim/2012/07/04/429)
+- [Vendimi i Këshillit të Ministrave nr. 859, datë 21.10.2010: Për një shtesë në listën përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës drenovë, të qarkut të korçës, miratuar me vendimin nr.742, datë 8.9.2010 të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2010/10/21/859)
+- [Vendimi i Këshillit të Ministrave nr. 741, datë 4.12.2024: Për ndryshimin e përgjegjësisë së administrimit, nga Ministria e Bujqësisë dhe Zhvillimit Rural te Fondi Shqiptar i Zhvillimit, si dhe për shfuqizimin e së drejtës së përdorimit Bashkisë Korçë, Njësia Administrative Drenovë, për pasuritë me nr. 86, nr. 87 dhe nr. 91, zona kadastrale 1538, si dhe kalimin në përgjegjësi administrimi të Fondit Shqiptar të Zhvillimit të pasurive me nr. 362 e nr. 364, zona kadastrale 1538, me vendndodhje në Drenovë, Korçë, dhe për disa ndryshime në vendimin nr. 742, datë 8.9.2010, të Këshillit të Ministrave, të ndryshuar, dhe në vendimin nr. 820, datë 13.10.2010, të Këshillit të Ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2024/12/04/741)
 
 ## Decisions made by hand
 

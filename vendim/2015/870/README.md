@@ -8,7 +8,7 @@ Miratimin e marrëveshjes së Grantit nr. TF014999, ndërmjet Shqipërisë dhe B
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-870` (tags `vendim-2015-870/<day>`; `python tools/on.py <day> vendim-2015-870`).
+Act id: `vendim-2015-870` (tags `vendim-2015-870/<day>`; `python registry/tools/on.py <day> vendim-2015-870`).
 
 ## Decisions made by hand
 

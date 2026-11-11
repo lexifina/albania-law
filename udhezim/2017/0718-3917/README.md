@@ -14,7 +14,7 @@ Disa ndryshime dhe shtesa në udhëzimin nr. 5628, datë 18.11.2016, “për mir
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0718-3917` (tags `udhezim-2017-0718-3917/<day>`; `python tools/on.py <day> udhezim-2017-0718-3917`).
+Act id: `udhezim-2017-0718-3917` (tags `udhezim-2017-0718-3917/<day>`; `python registry/tools/on.py <day> udhezim-2017-0718-3917`).
 
 ## Decisions made by hand
 

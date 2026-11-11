@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Genc Fuga · 1 versions, from 2023-08
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-484` (tags `vendim-2023-484/<day>`; `python tools/on.py <day> vendim-2023-484`).
+Act id: `vendim-2023-484` (tags `vendim-2023-484/<day>`; `python registry/tools/on.py <day> vendim-2023-484`).
 
 ## Decisions made by hand
 

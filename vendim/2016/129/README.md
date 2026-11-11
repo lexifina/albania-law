@@ -12,7 +12,7 @@ Shtesë fondesh në buxhetin e bashkive, për vitin 2016, për pastrimin e kanal
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-129` (tags `vendim-2016-129/<day>`; `python tools/on.py <day> vendim-2016-129`).
+Act id: `vendim-2016-129` (tags `vendim-2016-129/<day>`; `python registry/tools/on.py <day> vendim-2016-129`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Shpalljen “Kombëtar” të Muzeut të Pavarësisë, Vlorë dhe për ndryshimi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-293` (tags `vendim-2006-293/<day>`; `python tools/on.py <day> vendim-2006-293`).
+Act id: `vendim-2006-293` (tags `vendim-2006-293/<day>`; `python registry/tools/on.py <day> vendim-2006-293`).
 
 ## Decisions made by hand
 

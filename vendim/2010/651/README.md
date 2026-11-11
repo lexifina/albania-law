@@ -9,7 +9,7 @@ PËR LEJIMIN E KRYEMINISTRISË, SI AUTORITET KONTRAKTOR, PËR KRYERJEN E PROCEDU
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-651` (tags `vendim-2010-651/<day>`; `python tools/on.py <day> vendim-2010-651`).
+Act id: `vendim-2010-651` (tags `vendim-2010-651/<day>`; `python registry/tools/on.py <day> vendim-2010-651`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Koordinimin ndërinstitucional të procedurave standarde të kontrollit sasior, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0430-3492` (tags `udhezim-2015-0430-3492/<day>`; `python tools/on.py <day> udhezim-2015-0430-3492`).
+Act id: `udhezim-2015-0430-3492` (tags `udhezim-2015-0430-3492/<day>`; `python registry/tools/on.py <day> udhezim-2015-0430-3492`).
 
 ## Decisions made by hand
 

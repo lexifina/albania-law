@@ -9,7 +9,7 @@ Shpalljen e disa ndryshimeve në standardet ndërkombëtare të kontabilitetit d
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-0108-2` (tags `urdher-2016-0108-2/<day>`; `python tools/on.py <day> urdher-2016-0108-2`).
+Act id: `urdher-2016-0108-2` (tags `urdher-2016-0108-2/<day>`; `python registry/tools/on.py <day> urdher-2016-0108-2`).
 
 ## Decisions made by hand
 

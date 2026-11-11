@@ -14,7 +14,7 @@ Lirimin e banesave pronarëve të ligjshëm nga qytetarët e pastrehë, banues n
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2012-3` (tags `aktnormativ-2012-3/<day>`; `python tools/on.py <day> aktnormativ-2012-3`).
+Act id: `aktnormativ-2012-3` (tags `aktnormativ-2012-3/<day>`; `python registry/tools/on.py <day> aktnormativ-2012-3`).
 
 ## Decisions made by hand
 

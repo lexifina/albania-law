@@ -12,7 +12,7 @@ Zhvillimin e provimeve kombëtare të maturës shtetërore 2016 · 1 versions, f
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0324-3` (tags `udhezim-2016-0324-3/<day>`; `python tools/on.py <day> udhezim-2016-0324-3`).
+Act id: `udhezim-2016-0324-3` (tags `udhezim-2016-0324-3/<day>`; `python registry/tools/on.py <day> udhezim-2016-0324-3`).
 
 ## Decisions made by hand
 

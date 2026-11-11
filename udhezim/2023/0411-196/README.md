@@ -10,7 +10,7 @@ Miratimin e kritereve të vlerësimit të kandidatëve për drejtues të shërbi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0411-196` (tags `udhezim-2023-0411-196/<day>`; `python tools/on.py <day> udhezim-2023-0411-196`).
+Act id: `udhezim-2023-0411-196` (tags `udhezim-2023-0411-196/<day>`; `python registry/tools/on.py <day> udhezim-2023-0411-196`).
 
 ## Decisions made by hand
 

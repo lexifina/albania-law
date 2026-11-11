@@ -14,7 +14,7 @@ Ngritjen dhe përbërjen e Komitetit Sektorial të Mikpritjes dhe Turizmit · 1 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0606-163` (tags `urdher-2022-0606-163/<day>`; `python tools/on.py <day> urdher-2022-0606-163`).
+Act id: `urdher-2022-0606-163` (tags `urdher-2022-0606-163/<day>`; `python registry/tools/on.py <day> urdher-2022-0606-163`).
 
 ## Decisions made by hand
 

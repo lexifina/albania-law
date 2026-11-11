@@ -11,7 +11,7 @@ Mbështetjen financiare të sektorit të energjisë për blerje nga importi të 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-539` (tags `vendim-2017-539/<day>`; `python tools/on.py <day> vendim-2017-539`).
+Act id: `vendim-2017-539` (tags `vendim-2017-539/<day>`; `python registry/tools/on.py <day> vendim-2017-539`).
 
 ## Decisions made by hand
 

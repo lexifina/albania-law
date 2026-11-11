@@ -10,7 +10,7 @@ Miratimin e rregullores së Sistemit të Mbikëqyrjes së Kufirit · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-677` (tags `vendim-2026-677/<day>`; `python tools/on.py <day> vendim-2026-677`).
+Act id: `vendim-2026-677` (tags `vendim-2026-677/<day>`; `python registry/tools/on.py <day> vendim-2026-677`).
 
 ## Decisions made by hand
 

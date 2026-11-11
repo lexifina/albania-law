@@ -12,7 +12,15 @@ Kalimin e ish - shkollës së ulët të ndërtimit (3 kate) dhe ish - konviktit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1058` (tags `vendim-2010-1058/<day>`; `python tools/on.py <day> vendim-2010-1058`).
+Act id: `vendim-2010-1058` (tags `vendim-2010-1058/<day>`; `python registry/tools/on.py <day> vendim-2010-1058`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 461, datë 26.7.2018: Për një ndryshim në vendimin nr. 1058, datë 22.12.2010, të këshillit të ministrave, “për kalimin e ish-shkollës së ulët të ndërtimit (3 kate) dhe ish-konviktit (4 kate), shkozet, durrës, në përgjegjësi administrimi të ministrisë së punëve publike dhe transportit, për entin kombëtar të banesave, për qëllim privatizimi”](https://qbz.gov.al/eli/vendim/2018/07/26/461)
 
 ## Decisions made by hand
 

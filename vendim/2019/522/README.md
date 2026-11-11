@@ -23,7 +23,7 @@ Metodikën e llogaritjes së masës së qirasë për banesat sociale me qira · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-522` (tags `vendim-2019-522/<day>`; `python tools/on.py <day> vendim-2019-522`).
+Act id: `vendim-2019-522` (tags `vendim-2019-522/<day>`; `python registry/tools/on.py <day> vendim-2019-522`).
 
 ## Decisions made by hand
 

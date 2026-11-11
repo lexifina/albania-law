@@ -5,7 +5,7 @@ Kriteret dhe procedurat e licencimit të agjentëve në sigurime, si dhe rregull
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-192` (tags `vendim-2005-192/<day>`; `python tools/on.py <day> vendim-2005-192`).
+Act id: `vendim-2005-192` (tags `vendim-2005-192/<day>`; `python registry/tools/on.py <day> vendim-2005-192`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e dokumenteve, që duhet të paraqesin shtetasit, e të procedurave
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1243` (tags `vendim-2009-1243/<day>`; `python tools/on.py <day> vendim-2009-1243`).
+Act id: `vendim-2009-1243` (tags `vendim-2009-1243/<day>`; `python registry/tools/on.py <day> vendim-2009-1243`).
 
 ## Decisions made by hand
 

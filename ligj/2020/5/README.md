@@ -13,7 +13,7 @@ Dhënie amnistie · 1 versions, from 2020-03-03 (latest in force: 2020-03-03) ·
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-5` (tags `ligj-2020-5/<day>`; `python tools/on.py <day> ligj-2020-5`).
+Act id: `ligj-2020-5` (tags `ligj-2020-5/<day>`; `python registry/tools/on.py <day> ligj-2020-5`).
 
 ## Decisions made by hand
 

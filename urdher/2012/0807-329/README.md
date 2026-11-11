@@ -14,7 +14,7 @@ Akreditimin e programit të studimit të ciklit të dytë “master profesional�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0807-329` (tags `urdher-2012-0807-329/<day>`; `python tools/on.py <day> urdher-2012-0807-329`).
+Act id: `urdher-2012-0807-329` (tags `urdher-2012-0807-329/<day>`; `python registry/tools/on.py <day> urdher-2012-0807-329`).
 
 ## Decisions made by hand
 

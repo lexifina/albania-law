@@ -19,7 +19,7 @@ Mënyrën e njoftimit elektronik të akteve gjyqësore · 2 versions, from 2013-
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0905-360` (tags `urdher-2013-0905-360/<day>`; `python tools/on.py <day> urdher-2013-0905-360`).
+Act id: `urdher-2013-0905-360` (tags `urdher-2013-0905-360/<day>`; `python registry/tools/on.py <day> urdher-2013-0905-360`).
 
 ## Decisions made by hand
 

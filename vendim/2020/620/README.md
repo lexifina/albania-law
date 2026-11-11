@@ -26,7 +26,7 @@ Përcaktimin e kushteve dhe të mënyrës së përfitimit të mbrojtjes së veç
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-620` (tags `vendim-2020-620/<day>`; `python tools/on.py <day> vendim-2020-620`).
+Act id: `vendim-2020-620` (tags `vendim-2020-620/<day>`; `python registry/tools/on.py <day> vendim-2020-620`).
 
 ## Decisions made by hand
 

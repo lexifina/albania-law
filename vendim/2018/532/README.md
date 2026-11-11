@@ -18,7 +18,15 @@ Miratimin e rregullave për tregtimin, transportin, ruajtjen dhe magazinimin e p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-532` (tags `vendim-2018-532/<day>`; `python tools/on.py <day> vendim-2018-532`).
+Act id: `vendim-2018-532` (tags `vendim-2018-532/<day>`; `python registry/tools/on.py <day> vendim-2018-532`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 578, datë 2.12.2022 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 25302]: Për miratimin e planit të veprimit për përdorimin e qëndrueshëm të produkteve për mbrojtjen e bimëve, 2022-2032](https://qbz.gov.al/eli/urdher/2022/12/02/578)
 
 ## Decisions made by hand
 

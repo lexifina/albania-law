@@ -5,7 +5,7 @@ Deklasifikimin e zhvlerësimin e informacionit të klasifikuar “sekret shtetë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-124` (tags `vendim-2001-124/<day>`; `python tools/on.py <day> vendim-2001-124`).
+Act id: `vendim-2001-124` (tags `vendim-2001-124/<day>`; `python registry/tools/on.py <day> vendim-2001-124`).
 
 ## Decisions made by hand
 

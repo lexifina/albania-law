@@ -8,7 +8,7 @@ Administrimin e të ardhurave që krijohen nga shitja e dokumentacionit tatimor,
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-435` (tags `vendim-2010-435/<day>`; `python tools/on.py <day> vendim-2010-435`).
+Act id: `vendim-2010-435` (tags `vendim-2010-435/<day>`; `python registry/tools/on.py <day> vendim-2010-435`).
 
 ## Decisions made by hand
 

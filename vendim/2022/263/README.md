@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes së grantit nr.TF0B5581, ndërmjet Republikës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-263` (tags `vendim-2022-263/<day>`; `python tools/on.py <day> vendim-2022-263`).
+Act id: `vendim-2022-263` (tags `vendim-2022-263/<day>`; `python registry/tools/on.py <day> vendim-2022-263`).
 
 ## Decisions made by hand
 

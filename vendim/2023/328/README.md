@@ -24,7 +24,7 @@ Klasifikimin e funksioneve, grupimin e njësive të vetëqeverisjes vendore, pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-02-13 |
 
-Act id: `vendim-2023-328` (tags `vendim-2023-328/<day>`; `python tools/on.py <day> vendim-2023-328`).
+Act id: `vendim-2023-328` (tags `vendim-2023-328/<day>`; `python registry/tools/on.py <day> vendim-2023-328`).
 
 ## Decisions made by hand
 

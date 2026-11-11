@@ -44,7 +44,7 @@ Administrimin e objekteve të konfiskuara si ndërtime pa leje, me qëllim përd
 | Neni 32 | [neni-032.md](neni-032.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-66-2023` (tags `ligji-66-2023/<day>`; `python tools/on.py <day> ligji-66-2023`).
+Act id: `ligji-66-2023` (tags `ligji-66-2023/<day>`; `python registry/tools/on.py <day> ligji-66-2023`).
 
 ## Decisions made by hand
 

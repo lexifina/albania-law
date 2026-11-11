@@ -14,7 +14,7 @@ Përcaktimin e tarifës së shërbimit për shërbimet e transmetimeve radiotele
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1229-32` (tags `udhezim-2014-1229-32/<day>`; `python tools/on.py <day> udhezim-2014-1229-32`).
+Act id: `udhezim-2014-1229-32` (tags `udhezim-2014-1229-32/<day>`; `python registry/tools/on.py <day> udhezim-2014-1229-32`).
 
 ## Decisions made by hand
 

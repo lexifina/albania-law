@@ -17,7 +17,7 @@ Autorizimin dhe delegimin e disa kompetencave/autoritetit të ministrit të Drej
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1016-618` (tags `urdher-2025-1016-618/<day>`; `python tools/on.py <day> urdher-2025-1016-618`).
+Act id: `urdher-2025-1016-618` (tags `urdher-2025-1016-618/<day>`; `python registry/tools/on.py <day> urdher-2025-1016-618`).
 
 ## Decisions made by hand
 

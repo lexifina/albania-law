@@ -5,7 +5,7 @@ PËR ZBATIMIN E Vendimit të këshillit të ministrave NR.617, DATË 7.9.2006 �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-1004-1945` (tags `udhezim-2010-1004-1945/<day>`; `python tools/on.py <day> udhezim-2010-1004-1945`).
+Act id: `udhezim-2010-1004-1945` (tags `udhezim-2010-1004-1945/<day>`; `python registry/tools/on.py <day> udhezim-2010-1004-1945`).
 
 ## Decisions made by hand
 

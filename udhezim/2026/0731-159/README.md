@@ -21,7 +21,7 @@ Bashkëpunimin ndërinstitucional, ndërmjet autoriteteve përgjegjëse të mini
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0731-159` (tags `udhezim-2026-0731-159/<day>`; `python tools/on.py <day> udhezim-2026-0731-159`).
+Act id: `udhezim-2026-0731-159` (tags `udhezim-2026-0731-159/<day>`; `python registry/tools/on.py <day> udhezim-2026-0731-159`).
 
 ## Decisions made by hand
 

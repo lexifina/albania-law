@@ -11,7 +11,7 @@ Miratimin e rezolutave nr. 271 “Rritja selektive e kapitalit SCI” dhe nr. 27
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-5-2023` (tags `ligji-5-2023/<day>`; `python tools/on.py <day> ligji-5-2023`).
+Act id: `ligji-5-2023` (tags `ligji-5-2023/<day>`; `python registry/tools/on.py <day> ligji-5-2023`).
 
 ## Decisions made by hand
 

@@ -36,7 +36,7 @@ Përcaktimin e metodologjisë dhe të procedurave të monitorimit të qarkullimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1185` (tags `vendim-2020-1185/<day>`; `python tools/on.py <day> vendim-2020-1185`).
+Act id: `vendim-2020-1185` (tags `vendim-2020-1185/<day>`; `python registry/tools/on.py <day> vendim-2020-1185`).
 
 ## Decisions made by hand
 

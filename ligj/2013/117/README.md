@@ -9,7 +9,7 @@ Ratifikimin e protokollit të katërt shtesë të Konventës Europiane të Ekstr
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-117` (tags `ligj-2013-117/<day>`; `python tools/on.py <day> ligj-2013-117`).
+Act id: `ligj-2013-117` (tags `ligj-2013-117/<day>`; `python registry/tools/on.py <day> ligj-2013-117`).
 
 ## Decisions made by hand
 

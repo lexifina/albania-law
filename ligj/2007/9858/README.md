@@ -5,7 +5,7 @@ Miratimin e strategjisë ushtarake të republikës së shqipërisë · 2 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9858` (tags `ligj-2007-9858/<day>`; `python tools/on.py <day> ligj-2007-9858`).
+Act id: `ligj-2007-9858` (tags `ligj-2007-9858/<day>`; `python registry/tools/on.py <day> ligj-2007-9858`).
 
 ## Decisions made by hand
 

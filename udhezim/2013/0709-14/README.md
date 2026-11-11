@@ -22,7 +22,17 @@ Procedurën e pranimit dhe të regjistrimit në programet e studimeve të ciklit
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0709-14` (tags `udhezim-2013-0709-14/<day>`; `python tools/on.py <day> udhezim-2013-0709-14`).
+Act id: `udhezim-2013-0709-14` (tags `udhezim-2013-0709-14/<day>`; `python registry/tools/on.py <day> udhezim-2013-0709-14`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 19, datë 30.7.2013 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 9828]: Për një ndryshim në udhëzimin nr. 14, datë 9.7.2013 “Për procedurën e pranimit dhe të regjistrimit në programet e studimeve të ciklit të parë dhe të dytë, të ofruara nga institucionet private të arsimit të lartë, si edhe për transferimin e studimeve në këto institucione për vitin akademik 2013-2014”](https://qbz.gov.al/eli/udhezim/2013/07/30/19)
+- [Udhëzimi nr. 1, datë 13.1.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 10417]: Për disa shtesa dhe ndryshime në udhëzimin e ministrit të arsimit dhe shkencës nr. 17, datë 31.7.2012 “për procedurën e pranimit dhe të regjistrimit në programet e studimeve të ciklit të parë dhe të dytë, me kohë të plotë, të ofruara nga institucionet e arsimit të lartë privat, si edhe për transferimin e studimeve për vitin akademik 2012-2013” dhe udhëzimin e ministrit të arsimit dhe shkencës nr. 14, datë 9.7.2013 “për procedurën e pranimit dhe të regjistrimit në programet e studimeve të ciklit të parë dhe të dytë, të ofruara nga institucionet private të arsimit të lartë, si edhe për transferimin e studimeve në këto institucione për vitin akademik 2013-2014”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2014/01/13/1)
+- [Udhëzimi nr. 5, datë 11.3.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 10944]: Për një ndryshim në udhëzimin e ministrit të arsimit dhe shkencës nr. 14, datë 9.7.2013, “për procedurën e pranimit dhe të regjistrimit në programet e studimeve të ciklit të parë dhe të dytë, të ofruara nga institucionet private të arsimit të lartë, si edhe për transferimin e studimeve në këto institucione për vitin akademik 2013-2014”, të ndryshuar”](https://qbz.gov.al/eli/udhezim/2014/03/11/5)
 
 ## Decisions made by hand
 

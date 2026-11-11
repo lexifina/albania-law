@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e Inspektoratit Shtetëror të Punës dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-295` (tags `vendim-2013-295/<day>`; `python tools/on.py <day> vendim-2013-295`).
+Act id: `vendim-2013-295` (tags `vendim-2013-295/<day>`; `python registry/tools/on.py <day> vendim-2013-295`).
 
 ## Decisions made by hand
 

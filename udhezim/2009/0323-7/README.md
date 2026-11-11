@@ -19,7 +19,7 @@ PËR DETYRAT E POLICISË SË SHTETIT DHE të FORCAVE TË USHTRISË NË ZGJEDHJET
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0323-7` (tags `udhezim-2009-0323-7/<day>`; `python tools/on.py <day> udhezim-2009-0323-7`).
+Act id: `udhezim-2009-0323-7` (tags `udhezim-2009-0323-7/<day>`; `python registry/tools/on.py <day> udhezim-2009-0323-7`).
 
 ## Decisions made by hand
 

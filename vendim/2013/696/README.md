@@ -22,7 +22,7 @@ Përcaktimin e procedurave të ushtrimit të kompetencave të Inspektoratit Qend
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-696` (tags `vendim-2013-696/<day>`; `python tools/on.py <day> vendim-2013-696`).
+Act id: `vendim-2013-696` (tags `vendim-2013-696/<day>`; `python registry/tools/on.py <day> vendim-2013-696`).
 
 ## Decisions made by hand
 

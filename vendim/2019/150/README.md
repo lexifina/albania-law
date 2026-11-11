@@ -5,7 +5,7 @@ Metodologjinë e llogaritjes së fondeve për financimin e shërbimeve të kujde
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-150` (tags `vendim-2019-150/<day>`; `python tools/on.py <day> vendim-2019-150`).
+Act id: `vendim-2019-150` (tags `vendim-2019-150/<day>`; `python registry/tools/on.py <day> vendim-2019-150`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes me shkëmbim notash ndërmjet këshillit të ministr
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-76-2017` (tags `ligji-76-2017/<day>`; `python tools/on.py <day> ligji-76-2017`).
+Act id: `ligji-76-2017` (tags `ligji-76-2017/<day>`; `python registry/tools/on.py <day> ligji-76-2017`).
 
 ## Decisions made by hand
 

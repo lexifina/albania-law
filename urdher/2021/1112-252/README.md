@@ -5,7 +5,7 @@ Mbi delegimin e kompetencës për nënshkrimin e kontratave për mbështetjen fi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-1112-252` (tags `urdher-2021-1112-252/<day>`; `python tools/on.py <day> urdher-2021-1112-252`).
+Act id: `urdher-2021-1112-252` (tags `urdher-2021-1112-252/<day>`; `python registry/tools/on.py <day> urdher-2021-1112-252`).
 
 ## Decisions made by hand
 

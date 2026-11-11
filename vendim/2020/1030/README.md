@@ -10,7 +10,7 @@ Miratimin e rregullave të hollësishme për prodhimin e ushqimeve biologjike t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1030` (tags `vendim-2020-1030/<day>`; `python tools/on.py <day> vendim-2020-1030`).
+Act id: `vendim-2020-1030` (tags `vendim-2020-1030/<day>`; `python registry/tools/on.py <day> vendim-2020-1030`).
 
 ## Decisions made by hand
 

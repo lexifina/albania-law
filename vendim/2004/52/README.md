@@ -5,7 +5,7 @@ Procedurën e dhënies SË LEJES së përdorimit civil të lëndëve plasëse ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-52` (tags `vendim-2004-52/<day>`; `python tools/on.py <day> vendim-2004-52`).
+Act id: `vendim-2004-52` (tags `vendim-2004-52/<day>`; `python registry/tools/on.py <day> vendim-2004-52`).
 
 ## Decisions made by hand
 

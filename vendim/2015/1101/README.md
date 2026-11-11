@@ -5,7 +5,7 @@ Miratimin e kushteve dhe përcaktimin e rregullave për transportin rrugor të n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1101` (tags `vendim-2015-1101/<day>`; `python tools/on.py <day> vendim-2015-1101`).
+Act id: `vendim-2015-1101` (tags `vendim-2015-1101/<day>`; `python registry/tools/on.py <day> vendim-2015-1101`).
 
 ## Decisions made by hand
 

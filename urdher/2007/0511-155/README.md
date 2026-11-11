@@ -9,7 +9,7 @@ Miratimin e Statutit të Organizatës së Menaxhimit të Peshkimit (OMP Nartë) 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2007-0511-155` (tags `urdher-2007-0511-155/<day>`; `python tools/on.py <day> urdher-2007-0511-155`).
+Act id: `urdher-2007-0511-155` (tags `urdher-2007-0511-155/<day>`; `python registry/tools/on.py <day> urdher-2007-0511-155`).
 
 ## Decisions made by hand
 

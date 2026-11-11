@@ -5,7 +5,7 @@ Delegimin e kompetencave · 2 versions, from 2020-10-07 (latest in force: 2021-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0925-314` (tags `urdher-2020-0925-314/<day>`; `python tools/on.py <day> urdher-2020-0925-314`).
+Act id: `urdher-2020-0925-314` (tags `urdher-2020-0925-314/<day>`; `python registry/tools/on.py <day> urdher-2020-0925-314`).
 
 ## Decisions made by hand
 

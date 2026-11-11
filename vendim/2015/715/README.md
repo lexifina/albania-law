@@ -22,7 +22,7 @@ Krijimin e skemës “Voucher” · 1 versions, from 2015-09-02 (latest in force
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-715` (tags `vendim-2015-715/<day>`; `python tools/on.py <day> vendim-2015-715`).
+Act id: `vendim-2015-715` (tags `vendim-2015-715/<day>`; `python registry/tools/on.py <day> vendim-2015-715`).
 
 ## Decisions made by hand
 

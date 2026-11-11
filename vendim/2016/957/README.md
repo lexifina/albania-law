@@ -5,7 +5,7 @@ Pagesën e kostos financiare të sistemit të identifikimit dhe të regjistrimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-957` (tags `vendim-2016-957/<day>`; `python tools/on.py <day> vendim-2016-957`).
+Act id: `vendim-2016-957` (tags `vendim-2016-957/<day>`; `python registry/tools/on.py <day> vendim-2016-957`).
 
 ## Decisions made by hand
 

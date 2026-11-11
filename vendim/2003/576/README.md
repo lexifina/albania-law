@@ -9,7 +9,7 @@ Miratimin e ndryshimeve në marrëveshjen e kredisë ndërmjet republikës së S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-576` (tags `vendim-2003-576/<day>`; `python tools/on.py <day> vendim-2003-576`).
+Act id: `vendim-2003-576` (tags `vendim-2003-576/<day>`; `python registry/tools/on.py <day> vendim-2003-576`).
 
 ## Decisions made by hand
 

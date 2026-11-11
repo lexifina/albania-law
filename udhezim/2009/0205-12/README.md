@@ -5,7 +5,7 @@ Metodat dhe procedurat e raportimit të subjekteve raportuese të ligjit nr.9917
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0205-12` (tags `udhezim-2009-0205-12/<day>`; `python tools/on.py <day> udhezim-2009-0205-12`).
+Act id: `udhezim-2009-0205-12` (tags `udhezim-2009-0205-12/<day>`; `python registry/tools/on.py <day> udhezim-2009-0205-12`).
 
 ## Decisions made by hand
 

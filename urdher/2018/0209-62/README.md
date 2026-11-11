@@ -17,7 +17,7 @@ Miratimin e rregullave për marrjen e masave për eliminimin e kafshëve · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0209-62` (tags `urdher-2018-0209-62/<day>`; `python tools/on.py <day> urdher-2018-0209-62`).
+Act id: `urdher-2018-0209-62` (tags `urdher-2018-0209-62/<day>`; `python registry/tools/on.py <day> urdher-2018-0209-62`).
 
 ## Decisions made by hand
 

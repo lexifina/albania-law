@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit nr. 1 të marrëveshjes së kredisë për eksport ndër
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-55` (tags `ligj-2017-55/<day>`; `python tools/on.py <day> ligj-2017-55`).
+Act id: `ligj-2017-55` (tags `ligj-2017-55/<day>`; `python registry/tools/on.py <day> ligj-2017-55`).
 
 ## Decisions made by hand
 

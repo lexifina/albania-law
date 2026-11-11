@@ -5,7 +5,7 @@ Ngarkimin e Fondit Shqiptar të Zhvillimit, si Autoritet Kontraktor për realizi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2023-568` (tags `vendim-2023-568/<day>`; `python tools/on.py <day> vendim-2023-568`).
+Act id: `vendim-2023-568` (tags `vendim-2023-568/<day>`; `python registry/tools/on.py <day> vendim-2023-568`).
 
 ## Decisions made by hand
 

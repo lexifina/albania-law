@@ -13,7 +13,7 @@ Pjesëmarrjen e policisë së shtetit në misione policore, paqeruajtëse dhe hu
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10438-2011` (tags `ligji-10438-2011/<day>`; `python tools/on.py <day> ligji-10438-2011`).
+Act id: `ligji-10438-2011` (tags `ligji-10438-2011/<day>`; `python registry/tools/on.py <day> ligji-10438-2011`).
 
 ## Decisions made by hand
 

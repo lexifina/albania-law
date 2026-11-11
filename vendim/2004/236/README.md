@@ -5,7 +5,7 @@ Miratimin e uniformës dhe të shenjave të policisë së shtetit · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-236` (tags `vendim-2004-236/<day>`; `python tools/on.py <day> vendim-2004-236`).
+Act id: `vendim-2004-236` (tags `vendim-2004-236/<day>`; `python registry/tools/on.py <day> vendim-2004-236`).
 
 ## Decisions made by hand
 

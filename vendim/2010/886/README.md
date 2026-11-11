@@ -10,7 +10,17 @@ PËR miratimin e LISTËs PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHT
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-886` (tags `vendim-2010-886/<day>`; `python tools/on.py <day> vendim-2010-886`).
+Act id: `vendim-2010-886` (tags `vendim-2010-886/<day>`; `python registry/tools/on.py <day> vendim-2010-886`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 30, datë 22.1.2020: Për një ndryshim në vendimin nr. 886, datë 3.11.2010, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Belsh, të qarkut të Elbasanit”](https://qbz.gov.al/eli/vendim/2020/01/22/30)
+- [Vendimi i Këshillit të Ministrave nr. 266, datë 9.5.2025: Për transferimin në pronësi nga Ministria e Mbrojtjes te Bashkia Belsh të pronës me emërtimin “Agjencia Seferan, Elbasan”, me numër pasurie 116/1, në zonën kadastrale 3272, dhe për një shtesë në vendimin nr. 886, datë 3.11.2010, të Këshillit të Ministrave, të ndryshuar, si dhe për një ndryshim në vendim nr. 413, datë 11.7. 2007, të Këshillit të Ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2025/05/09/266)
+- [Vendimi i Këshillit të Ministrave nr. 322, datë 18.5.2022: Për transferimin në pronësi, nga Ministria e Mbrojtjes te Bashkia Belsh, të pronës nr.306, me emërtim “Ish-reparti ushtarak nr.7040 (b.k dhe grup artilerie)”, me vendndodhje në Trojas, Belsh, Elbasan, zona kadastrale 3647, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar, dhe në vendimin nr.886, datë 3.11.2010, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim të bashkisë Belsh, të qarkut të Elbasanit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2022/05/18/322)
 
 ## Decisions made by hand
 

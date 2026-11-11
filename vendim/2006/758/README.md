@@ -15,7 +15,7 @@ Miratimin e procedurave të shpërndarjes së fondit të kompensimit në të hol
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-758` (tags `vendim-2006-758/<day>`; `python tools/on.py <day> vendim-2006-758`).
+Act id: `vendim-2006-758` (tags `vendim-2006-758/<day>`; `python registry/tools/on.py <day> vendim-2006-758`).
 
 ## Decisions made by hand
 

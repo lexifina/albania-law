@@ -10,7 +10,7 @@ Miratimin e kalendarittë menaxhimit të shpenzimeve publike për vitin 2017 · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-6` (tags `vendim-2017-6/<day>`; `python tools/on.py <day> vendim-2017-6`).
+Act id: `vendim-2017-6` (tags `vendim-2017-6/<day>`; `python registry/tools/on.py <day> vendim-2017-6`).
 
 ## Decisions made by hand
 

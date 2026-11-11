@@ -11,7 +11,7 @@ Miratimin e rregullit teknik “Për pajisjet dhe bashkësitë nën presion” d
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1062` (tags `vendim-2015-1062/<day>`; `python tools/on.py <day> vendim-2015-1062`).
+Act id: `vendim-2015-1062` (tags `vendim-2015-1062/<day>`; `python registry/tools/on.py <day> vendim-2015-1062`).
 
 ## Decisions made by hand
 

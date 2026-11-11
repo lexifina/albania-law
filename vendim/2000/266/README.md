@@ -5,7 +5,7 @@ Ndryshimin e emrit zyrtar të institutit të lartë të kulturës fizike “vojo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-266` (tags `vendim-2000-266/<day>`; `python tools/on.py <day> vendim-2000-266`).
+Act id: `vendim-2000-266` (tags `vendim-2000-266/<day>`; `python registry/tools/on.py <day> vendim-2000-266`).
 
 ## Decisions made by hand
 

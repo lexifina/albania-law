@@ -5,7 +5,7 @@ Shpërblimin e ushtarakëve, pjesëmarrës në operacionin “Althea” të Bash
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-477` (tags `vendim-2005-477/<day>`; `python tools/on.py <day> vendim-2005-477`).
+Act id: `vendim-2005-477` (tags `vendim-2005-477/<day>`; `python registry/tools/on.py <day> vendim-2005-477`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Lejimin e komandës së mbështetjes logjistike, tiranë, të përdorë procedur
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-135` (tags `vendim-2005-135/<day>`; `python tools/on.py <day> vendim-2005-135`).
+Act id: `vendim-2005-135` (tags `vendim-2005-135/<day>`; `python registry/tools/on.py <day> vendim-2005-135`).
 
 ## Decisions made by hand
 

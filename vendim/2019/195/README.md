@@ -5,7 +5,7 @@ Caktimin e anëtarëve të Këshillit Koordinues të Diaspores · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-195` (tags `vendim-2019-195/<day>`; `python tools/on.py <day> vendim-2019-195`).
+Act id: `vendim-2019-195` (tags `vendim-2019-195/<day>`; `python registry/tools/on.py <day> vendim-2019-195`).
 
 ## Decisions made by hand
 

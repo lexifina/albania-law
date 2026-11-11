@@ -5,7 +5,7 @@ Masat e mëtejshme urgjente në vitet 2019-2021, për rezervat e pelagjikëve t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0725-435` (tags `urdher-2019-0725-435/<day>`; `python tools/on.py <day> urdher-2019-0725-435`).
+Act id: `urdher-2019-0725-435` (tags `urdher-2019-0725-435/<day>`; `python registry/tools/on.py <day> urdher-2019-0725-435`).
 
 ## Decisions made by hand
 

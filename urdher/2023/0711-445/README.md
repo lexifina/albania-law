@@ -12,7 +12,7 @@ Miratimin e veprimtarisë të Bordit të Akreditimit të Muzeve dhe të formatit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0711-445` (tags `urdher-2023-0711-445/<day>`; `python tools/on.py <day> urdher-2023-0711-445`).
+Act id: `urdher-2023-0711-445` (tags `urdher-2023-0711-445/<day>`; `python registry/tools/on.py <day> urdher-2023-0711-445`).
 
 ## Decisions made by hand
 

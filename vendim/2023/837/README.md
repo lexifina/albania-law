@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Bujar Bukoshi · 1 versions, from 202
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-837` (tags `vendim-2023-837/<day>`; `python tools/on.py <day> vendim-2023-837`).
+Act id: `vendim-2023-837` (tags `vendim-2023-837/<day>`; `python registry/tools/on.py <day> vendim-2023-837`).
 
 ## Decisions made by hand
 

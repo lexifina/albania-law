@@ -18,7 +18,7 @@ Fondin e ekselencës, për mbështetje financiare të studentëve e shkencëtar�
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-554` (tags `vendim-2010-554/<day>`; `python tools/on.py <day> vendim-2010-554`).
+Act id: `vendim-2010-554` (tags `vendim-2010-554/<day>`; `python registry/tools/on.py <day> vendim-2010-554`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përbërjen, funksionimin dhe mënyrën e shpërblimit të komisionit kombëtar 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-401` (tags `vendim-2014-401/<day>`; `python tools/on.py <day> vendim-2014-401`).
+Act id: `vendim-2014-401` (tags `vendim-2014-401/<day>`; `python registry/tools/on.py <day> vendim-2014-401`).
 
 ## Decisions made by hand
 

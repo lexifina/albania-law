@@ -9,7 +9,7 @@ Miratimin e buxhetit faktik të vitit 1999 · 1 versions, from 2000-11-24 (lates
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8676` (tags `ligj-2000-8676/<day>`; `python tools/on.py <day> ligj-2000-8676`).
+Act id: `ligj-2000-8676` (tags `ligj-2000-8676/<day>`; `python registry/tools/on.py <day> ligj-2000-8676`).
 
 ## Decisions made by hand
 

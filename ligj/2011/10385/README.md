@@ -55,7 +55,7 @@ Ndërmjetësimin në zgjidhjen e mosmarrëveshjeve · 1 versions, from 2018-06-2
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10385` (tags `ligj-2011-10385/<day>`; `python tools/on.py <day> ligj-2011-10385`).
+Act id: `ligj-2011-10385` (tags `ligj-2011-10385/<day>`; `python registry/tools/on.py <day> ligj-2011-10385`).
 
 ## Decisions made by hand
 

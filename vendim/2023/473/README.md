@@ -12,7 +12,7 @@ Hapjen e procedurës së pranimit të drejtpërdrejtë në TND edhe për kandida
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-473` (tags `vendim-2023-473/<day>`; `python tools/on.py <day> vendim-2023-473`).
+Act id: `vendim-2023-473` (tags `vendim-2023-473/<day>`; `python registry/tools/on.py <day> vendim-2023-473`).
 
 ## Decisions made by hand
 

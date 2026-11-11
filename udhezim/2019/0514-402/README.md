@@ -5,7 +5,7 @@ Procedurat e punësimit të mjekëve në institucionet shëndetësore publike n�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0514-402` (tags `udhezim-2019-0514-402/<day>`; `python tools/on.py <day> udhezim-2019-0514-402`).
+Act id: `udhezim-2019-0514-402` (tags `udhezim-2019-0514-402/<day>`; `python registry/tools/on.py <day> udhezim-2019-0514-402`).
 
 ## Decisions made by hand
 

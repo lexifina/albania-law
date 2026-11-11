@@ -5,7 +5,7 @@ Miratimin e dokumentit të politikave “për krijimin e infrastrukturës kombë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-144` (tags `vendim-2012-144/<day>`; `python tools/on.py <day> vendim-2012-144`).
+Act id: `vendim-2012-144` (tags `vendim-2012-144/<day>`; `python registry/tools/on.py <day> vendim-2012-144`).
 
 ## Decisions made by hand
 

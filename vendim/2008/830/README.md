@@ -17,7 +17,7 @@ Licencimin e institucionit privat të arsimit të lartë “shkolla e lartë “
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-830` (tags `vendim-2008-830/<day>`; `python tools/on.py <day> vendim-2008-830`).
+Act id: `vendim-2008-830` (tags `vendim-2008-830/<day>`; `python registry/tools/on.py <day> vendim-2008-830`).
 
 ## Decisions made by hand
 

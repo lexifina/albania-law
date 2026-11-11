@@ -10,7 +10,7 @@ Miratimin e studimit “përcaktimi i hapësirave të përshtatshme për ndërti
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-251` (tags `vendim-2001-251/<day>`; `python tools/on.py <day> vendim-2001-251`).
+Act id: `vendim-2001-251` (tags `vendim-2001-251/<day>`; `python registry/tools/on.py <day> vendim-2001-251`).
 
 ## Decisions made by hand
 

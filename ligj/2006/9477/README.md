@@ -12,7 +12,7 @@ Disa ndryshime dhe shtesa në ligjin nr.9228, datë 29.4.2004 “Për kontabilit
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9477-2006` (tags `ligji-9477-2006/<day>`; `python tools/on.py <day> ligji-9477-2006`).
+Act id: `ligji-9477-2006` (tags `ligji-9477-2006/<day>`; `python registry/tools/on.py <day> ligji-9477-2006`).
 
 ## Decisions made by hand
 

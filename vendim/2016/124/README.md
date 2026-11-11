@@ -40,7 +40,7 @@ Pezullimin dhe lirimin nga shërbimi civil · 1 versions, from 2018-12-24 (lates
 | Pika 33 | [pika-033.md](pika-033.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-124` (tags `vendim-2016-124/<day>`; `python tools/on.py <day> vendim-2016-124`).
+Act id: `vendim-2016-124` (tags `vendim-2016-124/<day>`; `python registry/tools/on.py <day> vendim-2016-124`).
 
 ## Decisions made by hand
 

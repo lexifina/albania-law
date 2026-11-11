@@ -46,7 +46,7 @@ Përcaktimin e masave të sigurisë, përgjegjësive dhe mënyrave të ruajtjes 
 | Neni 35 | [neni-035.md](neni-035.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-56` (tags `vendim-2022-56/<day>`; `python tools/on.py <day> vendim-2022-56`).
+Act id: `vendim-2022-56` (tags `vendim-2022-56/<day>`; `python registry/tools/on.py <day> vendim-2022-56`).
 
 ## Decisions made by hand
 

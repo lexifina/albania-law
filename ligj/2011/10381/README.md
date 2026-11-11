@@ -9,7 +9,7 @@ Miratimin e kontratës së koncesionit ndërmjet ministrisë së financave, si a
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10381-2011` (tags `ligji-10381-2011/<day>`; `python tools/on.py <day> ligji-10381-2011`).
+Act id: `ligji-10381-2011` (tags `ligji-10381-2011/<day>`; `python registry/tools/on.py <day> ligji-10381-2011`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Transferimin në përgjegjësi administrimi nga Ministria e Financave dhe Ekonom
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-516` (tags `vendim-2023-516/<day>`; `python tools/on.py <day> vendim-2023-516`).
+Act id: `vendim-2023-516` (tags `vendim-2023-516/<day>`; `python registry/tools/on.py <day> vendim-2023-516`).
 
 ## Decisions made by hand
 

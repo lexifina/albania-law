@@ -10,7 +10,7 @@ Miratimin e rregullave të përgjithshme për procedurat e dhënies të së drej
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-155` (tags `vendim-2022-155/<day>`; `python tools/on.py <day> vendim-2022-155`).
+Act id: `vendim-2022-155` (tags `vendim-2022-155/<day>`; `python registry/tools/on.py <day> vendim-2022-155`).
 
 ## Decisions made by hand
 

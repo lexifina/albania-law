@@ -12,7 +12,7 @@ Ratifikimin e konventës ndërkombëtare të okb-së “për mbrojtjen e të gji
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9802` (tags `ligj-2007-9802/<day>`; `python tools/on.py <day> ligj-2007-9802`).
+Act id: `ligj-2007-9802` (tags `ligj-2007-9802/<day>`; `python registry/tools/on.py <day> ligj-2007-9802`).
 
 ## Decisions made by hand
 

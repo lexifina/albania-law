@@ -11,7 +11,7 @@ Masën e përdorimit të të ardhurave nga privatizimi i shoqërisë anonime “
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-418` (tags `vendim-2004-418/<day>`; `python tools/on.py <day> vendim-2004-418`).
+Act id: `vendim-2004-418` (tags `vendim-2004-418/<day>`; `python registry/tools/on.py <day> vendim-2004-418`).
 
 ## Decisions made by hand
 

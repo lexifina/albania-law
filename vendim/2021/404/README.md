@@ -5,7 +5,7 @@ Përdorimin e fondit të rindërtimit, për financimin e rikonstruksionit të rr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-404` (tags `vendim-2021-404/<day>`; `python tools/on.py <day> vendim-2021-404`).
+Act id: `vendim-2021-404` (tags `vendim-2021-404/<day>`; `python registry/tools/on.py <day> vendim-2021-404`).
 
 ## Decisions made by hand
 

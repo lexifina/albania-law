@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së grantit GEF ndërmjet Këshillit të Ministra
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9437` (tags `ligj-2005-9437/<day>`; `python tools/on.py <day> ligj-2005-9437`).
+Act id: `ligj-2005-9437` (tags `ligj-2005-9437/<day>`; `python registry/tools/on.py <day> ligj-2005-9437`).
 
 ## Decisions made by hand
 

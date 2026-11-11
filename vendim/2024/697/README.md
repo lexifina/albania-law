@@ -9,7 +9,7 @@ Kalimin te bashkitë Vorë dhe Kurbin të njësive të banimit në ndërtesa (pa
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-697` (tags `vendim-2024-697/<day>`; `python tools/on.py <day> vendim-2024-697`).
+Act id: `vendim-2024-697` (tags `vendim-2024-697/<day>`; `python registry/tools/on.py <day> vendim-2024-697`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,15 @@ Miratimin e kontratës së koncesionit, “për ndërtimin, përmirësimin, shfr
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-870` (tags `vendim-2016-870/<day>`; `python tools/on.py <day> vendim-2016-870`).
+Act id: `vendim-2016-870` (tags `vendim-2016-870/<day>`; `python registry/tools/on.py <day> vendim-2016-870`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 478, datë 31.7.2018: Për miratimin e kontratës shtesë të koncesionit, për një ndryshim dhe shtesë në kontratën e koncesionit, “për ndërtimin, përmirësimin, shfrytëzimin dhe mirëmbajtjen e autostradës milot-morinë”, miratuar me vendimin nr. 870, datë 14.12.2016, të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2018/07/31/478)
 
 ## Decisions made by hand
 

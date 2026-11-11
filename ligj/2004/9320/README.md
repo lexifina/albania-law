@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.97 të organizatës ndërkombëtare të punës �
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9320` (tags `ligj-2004-9320/<day>`; `python tools/on.py <day> ligj-2004-9320`).
+Act id: `ligj-2004-9320` (tags `ligj-2004-9320/<day>`; `python registry/tools/on.py <day> ligj-2004-9320`).
 
 ## Decisions made by hand
 

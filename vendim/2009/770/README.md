@@ -5,7 +5,7 @@ Përcaktimin e mënyrave, të formave, kritereve dhe të rregullave shtesë, pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-770` (tags `vendim-2009-770/<day>`; `python tools/on.py <day> vendim-2009-770`).
+Act id: `vendim-2009-770` (tags `vendim-2009-770/<day>`; `python registry/tools/on.py <day> vendim-2009-770`).
 
 ## Decisions made by hand
 

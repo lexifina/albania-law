@@ -12,7 +12,7 @@ Ngritjen e grupit ndërinstitucional të punës për përgatitjen e ndryshimeve 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0118-13` (tags `urdher-2018-0118-13/<day>`; `python tools/on.py <day> urdher-2018-0118-13`).
+Act id: `urdher-2018-0118-13` (tags `urdher-2018-0118-13/<day>`; `python registry/tools/on.py <day> urdher-2018-0118-13`).
 
 ## Decisions made by hand
 

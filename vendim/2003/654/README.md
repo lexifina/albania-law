@@ -5,7 +5,7 @@ Krijimin e institutit të kurrikulave dhe të standardeve (iks) dhe për shkrirj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-654` (tags `vendim-2003-654/<day>`; `python tools/on.py <day> vendim-2003-654`).
+Act id: `vendim-2003-654` (tags `vendim-2003-654/<day>`; `python registry/tools/on.py <day> vendim-2003-654`).
 
 ## Decisions made by hand
 

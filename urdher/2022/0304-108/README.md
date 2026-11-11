@@ -5,7 +5,7 @@ Miratimin e Rregullores për Zhvillimin e Maturës Shtetërore në Republikën e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2022-0304-108` (tags `urdher-2022-0304-108/<day>`; `python tools/on.py <day> urdher-2022-0304-108`).
+Act id: `urdher-2022-0304-108` (tags `urdher-2022-0304-108/<day>`; `python registry/tools/on.py <day> urdher-2022-0304-108`).
 
 ## Decisions made by hand
 

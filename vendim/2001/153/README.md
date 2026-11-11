@@ -15,7 +15,7 @@ Procedurat e operacioneve financiare në zbatim të ligjit nr. 8030, datë 15.11
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-153` (tags `vendim-2001-153/<day>`; `python tools/on.py <day> vendim-2001-153`).
+Act id: `vendim-2001-153` (tags `vendim-2001-153/<day>`; `python registry/tools/on.py <day> vendim-2001-153`).
 
 ## Decisions made by hand
 

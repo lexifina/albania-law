@@ -10,7 +10,7 @@ Miratimin e buxhetit faktik të shtetit të vitit 2007 · 1 versions, from 2008-
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10007-2008` (tags `ligji-10007-2008/<day>`; `python tools/on.py <day> ligji-10007-2008`).
+Act id: `ligji-10007-2008` (tags `ligji-10007-2008/<day>`; `python registry/tools/on.py <day> ligji-10007-2008`).
 
 ## Decisions made by hand
 

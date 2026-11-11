@@ -12,7 +12,7 @@ Ofrimin e shërbimeve stomatologjike në klinika/kabinete dentare · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0508-300` (tags `urdher-2020-0508-300/<day>`; `python tools/on.py <day> urdher-2020-0508-300`).
+Act id: `urdher-2020-0508-300` (tags `urdher-2020-0508-300/<day>`; `python registry/tools/on.py <day> urdher-2020-0508-300`).
 
 ## Decisions made by hand
 

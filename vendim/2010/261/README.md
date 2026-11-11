@@ -5,7 +5,7 @@ Përcaktimin e tarifës dhe të rregullave për pagimin e saj, në një procedur
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-261` (tags `vendim-2010-261/<day>`; `python tools/on.py <day> vendim-2010-261`).
+Act id: `vendim-2010-261` (tags `vendim-2010-261/<day>`; `python registry/tools/on.py <day> vendim-2010-261`).
 
 ## Decisions made by hand
 

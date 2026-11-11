@@ -5,7 +5,7 @@ Pёr funksionimin e procesit tё shkёmbimit tё dokumenteve ndёrmjet instituci
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-43` (tags `vendim-2020-43/<day>`; `python tools/on.py <day> vendim-2020-43`).
+Act id: `vendim-2020-43` (tags `vendim-2020-43/<day>`; `python registry/tools/on.py <day> vendim-2020-43`).
 
 ## Decisions made by hand
 

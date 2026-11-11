@@ -12,7 +12,7 @@ Pensionet shtetërore suplementare të punonjësve të universiteteve, të shkol
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0510-17` (tags `udhezim-2010-0510-17/<day>`; `python tools/on.py <day> udhezim-2010-0510-17`).
+Act id: `udhezim-2010-0510-17` (tags `udhezim-2010-0510-17/<day>`; `python registry/tools/on.py <day> udhezim-2010-0510-17`).
 
 ## Decisions made by hand
 

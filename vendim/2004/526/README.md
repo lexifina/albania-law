@@ -18,7 +18,7 @@ Miratimin e strukturës dhe të niveleve të pagave të nëpunësve të inspekto
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-526` (tags `vendim-2004-526/<day>`; `python tools/on.py <day> vendim-2004-526`).
+Act id: `vendim-2004-526` (tags `vendim-2004-526/<day>`; `python registry/tools/on.py <day> vendim-2004-526`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ PËR KRITERET DHE PROCEDURAT E LËSHIMIT, PEZULLIMIT DHE HEQJES SË LEJEVE PËR 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0623-10` (tags `udhezim-2008-0623-10/<day>`; `python tools/on.py <day> udhezim-2008-0623-10`).
+Act id: `udhezim-2008-0623-10` (tags `udhezim-2008-0623-10/<day>`; `python registry/tools/on.py <day> udhezim-2008-0623-10`).
 
 ## Decisions made by hand
 

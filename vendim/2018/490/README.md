@@ -10,7 +10,15 @@ Një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e financ
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-490` (tags `vendim-2018-490/<day>`; `python tools/on.py <day> vendim-2018-490`).
+Act id: `vendim-2018-490` (tags `vendim-2018-490/<day>`; `python registry/tools/on.py <day> vendim-2018-490`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 818, datë 26.12.2018: Për disa shtesa në vendimin nr. 490, datë 31.7.2018, të këshillit të ministrave, “për një shtesë fondi në buxhetin e vitit 2018, miratuar për ministrinë e financave dhe ekonomisë, për pagesën e shërbimeve juridike për përfaqësimin dhe mbrojtjen në gjykatën italiane”](https://qbz.gov.al/eli/vendim/2018/12/26/818)
 
 ## Decisions made by hand
 

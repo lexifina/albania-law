@@ -10,7 +10,7 @@ Detajimin e aktiviteteve sipas nomenklaturës së aktiviteteve ekonomike · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0410-257` (tags `urdher-2020-0410-257/<day>`; `python tools/on.py <day> urdher-2020-0410-257`).
+Act id: `urdher-2020-0410-257` (tags `urdher-2020-0410-257/<day>`; `python registry/tools/on.py <day> urdher-2020-0410-257`).
 
 ## Decisions made by hand
 

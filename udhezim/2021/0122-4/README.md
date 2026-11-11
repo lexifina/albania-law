@@ -31,7 +31,7 @@ Përcaktimin e procedurave të dhënies së lejeve shpërblyese apo të veçanta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0122-4` (tags `udhezim-2021-0122-4/<day>`; `python tools/on.py <day> udhezim-2021-0122-4`).
+Act id: `udhezim-2021-0122-4` (tags `udhezim-2021-0122-4/<day>`; `python registry/tools/on.py <day> udhezim-2021-0122-4`).
 
 ## Decisions made by hand
 

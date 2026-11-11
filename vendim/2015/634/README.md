@@ -11,7 +11,7 @@ Miratimin e rregullores “Për prezantimin e masave për sigurinë dhe shëndet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-634` (tags `vendim-2015-634/<day>`; `python tools/on.py <day> vendim-2015-634`).
+Act id: `vendim-2015-634` (tags `vendim-2015-634/<day>`; `python registry/tools/on.py <day> vendim-2015-634`).
 
 ## Decisions made by hand
 

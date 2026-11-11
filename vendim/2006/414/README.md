@@ -5,7 +5,7 @@ Kryerjen nga Posta Shqiptare sh.a., të shërbimeve, postare dhe financiare, të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-414` (tags `vendim-2006-414/<day>`; `python tools/on.py <day> vendim-2006-414`).
+Act id: `vendim-2006-414` (tags `vendim-2006-414/<day>`; `python registry/tools/on.py <day> vendim-2006-414`).
 
 ## Decisions made by hand
 

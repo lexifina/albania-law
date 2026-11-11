@@ -16,7 +16,7 @@ Miratimin e strukturës së pagës dhe të niveleve të pagave të pozicioneve �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-02-09 |
 
-Act id: `vendim-2024-484` (tags `vendim-2024-484/<day>`; `python tools/on.py <day> vendim-2024-484`).
+Act id: `vendim-2024-484` (tags `vendim-2024-484/<day>`; `python registry/tools/on.py <day> vendim-2024-484`).
 
 ## Decisions made by hand
 

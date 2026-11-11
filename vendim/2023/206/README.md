@@ -20,7 +20,7 @@ Ngritjen e strukturave dhe autoriteteve përgjegjëse për menaxhimin indirekt d
 | Pika 12 | [pika-012.md](pika-012.md) | 1 | 2026-03-03 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-206` (tags `vendim-2023-206/<day>`; `python tools/on.py <day> vendim-2023-206`).
+Act id: `vendim-2023-206` (tags `vendim-2023-206/<day>`; `python registry/tools/on.py <day> vendim-2023-206`).
 
 ## Decisions made by hand
 

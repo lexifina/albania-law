@@ -5,7 +5,7 @@ PËR PËRCAKTIMIN E POCEDURAVE TË KRIJIMIT, ORGANIZIMIT DHE MBYLLJES SË INSTIT
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-675` (tags `vendim-2003-675/<day>`; `python tools/on.py <day> vendim-2003-675`).
+Act id: `vendim-2003-675` (tags `vendim-2003-675/<day>`; `python registry/tools/on.py <day> vendim-2003-675`).
 
 ## Decisions made by hand
 

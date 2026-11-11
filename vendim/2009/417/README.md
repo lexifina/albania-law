@@ -17,7 +17,7 @@ Mbulimin e shpenzimeve të udhëtimit pËr zgjedhësit pa pasaportë, të cilëv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-417` (tags `vendim-2009-417/<day>`; `python tools/on.py <day> vendim-2009-417`).
+Act id: `vendim-2009-417` (tags `vendim-2009-417/<day>`; `python registry/tools/on.py <day> vendim-2009-417`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat e lëvizjes paralele, emërimit dhe të largimit nga puna të mësues
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-1006-38` (tags `udhezim-2015-1006-38/<day>`; `python tools/on.py <day> udhezim-2015-1006-38`).
+Act id: `udhezim-2015-1006-38` (tags `udhezim-2015-1006-38/<day>`; `python registry/tools/on.py <day> udhezim-2015-1006-38`).
 
 ## Decisions made by hand
 

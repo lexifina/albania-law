@@ -10,7 +10,7 @@ Miratimin e strategjisë kombëtare kundër drogës, 2012-2016 · 1 versions, fr
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-403` (tags `vendim-2012-403/<day>`; `python tools/on.py <day> vendim-2012-403`).
+Act id: `vendim-2012-403` (tags `vendim-2012-403/<day>`; `python registry/tools/on.py <day> vendim-2012-403`).
 
 ## Decisions made by hand
 

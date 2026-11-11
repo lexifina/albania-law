@@ -62,7 +62,7 @@ Mbrojtjen e fondit të bimëve mjekësore, eterovajore e tanifere natyrore · 1 
 | Neni 48 | [neni-048.md](neni-048.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10120` (tags `ligj-2009-10120/<day>`; `python tools/on.py <day> ligj-2009-10120`).
+Act id: `ligj-2009-10120` (tags `ligj-2009-10120/<day>`; `python registry/tools/on.py <day> ligj-2009-10120`).
 
 ## Decisions made by hand
 

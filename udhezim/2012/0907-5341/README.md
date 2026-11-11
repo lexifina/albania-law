@@ -5,7 +5,7 @@ Miratimin e tarifave të shërbimit të zyrave të regjistrimit të pasurive të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0907-5341` (tags `udhezim-2012-0907-5341/<day>`; `python tools/on.py <day> udhezim-2012-0907-5341`).
+Act id: `udhezim-2012-0907-5341` (tags `udhezim-2012-0907-5341/<day>`; `python registry/tools/on.py <day> udhezim-2012-0907-5341`).
 
 ## Decisions made by hand
 

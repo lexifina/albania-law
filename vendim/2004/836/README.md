@@ -5,7 +5,7 @@ Përbërjen, organizimin dhe funksionimin e këshillit · 3 versions, from 2004-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-836` (tags `vendim-2004-836/<day>`; `python tools/on.py <day> vendim-2004-836`).
+Act id: `vendim-2004-836` (tags `vendim-2004-836/<day>`; `python registry/tools/on.py <day> vendim-2004-836`).
 
 ## Decisions made by hand
 

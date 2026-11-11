@@ -16,7 +16,7 @@ Mënyrën e organizimit e të funksionimit dhe për përbërjen e Komisionit Qen
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-186` (tags `vendim-2010-186/<day>`; `python tools/on.py <day> vendim-2010-186`).
+Act id: `vendim-2010-186` (tags `vendim-2010-186/<day>`; `python registry/tools/on.py <day> vendim-2010-186`).
 
 ## Decisions made by hand
 

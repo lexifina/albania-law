@@ -10,7 +10,7 @@ Ratifikimin e vendimit nr. 5/2024 të Komitetit të Përbashkët të Marrëveshj
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-5-2026` (tags `ligji-5-2026/<day>`; `python tools/on.py <day> ligji-5-2026`).
+Act id: `ligji-5-2026` (tags `ligji-5-2026/<day>`; `python registry/tools/on.py <day> ligji-5-2026`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Delegim kompetencash për dhënien e ndihmave financiare për ushtarakët e Forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2015-0316-462` (tags `urdher-2015-0316-462/<day>`; `python tools/on.py <day> urdher-2015-0316-462`).
+Act id: `urdher-2015-0316-462` (tags `urdher-2015-0316-462/<day>`; `python registry/tools/on.py <day> urdher-2015-0316-462`).
 
 ## Decisions made by hand
 

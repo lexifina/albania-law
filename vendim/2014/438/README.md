@@ -5,7 +5,7 @@ Miratimin e planit kombëtar për integrimin evropian, 2014 - 2020 · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-438` (tags `vendim-2014-438/<day>`; `python tools/on.py <day> vendim-2014-438`).
+Act id: `vendim-2014-438` (tags `vendim-2014-438/<day>`; `python registry/tools/on.py <day> vendim-2014-438`).
 
 ## Decisions made by hand
 

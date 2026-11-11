@@ -11,7 +11,7 @@ Miratimin e kontratës tip të administrimit të bashkëpronësisë · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-1107-4728` (tags `udhezim-2011-1107-4728/<day>`; `python tools/on.py <day> udhezim-2011-1107-4728`).
+Act id: `udhezim-2011-1107-4728` (tags `udhezim-2011-1107-4728/<day>`; `python registry/tools/on.py <day> udhezim-2011-1107-4728`).
 
 ## Decisions made by hand
 

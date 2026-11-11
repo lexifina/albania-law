@@ -11,7 +11,7 @@ Miratimin e buxhetit të vitit 2016 për Zyrën e Regjistrimit të Pasurive të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-04-26 |
 
-Act id: `vendim-2015-1100` (tags `vendim-2015-1100/<day>`; `python tools/on.py <day> vendim-2015-1100`).
+Act id: `vendim-2015-1100` (tags `vendim-2015-1100/<day>`; `python registry/tools/on.py <day> vendim-2015-1100`).
 
 ## Decisions made by hand
 

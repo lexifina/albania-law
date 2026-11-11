@@ -17,7 +17,7 @@ Përshpronësimin, për interes publik, të pronarëve të pasurive të paluajts
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-742` (tags `vendim-2014-742/<day>`; `python tools/on.py <day> vendim-2014-742`).
+Act id: `vendim-2014-742` (tags `vendim-2014-742/<day>`; `python registry/tools/on.py <day> vendim-2014-742`).
 
 ## Decisions made by hand
 

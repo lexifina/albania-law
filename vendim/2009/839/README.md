@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-839` (tags `vendim-2009-839/<day>`; `python tools/on.py <day> vendim-2009-839`).
+Act id: `vendim-2009-839` (tags `vendim-2009-839/<day>`; `python registry/tools/on.py <day> vendim-2009-839`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 80, datë 8.2.2017: Për kalimin në pronësi, nga ministria e mbrojtjes te bashkia shijak, të pronës nr. 1131, me emërtim “ish-spitali”, me vendndodhje në shijak, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar, dhe në vendimin nr. 839, datë 22.7.2009, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë shijak, të qarkut të durrësit”](https://qbz.gov.al/eli/vendim/2017/02/08/80)
 
 ## Decisions made by hand
 

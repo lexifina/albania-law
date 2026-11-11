@@ -23,7 +23,7 @@ Përbërjen, funksionet, detyrat dhe përgjegjësitë e komiteteve të menaxhimi
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-593` (tags `vendim-2018-593/<day>`; `python tools/on.py <day> vendim-2018-593`).
+Act id: `vendim-2018-593` (tags `vendim-2018-593/<day>`; `python registry/tools/on.py <day> vendim-2018-593`).
 
 ## Decisions made by hand
 

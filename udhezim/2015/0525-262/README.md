@@ -43,7 +43,7 @@ Procedurat për lëshimin/ revokimin e dëshmisë për aftësimin teorik e prakt
 | Pika 35 | [pika-035.md](pika-035.md) | 1 | 2021-11-05 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0525-262` (tags `udhezim-2015-0525-262/<day>`; `python tools/on.py <day> udhezim-2015-0525-262`).
+Act id: `udhezim-2015-0525-262` (tags `udhezim-2015-0525-262/<day>`; `python registry/tools/on.py <day> udhezim-2015-0525-262`).
 
 ## Decisions made by hand
 

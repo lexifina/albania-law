@@ -10,7 +10,7 @@ Miratimin e rregullores “për kriteret dhe procedurat për zhvillimin e veprim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1227` (tags `vendim-2008-1227/<day>`; `python tools/on.py <day> vendim-2008-1227`).
+Act id: `vendim-2008-1227` (tags `vendim-2008-1227/<day>`; `python registry/tools/on.py <day> vendim-2008-1227`).
 
 ## Decisions made by hand
 

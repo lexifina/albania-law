@@ -10,7 +10,7 @@ Miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmes
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-195` (tags `vendim-2023-195/<day>`; `python tools/on.py <day> vendim-2023-195`).
+Act id: `vendim-2023-195` (tags `vendim-2023-195/<day>`; `python registry/tools/on.py <day> vendim-2023-195`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Ratifikimin e “traktatit për ndalimin e plotë të provave bërthamore” · 
 | Pjesa II | [pjesa-02.md](pjesa-02.md) | 0 |  |
 | Pjesa III | [pjesa-03.md](pjesa-03.md) | 0 |  |
 
-Act id: `ligji-9014-2003` (tags `ligji-9014-2003/<day>`; `python tools/on.py <day> ligji-9014-2003`).
+Act id: `ligji-9014-2003` (tags `ligji-9014-2003/<day>`; `python registry/tools/on.py <day> ligji-9014-2003`).
 
 ## Decisions made by hand
 

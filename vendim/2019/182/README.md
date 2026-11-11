@@ -14,7 +14,16 @@ Kompensimin financiar të pronarëve të pasurive të paluajtshme, që preken ng
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-182` (tags `vendim-2019-182/<day>`; `python tools/on.py <day> vendim-2019-182`).
+Act id: `vendim-2019-182` (tags `vendim-2019-182/<day>`; `python registry/tools/on.py <day> vendim-2019-182`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 296, datë 15.4.2020: Për disa ndryshime në vendimet e Këshillit të Ministrave nr.1039, datë 14.10.2009; nr.616, datë 11.6.2009; nr.514, datë 1.8.2012; nr.435, datë 24.4.2013; nr.910, datë 11.11.2015; nr.258, datë 23.3.2015; nr.293, datë 21.5.2018; nr.294, datë 21.5.2018; nr.737, datë 12.12.2018; nr.65, datë 13.2.2019; nr.254, datë 24.4.2019; nr.182, datë 4.4.2019, “Për shpërblimin e pronarëve, për sipërfaqet takuese, të pasurive të paluajtshme, pronë private, të cilat preken nga ndërtimet informale”](https://qbz.gov.al/eli/vendim/2020/04/15/296)
+- [Vendimi i Këshillit të Ministrave nr. 922, datë 25.11.2020: Për disa ndryshime në vendimet e Këshillit të Ministrave nr. 389, datë 19.5.2010; nr. 230, datë 21.3.2017; nr. 841, datë 24.12.2019; nr. 316, datë 15.5.2019; nr. 125, datë 13.3.2019; nr. 294, datë 21.5.2018; nr. 369, datë 20.6.2018; nr. 65, datë 13.2.2019; nr. 254, datë 24.4.2019; nr. 699, datë 30.10.2019; nr. 737, datë 12.12.2018; nr. 574, datë 28.8.2019; nr. 182, datë 4.4.2019; nr. 15, datë 15.1.2020; nr. 355, datë 29.4.2020; nr. 204, datë 19.2.2009; nr. 450, datë 6.5.2009; nr. 1038, datë 14.10.2009; nr. 125, datë 17.2.2010; nr. 42, datë 21.1.2015; nr. 279, datë 1.4.2015, “Për kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara dhe kompensimin e pronarëve të pasurive të paluajtshme, që preken prej tyre”](https://qbz.gov.al/eli/vendim/2020/11/25/922)
 
 ## Decisions made by hand
 

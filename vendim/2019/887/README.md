@@ -19,7 +19,7 @@ Përcaktimin e rregullave dhe të procedurës së përshpejtuar për hartimin dh
 | Pika 11 | [pika-011.md](pika-011.md) | 1 | 2021-11-23 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-887` (tags `vendim-2019-887/<day>`; `python tools/on.py <day> vendim-2019-887`).
+Act id: `vendim-2019-887` (tags `vendim-2019-887/<day>`; `python registry/tools/on.py <day> vendim-2019-887`).
 
 ## Decisions made by hand
 

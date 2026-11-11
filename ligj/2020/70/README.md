@@ -10,7 +10,7 @@ Miratimin e huamarrjes prej 139 300 000 SDR-sh që Fondi Monetar Ndërkombëtar 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-70` (tags `ligj-2020-70/<day>`; `python tools/on.py <day> ligj-2020-70`).
+Act id: `ligj-2020-70` (tags `ligj-2020-70/<day>`; `python registry/tools/on.py <day> ligj-2020-70`).
 
 ## Decisions made by hand
 

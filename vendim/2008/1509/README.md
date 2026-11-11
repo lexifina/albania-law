@@ -9,7 +9,7 @@ Miratimin e strategjisë kombëtare për arsimin e lartë, 2008-2013 · 1 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1509` (tags `vendim-2008-1509/<day>`; `python tools/on.py <day> vendim-2008-1509`).
+Act id: `vendim-2008-1509` (tags `vendim-2008-1509/<day>`; `python registry/tools/on.py <day> vendim-2008-1509`).
 
 ## Decisions made by hand
 

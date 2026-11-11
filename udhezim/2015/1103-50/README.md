@@ -20,7 +20,7 @@ Zhvillimin e konkurseve të pranimit, tarifën e regjistrimit për konkurrim në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-1103-50` (tags `udhezim-2015-1103-50/<day>`; `python tools/on.py <day> udhezim-2015-1103-50`).
+Act id: `udhezim-2015-1103-50` (tags `udhezim-2015-1103-50/<day>`; `python registry/tools/on.py <day> udhezim-2015-1103-50`).
 
 ## Decisions made by hand
 

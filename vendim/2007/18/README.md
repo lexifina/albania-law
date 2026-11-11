@@ -10,7 +10,7 @@ Dhënien e fondit për subjektet, pjesëmarrëse në zgjedhje, për financimin e
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-18` (tags `vendim-2007-18/<day>`; `python tools/on.py <day> vendim-2007-18`).
+Act id: `vendim-2007-18` (tags `vendim-2007-18/<day>`; `python registry/tools/on.py <day> vendim-2007-18`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2004-04-16 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2003-0716-15` (tags `udhezim-2003-0716-15/<day>`; `python tools/on.py <day> udhezim-2003-0716-15`).
+Act id: `udhezim-2003-0716-15` (tags `udhezim-2003-0716-15/<day>`; `python registry/tools/on.py <day> udhezim-2003-0716-15`).
 
 ## Decisions made by hand
 

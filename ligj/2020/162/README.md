@@ -163,7 +163,7 @@ Prokurimin publik Â· 2 versions, from 2021-03-13 (latest in force: 2024-03-19) Â
 | Neni 136 | [neni-136.md](neni-136.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-162` (tags `ligj-2020-162/<day>`; `python tools/on.py <day> ligj-2020-162`).
+Act id: `ligj-2020-162` (tags `ligj-2020-162/<day>`; `python registry/tools/on.py <day> ligj-2020-162`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përballimin e shpenzimeve të atasheve ushtarakë dhe oficerëve të forcave t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-155` (tags `vendim-2003-155/<day>`; `python tools/on.py <day> vendim-2003-155`).
+Act id: `vendim-2003-155` (tags `vendim-2003-155/<day>`; `python registry/tools/on.py <day> vendim-2003-155`).
 
 ## Decisions made by hand
 

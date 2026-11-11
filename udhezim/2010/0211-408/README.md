@@ -25,7 +25,7 @@ Mbi ngritjen dhe funksionimin e regjistrit elektronik kombëtar për të huajt �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0211-408` (tags `udhezim-2010-0211-408/<day>`; `python tools/on.py <day> udhezim-2010-0211-408`).
+Act id: `udhezim-2010-0211-408` (tags `udhezim-2010-0211-408/<day>`; `python registry/tools/on.py <day> udhezim-2010-0211-408`).
 
 ## Decisions made by hand
 

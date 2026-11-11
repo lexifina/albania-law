@@ -26,7 +26,22 @@ Procedurat e pezullimit nga lista e zgjedhësve për shtetasit që vuajnë dëni
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0511-225` (tags `udhezim-2016-0511-225/<day>`; `python tools/on.py <day> udhezim-2016-0511-225`).
+Act id: `udhezim-2016-0511-225` (tags `udhezim-2016-0511-225/<day>`; `python registry/tools/on.py <day> udhezim-2016-0511-225`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 298, datë 10.9.2020 (Ministria e Brendshme) [QBZ 22081]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet për Kuvendin e Shqipërisë](https://qbz.gov.al/eli/udhezim/2020/09/10/298)
+- [Udhëzimi nr. 11, datë 21.1.2022 (Ministria e Brendshme) [QBZ 23973]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet e pjesshme vendore për kryetar bashkie për disa njësi vendore](https://qbz.gov.al/eli/udhezim/2022/01/21/11)
+- [Udhëzimi nr. 207, datë 28.10.2022 (Ministria e Brendshme) [QBZ 25155]: Për procedurat e hartimit të listave të zgjedhësve për organet e qeverisjes vendore](https://qbz.gov.al/eli/udhezim/2022/10/28/207)
+- [Udhëzimi nr. 121, datë 14.8.2023 (Ministria e Brendshme) [QBZ 26449]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kryetar të Bashkisë Kukës](https://qbz.gov.al/eli/udhezim/2023/08/14/121)
+- [Udhëzimi nr. 235, datë 10.12.2024 (Ministria e Brendshme) [QBZ 29325]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet për Kuvendin e Shqipërisë](https://qbz.gov.al/eli/udhezim/2024/12/10/235)
+- [Udhëzimi nr. 159, datë 2.10.2025 (Ministria e Brendshme) [QBZ 31322]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet e pjesshme vendore për kryetar bashkie, për disa njësi të qeverisjes vendore](https://qbz.gov.al/eli/udhezim/2025/10/02/159)
+- [Udhëzimi nr. 113, datë 9.7.2024 (Ministria e Brendshme) [QBZ 59843]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kryetar të Bashkisë Himarë, Qarku Vlorë](https://qbz.gov.al/eli/udhezim/2024/07/09/113)
+- [Udhëzimi nr. 295-1, datë 6.11.2018 (Ministria e Brendshme) [QBZ 66109]: Për procedurat e hartimit të listave të zgjedhësve për zgjedhjet e organeve të qeverisjes vendore](https://qbz.gov.al/eli/udhezim/2018/11/06/295-1)
 
 ## Decisions made by hand
 

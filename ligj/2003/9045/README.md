@@ -22,7 +22,7 @@ Ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 
-Act id: `ligji-9045-2003` (tags `ligji-9045-2003/<day>`; `python tools/on.py <day> ligji-9045-2003`).
+Act id: `ligji-9045-2003` (tags `ligji-9045-2003/<day>`; `python registry/tools/on.py <day> ligji-9045-2003`).
 
 ## Decisions made by hand
 

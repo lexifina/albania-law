@@ -54,7 +54,7 @@ Përcaktimin e rregullave më të hollësishme për kriteret, procedurat për p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-03-09 |
 
-Act id: `urdher-2022-0504-192` (tags `urdher-2022-0504-192/<day>`; `python tools/on.py <day> urdher-2022-0504-192`).
+Act id: `urdher-2022-0504-192` (tags `urdher-2022-0504-192/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-192`).
 
 ## Decisions made by hand
 

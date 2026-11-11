@@ -5,7 +5,7 @@ Miratimin e strategjisë kombëtare sektoriale të shërbimeve të furnizimit me
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-643` (tags `vendim-2011-643/<day>`; `python tools/on.py <day> vendim-2011-643`).
+Act id: `vendim-2011-643` (tags `vendim-2011-643/<day>`; `python registry/tools/on.py <day> vendim-2011-643`).
 
 ## Decisions made by hand
 

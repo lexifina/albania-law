@@ -15,7 +15,7 @@ Mbi modelet dhe emetimin e autorizimeve për mjetet dhe transportet jashtë norm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0128-2` (tags `udhezim-2009-0128-2/<day>`; `python tools/on.py <day> udhezim-2009-0128-2`).
+Act id: `udhezim-2009-0128-2` (tags `udhezim-2009-0128-2/<day>`; `python registry/tools/on.py <day> udhezim-2009-0128-2`).
 
 ## Decisions made by hand
 

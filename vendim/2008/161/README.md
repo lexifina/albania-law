@@ -11,7 +11,7 @@ Përcaktimin e kuotave të pranimit dhe të tarifës së shkollimit për studime
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2008-07-18 |
 
-Act id: `vendim-2008-161` (tags `vendim-2008-161/<day>`; `python tools/on.py <day> vendim-2008-161`).
+Act id: `vendim-2008-161` (tags `vendim-2008-161/<day>`; `python registry/tools/on.py <day> vendim-2008-161`).
 
 ## Decisions made by hand
 

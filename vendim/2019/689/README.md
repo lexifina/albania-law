@@ -16,7 +16,7 @@ Miratimin e kritereve dhe të procedurave të shpalljes së kurorës së gjelbë
 | Pika 8 | [pika-008.md](pika-008.md) | 1 | 2025-05-20 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-689` (tags `vendim-2019-689/<day>`; `python tools/on.py <day> vendim-2019-689`).
+Act id: `vendim-2019-689` (tags `vendim-2019-689/<day>`; `python registry/tools/on.py <day> vendim-2019-689`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,17 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-207` (tags `vendim-2011-207/<day>`; `python tools/on.py <day> vendim-2011-207`).
+Act id: `vendim-2011-207` (tags `vendim-2011-207/<day>`; `python registry/tools/on.py <day> vendim-2011-207`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 476, datë 30.5.2013: Për një ndryshim në vendimin nr. 207, datë 9.3.2011 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Poliçan, të qarkut të Beratit”](https://qbz.gov.al/eli/vendim/2013/05/30/476)
+- [Vendimi i Këshillit të Ministrave nr. 402, datë 4.7.2018: Për kalimin në pronësi, nga ministria e mbrojtjes te bashkia poliçan, të pronës nr. 1069, me emërtim “kombinati mekanik zona b”, me vendndodhje në poliçan, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së mbrojtjes”, të ndryshuar, dhe në vendimin nr. 207, datë 9.3.2011, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë poliçan, të qarkut të beratit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2018/07/04/402)
+- [Vendimi i Këshillit të Ministrave nr. 934, datë 28.12.2016: Për kalimin në pronësi, nga Ministria e Mbrojtjes te Bashkia Poliçan, të pronës nr.1072, me emërtim “Kombinati Mekanik, Uzina Nr.1”, me vendndodhje në Poliçan, dhe për një ndryshim në vendimin nr.515, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar, DHE në vendimin nr.207, datë 9.3.2011, të Këshillit të Ministrave, “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIMTË BASHKISË POLIÇAN, TË QARKUT TË BERATIT](https://qbz.gov.al/eli/vendim/2016/12/28/934)
 
 ## Decisions made by hand
 

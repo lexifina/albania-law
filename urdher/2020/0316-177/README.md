@@ -12,7 +12,7 @@ Kufizimin e lëvizjes në zonat urbane · 2 versions, from 2020-04-10 (latest in
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0316-177` (tags `urdher-2020-0316-177/<day>`; `python tools/on.py <day> urdher-2020-0316-177`).
+Act id: `urdher-2020-0316-177` (tags `urdher-2020-0316-177/<day>`; `python registry/tools/on.py <day> urdher-2020-0316-177`).
 
 ## Decisions made by hand
 

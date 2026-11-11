@@ -33,7 +33,7 @@ Zbatimin e vendimit të këshillit të ministrave “për transferimin e aksione
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-1211-965` (tags `udhezim-2007-1211-965/<day>`; `python tools/on.py <day> udhezim-2007-1211-965`).
+Act id: `udhezim-2007-1211-965` (tags `udhezim-2007-1211-965/<day>`; `python registry/tools/on.py <day> udhezim-2007-1211-965`).
 
 ## Decisions made by hand
 

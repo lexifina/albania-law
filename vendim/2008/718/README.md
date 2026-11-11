@@ -9,7 +9,15 @@ Miratimin e kontratës së koncesionit, të formës “bot”, të lidhur ndërm
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-718` (tags `vendim-2008-718/<day>`; `python tools/on.py <day> vendim-2008-718`).
+Act id: `vendim-2008-718` (tags `vendim-2008-718/<day>`; `python registry/tools/on.py <day> vendim-2008-718`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 412, datë 26.5.2010: Për disa shtesa dhe ndryshime në kontratën e koncesionit, të formës “BOT” (ndërtim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Busa” sh.p.k., për ndërtimin e hidrocentraleve “Strelca 1”, “Strelca 2” dhe “Strelca 3”](https://qbz.gov.al/eli/vendim/2010/05/26/412)
 
 ## Decisions made by hand
 

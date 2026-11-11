@@ -41,7 +41,7 @@ Pushtetet dhe autoritetet e drejtimit e të komandimit të forcave të armatosur
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-64` (tags `ligj-2014-64/<day>`; `python tools/on.py <day> ligj-2014-64`).
+Act id: `ligj-2014-64` (tags `ligj-2014-64/<day>`; `python registry/tools/on.py <day> ligj-2014-64`).
 
 ## Decisions made by hand
 

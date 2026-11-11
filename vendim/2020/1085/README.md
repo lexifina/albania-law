@@ -66,7 +66,7 @@ Përcaktimin e rregullave për lidhjen e kontratave për blerjen e pajisjeve/mje
 | Pjesa II | [pjesa-02.md](pjesa-02.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1085` (tags `vendim-2020-1085/<day>`; `python tools/on.py <day> vendim-2020-1085`).
+Act id: `vendim-2020-1085` (tags `vendim-2020-1085/<day>`; `python registry/tools/on.py <day> vendim-2020-1085`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ PËR KRITERET E DHËNIES SË KREDISË PËR STREHIM USHTARAKUT TË FORCAVE TË AR
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-452` (tags `vendim-2004-452/<day>`; `python tools/on.py <day> vendim-2004-452`).
+Act id: `vendim-2004-452` (tags `vendim-2004-452/<day>`; `python registry/tools/on.py <day> vendim-2004-452`).
 
 ## Decisions made by hand
 

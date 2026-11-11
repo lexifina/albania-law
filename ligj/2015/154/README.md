@@ -13,7 +13,7 @@ Dhënie amnistie · 1 versions, from 2016-01-15 (latest in force: 2016-01-15) ·
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-154` (tags `ligj-2015-154/<day>`; `python tools/on.py <day> ligj-2015-154`).
+Act id: `ligj-2015-154` (tags `ligj-2015-154/<day>`; `python registry/tools/on.py <day> ligj-2015-154`).
 
 ## Decisions made by hand
 

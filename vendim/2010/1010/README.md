@@ -10,7 +10,7 @@ Miratimin e shtesës nr.3 të kontratës, ndërmjet qeverisë së republikës s�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1010` (tags `vendim-2010-1010/<day>`; `python tools/on.py <day> vendim-2010-1010`).
+Act id: `vendim-2010-1010` (tags `vendim-2010-1010/<day>`; `python registry/tools/on.py <day> vendim-2010-1010`).
 
 ## Decisions made by hand
 

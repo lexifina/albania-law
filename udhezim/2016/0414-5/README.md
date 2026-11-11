@@ -13,7 +13,7 @@ Përzgjedhjen, shpërndarjen dhe shitjen e teksteve shkollore për klasat 3-5 t�
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0414-5` (tags `udhezim-2016-0414-5/<day>`; `python tools/on.py <day> udhezim-2016-0414-5`).
+Act id: `udhezim-2016-0414-5` (tags `udhezim-2016-0414-5/<day>`; `python registry/tools/on.py <day> udhezim-2016-0414-5`).
 
 ## Decisions made by hand
 

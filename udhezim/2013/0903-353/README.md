@@ -42,7 +42,7 @@ Përcaktimin e rregullave të hollësishme për mbajtjen, ruajtjen dhe arkivimin
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0903-353` (tags `udhezim-2013-0903-353/<day>`; `python tools/on.py <day> udhezim-2013-0903-353`).
+Act id: `udhezim-2013-0903-353` (tags `udhezim-2013-0903-353/<day>`; `python registry/tools/on.py <day> udhezim-2013-0903-353`).
 
 ## Decisions made by hand
 

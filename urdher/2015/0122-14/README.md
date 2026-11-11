@@ -12,7 +12,7 @@ Miratimin e programit model të transparencës · 3 versions, from 2015-01-28 (l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2020-12-22 |
 
-Act id: `urdher-2015-0122-14` (tags `urdher-2015-0122-14/<day>`; `python tools/on.py <day> urdher-2015-0122-14`).
+Act id: `urdher-2015-0122-14` (tags `urdher-2015-0122-14/<day>`; `python registry/tools/on.py <day> urdher-2015-0122-14`).
 
 ## Decisions made by hand
 

@@ -62,7 +62,7 @@ Krijimin, shumëzimin, përpunimin, tregtimin, kontrollin, vlerësimin e farave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2002-1202-107` (tags `udhezim-2002-1202-107/<day>`; `python tools/on.py <day> udhezim-2002-1202-107`).
+Act id: `udhezim-2002-1202-107` (tags `udhezim-2002-1202-107/<day>`; `python registry/tools/on.py <day> udhezim-2002-1202-107`).
 
 ## Decisions made by hand
 

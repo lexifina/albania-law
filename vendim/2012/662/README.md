@@ -10,7 +10,7 @@ PËR HEQJEN E LICENCËS SHKOLLËS SË LARTË PRIVATE “UNIVERSITETI EUROPIAN i 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-662` (tags `vendim-2012-662/<day>`; `python tools/on.py <day> vendim-2012-662`).
+Act id: `vendim-2012-662` (tags `vendim-2012-662/<day>`; `python registry/tools/on.py <day> vendim-2012-662`).
 
 ## Decisions made by hand
 

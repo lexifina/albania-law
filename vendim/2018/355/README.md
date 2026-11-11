@@ -14,7 +14,7 @@ Transferimin e pronës shtetërore në zonën kadastrale nr. 2085, karavasta e r
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-09-20 |
 
-Act id: `vendim-2018-355` (tags `vendim-2018-355/<day>`; `python tools/on.py <day> vendim-2018-355`).
+Act id: `vendim-2018-355` (tags `vendim-2018-355/<day>`; `python registry/tools/on.py <day> vendim-2018-355`).
 
 ## Decisions made by hand
 

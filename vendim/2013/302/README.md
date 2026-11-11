@@ -5,7 +5,7 @@ Ngritjen e sistemit të inspektimit për parandalimin, shkurajimin dhe eliminimi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-302` (tags `vendim-2013-302/<day>`; `python tools/on.py <day> vendim-2013-302`).
+Act id: `vendim-2013-302` (tags `vendim-2013-302/<day>`; `python registry/tools/on.py <day> vendim-2013-302`).
 
 ## Decisions made by hand
 

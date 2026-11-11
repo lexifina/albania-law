@@ -5,7 +5,7 @@ Kriteret e pranimit, karrierën dhe ndërprerjen e saj në shërbimin informativ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9295` (tags `ligj-2004-9295/<day>`; `python tools/on.py <day> ligj-2004-9295`).
+Act id: `ligj-2004-9295` (tags `ligj-2004-9295/<day>`; `python registry/tools/on.py <day> ligj-2004-9295`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e standardeve të shërbimeve në Qendrën Kombëtare Transitore të E
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-572` (tags `vendim-2015-572/<day>`; `python tools/on.py <day> vendim-2015-572`).
+Act id: `vendim-2015-572` (tags `vendim-2015-572/<day>`; `python registry/tools/on.py <day> vendim-2015-572`).
 
 ## Decisions made by hand
 

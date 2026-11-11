@@ -5,7 +5,7 @@ Udhëzim Nr.8 Dt.27.11.2007 · 2 versions, from 2007-12-31 (latest in force: 202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-1127-8` (tags `udhezim-2007-1127-8/<day>`; `python tools/on.py <day> udhezim-2007-1127-8`).
+Act id: `udhezim-2007-1127-8` (tags `udhezim-2007-1127-8/<day>`; `python registry/tools/on.py <day> udhezim-2007-1127-8`).
 
 ## Decisions made by hand
 

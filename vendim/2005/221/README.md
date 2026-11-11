@@ -11,7 +11,7 @@ Dhënie fondi ndihme disa partive të reja · 1 versions, from 2005-04-28 (lates
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-221` (tags `vendim-2005-221/<day>`; `python tools/on.py <day> vendim-2005-221`).
+Act id: `vendim-2005-221` (tags `vendim-2005-221/<day>`; `python registry/tools/on.py <day> vendim-2005-221`).
 
 ## Decisions made by hand
 

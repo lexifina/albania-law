@@ -17,7 +17,7 @@ Delegimin e kompetencave dhe caktimin e detyrave zevendësministrit të Mbrojtes
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0731-1594` (tags `urdher-2026-0731-1594/<day>`; `python tools/on.py <day> urdher-2026-0731-1594`).
+Act id: `urdher-2026-0731-1594` (tags `urdher-2026-0731-1594/<day>`; `python registry/tools/on.py <day> urdher-2026-0731-1594`).
 
 ## Decisions made by hand
 

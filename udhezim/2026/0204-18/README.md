@@ -24,7 +24,7 @@ Miratimin e rregullave, procedurave dhe kritereve për pranimin në rolin zbatue
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0204-18` (tags `udhezim-2026-0204-18/<day>`; `python tools/on.py <day> udhezim-2026-0204-18`).
+Act id: `udhezim-2026-0204-18` (tags `udhezim-2026-0204-18/<day>`; `python registry/tools/on.py <day> udhezim-2026-0204-18`).
 
 ## Decisions made by hand
 

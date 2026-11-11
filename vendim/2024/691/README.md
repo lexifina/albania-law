@@ -23,7 +23,7 @@ Përcaktimin e rregullave të veçanta, që zbatohen për kontratën e mësimit 
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-691` (tags `vendim-2024-691/<day>`; `python tools/on.py <day> vendim-2024-691`).
+Act id: `vendim-2024-691` (tags `vendim-2024-691/<day>`; `python registry/tools/on.py <day> vendim-2024-691`).
 
 ## Decisions made by hand
 

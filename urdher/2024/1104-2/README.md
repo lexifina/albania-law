@@ -10,7 +10,7 @@ Botim në Fletoren Zyrtare të kërkesës për ndryshim emri · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1104-2` (tags `urdher-2024-1104-2/<day>`; `python tools/on.py <day> urdher-2024-1104-2`).
+Act id: `urdher-2024-1104-2` (tags `urdher-2024-1104-2/<day>`; `python registry/tools/on.py <day> urdher-2024-1104-2`).
 
 ## Decisions made by hand
 

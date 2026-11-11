@@ -9,7 +9,7 @@ Dhënie trajtimi të veçantë financiar familjes së të ndjerit Klodian Rasha 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1007` (tags `vendim-2020-1007/<day>`; `python tools/on.py <day> vendim-2020-1007`).
+Act id: `vendim-2020-1007` (tags `vendim-2020-1007/<day>`; `python registry/tools/on.py <day> vendim-2020-1007`).
 
 ## Decisions made by hand
 

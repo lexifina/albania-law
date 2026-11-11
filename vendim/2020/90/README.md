@@ -10,7 +10,7 @@ Miratimin e kalendarit të menaxhimit të shpenzimeve publike, për vitin 2020 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-90` (tags `vendim-2020-90/<day>`; `python tools/on.py <day> vendim-2020-90`).
+Act id: `vendim-2020-90` (tags `vendim-2020-90/<day>`; `python registry/tools/on.py <day> vendim-2020-90`).
 
 ## Decisions made by hand
 

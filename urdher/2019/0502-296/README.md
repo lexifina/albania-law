@@ -13,7 +13,7 @@ Ndalimin e peshkimit në liqenin e Fierzës · 1 versions, from 2019-05-10 (late
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0502-296` (tags `urdher-2019-0502-296/<day>`; `python tools/on.py <day> urdher-2019-0502-296`).
+Act id: `urdher-2019-0502-296` (tags `urdher-2019-0502-296/<day>`; `python registry/tools/on.py <day> urdher-2019-0502-296`).
 
 ## Decisions made by hand
 

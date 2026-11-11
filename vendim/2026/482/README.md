@@ -9,7 +9,7 @@ Kalimin te bashkitë Vorë dhe Shijak të njësive të banimit në ndërtesa (pa
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-482` (tags `vendim-2026-482/<day>`; `python tools/on.py <day> vendim-2026-482`).
+Act id: `vendim-2026-482` (tags `vendim-2026-482/<day>`; `python registry/tools/on.py <day> vendim-2026-482`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Angazhimin e këshillit të ministrave të republikës së shqipërisë për rua
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-650` (tags `vendim-2017-650/<day>`; `python tools/on.py <day> vendim-2017-650`).
+Act id: `vendim-2017-650` (tags `vendim-2017-650/<day>`; `python registry/tools/on.py <day> vendim-2017-650`).
 
 ## Decisions made by hand
 

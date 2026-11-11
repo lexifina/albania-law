@@ -9,7 +9,7 @@ Miratimin e marrëveshjes me shkëmbim notash për ndryshimin e marrëveshjes, n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-151` (tags `vendim-2023-151/<day>`; `python tools/on.py <day> vendim-2023-151`).
+Act id: `vendim-2023-151` (tags `vendim-2023-151/<day>`; `python registry/tools/on.py <day> vendim-2023-151`).
 
 ## Decisions made by hand
 

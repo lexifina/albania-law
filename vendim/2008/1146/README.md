@@ -11,7 +11,15 @@ Heqjen e disa ngastrave nga fondi pyjor dhe kullosor, që do të përdoren për 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1146` (tags `vendim-2008-1146/<day>`; `python tools/on.py <day> vendim-2008-1146`).
+Act id: `vendim-2008-1146` (tags `vendim-2008-1146/<day>`; `python registry/tools/on.py <day> vendim-2008-1146`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 887, datë 3.11.2010: Për disa shtesa e ndryshime në vendimin nr.1146, datë 5.8.2008 të Këshillit të Ministrave “Për heqjen e disa ngastrave nga fondi pyjor dhe kullosor, që do të përdoren për vendosjen e anemometrave të nënstacioneve, për infrastrukturën lidhëse elektrike, për aerogjeneratorët, shtyllat e tensionit të lartë, si dhe për rrugët lidhëse me aerogjeneratorët”](https://qbz.gov.al/eli/vendim/2010/11/03/887)
 
 ## Decisions made by hand
 

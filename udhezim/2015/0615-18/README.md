@@ -39,7 +39,15 @@ Procedurat dhe kriteret e furnizimit të anijeve të peshkimit me karburant (gaz
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0615-18` (tags `udhezim-2015-0615-18/<day>`; `python tools/on.py <day> udhezim-2015-0615-18`).
+Act id: `udhezim-2015-0615-18` (tags `udhezim-2015-0615-18/<day>`; `python registry/tools/on.py <day> udhezim-2015-0615-18`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 21, datë 1.6.2020 (Ministria e Financave) [QBZ 21718]: Për disa ndryshime në udhëzimin nr. 18, datë 15.6.2015 ”Për procedurat dhe kriteret e furnizimit të anijeve të peshkimit me karburant (Gazoil) me përjashtim nga taksat e qarkullimit, taksa e karbonit dhe akciza](https://qbz.gov.al/eli/udhezim/2020/06/01/21)
 
 ## Decisions made by hand
 

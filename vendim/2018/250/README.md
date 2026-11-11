@@ -10,7 +10,7 @@ Një rishpërndarje të fondeve të infrastrukturës vendore dhe rajonale nga fo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-250` (tags `vendim-2018-250/<day>`; `python tools/on.py <day> vendim-2018-250`).
+Act id: `vendim-2018-250` (tags `vendim-2018-250/<day>`; `python registry/tools/on.py <day> vendim-2018-250`).
 
 ## Decisions made by hand
 

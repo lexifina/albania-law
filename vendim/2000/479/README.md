@@ -15,7 +15,7 @@ Përgatitjen dhe realizimin e kontratës së koncensionit, për ndërtimin e ter
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2002-11-12 |
 
-Act id: `vendim-2000-479` (tags `vendim-2000-479/<day>`; `python tools/on.py <day> vendim-2000-479`).
+Act id: `vendim-2000-479` (tags `vendim-2000-479/<day>`; `python registry/tools/on.py <day> vendim-2000-479`).
 
 ## Decisions made by hand
 

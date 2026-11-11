@@ -5,7 +5,7 @@ Sistemin e taksave kombetare në republikën e shqipërisë · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2005-0118-3` (tags `udhezim-2005-0118-3/<day>`; `python tools/on.py <day> udhezim-2005-0118-3`).
+Act id: `udhezim-2005-0118-3` (tags `udhezim-2005-0118-3/<day>`; `python registry/tools/on.py <day> udhezim-2005-0118-3`).
 
 ## Decisions made by hand
 

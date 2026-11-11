@@ -5,7 +5,7 @@ Miratimin e rregullores “për regjistrimin e treguesve gjeografikë” · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1705` (tags `vendim-2008-1705/<day>`; `python tools/on.py <day> vendim-2008-1705`).
+Act id: `vendim-2008-1705` (tags `vendim-2008-1705/<day>`; `python registry/tools/on.py <day> vendim-2008-1705`).
 
 ## Decisions made by hand
 

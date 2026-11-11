@@ -8,7 +8,7 @@ Lirimin nga detyra të administratorit të shoqërisë “nxitja e biznesit soci
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-265` (tags `vendim-2016-265/<day>`; `python tools/on.py <day> vendim-2016-265`).
+Act id: `vendim-2016-265` (tags `vendim-2016-265/<day>`; `python registry/tools/on.py <day> vendim-2016-265`).
 
 ## Decisions made by hand
 

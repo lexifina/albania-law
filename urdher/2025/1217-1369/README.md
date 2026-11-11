@@ -24,7 +24,7 @@ Përcaktimin e kushteve të përdorimit të termit ”verë” · 1 versions, fr
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1217-1369` (tags `urdher-2025-1217-1369/<day>`; `python tools/on.py <day> urdher-2025-1217-1369`).
+Act id: `urdher-2025-1217-1369` (tags `urdher-2025-1217-1369/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-1369`).
 
 ## Decisions made by hand
 

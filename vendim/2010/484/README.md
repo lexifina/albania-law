@@ -5,7 +5,7 @@ Emërimin e anëtarëve të bordit të menaxhimit për Autoritetin Rrugor Shqipt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-484` (tags `vendim-2010-484/<day>`; `python tools/on.py <day> vendim-2010-484`).
+Act id: `vendim-2010-484` (tags `vendim-2010-484/<day>`; `python registry/tools/on.py <day> vendim-2010-484`).
 
 ## Decisions made by hand
 

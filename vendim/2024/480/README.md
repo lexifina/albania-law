@@ -11,7 +11,7 @@ Ndryshimin e përgjegjësisë së administrimit, nga Ministria e Shëndetësisë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-480` (tags `vendim-2024-480/<day>`; `python tools/on.py <day> vendim-2024-480`).
+Act id: `vendim-2024-480` (tags `vendim-2024-480/<day>`; `python registry/tools/on.py <day> vendim-2024-480`).
 
 ## Decisions made by hand
 

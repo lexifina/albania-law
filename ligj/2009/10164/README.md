@@ -23,7 +23,7 @@ Autoritetin rrugor shqiptar · 1 versions, from 2009-11-20 (latest in force: 200
 | Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10164-2009` (tags `ligji-10164-2009/<day>`; `python tools/on.py <day> ligji-10164-2009`).
+Act id: `ligji-10164-2009` (tags `ligji-10164-2009/<day>`; `python registry/tools/on.py <day> ligji-10164-2009`).
 
 ## Decisions made by hand
 

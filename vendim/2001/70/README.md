@@ -5,7 +5,7 @@ Statusin e spitaleve universitare · 2 versions, from 2001-04-07 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-70` (tags `vendim-2001-70/<day>`; `python tools/on.py <day> vendim-2001-70`).
+Act id: `vendim-2001-70` (tags `vendim-2001-70/<day>`; `python registry/tools/on.py <day> vendim-2001-70`).
 
 ## Decisions made by hand
 

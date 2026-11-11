@@ -13,7 +13,7 @@ Përcaktimin e kritereve dhe rregullave të mënyrës së aplikimit për shtyrje
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0617-15` (tags `udhezim-2022-0617-15/<day>`; `python tools/on.py <day> udhezim-2022-0617-15`).
+Act id: `udhezim-2022-0617-15` (tags `udhezim-2022-0617-15/<day>`; `python registry/tools/on.py <day> udhezim-2022-0617-15`).
 
 ## Decisions made by hand
 

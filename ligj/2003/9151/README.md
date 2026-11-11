@@ -15,7 +15,7 @@ PËR RATIFIKIMIN E “MARRËVESHJES SË KREDISË TË ZHVILLIMIT, NDËRMJET REPUB
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 
-Act id: `ligji-9151-2003` (tags `ligji-9151-2003/<day>`; `python tools/on.py <day> ligji-9151-2003`).
+Act id: `ligji-9151-2003` (tags `ligji-9151-2003/<day>`; `python registry/tools/on.py <day> ligji-9151-2003`).
 
 ## Decisions made by hand
 

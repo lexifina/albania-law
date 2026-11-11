@@ -5,7 +5,7 @@ Përcaktimin e kushteve dhe të procedurave të transferimit të menaxhimit të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-347` (tags `vendim-2019-347/<day>`; `python tools/on.py <day> vendim-2019-347`).
+Act id: `vendim-2019-347` (tags `vendim-2019-347/<day>`; `python registry/tools/on.py <day> vendim-2019-347`).
 
 ## Decisions made by hand
 

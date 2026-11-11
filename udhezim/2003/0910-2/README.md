@@ -8,7 +8,7 @@ Një ndryshim në Udhëzimin nr.2, datë 8.1.2003 ”Për sistemin e taksave në
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2003-0910-2` (tags `udhezim-2003-0910-2/<day>`; `python tools/on.py <day> udhezim-2003-0910-2`).
+Act id: `udhezim-2003-0910-2` (tags `udhezim-2003-0910-2/<day>`; `python registry/tools/on.py <day> udhezim-2003-0910-2`).
 
 ## Decisions made by hand
 

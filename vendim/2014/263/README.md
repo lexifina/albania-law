@@ -10,7 +10,7 @@ Caktimin e funksioneve të përfaqësuesve të institucioneve shtetërore në p�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-263` (tags `vendim-2014-263/<day>`; `python tools/on.py <day> vendim-2014-263`).
+Act id: `vendim-2014-263` (tags `vendim-2014-263/<day>`; `python registry/tools/on.py <day> vendim-2014-263`).
 
 ## Decisions made by hand
 

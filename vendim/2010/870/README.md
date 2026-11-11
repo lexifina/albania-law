@@ -9,7 +9,7 @@ Miratimin e raportit fillestar kombëtar, në kuadër të protokollit opsional t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-870` (tags `vendim-2010-870/<day>`; `python tools/on.py <day> vendim-2010-870`).
+Act id: `vendim-2010-870` (tags `vendim-2010-870/<day>`; `python registry/tools/on.py <day> vendim-2010-870`).
 
 ## Decisions made by hand
 

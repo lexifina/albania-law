@@ -50,7 +50,7 @@ Produktet plehëruese · 2 versions, from 2020-03-24 (latest in force: 2025-05-1
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-17` (tags `ligj-2020-17/<day>`; `python tools/on.py <day> ligj-2020-17`).
+Act id: `ligj-2020-17` (tags `ligj-2020-17/<day>`; `python registry/tools/on.py <day> ligj-2020-17`).
 
 ## Decisions made by hand
 

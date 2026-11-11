@@ -10,7 +10,7 @@ Shlyerjen e detyrimit doganor të prapambetur të ministrisë së mbrojtjes ndaj
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-239` (tags `vendim-2014-239/<day>`; `python tools/on.py <day> vendim-2014-239`).
+Act id: `vendim-2014-239` (tags `vendim-2014-239/<day>`; `python registry/tools/on.py <day> vendim-2014-239`).
 
 ## Decisions made by hand
 

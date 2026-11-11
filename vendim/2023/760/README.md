@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes ndryshuese të marrëveshjes së huas (nr. ABA-P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-760` (tags `vendim-2023-760/<day>`; `python tools/on.py <day> vendim-2023-760`).
+Act id: `vendim-2023-760` (tags `vendim-2023-760/<day>`; `python registry/tools/on.py <day> vendim-2023-760`).
 
 ## Decisions made by hand
 

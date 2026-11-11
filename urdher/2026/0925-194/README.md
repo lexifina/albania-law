@@ -10,7 +10,7 @@ Miratimin e Kodit të Sjelljes për Lobistët · 1 versions, from 2026-09-30 (la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0925-194` (tags `urdher-2026-0925-194/<day>`; `python tools/on.py <day> urdher-2026-0925-194`).
+Act id: `urdher-2026-0925-194` (tags `urdher-2026-0925-194/<day>`; `python registry/tools/on.py <day> urdher-2026-0925-194`).
 
 ## Decisions made by hand
 

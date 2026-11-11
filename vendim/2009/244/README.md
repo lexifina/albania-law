@@ -10,7 +10,15 @@ PËR MIRATIMIN E LISTËS Përfundimtare TË PRONAVE TË PALUAJTSHME PUBLIKE, SHT
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-244` (tags `vendim-2009-244/<day>`; `python tools/on.py <day> vendim-2009-244`).
+Act id: `vendim-2009-244` (tags `vendim-2009-244/<day>`; `python registry/tools/on.py <day> vendim-2009-244`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 193, datë 6.3.2013: Për disa ndryshime në vendimin nr. 244, datë 6.3.2009 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike të shtetit, që transferohen në pronësi ose në përdorim të komunës Kutalli të qarkut të Beratit”](https://qbz.gov.al/eli/vendim/2013/03/06/193)
 
 ## Decisions made by hand
 

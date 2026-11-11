@@ -15,7 +15,7 @@ Riorganizimin dhe funksionimin e Inspektoratit Kombëtar të Mbrojtjes së Terri
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-608` (tags `vendim-2026-608/<day>`; `python tools/on.py <day> vendim-2026-608`).
+Act id: `vendim-2026-608` (tags `vendim-2026-608/<day>`; `python registry/tools/on.py <day> vendim-2026-608`).
 
 ## Decisions made by hand
 

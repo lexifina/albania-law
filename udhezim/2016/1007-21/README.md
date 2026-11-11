@@ -5,7 +5,7 @@ Miratimin e kritereve për vlerësimin bio-psiko-social të aftësisë së kufiz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-1007-21` (tags `udhezim-2016-1007-21/<day>`; `python tools/on.py <day> udhezim-2016-1007-21`).
+Act id: `udhezim-2016-1007-21` (tags `udhezim-2016-1007-21/<day>`; `python registry/tools/on.py <day> udhezim-2016-1007-21`).
 
 ## Decisions made by hand
 

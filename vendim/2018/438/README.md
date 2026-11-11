@@ -14,7 +14,7 @@ Kalimin e funksioneve të agjencisë kombëtare për zhvillimin rajonal (akzhr),
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-438` (tags `vendim-2018-438/<day>`; `python tools/on.py <day> vendim-2018-438`).
+Act id: `vendim-2018-438` (tags `vendim-2018-438/<day>`; `python registry/tools/on.py <day> vendim-2018-438`).
 
 ## Decisions made by hand
 

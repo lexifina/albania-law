@@ -10,7 +10,7 @@ Miratimin e marrëveshjeve hidrokarbure shtesë të kontratave me ndarje prodhim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-620` (tags `vendim-2013-620/<day>`; `python tools/on.py <day> vendim-2013-620`).
+Act id: `vendim-2013-620` (tags `vendim-2013-620/<day>`; `python registry/tools/on.py <day> vendim-2013-620`).
 
 ## Decisions made by hand
 

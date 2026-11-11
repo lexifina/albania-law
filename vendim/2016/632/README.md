@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-632` (tags `vendim-2016-632/<day>`; `python tools/on.py <day> vendim-2016-632`).
+Act id: `vendim-2016-632` (tags `vendim-2016-632/<day>`; `python registry/tools/on.py <day> vendim-2016-632`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 899, datë 21.12.2016: Për disa ndryshime në vendimin nr.632, datë 7.9.2016, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “abaz bej lushnja””](https://qbz.gov.al/eli/vendim/2016/12/21/899)
 
 ## Decisions made by hand
 

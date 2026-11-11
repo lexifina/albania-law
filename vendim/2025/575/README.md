@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të prefektit të Qarkut të Fierit · 1 versi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-575` (tags `vendim-2025-575/<day>`; `python tools/on.py <day> vendim-2025-575`).
+Act id: `vendim-2025-575` (tags `vendim-2025-575/<day>`; `python registry/tools/on.py <day> vendim-2025-575`).
 
 ## Decisions made by hand
 

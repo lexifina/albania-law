@@ -51,7 +51,7 @@ Plotësimin e vendeve të lira në kategorinë e ulët dhe të mesme drejtuese �
 | Pika 43 | [pika-043.md](pika-043.md) | 1 | 2018-12-24 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-242` (tags `vendim-2015-242/<day>`; `python tools/on.py <day> vendim-2015-242`).
+Act id: `vendim-2015-242` (tags `vendim-2015-242/<day>`; `python registry/tools/on.py <day> vendim-2015-242`).
 
 ## Decisions made by hand
 

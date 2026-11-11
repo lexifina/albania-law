@@ -29,7 +29,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për Kuvendin e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-02-08 |
 
-Act id: `udhezim-2020-0910-298` (tags `udhezim-2020-0910-298/<day>`; `python tools/on.py <day> udhezim-2020-0910-298`).
+Act id: `udhezim-2020-0910-298` (tags `udhezim-2020-0910-298/<day>`; `python registry/tools/on.py <day> udhezim-2020-0910-298`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Përcaktimin e rregullave mbi kërkesat specifike të trajnimit për stafin, pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0903-906` (tags `urdher-2026-0903-906/<day>`; `python tools/on.py <day> urdher-2026-0903-906`).
+Act id: `urdher-2026-0903-906` (tags `urdher-2026-0903-906/<day>`; `python registry/tools/on.py <day> urdher-2026-0903-906`).
 
 ## Decisions made by hand
 

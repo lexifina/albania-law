@@ -11,7 +11,7 @@ Kalimin në pronësi të një sipërfaqeje trualli, në favor të kishës katoli
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-338` (tags `vendim-2001-338/<day>`; `python tools/on.py <day> vendim-2001-338`).
+Act id: `vendim-2001-338` (tags `vendim-2001-338/<day>`; `python registry/tools/on.py <day> vendim-2001-338`).
 
 ## Decisions made by hand
 

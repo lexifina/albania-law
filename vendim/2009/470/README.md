@@ -12,7 +12,7 @@ Miratimin e modelit dhe të specifikimeve të dokumenteve të udhëtimit për t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-470` (tags `vendim-2009-470/<day>`; `python tools/on.py <day> vendim-2009-470`).
+Act id: `vendim-2009-470` (tags `vendim-2009-470/<day>`; `python registry/tools/on.py <day> vendim-2009-470`).
 
 ## Decisions made by hand
 

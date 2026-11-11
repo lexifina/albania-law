@@ -10,7 +10,7 @@ Akomodimin e përkohshëm të të dëmtuarve për shkak të fatkeqësisë natyro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-3-1130` (tags `vendim-2019-3-1130/<day>`; `python tools/on.py <day> vendim-2019-3-1130`).
+Act id: `vendim-2019-3-1130` (tags `vendim-2019-3-1130/<day>`; `python registry/tools/on.py <day> vendim-2019-3-1130`).
 
 ## Decisions made by hand
 

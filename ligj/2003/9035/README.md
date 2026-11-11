@@ -26,7 +26,7 @@ Ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 
-Act id: `ligji-9035-2003` (tags `ligji-9035-2003/<day>`; `python tools/on.py <day> ligji-9035-2003`).
+Act id: `ligji-9035-2003` (tags `ligji-9035-2003/<day>`; `python registry/tools/on.py <day> ligji-9035-2003`).
 
 ## Decisions made by hand
 

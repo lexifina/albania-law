@@ -56,7 +56,7 @@ Rregullimin e prodhimit, tregtimit, kërkimit dhe zhvillimit të armëve, munici
 | Neni 40 | [neni-040.md](neni-040.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-87-2024` (tags `ligji-87-2024/<day>`; `python tools/on.py <day> ligji-87-2024`).
+Act id: `ligji-87-2024` (tags `ligji-87-2024/<day>`; `python registry/tools/on.py <day> ligji-87-2024`).
 
 ## Decisions made by hand
 

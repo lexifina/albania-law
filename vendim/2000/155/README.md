@@ -10,7 +10,7 @@ Prokurimin e drejtpërdrejtë të fondeve për furnizimin me ushqim të efektivi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-155` (tags `vendim-2000-155/<day>`; `python tools/on.py <day> vendim-2000-155`).
+Act id: `vendim-2000-155` (tags `vendim-2000-155/<day>`; `python registry/tools/on.py <day> vendim-2000-155`).
 
 ## Decisions made by hand
 

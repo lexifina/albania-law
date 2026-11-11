@@ -17,7 +17,7 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e dytë të studimeve “m
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1006-39` (tags `udhezim-2011-1006-39/<day>`; `python tools/on.py <day> udhezim-2011-1006-39`).
+Act id: `udhezim-2011-1006-39` (tags `udhezim-2011-1006-39/<day>`; `python registry/tools/on.py <day> udhezim-2011-1006-39`).
 
 ## Decisions made by hand
 

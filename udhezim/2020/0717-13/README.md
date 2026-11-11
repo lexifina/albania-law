@@ -29,7 +29,7 @@ Miratimin e kritereve, procedurave të përzgjedhjes dhe shpërblimit të eksper
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0717-13` (tags `udhezim-2020-0717-13/<day>`; `python tools/on.py <day> udhezim-2020-0717-13`).
+Act id: `udhezim-2020-0717-13` (tags `udhezim-2020-0717-13/<day>`; `python registry/tools/on.py <day> udhezim-2020-0717-13`).
 
 ## Decisions made by hand
 

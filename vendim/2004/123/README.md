@@ -5,7 +5,7 @@ Miratimin e rregullores “për organizimin dhe funksionimin e drejtorisë së p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-123` (tags `vendim-2004-123/<day>`; `python tools/on.py <day> vendim-2004-123`).
+Act id: `vendim-2004-123` (tags `vendim-2004-123/<day>`; `python registry/tools/on.py <day> vendim-2004-123`).
 
 ## Decisions made by hand
 

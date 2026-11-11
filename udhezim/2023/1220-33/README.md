@@ -19,7 +19,7 @@ Mënyrën e zbatimit të vendimit të Këshillit të Ministrave, nr. 161, datë 
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1220-33` (tags `udhezim-2023-1220-33/<day>`; `python tools/on.py <day> udhezim-2023-1220-33`).
+Act id: `udhezim-2023-1220-33` (tags `udhezim-2023-1220-33/<day>`; `python registry/tools/on.py <day> udhezim-2023-1220-33`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,15 @@ Zbatimin e vendimit të këshillit të Ministrave nr.162, datë 7.3.2007 “Për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0409-254` (tags `udhezim-2008-0409-254/<day>`; `python tools/on.py <day> udhezim-2008-0409-254`).
+Act id: `udhezim-2008-0409-254` (tags `udhezim-2008-0409-254/<day>`; `python registry/tools/on.py <day> udhezim-2008-0409-254`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 254-1, datë 14.4.2008 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 7317]: Për një ndryshim në udhëzimin nr.254, datë 9.4.2008 “për zbatimin e vendimit të këshillit të ministrave nr.162, datë 7.3.2007 “për dhënien me qira ose enfiteozë të pasurive të ndërmarrjeve, shoqërive dhe institucioneve shtetërore](https://qbz.gov.al/eli/udhezim/2008/04/14/254-1)
 
 ## Decisions made by hand
 

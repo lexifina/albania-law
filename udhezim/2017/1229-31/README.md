@@ -5,7 +5,7 @@ Përcaktimin e kritereve, dokumentacionit dhe procedurave për hapjen, riorganiz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-1229-31` (tags `udhezim-2017-1229-31/<day>`; `python tools/on.py <day> udhezim-2017-1229-31`).
+Act id: `udhezim-2017-1229-31` (tags `udhezim-2017-1229-31/<day>`; `python registry/tools/on.py <day> udhezim-2017-1229-31`).
 
 ## Decisions made by hand
 

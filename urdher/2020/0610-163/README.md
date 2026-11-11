@@ -21,7 +21,7 @@ Përcaktimin e numrit të ekspertëve të pavarur, masës së shpërblimit si dh
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0610-163` (tags `urdher-2020-0610-163/<day>`; `python tools/on.py <day> urdher-2020-0610-163`).
+Act id: `urdher-2020-0610-163` (tags `urdher-2020-0610-163/<day>`; `python registry/tools/on.py <day> urdher-2020-0610-163`).
 
 ## Decisions made by hand
 

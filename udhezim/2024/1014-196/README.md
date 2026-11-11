@@ -5,7 +5,7 @@ Bashkëpunimin ndërmjet strukturave të Ministrisë së Brendshme, Ministrisë 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2024-1014-196` (tags `udhezim-2024-1014-196/<day>`; `python tools/on.py <day> udhezim-2024-1014-196`).
+Act id: `udhezim-2024-1014-196` (tags `udhezim-2024-1014-196/<day>`; `python registry/tools/on.py <day> udhezim-2024-1014-196`).
 
 ## Decisions made by hand
 

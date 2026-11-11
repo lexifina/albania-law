@@ -17,7 +17,7 @@ Organizimin dhe zhvillimin e provimeve kombëtare të arsimit bazë, viti shkoll
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0127-10` (tags `udhezim-2025-0127-10/<day>`; `python tools/on.py <day> udhezim-2025-0127-10`).
+Act id: `udhezim-2025-0127-10` (tags `udhezim-2025-0127-10/<day>`; `python registry/tools/on.py <day> udhezim-2025-0127-10`).
 
 ## Decisions made by hand
 

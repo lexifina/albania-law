@@ -9,7 +9,7 @@ PëR MIRATIMIN, në PARIM, të MARRëVESHJES NDëRMJET KëSHILLIT të MINISTRAVE
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-931` (tags `vendim-2010-931/<day>`; `python tools/on.py <day> vendim-2010-931`).
+Act id: `vendim-2010-931` (tags `vendim-2010-931/<day>`; `python registry/tools/on.py <day> vendim-2010-931`).
 
 ## Decisions made by hand
 

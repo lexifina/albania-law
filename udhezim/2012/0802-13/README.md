@@ -13,7 +13,7 @@ Kriteret bazë në mbikëqyrjen e sigurisë së menaxhimit të trafikut ajror ·
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0802-13` (tags `udhezim-2012-0802-13/<day>`; `python tools/on.py <day> udhezim-2012-0802-13`).
+Act id: `udhezim-2012-0802-13` (tags `udhezim-2012-0802-13/<day>`; `python registry/tools/on.py <day> udhezim-2012-0802-13`).
 
 ## Decisions made by hand
 

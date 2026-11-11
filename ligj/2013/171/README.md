@@ -9,7 +9,7 @@ Miratimin e Buxhetit faktik të Shtetit për vitin 2012 · 1 versions, from 2014
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-171` (tags `ligj-2013-171/<day>`; `python tools/on.py <day> ligj-2013-171`).
+Act id: `ligj-2013-171` (tags `ligj-2013-171/<day>`; `python registry/tools/on.py <day> ligj-2013-171`).
 
 ## Decisions made by hand
 

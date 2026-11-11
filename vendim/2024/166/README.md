@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit WBIF ndërmjet Republikës së Shqipëris�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-166` (tags `vendim-2024-166/<day>`; `python tools/on.py <day> vendim-2024-166`).
+Act id: `vendim-2024-166` (tags `vendim-2024-166/<day>`; `python registry/tools/on.py <day> vendim-2024-166`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit, ndërmjet Republikës së Shqipërisë (m
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-139` (tags `vendim-2023-139/<day>`; `python tools/on.py <day> vendim-2023-139`).
+Act id: `vendim-2023-139` (tags `vendim-2023-139/<day>`; `python registry/tools/on.py <day> vendim-2023-139`).
 
 ## Decisions made by hand
 

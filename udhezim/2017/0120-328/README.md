@@ -19,7 +19,7 @@ Mbi rregullat e hollësishme për listën e të dhënave që mbahen në regjistr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0120-328` (tags `udhezim-2017-0120-328/<day>`; `python tools/on.py <day> udhezim-2017-0120-328`).
+Act id: `udhezim-2017-0120-328` (tags `udhezim-2017-0120-328/<day>`; `python registry/tools/on.py <day> udhezim-2017-0120-328`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Mënyrat e shënimit të kufijve të zonës gjuetisë · 1 versions, from 2026-0
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0422-1` (tags `udhezim-2026-0422-1/<day>`; `python tools/on.py <day> udhezim-2026-0422-1`).
+Act id: `udhezim-2026-0422-1` (tags `udhezim-2026-0422-1/<day>`; `python registry/tools/on.py <day> udhezim-2026-0422-1`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.1, datë 2.4.2009, të kësh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10114` (tags `ligj-2009-10114/<day>`; `python tools/on.py <day> ligj-2009-10114`).
+Act id: `ligj-2009-10114` (tags `ligj-2009-10114/<day>`; `python registry/tools/on.py <day> ligj-2009-10114`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Mënyrën e deklarimit të pasurive, në pronësi, posedim dhe përdorim, burime
 | Pika 28 | [pika-028.md](pika-028.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1010-4095` (tags `udhezim-2016-1010-4095/<day>`; `python tools/on.py <day> udhezim-2016-1010-4095`).
+Act id: `udhezim-2016-1010-4095` (tags `udhezim-2016-1010-4095/<day>`; `python registry/tools/on.py <day> udhezim-2016-1010-4095`).
 
 ## Decisions made by hand
 

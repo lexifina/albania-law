@@ -5,7 +5,7 @@ Miratimin e “Rregullit teknik për kërkesat thelbësore dhe vlerësimin e kon
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-77` (tags `vendim-2013-77/<day>`; `python tools/on.py <day> vendim-2013-77`).
+Act id: `vendim-2013-77` (tags `vendim-2013-77/<day>`; `python registry/tools/on.py <day> vendim-2013-77`).
 
 ## Decisions made by hand
 

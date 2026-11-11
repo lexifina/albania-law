@@ -11,7 +11,7 @@ Delegimin e kompetencave të kryeinspektorit të Drejtorisë së Përgjithshme t
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0129-53` (tags `urdher-2019-0129-53/<day>`; `python tools/on.py <day> urdher-2019-0129-53`).
+Act id: `urdher-2019-0129-53` (tags `urdher-2019-0129-53/<day>`; `python registry/tools/on.py <day> urdher-2019-0129-53`).
 
 ## Decisions made by hand
 

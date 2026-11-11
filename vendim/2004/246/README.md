@@ -9,7 +9,7 @@ Lejimin e ministrisë së pushtetit vendor dhe të decentralizimit të përdorë
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-246` (tags `vendim-2004-246/<day>`; `python tools/on.py <day> vendim-2004-246`).
+Act id: `vendim-2004-246` (tags `vendim-2004-246/<day>`; `python registry/tools/on.py <day> vendim-2004-246`).
 
 ## Decisions made by hand
 

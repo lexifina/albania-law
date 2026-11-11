@@ -5,7 +5,7 @@ PËR PËRCAKTIMIN E AUTORITETEVE DHE TË PËRGJEGJËSIVE PËR MENAXHIMIN E DECEN
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-48` (tags `vendim-2011-48/<day>`; `python tools/on.py <day> vendim-2011-48`).
+Act id: `vendim-2011-48` (tags `vendim-2011-48/<day>`; `python registry/tools/on.py <day> vendim-2011-48`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Rritjen e pagës minimale, në shkallë vendi · 2 versions, from 2000-07-19 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-374` (tags `vendim-2000-374/<day>`; `python tools/on.py <day> vendim-2000-374`).
+Act id: `vendim-2000-374` (tags `vendim-2000-374/<day>`; `python registry/tools/on.py <day> vendim-2000-374`).
 
 ## Decisions made by hand
 

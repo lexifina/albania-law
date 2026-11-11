@@ -5,7 +5,7 @@ Përcaktimin e tarifave për provimin e shtetit · 2 versions, from 2011-12-16 (
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-812` (tags `vendim-2011-812/<day>`; `python tools/on.py <day> vendim-2011-812`).
+Act id: `vendim-2011-812` (tags `vendim-2011-812/<day>`; `python registry/tools/on.py <day> vendim-2011-812`).
 
 ## Decisions made by hand
 

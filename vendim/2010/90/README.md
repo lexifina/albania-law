@@ -14,7 +14,7 @@ Hapjen e programeve të reja të studimit, pranë shkollës së lartë private �
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-90` (tags `vendim-2010-90/<day>`; `python tools/on.py <day> vendim-2010-90`).
+Act id: `vendim-2010-90` (tags `vendim-2010-90/<day>`; `python registry/tools/on.py <day> vendim-2010-90`).
 
 ## Decisions made by hand
 

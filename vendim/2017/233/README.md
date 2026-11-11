@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së angazhimit për zhvillimin e tregut të gazit dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-233` (tags `vendim-2017-233/<day>`; `python tools/on.py <day> vendim-2017-233`).
+Act id: `vendim-2017-233` (tags `vendim-2017-233/<day>`; `python registry/tools/on.py <day> vendim-2017-233`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Përjashtimin e zbatimit të procedurave dhe të afateve për përgatitjen e pro
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-17` (tags `aktnormativ-2020-17/<day>`; `python tools/on.py <day> aktnormativ-2020-17`).
+Act id: `aktnormativ-2020-17` (tags `aktnormativ-2020-17/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-17`).
 
 ## Decisions made by hand
 

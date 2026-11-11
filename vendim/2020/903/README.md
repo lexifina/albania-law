@@ -20,7 +20,7 @@ Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-903` (tags `vendim-2020-903/<day>`; `python tools/on.py <day> vendim-2020-903`).
+Act id: `vendim-2020-903` (tags `vendim-2020-903/<day>`; `python registry/tools/on.py <day> vendim-2020-903`).
 
 ## Decisions made by hand
 

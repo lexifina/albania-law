@@ -27,7 +27,7 @@ Vlerësimin e rezultateve në punë të nëpunësve civilë · 2 versions, from 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-04-08 |
 
-Act id: `vendim-2014-109` (tags `vendim-2014-109/<day>`; `python tools/on.py <day> vendim-2014-109`).
+Act id: `vendim-2014-109` (tags `vendim-2014-109/<day>`; `python registry/tools/on.py <day> vendim-2014-109`).
 
 ## Decisions made by hand
 

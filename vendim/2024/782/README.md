@@ -22,7 +22,7 @@ Përcaktimin e rregullave të detajuara për aksesimin e faqeve zyrtare të inte
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-782` (tags `vendim-2024-782/<day>`; `python tools/on.py <day> vendim-2024-782`).
+Act id: `vendim-2024-782` (tags `vendim-2024-782/<day>`; `python registry/tools/on.py <day> vendim-2024-782`).
 
 ## Decisions made by hand
 

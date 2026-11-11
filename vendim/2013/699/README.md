@@ -9,7 +9,7 @@ Miratimin e marrëveshjeve hidrokarbure, ndërmjet “Albpetrol” sh.a. dhe “
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-699` (tags `vendim-2013-699/<day>`; `python tools/on.py <day> vendim-2013-699`).
+Act id: `vendim-2013-699` (tags `vendim-2013-699/<day>`; `python registry/tools/on.py <day> vendim-2013-699`).
 
 ## Decisions made by hand
 

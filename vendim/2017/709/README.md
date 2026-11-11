@@ -10,7 +10,7 @@ MIRATIMIN E PLANIT TË DYTË DHE TË TRETË KOMBËTAR TË VEPRIMIT PËR EFIÇENC
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-709` (tags `vendim-2017-709/<day>`; `python tools/on.py <day> vendim-2017-709`).
+Act id: `vendim-2017-709` (tags `vendim-2017-709/<day>`; `python registry/tools/on.py <day> vendim-2017-709`).
 
 ## Decisions made by hand
 

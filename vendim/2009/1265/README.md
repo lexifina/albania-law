@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetëro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1265` (tags `vendim-2009-1265/<day>`; `python tools/on.py <day> vendim-2009-1265`).
+Act id: `vendim-2009-1265` (tags `vendim-2009-1265/<day>`; `python registry/tools/on.py <day> vendim-2009-1265`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 204, datë 13.3.2013: Për një ndryshim në vendimet e Këshillit të Ministrave nr. 1265, datë 16.12.2009 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Delvinë të qarkut të Vlorës”, dhe nr. 250, datë 24.4.2003 “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Rendit Publik”](https://qbz.gov.al/eli/vendim/2013/03/13/204)
 
 ## Decisions made by hand
 

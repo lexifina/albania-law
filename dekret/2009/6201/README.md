@@ -12,7 +12,7 @@ Caktimin e kompetencave tokësore të gjykatave të rretheve gjyqësore dhe të 
 | Vendimi | [pika-000.md](pika-000.md) | 1 | 2013-01-01 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2009-6201` (tags `dekret-2009-6201/<day>`; `python tools/on.py <day> dekret-2009-6201`).
+Act id: `dekret-2009-6201` (tags `dekret-2009-6201/<day>`; `python registry/tools/on.py <day> dekret-2009-6201`).
 
 ## Decisions made by hand
 

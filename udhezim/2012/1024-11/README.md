@@ -5,7 +5,7 @@ Planifikimin e fondeve të pagesave për aftësinë e kufizuar · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-1024-11` (tags `udhezim-2012-1024-11/<day>`; `python tools/on.py <day> udhezim-2012-1024-11`).
+Act id: `udhezim-2012-1024-11` (tags `udhezim-2012-1024-11/<day>`; `python registry/tools/on.py <day> udhezim-2012-1024-11`).
 
 ## Decisions made by hand
 

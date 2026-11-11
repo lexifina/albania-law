@@ -23,7 +23,7 @@ Përcaktimin e procedurave të lëshimit të formës, elementëve të sigurisë 
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-1102-217` (tags `udhezim-2022-1102-217/<day>`; `python tools/on.py <day> udhezim-2022-1102-217`).
+Act id: `udhezim-2022-1102-217` (tags `udhezim-2022-1102-217/<day>`; `python registry/tools/on.py <day> udhezim-2022-1102-217`).
 
 ## Decisions made by hand
 

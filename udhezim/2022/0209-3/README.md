@@ -5,7 +5,7 @@ Procedurat e emërimit, uljes në detyrë, pezullimit dhe shkarkimit të nëndre
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2022-0209-3` (tags `udhezim-2022-0209-3/<day>`; `python tools/on.py <day> udhezim-2022-0209-3`).
+Act id: `udhezim-2022-0209-3` (tags `udhezim-2022-0209-3/<day>`; `python registry/tools/on.py <day> udhezim-2022-0209-3`).
 
 ## Decisions made by hand
 

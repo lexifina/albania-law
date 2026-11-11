@@ -10,7 +10,7 @@ Akordim fondi për financimin e blerjes së objektit nga Frrok Gjini për tregun
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-1999-641` (tags `vendim-1999-641/<day>`; `python tools/on.py <day> vendim-1999-641`).
+Act id: `vendim-1999-641` (tags `vendim-1999-641/<day>`; `python registry/tools/on.py <day> vendim-1999-641`).
 
 ## Decisions made by hand
 

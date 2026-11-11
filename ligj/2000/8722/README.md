@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “konventën e kombeve të bashkuar
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8722` (tags `ligj-2000-8722/<day>`; `python tools/on.py <day> ligj-2000-8722`).
+Act id: `ligj-2000-8722` (tags `ligj-2000-8722/<day>`; `python registry/tools/on.py <day> ligj-2000-8722`).
 
 ## Decisions made by hand
 

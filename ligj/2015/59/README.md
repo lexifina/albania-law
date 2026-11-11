@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-59` (tags `ligj-2015-59/<day>`; `python tools/on.py <day> ligj-2015-59`).
+Act id: `ligj-2015-59` (tags `ligj-2015-59/<day>`; `python registry/tools/on.py <day> ligj-2015-59`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Gjykatës Kushtetuese nr. 64, datë 23.9.2015: Me objekt: Shfuqizimi, si i papajtueshëm me Kushtetutën e Republikës së Shqipërisë, i ligjit nr. 59/2014 “Për karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”. Pezullimi i zbatimit të ligjit nr. 59/2014 “Për karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”](https://qbz.gov.al/eli/vendim/2015/09/23/64)
 
 ## Decisions made by hand
 

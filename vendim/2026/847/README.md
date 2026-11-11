@@ -24,7 +24,7 @@ Kushtet e tjera dhe procedurat për miratimin e trupave të kontrollit dhe njoft
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-847` (tags `vendim-2026-847/<day>`; `python tools/on.py <day> vendim-2026-847`).
+Act id: `vendim-2026-847` (tags `vendim-2026-847/<day>`; `python registry/tools/on.py <day> vendim-2026-847`).
 
 ## Decisions made by hand
 

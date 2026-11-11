@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-109` (tags `vendim-2010-109/<day>`; `python tools/on.py <day> vendim-2010-109`).
+Act id: `vendim-2010-109` (tags `vendim-2010-109/<day>`; `python registry/tools/on.py <day> vendim-2010-109`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 328, datë 16.5.2012: Për një ndryshim në vendimin nr. 109, datë 17.2.2010 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës nikël, të qarkut të durrësit”](https://qbz.gov.al/eli/vendim/2012/05/16/328)
 
 ## Decisions made by hand
 

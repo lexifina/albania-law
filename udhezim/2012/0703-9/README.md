@@ -33,7 +33,7 @@ Mbi auditimin dhe inspektimin e sigurisë rrugore · 1 versions, from 2012-08-10
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-0703-9` (tags `udhezim-2012-0703-9/<day>`; `python tools/on.py <day> udhezim-2012-0703-9`).
+Act id: `udhezim-2012-0703-9` (tags `udhezim-2012-0703-9/<day>`; `python registry/tools/on.py <day> udhezim-2012-0703-9`).
 
 ## Decisions made by hand
 

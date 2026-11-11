@@ -21,7 +21,7 @@ Përcaktimin e kritereve organoleptike të produkteve të peshkimit · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1028-29` (tags `udhezim-2024-1028-29/<day>`; `python tools/on.py <day> udhezim-2024-1028-29`).
+Act id: `udhezim-2024-1028-29` (tags `udhezim-2024-1028-29/<day>`; `python registry/tools/on.py <day> udhezim-2024-1028-29`).
 
 ## Decisions made by hand
 

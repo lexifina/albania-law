@@ -9,7 +9,7 @@ Miratimin e raportit të katërt periodik kombëtar për zbatimin e Paktit Ndër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-439` (tags `vendim-2021-439/<day>`; `python tools/on.py <day> vendim-2021-439`).
+Act id: `vendim-2021-439` (tags `vendim-2021-439/<day>`; `python registry/tools/on.py <day> vendim-2021-439`).
 
 ## Decisions made by hand
 

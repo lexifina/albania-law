@@ -25,7 +25,7 @@ Kriteret teknike të klasifikimit të kullotave e livadheve dhe procedurat për 
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0720-2` (tags `udhezim-2016-0720-2/<day>`; `python tools/on.py <day> udhezim-2016-0720-2`).
+Act id: `udhezim-2016-0720-2` (tags `udhezim-2016-0720-2/<day>`; `python registry/tools/on.py <day> udhezim-2016-0720-2`).
 
 ## Decisions made by hand
 

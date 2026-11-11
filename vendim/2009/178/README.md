@@ -14,7 +14,7 @@ Dhënien e lejes për hapjen e kolegjit profesional privat “ivoclar vivadent&p
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-178` (tags `vendim-2009-178/<day>`; `python tools/on.py <day> vendim-2009-178`).
+Act id: `vendim-2009-178` (tags `vendim-2009-178/<day>`; `python registry/tools/on.py <day> vendim-2009-178`).
 
 ## Decisions made by hand
 

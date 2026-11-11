@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet palëve të Konventës së Bashkëpunimit 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-13-2019` (tags `ligji-13-2019/<day>`; `python tools/on.py <day> ligji-13-2019`).
+Act id: `ligji-13-2019` (tags `ligji-13-2019/<day>`; `python registry/tools/on.py <day> ligji-13-2019`).
 
 ## Decisions made by hand
 

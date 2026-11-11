@@ -11,7 +11,7 @@ Miratimin e planit të zhvillimit të sektorit të gazit natyror në shqipëri d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-10-06 |
 
-Act id: `vendim-2018-87` (tags `vendim-2018-87/<day>`; `python tools/on.py <day> vendim-2018-87`).
+Act id: `vendim-2018-87` (tags `vendim-2018-87/<day>`; `python registry/tools/on.py <day> vendim-2018-87`).
 
 ## Decisions made by hand
 

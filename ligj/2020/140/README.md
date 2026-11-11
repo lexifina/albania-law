@@ -38,7 +38,7 @@ Censin e popullsisë dhe të banesave · 1 versions, from 2021-01-12 (latest in 
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-140` (tags `ligj-2020-140/<day>`; `python tools/on.py <day> ligj-2020-140`).
+Act id: `ligj-2020-140` (tags `ligj-2020-140/<day>`; `python registry/tools/on.py <day> ligj-2020-140`).
 
 ## Decisions made by hand
 

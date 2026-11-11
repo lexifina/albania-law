@@ -10,7 +10,7 @@ Miratimin e fondit të shpenzimeve të vitit 2002 për Entin Rregullator të Tel
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-226` (tags `vendim-2002-226/<day>`; `python tools/on.py <day> vendim-2002-226`).
+Act id: `vendim-2002-226` (tags `vendim-2002-226/<day>`; `python registry/tools/on.py <day> vendim-2002-226`).
 
 ## Decisions made by hand
 

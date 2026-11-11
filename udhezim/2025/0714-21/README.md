@@ -5,7 +5,7 @@ Kontrollin e brendshëm dhe verifikimin e masave për zbatimin e instrumentit t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2025-0714-21` (tags `udhezim-2025-0714-21/<day>`; `python tools/on.py <day> udhezim-2025-0714-21`).
+Act id: `udhezim-2025-0714-21` (tags `udhezim-2025-0714-21/<day>`; `python registry/tools/on.py <day> udhezim-2025-0714-21`).
 
 ## Decisions made by hand
 

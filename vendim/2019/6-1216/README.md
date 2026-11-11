@@ -9,7 +9,7 @@ Menaxhimin e mbetjeve të krijuara nga tërmeti i datës 26 nëntor · 1 version
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-6-1216` (tags `vendim-2019-6-1216/<day>`; `python tools/on.py <day> vendim-2019-6-1216`).
+Act id: `vendim-2019-6-1216` (tags `vendim-2019-6-1216/<day>`; `python registry/tools/on.py <day> vendim-2019-6-1216`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat e punësimit për profesionet e shkencave mjekësore teknike në inst
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0627-481` (tags `udhezim-2019-0627-481/<day>`; `python tools/on.py <day> udhezim-2019-0627-481`).
+Act id: `udhezim-2019-0627-481` (tags `udhezim-2019-0627-481/<day>`; `python registry/tools/on.py <day> udhezim-2019-0627-481`).
 
 ## Decisions made by hand
 

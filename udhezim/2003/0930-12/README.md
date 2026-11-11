@@ -11,7 +11,7 @@ Mbi menyrën e administrimit të tabelave të rezultateve të qendrave të votim
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 
-Act id: `udhezim-2003-0930-12` (tags `udhezim-2003-0930-12/<day>`; `python tools/on.py <day> udhezim-2003-0930-12`).
+Act id: `udhezim-2003-0930-12` (tags `udhezim-2003-0930-12/<day>`; `python registry/tools/on.py <day> udhezim-2003-0930-12`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Dhënien e ndihmës financiare nga këshilli i ministrave i republikës së shqi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-600` (tags `vendim-2016-600/<day>`; `python tools/on.py <day> vendim-2016-600`).
+Act id: `vendim-2016-600` (tags `vendim-2016-600/<day>`; `python registry/tools/on.py <day> vendim-2016-600`).
 
 ## Decisions made by hand
 

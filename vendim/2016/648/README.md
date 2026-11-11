@@ -12,7 +12,7 @@ Miratimin e rregullores “për mënyrën e organizimit dhe të funksionimit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-648` (tags `vendim-2016-648/<day>`; `python tools/on.py <day> vendim-2016-648`).
+Act id: `vendim-2016-648` (tags `vendim-2016-648/<day>`; `python registry/tools/on.py <day> vendim-2016-648`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Kontributet në natyrë me qëllim përballimin e pasojave të fatkeqësisë nat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0426-11` (tags `udhezim-2021-0426-11/<day>`; `python tools/on.py <day> udhezim-2021-0426-11`).
+Act id: `udhezim-2021-0426-11` (tags `udhezim-2021-0426-11/<day>`; `python registry/tools/on.py <day> udhezim-2021-0426-11`).
 
 ## Decisions made by hand
 

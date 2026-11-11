@@ -52,7 +52,7 @@ Transplantimin e indeve, të qelizave dhe të organeve në republikën e shqipë
 | Neni 37 | [neni-037.md](neni-037.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10454` (tags `ligj-2011-10454/<day>`; `python tools/on.py <day> ligj-2011-10454`).
+Act id: `ligj-2011-10454` (tags `ligj-2011-10454/<day>`; `python registry/tools/on.py <day> ligj-2011-10454`).
 
 ## Decisions made by hand
 

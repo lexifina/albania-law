@@ -10,7 +10,7 @@ Privatizimin e kuotave shtetërore në shoqërinë dv-albturist hoteliers, sh.p.
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-450` (tags `vendim-2000-450/<day>`; `python tools/on.py <day> vendim-2000-450`).
+Act id: `vendim-2000-450` (tags `vendim-2000-450/<day>`; `python registry/tools/on.py <day> vendim-2000-450`).
 
 ## Decisions made by hand
 

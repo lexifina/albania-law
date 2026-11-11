@@ -12,7 +12,7 @@ Përfaqësimin në mungesë të ministrit për Evropën dhe Punët e Jashtme · 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-1011-846` (tags `urdher-2024-1011-846/<day>`; `python tools/on.py <day> urdher-2024-1011-846`).
+Act id: `urdher-2024-1011-846` (tags `urdher-2024-1011-846/<day>`; `python registry/tools/on.py <day> urdher-2024-1011-846`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Përbërjen, rregullat e funksionimit dhe trajtimin financiar të grupit negocia
 | Pika 12 | [pika-012.md](pika-012.md) | 2 | 2024-12-17 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-422` (tags `vendim-2020-422/<day>`; `python tools/on.py <day> vendim-2020-422`).
+Act id: `vendim-2020-422` (tags `vendim-2020-422/<day>`; `python registry/tools/on.py <day> vendim-2020-422`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në Konventën për Organizatën Hidrogr
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2022-20` (tags `ligj-2022-20/<day>`; `python tools/on.py <day> ligj-2022-20`).
+Act id: `ligj-2022-20` (tags `ligj-2022-20/<day>`; `python registry/tools/on.py <day> ligj-2022-20`).
 
 ## Decisions made by hand
 

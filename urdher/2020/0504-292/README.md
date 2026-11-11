@@ -12,7 +12,7 @@ Mënyrën e vetëkarantinimit të personave që riatdhesohen · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0504-292` (tags `urdher-2020-0504-292/<day>`; `python tools/on.py <day> urdher-2020-0504-292`).
+Act id: `urdher-2020-0504-292` (tags `urdher-2020-0504-292/<day>`; `python registry/tools/on.py <day> urdher-2020-0504-292`).
 
 ## Decisions made by hand
 

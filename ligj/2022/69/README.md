@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes me shkëmbim notash ndërmjet Këshillit të Ministr
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2022-69` (tags `ligj-2022-69/<day>`; `python tools/on.py <day> ligj-2022-69`).
+Act id: `ligj-2022-69` (tags `ligj-2022-69/<day>`; `python registry/tools/on.py <day> ligj-2022-69`).
 
 ## Decisions made by hand
 

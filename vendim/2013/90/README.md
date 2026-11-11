@@ -9,7 +9,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2013, për Autoritetin e Komuniki
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-90` (tags `vendim-2013-90/<day>`; `python tools/on.py <day> vendim-2013-90`).
+Act id: `vendim-2013-90` (tags `vendim-2013-90/<day>`; `python registry/tools/on.py <day> vendim-2013-90`).
 
 ## Decisions made by hand
 

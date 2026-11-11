@@ -21,7 +21,7 @@ Programin, trajnimin, testimin dhe lëshimin e certifikatës për këshilltarët
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-11-10 |
 
-Act id: `udhezim-2022-0203-5` (tags `udhezim-2022-0203-5/<day>`; `python tools/on.py <day> udhezim-2022-0203-5`).
+Act id: `udhezim-2022-0203-5` (tags `udhezim-2022-0203-5/<day>`; `python registry/tools/on.py <day> udhezim-2022-0203-5`).
 
 ## Decisions made by hand
 

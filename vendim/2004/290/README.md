@@ -10,7 +10,7 @@ Miratimin e strategjisë Kombëtare të menaxhimit të zjarreve në pyje dhe kul
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-290` (tags `vendim-2004-290/<day>`; `python tools/on.py <day> vendim-2004-290`).
+Act id: `vendim-2004-290` (tags `vendim-2004-290/<day>`; `python registry/tools/on.py <day> vendim-2004-290`).
 
 ## Decisions made by hand
 

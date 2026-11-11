@@ -23,7 +23,7 @@ Përcaktimin e rregullave për organizimin, funksionimin dhe përbërjen e Komis
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-196` (tags `vendim-2026-196/<day>`; `python tools/on.py <day> vendim-2026-196`).
+Act id: `vendim-2026-196` (tags `vendim-2026-196/<day>`; `python registry/tools/on.py <day> vendim-2026-196`).
 
 ## Decisions made by hand
 

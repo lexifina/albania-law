@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së tregtisë së lirë ndërmjet republikës së
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9196` (tags `ligj-2004-9196/<day>`; `python tools/on.py <day> ligj-2004-9196`).
+Act id: `ligj-2004-9196` (tags `ligj-2004-9196/<day>`; `python registry/tools/on.py <day> ligj-2004-9196`).
 
 ## Decisions made by hand
 

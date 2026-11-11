@@ -15,7 +15,7 @@ Heqjen nga fondi pyjor dhe kullosor të sipërfaqeve, në ekonomitë pyjore “k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-864` (tags `vendim-2014-864/<day>`; `python tools/on.py <day> vendim-2014-864`).
+Act id: `vendim-2014-864` (tags `vendim-2014-864/<day>`; `python registry/tools/on.py <day> vendim-2014-864`).
 
 ## Decisions made by hand
 

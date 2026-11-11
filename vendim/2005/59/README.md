@@ -16,7 +16,7 @@ Kryerjen e analizave të vlerave të treguesve të tokës bujqësore · 1 versio
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-59` (tags `vendim-2005-59/<day>`; `python tools/on.py <day> vendim-2005-59`).
+Act id: `vendim-2005-59` (tags `vendim-2005-59/<day>`; `python registry/tools/on.py <day> vendim-2005-59`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Procedurat e emërimit dhe të shkarkimit të nëndrejtorit të institucionit ar
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0815-40` (tags `udhezim-2013-0815-40/<day>`; `python tools/on.py <day> udhezim-2013-0815-40`).
+Act id: `udhezim-2013-0815-40` (tags `udhezim-2013-0815-40/<day>`; `python registry/tools/on.py <day> udhezim-2013-0815-40`).
 
 ## Decisions made by hand
 

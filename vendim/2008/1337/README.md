@@ -21,7 +21,7 @@ Kuotat e pranimit në institucionet publike të arsimit të lartë për programe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1337` (tags `vendim-2008-1337/<day>`; `python tools/on.py <day> vendim-2008-1337`).
+Act id: `vendim-2008-1337` (tags `vendim-2008-1337/<day>`; `python registry/tools/on.py <day> vendim-2008-1337`).
 
 ## Decisions made by hand
 

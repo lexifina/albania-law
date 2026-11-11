@@ -5,7 +5,7 @@ Procedurat e mbledhjes, të përpunimit dhe administrimit të kërkesave të sub
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-747` (tags `vendim-2006-747/<day>`; `python tools/on.py <day> vendim-2006-747`).
+Act id: `vendim-2006-747` (tags `vendim-2006-747/<day>`; `python registry/tools/on.py <day> vendim-2006-747`).
 
 ## Decisions made by hand
 

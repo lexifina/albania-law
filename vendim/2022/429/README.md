@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të drejtorit të përgjithshëm të Drejtoris
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-429` (tags `vendim-2022-429/<day>`; `python tools/on.py <day> vendim-2022-429`).
+Act id: `vendim-2022-429` (tags `vendim-2022-429/<day>`; `python registry/tools/on.py <day> vendim-2022-429`).
 
 ## Decisions made by hand
 

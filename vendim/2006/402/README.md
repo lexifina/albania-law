@@ -14,7 +14,15 @@ Shpalljen e ekosistemit natyror të malit të Dajtit “Park Kombëtar” (me si
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-402` (tags `vendim-2006-402/<day>`; `python tools/on.py <day> vendim-2006-402`).
+Act id: `vendim-2006-402` (tags `vendim-2006-402/<day>`; `python registry/tools/on.py <day> vendim-2006-402`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 715, datë 23.6.2009: Për një ndryshim në vendimin nr.402, datë 21.6.2006 të këshillit të ministrave “për shpalljen e ekosistemit natyror të malit të dajtit “park kombëtar” (me sipërfaqe të zgjeruar)”](https://qbz.gov.al/eli/vendim/2009/06/23/715)
 
 ## Decisions made by hand
 

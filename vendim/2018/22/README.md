@@ -30,7 +30,7 @@ Miratimin e kritereve për certifikimin e veprimtarisë së agroturizmit · 3 ve
 | Pika 22 | [pika-022.md](pika-022.md) | 1 | 2019-08-02 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-22` (tags `vendim-2018-22/<day>`; `python tools/on.py <day> vendim-2018-22`).
+Act id: `vendim-2018-22` (tags `vendim-2018-22/<day>`; `python registry/tools/on.py <day> vendim-2018-22`).
 
 ## Decisions made by hand
 

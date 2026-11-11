@@ -11,7 +11,7 @@ Shpërndarjen e fondit transitor për zbatimin e reformës së re administrativo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-664` (tags `vendim-2015-664/<day>`; `python tools/on.py <day> vendim-2015-664`).
+Act id: `vendim-2015-664` (tags `vendim-2015-664/<day>`; `python registry/tools/on.py <day> vendim-2015-664`).
 
 ## Decisions made by hand
 

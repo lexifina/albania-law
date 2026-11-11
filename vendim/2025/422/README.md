@@ -16,7 +16,7 @@ Transferimin në pronësi të Korporatës së Investimeve Shqiptare të pasuris�
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-422` (tags `vendim-2025-422/<day>`; `python tools/on.py <day> vendim-2025-422`).
+Act id: `vendim-2025-422` (tags `vendim-2025-422/<day>`; `python registry/tools/on.py <day> vendim-2025-422`).
 
 ## Decisions made by hand
 

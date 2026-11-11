@@ -10,7 +10,7 @@ Miratimin e rregullores “për mbrojtjen e mjedisit nga zhurmat nga aviacioni c
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-1127-11262` (tags `urdher-2014-1127-11262/<day>`; `python tools/on.py <day> urdher-2014-1127-11262`).
+Act id: `urdher-2014-1127-11262` (tags `urdher-2014-1127-11262/<day>`; `python registry/tools/on.py <day> urdher-2014-1127-11262`).
 
 ## Decisions made by hand
 

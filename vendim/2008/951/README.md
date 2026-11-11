@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me Saint Vincent dhe Grenadinë · 1 ver
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-951` (tags `vendim-2008-951/<day>`; `python tools/on.py <day> vendim-2008-951`).
+Act id: `vendim-2008-951` (tags `vendim-2008-951/<day>`; `python registry/tools/on.py <day> vendim-2008-951`).
 
 ## Decisions made by hand
 

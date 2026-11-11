@@ -11,7 +11,7 @@ Financimin e pistës së atletikës në stadiumin “loro boriçi”, shkodër �
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-302` (tags `vendim-2017-302/<day>`; `python tools/on.py <day> vendim-2017-302`).
+Act id: `vendim-2017-302` (tags `vendim-2017-302/<day>`; `python registry/tools/on.py <day> vendim-2017-302`).
 
 ## Decisions made by hand
 

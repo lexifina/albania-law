@@ -18,7 +18,7 @@ Funksionimin, kohëzgjatjen, organizimin dhe detyrat e Komisionit për Skemat e 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-860` (tags `vendim-2019-860/<day>`; `python tools/on.py <day> vendim-2019-860`).
+Act id: `vendim-2019-860` (tags `vendim-2019-860/<day>`; `python registry/tools/on.py <day> vendim-2019-860`).
 
 ## Decisions made by hand
 

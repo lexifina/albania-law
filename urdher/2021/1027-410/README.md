@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për organizimin dhe funksionimin e kontrollit shtet�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-1027-410` (tags `urdher-2021-1027-410/<day>`; `python tools/on.py <day> urdher-2021-1027-410`).
+Act id: `urdher-2021-1027-410` (tags `urdher-2021-1027-410/<day>`; `python registry/tools/on.py <day> urdher-2021-1027-410`).
 
 ## Decisions made by hand
 

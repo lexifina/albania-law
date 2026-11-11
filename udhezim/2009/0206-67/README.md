@@ -25,7 +25,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kuvendin e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0206-67` (tags `udhezim-2009-0206-67/<day>`; `python tools/on.py <day> udhezim-2009-0206-67`).
+Act id: `udhezim-2009-0206-67` (tags `udhezim-2009-0206-67/<day>`; `python registry/tools/on.py <day> udhezim-2009-0206-67`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Rregullat që duhen respektuar për afishimin e materialeve propagandistike në 
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 
-Act id: `udhezim-2005-0318-2` (tags `udhezim-2005-0318-2/<day>`; `python tools/on.py <day> udhezim-2005-0318-2`).
+Act id: `udhezim-2005-0318-2` (tags `udhezim-2005-0318-2/<day>`; `python registry/tools/on.py <day> udhezim-2005-0318-2`).
 
 ## Decisions made by hand
 

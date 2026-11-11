@@ -10,7 +10,7 @@ Shpërblimin e cilësisë së lartë sportive të peshëngritësave shqiptarë d
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-216` (tags `vendim-2000-216/<day>`; `python tools/on.py <day> vendim-2000-216`).
+Act id: `vendim-2000-216` (tags `vendim-2000-216/<day>`; `python registry/tools/on.py <day> vendim-2000-216`).
 
 ## Decisions made by hand
 

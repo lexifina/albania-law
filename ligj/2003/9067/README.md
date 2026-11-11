@@ -5,7 +5,7 @@ Ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9067` (tags `ligj-2003-9067/<day>`; `python tools/on.py <day> ligj-2003-9067`).
+Act id: `ligj-2003-9067` (tags `ligj-2003-9067/<day>`; `python registry/tools/on.py <day> ligj-2003-9067`).
 
 ## Decisions made by hand
 

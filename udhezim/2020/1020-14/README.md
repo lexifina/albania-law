@@ -5,7 +5,7 @@ Kushtet dhe mënyrën e mbajtjes së regjistrit të fermës · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-1020-14` (tags `udhezim-2020-1020-14/<day>`; `python tools/on.py <day> udhezim-2020-1020-14`).
+Act id: `udhezim-2020-1020-14` (tags `udhezim-2020-1020-14/<day>`; `python registry/tools/on.py <day> udhezim-2020-1020-14`).
 
 ## Decisions made by hand
 

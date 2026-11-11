@@ -5,7 +5,7 @@ Përcaktimin e procedurës dhe rregullave të hedhjes së shortit për zgjedhjen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-1122-1` (tags `urdher-2017-1122-1/<day>`; `python tools/on.py <day> urdher-2017-1122-1`).
+Act id: `urdher-2017-1122-1` (tags `urdher-2017-1122-1/<day>`; `python registry/tools/on.py <day> urdher-2017-1122-1`).
 
 ## Decisions made by hand
 

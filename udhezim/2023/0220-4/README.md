@@ -5,7 +5,7 @@ Përcaktimin e kufirit financiar të vlerës së plotë të projektit në përpu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2023-0220-4` (tags `udhezim-2023-0220-4/<day>`; `python tools/on.py <day> udhezim-2023-0220-4`).
+Act id: `udhezim-2023-0220-4` (tags `udhezim-2023-0220-4/<day>`; `python registry/tools/on.py <day> udhezim-2023-0220-4`).
 
 ## Decisions made by hand
 

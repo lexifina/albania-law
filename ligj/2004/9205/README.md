@@ -5,7 +5,7 @@ Mbrojtjen e dëshmitarëve dhe të bashkëpunëtorëve të drejtësisë · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9205` (tags `ligj-2004-9205/<day>`; `python tools/on.py <day> ligj-2004-9205`).
+Act id: `ligj-2004-9205` (tags `ligj-2004-9205/<day>`; `python registry/tools/on.py <day> ligj-2004-9205`).
 
 ## Decisions made by hand
 

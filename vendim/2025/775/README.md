@@ -8,7 +8,7 @@ Miratimin e marrëveshjes ndryshuese nr. 2 me shkëmbim letrash të marrëveshje
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-775` (tags `vendim-2025-775/<day>`; `python tools/on.py <day> vendim-2025-775`).
+Act id: `vendim-2025-775` (tags `vendim-2025-775/<day>`; `python registry/tools/on.py <day> vendim-2025-775`).
 
 ## Decisions made by hand
 

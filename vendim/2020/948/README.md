@@ -11,7 +11,7 @@ Miratimin e listës së emrave gjeografikë të romanizuar · 1 versions, from 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-948` (tags `vendim-2020-948/<day>`; `python tools/on.py <day> vendim-2020-948`).
+Act id: `vendim-2020-948` (tags `vendim-2020-948/<day>`; `python registry/tools/on.py <day> vendim-2020-948`).
 
 ## Decisions made by hand
 

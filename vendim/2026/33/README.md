@@ -15,7 +15,7 @@ Përcaktimin e fushave të rëndësisë së veçantë të kërkimit shkencor, p�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-33` (tags `vendim-2026-33/<day>`; `python tools/on.py <day> vendim-2026-33`).
+Act id: `vendim-2026-33` (tags `vendim-2026-33/<day>`; `python registry/tools/on.py <day> vendim-2026-33`).
 
 ## Decisions made by hand
 

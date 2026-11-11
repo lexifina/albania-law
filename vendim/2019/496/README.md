@@ -11,7 +11,7 @@ Rishpërndarje fondesh në buxhetin e miratuar për vitin 2019 dhe për caktimin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-496` (tags `vendim-2019-496/<day>`; `python tools/on.py <day> vendim-2019-496`).
+Act id: `vendim-2019-496` (tags `vendim-2019-496/<day>`; `python registry/tools/on.py <day> vendim-2019-496`).
 
 ## Decisions made by hand
 

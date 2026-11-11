@@ -5,7 +5,7 @@ Transferimin e përhershëm dhe të përkohshëm të nëpunësve civilë, pezull
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-171` (tags `vendim-2014-171/<day>`; `python tools/on.py <day> vendim-2014-171`).
+Act id: `vendim-2014-171` (tags `vendim-2014-171/<day>`; `python registry/tools/on.py <day> vendim-2014-171`).
 
 ## Decisions made by hand
 

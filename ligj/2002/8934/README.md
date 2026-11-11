@@ -38,7 +38,7 @@ Mbrojtjen e mjedisit · 1 versions, from 2013-04-03 (latest in force: 2013-04-03
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8934` (tags `ligj-2002-8934/<day>`; `python tools/on.py <day> ligj-2002-8934`).
+Act id: `ligj-2002-8934` (tags `ligj-2002-8934/<day>`; `python registry/tools/on.py <day> ligj-2002-8934`).
 
 ## Decisions made by hand
 

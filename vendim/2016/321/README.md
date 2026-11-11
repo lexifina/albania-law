@@ -10,7 +10,7 @@ Miratimin e dokumentit “standardet shtetërore për specifikimet teknike të i
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-321` (tags `vendim-2016-321/<day>`; `python tools/on.py <day> vendim-2016-321`).
+Act id: `vendim-2016-321` (tags `vendim-2016-321/<day>`; `python registry/tools/on.py <day> vendim-2016-321`).
 
 ## Decisions made by hand
 

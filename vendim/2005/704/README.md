@@ -5,7 +5,7 @@ Miratimin e kritereve të përfaqësimit, të përzgjedhjes, emërimit e shkarki
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-704` (tags `vendim-2005-704/<day>`; `python tools/on.py <day> vendim-2005-704`).
+Act id: `vendim-2005-704` (tags `vendim-2005-704/<day>`; `python registry/tools/on.py <day> vendim-2005-704`).
 
 ## Decisions made by hand
 

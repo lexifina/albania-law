@@ -9,7 +9,7 @@ Miratimin e rregullit teknik ”për kërkesat thelbësore dhe vlerësimin e kon
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1039` (tags `vendim-2010-1039/<day>`; `python tools/on.py <day> vendim-2010-1039`).
+Act id: `vendim-2010-1039` (tags `vendim-2010-1039/<day>`; `python registry/tools/on.py <day> vendim-2010-1039`).
 
 ## Decisions made by hand
 

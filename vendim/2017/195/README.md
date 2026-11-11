@@ -9,7 +9,7 @@ Miratimin e ndryshimit nr. 1 të marrëveshjes së grantit nr. tf019228, të fon
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-195` (tags `vendim-2017-195/<day>`; `python tools/on.py <day> vendim-2017-195`).
+Act id: `vendim-2017-195` (tags `vendim-2017-195/<day>`; `python registry/tools/on.py <day> vendim-2017-195`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ PëR TRANSFERIMIN në PRONëSI, DISA BASHKIVE, të PRONAVE, Të CILAT JANë në 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-268` (tags `vendim-2007-268/<day>`; `python tools/on.py <day> vendim-2007-268`).
+Act id: `vendim-2007-268` (tags `vendim-2007-268/<day>`; `python registry/tools/on.py <day> vendim-2007-268`).
 
 ## Decisions made by hand
 

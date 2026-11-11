@@ -10,7 +10,7 @@ Ushtrimin e detyrave si përgjegjëse për sistemin E-Leje në Agjencinë Kombë
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-1012-308` (tags `urdher-2022-1012-308/<day>`; `python tools/on.py <day> urdher-2022-1012-308`).
+Act id: `urdher-2022-1012-308` (tags `urdher-2022-1012-308/<day>`; `python registry/tools/on.py <day> urdher-2022-1012-308`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores për sigurinë e digave dhe të dambave · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-147` (tags `vendim-2004-147/<day>`; `python tools/on.py <day> vendim-2004-147`).
+Act id: `vendim-2004-147` (tags `vendim-2004-147/<day>`; `python registry/tools/on.py <day> vendim-2004-147`).
 
 ## Decisions made by hand
 

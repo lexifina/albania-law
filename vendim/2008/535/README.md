@@ -10,7 +10,7 @@ PëR MIRATIMIN E LISTëS PARAPRAKE të PRONAVE të PALUAJTSHME PUBLIKE, SHTETëR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-535` (tags `vendim-2008-535/<day>`; `python tools/on.py <day> vendim-2008-535`).
+Act id: `vendim-2008-535` (tags `vendim-2008-535/<day>`; `python registry/tools/on.py <day> vendim-2008-535`).
 
 ## Decisions made by hand
 

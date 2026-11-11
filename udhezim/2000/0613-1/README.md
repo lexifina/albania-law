@@ -18,7 +18,17 @@ Strukturën e renditjes së punëve në shërbimin civil, metodologjisë përkat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2000-0613-1` (tags `udhezim-2000-0613-1/<day>`; `python tools/on.py <day> udhezim-2000-0613-1`).
+Act id: `udhezim-2000-0613-1` (tags `udhezim-2000-0613-1/<day>`; `python registry/tools/on.py <day> udhezim-2000-0613-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 6, datë 19.12.2007 (Këshilli i Ministrave) [QBZ 6030]: Për disa ndryshime në udhëzimin nr.1, datë 13.6.2000 të këshillit të Ministrave “PËr strukturën e renditjes së punëve në shërbimin civil, metodologjisë përkatëse dhe përshkrimit përgjithësues të rolit të sekretarit të përgjithshëm në këtë shërbim”](https://qbz.gov.al/eli/udhezim/2007/12/19/6)
+- [Udhëzimi nr. 4, datë 17.2.2010 (Këshilli i Ministrave) [QBZ 14791]: Për disa shtesa dhe ndryshime në udhëzimin nr.1, datë 13.6.2000 të Këshillit të Ministrave “Për strukturën e renditjes së punëve në shërbimin civil, metodologjinë përkatëse dhe përshkrimin përgjithësues të rolit të sekretarit të përgjithshëm në këtë shërbim”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2010/02/17/4)
+- [Udhëzimi nr. 5, datë 30.6.2010 (Këshilli i Ministrave) [QBZ 15058]: Për një shtesë në udhëzimin nr.1, datë 13.6.2000 të Këshillit të Ministrave “Për strukturën e renditjes së punëve në shërbimin civil, metodologjinë përkatëse dhe përshkrimin përgjithësues të rolit të sekretarit të përgjithshëm në këtë shërbim”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2010/06/30/5)
 
 ## Decisions made by hand
 

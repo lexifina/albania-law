@@ -11,7 +11,7 @@ Miratimin e Planit të Veprimit me masa për të siguruar progres, që Shqipëri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0612-270` (tags `urdher-2026-0612-270/<day>`; `python tools/on.py <day> urdher-2026-0612-270`).
+Act id: `urdher-2026-0612-270` (tags `urdher-2026-0612-270/<day>`; `python registry/tools/on.py <day> urdher-2026-0612-270`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmes
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-230` (tags `vendim-2016-230/<day>`; `python tools/on.py <day> vendim-2016-230`).
+Act id: `vendim-2016-230` (tags `vendim-2016-230/<day>`; `python registry/tools/on.py <day> vendim-2016-230`).
 
 ## Decisions made by hand
 

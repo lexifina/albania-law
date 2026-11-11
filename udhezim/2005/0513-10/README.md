@@ -15,7 +15,7 @@ Mbledhjen, administrimin dhe publikimin e informacionit për procesin e numërim
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 
-Act id: `udhezim-2005-0513-10` (tags `udhezim-2005-0513-10/<day>`; `python tools/on.py <day> udhezim-2005-0513-10`).
+Act id: `udhezim-2005-0513-10` (tags `udhezim-2005-0513-10/<day>`; `python registry/tools/on.py <day> udhezim-2005-0513-10`).
 
 ## Decisions made by hand
 

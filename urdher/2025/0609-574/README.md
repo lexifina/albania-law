@@ -5,7 +5,7 @@ Marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së mur
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0609-574` (tags `urdher-2025-0609-574/<day>`; `python tools/on.py <day> urdher-2025-0609-574`).
+Act id: `urdher-2025-0609-574` (tags `urdher-2025-0609-574/<day>`; `python registry/tools/on.py <day> urdher-2025-0609-574`).
 
 ## Decisions made by hand
 

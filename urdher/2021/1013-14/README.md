@@ -8,7 +8,7 @@ Delegimin e kompetencave · 1 versions, from 2021-10-15 (latest in force: 2021-1
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-1013-14` (tags `urdher-2021-1013-14/<day>`; `python tools/on.py <day> urdher-2021-1013-14`).
+Act id: `urdher-2021-1013-14` (tags `urdher-2021-1013-14/<day>`; `python registry/tools/on.py <day> urdher-2021-1013-14`).
 
 ## Decisions made by hand
 

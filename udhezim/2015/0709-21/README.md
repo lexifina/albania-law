@@ -5,7 +5,7 @@ Procedurat e transferimit të nxënësve nga një nivel/drejtim i arsimit profes
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-0709-21` (tags `udhezim-2015-0709-21/<day>`; `python tools/on.py <day> udhezim-2015-0709-21`).
+Act id: `udhezim-2015-0709-21` (tags `udhezim-2015-0709-21/<day>`; `python registry/tools/on.py <day> udhezim-2015-0709-21`).
 
 ## Decisions made by hand
 

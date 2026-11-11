@@ -53,7 +53,7 @@ Sistemin e adresave · 2 versions, from 2016-10-20 (latest in force: 2024-07-05)
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9270` (tags `ligj-2004-9270/<day>`; `python tools/on.py <day> ligj-2004-9270`).
+Act id: `ligj-2004-9270` (tags `ligj-2004-9270/<day>`; `python registry/tools/on.py <day> ligj-2004-9270`).
 
 ## Decisions made by hand
 

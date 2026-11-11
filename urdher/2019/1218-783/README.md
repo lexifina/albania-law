@@ -18,7 +18,7 @@ Caktimin e personave të autorizuar që do të përdorin portalin qeveritar për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1218-783` (tags `urdher-2019-1218-783/<day>`; `python tools/on.py <day> urdher-2019-1218-783`).
+Act id: `urdher-2019-1218-783` (tags `urdher-2019-1218-783/<day>`; `python registry/tools/on.py <day> urdher-2019-1218-783`).
 
 ## Decisions made by hand
 

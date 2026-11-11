@@ -10,7 +10,7 @@ Përcaktimin e dokumentacionit të nevojshëm për pajisjen me licencë të sip�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-745` (tags `vendim-2024-745/<day>`; `python tools/on.py <day> vendim-2024-745`).
+Act id: `vendim-2024-745` (tags `vendim-2024-745/<day>`; `python registry/tools/on.py <day> vendim-2024-745`).
 
 ## Decisions made by hand
 

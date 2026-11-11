@@ -12,7 +12,7 @@ Përcaktimin e procedurës së veçantë për negocimin dhe lidhjen e kontratës
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2018-4` (tags `ligj-2018-4/<day>`; `python tools/on.py <day> ligj-2018-4`).
+Act id: `ligj-2018-4` (tags `ligj-2018-4/<day>`; `python registry/tools/on.py <day> ligj-2018-4`).
 
 ## Decisions made by hand
 

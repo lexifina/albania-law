@@ -5,7 +5,7 @@ Pezullimin e përkohshëm të procedurave të prokurimit, për vitin 2017 · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-482` (tags `vendim-2017-482/<day>`; `python tools/on.py <day> vendim-2017-482`).
+Act id: `vendim-2017-482` (tags `vendim-2017-482/<day>`; `python registry/tools/on.py <day> vendim-2017-482`).
 
 ## Decisions made by hand
 

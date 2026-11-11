@@ -11,7 +11,7 @@ Shpalljen e gjëndjes së epidemisë nga infeksioni COVID-19 · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0311-156` (tags `urdher-2020-0311-156/<day>`; `python tools/on.py <day> urdher-2020-0311-156`).
+Act id: `urdher-2020-0311-156` (tags `urdher-2020-0311-156/<day>`; `python registry/tools/on.py <day> urdher-2020-0311-156`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,15 @@ Përcaktimin e procedurës për përzgjedhjen e zhvilluesit në zonën e teknolo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0910-35` (tags `udhezim-2018-0910-35/<day>`; `python tools/on.py <day> udhezim-2018-0910-35`).
+Act id: `udhezim-2018-0910-35` (tags `udhezim-2018-0910-35/<day>`; `python registry/tools/on.py <day> udhezim-2018-0910-35`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 151, datë 19.2.2020: Për miratimin e Planit Kombëtar për Integrimin Evropian 2020-2022](https://qbz.gov.al/eli/vendim/2020/02/19/151)
 
 ## Decisions made by hand
 

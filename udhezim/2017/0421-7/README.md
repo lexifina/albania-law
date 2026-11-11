@@ -38,7 +38,15 @@ Mbi zbatimin e vendimit nr. 431 datë 8.6.2016 të këshillit të ministrave pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0421-7` (tags `udhezim-2017-0421-7/<day>`; `python tools/on.py <day> udhezim-2017-0421-7`).
+Act id: `udhezim-2017-0421-7` (tags `udhezim-2017-0421-7/<day>`; `python registry/tools/on.py <day> udhezim-2017-0421-7`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 598, datë 22.12.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 14565]: Për disa shtesa dhe ndryshime në udhëzimin nr. 7, datë 21.4.2017, mbi zbatimin e vendimit nr. 431, datë 8.6.2016, të këshillit të ministrave, “për përcaktimin e kritereve, të dokumentacionit, procedurave dhe të masës për përfitimin e pagesës së aftësisë së kufizuar e të ndihmësit personal dhe të strukturave përgjegjëse e të detyrave të tyre në zonat pilot”](https://qbz.gov.al/eli/udhezim/2017/12/22/598)
 
 ## Decisions made by hand
 

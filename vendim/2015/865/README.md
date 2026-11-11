@@ -9,7 +9,7 @@ Miratimin e rregullit teknik “Pёr etiketimin e energjisё pёr kondicionerët
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-865` (tags `vendim-2015-865/<day>`; `python tools/on.py <day> vendim-2015-865`).
+Act id: `vendim-2015-865` (tags `vendim-2015-865/<day>`; `python registry/tools/on.py <day> vendim-2015-865`).
 
 ## Decisions made by hand
 

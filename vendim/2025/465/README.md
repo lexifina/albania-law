@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të znj. Reida Kashta · 1 versions, from 20
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-465` (tags `vendim-2025-465/<day>`; `python tools/on.py <day> vendim-2025-465`).
+Act id: `vendim-2025-465` (tags `vendim-2025-465/<day>`; `python registry/tools/on.py <day> vendim-2025-465`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,15 @@ Miratimin e modelit të deklaratës së pasurisë dhe autorizimit përkatës · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2004-0113-1` (tags `urdher-2004-0113-1/<day>`; `python tools/on.py <day> urdher-2004-0113-1`).
+Act id: `urdher-2004-0113-1` (tags `urdher-2004-0113-1/<day>`; `python registry/tools/on.py <day> urdher-2004-0113-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 16, datë 25.11.2004 (Inspektorati i Lartë i Deklarimit e Kontrollit të Pasurive dhe Konfliktit të Interesave) [QBZ 3147]: Për një ndryshim në urdhrin nr.1, datë 13.1.2004 të inspektorit të përgjithshëm “Për miratimin e modelit të deklaratës së pasurisë](https://qbz.gov.al/eli/urdher/2004/11/25/16)
 
 ## Decisions made by hand
 

@@ -20,7 +20,15 @@ Miratimin e strukturës dhe të niveleve të pagave të punonjësve me arsim të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-607` (tags `vendim-2009-607/<day>`; `python tools/on.py <day> vendim-2009-607`).
+Act id: `vendim-2009-607` (tags `vendim-2009-607/<day>`; `python registry/tools/on.py <day> vendim-2009-607`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 609, datë 8.7.2010: Për disa ndryshime në vendimin nr.607, datë 11.6.2009 të këshillit të ministrave “për miratimin e strukturës dhe të niveleve të pagave të punonjësve me arsim të lartë të administratës gjyqësore të gjykatave të shkallës së parë dhe të gjykatave të apelit, dhe të punonjësve me arsim të lartë të administratës së prokurorive pranë gjykatave të shkallës së parë dhe pranë gjykatave të apelit”](https://qbz.gov.al/eli/vendim/2010/07/08/609)
 
 ## Decisions made by hand
 

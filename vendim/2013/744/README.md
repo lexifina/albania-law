@@ -25,7 +25,15 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-744` (tags `vendim-2013-744/<day>`; `python tools/on.py <day> vendim-2013-744`).
+Act id: `vendim-2013-744` (tags `vendim-2013-744/<day>`; `python registry/tools/on.py <day> vendim-2013-744`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 698, datë 22.10.2014: Për disa ndryshime në vendimin nr.744, datë 5.9.2013, të këshillit të ministrave, “për kuotat e pranimitdhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeveme kohë të plotë, “master profesional” dhe “masteri shkencave”/“master i arteve të bukura”, për vitin akademik 2013 - 2014”](https://qbz.gov.al/eli/vendim/2014/10/22/698)
 
 ## Decisions made by hand
 

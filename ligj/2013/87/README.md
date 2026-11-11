@@ -22,7 +22,7 @@ Kategorizimin e prodhimit, emërtimin dhe tregtimin e vajit të ullirit dhe vaji
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-87` (tags `ligj-2013-87/<day>`; `python tools/on.py <day> ligj-2013-87`).
+Act id: `ligj-2013-87` (tags `ligj-2013-87/<day>`; `python registry/tools/on.py <day> ligj-2013-87`).
 
 ## Decisions made by hand
 

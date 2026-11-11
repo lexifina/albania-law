@@ -15,7 +15,7 @@ Miratimin e modelit të financimit të institucioneve publike të arsimit të la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-75` (tags `vendim-2018-75/<day>`; `python tools/on.py <day> vendim-2018-75`).
+Act id: `vendim-2018-75` (tags `vendim-2018-75/<day>`; `python registry/tools/on.py <day> vendim-2018-75`).
 
 ## Decisions made by hand
 

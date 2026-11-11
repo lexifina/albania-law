@@ -11,7 +11,7 @@ Miratimin e rregullores për programet e kualifikimit të udhërrëfyesve turist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0715-258` (tags `urdher-2024-0715-258/<day>`; `python tools/on.py <day> urdher-2024-0715-258`).
+Act id: `urdher-2024-0715-258` (tags `urdher-2024-0715-258/<day>`; `python registry/tools/on.py <day> urdher-2024-0715-258`).
 
 ## Decisions made by hand
 

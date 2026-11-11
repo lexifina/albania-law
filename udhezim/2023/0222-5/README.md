@@ -5,7 +5,7 @@ Përcaktimin e tarifave të shërbimeve portuale në Autoritetin Portual Durrës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2023-0222-5` (tags `udhezim-2023-0222-5/<day>`; `python tools/on.py <day> udhezim-2023-0222-5`).
+Act id: `udhezim-2023-0222-5` (tags `udhezim-2023-0222-5/<day>`; `python registry/tools/on.py <day> udhezim-2023-0222-5`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e strukturës dhe të organikës së administratës së Akademisë së
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-399` (tags `vendim-2010-399/<day>`; `python tools/on.py <day> vendim-2010-399`).
+Act id: `vendim-2010-399` (tags `vendim-2010-399/<day>`; `python registry/tools/on.py <day> vendim-2010-399`).
 
 ## Decisions made by hand
 

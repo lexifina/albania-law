@@ -5,7 +5,7 @@ Miratimin e strukturës dhe të nivelit të pagave të punonjësve civilë, me a
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-219` (tags `vendim-2003-219/<day>`; `python tools/on.py <day> vendim-2003-219`).
+Act id: `vendim-2003-219` (tags `vendim-2003-219/<day>`; `python registry/tools/on.py <day> vendim-2003-219`).
 
 ## Decisions made by hand
 

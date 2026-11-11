@@ -36,7 +36,7 @@ Rregullat e drejtimit në veprimtarinë e investimit në letrat me vlerë · 1 v
 | Pika 29 | [pika-029.md](pika-029.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-441` (tags `vendim-2001-441/<day>`; `python tools/on.py <day> vendim-2001-441`).
+Act id: `vendim-2001-441` (tags `vendim-2001-441/<day>`; `python registry/tools/on.py <day> vendim-2001-441`).
 
 ## Decisions made by hand
 

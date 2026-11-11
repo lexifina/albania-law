@@ -9,7 +9,7 @@ Miratimin e memorandumit të bashkëpunimit në fushën e shëndetësisë, ndër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-423` (tags `vendim-2014-423/<day>`; `python tools/on.py <day> vendim-2014-423`).
+Act id: `vendim-2014-423` (tags `vendim-2014-423/<day>`; `python registry/tools/on.py <day> vendim-2014-423`).
 
 ## Decisions made by hand
 

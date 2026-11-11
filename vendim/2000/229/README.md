@@ -10,7 +10,7 @@ Masën e mbulimit të çmimit të barnave që rimbursohen · 1 versions, from 20
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-229` (tags `vendim-2000-229/<day>`; `python tools/on.py <day> vendim-2000-229`).
+Act id: `vendim-2000-229` (tags `vendim-2000-229/<day>`; `python registry/tools/on.py <day> vendim-2000-229`).
 
 ## Decisions made by hand
 

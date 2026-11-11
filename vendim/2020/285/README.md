@@ -18,7 +18,7 @@ Organizimin, funksionimin si dhe procedurat e niveli i tarifave të shërbimeve 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-285` (tags `vendim-2020-285/<day>`; `python tools/on.py <day> vendim-2020-285`).
+Act id: `vendim-2020-285` (tags `vendim-2020-285/<day>`; `python registry/tools/on.py <day> vendim-2020-285`).
 
 ## Decisions made by hand
 

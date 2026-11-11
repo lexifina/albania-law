@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 11, datë 29.7.2022 “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-63` (tags `ligj-2022-63/<day>`; `python tools/on.py <day> ligj-2022-63`).
+Act id: `ligj-2022-63` (tags `ligj-2022-63/<day>`; `python registry/tools/on.py <day> ligj-2022-63`).
 
 ## Decisions made by hand
 

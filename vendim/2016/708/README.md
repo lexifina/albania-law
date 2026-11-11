@@ -11,7 +11,7 @@ Krijimin, shtrirjen territoriale dhe klasifikimin e zonës së përhershme dogan
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-708` (tags `vendim-2016-708/<day>`; `python tools/on.py <day> vendim-2016-708`).
+Act id: `vendim-2016-708` (tags `vendim-2016-708/<day>`; `python registry/tools/on.py <day> vendim-2016-708`).
 
 ## Decisions made by hand
 

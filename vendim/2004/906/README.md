@@ -5,7 +5,7 @@ Shpërblimin e anëtarëve të komisionit mbikËqyrës të ekzekutimit të vendi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-906` (tags `vendim-2004-906/<day>`; `python tools/on.py <day> vendim-2004-906`).
+Act id: `vendim-2004-906` (tags `vendim-2004-906/<day>`; `python registry/tools/on.py <day> vendim-2004-906`).
 
 ## Decisions made by hand
 

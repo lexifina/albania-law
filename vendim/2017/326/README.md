@@ -13,7 +13,7 @@ PËR MIRATIMIN E NDRYSHIMIT TË STATUSIT NGA KATEGORIA E RESURSIT “TOKË BUJQ�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-326` (tags `vendim-2017-326/<day>`; `python tools/on.py <day> vendim-2017-326`).
+Act id: `vendim-2017-326` (tags `vendim-2017-326/<day>`; `python registry/tools/on.py <day> vendim-2017-326`).
 
 ## Decisions made by hand
 

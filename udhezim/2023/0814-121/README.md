@@ -27,7 +27,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kryetar t�
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0814-121` (tags `udhezim-2023-0814-121/<day>`; `python tools/on.py <day> udhezim-2023-0814-121`).
+Act id: `udhezim-2023-0814-121` (tags `udhezim-2023-0814-121/<day>`; `python registry/tools/on.py <day> udhezim-2023-0814-121`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të punonjësve të personelit të Agjen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-487` (tags `vendim-2022-487/<day>`; `python tools/on.py <day> vendim-2022-487`).
+Act id: `vendim-2022-487` (tags `vendim-2022-487/<day>`; `python registry/tools/on.py <day> vendim-2022-487`).
 
 ## Decisions made by hand
 

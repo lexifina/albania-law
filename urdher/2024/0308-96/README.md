@@ -14,7 +14,7 @@ Njoftimin e fillimit të procedurës së përzgjedhjes së anëtarit të Bordit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0308-96` (tags `urdher-2024-0308-96/<day>`; `python tools/on.py <day> urdher-2024-0308-96`).
+Act id: `urdher-2024-0308-96` (tags `urdher-2024-0308-96/<day>`; `python registry/tools/on.py <day> urdher-2024-0308-96`).
 
 ## Decisions made by hand
 

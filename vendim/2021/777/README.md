@@ -11,7 +11,7 @@ Miratimin e rregullores së Gardës së Republikës së Shqipërisë · 2 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-05-15 |
 
-Act id: `vendim-2021-777` (tags `vendim-2021-777/<day>`; `python tools/on.py <day> vendim-2021-777`).
+Act id: `vendim-2021-777` (tags `vendim-2021-777/<day>`; `python registry/tools/on.py <day> vendim-2021-777`).
 
 ## Decisions made by hand
 

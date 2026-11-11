@@ -33,7 +33,7 @@ Miratimin e rregullave për organizimin dhe funksionimin e Këshillit të Mbësh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-264` (tags `vendim-2026-264/<day>`; `python tools/on.py <day> vendim-2026-264`).
+Act id: `vendim-2026-264` (tags `vendim-2026-264/<day>`; `python registry/tools/on.py <day> vendim-2026-264`).
 
 ## Decisions made by hand
 

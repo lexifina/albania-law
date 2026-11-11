@@ -17,7 +17,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr. 16, datë 3.5.2010, “për adminis
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0328-46` (tags `udhezim-2017-0328-46/<day>`; `python tools/on.py <day> udhezim-2017-0328-46`).
+Act id: `udhezim-2017-0328-46` (tags `udhezim-2017-0328-46/<day>`; `python registry/tools/on.py <day> udhezim-2017-0328-46`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ PËR DISA SHTESA E NDRYSHIME NË UDHËZIMIN Nr.24, DATË 2.9.2008 ”PËR PROCED
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0818-27` (tags `udhezim-2010-0818-27/<day>`; `python tools/on.py <day> udhezim-2010-0818-27`).
+Act id: `udhezim-2010-0818-27` (tags `udhezim-2010-0818-27/<day>`; `python registry/tools/on.py <day> udhezim-2010-0818-27`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Delegimin e përfaqësimit ligjor të Kuvendit të Shqipërisë · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0904-52` (tags `urdher-2026-0904-52/<day>`; `python tools/on.py <day> urdher-2026-0904-52`).
+Act id: `urdher-2026-0904-52` (tags `urdher-2026-0904-52/<day>`; `python registry/tools/on.py <day> urdher-2026-0904-52`).
 
 ## Decisions made by hand
 

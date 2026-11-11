@@ -10,7 +10,7 @@ Miratimin e listës së ish-ndërmarrjeve bujqësore, sipas vitit të krijimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-357` (tags `vendim-2025-357/<day>`; `python tools/on.py <day> vendim-2025-357`).
+Act id: `vendim-2025-357` (tags `vendim-2025-357/<day>`; `python registry/tools/on.py <day> vendim-2025-357`).
 
 ## Decisions made by hand
 

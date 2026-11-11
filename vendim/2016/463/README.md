@@ -17,7 +17,7 @@ Shpalljen e zonës së teknologjisë dhe zhvillimit ekonomik në koplik, malësi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-463` (tags `vendim-2016-463/<day>`; `python tools/on.py <day> vendim-2016-463`).
+Act id: `vendim-2016-463` (tags `vendim-2016-463/<day>`; `python registry/tools/on.py <day> vendim-2016-463`).
 
 ## Decisions made by hand
 

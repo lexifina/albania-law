@@ -13,7 +13,7 @@ Përcaktimin e tarifave tavan të shërbimit të verifikimit të mjeteve matëse
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-1020-5346` (tags `udhezim-2016-1020-5346/<day>`; `python tools/on.py <day> udhezim-2016-1020-5346`).
+Act id: `udhezim-2016-1020-5346` (tags `udhezim-2016-1020-5346/<day>`; `python registry/tools/on.py <day> udhezim-2016-1020-5346`).
 
 ## Decisions made by hand
 

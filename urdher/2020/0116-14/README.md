@@ -12,7 +12,7 @@ Shpalljen e “Thirrjes së pestë” në kuadër të Programit Kombëtar të Pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-06-17 |
 
-Act id: `urdher-2020-0116-14` (tags `urdher-2020-0116-14/<day>`; `python tools/on.py <day> urdher-2020-0116-14`).
+Act id: `urdher-2020-0116-14` (tags `urdher-2020-0116-14/<day>`; `python registry/tools/on.py <day> urdher-2020-0116-14`).
 
 ## Decisions made by hand
 

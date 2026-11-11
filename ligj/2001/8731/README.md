@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, të këshillit të ministrave n
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8731` (tags `ligj-2001-8731/<day>`; `python tools/on.py <day> ligj-2001-8731`).
+Act id: `ligj-2001-8731` (tags `ligj-2001-8731/<day>`; `python registry/tools/on.py <day> ligj-2001-8731`).
 
 ## Decisions made by hand
 

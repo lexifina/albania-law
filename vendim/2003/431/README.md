@@ -5,7 +5,7 @@ Njësitë ligjore të matjes · 2 versions, from 2003-07-03 (latest in force: 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-431` (tags `vendim-2003-431/<day>`; `python tools/on.py <day> vendim-2003-431`).
+Act id: `vendim-2003-431` (tags `vendim-2003-431/<day>`; `python registry/tools/on.py <day> vendim-2003-431`).
 
 ## Decisions made by hand
 

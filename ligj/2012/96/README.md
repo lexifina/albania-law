@@ -5,7 +5,7 @@ Qendrën e botimeve zyrtare · 2 versions, from 2012-11-15 (latest in force: 201
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-96` (tags `ligj-2012-96/<day>`; `python tools/on.py <day> ligj-2012-96`).
+Act id: `ligj-2012-96` (tags `ligj-2012-96/<day>`; `python registry/tools/on.py <day> ligj-2012-96`).
 
 ## Decisions made by hand
 

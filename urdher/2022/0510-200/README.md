@@ -12,7 +12,7 @@ Miratimin e formularit të ankesave ndaj përkthyesve zyrtarë dhe interpretëve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0510-200` (tags `urdher-2022-0510-200/<day>`; `python tools/on.py <day> urdher-2022-0510-200`).
+Act id: `urdher-2022-0510-200` (tags `urdher-2022-0510-200/<day>`; `python registry/tools/on.py <day> urdher-2022-0510-200`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin dhe funksionimin e Agjencisë për Zbatimin e Reformës Territoriale ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-83` (tags `vendim-2015-83/<day>`; `python tools/on.py <day> vendim-2015-83`).
+Act id: `vendim-2015-83` (tags `vendim-2015-83/<day>`; `python registry/tools/on.py <day> vendim-2015-83`).
 
 ## Decisions made by hand
 

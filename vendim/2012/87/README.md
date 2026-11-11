@@ -5,7 +5,7 @@ Përbërjen e këshillit kombëtar të territorit · 2 versions, from 2012-03-07
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-87` (tags `vendim-2012-87/<day>`; `python tools/on.py <day> vendim-2012-87`).
+Act id: `vendim-2012-87` (tags `vendim-2012-87/<day>`; `python registry/tools/on.py <day> vendim-2012-87`).
 
 ## Decisions made by hand
 

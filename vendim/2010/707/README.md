@@ -16,7 +16,17 @@ ShpronËsimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-707` (tags `vendim-2010-707/<day>`; `python tools/on.py <day> vendim-2010-707`).
+Act id: `vendim-2010-707` (tags `vendim-2010-707/<day>`; `python registry/tools/on.py <day> vendim-2010-707`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 18, datë 9.1.2013: Për disa ndryshime në vendimin nr. 707, datë 25.8.2010 të Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kV, Tiranë - Podgoricë, qarku Tiranë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/01/09/18)
+- [Vendimi i Këshillit të Ministrave nr. 290, datë 2.5.2012: Për një ndryshim në vendimin nr. 707, datë 25.8.2010 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës së tensionit të lartë 400 kv tiranë - podgoricë, qarku tiranë”](https://qbz.gov.al/eli/vendim/2012/05/02/290)
+- [Vendimi i Këshillit të Ministrave nr. 178, datë 26.3.2014: Për disa ndryshime në vendimin nr. 707, datë 25.8.2010 të këshillit të ministrave, “për shpronësimin për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv, tiranë-podgoricë, qarku tiranë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/03/26/178)
 
 ## Decisions made by hand
 

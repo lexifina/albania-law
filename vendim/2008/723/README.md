@@ -5,7 +5,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocent
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-723` (tags `vendim-2008-723/<day>`; `python tools/on.py <day> vendim-2008-723`).
+Act id: `vendim-2008-723` (tags `vendim-2008-723/<day>`; `python registry/tools/on.py <day> vendim-2008-723`).
 
 ## Decisions made by hand
 

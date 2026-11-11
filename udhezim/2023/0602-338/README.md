@@ -13,7 +13,15 @@ Përcaktimin e kritereve dhe procedurave për marrjen e licencës për administr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0602-338` (tags `udhezim-2023-0602-338/<day>`; `python tools/on.py <day> udhezim-2023-0602-338`).
+Act id: `udhezim-2023-0602-338` (tags `udhezim-2023-0602-338/<day>`; `python registry/tools/on.py <day> udhezim-2023-0602-338`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 581, datë 28.9.2023 (Ministria e Ekonomisë, Kulturës dhe Inovacionit) [QBZ 26706]: Për heqjen e licencës së Shoqatës ”F.M.A.A” si Agjenci e Administrimit Kolektiv të të Drejtave të Autorëve në fushën e kinematografisë dhe të veprave të tjera audiovizuale](https://qbz.gov.al/eli/urdher/2023/09/28/581)
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e metodologjisë së rregullimit të tarifave, të organizmit, me fuqi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-854` (tags `vendim-2008-854/<day>`; `python tools/on.py <day> vendim-2008-854`).
+Act id: `vendim-2008-854` (tags `vendim-2008-854/<day>`; `python registry/tools/on.py <day> vendim-2008-854`).
 
 ## Decisions made by hand
 

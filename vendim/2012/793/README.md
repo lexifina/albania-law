@@ -9,7 +9,7 @@ Shtyrjen e afatit të kryerjes së procedurave të prokurimit për kontrollin e 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-793` (tags `vendim-2012-793/<day>`; `python tools/on.py <day> vendim-2012-793`).
+Act id: `vendim-2012-793` (tags `vendim-2012-793/<day>`; `python registry/tools/on.py <day> vendim-2012-793`).
 
 ## Decisions made by hand
 

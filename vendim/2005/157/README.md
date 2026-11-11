@@ -5,7 +5,7 @@ Miratimin e rregullores së organizimit e të funksionimit të këshillit të la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-157` (tags `vendim-2005-157/<day>`; `python tools/on.py <day> vendim-2005-157`).
+Act id: `vendim-2005-157` (tags `vendim-2005-157/<day>`; `python registry/tools/on.py <day> vendim-2005-157`).
 
 ## Decisions made by hand
 

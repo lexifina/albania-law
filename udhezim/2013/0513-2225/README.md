@@ -5,7 +5,7 @@ Caktimin e tarifave të shërbimeve në aviacionin civil · 2 versions, from 201
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0513-2225` (tags `udhezim-2013-0513-2225/<day>`; `python tools/on.py <day> udhezim-2013-0513-2225`).
+Act id: `udhezim-2013-0513-2225` (tags `udhezim-2013-0513-2225/<day>`; `python registry/tools/on.py <day> udhezim-2013-0513-2225`).
 
 ## Decisions made by hand
 

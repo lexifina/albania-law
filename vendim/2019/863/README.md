@@ -9,7 +9,7 @@ Një rishpërndarje fondesh në buxhetin e vitit 2019, ndërmjet Ministrisë së
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-863` (tags `vendim-2019-863/<day>`; `python tools/on.py <day> vendim-2019-863`).
+Act id: `vendim-2019-863` (tags `vendim-2019-863/<day>`; `python registry/tools/on.py <day> vendim-2019-863`).
 
 ## Decisions made by hand
 

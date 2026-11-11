@@ -10,7 +10,7 @@ Lejimin e ekspozimit të disa dokumenteve origjinale dhe objekteve të rralla me
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-317` (tags `vendim-2012-317/<day>`; `python tools/on.py <day> vendim-2012-317`).
+Act id: `vendim-2012-317` (tags `vendim-2012-317/<day>`; `python registry/tools/on.py <day> vendim-2012-317`).
 
 ## Decisions made by hand
 

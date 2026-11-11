@@ -5,7 +5,7 @@ Miratimin e rregullores “për kushtet dhe kriteret e ushtrimit të veprimtaris
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-369` (tags `vendim-2016-369/<day>`; `python tools/on.py <day> vendim-2016-369`).
+Act id: `vendim-2016-369` (tags `vendim-2016-369/<day>`; `python registry/tools/on.py <day> vendim-2016-369`).
 
 ## Decisions made by hand
 

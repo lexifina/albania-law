@@ -10,7 +10,7 @@ Miratimin e rregullores për kontrollin zyrtar mbi përdorimin e substancave far
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-04-09 |
 
-Act id: `urdher-2023-0217-85` (tags `urdher-2023-0217-85/<day>`; `python tools/on.py <day> urdher-2023-0217-85`).
+Act id: `urdher-2023-0217-85` (tags `urdher-2023-0217-85/<day>`; `python registry/tools/on.py <day> urdher-2023-0217-85`).
 
 ## Decisions made by hand
 

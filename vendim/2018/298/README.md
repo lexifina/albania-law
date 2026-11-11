@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e drejtorisë së përgjithshme të thesa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-298` (tags `vendim-2018-298/<day>`; `python tools/on.py <day> vendim-2018-298`).
+Act id: `vendim-2018-298` (tags `vendim-2018-298/<day>`; `python registry/tools/on.py <day> vendim-2018-298`).
 
 ## Decisions made by hand
 

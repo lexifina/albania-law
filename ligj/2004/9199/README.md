@@ -5,7 +5,7 @@ Prodhimin, përpunimin, certifikimin dhe tregtimin e produkteve ”bio” · 3 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9199` (tags `ligj-2004-9199/<day>`; `python tools/on.py <day> ligj-2004-9199`).
+Act id: `ligj-2004-9199` (tags `ligj-2004-9199/<day>`; `python registry/tools/on.py <day> ligj-2004-9199`).
 
 ## Decisions made by hand
 

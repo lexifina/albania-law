@@ -12,7 +12,7 @@ Planin vjetor të pranimit, për vitin 2024, në institucionet e administratës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-62` (tags `vendim-2024-62/<day>`; `python tools/on.py <day> vendim-2024-62`).
+Act id: `vendim-2024-62` (tags `vendim-2024-62/<day>`; `python registry/tools/on.py <day> vendim-2024-62`).
 
 ## Decisions made by hand
 

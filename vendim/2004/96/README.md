@@ -11,7 +11,7 @@ Lejimin e ministrisë së financave të përdorë procedurën e prokurimit ”k�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-96` (tags `vendim-2004-96/<day>`; `python tools/on.py <day> vendim-2004-96`).
+Act id: `vendim-2004-96` (tags `vendim-2004-96/<day>`; `python registry/tools/on.py <day> vendim-2004-96`).
 
 ## Decisions made by hand
 

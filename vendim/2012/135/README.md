@@ -9,7 +9,7 @@ Mënyrën e përdorimit të të ardhurave nga privatizimi i shoqërive “hec ul
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-135` (tags `vendim-2012-135/<day>`; `python tools/on.py <day> vendim-2012-135`).
+Act id: `vendim-2012-135` (tags `vendim-2012-135/<day>`; `python registry/tools/on.py <day> vendim-2012-135`).
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Përcaktimin e normave të cilësisë së mjedisit për ujërat sipërfaqësore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-246` (tags `vendim-2014-246/<day>`; `python tools/on.py <day> vendim-2014-246`).
+Act id: `vendim-2014-246` (tags `vendim-2014-246/<day>`; `python registry/tools/on.py <day> vendim-2014-246`).
 
 ## Decisions made by hand
 

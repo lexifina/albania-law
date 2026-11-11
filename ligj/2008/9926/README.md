@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën “për taksimin e automj
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9926` (tags `ligj-2008-9926/<day>`; `python tools/on.py <day> ligj-2008-9926`).
+Act id: `ligj-2008-9926` (tags `ligj-2008-9926/<day>`; `python registry/tools/on.py <day> ligj-2008-9926`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e përjashtimeve nga taksat dhe të parashikimeve për heqjen dorë ng
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-65` (tags `ligj-2015-65/<day>`; `python tools/on.py <day> ligj-2015-65`).
+Act id: `ligj-2015-65` (tags `ligj-2015-65/<day>`; `python registry/tools/on.py <day> ligj-2015-65`).
 
 ## Decisions made by hand
 

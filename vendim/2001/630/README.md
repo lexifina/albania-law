@@ -10,7 +10,7 @@ Vendosjen e kufizimeve në shitjen e mallrave në magazinat doganore të tipit �
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-630` (tags `vendim-2001-630/<day>`; `python tools/on.py <day> vendim-2001-630`).
+Act id: `vendim-2001-630` (tags `vendim-2001-630/<day>`; `python registry/tools/on.py <day> vendim-2001-630`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e rregullave të hollësishme për dokumentacionin dhe procedurën 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2025-0619-1` (tags `udhezim-2025-0619-1/<day>`; `python tools/on.py <day> udhezim-2025-0619-1`).
+Act id: `udhezim-2025-0619-1` (tags `udhezim-2025-0619-1/<day>`; `python registry/tools/on.py <day> udhezim-2025-0619-1`).
 
 ## Decisions made by hand
 

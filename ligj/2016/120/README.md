@@ -57,7 +57,7 @@ Zhvillimin e rrjeteve të komunikimeve elektronike të shpejtësisë së lartë 
 | Neni 42 | [neni-042.md](neni-042.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-120-2016` (tags `ligji-120-2016/<day>`; `python tools/on.py <day> ligji-120-2016`).
+Act id: `ligji-120-2016` (tags `ligji-120-2016/<day>`; `python registry/tools/on.py <day> ligji-120-2016`).
 
 ## Decisions made by hand
 

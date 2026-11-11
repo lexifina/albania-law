@@ -36,7 +36,7 @@ Përfshirjen dhe aksesueshmërinë e personave me aftësi të kufizuara · 1 ver
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-93-2014` (tags `ligji-93-2014/<day>`; `python tools/on.py <day> ligji-93-2014`).
+Act id: `ligji-93-2014` (tags `ligji-93-2014/<day>`; `python registry/tools/on.py <day> ligji-93-2014`).
 
 ## Decisions made by hand
 

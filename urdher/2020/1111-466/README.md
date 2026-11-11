@@ -10,7 +10,7 @@ Miratimin ose refuzimin e kërkesave për zhvillimin e panaireve, ekspozitave, s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1111-466` (tags `urdher-2020-1111-466/<day>`; `python tools/on.py <day> urdher-2020-1111-466`).
+Act id: `urdher-2020-1111-466` (tags `urdher-2020-1111-466/<day>`; `python registry/tools/on.py <day> urdher-2020-1111-466`).
 
 ## Decisions made by hand
 

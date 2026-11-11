@@ -5,7 +5,7 @@ Pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqip�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-704` (tags `vendim-2022-704/<day>`; `python tools/on.py <day> vendim-2022-704`).
+Act id: `vendim-2022-704` (tags `vendim-2022-704/<day>`; `python registry/tools/on.py <day> vendim-2022-704`).
 
 ## Decisions made by hand
 

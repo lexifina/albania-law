@@ -28,7 +28,7 @@ Evidentimin, administrimin, ruajtjen e akteve e të dokumenteve noteriale dhe p�
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-1207-23` (tags `udhezim-2020-1207-23/<day>`; `python tools/on.py <day> udhezim-2020-1207-23`).
+Act id: `udhezim-2020-1207-23` (tags `udhezim-2020-1207-23/<day>`; `python registry/tools/on.py <day> udhezim-2020-1207-23`).
 
 ## Decisions made by hand
 

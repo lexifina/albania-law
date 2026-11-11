@@ -12,7 +12,7 @@ Kufizimin e lëvizjeve brenda vendit · 1 versions, from 2020-04-10 (latest in f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0315-168` (tags `urdher-2020-0315-168/<day>`; `python tools/on.py <day> urdher-2020-0315-168`).
+Act id: `urdher-2020-0315-168` (tags `urdher-2020-0315-168/<day>`; `python registry/tools/on.py <day> urdher-2020-0315-168`).
 
 ## Decisions made by hand
 

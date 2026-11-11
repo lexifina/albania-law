@@ -12,7 +12,7 @@ Shpalljen e situatës së veçantë në tregun e hidrokarbureve · 1 versions, f
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-711` (tags `vendim-2026-711/<day>`; `python tools/on.py <day> vendim-2026-711`).
+Act id: `vendim-2026-711` (tags `vendim-2026-711/<day>`; `python registry/tools/on.py <day> vendim-2026-711`).
 
 ## Decisions made by hand
 

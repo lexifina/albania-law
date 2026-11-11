@@ -15,7 +15,7 @@ Miratimin e procedurave e të kritereve të konkurrimit dhe të afateve të shqy
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-320` (tags `vendim-2011-320/<day>`; `python tools/on.py <day> vendim-2011-320`).
+Act id: `vendim-2011-320` (tags `vendim-2011-320/<day>`; `python registry/tools/on.py <day> vendim-2011-320`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Shfuqizimin e urdhrit nr. 682, datë 21.12.2020, “Për ndalimin e lëvizjes p�
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0412-210` (tags `urdher-2021-0412-210/<day>`; `python tools/on.py <day> urdher-2021-0412-210`).
+Act id: `urdher-2021-0412-210` (tags `urdher-2021-0412-210/<day>`; `python registry/tools/on.py <day> urdher-2021-0412-210`).
 
 ## Decisions made by hand
 

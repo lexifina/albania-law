@@ -12,7 +12,18 @@ Miratimin e Projektkontratës, ndërmjet Qeverisë së Republikës të Shqipëri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-665` (tags `vendim-2002-665/<day>`; `python tools/on.py <day> vendim-2002-665`).
+Act id: `vendim-2002-665` (tags `vendim-2002-665/<day>`; `python registry/tools/on.py <day> vendim-2002-665`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 641, datë 18.9.2003: Për disa shtesa dhe ndryshime në vendimin nr.665, datë 18.12.2002 të këshillit të ministrave “për miratimin e kontratës ndërmjet qeverisë së republikës të shqipërisë dhe lockheed martin global inc për modernizimin e shërbimit të trafikut ajror shqiptar”](https://qbz.gov.al/eli/vendim/2003/09/18/641)
+- [Vendimi i Këshillit të Ministrave nr. 1010, datë 10.12.2010: Për miratimin e shtesës nr.3 të kontratës, ndërmjet qeverisë së republikës së shqipërisë, përfaqësuar nga ministria e punëve publike dhe transportit dhe ”lockheed martin global, inc” për modernizimin e shërbimit të trafikut ajror shqiptar, të miratuar me vendimin nr.665, datë 18.12.2002 të këshillit të ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/12/10/1010)
+- [Vendimi i Këshillit të Ministrave nr. 480, datë 23.6.2005: Për miratimin e projektshtojcës së kontratës, ndërmjet Qeverisë së Republikës të Shqipërisë dhe “Lockheed Martin Global Inc.”, për modernizimin e shërbimit të trafikut ajror shqiptar](https://qbz.gov.al/eli/vendim/2005/06/23/480)
+- [Vendimi i Këshillit të Ministrave nr. 1480, datë 12.11.2008: Për miratimin e shtesës nr.2 të kontratës së miratuar me vendimin nr.665, datë 18.12.2002 të këshillit të ministrave “për miratimin e projektkontratës, ndërmjet qeverisë së republikës së shqipërisë dhe “lockheed martin global, inc”, për modernizimin e shërbimit të trafikut ajror shqiptar”, të ndryshuar](https://qbz.gov.al/eli/vendim/2008/11/12/1480)
 
 ## Decisions made by hand
 

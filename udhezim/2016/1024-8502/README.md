@@ -11,7 +11,7 @@ Organizimin dhe funksionimin e komitetit rajonal të zhvillimit të turizmit · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-1024-8502` (tags `udhezim-2016-1024-8502/<day>`; `python tools/on.py <day> udhezim-2016-1024-8502`).
+Act id: `udhezim-2016-1024-8502` (tags `udhezim-2016-1024-8502/<day>`; `python registry/tools/on.py <day> udhezim-2016-1024-8502`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Formën dhe përmbajtjen e Katalogut Kombëtar · 1 versions, from 2025-12-09 (l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1126-1269` (tags `urdher-2025-1126-1269/<day>`; `python tools/on.py <day> urdher-2025-1126-1269`).
+Act id: `urdher-2025-1126-1269` (tags `urdher-2025-1126-1269/<day>`; `python registry/tools/on.py <day> urdher-2025-1126-1269`).
 
 ## Decisions made by hand
 

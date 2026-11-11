@@ -11,7 +11,7 @@ Disa shtesa në vendimin nr. 115, datë 5.3.2014, të këshillit të ministrave,
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-437` (tags `vendim-2018-437/<day>`; `python tools/on.py <day> vendim-2018-437`).
+Act id: `vendim-2018-437` (tags `vendim-2018-437/<day>`; `python registry/tools/on.py <day> vendim-2018-437`).
 
 ## Decisions made by hand
 

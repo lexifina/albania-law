@@ -34,7 +34,7 @@ Procedurat e kryerjes së kontrollit dhe vendosjes së sanksioneve nga agjencia 
 | Pika 27 | [pika-027.md](pika-027.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-91` (tags `vendim-2018-91/<day>`; `python tools/on.py <day> vendim-2018-91`).
+Act id: `vendim-2018-91` (tags `vendim-2018-91/<day>`; `python registry/tools/on.py <day> vendim-2018-91`).
 
 ## Decisions made by hand
 

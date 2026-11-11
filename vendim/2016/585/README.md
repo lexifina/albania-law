@@ -14,7 +14,7 @@ Heqjen nga fondi pyjor të sipërfaqes prej 28,018 ha, në ekonominë pyjore “
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-585` (tags `vendim-2016-585/<day>`; `python tools/on.py <day> vendim-2016-585`).
+Act id: `vendim-2016-585` (tags `vendim-2016-585/<day>`; `python registry/tools/on.py <day> vendim-2016-585`).
 
 ## Decisions made by hand
 

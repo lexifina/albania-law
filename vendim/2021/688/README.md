@@ -5,7 +5,7 @@ Trajtimin me pagë dhe shtesa mbi pagë për punonjësit e Gardës së Republik�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-688` (tags `vendim-2021-688/<day>`; `python tools/on.py <day> vendim-2021-688`).
+Act id: `vendim-2021-688` (tags `vendim-2021-688/<day>`; `python registry/tools/on.py <day> vendim-2021-688`).
 
 ## Decisions made by hand
 

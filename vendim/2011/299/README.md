@@ -11,7 +11,7 @@ Miratimin e rregullores “për funksionimin e komitetit kombëtar të bashkëre
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-299` (tags `vendim-2011-299/<day>`; `python tools/on.py <day> vendim-2011-299`).
+Act id: `vendim-2011-299` (tags `vendim-2011-299/<day>`; `python registry/tools/on.py <day> vendim-2011-299`).
 
 ## Decisions made by hand
 

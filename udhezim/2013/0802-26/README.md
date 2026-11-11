@@ -14,7 +14,7 @@ Përcaktimin e detyrave dhe funksioneve të këshillit të mësuesve · 1 versio
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0802-26` (tags `udhezim-2013-0802-26/<day>`; `python tools/on.py <day> udhezim-2013-0802-26`).
+Act id: `udhezim-2013-0802-26` (tags `udhezim-2013-0802-26/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-26`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Rishpërndarje fondi në buxhetin e vitit 2010, miratuar për ministrinë e turi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-991` (tags `vendim-2010-991/<day>`; `python tools/on.py <day> vendim-2010-991`).
+Act id: `vendim-2010-991` (tags `vendim-2010-991/<day>`; `python registry/tools/on.py <day> vendim-2010-991`).
 
 ## Decisions made by hand
 

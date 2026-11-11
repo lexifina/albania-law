@@ -10,7 +10,15 @@ Dhënien në përdorim, pa shpërblim, agjencive të organizatës së kombeve t�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-861` (tags `vendim-2009-861/<day>`; `python tools/on.py <day> vendim-2009-861`).
+Act id: `vendim-2009-861` (tags `vendim-2009-861/<day>`; `python registry/tools/on.py <day> vendim-2009-861`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 647, datë 28.9.2011: Për shfuqizimin e vendimit nr.861, datë 23.6.2009 të këshillit të ministrave “për dhënien në përdorim, pa shpërblim, agjencive të organizatës së kombeve të bashkuara, të objektit “reparti i prestarisë dhe zyra”, në administrim të “npv ushtrisë” sha, tiranë”](https://qbz.gov.al/eli/vendim/2011/09/28/647)
 
 ## Decisions made by hand
 

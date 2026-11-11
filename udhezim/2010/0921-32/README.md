@@ -8,7 +8,7 @@ Një ndryshim në udhëzimin nr.24, datë 2.9.2008 “për procedurat tatimore n
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0921-32` (tags `udhezim-2010-0921-32/<day>`; `python tools/on.py <day> udhezim-2010-0921-32`).
+Act id: `udhezim-2010-0921-32` (tags `udhezim-2010-0921-32/<day>`; `python registry/tools/on.py <day> udhezim-2010-0921-32`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin e qendrës kombëtare arsimore të vlerësimit dhe të provimeve · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-309` (tags `vendim-2001-309/<day>`; `python tools/on.py <day> vendim-2001-309`).
+Act id: `vendim-2001-309` (tags `vendim-2001-309/<day>`; `python registry/tools/on.py <day> vendim-2001-309`).
 
 ## Decisions made by hand
 

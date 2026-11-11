@@ -16,7 +16,7 @@ Disa shtesa dhe ndryshime në ligjin nr. 10 416, datë 7.4.2011, “Për materia
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-105` (tags `ligj-2015-105/<day>`; `python tools/on.py <day> ligj-2015-105`).
+Act id: `ligj-2015-105` (tags `ligj-2015-105/<day>`; `python registry/tools/on.py <day> ligj-2015-105`).
 
 ## Decisions made by hand
 

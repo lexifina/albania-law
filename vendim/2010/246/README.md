@@ -11,7 +11,7 @@ Disa ndryshime në vendimin nr.1180, datë 5.8.2008 të Këshillit të Ministrav
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-246` (tags `vendim-2010-246/<day>`; `python tools/on.py <day> vendim-2010-246`).
+Act id: `vendim-2010-246` (tags `vendim-2010-246/<day>`; `python registry/tools/on.py <day> vendim-2010-246`).
 
 ## Decisions made by hand
 

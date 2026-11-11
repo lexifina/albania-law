@@ -11,7 +11,7 @@ Angazhimin e Forcave të Armatosura të Republikës së Shqipërisë për të si
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-211` (tags `vendim-2020-211/<day>`; `python tools/on.py <day> vendim-2020-211`).
+Act id: `vendim-2020-211` (tags `vendim-2020-211/<day>`; `python registry/tools/on.py <day> vendim-2020-211`).
 
 ## Decisions made by hand
 

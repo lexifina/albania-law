@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e miratuar për vitin 2020 për Drejtorinë e Sh
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-181` (tags `vendim-2020-181/<day>`; `python tools/on.py <day> vendim-2020-181`).
+Act id: `vendim-2020-181` (tags `vendim-2020-181/<day>`; `python registry/tools/on.py <day> vendim-2020-181`).
 
 ## Decisions made by hand
 

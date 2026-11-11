@@ -11,7 +11,7 @@ Përcaktimin e tarifave të transportit rrugor ndërqytetës të udhëtarëve me
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-92` (tags `vendim-2024-92/<day>`; `python tools/on.py <day> vendim-2024-92`).
+Act id: `vendim-2024-92` (tags `vendim-2024-92/<day>`; `python registry/tools/on.py <day> vendim-2024-92`).
 
 ## Decisions made by hand
 

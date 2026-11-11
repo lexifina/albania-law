@@ -11,7 +11,7 @@ Miratimin e rregullores mbi kushtet dhe mënyrat e përdorimit të deltaplanëve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0503-195` (tags `urdher-2019-0503-195/<day>`; `python tools/on.py <day> urdher-2019-0503-195`).
+Act id: `urdher-2019-0503-195` (tags `urdher-2019-0503-195/<day>`; `python registry/tools/on.py <day> urdher-2019-0503-195`).
 
 ## Decisions made by hand
 

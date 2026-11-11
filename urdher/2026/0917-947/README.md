@@ -11,7 +11,7 @@ Përcaktimin e standardeve minimale për mbrotjen e pulave për vezë · 1 versi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0917-947` (tags `urdher-2026-0917-947/<day>`; `python tools/on.py <day> urdher-2026-0917-947`).
+Act id: `urdher-2026-0917-947` (tags `urdher-2026-0917-947/<day>`; `python registry/tools/on.py <day> urdher-2026-0917-947`).
 
 ## Decisions made by hand
 

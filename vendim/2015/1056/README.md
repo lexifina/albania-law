@@ -10,7 +10,7 @@ Miratimin e rregullit teknik “Për sigurinë e ashensorëve në përdorim” �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-10-07 |
 
-Act id: `vendim-2015-1056` (tags `vendim-2015-1056/<day>`; `python tools/on.py <day> vendim-2015-1056`).
+Act id: `vendim-2015-1056` (tags `vendim-2015-1056/<day>`; `python registry/tools/on.py <day> vendim-2015-1056`).
 
 ## Decisions made by hand
 

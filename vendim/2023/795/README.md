@@ -14,7 +14,7 @@ Shpërblimin e punonjësve të qeverisjes qendrore në procesin e shqyrtimit ana
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2024-01-25 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-795` (tags `vendim-2023-795/<day>`; `python tools/on.py <day> vendim-2023-795`).
+Act id: `vendim-2023-795` (tags `vendim-2023-795/<day>`; `python registry/tools/on.py <day> vendim-2023-795`).
 
 ## Decisions made by hand
 

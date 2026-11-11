@@ -20,7 +20,7 @@ Përcaktimin e procedurës administrative që zbatohet nga zyrat e gjendjes civi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0311-286` (tags `udhezim-2019-0311-286/<day>`; `python tools/on.py <day> udhezim-2019-0311-286`).
+Act id: `udhezim-2019-0311-286` (tags `udhezim-2019-0311-286/<day>`; `python registry/tools/on.py <day> udhezim-2019-0311-286`).
 
 ## Decisions made by hand
 

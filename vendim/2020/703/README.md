@@ -13,7 +13,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Infrastrukturës dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-12-24 |
 
-Act id: `vendim-2020-703` (tags `vendim-2020-703/<day>`; `python tools/on.py <day> vendim-2020-703`).
+Act id: `vendim-2020-703` (tags `vendim-2020-703/<day>`; `python registry/tools/on.py <day> vendim-2020-703`).
 
 ## Decisions made by hand
 

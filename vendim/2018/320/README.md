@@ -10,7 +10,7 @@ PËR PËRDORIMIN E FONDEVE BUXHETORE TË VITIT 2018 PËR FINANCIMIN E ORGANEVE T
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-320` (tags `vendim-2018-320/<day>`; `python tools/on.py <day> vendim-2018-320`).
+Act id: `vendim-2018-320` (tags `vendim-2018-320/<day>`; `python registry/tools/on.py <day> vendim-2018-320`).
 
 ## Decisions made by hand
 

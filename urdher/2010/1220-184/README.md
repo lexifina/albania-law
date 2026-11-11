@@ -24,7 +24,7 @@ Procedurën dhe funksionimin e komisionit të shqyrtimit të kundërvajtjeve adm
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1220-184` (tags `urdher-2010-1220-184/<day>`; `python tools/on.py <day> urdher-2010-1220-184`).
+Act id: `urdher-2010-1220-184` (tags `urdher-2010-1220-184/<day>`; `python registry/tools/on.py <day> urdher-2010-1220-184`).
 
 ## Decisions made by hand
 

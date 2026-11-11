@@ -8,7 +8,15 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.5, datë 28.12.2011 të kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-3` (tags `ligj-2012-3/<day>`; `python tools/on.py <day> ligj-2012-3`).
+Act id: `ligj-2012-3` (tags `ligj-2012-3/<day>`; `python registry/tools/on.py <day> ligj-2012-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 453, datë 3.7.2019: Për masën e subvencionit të interesave të kredisë dhe procedurën e dhënies së tij për familjet që përfitojnë banesë me kosto të ulët, me kredi të lehtësuara nga shteti](https://qbz.gov.al/eli/vendim/2019/07/03/453)
 
 ## Decisions made by hand
 

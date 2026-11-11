@@ -15,7 +15,7 @@ Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-138` (tags `vendim-2026-138/<day>`; `python tools/on.py <day> vendim-2026-138`).
+Act id: `vendim-2026-138` (tags `vendim-2026-138/<day>`; `python registry/tools/on.py <day> vendim-2026-138`).
 
 ## Decisions made by hand
 

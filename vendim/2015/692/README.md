@@ -17,7 +17,15 @@ Shpronësimin dhe marrjen në përdorim të përkohshëm, për interes publik, t
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-692` (tags `vendim-2015-692/<day>`; `python tools/on.py <day> vendim-2015-692`).
+Act id: `vendim-2015-692` (tags `vendim-2015-692/<day>`; `python registry/tools/on.py <day> vendim-2015-692`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 885, datë 30.10.2015: Për disa ndryshime në vendimin nr. 692, datë 29.7.2015, të Këshillit të Ministrave, “Për shpronësimin dhe marrjen në përdorim të përkohshëm, për interes publik, të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i urave dhe rrugëve hyrëse të projektit të Gazsjellësit Trans Adriatik (projekti TAP)”](https://qbz.gov.al/eli/vendim/2015/10/30/885)
 
 ## Decisions made by hand
 

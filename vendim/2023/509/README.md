@@ -32,7 +32,7 @@ Përcaktimin e kushteve të posaçme të licencimit dhe autorizimit, dokumenteve
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-509` (tags `vendim-2023-509/<day>`; `python tools/on.py <day> vendim-2023-509`).
+Act id: `vendim-2023-509` (tags `vendim-2023-509/<day>`; `python registry/tools/on.py <day> vendim-2023-509`).
 
 ## Decisions made by hand
 

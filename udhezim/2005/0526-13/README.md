@@ -15,7 +15,7 @@ Procedurën e organizimit të shortit, për shpalljen e fituesit midis kandidat�
 | Neni 7/1 | [neni-007-01.md](neni-007-01.md) | 1 | 2005-08-23 |
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 
-Act id: `udhezim-2005-0526-13` (tags `udhezim-2005-0526-13/<day>`; `python tools/on.py <day> udhezim-2005-0526-13`).
+Act id: `udhezim-2005-0526-13` (tags `udhezim-2005-0526-13/<day>`; `python registry/tools/on.py <day> udhezim-2005-0526-13`).
 
 ## Decisions made by hand
 

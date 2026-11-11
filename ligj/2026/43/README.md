@@ -30,7 +30,7 @@ Krijimin e Agjencisë Kombëtare të Shërbimeve Arsimore · 1 versions, from 20
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-43-2026` (tags `ligji-43-2026/<day>`; `python tools/on.py <day> ligji-43-2026`).
+Act id: `ligji-43-2026` (tags `ligji-43-2026/<day>`; `python registry/tools/on.py <day> ligji-43-2026`).
 
 ## Decisions made by hand
 

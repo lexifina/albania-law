@@ -56,7 +56,7 @@ Skemat e cilësisë së produkteve bujqësore dhe ushqimore · 1 versions, from 
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-8` (tags `ligj-2019-8/<day>`; `python tools/on.py <day> ligj-2019-8`).
+Act id: `ligj-2019-8` (tags `ligj-2019-8/<day>`; `python registry/tools/on.py <day> ligj-2019-8`).
 
 ## Decisions made by hand
 

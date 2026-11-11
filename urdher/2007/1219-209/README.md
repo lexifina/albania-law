@@ -11,7 +11,7 @@ Ngritjen e grupit ndërinstitucional të punës për realizimin e studimit të t
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2007-1219-209` (tags `urdher-2007-1219-209/<day>`; `python tools/on.py <day> urdher-2007-1219-209`).
+Act id: `urdher-2007-1219-209` (tags `urdher-2007-1219-209/<day>`; `python registry/tools/on.py <day> urdher-2007-1219-209`).
 
 ## Decisions made by hand
 

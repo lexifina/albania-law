@@ -17,7 +17,7 @@ Procedurën dhe afatin për marrjen e vendimit të pushimit të shqyrtimit të k
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0603-246` (tags `udhezim-2021-0603-246/<day>`; `python tools/on.py <day> udhezim-2021-0603-246`).
+Act id: `udhezim-2021-0603-246` (tags `udhezim-2021-0603-246/<day>`; `python registry/tools/on.py <day> udhezim-2021-0603-246`).
 
 ## Decisions made by hand
 

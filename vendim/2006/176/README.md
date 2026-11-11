@@ -18,7 +18,7 @@ Botimin e Buletinit të njoftimeve publike · 1 versions, from 2006-04-18 (lates
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-176` (tags `vendim-2006-176/<day>`; `python tools/on.py <day> vendim-2006-176`).
+Act id: `vendim-2006-176` (tags `vendim-2006-176/<day>`; `python registry/tools/on.py <day> vendim-2006-176`).
 
 ## Decisions made by hand
 

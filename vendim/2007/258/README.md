@@ -5,7 +5,7 @@ Regjistrimin e pasurive të paluajtshme, të legalizuara · 2 versions, from 200
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-258` (tags `vendim-2007-258/<day>`; `python tools/on.py <day> vendim-2007-258`).
+Act id: `vendim-2007-258` (tags `vendim-2007-258/<day>`; `python registry/tools/on.py <day> vendim-2007-258`).
 
 ## Decisions made by hand
 

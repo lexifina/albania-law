@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr. 641, datë 1.10.2014, të Këshillit të Ministr
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-975` (tags `vendim-2020-975/<day>`; `python tools/on.py <day> vendim-2020-975`).
+Act id: `vendim-2020-975` (tags `vendim-2020-975/<day>`; `python registry/tools/on.py <day> vendim-2020-975`).
 
 ## Decisions made by hand
 

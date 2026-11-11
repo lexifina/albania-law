@@ -5,7 +5,7 @@ Miratimin e zonës arkeologjike “A” të qytetit të Elbasanit dhe të planit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-687` (tags `vendim-2019-687/<day>`; `python tools/on.py <day> vendim-2019-687`).
+Act id: `vendim-2019-687` (tags `vendim-2019-687/<day>`; `python registry/tools/on.py <day> vendim-2019-687`).
 
 ## Decisions made by hand
 

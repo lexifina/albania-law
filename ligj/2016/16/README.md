@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes për themelimin e qendrës së kërkimit shkencor dh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-16` (tags `ligj-2016-16/<day>`; `python tools/on.py <day> ligj-2016-16`).
+Act id: `ligj-2016-16` (tags `ligj-2016-16/<day>`; `python registry/tools/on.py <day> ligj-2016-16`).
 
 ## Decisions made by hand
 

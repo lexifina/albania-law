@@ -11,7 +11,7 @@ Lejimin e kalimit tranzit të një automjeti dhe dy trupave dy trupave italiane,
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1214` (tags `vendim-2009-1214/<day>`; `python tools/on.py <day> vendim-2009-1214`).
+Act id: `vendim-2009-1214` (tags `vendim-2009-1214/<day>`; `python registry/tools/on.py <day> vendim-2009-1214`).
 
 ## Decisions made by hand
 

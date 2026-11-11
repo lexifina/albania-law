@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën e vjenës “për të dre
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8696-2000` (tags `ligji-8696-2000/<day>`; `python tools/on.py <day> ligji-8696-2000`).
+Act id: `ligji-8696-2000` (tags `ligji-8696-2000/<day>`; `python registry/tools/on.py <day> ligji-8696-2000`).
 
 ## Decisions made by hand
 

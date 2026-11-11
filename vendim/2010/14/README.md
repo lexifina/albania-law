@@ -17,7 +17,7 @@ Hapjen e programit të studimeve të doktoratës në Fakultetin e Shkencave të 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-14` (tags `vendim-2010-14/<day>`; `python tools/on.py <day> vendim-2010-14`).
+Act id: `vendim-2010-14` (tags `vendim-2010-14/<day>`; `python registry/tools/on.py <day> vendim-2010-14`).
 
 ## Decisions made by hand
 

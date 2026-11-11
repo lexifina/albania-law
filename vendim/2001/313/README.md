@@ -10,7 +10,7 @@ Dhënie fond ndihme partisë “lëvizja monarkiste demokrate shqiptare” · 1 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-313` (tags `vendim-2001-313/<day>`; `python tools/on.py <day> vendim-2001-313`).
+Act id: `vendim-2001-313` (tags `vendim-2001-313/<day>`; `python registry/tools/on.py <day> vendim-2001-313`).
 
 ## Decisions made by hand
 

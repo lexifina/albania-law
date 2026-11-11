@@ -9,7 +9,7 @@ Delegim kompetencash për ndjekjen e proceseve për nënshkrimin e urdhrave të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0220-228` (tags `urdher-2024-0220-228/<day>`; `python tools/on.py <day> urdher-2024-0220-228`).
+Act id: `urdher-2024-0220-228` (tags `urdher-2024-0220-228/<day>`; `python registry/tools/on.py <day> urdher-2024-0220-228`).
 
 ## Decisions made by hand
 

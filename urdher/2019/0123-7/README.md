@@ -11,7 +11,7 @@ Zgjatjen e vlefshmërisë së kartës së inspektorit edhe gjatë vitit 2019, de
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0123-7` (tags `urdher-2019-0123-7/<day>`; `python tools/on.py <day> urdher-2019-0123-7`).
+Act id: `urdher-2019-0123-7` (tags `urdher-2019-0123-7/<day>`; `python registry/tools/on.py <day> urdher-2019-0123-7`).
 
 ## Decisions made by hand
 

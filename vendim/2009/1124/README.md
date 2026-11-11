@@ -9,7 +9,7 @@ PËR LEJIMIN E SHTYRJES SË AFATIT TË PROCEDURAVE TË PROKURIMIT PËR GjYKATËN
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1124` (tags `vendim-2009-1124/<day>`; `python tools/on.py <day> vendim-2009-1124`).
+Act id: `vendim-2009-1124` (tags `vendim-2009-1124/<day>`; `python registry/tools/on.py <day> vendim-2009-1124`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Shpërndarjen e kuotave për transferime studimesh, si dhe kuotave për programe
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1017-516` (tags `urdher-2011-1017-516/<day>`; `python tools/on.py <day> urdher-2011-1017-516`).
+Act id: `urdher-2011-1017-516` (tags `urdher-2011-1017-516/<day>`; `python registry/tools/on.py <day> urdher-2011-1017-516`).
 
 ## Decisions made by hand
 

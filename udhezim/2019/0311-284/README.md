@@ -19,7 +19,7 @@ Procedurën e mbajtjes së aktit të lindjes së fëmijëve, në rastet kur nuk 
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0311-284` (tags `udhezim-2019-0311-284/<day>`; `python tools/on.py <day> udhezim-2019-0311-284`).
+Act id: `udhezim-2019-0311-284` (tags `udhezim-2019-0311-284/<day>`; `python registry/tools/on.py <day> udhezim-2019-0311-284`).
 
 ## Decisions made by hand
 

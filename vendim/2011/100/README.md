@@ -9,7 +9,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2011, për autoritetin e komuniki
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-100` (tags `vendim-2011-100/<day>`; `python tools/on.py <day> vendim-2011-100`).
+Act id: `vendim-2011-100` (tags `vendim-2011-100/<day>`; `python registry/tools/on.py <day> vendim-2011-100`).
 
 ## Decisions made by hand
 

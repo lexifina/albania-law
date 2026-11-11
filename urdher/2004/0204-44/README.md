@@ -9,7 +9,7 @@ PËR MIRATIMIN E RREGULLORES “ PËR PROcEDURAT DHE KRITERET PËR DHËNIEN E LE
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2004-0204-44` (tags `urdher-2004-0204-44/<day>`; `python tools/on.py <day> urdher-2004-0204-44`).
+Act id: `urdher-2004-0204-44` (tags `urdher-2004-0204-44/<day>`; `python registry/tools/on.py <day> urdher-2004-0204-44`).
 
 ## Decisions made by hand
 

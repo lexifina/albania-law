@@ -8,7 +8,7 @@ Krijimin e bazës të të dhënave shtetërore të Sistemit Informatik të Menax
 | Pika 1 | [pika-001.md](pika-001.md) | 1 | 2022-01-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-590` (tags `vendim-2019-590/<day>`; `python tools/on.py <day> vendim-2019-590`).
+Act id: `vendim-2019-590` (tags `vendim-2019-590/<day>`; `python registry/tools/on.py <day> vendim-2019-590`).
 
 ## Decisions made by hand
 

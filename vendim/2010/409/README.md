@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e të vitit 2010, miratuar për Ministrinë e Sh
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-409` (tags `vendim-2010-409/<day>`; `python tools/on.py <day> vendim-2010-409`).
+Act id: `vendim-2010-409` (tags `vendim-2010-409/<day>`; `python registry/tools/on.py <day> vendim-2010-409`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Mbi rregullat në vendosjen e tarifave të aeroportit · 1 versions, from 2016-0
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0316-1362` (tags `udhezim-2016-0316-1362/<day>`; `python tools/on.py <day> udhezim-2016-0316-1362`).
+Act id: `udhezim-2016-0316-1362` (tags `udhezim-2016-0316-1362/<day>`; `python registry/tools/on.py <day> udhezim-2016-0316-1362`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Emërimin e anëtarëve të bordit drejtues të AgjenCisë Shqiptare të zhvilli
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-888` (tags `vendim-2010-888/<day>`; `python tools/on.py <day> vendim-2010-888`).
+Act id: `vendim-2010-888` (tags `vendim-2010-888/<day>`; `python registry/tools/on.py <day> vendim-2010-888`).
 
 ## Decisions made by hand
 

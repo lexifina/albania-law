@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së financimit, faza I, ndërmjet Republikës së Sh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-127` (tags `ligj-2015-127/<day>`; `python tools/on.py <day> ligj-2015-127`).
+Act id: `ligj-2015-127` (tags `ligj-2015-127/<day>`; `python registry/tools/on.py <day> ligj-2015-127`).
 
 ## Decisions made by hand
 

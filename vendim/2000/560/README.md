@@ -11,7 +11,7 @@ Miratimin e projektit pilot për përfshirjen e spitalit të durrësit në skem�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2007-03-02 |
 
-Act id: `vendim-2000-560` (tags `vendim-2000-560/<day>`; `python tools/on.py <day> vendim-2000-560`).
+Act id: `vendim-2000-560` (tags `vendim-2000-560/<day>`; `python registry/tools/on.py <day> vendim-2000-560`).
 
 ## Decisions made by hand
 

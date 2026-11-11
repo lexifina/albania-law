@@ -5,7 +5,7 @@ Kriteret dhe procedurat e kualifikimit të mësuesve · 2 versions, from 2020-04
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0326-8` (tags `udhezim-2020-0326-8/<day>`; `python tools/on.py <day> udhezim-2020-0326-8`).
+Act id: `udhezim-2020-0326-8` (tags `udhezim-2020-0326-8/<day>`; `python registry/tools/on.py <day> udhezim-2020-0326-8`).
 
 ## Decisions made by hand
 

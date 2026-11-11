@@ -10,7 +10,7 @@ PëR LEJIMIN E DALJES JASHTë TERRITORIT Të REPUBLIKëS Së ShqIPëRISë, PëR 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-327` (tags `vendim-2007-327/<day>`; `python tools/on.py <day> vendim-2007-327`).
+Act id: `vendim-2007-327` (tags `vendim-2007-327/<day>`; `python registry/tools/on.py <day> vendim-2007-327`).
 
 ## Decisions made by hand
 

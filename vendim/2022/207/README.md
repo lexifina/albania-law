@@ -11,7 +11,7 @@ Miratimin e dokumentit të politikës së shërbimeve postare në Republikën e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-207` (tags `vendim-2022-207/<day>`; `python tools/on.py <day> vendim-2022-207`).
+Act id: `vendim-2022-207` (tags `vendim-2022-207/<day>`; `python registry/tools/on.py <day> vendim-2022-207`).
 
 ## Decisions made by hand
 

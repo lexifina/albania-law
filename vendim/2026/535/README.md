@@ -28,7 +28,7 @@ Përcaktimin e kritereve, të procedurave për përzgjedhjen e anëtarëve, funk
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-535` (tags `vendim-2026-535/<day>`; `python tools/on.py <day> vendim-2026-535`).
+Act id: `vendim-2026-535` (tags `vendim-2026-535/<day>`; `python registry/tools/on.py <day> vendim-2026-535`).
 
 ## Decisions made by hand
 

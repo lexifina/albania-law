@@ -10,7 +10,7 @@ Ratifikimin e akteve finale të konferencës rajonale të radiokomunikacioneve p
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9851` (tags `ligj-2007-9851/<day>`; `python tools/on.py <day> ligj-2007-9851`).
+Act id: `ligj-2007-9851` (tags `ligj-2007-9851/<day>`; `python registry/tools/on.py <day> ligj-2007-9851`).
 
 ## Decisions made by hand
 

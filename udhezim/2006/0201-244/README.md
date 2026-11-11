@@ -5,7 +5,7 @@ Përcaktimin e datës së konkurrimit, të rregullave të funksionimit të Komis
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0201-244` (tags `udhezim-2006-0201-244/<day>`; `python tools/on.py <day> udhezim-2006-0201-244`).
+Act id: `udhezim-2006-0201-244` (tags `udhezim-2006-0201-244/<day>`; `python registry/tools/on.py <day> udhezim-2006-0201-244`).
 
 ## Decisions made by hand
 

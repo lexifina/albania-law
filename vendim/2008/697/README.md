@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-697` (tags `vendim-2008-697/<day>`; `python tools/on.py <day> vendim-2008-697`).
+Act id: `vendim-2008-697` (tags `vendim-2008-697/<day>`; `python registry/tools/on.py <day> vendim-2008-697`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 241, datë 28.3.2012: Për një shtesë në vendimin nr. 1566, datë 26.11.2008 të këshillit të ministrave “për miratimin e listës së inventarit të pronave paluajtshme shtetërore në komunën katund i ri, të qarkut të durrësit”, dhe për një shtesë në vendimin nr. 697, datë 21.5.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që transferohen në pronësi të njësisë së qeverisjes vendore, komuna katund i ri, të qarkut të durrësit”](https://qbz.gov.al/eli/vendim/2012/03/28/241)
 
 ## Decisions made by hand
 

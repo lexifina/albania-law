@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për llogaritjen, publikimin dhe formatin e përzierj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0630-146` (tags `urdher-2026-0630-146/<day>`; `python tools/on.py <day> urdher-2026-0630-146`).
+Act id: `urdher-2026-0630-146` (tags `urdher-2026-0630-146/<day>`; `python registry/tools/on.py <day> urdher-2026-0630-146`).
 
 ## Decisions made by hand
 

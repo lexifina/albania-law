@@ -5,7 +5,7 @@ Krijimin e policisë financiare · 2 versions, from 2001-01-15 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8720` (tags `ligj-2000-8720/<day>`; `python tools/on.py <day> ligj-2000-8720`).
+Act id: `ligj-2000-8720` (tags `ligj-2000-8720/<day>`; `python registry/tools/on.py <day> ligj-2000-8720`).
 
 ## Decisions made by hand
 

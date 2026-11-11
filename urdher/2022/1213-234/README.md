@@ -11,7 +11,7 @@ Miratimin e formatit dhe përmbajtjes së lejes unike për kategori të veçanta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1213-234` (tags `urdher-2022-1213-234/<day>`; `python tools/on.py <day> urdher-2022-1213-234`).
+Act id: `urdher-2022-1213-234` (tags `urdher-2022-1213-234/<day>`; `python registry/tools/on.py <day> urdher-2022-1213-234`).
 
 ## Decisions made by hand
 

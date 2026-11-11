@@ -10,7 +10,7 @@ Përcaktimin e autoritetit kontraktues për dhënien me koncesion të ndërtimit
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-1016-717` (tags `udhezim-2012-1016-717/<day>`; `python tools/on.py <day> udhezim-2012-1016-717`).
+Act id: `udhezim-2012-1016-717` (tags `udhezim-2012-1016-717/<day>`; `python registry/tools/on.py <day> udhezim-2012-1016-717`).
 
 ## Decisions made by hand
 

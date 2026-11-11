@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 9, datë 1.10.2025, “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2025-62` (tags `ligj-2025-62/<day>`; `python tools/on.py <day> ligj-2025-62`).
+Act id: `ligj-2025-62` (tags `ligj-2025-62/<day>`; `python registry/tools/on.py <day> ligj-2025-62`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Ratifikimin e Konventës nr.178 “Inspektimi i punës (detarët), 1996” të O
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8911` (tags `ligj-2002-8911/<day>`; `python tools/on.py <day> ligj-2002-8911`).
+Act id: `ligj-2002-8911` (tags `ligj-2002-8911/<day>`; `python registry/tools/on.py <day> ligj-2002-8911`).
 
 ## Decisions made by hand
 

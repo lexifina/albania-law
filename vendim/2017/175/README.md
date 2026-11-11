@@ -5,7 +5,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të punonjësve mësimorë në arsimin p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-175` (tags `vendim-2017-175/<day>`; `python tools/on.py <day> vendim-2017-175`).
+Act id: `vendim-2017-175` (tags `vendim-2017-175/<day>`; `python registry/tools/on.py <day> vendim-2017-175`).
 
 ## Decisions made by hand
 

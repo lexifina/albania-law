@@ -26,7 +26,7 @@ Përcaktimin e mënyrës së paraqitjes së kërkesës, të dokumentacionit të 
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-388` (tags `vendim-2025-388/<day>`; `python tools/on.py <day> vendim-2025-388`).
+Act id: `vendim-2025-388` (tags `vendim-2025-388/<day>`; `python registry/tools/on.py <day> vendim-2025-388`).
 
 ## Decisions made by hand
 

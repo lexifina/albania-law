@@ -10,7 +10,7 @@ Emërtimin e instrumentit ”Eurobond” nga Ministri i Financave dhe Ekonomisë
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-72` (tags `ligj-2020-72/<day>`; `python tools/on.py <day> ligj-2020-72`).
+Act id: `ligj-2020-72` (tags `ligj-2020-72/<day>`; `python registry/tools/on.py <day> ligj-2020-72`).
 
 ## Decisions made by hand
 

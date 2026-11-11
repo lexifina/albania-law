@@ -5,7 +5,7 @@ Mbi përdorimin e disa ëmbëlsuesve ushqimorë në produktet ushqimore · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2003-1216-698` (tags `urdher-2003-1216-698/<day>`; `python tools/on.py <day> urdher-2003-1216-698`).
+Act id: `urdher-2003-1216-698` (tags `urdher-2003-1216-698/<day>`; `python registry/tools/on.py <day> urdher-2003-1216-698`).
 
 ## Decisions made by hand
 

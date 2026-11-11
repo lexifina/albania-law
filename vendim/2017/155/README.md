@@ -15,7 +15,7 @@ Marrjen e masave për evidentimin dhe vlerësimin e dëmeve të shkaktuara nga l
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-155` (tags `vendim-2017-155/<day>`; `python tools/on.py <day> vendim-2017-155`).
+Act id: `vendim-2017-155` (tags `vendim-2017-155/<day>`; `python registry/tools/on.py <day> vendim-2017-155`).
 
 ## Decisions made by hand
 

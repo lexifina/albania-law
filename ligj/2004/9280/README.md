@@ -12,7 +12,7 @@ Shpalljen e “ditës së kujtesës” · 1 versions, from 2004-11-11 (latest in
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9280` (tags `ligj-2004-9280/<day>`; `python tools/on.py <day> ligj-2004-9280`).
+Act id: `ligj-2004-9280` (tags `ligj-2004-9280/<day>`; `python registry/tools/on.py <day> ligj-2004-9280`).
 
 ## Decisions made by hand
 

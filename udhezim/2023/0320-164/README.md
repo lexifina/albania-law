@@ -13,7 +13,7 @@ Metodologjinë e llogaritjes së kostove të shërbimeve spitalore · 1 versions
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0320-164` (tags `udhezim-2023-0320-164/<day>`; `python tools/on.py <day> udhezim-2023-0320-164`).
+Act id: `udhezim-2023-0320-164` (tags `udhezim-2023-0320-164/<day>`; `python registry/tools/on.py <day> udhezim-2023-0320-164`).
 
 ## Decisions made by hand
 

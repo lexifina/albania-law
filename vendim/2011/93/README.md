@@ -8,7 +8,7 @@ Miratimin e programit ekonomik e fiskal të Shqipërisë, 2011-2013 · 1 version
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-93` (tags `vendim-2011-93/<day>`; `python tools/on.py <day> vendim-2011-93`).
+Act id: `vendim-2011-93` (tags `vendim-2011-93/<day>`; `python registry/tools/on.py <day> vendim-2011-93`).
 
 ## Decisions made by hand
 

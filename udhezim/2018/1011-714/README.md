@@ -10,7 +10,7 @@ Metodologjinë e kontrollit të pagesave të ndihmës ekonomike · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1011-714` (tags `udhezim-2018-1011-714/<day>`; `python tools/on.py <day> udhezim-2018-1011-714`).
+Act id: `udhezim-2018-1011-714` (tags `udhezim-2018-1011-714/<day>`; `python registry/tools/on.py <day> udhezim-2018-1011-714`).
 
 ## Decisions made by hand
 

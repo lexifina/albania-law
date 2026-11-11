@@ -12,7 +12,7 @@ Kalimin e titullit të pronësisë së sipërfaqes prej 1000 m², të ndodhur n�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-511` (tags `vendim-2013-511/<day>`; `python tools/on.py <day> vendim-2013-511`).
+Act id: `vendim-2013-511` (tags `vendim-2013-511/<day>`; `python registry/tools/on.py <day> vendim-2013-511`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e autoritetit shëndetësor rajonal të t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-394` (tags `vendim-2000-394/<day>`; `python tools/on.py <day> vendim-2000-394`).
+Act id: `vendim-2000-394` (tags `vendim-2000-394/<day>`; `python registry/tools/on.py <day> vendim-2000-394`).
 
 ## Decisions made by hand
 

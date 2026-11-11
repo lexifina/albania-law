@@ -16,7 +16,7 @@ Përcaktimin e tarifës dhe procedurat e pagesës së kostos së shenjimit dhe g
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-594` (tags `vendim-2026-594/<day>`; `python tools/on.py <day> vendim-2026-594`).
+Act id: `vendim-2026-594` (tags `vendim-2026-594/<day>`; `python registry/tools/on.py <day> vendim-2026-594`).
 
 ## Decisions made by hand
 

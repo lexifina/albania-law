@@ -19,7 +19,7 @@ Procedurën, afatet dhe formatin e shtypjes dhe prodhimit të biletave të lojë
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0518-14` (tags `udhezim-2016-0518-14/<day>`; `python tools/on.py <day> udhezim-2016-0518-14`).
+Act id: `udhezim-2016-0518-14` (tags `udhezim-2016-0518-14/<day>`; `python registry/tools/on.py <day> udhezim-2016-0518-14`).
 
 ## Decisions made by hand
 

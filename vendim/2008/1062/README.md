@@ -5,7 +5,7 @@ Përcaktimin e kompetencave të inspektoratit të peshkimit dhe ngritjen e siste
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1062` (tags `vendim-2008-1062/<day>`; `python tools/on.py <day> vendim-2008-1062`).
+Act id: `vendim-2008-1062` (tags `vendim-2008-1062/<day>`; `python registry/tools/on.py <day> vendim-2008-1062`).
 
 ## Decisions made by hand
 

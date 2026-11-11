@@ -9,7 +9,7 @@ PËR NUMRIN E KAZINOVE SIpAS ZONAVE TË PËRCAKTUARA NË VENDIMIN NR.622, DaTË 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2004-1203-9099` (tags `urdher-2004-1203-9099/<day>`; `python tools/on.py <day> urdher-2004-1203-9099`).
+Act id: `urdher-2004-1203-9099` (tags `urdher-2004-1203-9099/<day>`; `python registry/tools/on.py <day> urdher-2004-1203-9099`).
 
 ## Decisions made by hand
 

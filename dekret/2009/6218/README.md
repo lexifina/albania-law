@@ -11,7 +11,7 @@ Krijimin e seksioneve penale për gjykimin e të miturve pranë gjykatave të rr
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2009-6218` (tags `dekret-2009-6218/<day>`; `python tools/on.py <day> dekret-2009-6218`).
+Act id: `dekret-2009-6218` (tags `dekret-2009-6218/<day>`; `python registry/tools/on.py <day> dekret-2009-6218`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Shpalljen e ndryshimeve të Standardit Ndërkombëtar të Raportimit Financiar n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1202-289` (tags `urdher-2020-1202-289/<day>`; `python tools/on.py <day> urdher-2020-1202-289`).
+Act id: `urdher-2020-1202-289` (tags `urdher-2020-1202-289/<day>`; `python registry/tools/on.py <day> urdher-2020-1202-289`).
 
 ## Decisions made by hand
 

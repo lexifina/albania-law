@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet republikës së shqipërisë dhe 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-48` (tags `ligj-2017-48/<day>`; `python tools/on.py <day> ligj-2017-48`).
+Act id: `ligj-2017-48` (tags `ligj-2017-48/<day>`; `python registry/tools/on.py <day> ligj-2017-48`).
 
 ## Decisions made by hand
 

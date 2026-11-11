@@ -11,7 +11,7 @@ Mbulimin e plotë të shpenzimeve të mjekimit të z. arben hysko · 1 versions,
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-374` (tags `vendim-2017-374/<day>`; `python tools/on.py <day> vendim-2017-374`).
+Act id: `vendim-2017-374` (tags `vendim-2017-374/<day>`; `python registry/tools/on.py <day> vendim-2017-374`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e kalimit të pasurive nr.68/121/1, nr.68/137/2 dhe nr.5212/7/1, me si
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-476` (tags `vendim-2022-476/<day>`; `python tools/on.py <day> vendim-2022-476`).
+Act id: `vendim-2022-476` (tags `vendim-2022-476/<day>`; `python registry/tools/on.py <day> vendim-2022-476`).
 
 ## Decisions made by hand
 

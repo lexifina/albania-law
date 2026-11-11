@@ -5,7 +5,7 @@ Ngritjen dhe funksionimin e sekretariatit, për ndjekjen e procedurave të anët
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-540` (tags `vendim-2010-540/<day>`; `python tools/on.py <day> vendim-2010-540`).
+Act id: `vendim-2010-540` (tags `vendim-2010-540/<day>`; `python registry/tools/on.py <day> vendim-2010-540`).
 
 ## Decisions made by hand
 

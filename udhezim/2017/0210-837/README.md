@@ -10,7 +10,16 @@ Miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0210-837` (tags `udhezim-2017-0210-837/<day>`; `python tools/on.py <day> udhezim-2017-0210-837`).
+Act id: `udhezim-2017-0210-837` (tags `udhezim-2017-0210-837/<day>`; `python registry/tools/on.py <day> udhezim-2017-0210-837`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 665, datë 4.10.2018 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 16203]: Për disa shtesa dhe ndryshime në udhëzimin nr. 837, datë 10.2.2017, të ministrit të transportit dhe infrastrukturës, “për miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës-kanalizimeve”](https://qbz.gov.al/eli/udhezim/2018/10/04/665)
+- [Udhëzimi nr. 2, datë 2.4.2019 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 18447]: Për miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës kanalizimeve](https://qbz.gov.al/eli/udhezim/2019/04/02/2)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores “për marrëdhëniet e avokaturës së shtetit me inst
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-392` (tags `vendim-2009-392/<day>`; `python tools/on.py <day> vendim-2009-392`).
+Act id: `vendim-2009-392` (tags `vendim-2009-392/<day>`; `python registry/tools/on.py <day> vendim-2009-392`).
 
 ## Decisions made by hand
 

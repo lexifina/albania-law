@@ -11,7 +11,7 @@ Miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2025-02-28 |
 
-Act id: `vendim-2022-456` (tags `vendim-2022-456/<day>`; `python tools/on.py <day> vendim-2022-456`).
+Act id: `vendim-2022-456` (tags `vendim-2022-456/<day>`; `python registry/tools/on.py <day> vendim-2022-456`).
 
 ## Decisions made by hand
 

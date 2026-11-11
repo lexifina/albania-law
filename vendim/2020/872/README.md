@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve, për vitin 2021, të Entit Rregullator të S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-05-07 |
 
-Act id: `vendim-2020-872` (tags `vendim-2020-872/<day>`; `python tools/on.py <day> vendim-2020-872`).
+Act id: `vendim-2020-872` (tags `vendim-2020-872/<day>`; `python registry/tools/on.py <day> vendim-2020-872`).
 
 ## Decisions made by hand
 

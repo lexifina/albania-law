@@ -5,7 +5,7 @@ Procedurat e ndjekjes së arsimit bazë për nxënësit që nuk kanë ndjekur t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0802-31` (tags `udhezim-2013-0802-31/<day>`; `python tools/on.py <day> udhezim-2013-0802-31`).
+Act id: `udhezim-2013-0802-31` (tags `udhezim-2013-0802-31/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-31`).
 
 ## Decisions made by hand
 

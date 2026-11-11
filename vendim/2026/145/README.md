@@ -10,7 +10,7 @@ Miratimin e Dokumentit të Politikave Prioritare 2027-2029 · 2 versions, from 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-08-05 |
 
-Act id: `vendim-2026-145` (tags `vendim-2026-145/<day>`; `python tools/on.py <day> vendim-2026-145`).
+Act id: `vendim-2026-145` (tags `vendim-2026-145/<day>`; `python registry/tools/on.py <day> vendim-2026-145`).
 
 ## Decisions made by hand
 

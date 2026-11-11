@@ -16,7 +16,7 @@ Mbi mënyrën e operimit në shërbimin taksi · 1 versions, from 2005-07-13 (la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2005-0207-532` (tags `udhezim-2005-0207-532/<day>`; `python tools/on.py <day> udhezim-2005-0207-532`).
+Act id: `udhezim-2005-0207-532` (tags `udhezim-2005-0207-532/<day>`; `python registry/tools/on.py <day> udhezim-2005-0207-532`).
 
 ## Decisions made by hand
 

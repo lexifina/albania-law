@@ -10,7 +10,7 @@ Ratifikimin e ”marrëveshjes, ndërmjet ministrisë së financave, që vepron 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9176` (tags `ligj-2004-9176/<day>`; `python tools/on.py <day> ligj-2004-9176`).
+Act id: `ligj-2004-9176` (tags `ligj-2004-9176/<day>`; `python registry/tools/on.py <day> ligj-2004-9176`).
 
 ## Decisions made by hand
 

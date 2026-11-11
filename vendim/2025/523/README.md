@@ -24,7 +24,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrit të Shteti
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-523` (tags `vendim-2025-523/<day>`; `python tools/on.py <day> vendim-2025-523`).
+Act id: `vendim-2025-523` (tags `vendim-2025-523/<day>`; `python registry/tools/on.py <day> vendim-2025-523`).
 
 ## Decisions made by hand
 

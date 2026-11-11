@@ -16,7 +16,7 @@ Përcaktimin e procedurës së regjistrimit në Regjstrin Kombëtar të Gjendjes
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0701-269` (tags `udhezim-2021-0701-269/<day>`; `python tools/on.py <day> udhezim-2021-0701-269`).
+Act id: `udhezim-2021-0701-269` (tags `udhezim-2021-0701-269/<day>`; `python registry/tools/on.py <day> udhezim-2021-0701-269`).
 
 ## Decisions made by hand
 

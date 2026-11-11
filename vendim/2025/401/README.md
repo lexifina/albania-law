@@ -9,7 +9,7 @@ Hapjen e pikës së kalimit kufitar në Aeroportin Ndërkombëtar të Vlorës ·
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-401` (tags `vendim-2025-401/<day>`; `python tools/on.py <day> vendim-2025-401`).
+Act id: `vendim-2025-401` (tags `vendim-2025-401/<day>`; `python registry/tools/on.py <day> vendim-2025-401`).
 
 ## Decisions made by hand
 

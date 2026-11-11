@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-18-2015` (tags `ligji-18-2015/<day>`; `python tools/on.py <day> ligji-18-2015`).
+Act id: `ligji-18-2015` (tags `ligji-18-2015/<day>`; `python registry/tools/on.py <day> ligji-18-2015`).
 
 ## Decisions made by hand
 

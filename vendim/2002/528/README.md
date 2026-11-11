@@ -17,7 +17,7 @@ Shpronësimin për interes publik të pasurive të paluajtshme, që preken nga n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2005-01-25 |
 
-Act id: `vendim-2002-528` (tags `vendim-2002-528/<day>`; `python tools/on.py <day> vendim-2002-528`).
+Act id: `vendim-2002-528` (tags `vendim-2002-528/<day>`; `python registry/tools/on.py <day> vendim-2002-528`).
 
 ## Decisions made by hand
 

@@ -37,7 +37,15 @@ Miratimin e rregullave, për zhvillimin e projekteve të infrastrukturës energj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-650` (tags `vendim-2026-650/<day>`; `python tools/on.py <day> vendim-2026-650`).
+Act id: `vendim-2026-650` (tags `vendim-2026-650/<day>`; `python registry/tools/on.py <day> vendim-2026-650`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 824, datë 28.10.2026: Për disa shtesa dhe ndryshime në vendimin nr. 650, datë 27.8.2026, të Këshillit të Ministrave, “Për miratimin e rregullave për zhvillimin e projekteve të infrastrukturës energjetike rajonale dhe transevropiane”](https://qbz.gov.al/eli/vendim/2026/10/28/824)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “Konventës ndërkombëtare për luftën kundër financimit të 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8865` (tags `ligj-2002-8865/<day>`; `python tools/on.py <day> ligj-2002-8865`).
+Act id: `ligj-2002-8865` (tags `ligj-2002-8865/<day>`; `python registry/tools/on.py <day> ligj-2002-8865`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e autoritetit kontraktues për dhënien me koncesion të ndërtimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-556` (tags `vendim-2013-556/<day>`; `python tools/on.py <day> vendim-2013-556`).
+Act id: `vendim-2013-556` (tags `vendim-2013-556/<day>`; `python registry/tools/on.py <day> vendim-2013-556`).
 
 ## Decisions made by hand
 

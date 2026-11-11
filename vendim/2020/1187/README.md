@@ -5,7 +5,7 @@ Miratimin e Planit Kombëtar të Frekuencave · 2 versions, from 2021-03-08 (lat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-1187` (tags `vendim-2020-1187/<day>`; `python tools/on.py <day> vendim-2020-1187`).
+Act id: `vendim-2020-1187` (tags `vendim-2020-1187/<day>`; `python registry/tools/on.py <day> vendim-2020-1187`).
 
 ## Decisions made by hand
 

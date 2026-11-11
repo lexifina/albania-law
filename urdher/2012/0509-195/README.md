@@ -5,7 +5,7 @@ RishpërPËR RISHPËRNDARJEN SIPAS NJËSIVE VENDORE TË NUMRIT TË PËRGJITHSHË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0509-195` (tags `urdher-2012-0509-195/<day>`; `python tools/on.py <day> urdher-2012-0509-195`).
+Act id: `urdher-2012-0509-195` (tags `urdher-2012-0509-195/<day>`; `python registry/tools/on.py <day> urdher-2012-0509-195`).
 
 ## Decisions made by hand
 

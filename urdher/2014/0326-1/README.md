@@ -14,7 +14,7 @@ Delegimin e përfaqësimit ligjor të kuvendit të shqipërisë · 1 versions, f
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2014-0326-1` (tags `urdher-2014-0326-1/<day>`; `python tools/on.py <day> urdher-2014-0326-1`).
+Act id: `urdher-2014-0326-1` (tags `urdher-2014-0326-1/<day>`; `python registry/tools/on.py <day> urdher-2014-0326-1`).
 
 ## Decisions made by hand
 

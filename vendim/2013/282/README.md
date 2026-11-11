@@ -11,7 +11,7 @@ Pagesën e këstit të gjashtë (të fundit) të shërbimeve juridike për përf
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-282` (tags `vendim-2013-282/<day>`; `python tools/on.py <day> vendim-2013-282`).
+Act id: `vendim-2013-282` (tags `vendim-2013-282/<day>`; `python registry/tools/on.py <day> vendim-2013-282`).
 
 ## Decisions made by hand
 

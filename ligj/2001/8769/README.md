@@ -10,7 +10,7 @@ Ratifikimin e “konventës financiare ndërmjet qeverisë së republikës të s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8769` (tags `ligj-2001-8769/<day>`; `python tools/on.py <day> ligj-2001-8769`).
+Act id: `ligj-2001-8769` (tags `ligj-2001-8769/<day>`; `python registry/tools/on.py <day> ligj-2001-8769`).
 
 ## Decisions made by hand
 

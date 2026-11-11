@@ -10,7 +10,7 @@ Mbi përcaktimin e kritereve dalluese mes ushqimit për kafshë, aditivëve ushq
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0615-15` (tags `udhezim-2023-0615-15/<day>`; `python tools/on.py <day> udhezim-2023-0615-15`).
+Act id: `udhezim-2023-0615-15` (tags `udhezim-2023-0615-15/<day>`; `python registry/tools/on.py <day> udhezim-2023-0615-15`).
 
 ## Decisions made by hand
 

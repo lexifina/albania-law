@@ -10,7 +10,7 @@ Përcaktimin e autoritetit kontraktor për të ndërmarrë dhe zhvilluar procedu
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-318` (tags `vendim-2016-318/<day>`; `python tools/on.py <day> vendim-2016-318`).
+Act id: `vendim-2016-318` (tags `vendim-2016-318/<day>`; `python registry/tools/on.py <day> vendim-2016-318`).
 
 ## Decisions made by hand
 

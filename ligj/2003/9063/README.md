@@ -12,7 +12,7 @@ Statusin e trashëgimtarëve të ish-familjes mbretërore · 1 versions, from 20
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 
-Act id: `ligji-9063-2003` (tags `ligji-9063-2003/<day>`; `python tools/on.py <day> ligji-9063-2003`).
+Act id: `ligji-9063-2003` (tags `ligji-9063-2003/<day>`; `python registry/tools/on.py <day> ligji-9063-2003`).
 
 ## Decisions made by hand
 

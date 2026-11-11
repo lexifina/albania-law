@@ -5,7 +5,7 @@ Mënyrën e organizimit dhe të funksionimit të drejtorisë së përgjithshme t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1576` (tags `vendim-2008-1576/<day>`; `python tools/on.py <day> vendim-2008-1576`).
+Act id: `vendim-2008-1576` (tags `vendim-2008-1576/<day>`; `python registry/tools/on.py <day> vendim-2008-1576`).
 
 ## Decisions made by hand
 

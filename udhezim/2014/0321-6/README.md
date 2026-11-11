@@ -5,7 +5,7 @@ Përzgjedhjen dhe shitjen e teksteve shkollore për vitin shkollor 2014-2015 · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0321-6` (tags `udhezim-2014-0321-6/<day>`; `python tools/on.py <day> udhezim-2014-0321-6`).
+Act id: `udhezim-2014-0321-6` (tags `udhezim-2014-0321-6/<day>`; `python registry/tools/on.py <day> udhezim-2014-0321-6`).
 
 ## Decisions made by hand
 

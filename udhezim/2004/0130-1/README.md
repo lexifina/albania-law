@@ -17,7 +17,7 @@ Zbatimin e buxhetit të shtetit për vitin 2004 · 1 versions, from 2004-02-06 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2004-0130-1` (tags `udhezim-2004-0130-1/<day>`; `python tools/on.py <day> udhezim-2004-0130-1`).
+Act id: `udhezim-2004-0130-1` (tags `udhezim-2004-0130-1/<day>`; `python registry/tools/on.py <day> udhezim-2004-0130-1`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Krijimin e bazës të të dhënave shtetërore të sistemit informatik të plani
 | Pika 15 | [pika-015.md](pika-015.md) | 1 | 2022-01-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-290` (tags `vendim-2020-290/<day>`; `python tools/on.py <day> vendim-2020-290`).
+Act id: `vendim-2020-290` (tags `vendim-2020-290/<day>`; `python registry/tools/on.py <day> vendim-2020-290`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Eurobondin që do të emetohet nga ministri i financave dhe ekonomisë dhe blerj
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2018-63` (tags `ligj-2018-63/<day>`; `python tools/on.py <day> ligj-2018-63`).
+Act id: `ligj-2018-63` (tags `ligj-2018-63/<day>`; `python registry/tools/on.py <day> ligj-2018-63`).
 
 ## Decisions made by hand
 

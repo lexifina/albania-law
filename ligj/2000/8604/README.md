@@ -10,7 +10,7 @@ Dhënien e disa stimujve dhe të garancive për koncensionarin, në kontratën e
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8604` (tags `ligj-2000-8604/<day>`; `python tools/on.py <day> ligj-2000-8604`).
+Act id: `ligj-2000-8604` (tags `ligj-2000-8604/<day>`; `python registry/tools/on.py <day> ligj-2000-8604`).
 
 ## Decisions made by hand
 

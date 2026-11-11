@@ -5,7 +5,7 @@ Miratimin e planit kombëtar të frekuencave · 2 versions, from 2017-04-06 (lat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-277` (tags `vendim-2017-277/<day>`; `python tools/on.py <day> vendim-2017-277`).
+Act id: `vendim-2017-277` (tags `vendim-2017-277/<day>`; `python registry/tools/on.py <day> vendim-2017-277`).
 
 ## Decisions made by hand
 

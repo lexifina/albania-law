@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në “Statutin e Konferencës së Hagë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8867` (tags `ligj-2002-8867/<day>`; `python tools/on.py <day> ligj-2002-8867`).
+Act id: `ligj-2002-8867` (tags `ligj-2002-8867/<day>`; `python registry/tools/on.py <day> ligj-2002-8867`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e planit të konsolidimit financiar të sektorit publik, elektroenergj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-12-13 |
 
-Act id: `vendim-2019-253` (tags `vendim-2019-253/<day>`; `python tools/on.py <day> vendim-2019-253`).
+Act id: `vendim-2019-253` (tags `vendim-2019-253/<day>`; `python registry/tools/on.py <day> vendim-2019-253`).
 
 ## Decisions made by hand
 

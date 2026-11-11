@@ -5,7 +5,7 @@ Miratimin e pagesave që kryhen në entin rregullator të telekomunikacioneve ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-75` (tags `vendim-2003-75/<day>`; `python tools/on.py <day> vendim-2003-75`).
+Act id: `vendim-2003-75` (tags `vendim-2003-75/<day>`; `python registry/tools/on.py <day> vendim-2003-75`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mbi kërkesat teknike dhe standardet e operimit të ofiçinës (qendrës teknike
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0429-8` (tags `udhezim-2011-0429-8/<day>`; `python tools/on.py <day> udhezim-2011-0429-8`).
+Act id: `udhezim-2011-0429-8` (tags `udhezim-2011-0429-8/<day>`; `python registry/tools/on.py <day> udhezim-2011-0429-8`).
 
 ## Decisions made by hand
 

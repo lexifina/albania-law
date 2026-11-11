@@ -10,7 +10,15 @@ Miratimin e marrëveshjes së koncesionit të formës “BOO” ndërmjet Minist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-565` (tags `vendim-2005-565/<day>`; `python tools/on.py <day> vendim-2005-565`).
+Act id: `vendim-2005-565` (tags `vendim-2005-565/<day>`; `python registry/tools/on.py <day> vendim-2005-565`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 775, datë 8.7.2009: Për disa shtesa dhe ndryshime në marrëveshjen e koncesionit të formës “boo”, të lidhur ndërmjet ministrisë së industrisë dhe të energjetikës, ministrisë së rregullimit të territorit dhe të turizmit, ministrisë së bujqësisë dhe të ushqimit dhe “hidroinvest” shpk-së, çarshovë, përmet, për ndërtimin e hidrocentraleve në stranik dhe zall tore, në komunën stravaj, librazhd”, dhe për disa ndryshime në vendimin nr.565, datë 12.8.2005 të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2009/07/08/775)
 
 ## Decisions made by hand
 

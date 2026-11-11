@@ -25,7 +25,7 @@ Mbështetjen financiare të studentëve të shkëlqyer dhe të nëpunësve civil
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-160` (tags `vendim-2020-160/<day>`; `python tools/on.py <day> vendim-2020-160`).
+Act id: `vendim-2020-160` (tags `vendim-2020-160/<day>`; `python registry/tools/on.py <day> vendim-2020-160`).
 
 ## Decisions made by hand
 

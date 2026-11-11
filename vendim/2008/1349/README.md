@@ -17,7 +17,7 @@ Shpronësimin, për interes publik, të pronarËve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1349` (tags `vendim-2008-1349/<day>`; `python tools/on.py <day> vendim-2008-1349`).
+Act id: `vendim-2008-1349` (tags `vendim-2008-1349/<day>`; `python registry/tools/on.py <day> vendim-2008-1349`).
 
 ## Decisions made by hand
 

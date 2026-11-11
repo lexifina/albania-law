@@ -11,7 +11,7 @@ Disa ndryshime dhe shtesa në vendimin nr. 41, datë 24.1.2018, “Për elemente
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-185` (tags `vendim-2021-185/<day>`; `python tools/on.py <day> vendim-2021-185`).
+Act id: `vendim-2021-185` (tags `vendim-2021-185/<day>`; `python registry/tools/on.py <day> vendim-2021-185`).
 
 ## Decisions made by hand
 

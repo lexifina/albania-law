@@ -10,7 +10,7 @@ Transferimin, në pronësi të Bashkisë Kolonjë, të njësisë administrative 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-116` (tags `vendim-2022-116/<day>`; `python tools/on.py <day> vendim-2022-116`).
+Act id: `vendim-2022-116` (tags `vendim-2022-116/<day>`; `python registry/tools/on.py <day> vendim-2022-116`).
 
 ## Decisions made by hand
 

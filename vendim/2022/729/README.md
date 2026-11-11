@@ -36,7 +36,7 @@ Procedurat dhe rregullat për pajisjen me shenjat e pengesave të aviacionit · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-729` (tags `vendim-2022-729/<day>`; `python tools/on.py <day> vendim-2022-729`).
+Act id: `vendim-2022-729` (tags `vendim-2022-729/<day>`; `python registry/tools/on.py <day> vendim-2022-729`).
 
 ## Decisions made by hand
 

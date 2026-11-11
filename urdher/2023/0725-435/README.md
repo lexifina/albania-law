@@ -10,7 +10,7 @@ Miratimin e ”Rregullores për metodologjinë e përcaktimit të masës së dë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0725-435` (tags `urdher-2023-0725-435/<day>`; `python tools/on.py <day> urdher-2023-0725-435`).
+Act id: `urdher-2023-0725-435` (tags `urdher-2023-0725-435/<day>`; `python registry/tools/on.py <day> urdher-2023-0725-435`).
 
 ## Decisions made by hand
 

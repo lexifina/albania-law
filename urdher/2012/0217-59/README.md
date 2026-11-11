@@ -11,7 +11,7 @@ Riorganizimin e njësive kryesore “fakulteti i farmacisë dhe stomatologjisë�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0217-59` (tags `urdher-2012-0217-59/<day>`; `python tools/on.py <day> urdher-2012-0217-59`).
+Act id: `urdher-2012-0217-59` (tags `urdher-2012-0217-59/<day>`; `python registry/tools/on.py <day> urdher-2012-0217-59`).
 
 ## Decisions made by hand
 

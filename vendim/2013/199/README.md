@@ -8,7 +8,7 @@ Revokimin e vendimit nr. 776, datë 4.6.2008 të Këshillit të Ministrave “P�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-199` (tags `vendim-2013-199/<day>`; `python tools/on.py <day> vendim-2013-199`).
+Act id: `vendim-2013-199` (tags `vendim-2013-199/<day>`; `python registry/tools/on.py <day> vendim-2013-199`).
 
 ## Decisions made by hand
 

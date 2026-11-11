@@ -14,7 +14,7 @@ Raportimin e të dhënave dhe ecurisë së çështjeve gjyqësore · 1 versions,
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1031-148` (tags `urdher-2025-1031-148/<day>`; `python tools/on.py <day> urdher-2025-1031-148`).
+Act id: `urdher-2025-1031-148` (tags `urdher-2025-1031-148/<day>`; `python registry/tools/on.py <day> urdher-2025-1031-148`).
 
 ## Decisions made by hand
 

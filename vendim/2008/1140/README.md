@@ -10,7 +10,15 @@ Miratimin e strategjisë ndërsektoriale të luftës kundër krimit të organizu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1140` (tags `vendim-2008-1140/<day>`; `python tools/on.py <day> vendim-2008-1140`).
+Act id: `vendim-2008-1140` (tags `vendim-2008-1140/<day>`; `python registry/tools/on.py <day> vendim-2008-1140`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 43, datë 27.1.2010: Për disa ndryshime në vendimin nr.1140, datë 30.7.2008 të Këshillit të Ministrave “Për miratimin e strategjisë ndërsektoriale të luftës kundër krimit të organizuar, trafiqeve dhe terrorizmit](https://qbz.gov.al/eli/vendim/2010/01/27/43)
 
 ## Decisions made by hand
 

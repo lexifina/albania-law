@@ -10,7 +10,7 @@ PËR VLERëSIMIN E AUTOMJETEVE Të PARKUT TË TRANSPORTIT TË MINERALIT, BULQIZ�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-564` (tags `vendim-2004-564/<day>`; `python tools/on.py <day> vendim-2004-564`).
+Act id: `vendim-2004-564` (tags `vendim-2004-564/<day>`; `python registry/tools/on.py <day> vendim-2004-564`).
 
 ## Decisions made by hand
 

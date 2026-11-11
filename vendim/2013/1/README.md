@@ -9,7 +9,16 @@ Miratimin e garancisë qeveritare, të lëshuar në favor të Intesa Sanpaolo sh
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-1` (tags `vendim-2013-1/<day>`; `python tools/on.py <day> vendim-2013-1`).
+Act id: `vendim-2013-1` (tags `vendim-2013-1/<day>`; `python registry/tools/on.py <day> vendim-2013-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendim nr. 116, datë 7.10.2013 (Enti Rregullaror i Energjisë Elektrike): Për ndryshimin e rregullores “Mbi procedurat e emërimit të administratorit dhe kompetencat e tij, në zbatim të nenit 18, pika 4/c të ligjit nr. 9072, datë 22.5.2003 “Për sektorin e energjisë elektrike”, të miratuar me vendimin nr. 1, datë 10.1.2013 të Bordit të Komisionerëve të ERE-s](https://qbz.gov.al/eli/vendim/2013/10/07/116)
+- [Vendim nr. 145, datë 9.12.2013 (Enti Rregullaror i Energjisë Elektrike): Për ndryshimin e rregullores “Mbi procedurat e emërimit të administratorit dhe kompetencat e tij, në zbatim të nenit 18, pika 4/c, të ligjit nr. 9072, datë 22.5.2003, “Për sektorin e energjisë elektrike”, të miratuar me vendimin nr. 1, datë 10.1.2013, të Bordit të Komisionerëve të ERE-s dhe miratimin e rregullores së prokurimeve të shoqërisë “CEZ Shpërndarje” sha](https://qbz.gov.al/eli/vendim/2013/12/09/145)
 
 ## Decisions made by hand
 

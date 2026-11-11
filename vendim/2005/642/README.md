@@ -5,7 +5,7 @@ Këshillat mbikëqyrës të shoqërive anonime shtetërore · 2 versions, from 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-642` (tags `vendim-2005-642/<day>`; `python tools/on.py <day> vendim-2005-642`).
+Act id: `vendim-2005-642` (tags `vendim-2005-642/<day>`; `python registry/tools/on.py <day> vendim-2005-642`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Deklarimin për punësim të shtetasve të Malit të Zi dhe të Maqedonisë së 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0909-25` (tags `udhezim-2019-0909-25/<day>`; `python tools/on.py <day> udhezim-2019-0909-25`).
+Act id: `udhezim-2019-0909-25` (tags `udhezim-2019-0909-25/<day>`; `python registry/tools/on.py <day> udhezim-2019-0909-25`).
 
 ## Decisions made by hand
 

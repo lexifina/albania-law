@@ -13,7 +13,7 @@ Përcaktimin e ndarjes së të ardhurave, kritereve e procedurave të administri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0715-444` (tags `urdher-2025-0715-444/<day>`; `python tools/on.py <day> urdher-2025-0715-444`).
+Act id: `urdher-2025-0715-444` (tags `urdher-2025-0715-444/<day>`; `python registry/tools/on.py <day> urdher-2025-0715-444`).
 
 ## Decisions made by hand
 

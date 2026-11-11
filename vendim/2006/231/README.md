@@ -10,7 +10,7 @@ Kompensimin në vlerë të ushqimit të punonjësve të Policisë së Burgjeve �
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-231` (tags `vendim-2006-231/<day>`; `python tools/on.py <day> vendim-2006-231`).
+Act id: `vendim-2006-231` (tags `vendim-2006-231/<day>`; `python registry/tools/on.py <day> vendim-2006-231`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Caktimin e fushës së përgjegjësisë dhe detyrave për zëvendësministrin p�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-1028-1063` (tags `urdher-2025-1028-1063/<day>`; `python tools/on.py <day> urdher-2025-1028-1063`).
+Act id: `urdher-2025-1028-1063` (tags `urdher-2025-1028-1063/<day>`; `python registry/tools/on.py <day> urdher-2025-1028-1063`).
 
 ## Decisions made by hand
 

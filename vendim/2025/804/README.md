@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Kostandin Aleko Kamberi · 1
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-804` (tags `vendim-2025-804/<day>`; `python tools/on.py <day> vendim-2025-804`).
+Act id: `vendim-2025-804` (tags `vendim-2025-804/<day>`; `python registry/tools/on.py <day> vendim-2025-804`).
 
 ## Decisions made by hand
 

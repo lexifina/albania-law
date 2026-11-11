@@ -20,7 +20,7 @@ Lejimin e disa kategorive të transferimeve ndërkombëtare të të dhënave per
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0613-41` (tags `udhezim-2014-0613-41/<day>`; `python tools/on.py <day> udhezim-2014-0613-41`).
+Act id: `udhezim-2014-0613-41` (tags `udhezim-2014-0613-41/<day>`; `python registry/tools/on.py <day> udhezim-2014-0613-41`).
 
 ## Decisions made by hand
 

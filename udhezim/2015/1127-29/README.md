@@ -12,7 +12,7 @@ Kriteret e fillimit të inspektimit financiar publik · 1 versions, from 2015-12
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1127-29` (tags `udhezim-2015-1127-29/<day>`; `python tools/on.py <day> udhezim-2015-1127-29`).
+Act id: `udhezim-2015-1127-29` (tags `udhezim-2015-1127-29/<day>`; `python registry/tools/on.py <day> udhezim-2015-1127-29`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Pjesëmarrjen e Shqipërisë në Forumin Ekonomik të Vjenës · 2 versions, fro
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-381` (tags `vendim-2015-381/<day>`; `python tools/on.py <day> vendim-2015-381`).
+Act id: `vendim-2015-381` (tags `vendim-2015-381/<day>`; `python registry/tools/on.py <day> vendim-2015-381`).
 
 ## Decisions made by hand
 

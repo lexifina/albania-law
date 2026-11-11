@@ -5,7 +5,7 @@ Të drejtën e autorit dhe të drejtat e tjera të lidhura me të · 5 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2005-9380` (tags `ligj-2005-9380/<day>`; `python tools/on.py <day> ligj-2005-9380`).
+Act id: `ligj-2005-9380` (tags `ligj-2005-9380/<day>`; `python registry/tools/on.py <day> ligj-2005-9380`).
 
 ## Decisions made by hand
 

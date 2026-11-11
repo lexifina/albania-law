@@ -9,7 +9,7 @@ Emërimin e tre anëtarëve të Komisionit Kombëtar të Përzgjedhjes për TND-
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-469` (tags `vendim-2025-469/<day>`; `python tools/on.py <day> vendim-2025-469`).
+Act id: `vendim-2025-469` (tags `vendim-2025-469/<day>`; `python registry/tools/on.py <day> vendim-2025-469`).
 
 ## Decisions made by hand
 

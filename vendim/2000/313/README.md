@@ -14,7 +14,7 @@ Funksionimin e drejtorisë së patentave dhe markave · 2 versions, from 2000-07
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-313` (tags `vendim-2000-313/<day>`; `python tools/on.py <day> vendim-2000-313`).
+Act id: `vendim-2000-313` (tags `vendim-2000-313/<day>`; `python registry/tools/on.py <day> vendim-2000-313`).
 
 ## Decisions made by hand
 

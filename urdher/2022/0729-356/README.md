@@ -5,7 +5,7 @@ Përcaktimin e parimeve dhe udhëzimeve të praktikave të mira të prodhimit t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2022-0729-356` (tags `urdher-2022-0729-356/<day>`; `python tools/on.py <day> urdher-2022-0729-356`).
+Act id: `urdher-2022-0729-356` (tags `urdher-2022-0729-356/<day>`; `python registry/tools/on.py <day> urdher-2022-0729-356`).
 
 ## Decisions made by hand
 

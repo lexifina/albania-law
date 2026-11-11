@@ -11,7 +11,7 @@ Miratimin e Planit të Emergjencës për Gazin Natyror në Republikën e Shqipë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-616` (tags `vendim-2023-616/<day>`; `python tools/on.py <day> vendim-2023-616`).
+Act id: `vendim-2023-616` (tags `vendim-2023-616/<day>`; `python registry/tools/on.py <day> vendim-2023-616`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e programit të përgjithshëm, analitik, të projektakteve, që do t�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-136` (tags `vendim-2016-136/<day>`; `python tools/on.py <day> vendim-2016-136`).
+Act id: `vendim-2016-136` (tags `vendim-2016-136/<day>`; `python registry/tools/on.py <day> vendim-2016-136`).
 
 ## Decisions made by hand
 

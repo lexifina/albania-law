@@ -12,7 +12,7 @@ Mënyrën e kodimit dhe strukturën e numrit të identitetit të shtetasve · 2 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-04-24 |
 
-Act id: `vendim-2003-827` (tags `vendim-2003-827/<day>`; `python tools/on.py <day> vendim-2003-827`).
+Act id: `vendim-2003-827` (tags `vendim-2003-827/<day>`; `python registry/tools/on.py <day> vendim-2003-827`).
 
 ## Decisions made by hand
 

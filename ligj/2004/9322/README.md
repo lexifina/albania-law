@@ -5,7 +5,7 @@ Miratimin e strategjisë së sigurisë kombëtare të republikës së shqipëris
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9322` (tags `ligj-2004-9322/<day>`; `python tools/on.py <day> ligj-2004-9322`).
+Act id: `ligj-2004-9322` (tags `ligj-2004-9322/<day>`; `python registry/tools/on.py <day> ligj-2004-9322`).
 
 ## Decisions made by hand
 

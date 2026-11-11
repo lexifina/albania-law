@@ -20,7 +20,7 @@ Mbi mënyrën e etiketimit, paketimit dhe paraqitjes së mishit të gjedhit dhe 
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-1025-10` (tags `udhezim-2019-1025-10/<day>`; `python tools/on.py <day> udhezim-2019-1025-10`).
+Act id: `udhezim-2019-1025-10` (tags `udhezim-2019-1025-10/<day>`; `python registry/tools/on.py <day> udhezim-2019-1025-10`).
 
 ## Decisions made by hand
 

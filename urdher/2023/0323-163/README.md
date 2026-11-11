@@ -10,7 +10,7 @@ Mbi performancën e metodave analitike për mbetjet e substancave farmakologjiki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-04-15 |
 
-Act id: `urdher-2023-0323-163` (tags `urdher-2023-0323-163/<day>`; `python tools/on.py <day> urdher-2023-0323-163`).
+Act id: `urdher-2023-0323-163` (tags `urdher-2023-0323-163/<day>`; `python registry/tools/on.py <day> urdher-2023-0323-163`).
 
 ## Decisions made by hand
 

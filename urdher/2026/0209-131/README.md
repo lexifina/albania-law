@@ -16,7 +16,7 @@ Zbatimin e rekomandimit 25-04 të ICCAT-it për zevendësimin e rekomandimit 24-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0209-131` (tags `urdher-2026-0209-131/<day>`; `python tools/on.py <day> urdher-2026-0209-131`).
+Act id: `urdher-2026-0209-131` (tags `urdher-2026-0209-131/<day>`; `python registry/tools/on.py <day> urdher-2026-0209-131`).
 
 ## Decisions made by hand
 

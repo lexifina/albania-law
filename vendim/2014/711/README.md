@@ -10,7 +10,7 @@ Miratimin e rregullores “për administrimin dhe funksionimin e varrezave në t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-07-07 |
 
-Act id: `vendim-2014-711` (tags `vendim-2014-711/<day>`; `python tools/on.py <day> vendim-2014-711`).
+Act id: `vendim-2014-711` (tags `vendim-2014-711/<day>`; `python registry/tools/on.py <day> vendim-2014-711`).
 
 ## Decisions made by hand
 

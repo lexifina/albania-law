@@ -5,7 +5,7 @@ Telekomunikacionet në republikën e shqipërisë · 2 versions, from 2000-07-26
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8618` (tags `ligj-2000-8618/<day>`; `python tools/on.py <day> ligj-2000-8618`).
+Act id: `ligj-2000-8618` (tags `ligj-2000-8618/<day>`; `python registry/tools/on.py <day> ligj-2000-8618`).
 
 ## Decisions made by hand
 

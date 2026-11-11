@@ -10,7 +10,15 @@ Ratifikimin e “konventës tripalëshe ndërmjet republikës së shqipërisë, 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9778` (tags `ligj-2007-9778/<day>`; `python tools/on.py <day> ligj-2007-9778`).
+Act id: `ligj-2007-9778` (tags `ligj-2007-9778/<day>`; `python registry/tools/on.py <day> ligj-2007-9778`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 28, datë 9.1.2008: Për miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrymë të vazhduar, të interkonjeksionit, vlorë (shqipëri)-brindizi jug (itali)](https://qbz.gov.al/eli/vendim/2008/01/09/28)
 
 ## Decisions made by hand
 

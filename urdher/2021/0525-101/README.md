@@ -10,7 +10,15 @@ Miratimin e përkthimit në gjuhën shqipe të ndryshimeve në Standardin Ndërk
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0525-101` (tags `urdher-2021-0525-101/<day>`; `python tools/on.py <day> urdher-2021-0525-101`).
+Act id: `urdher-2021-0525-101` (tags `urdher-2021-0525-101/<day>`; `python registry/tools/on.py <day> urdher-2021-0525-101`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 91, datë 9.2.2022: Për Miratimin e Planit Kombëtar për Integrimin Evropian 2022-2024](https://qbz.gov.al/eli/vendim/2022/02/09/91)
 
 ## Decisions made by hand
 

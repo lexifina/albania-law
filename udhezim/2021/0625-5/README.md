@@ -18,7 +18,7 @@ Miratimin e rregullave mbi shërbimet e dërgesave të pakove postare ndërkufit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0625-5` (tags `udhezim-2021-0625-5/<day>`; `python tools/on.py <day> udhezim-2021-0625-5`).
+Act id: `udhezim-2021-0625-5` (tags `udhezim-2021-0625-5/<day>`; `python registry/tools/on.py <day> udhezim-2021-0625-5`).
 
 ## Decisions made by hand
 

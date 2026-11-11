@@ -11,7 +11,7 @@ Miratimin e rregullit teknik “Për kёrkesat e eficiencёs pёr bojlerët e uj
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1064` (tags `vendim-2015-1064/<day>`; `python tools/on.py <day> vendim-2015-1064`).
+Act id: `vendim-2015-1064` (tags `vendim-2015-1064/<day>`; `python registry/tools/on.py <day> vendim-2015-1064`).
 
 ## Decisions made by hand
 

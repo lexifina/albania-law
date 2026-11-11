@@ -8,7 +8,7 @@ Emërim në detyrë · 1 versions, from 2012-04-05 (latest in force: 2012-04-05)
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-174` (tags `vendim-2012-174/<day>`; `python tools/on.py <day> vendim-2012-174`).
+Act id: `vendim-2012-174` (tags `vendim-2012-174/<day>`; `python registry/tools/on.py <day> vendim-2012-174`).
 
 ## Decisions made by hand
 

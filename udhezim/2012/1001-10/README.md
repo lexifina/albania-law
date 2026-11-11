@@ -9,7 +9,7 @@ Një ndryshim në udhëzimin nr. 5, datë 1.8.2012 “për nivelin e kuotave të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1001-10` (tags `udhezim-2012-1001-10/<day>`; `python tools/on.py <day> udhezim-2012-1001-10`).
+Act id: `udhezim-2012-1001-10` (tags `udhezim-2012-1001-10/<day>`; `python registry/tools/on.py <day> udhezim-2012-1001-10`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e privatizimit të ndërmarrjes së prodhimit të çimentos, fushë-kr
 | Pika 4 | [pika-004.md](pika-004.md) | 1 | 2000-09-20 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-400` (tags `vendim-2000-400/<day>`; `python tools/on.py <day> vendim-2000-400`).
+Act id: `vendim-2000-400` (tags `vendim-2000-400/<day>`; `python registry/tools/on.py <day> vendim-2000-400`).
 
 ## Decisions made by hand
 

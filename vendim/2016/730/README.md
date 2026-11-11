@@ -11,7 +11,7 @@ Miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2025-06-09 |
 
-Act id: `vendim-2016-730` (tags `vendim-2016-730/<day>`; `python tools/on.py <day> vendim-2016-730`).
+Act id: `vendim-2016-730` (tags `vendim-2016-730/<day>`; `python registry/tools/on.py <day> vendim-2016-730`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mënyrën e shitjes së mallrave të ardhura grant nga japonia në kuadër të p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-148-0331` (tags `vendim-2000-148-0331/<day>`; `python tools/on.py <day> vendim-2000-148-0331`).
+Act id: `vendim-2000-148-0331` (tags `vendim-2000-148-0331/<day>`; `python registry/tools/on.py <day> vendim-2000-148-0331`).
 
 ## Decisions made by hand
 

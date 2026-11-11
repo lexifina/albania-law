@@ -5,7 +5,7 @@ Kriteret e dhënies së lejes të përpunimit industrial dhe/ose të prodhimit t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-126` (tags `vendim-2003-126/<day>`; `python tools/on.py <day> vendim-2003-126`).
+Act id: `vendim-2003-126` (tags `vendim-2003-126/<day>`; `python registry/tools/on.py <day> vendim-2003-126`).
 
 ## Decisions made by hand
 

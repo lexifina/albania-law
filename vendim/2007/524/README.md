@@ -9,7 +9,16 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-524` (tags `vendim-2007-524/<day>`; `python tools/on.py <day> vendim-2007-524`).
+Act id: `vendim-2007-524` (tags `vendim-2007-524/<day>`; `python registry/tools/on.py <day> vendim-2007-524`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 451, datë 16.6.2010: Për ndryshimin e përgjegjësisë së administrimit të pronës ndërtesë dykatëshe, me vendndodhje pranë aeroportit “Nënë Tereza”, Rinas, nga Ministria e Brendshme te Ministria e Financave, për Drejtorinë e Përgjithshme të doganave, dhe për një shtesë në vendimin nr.524, datë 15.8.2007 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Financave, për drejtorinë e Përgjithshme të Doganave”](https://qbz.gov.al/eli/vendim/2010/06/16/451)
+- [Vendimi i Këshillit të Ministrave nr. 332, datë 22.5.2019: Për disa ndryshime në vendimin nr. 524, datë 15.8.2007, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Financave, për Drejtorinë e Përgjithshme të Doganave](https://qbz.gov.al/eli/vendim/2019/05/22/332)
 
 ## Decisions made by hand
 

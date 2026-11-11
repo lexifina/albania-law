@@ -14,7 +14,7 @@ Krijimin dhe funksionimin e fondit social · 2 versions, from 2018-03-02 (latest
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-111` (tags `vendim-2018-111/<day>`; `python tools/on.py <day> vendim-2018-111`).
+Act id: `vendim-2018-111` (tags `vendim-2018-111/<day>`; `python registry/tools/on.py <day> vendim-2018-111`).
 
 ## Decisions made by hand
 

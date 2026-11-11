@@ -5,7 +5,7 @@ Ngarkim të përkohshëm/zëvendësim në detyrë · 2 versions, from 2025-03-20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0313-249` (tags `urdher-2025-0313-249/<day>`; `python tools/on.py <day> urdher-2025-0313-249`).
+Act id: `urdher-2025-0313-249` (tags `urdher-2025-0313-249/<day>`; `python registry/tools/on.py <day> urdher-2025-0313-249`).
 
 ## Decisions made by hand
 

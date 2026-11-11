@@ -9,7 +9,7 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/ko
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-835` (tags `vendim-2014-835/<day>`; `python tools/on.py <day> vendim-2014-835`).
+Act id: `vendim-2014-835` (tags `vendim-2014-835/<day>`; `python registry/tools/on.py <day> vendim-2014-835`).
 
 ## Decisions made by hand
 

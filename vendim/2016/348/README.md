@@ -10,7 +10,7 @@ Miratimin e strategjisë kombëtare për zhvillim dhe integrim 2015-2020 · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-348` (tags `vendim-2016-348/<day>`; `python tools/on.py <day> vendim-2016-348`).
+Act id: `vendim-2016-348` (tags `vendim-2016-348/<day>`; `python registry/tools/on.py <day> vendim-2016-348`).
 
 ## Decisions made by hand
 

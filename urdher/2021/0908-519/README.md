@@ -12,7 +12,7 @@ Miratimin e rregullores së disiplinës për Policinë e Burgjeve · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0908-519` (tags `urdher-2021-0908-519/<day>`; `python tools/on.py <day> urdher-2021-0908-519`).
+Act id: `urdher-2021-0908-519` (tags `urdher-2021-0908-519/<day>`; `python registry/tools/on.py <day> urdher-2021-0908-519`).
 
 ## Decisions made by hand
 

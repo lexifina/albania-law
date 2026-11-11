@@ -28,7 +28,7 @@ Përcaktimin e formatit dhe të specifikimeve teknike të vulave të verifikimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-334` (tags `vendim-2026-334/<day>`; `python tools/on.py <day> vendim-2026-334`).
+Act id: `vendim-2026-334` (tags `vendim-2026-334/<day>`; `python registry/tools/on.py <day> vendim-2026-334`).
 
 ## Decisions made by hand
 

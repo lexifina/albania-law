@@ -9,7 +9,15 @@ Kalimin në përgjegjësi administrimi, nga tipografia ushtarake sha, “shtypsh
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1046` (tags `vendim-2008-1046/<day>`; `python tools/on.py <day> vendim-2008-1046`).
+Act id: `vendim-2008-1046` (tags `vendim-2008-1046/<day>`; `python registry/tools/on.py <day> vendim-2008-1046`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1241, datë 10.9.2008: Për një ndryshim në vendimin nr.1046, datë 16.7.2008 të këshillit të ministrave “për kalimin në përgjegjësi administrimi nga tipografia ushtarake sh.a., shtypshkronjës së letrave me vlerë, tiranë, të disa reparteve dhe të një trualli funksional](https://qbz.gov.al/eli/vendim/2008/09/10/1241)
 
 ## Decisions made by hand
 

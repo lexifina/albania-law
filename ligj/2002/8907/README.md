@@ -27,7 +27,15 @@ Funksionimin e Institutit Gjeografik Ushtarak të Shqipërisë · 1 versions, fr
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8907` (tags `ligj-2002-8907/<day>`; `python tools/on.py <day> ligj-2002-8907`).
+Act id: `ligj-2002-8907` (tags `ligj-2002-8907/<day>`; `python registry/tools/on.py <day> ligj-2002-8907`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 72/2012: Për organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gjeohapësinor në republikën e shqipërisë](https://qbz.gov.al/eli/ligj/2012/06/28/72)
 
 ## Decisions made by hand
 

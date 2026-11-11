@@ -10,7 +10,7 @@ PËR RATIFIKIMIN E DOKUMENTIT NDRYSHUES TË MARRËVESHJES SË HUAS NDËRMJET REP
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-91` (tags `ligj-2016-91/<day>`; `python tools/on.py <day> ligj-2016-91`).
+Act id: `ligj-2016-91` (tags `ligj-2016-91/<day>`; `python registry/tools/on.py <day> ligj-2016-91`).
 
 ## Decisions made by hand
 

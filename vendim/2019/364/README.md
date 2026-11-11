@@ -21,7 +21,7 @@ Funksionimin dhe mënyrën e zhvillimit të veprimtarisë së Institutit Kombët
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-364` (tags `vendim-2019-364/<day>`; `python tools/on.py <day> vendim-2019-364`).
+Act id: `vendim-2019-364` (tags `vendim-2019-364/<day>`; `python registry/tools/on.py <day> vendim-2019-364`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Caktimin e numrit të përgjithshëm të zëvendësnoterëve, si dhe caktimin e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0223-88` (tags `urdher-2021-0223-88/<day>`; `python tools/on.py <day> urdher-2021-0223-88`).
+Act id: `urdher-2021-0223-88` (tags `urdher-2021-0223-88/<day>`; `python registry/tools/on.py <day> urdher-2021-0223-88`).
 
 ## Decisions made by hand
 

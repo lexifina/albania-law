@@ -5,7 +5,7 @@ Vendosjen e niveleve maksimale për disa kontaminues në produktet ushqimore · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-0205-1` (tags `udhezim-2016-0205-1/<day>`; `python tools/on.py <day> udhezim-2016-0205-1`).
+Act id: `udhezim-2016-0205-1` (tags `udhezim-2016-0205-1/<day>`; `python registry/tools/on.py <day> udhezim-2016-0205-1`).
 
 ## Decisions made by hand
 

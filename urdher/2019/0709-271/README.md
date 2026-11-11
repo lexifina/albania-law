@@ -5,7 +5,7 @@ Miratimin e rregullores për organizimin dhe funksionimin e Kontrollit Shtetëro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0709-271` (tags `urdher-2019-0709-271/<day>`; `python tools/on.py <day> urdher-2019-0709-271`).
+Act id: `urdher-2019-0709-271` (tags `urdher-2019-0709-271/<day>`; `python registry/tools/on.py <day> urdher-2019-0709-271`).
 
 ## Decisions made by hand
 

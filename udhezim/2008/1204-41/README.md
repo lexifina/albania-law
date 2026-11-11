@@ -25,7 +25,7 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me k
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1204-41` (tags `udhezim-2008-1204-41/<day>`; `python tools/on.py <day> udhezim-2008-1204-41`).
+Act id: `udhezim-2008-1204-41` (tags `udhezim-2008-1204-41/<day>`; `python registry/tools/on.py <day> udhezim-2008-1204-41`).
 
 ## Decisions made by hand
 

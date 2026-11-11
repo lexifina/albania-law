@@ -10,7 +10,7 @@ Caktimin e shpërblimit ditor për ushtarakët shqiptarë, të dërguar në repu
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-556` (tags `vendim-2009-556/<day>`; `python tools/on.py <day> vendim-2009-556`).
+Act id: `vendim-2009-556` (tags `vendim-2009-556/<day>`; `python registry/tools/on.py <day> vendim-2009-556`).
 
 ## Decisions made by hand
 

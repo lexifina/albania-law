@@ -10,7 +10,7 @@ Miratimin e “marrëveshjes së shitjes të aksioneve të shoqërisë anonime �
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8634` (tags `ligj-2000-8634/<day>`; `python tools/on.py <day> ligj-2000-8634`).
+Act id: `ligj-2000-8634` (tags `ligj-2000-8634/<day>`; `python registry/tools/on.py <day> ligj-2000-8634`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Lejimin e përdorimit të brigjeve dhe të zonës përkatëse të plazhit përba
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-137` (tags `vendim-2022-137/<day>`; `python tools/on.py <day> vendim-2022-137`).
+Act id: `vendim-2022-137` (tags `vendim-2022-137/<day>`; `python registry/tools/on.py <day> vendim-2022-137`).
 
 ## Decisions made by hand
 

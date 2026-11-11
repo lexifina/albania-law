@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Shëndetësisë dhe M
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-370` (tags `vendim-2023-370/<day>`; `python tools/on.py <day> vendim-2023-370`).
+Act id: `vendim-2023-370` (tags `vendim-2023-370/<day>`; `python registry/tools/on.py <day> vendim-2023-370`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Organizimin dhe funksionimin e Agjencisë për Mbështetjen e Vetëqeverisjes Ve
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-227` (tags `vendim-2024-227/<day>`; `python tools/on.py <day> vendim-2024-227`).
+Act id: `vendim-2024-227` (tags `vendim-2024-227/<day>`; `python registry/tools/on.py <day> vendim-2024-227`).
 
 ## Decisions made by hand
 

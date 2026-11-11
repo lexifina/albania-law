@@ -11,7 +11,7 @@ Delegimin e kompetencave · 1 versions, from 2019-02-14 (latest in force: 2019-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0205-32` (tags `urdher-2019-0205-32/<day>`; `python tools/on.py <day> urdher-2019-0205-32`).
+Act id: `urdher-2019-0205-32` (tags `urdher-2019-0205-32/<day>`; `python registry/tools/on.py <day> urdher-2019-0205-32`).
 
 ## Decisions made by hand
 

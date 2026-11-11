@@ -17,7 +17,7 @@ Miratimin e programit të veprimit 3-vjeçar për zbatimin e strategjisë minera
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2012-05-10 |
 
-Act id: `vendim-2011-347` (tags `vendim-2011-347/<day>`; `python tools/on.py <day> vendim-2011-347`).
+Act id: `vendim-2011-347` (tags `vendim-2011-347/<day>`; `python registry/tools/on.py <day> vendim-2011-347`).
 
 ## Decisions made by hand
 

@@ -35,7 +35,7 @@ Ofruesin e shërbimeve të lundrimit ajror ”Albcontrol” · 1 versions, from 
 | Neni 23 | [neni-023.md](neni-023.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-40-2024` (tags `ligji-40-2024/<day>`; `python tools/on.py <day> ligji-40-2024`).
+Act id: `ligji-40-2024` (tags `ligji-40-2024/<day>`; `python registry/tools/on.py <day> ligji-40-2024`).
 
 ## Decisions made by hand
 

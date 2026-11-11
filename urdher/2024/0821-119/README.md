@@ -11,7 +11,7 @@ Delegimin e përkohshëm të kompetencës për mbikëqyrjen e veprimtarisë admi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0821-119` (tags `urdher-2024-0821-119/<day>`; `python tools/on.py <day> urdher-2024-0821-119`).
+Act id: `urdher-2024-0821-119` (tags `urdher-2024-0821-119/<day>`; `python registry/tools/on.py <day> urdher-2024-0821-119`).
 
 ## Decisions made by hand
 

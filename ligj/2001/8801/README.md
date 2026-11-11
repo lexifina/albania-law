@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë me “elbe
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8801` (tags `ligj-2001-8801/<day>`; `python tools/on.py <day> ligj-2001-8801`).
+Act id: `ligj-2001-8801` (tags `ligj-2001-8801/<day>`; `python registry/tools/on.py <day> ligj-2001-8801`).
 
 ## Decisions made by hand
 

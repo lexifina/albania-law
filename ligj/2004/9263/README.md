@@ -10,7 +10,7 @@ Ratifikimin e “konventës së stokholmit “për ndotësit organikë të qënd
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9263` (tags `ligj-2004-9263/<day>`; `python tools/on.py <day> ligj-2004-9263`).
+Act id: `ligj-2004-9263` (tags `ligj-2004-9263/<day>`; `python registry/tools/on.py <day> ligj-2004-9263`).
 
 ## Decisions made by hand
 

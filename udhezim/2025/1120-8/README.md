@@ -49,7 +49,7 @@ Kriteret shtesë për akreditimin e organizmave certifikues · 1 versions, from 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-1120-8` (tags `udhezim-2025-1120-8/<day>`; `python tools/on.py <day> udhezim-2025-1120-8`).
+Act id: `udhezim-2025-1120-8` (tags `udhezim-2025-1120-8/<day>`; `python registry/tools/on.py <day> udhezim-2025-1120-8`).
 
 ## Decisions made by hand
 

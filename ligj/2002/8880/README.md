@@ -61,7 +61,7 @@ Të drejtat e seleksionerit të bimëve · 3 versions, from 2002-05-28 (latest i
 | Neni 41 | [neni-041.md](neni-041.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8880` (tags `ligj-2002-8880/<day>`; `python tools/on.py <day> ligj-2002-8880`).
+Act id: `ligj-2002-8880` (tags `ligj-2002-8880/<day>`; `python registry/tools/on.py <day> ligj-2002-8880`).
 
 ## Decisions made by hand
 

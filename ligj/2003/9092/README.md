@@ -37,7 +37,7 @@ Zbatimin e ”konventës për ndalimin e zhvillimit, të prodhimit, magazinimit 
 | Neni 30 | [neni-030.md](neni-030.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2003-9092` (tags `ligj-2003-9092/<day>`; `python tools/on.py <day> ligj-2003-9092`).
+Act id: `ligj-2003-9092` (tags `ligj-2003-9092/<day>`; `python registry/tools/on.py <day> ligj-2003-9092`).
 
 ## Decisions made by hand
 

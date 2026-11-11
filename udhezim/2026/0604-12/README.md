@@ -20,7 +20,7 @@ Produktet ushqimore dhe përbërësit ushqimorë të trajtuar me rrezatim jonizu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0604-12` (tags `udhezim-2026-0604-12/<day>`; `python tools/on.py <day> udhezim-2026-0604-12`).
+Act id: `udhezim-2026-0604-12` (tags `udhezim-2026-0604-12/<day>`; `python registry/tools/on.py <day> udhezim-2026-0604-12`).
 
 ## Decisions made by hand
 

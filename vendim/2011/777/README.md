@@ -8,7 +8,7 @@ Shpalljen e vitit të 100 - vjetorit të pavarësisë së shqipërisë · 1 vers
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-777` (tags `vendim-2011-777/<day>`; `python tools/on.py <day> vendim-2011-777`).
+Act id: `vendim-2011-777` (tags `vendim-2011-777/<day>`; `python registry/tools/on.py <day> vendim-2011-777`).
 
 ## Decisions made by hand
 

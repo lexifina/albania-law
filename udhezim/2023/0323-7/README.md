@@ -10,7 +10,7 @@ Rregullat për hartimin, përmbajtjen e planeve të kontrolleve zyrtare përsa i
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0323-7` (tags `udhezim-2023-0323-7/<day>`; `python tools/on.py <day> udhezim-2023-0323-7`).
+Act id: `udhezim-2023-0323-7` (tags `udhezim-2023-0323-7/<day>`; `python registry/tools/on.py <day> udhezim-2023-0323-7`).
 
 ## Decisions made by hand
 

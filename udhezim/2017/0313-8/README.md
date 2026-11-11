@@ -24,7 +24,7 @@ Organizimin dhe funksionimin e qendrës së shërbimeve arsimore · 2 versions, 
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0313-8` (tags `udhezim-2017-0313-8/<day>`; `python tools/on.py <day> udhezim-2017-0313-8`).
+Act id: `udhezim-2017-0313-8` (tags `udhezim-2017-0313-8/<day>`; `python registry/tools/on.py <day> udhezim-2017-0313-8`).
 
 ## Decisions made by hand
 

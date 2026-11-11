@@ -17,7 +17,7 @@ Përzgjedhjen, me procedurë të përshpejtuar, të një studioje të huaj avoka
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-733` (tags `vendim-2012-733/<day>`; `python tools/on.py <day> vendim-2012-733`).
+Act id: `vendim-2012-733` (tags `vendim-2012-733/<day>`; `python registry/tools/on.py <day> vendim-2012-733`).
 
 ## Decisions made by hand
 

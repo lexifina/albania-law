@@ -116,7 +116,7 @@ Organizimin dhe funksionimin e Shërbimit Përmbarimor Gjyqësor Shtetëror · 1
 | Neni 95 | [neni-095.md](neni-095.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8-2023` (tags `ligji-8-2023/<day>`; `python tools/on.py <day> ligji-8-2023`).
+Act id: `ligji-8-2023` (tags `ligji-8-2023/<day>`; `python registry/tools/on.py <day> ligji-8-2023`).
 
 ## Decisions made by hand
 

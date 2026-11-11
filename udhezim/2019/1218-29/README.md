@@ -16,7 +16,7 @@ Krijimin dhe administrimin e regjistrave shtetërorë të gradave shkencore dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-1218-29` (tags `udhezim-2019-1218-29/<day>`; `python tools/on.py <day> udhezim-2019-1218-29`).
+Act id: `udhezim-2019-1218-29` (tags `udhezim-2019-1218-29/<day>`; `python registry/tools/on.py <day> udhezim-2019-1218-29`).
 
 ## Decisions made by hand
 

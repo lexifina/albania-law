@@ -5,7 +5,7 @@ PËR MIRATIMIN E MODELIT TË DOKUMENTit TË IDENTITETIT TË SHTETASVE SHQIPTARË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-579` (tags `vendim-2004-579/<day>`; `python tools/on.py <day> vendim-2004-579`).
+Act id: `vendim-2004-579` (tags `vendim-2004-579/<day>`; `python registry/tools/on.py <day> vendim-2004-579`).
 
 ## Decisions made by hand
 

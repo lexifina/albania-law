@@ -18,7 +18,7 @@ Miratimin e formatit tip të aktit të bashkëpronësisë · 1 versions, from 20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1011` (tags `vendim-2010-1011/<day>`; `python tools/on.py <day> vendim-2010-1011`).
+Act id: `vendim-2010-1011` (tags `vendim-2010-1011/<day>`; `python registry/tools/on.py <day> vendim-2010-1011`).
 
 ## Decisions made by hand
 

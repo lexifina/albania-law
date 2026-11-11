@@ -8,7 +8,7 @@ Dhënie pensioni të posaçëm shtetëror znj. Lulëzime Ali Duka · 1 versions,
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-786` (tags `vendim-2023-786/<day>`; `python tools/on.py <day> vendim-2023-786`).
+Act id: `vendim-2023-786` (tags `vendim-2023-786/<day>`; `python registry/tools/on.py <day> vendim-2023-786`).
 
 ## Decisions made by hand
 

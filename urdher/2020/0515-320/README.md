@@ -5,7 +5,7 @@ Disa kufizime në ofriomin e shërbimeve në bare, restorante dhe lokale, fast f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0515-320` (tags `urdher-2020-0515-320/<day>`; `python tools/on.py <day> urdher-2020-0515-320`).
+Act id: `urdher-2020-0515-320` (tags `urdher-2020-0515-320/<day>`; `python registry/tools/on.py <day> urdher-2020-0515-320`).
 
 ## Decisions made by hand
 

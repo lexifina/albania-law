@@ -5,7 +5,7 @@ Shpalljen “zonë ekonomike”, në vlorë · 2 versions, from 2008-06-26 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-774` (tags `vendim-2008-774/<day>`; `python tools/on.py <day> vendim-2008-774`).
+Act id: `vendim-2008-774` (tags `vendim-2008-774/<day>`; `python registry/tools/on.py <day> vendim-2008-774`).
 
 ## Decisions made by hand
 

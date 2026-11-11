@@ -5,7 +5,7 @@ Kriteret, që duhet të plotësojnë personat, fizikë dhe juridikë, për t’u
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-966` (tags `vendim-2008-966/<day>`; `python tools/on.py <day> vendim-2008-966`).
+Act id: `vendim-2008-966` (tags `vendim-2008-966/<day>`; `python registry/tools/on.py <day> vendim-2008-966`).
 
 ## Decisions made by hand
 

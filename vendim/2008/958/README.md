@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me Saint Lucia · 1 versions, from 2008-
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-958` (tags `vendim-2008-958/<day>`; `python tools/on.py <day> vendim-2008-958`).
+Act id: `vendim-2008-958` (tags `vendim-2008-958/<day>`; `python registry/tools/on.py <day> vendim-2008-958`).
 
 ## Decisions made by hand
 

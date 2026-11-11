@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi, nga ministria e arsimit, sportit dhe rin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-498` (tags `vendim-2017-498/<day>`; `python tools/on.py <day> vendim-2017-498`).
+Act id: `vendim-2017-498` (tags `vendim-2017-498/<day>`; `python registry/tools/on.py <day> vendim-2017-498`).
 
 ## Decisions made by hand
 

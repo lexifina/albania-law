@@ -16,7 +16,7 @@ Strehimin e familjeve të invalidëve të luftës antifashiste nacionalçlirimta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-434` (tags `vendim-2000-434/<day>`; `python tools/on.py <day> vendim-2000-434`).
+Act id: `vendim-2000-434` (tags `vendim-2000-434/<day>`; `python registry/tools/on.py <day> vendim-2000-434`).
 
 ## Decisions made by hand
 

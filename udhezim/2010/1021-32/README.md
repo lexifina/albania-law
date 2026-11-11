@@ -27,7 +27,7 @@ PëR REGJISTRIMIN E KANDIDATëVE FITUES Në CIKLIN E PARë të STUDIMEVE ME KOHE
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1021-32` (tags `udhezim-2010-1021-32/<day>`; `python tools/on.py <day> udhezim-2010-1021-32`).
+Act id: `udhezim-2010-1021-32` (tags `udhezim-2010-1021-32/<day>`; `python registry/tools/on.py <day> udhezim-2010-1021-32`).
 
 ## Decisions made by hand
 

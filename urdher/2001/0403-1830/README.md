@@ -9,7 +9,7 @@ Miratimin e rregullores “për organizimin dhe funksionimin e administratës gj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2001-0403-1830` (tags `urdher-2001-0403-1830/<day>`; `python tools/on.py <day> urdher-2001-0403-1830`).
+Act id: `urdher-2001-0403-1830` (tags `urdher-2001-0403-1830/<day>`; `python registry/tools/on.py <day> urdher-2001-0403-1830`).
 
 ## Decisions made by hand
 

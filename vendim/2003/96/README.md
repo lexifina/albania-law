@@ -12,7 +12,16 @@ Përcaktimin për vitin 2003 të numrit të punonjësve të institucioneve buxhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-96` (tags `vendim-2003-96/<day>`; `python tools/on.py <day> vendim-2003-96`).
+Act id: `vendim-2003-96` (tags `vendim-2003-96/<day>`; `python registry/tools/on.py <day> vendim-2003-96`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 440, datë 26.6.2003: Për ngritjen e agjensisë së urbanizimit](https://qbz.gov.al/eli/vendim/2003/06/26/440)
+- [Vendimi i Këshillit të Ministrave nr. 559, datë 1.8.2003: Për një ndryshim në vendimin nr.96, datë 13.2.2003 të Këshillit të Ministrave ”Për përcaktimin, për vitin 2003, të numrit të punonjësve të institucioneve buxhetore” dhe për një shtesë fondi në buxhetin e vitit 2003, miratuar për Ministrinë e Ekonomisë](https://qbz.gov.al/eli/vendim/2003/08/01/559)
 
 ## Decisions made by hand
 

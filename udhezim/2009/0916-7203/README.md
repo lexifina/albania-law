@@ -18,7 +18,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr.6291, datë 17.8.2005 “Për eviden
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0916-7203` (tags `udhezim-2009-0916-7203/<day>`; `python tools/on.py <day> udhezim-2009-0916-7203`).
+Act id: `udhezim-2009-0916-7203` (tags `udhezim-2009-0916-7203/<day>`; `python registry/tools/on.py <day> udhezim-2009-0916-7203`).
 
 ## Decisions made by hand
 

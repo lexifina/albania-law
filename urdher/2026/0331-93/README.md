@@ -12,7 +12,7 @@ Miratimin e Planit të Integruar të Menaxhimit të Parkut Kombëtar ”Lumi Vjo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0331-93` (tags `urdher-2026-0331-93/<day>`; `python tools/on.py <day> urdher-2026-0331-93`).
+Act id: `urdher-2026-0331-93` (tags `urdher-2026-0331-93/<day>`; `python registry/tools/on.py <day> urdher-2026-0331-93`).
 
 ## Decisions made by hand
 

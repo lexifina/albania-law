@@ -11,7 +11,7 @@ Shpërndarjen dhe detajimin e fondit të investimeve për funksionin e ujitjes d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-525` (tags `vendim-2017-525/<day>`; `python tools/on.py <day> vendim-2017-525`).
+Act id: `vendim-2017-525` (tags `vendim-2017-525/<day>`; `python registry/tools/on.py <day> vendim-2017-525`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e rregullores “për funksionimin e komisionit kombëtar ndërministr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-459` (tags `vendim-2001-459/<day>`; `python tools/on.py <day> vendim-2001-459`).
+Act id: `vendim-2001-459` (tags `vendim-2001-459/<day>`; `python registry/tools/on.py <day> vendim-2001-459`).
 
 ## Decisions made by hand
 

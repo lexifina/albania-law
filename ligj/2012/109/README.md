@@ -13,7 +13,7 @@ Aderimin e republikës së shqipërisë në konventën për njohjen e divorceve 
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-109` (tags `ligj-2012-109/<day>`; `python tools/on.py <day> ligj-2012-109`).
+Act id: `ligj-2012-109` (tags `ligj-2012-109/<day>`; `python registry/tools/on.py <day> ligj-2012-109`).
 
 ## Decisions made by hand
 

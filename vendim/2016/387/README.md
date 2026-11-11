@@ -19,7 +19,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-387` (tags `vendim-2016-387/<day>`; `python tools/on.py <day> vendim-2016-387`).
+Act id: `vendim-2016-387` (tags `vendim-2016-387/<day>`; `python registry/tools/on.py <day> vendim-2016-387`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 851, datë 24.12.2019: Për disa ndryshime dhe shtesa në vendimin nr. 387, datë 25.5.2016, të Këshillit të Ministrave, “Për shpronësimin për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ’Përmirësimi i shtresave rrugore Fushë-Krujë-Thumanë’”](https://qbz.gov.al/eli/vendim/2019/12/24/851)
 
 ## Decisions made by hand
 

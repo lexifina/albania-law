@@ -14,7 +14,7 @@ Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, kopsh
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1028-558` (tags `urdher-2025-1028-558/<day>`; `python tools/on.py <day> urdher-2025-1028-558`).
+Act id: `urdher-2025-1028-558` (tags `urdher-2025-1028-558/<day>`; `python registry/tools/on.py <day> urdher-2025-1028-558`).
 
 ## Decisions made by hand
 

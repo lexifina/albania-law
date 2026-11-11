@@ -5,7 +5,7 @@ Përcaktimin e kushteve të certifikimit e të licencimit të dokumenteve shoqë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-441` (tags `vendim-2011-441/<day>`; `python tools/on.py <day> vendim-2011-441`).
+Act id: `vendim-2011-441` (tags `vendim-2011-441/<day>`; `python registry/tools/on.py <day> vendim-2011-441`).
 
 ## Decisions made by hand
 

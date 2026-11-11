@@ -5,7 +5,7 @@ Etiketimin e produkteve ushqimore · 2 versions, from 2000-12-07 (latest in forc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-604` (tags `vendim-2000-604/<day>`; `python tools/on.py <day> vendim-2000-604`).
+Act id: `vendim-2000-604` (tags `vendim-2000-604/<day>`; `python registry/tools/on.py <day> vendim-2000-604`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e kuadrit makroekonomik dhe të treguesve makroekonomikë e fiskalë, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2009-07-31 |
 
-Act id: `vendim-2009-489` (tags `vendim-2009-489/<day>`; `python tools/on.py <day> vendim-2009-489`).
+Act id: `vendim-2009-489` (tags `vendim-2009-489/<day>`; `python registry/tools/on.py <day> vendim-2009-489`).
 
 ## Decisions made by hand
 

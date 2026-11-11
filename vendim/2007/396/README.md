@@ -5,7 +5,7 @@ Përcaktimin e sëmundjeve profesionale · 2 versions, from 2007-07-06 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-396` (tags `vendim-2007-396/<day>`; `python tools/on.py <day> vendim-2007-396`).
+Act id: `vendim-2007-396` (tags `vendim-2007-396/<day>`; `python registry/tools/on.py <day> vendim-2007-396`).
 
 ## Decisions made by hand
 

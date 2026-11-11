@@ -5,7 +5,7 @@ Miratimin e strukturës së pagës dhe të niveleve të pagave të pozicioneve k
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2023-323` (tags `vendim-2023-323/<day>`; `python tools/on.py <day> vendim-2023-323`).
+Act id: `vendim-2023-323` (tags `vendim-2023-323/<day>`; `python registry/tools/on.py <day> vendim-2023-323`).
 
 ## Decisions made by hand
 

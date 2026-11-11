@@ -43,7 +43,7 @@ Përgjegjësinë penale të personave juridikë · 1 versions, from 2007-10-01 (
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9754-2007` (tags `ligji-9754-2007/<day>`; `python tools/on.py <day> ligji-9754-2007`).
+Act id: `ligji-9754-2007` (tags `ligji-9754-2007/<day>`; `python registry/tools/on.py <day> ligji-9754-2007`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit dhe projektit ndërmjet Republikës së Sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-98` (tags `vendim-2026-98/<day>`; `python tools/on.py <day> vendim-2026-98`).
+Act id: `vendim-2026-98` (tags `vendim-2026-98/<day>`; `python registry/tools/on.py <day> vendim-2026-98`).
 
 ## Decisions made by hand
 

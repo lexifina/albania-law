@@ -16,7 +16,7 @@ Përcaktimin e numrit të faqeve për të cilat informacioni përfitohet falas, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0721-12` (tags `udhezim-2020-0721-12/<day>`; `python tools/on.py <day> udhezim-2020-0721-12`).
+Act id: `udhezim-2020-0721-12` (tags `udhezim-2020-0721-12/<day>`; `python registry/tools/on.py <day> udhezim-2020-0721-12`).
 
 ## Decisions made by hand
 

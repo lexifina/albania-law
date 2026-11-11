@@ -8,7 +8,16 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.1, datë 31.1.2020, të Kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-18` (tags `ligj-2020-18/<day>`; `python tools/on.py <day> ligj-2020-18`).
+Act id: `ligj-2020-18` (tags `ligj-2020-18/<day>`; `python registry/tools/on.py <day> ligj-2020-18`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Akti normativ nr. 35, datë 16.12.2020: Për një shtesë në aktin normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave, “Për masat parandaluese në kuadër të forcimit të luftës kundër terrorizmit, krimit të organizuar, krimeve të rënda dhe konsolidimit të rendit e sigurisë publike”, miratuar me ligjin nr.18/2020](https://qbz.gov.al/eli/akt-normativ/2020/12/16/35)
+- [Ligji nr. 5/2021: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 35, datë 16.12.2020, të Këshillit të Ministrave “Për një shtesë në aktin normativ nr. 1, datë 31.1.2020, të Këshillit të Ministrave “Për masat parandaluese në kuadër të forcimit të luftës kundër terrorizmit, krimit të organizuar, krimeve të rënda dhe konsolidimit të rendit e sigurisë publike”, miratuar me ligjin nr. 18/2020””](https://qbz.gov.al/eli/ligj/2021/01/28/5)
 
 ## Decisions made by hand
 

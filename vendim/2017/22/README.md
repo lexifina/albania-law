@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e vitit 2017, miratuar për ministrinë e punëv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2017-12-22 |
 
-Act id: `vendim-2017-22` (tags `vendim-2017-22/<day>`; `python tools/on.py <day> vendim-2017-22`).
+Act id: `vendim-2017-22` (tags `vendim-2017-22/<day>`; `python registry/tools/on.py <day> vendim-2017-22`).
 
 ## Decisions made by hand
 

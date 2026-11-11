@@ -10,7 +10,7 @@ Kalimin te bashkitë Durrës, Kavajë, Kamzë, Krujë dhe Kurbin të objekteve a
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-197` (tags `vendim-2022-197/<day>`; `python tools/on.py <day> vendim-2022-197`).
+Act id: `vendim-2022-197` (tags `vendim-2022-197/<day>`; `python registry/tools/on.py <day> vendim-2022-197`).
 
 ## Decisions made by hand
 

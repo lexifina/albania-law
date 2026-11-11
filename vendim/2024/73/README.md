@@ -12,7 +12,7 @@ Një shtesë dhe rialokim të numrit të punonjësve organikë në aparatin e di
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-73` (tags `vendim-2024-73/<day>`; `python tools/on.py <day> vendim-2024-73`).
+Act id: `vendim-2024-73` (tags `vendim-2024-73/<day>`; `python registry/tools/on.py <day> vendim-2024-73`).
 
 ## Decisions made by hand
 

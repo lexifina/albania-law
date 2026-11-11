@@ -12,7 +12,7 @@ Rregullat e funksionimit të komisionit të ankandit, procedurat e zhvillimit t�
 | Pika 4 | [pika-004.md](pika-004.md) | 1 | 2012-06-20 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1242` (tags `vendim-2009-1242/<day>`; `python tools/on.py <day> vendim-2009-1242`).
+Act id: `vendim-2009-1242` (tags `vendim-2009-1242/<day>`; `python registry/tools/on.py <day> vendim-2009-1242`).
 
 ## Decisions made by hand
 

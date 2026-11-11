@@ -14,7 +14,7 @@ Marrjen e masave për ndalimin e këmbimit ilegal valutor · 1 versions, from 20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2005-0408-13` (tags `urdher-2005-0408-13/<day>`; `python tools/on.py <day> urdher-2005-0408-13`).
+Act id: `urdher-2005-0408-13` (tags `urdher-2005-0408-13/<day>`; `python registry/tools/on.py <day> urdher-2005-0408-13`).
 
 ## Decisions made by hand
 

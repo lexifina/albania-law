@@ -5,7 +5,7 @@ Kontabilitetin dhe pasqyrat financiare · 4 versions, from 2006-01-01 (latest in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9228` (tags `ligj-2004-9228/<day>`; `python tools/on.py <day> ligj-2004-9228`).
+Act id: `ligj-2004-9228` (tags `ligj-2004-9228/<day>`; `python registry/tools/on.py <day> ligj-2004-9228`).
 
 ## Decisions made by hand
 

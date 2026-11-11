@@ -33,7 +33,7 @@ Shpalljen e ekosistemeve natyrore rezervat natyror i menaxhuar/park natyror (kat
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-60` (tags `vendim-2022-60/<day>`; `python tools/on.py <day> vendim-2022-60`).
+Act id: `vendim-2022-60` (tags `vendim-2022-60/<day>`; `python registry/tools/on.py <day> vendim-2022-60`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike eolike d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1092` (tags `vendim-2020-1092/<day>`; `python tools/on.py <day> vendim-2020-1092`).
+Act id: `vendim-2020-1092` (tags `vendim-2020-1092/<day>`; `python registry/tools/on.py <day> vendim-2020-1092`).
 
 ## Decisions made by hand
 

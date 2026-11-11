@@ -9,7 +9,7 @@ PËR MIRATIMIN E MARRËVESHJES NDËRJMET QEVERISË SË REPUBLIKËS TË SHQIPËRI
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-434` (tags `vendim-2001-434/<day>`; `python tools/on.py <day> vendim-2001-434`).
+Act id: `vendim-2001-434` (tags `vendim-2001-434/<day>`; `python registry/tools/on.py <day> vendim-2001-434`).
 
 ## Decisions made by hand
 

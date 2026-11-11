@@ -45,7 +45,7 @@ Censin e bujqësisë · 1 versions, from 2026-08-14 (latest in force: 2026-08-14
 | Neni 33 | [neni-033.md](neni-033.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-66-2026` (tags `ligji-66-2026/<day>`; `python tools/on.py <day> ligji-66-2026`).
+Act id: `ligji-66-2026` (tags `ligji-66-2026/<day>`; `python registry/tools/on.py <day> ligji-66-2026`).
 
 ## Decisions made by hand
 

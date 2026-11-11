@@ -17,7 +17,7 @@ Rritjen e pensioneve · 1 versions, from 2014-07-21 (latest in force: 2014-07-21
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-456` (tags `vendim-2014-456/<day>`; `python tools/on.py <day> vendim-2014-456`).
+Act id: `vendim-2014-456` (tags `vendim-2014-456/<day>`; `python registry/tools/on.py <day> vendim-2014-456`).
 
 ## Decisions made by hand
 

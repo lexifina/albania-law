@@ -5,7 +5,7 @@ Rijetëzimin e monumenteve të kulturës · 2 versions, from 2009-02-04 (latest 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0122-504` (tags `udhezim-2009-0122-504/<day>`; `python tools/on.py <day> udhezim-2009-0122-504`).
+Act id: `udhezim-2009-0122-504` (tags `udhezim-2009-0122-504/<day>`; `python registry/tools/on.py <day> udhezim-2009-0122-504`).
 
 ## Decisions made by hand
 

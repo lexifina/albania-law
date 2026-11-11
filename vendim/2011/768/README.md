@@ -13,7 +13,7 @@ Miratimin e kuotave të pranimit dhe të tarifave të shkollimit për programet 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-768` (tags `vendim-2011-768/<day>`; `python tools/on.py <day> vendim-2011-768`).
+Act id: `vendim-2011-768` (tags `vendim-2011-768/<day>`; `python registry/tools/on.py <day> vendim-2011-768`).
 
 ## Decisions made by hand
 

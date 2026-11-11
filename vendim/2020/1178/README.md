@@ -33,7 +33,7 @@ Përcaktimin e dokumentacionit dhe të rregullave të hollësishme të evidentim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-11-27 |
 
-Act id: `vendim-2020-1178` (tags `vendim-2020-1178/<day>`; `python tools/on.py <day> vendim-2020-1178`).
+Act id: `vendim-2020-1178` (tags `vendim-2020-1178/<day>`; `python registry/tools/on.py <day> vendim-2020-1178`).
 
 ## Decisions made by hand
 

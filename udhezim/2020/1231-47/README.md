@@ -12,7 +12,7 @@ Disa ndryshime në udhëzimin nr. 34, datë 14.9.2020, “Për mënyrën e emër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-1231-47` (tags `udhezim-2020-1231-47/<day>`; `python tools/on.py <day> udhezim-2020-1231-47`).
+Act id: `udhezim-2020-1231-47` (tags `udhezim-2020-1231-47/<day>`; `python registry/tools/on.py <day> udhezim-2020-1231-47`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Një shtesë fondi në buxhetin e vitit 2020, miratuar për Gjykatën e Lartë �
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-890` (tags `vendim-2020-890/<day>`; `python tools/on.py <day> vendim-2020-890`).
+Act id: `vendim-2020-890` (tags `vendim-2020-890/<day>`; `python registry/tools/on.py <day> vendim-2020-890`).
 
 ## Decisions made by hand
 

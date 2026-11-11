@@ -25,7 +25,7 @@ Identifikimin dhe regjistrimin e adresës së shtetasve shqiptarë që jetojnë 
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-14` (tags `ligj-2016-14/<day>`; `python tools/on.py <day> ligj-2016-14`).
+Act id: `ligj-2016-14` (tags `ligj-2016-14/<day>`; `python registry/tools/on.py <day> ligj-2016-14`).
 
 ## Decisions made by hand
 

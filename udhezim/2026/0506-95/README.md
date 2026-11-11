@@ -17,7 +17,7 @@ Procedurën e lëshimit, e refuzimit të lëshimit, e ripërtëritjes apo e anul
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0506-95` (tags `udhezim-2026-0506-95/<day>`; `python tools/on.py <day> udhezim-2026-0506-95`).
+Act id: `udhezim-2026-0506-95` (tags `udhezim-2026-0506-95/<day>`; `python registry/tools/on.py <day> udhezim-2026-0506-95`).
 
 ## Decisions made by hand
 

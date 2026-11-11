@@ -5,7 +5,7 @@ Një shtesë fondi në buxhetin e vitit 2010, miratuar për ministrinë e turizm
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-718` (tags `vendim-2010-718/<day>`; `python tools/on.py <day> vendim-2010-718`).
+Act id: `vendim-2010-718` (tags `vendim-2010-718/<day>`; `python registry/tools/on.py <day> vendim-2010-718`).
 
 ## Decisions made by hand
 

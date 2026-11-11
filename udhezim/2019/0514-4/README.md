@@ -25,7 +25,7 @@ Kriteret dhe nivelin e vlerësimit, si dhe detajimi i pikësimit për të gjitha
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0514-4` (tags `udhezim-2019-0514-4/<day>`; `python tools/on.py <day> udhezim-2019-0514-4`).
+Act id: `udhezim-2019-0514-4` (tags `udhezim-2019-0514-4/<day>`; `python registry/tools/on.py <day> udhezim-2019-0514-4`).
 
 ## Decisions made by hand
 

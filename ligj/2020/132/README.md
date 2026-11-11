@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 31, datë 7.10.2020, “Pë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-132` (tags `ligj-2020-132/<day>`; `python tools/on.py <day> ligj-2020-132`).
+Act id: `ligj-2020-132` (tags `ligj-2020-132/<day>`; `python registry/tools/on.py <day> ligj-2020-132`).
 
 ## Decisions made by hand
 

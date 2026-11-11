@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes për konsolidimin e borxhit të jashtëm të shqi
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8695` (tags `ligj-2000-8695/<day>`; `python tools/on.py <day> ligj-2000-8695`).
+Act id: `ligj-2000-8695` (tags `ligj-2000-8695/<day>`; `python registry/tools/on.py <day> ligj-2000-8695`).
 
 ## Decisions made by hand
 

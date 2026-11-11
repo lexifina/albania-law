@@ -21,7 +21,15 @@ Krijimin e fondit të ekonomisë kreative (artizanati) · 1 versions, from 2012-
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-954` (tags `vendim-2012-954/<day>`; `python tools/on.py <day> vendim-2012-954`).
+Act id: `vendim-2012-954` (tags `vendim-2012-954/<day>`; `python registry/tools/on.py <day> vendim-2012-954`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 25, datë 20.1.2016: Për disa ndryshime në vendimin nr. 954, datë 5.9.2012, të këshillit të ministrave, “për krijimin e fondit të ekonomisë kreative (artizanati)”](https://qbz.gov.al/eli/vendim/2016/01/20/25)
 
 ## Decisions made by hand
 

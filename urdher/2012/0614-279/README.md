@@ -11,7 +11,16 @@ Miratimin e tarifave të shërbimeve noteriale · 1 versions, from 2012-06-20 (l
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0614-279` (tags `urdher-2012-0614-279/<day>`; `python tools/on.py <day> urdher-2012-0614-279`).
+Act id: `urdher-2012-0614-279` (tags `urdher-2012-0614-279/<day>`; `python registry/tools/on.py <day> urdher-2012-0614-279`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 306, datë 31.7.2013 (Ministria e Drejtësisë) [QBZ 9830]: Për disa shtesa dhe ndryshime në urdhrin nr. 279, datë 14.6.2012 të Ministrit të Drejtësisë “Për miratimin e tarifave të shërbimeve noteriale”](https://qbz.gov.al/eli/urdher/2013/07/31/306)
+- [Urdhri nr. 6079-3, datë 14.10.2015 (Ministria e Drejtësisë) [QBZ 12528]: Për një shtesë në urdhrin nr. 279, datë 14.6.2012 të ministrit të Drejtësisë “Për miratimin e tarifave të shërbimeve noteriale”, të ndryshuar](https://qbz.gov.al/eli/urdher/2015/10/14/6079-3)
 
 ## Decisions made by hand
 

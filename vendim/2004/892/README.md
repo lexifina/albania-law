@@ -12,7 +12,7 @@ Plotësimin e dokumentacionit të pronësisë mbi tokën, që zihet nga ndërtim
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-892` (tags `vendim-2004-892/<day>`; `python tools/on.py <day> vendim-2004-892`).
+Act id: `vendim-2004-892` (tags `vendim-2004-892/<day>`; `python registry/tools/on.py <day> vendim-2004-892`).
 
 ## Decisions made by hand
 

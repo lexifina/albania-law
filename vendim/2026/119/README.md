@@ -18,7 +18,7 @@ Transferimin te Korporata e Investimeve Shqiptare të pronave shtetërore, në p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-06-24 |
 
-Act id: `vendim-2026-119` (tags `vendim-2026-119/<day>`; `python tools/on.py <day> vendim-2026-119`).
+Act id: `vendim-2026-119` (tags `vendim-2026-119/<day>`; `python registry/tools/on.py <day> vendim-2026-119`).
 
 ## Decisions made by hand
 

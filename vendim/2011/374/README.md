@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi, nga agjencia e administrimit të pasuriv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-374` (tags `vendim-2011-374/<day>`; `python tools/on.py <day> vendim-2011-374`).
+Act id: `vendim-2011-374` (tags `vendim-2011-374/<day>`; `python registry/tools/on.py <day> vendim-2011-374`).
 
 ## Decisions made by hand
 

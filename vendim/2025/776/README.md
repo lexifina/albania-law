@@ -12,7 +12,7 @@ Përcaktimin e pagës minimale në shkallë vendi · 1 versions, from 2025-12-23
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-776` (tags `vendim-2025-776/<day>`; `python tools/on.py <day> vendim-2025-776`).
+Act id: `vendim-2025-776` (tags `vendim-2025-776/<day>`; `python registry/tools/on.py <day> vendim-2025-776`).
 
 ## Decisions made by hand
 

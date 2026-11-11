@@ -25,7 +25,7 @@ Nismën ligjvënëse të zgjedhësve në Republikën e Shqipërisë · 1 version
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-54-2019` (tags `ligji-54-2019/<day>`; `python tools/on.py <day> ligji-54-2019`).
+Act id: `ligji-54-2019` (tags `ligji-54-2019/<day>`; `python registry/tools/on.py <day> ligji-54-2019`).
 
 ## Decisions made by hand
 

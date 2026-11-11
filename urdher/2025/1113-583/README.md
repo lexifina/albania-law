@@ -14,7 +14,7 @@ Mbylljen e veprimtarisë së institucionit arsimor parauniversitar jopublik, të
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1113-583` (tags `urdher-2025-1113-583/<day>`; `python tools/on.py <day> urdher-2025-1113-583`).
+Act id: `urdher-2025-1113-583` (tags `urdher-2025-1113-583/<day>`; `python registry/tools/on.py <day> urdher-2025-1113-583`).
 
 ## Decisions made by hand
 

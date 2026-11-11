@@ -18,7 +18,7 @@ Notifikimet në zbatim të marrëveshjeve, për barrierat teknike në tregti dhe
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-789` (tags `vendim-2009-789/<day>`; `python tools/on.py <day> vendim-2009-789`).
+Act id: `vendim-2009-789` (tags `vendim-2009-789/<day>`; `python registry/tools/on.py <day> vendim-2009-789`).
 
 ## Decisions made by hand
 

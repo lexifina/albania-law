@@ -13,7 +13,7 @@ Miratimin e strukturës së vitit shkollor 2025-2026 në sistemin arsimor paraun
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0422-156` (tags `urdher-2025-0422-156/<day>`; `python tools/on.py <day> urdher-2025-0422-156`).
+Act id: `urdher-2025-0422-156` (tags `urdher-2025-0422-156/<day>`; `python registry/tools/on.py <day> urdher-2025-0422-156`).
 
 ## Decisions made by hand
 

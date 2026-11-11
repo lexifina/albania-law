@@ -20,7 +20,7 @@ Miratimin e procedurave që ndiqen për financimin e projekteve artistike e kult
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-323` (tags `vendim-2026-323/<day>`; `python tools/on.py <day> vendim-2026-323`).
+Act id: `vendim-2026-323` (tags `vendim-2026-323/<day>`; `python registry/tools/on.py <day> vendim-2026-323`).
 
 ## Decisions made by hand
 

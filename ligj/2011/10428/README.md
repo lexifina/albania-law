@@ -112,7 +112,7 @@ Të drejtën Ndërkombëtare private · 1 versions, from 2011-07-02 (latest in f
 | Seksioni II | [seksioni-02-3.md](seksioni-02-3.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10428-2011` (tags `ligji-10428-2011/<day>`; `python tools/on.py <day> ligji-10428-2011`).
+Act id: `ligji-10428-2011` (tags `ligji-10428-2011/<day>`; `python registry/tools/on.py <day> ligji-10428-2011`).
 
 ## Decisions made by hand
 

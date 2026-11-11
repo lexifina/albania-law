@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Petraq Panajot Stefa · 1 ve
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1062` (tags `vendim-2020-1062/<day>`; `python tools/on.py <day> vendim-2020-1062`).
+Act id: `vendim-2020-1062` (tags `vendim-2020-1062/<day>`; `python registry/tools/on.py <day> vendim-2020-1062`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,7 @@ Trajtimin financiar dhe ekonomik të punonjësve të Policisë së Shtetit, të 
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-451` (tags `vendim-2025-451/<day>`; `python tools/on.py <day> vendim-2025-451`).
+Act id: `vendim-2025-451` (tags `vendim-2025-451/<day>`; `python registry/tools/on.py <day> vendim-2025-451`).
 
 ## Decisions made by hand
 

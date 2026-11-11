@@ -10,7 +10,7 @@ Miratimin e Strategjisë Kombëtare të Shëndetësisë 2021-2030 · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-210` (tags `vendim-2022-210/<day>`; `python tools/on.py <day> vendim-2022-210`).
+Act id: `vendim-2022-210` (tags `vendim-2022-210/<day>`; `python registry/tools/on.py <day> vendim-2022-210`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Mënyrën e verifikimit apo të shqyrtimit të vlefshmërisë ligjore të krijim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0113-1` (tags `udhezim-2010-0113-1/<day>`; `python tools/on.py <day> udhezim-2010-0113-1`).
+Act id: `udhezim-2010-0113-1` (tags `udhezim-2010-0113-1/<day>`; `python registry/tools/on.py <day> udhezim-2010-0113-1`).
 
 ## Decisions made by hand
 

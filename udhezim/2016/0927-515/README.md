@@ -5,7 +5,7 @@ Përpunimin e të dhënave personale nga rojet kufitare · 2 versions, from 2016
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-0927-515` (tags `udhezim-2016-0927-515/<day>`; `python tools/on.py <day> udhezim-2016-0927-515`).
+Act id: `udhezim-2016-0927-515` (tags `udhezim-2016-0927-515/<day>`; `python registry/tools/on.py <day> udhezim-2016-0927-515`).
 
 ## Decisions made by hand
 

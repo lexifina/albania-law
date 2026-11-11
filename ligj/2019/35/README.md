@@ -11,7 +11,7 @@ Ratifikimin e marrëveshjes me shkëmbim notash ndërmjet Republikës së Shqip�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2019-35` (tags `ligj-2019-35/<day>`; `python tools/on.py <day> ligj-2019-35`).
+Act id: `ligj-2019-35` (tags `ligj-2019-35/<day>`; `python registry/tools/on.py <day> ligj-2019-35`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Trajtimin financiar, suplementar të punonjësve që kanë punuar në miniera n�
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-29` (tags `ligj-2019-29/<day>`; `python tools/on.py <day> ligj-2019-29`).
+Act id: `ligj-2019-29` (tags `ligj-2019-29/<day>`; `python registry/tools/on.py <day> ligj-2019-29`).
 
 ## Decisions made by hand
 

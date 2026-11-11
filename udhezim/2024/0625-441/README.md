@@ -17,7 +17,7 @@ Përcaktimin e kushteve të përgjithshme të anëtarëve të grupeve teknike t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0625-441` (tags `udhezim-2024-0625-441/<day>`; `python tools/on.py <day> udhezim-2024-0625-441`).
+Act id: `udhezim-2024-0625-441` (tags `udhezim-2024-0625-441/<day>`; `python registry/tools/on.py <day> udhezim-2024-0625-441`).
 
 ## Decisions made by hand
 

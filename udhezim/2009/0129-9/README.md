@@ -16,7 +16,7 @@ Mbi zbatimin e vendimit të këshillit të ministrave nr.52, datë 14.1.2009 ”
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0129-9` (tags `udhezim-2009-0129-9/<day>`; `python tools/on.py <day> udhezim-2009-0129-9`).
+Act id: `udhezim-2009-0129-9` (tags `udhezim-2009-0129-9/<day>`; `python registry/tools/on.py <day> udhezim-2009-0129-9`).
 
 ## Decisions made by hand
 

@@ -74,7 +74,7 @@ Profesionin e avokatit në republikën e shqipërisë · 1 versions, from 2018-0
 | Neni 59 | [neni-059.md](neni-059.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-55-2018` (tags `ligji-55-2018/<day>`; `python tools/on.py <day> ligji-55-2018`).
+Act id: `ligji-55-2018` (tags `ligji-55-2018/<day>`; `python registry/tools/on.py <day> ligji-55-2018`).
 
 ## Decisions made by hand
 

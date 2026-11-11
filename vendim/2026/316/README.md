@@ -10,7 +10,7 @@ Miratimin e metodologjisë së vlerësimit të profilit të rrezikut të furnito
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-316` (tags `vendim-2026-316/<day>`; `python tools/on.py <day> vendim-2026-316`).
+Act id: `vendim-2026-316` (tags `vendim-2026-316/<day>`; `python registry/tools/on.py <day> vendim-2026-316`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e strukturës dhe të organikës së agjencisë së auditimit të prog
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2024-11-01 |
 
-Act id: `vendim-2017-639` (tags `vendim-2017-639/<day>`; `python tools/on.py <day> vendim-2017-639`).
+Act id: `vendim-2017-639` (tags `vendim-2017-639/<day>`; `python registry/tools/on.py <day> vendim-2017-639`).
 
 ## Decisions made by hand
 

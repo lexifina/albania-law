@@ -14,7 +14,7 @@ Përbërjen, organizimin dhe funksionimin e Bordit për Informacionin Gjeohapës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2013-0725-87` (tags `urdher-2013-0725-87/<day>`; `python tools/on.py <day> urdher-2013-0725-87`).
+Act id: `urdher-2013-0725-87` (tags `urdher-2013-0725-87/<day>`; `python registry/tools/on.py <day> urdher-2013-0725-87`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së barnave që rimbursohen nga instituti i sigurimeve të k
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-471` (tags `vendim-2012-471/<day>`; `python tools/on.py <day> vendim-2012-471`).
+Act id: `vendim-2012-471` (tags `vendim-2012-471/<day>`; `python registry/tools/on.py <day> vendim-2012-471`).
 
 ## Decisions made by hand
 

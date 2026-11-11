@@ -5,7 +5,7 @@ Caktimin e fushës së përgjegjësisë dhe delegimit të kompetencave të zeven
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-1028-922` (tags `urdher-2024-1028-922/<day>`; `python tools/on.py <day> urdher-2024-1028-922`).
+Act id: `urdher-2024-1028-922` (tags `urdher-2024-1028-922/<day>`; `python registry/tools/on.py <day> urdher-2024-1028-922`).
 
 ## Decisions made by hand
 

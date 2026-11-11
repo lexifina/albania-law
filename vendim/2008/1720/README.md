@@ -5,7 +5,7 @@ PËR kriteret E PËRCAKTIMIt TË NIVELIT TË LARTË SPORTIV, PËR MËNYRËN E SH
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1720` (tags `vendim-2008-1720/<day>`; `python tools/on.py <day> vendim-2008-1720`).
+Act id: `vendim-2008-1720` (tags `vendim-2008-1720/<day>`; `python registry/tools/on.py <day> vendim-2008-1720`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e planit strategjik për reformimin e sektorit të energjisë në shqi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-742` (tags `vendim-2018-742/<day>`; `python tools/on.py <day> vendim-2018-742`).
+Act id: `vendim-2018-742` (tags `vendim-2018-742/<day>`; `python registry/tools/on.py <day> vendim-2018-742`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Rregullat, procedurat dhe veprimet konkrete të autoriteteve të pushtetit qendr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0731-584` (tags `udhezim-2019-0731-584/<day>`; `python tools/on.py <day> udhezim-2019-0731-584`).
+Act id: `udhezim-2019-0731-584` (tags `udhezim-2019-0731-584/<day>`; `python registry/tools/on.py <day> udhezim-2019-0731-584`).
 
 ## Decisions made by hand
 

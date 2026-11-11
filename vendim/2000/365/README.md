@@ -19,7 +19,7 @@ Trajtimin e punonjësve që shkurtohen nga ristrukturimi i industrisë së bakri
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-365` (tags `vendim-2000-365/<day>`; `python tools/on.py <day> vendim-2000-365`).
+Act id: `vendim-2000-365` (tags `vendim-2000-365/<day>`; `python registry/tools/on.py <day> vendim-2000-365`).
 
 ## Decisions made by hand
 

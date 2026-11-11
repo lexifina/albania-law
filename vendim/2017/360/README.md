@@ -5,7 +5,7 @@ PËR MIRATIMIN E RREGULLORES “PËR ORGANIZIMIN DHE FUNKSIONIMIN E DREJTORISË 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-360` (tags `vendim-2017-360/<day>`; `python tools/on.py <day> vendim-2017-360`).
+Act id: `vendim-2017-360` (tags `vendim-2017-360/<day>`; `python registry/tools/on.py <day> vendim-2017-360`).
 
 ## Decisions made by hand
 

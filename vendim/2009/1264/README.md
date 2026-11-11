@@ -5,7 +5,7 @@ Krijimin dhe funksionimin e qendrës së trajnimit të administratës tatimore d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1264` (tags `vendim-2009-1264/<day>`; `python tools/on.py <day> vendim-2009-1264`).
+Act id: `vendim-2009-1264` (tags `vendim-2009-1264/<day>`; `python registry/tools/on.py <day> vendim-2009-1264`).
 
 ## Decisions made by hand
 

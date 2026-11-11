@@ -12,7 +12,7 @@ Kalimin, në pronësi të Bashkisë Tiranë, të pasurisë nr.1/241, të llojit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-495` (tags `vendim-2021-495/<day>`; `python tools/on.py <day> vendim-2021-495`).
+Act id: `vendim-2021-495` (tags `vendim-2021-495/<day>`; `python registry/tools/on.py <day> vendim-2021-495`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Përcaktimin e vlerës së tarifave dhe pagesave, masës së penaliteteve, si dh
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-5` (tags `vendim-2023-5/<day>`; `python tools/on.py <day> vendim-2023-5`).
+Act id: `vendim-2023-5` (tags `vendim-2023-5/<day>`; `python registry/tools/on.py <day> vendim-2023-5`).
 
 ## Decisions made by hand
 

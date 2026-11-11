@@ -9,7 +9,7 @@ Miratimin e ndryshimit të marrëveshjes së themelimit të bankës europiane p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-60` (tags `vendim-2005-60/<day>`; `python tools/on.py <day> vendim-2005-60`).
+Act id: `vendim-2005-60` (tags `vendim-2005-60/<day>`; `python registry/tools/on.py <day> vendim-2005-60`).
 
 ## Decisions made by hand
 

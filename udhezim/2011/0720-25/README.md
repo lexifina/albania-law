@@ -26,7 +26,15 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me k
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0720-25` (tags `udhezim-2011-0720-25/<day>`; `python tools/on.py <day> udhezim-2011-0720-25`).
+Act id: `udhezim-2011-0720-25` (tags `udhezim-2011-0720-25/<day>`; `python registry/tools/on.py <day> udhezim-2011-0720-25`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 36, datë 9.9.2011 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 13753]: për NJë NDRYSHIM Në UDHëZIMIN NR.25, DATë 20.7.2011 “PëR PROCEDURAT e PRANIMIT DHE Të REGJISTRIMIT Në CIKLIN e PARë Të STUDIMEVE ME KOHë Të PLOTë Në INSTITUCIONET PUBLIKE Të ARSIMIT Të LARTë PëR VITIN AKADEMIK 2011-2012”](https://qbz.gov.al/eli/udhezim/2011/09/09/36)
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ PËR MIRATIMIN E LISTËS SË OFERTUESVE DHE SHPALLJEN E FITUESIT, NË TENDERIN E
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-840` (tags `vendim-2003-840/<day>`; `python tools/on.py <day> vendim-2003-840`).
+Act id: `vendim-2003-840` (tags `vendim-2003-840/<day>`; `python registry/tools/on.py <day> vendim-2003-840`).
 
 ## Decisions made by hand
 

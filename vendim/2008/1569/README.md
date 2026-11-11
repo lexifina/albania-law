@@ -5,7 +5,7 @@ Miratimi e listës së mallrave ushtarake dhe të listës së mallrave e teknolo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1569` (tags `vendim-2008-1569/<day>`; `python tools/on.py <day> vendim-2008-1569`).
+Act id: `vendim-2008-1569` (tags `vendim-2008-1569/<day>`; `python registry/tools/on.py <day> vendim-2008-1569`).
 
 ## Decisions made by hand
 

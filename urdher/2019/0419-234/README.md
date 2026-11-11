@@ -14,7 +14,7 @@ Miratimin e strukturës dhe të organikës së zyrave vendore të arsimit paraun
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2022-06-06 |
 
-Act id: `urdher-2019-0419-234` (tags `urdher-2019-0419-234/<day>`; `python tools/on.py <day> urdher-2019-0419-234`).
+Act id: `urdher-2019-0419-234` (tags `urdher-2019-0419-234/<day>`; `python registry/tools/on.py <day> urdher-2019-0419-234`).
 
 ## Decisions made by hand
 

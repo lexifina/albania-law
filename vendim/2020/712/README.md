@@ -10,7 +10,7 @@ Transferimin në pronësi të Bashkisë Tiranë, të Njësisë Administrative Ti
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-712` (tags `vendim-2020-712/<day>`; `python tools/on.py <day> vendim-2020-712`).
+Act id: `vendim-2020-712` (tags `vendim-2020-712/<day>`; `python registry/tools/on.py <day> vendim-2020-712`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Mbi bashkëpunimin ndërmjet organeve tatimore qendrore dhe organeve të pushtet
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-0227-4` (tags `udhezim-2006-0227-4/<day>`; `python tools/on.py <day> udhezim-2006-0227-4`).
+Act id: `udhezim-2006-0227-4` (tags `udhezim-2006-0227-4/<day>`; `python registry/tools/on.py <day> udhezim-2006-0227-4`).
 
 ## Decisions made by hand
 

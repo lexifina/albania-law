@@ -11,7 +11,7 @@ Përcaktimin e tarifave për shërbimet e Komitetit Shqiptar të Birësimeve · 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0429-383` (tags `udhezim-2013-0429-383/<day>`; `python tools/on.py <day> udhezim-2013-0429-383`).
+Act id: `udhezim-2013-0429-383` (tags `udhezim-2013-0429-383/<day>`; `python registry/tools/on.py <day> udhezim-2013-0429-383`).
 
 ## Decisions made by hand
 

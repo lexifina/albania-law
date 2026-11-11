@@ -5,7 +5,7 @@ Disa mbrojtëse ndaj sëmundjes së murtajës afrikane të derrave të shfaqur s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-1104-909` (tags `urdher-2024-1104-909/<day>`; `python tools/on.py <day> urdher-2024-1104-909`).
+Act id: `urdher-2024-1104-909` (tags `urdher-2024-1104-909/<day>`; `python registry/tools/on.py <day> urdher-2024-1104-909`).
 
 ## Decisions made by hand
 

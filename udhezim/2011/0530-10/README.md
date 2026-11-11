@@ -32,7 +32,7 @@ Miratimin e tipit të traktorëve bujqësorë ose të pylltarisë, rimorkiove dh
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0530-10` (tags `udhezim-2011-0530-10/<day>`; `python tools/on.py <day> udhezim-2011-0530-10`).
+Act id: `udhezim-2011-0530-10` (tags `udhezim-2011-0530-10/<day>`; `python registry/tools/on.py <day> udhezim-2011-0530-10`).
 
 ## Decisions made by hand
 

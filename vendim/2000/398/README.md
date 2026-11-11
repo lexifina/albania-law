@@ -11,7 +11,7 @@ Përjashtim të shoqërive huamarrëse nga pagesat e prapambetura të qirasë s�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-398` (tags `vendim-2000-398/<day>`; `python tools/on.py <day> vendim-2000-398`).
+Act id: `vendim-2000-398` (tags `vendim-2000-398/<day>`; `python registry/tools/on.py <day> vendim-2000-398`).
 
 ## Decisions made by hand
 

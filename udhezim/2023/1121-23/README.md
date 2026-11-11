@@ -10,7 +10,7 @@ Përcaktimin e veprave penale që përbëjnë ndalim për të punuar në sistemi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1121-23` (tags `udhezim-2023-1121-23/<day>`; `python tools/on.py <day> udhezim-2023-1121-23`).
+Act id: `udhezim-2023-1121-23` (tags `udhezim-2023-1121-23/<day>`; `python registry/tools/on.py <day> udhezim-2023-1121-23`).
 
 ## Decisions made by hand
 

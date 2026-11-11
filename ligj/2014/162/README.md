@@ -38,7 +38,7 @@ Mbrojtjen e cilësisë së ajrit në mjedis · 4 versions, from 2017-12-30 (late
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-162` (tags `ligj-2014-162/<day>`; `python tools/on.py <day> ligj-2014-162`).
+Act id: `ligj-2014-162` (tags `ligj-2014-162/<day>`; `python registry/tools/on.py <day> ligj-2014-162`).
 
 ## Decisions made by hand
 

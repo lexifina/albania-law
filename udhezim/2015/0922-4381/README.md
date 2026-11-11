@@ -11,7 +11,7 @@ Transformimin e koordinatave nga korniza referuese gjeodezike globale “ITRF 20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0922-4381` (tags `udhezim-2015-0922-4381/<day>`; `python tools/on.py <day> udhezim-2015-0922-4381`).
+Act id: `udhezim-2015-0922-4381` (tags `udhezim-2015-0922-4381/<day>`; `python registry/tools/on.py <day> udhezim-2015-0922-4381`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, mate
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0622-375` (tags `urdher-2023-0622-375/<day>`; `python tools/on.py <day> urdher-2023-0622-375`).
+Act id: `urdher-2023-0622-375` (tags `urdher-2023-0622-375/<day>`; `python registry/tools/on.py <day> urdher-2023-0622-375`).
 
 ## Decisions made by hand
 

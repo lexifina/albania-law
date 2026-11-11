@@ -5,7 +5,7 @@ Marrjen dhe bashkërendimin e masave për garantimin e rendit, rritjen e siguris
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0608-243` (tags `udhezim-2011-0608-243/<day>`; `python tools/on.py <day> udhezim-2011-0608-243`).
+Act id: `udhezim-2011-0608-243` (tags `udhezim-2011-0608-243/<day>`; `python registry/tools/on.py <day> udhezim-2011-0608-243`).
 
 ## Decisions made by hand
 

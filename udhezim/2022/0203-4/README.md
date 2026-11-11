@@ -24,7 +24,7 @@ Programin, trajnimin, testimin dhe lëshimin e certifikatës për drejtuesit e m
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0203-4` (tags `udhezim-2022-0203-4/<day>`; `python tools/on.py <day> udhezim-2022-0203-4`).
+Act id: `udhezim-2022-0203-4` (tags `udhezim-2022-0203-4/<day>`; `python registry/tools/on.py <day> udhezim-2022-0203-4`).
 
 ## Decisions made by hand
 

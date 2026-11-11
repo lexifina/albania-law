@@ -16,7 +16,7 @@ Pjesëmarrjen e Republikës së Shqipërisë, me punonjës të Policisë së Sht
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-486` (tags `vendim-2013-486/<day>`; `python tools/on.py <day> vendim-2013-486`).
+Act id: `vendim-2013-486` (tags `vendim-2013-486/<day>`; `python registry/tools/on.py <day> vendim-2013-486`).
 
 ## Decisions made by hand
 

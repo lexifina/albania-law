@@ -14,7 +14,7 @@ Përcaktimin e kritereve për ndarjen e shkeljeve me pasoja të lehta apo me pas
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-558` (tags `vendim-2022-558/<day>`; `python tools/on.py <day> vendim-2022-558`).
+Act id: `vendim-2022-558` (tags `vendim-2022-558/<day>`; `python registry/tools/on.py <day> vendim-2022-558`).
 
 ## Decisions made by hand
 

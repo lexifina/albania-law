@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e Agjencisë së Menaxhimit të Qendrave 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-814` (tags `vendim-2015-814/<day>`; `python tools/on.py <day> vendim-2015-814`).
+Act id: `vendim-2015-814` (tags `vendim-2015-814/<day>`; `python registry/tools/on.py <day> vendim-2015-814`).
 
 ## Decisions made by hand
 

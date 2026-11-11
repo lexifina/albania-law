@@ -16,7 +16,7 @@ Shpalljen e ”Zonës së Teknologjisë dhe Zhvillimit Ekonomik” dhe zhvillues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-717` (tags `vendim-2022-717/<day>`; `python tools/on.py <day> vendim-2022-717`).
+Act id: `vendim-2022-717` (tags `vendim-2022-717/<day>`; `python registry/tools/on.py <day> vendim-2022-717`).
 
 ## Decisions made by hand
 

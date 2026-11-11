@@ -9,7 +9,7 @@ Shpalljen e ndryshimeve të Standardit Kombëtar të Kontabilitetit nr.15 ”Pë
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0613-165` (tags `urdher-2022-0613-165/<day>`; `python tools/on.py <day> urdher-2022-0613-165`).
+Act id: `urdher-2022-0613-165` (tags `urdher-2022-0613-165/<day>`; `python registry/tools/on.py <day> urdher-2022-0613-165`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores që përcakton rregullat e përbashkëta mbi menaxhimin 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-1014-281` (tags `urdher-2014-1014-281/<day>`; `python tools/on.py <day> urdher-2014-1014-281`).
+Act id: `urdher-2014-1014-281` (tags `urdher-2014-1014-281/<day>`; `python registry/tools/on.py <day> urdher-2014-1014-281`).
 
 ## Decisions made by hand
 

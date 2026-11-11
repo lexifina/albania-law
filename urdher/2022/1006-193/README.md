@@ -10,7 +10,18 @@ Delegimin e kompetencave · 1 versions, from 2022-10-12 (latest in force: 2022-1
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-1006-193` (tags `urdher-2022-1006-193/<day>`; `python tools/on.py <day> urdher-2022-1006-193`).
+Act id: `urdher-2022-1006-193` (tags `urdher-2022-1006-193/<day>`; `python registry/tools/on.py <day> urdher-2022-1006-193`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 40, datë 12.3.2025 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 30048]: Për miratimin e rregulloreve mbi rregullat e detajuara për cetifikimin dhe deklarimin e sistemeve të menaxhimit të trafikut ajror/shërbimeve të lundrimit ajror dhe mbi përcaktmin e kërkesave teknike dhe procedurave administrative për miratimin e organizatave të përfshira në projektimin ose prodhimin e sistemeve dhe përbërësve të menaxhimit të trafikut ajror/shërbimeve të lundrimit ajror](https://qbz.gov.al/eli/urdher/2025/03/12/40)
+- [Urdhri nr. 85, datë 25.3.2026 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 32803]: Për miratimin e rregulloreve për përcaktimin e rregullave për zbatimin e vendimit të Këshillit të Ministrave nr. 1095, datë 24.12.2020, ”Për miratimin e kërkesave thelbësore në fushën e Aviacionit Civil”, i ndryshuar, në lidhje me menaxhimin e rreziqeve të sigurisë së informacionit me një ndikim të mundshëm në sigurinë në operim](https://qbz.gov.al/eli/urdher/2026/03/25/85)
+- [Urdhri nr. 115, datë 11.5.2026 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 33338]: Për disa shtesa dhe ndryshime në urdhrin nr. 193, datë 6.10.2022, ”Për miratimin e rregullores për përcaktimin e kërkesave të përbashkëta për ofruesit e shërbimeve të menaxhimit të trafikut ajror dhe të lundrimit ajror, si dhe funksionet e tjera të rrjetit të menaxhimit të trafikut ajror dhe mbikëqyrjen e tyre”, i ndryshuar](https://qbz.gov.al/eli/urdher/2026/05/11/115)
+- [Urdhri nr. 181, datë 6.8.2024 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 54598]: Për disa shtesa dhe ndryshime në urdhrin nr. 193, datë 6.10.2022 ”Për miratimin e rregullores për përcaktimin e kërkesave të përbashkëta për ofruesit e shërbimeve të menaxhimit të trafikut ajror dhe të lundrimit ajror, si dhe funksionet e tjera të rrjetit të menaxhimit të trafikut ajror dhe mbikëqyrjen e tyre”](https://qbz.gov.al/eli/urdher/2024/08/06/181)
 
 ## Decisions made by hand
 

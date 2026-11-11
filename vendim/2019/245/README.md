@@ -5,7 +5,7 @@ Miratimin e strukturës dhe të niveleve të pagave e të shtesave mbi pagë të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-245` (tags `vendim-2019-245/<day>`; `python tools/on.py <day> vendim-2019-245`).
+Act id: `vendim-2019-245` (tags `vendim-2019-245/<day>`; `python registry/tools/on.py <day> vendim-2019-245`).
 
 ## Decisions made by hand
 

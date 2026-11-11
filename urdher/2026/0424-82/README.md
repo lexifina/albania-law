@@ -12,7 +12,7 @@ Delegimin e kompetencës zëvendësministrit për nënshkrimin e marrëveshjes s
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0424-82` (tags `urdher-2026-0424-82/<day>`; `python tools/on.py <day> urdher-2026-0424-82`).
+Act id: `urdher-2026-0424-82` (tags `urdher-2026-0424-82/<day>`; `python registry/tools/on.py <day> urdher-2026-0424-82`).
 
 ## Decisions made by hand
 

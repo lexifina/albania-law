@@ -14,7 +14,7 @@ Caktimin e masave zbatuese për produkte të caktuara në udhëzimin nr. 23, dat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-1111-14` (tags `udhezim-2020-1111-14/<day>`; `python tools/on.py <day> udhezim-2020-1111-14`).
+Act id: `udhezim-2020-1111-14` (tags `udhezim-2020-1111-14/<day>`; `python registry/tools/on.py <day> udhezim-2020-1111-14`).
 
 ## Decisions made by hand
 

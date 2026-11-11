@@ -69,7 +69,7 @@ Shërbimet e kujdesit shoqëror në republikën e shqipërisë · 2 versions, fr
 | Neni 54 | [neni-054.md](neni-054.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-121` (tags `ligj-2016-121/<day>`; `python tools/on.py <day> ligj-2016-121`).
+Act id: `ligj-2016-121` (tags `ligj-2016-121/<day>`; `python registry/tools/on.py <day> ligj-2016-121`).
 
 ## Decisions made by hand
 

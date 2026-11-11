@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në shtojcën “a” të konventës pë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9300` (tags `ligj-2004-9300/<day>`; `python tools/on.py <day> ligj-2004-9300`).
+Act id: `ligj-2004-9300` (tags `ligj-2004-9300/<day>`; `python registry/tools/on.py <day> ligj-2004-9300`).
 
 ## Decisions made by hand
 

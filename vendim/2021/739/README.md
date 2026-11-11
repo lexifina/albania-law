@@ -21,7 +21,7 @@ Organizimin dhe funksionimin e autoritetit kombëtar të investigimit për sigur
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-739` (tags `vendim-2021-739/<day>`; `python tools/on.py <day> vendim-2021-739`).
+Act id: `vendim-2021-739` (tags `vendim-2021-739/<day>`; `python registry/tools/on.py <day> vendim-2021-739`).
 
 ## Decisions made by hand
 

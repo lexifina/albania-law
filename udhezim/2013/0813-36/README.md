@@ -20,7 +20,7 @@ Procedurat për arsimimin e fëmijëve të ngujuar · 1 versions, from 2013-08-2
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0813-36` (tags `udhezim-2013-0813-36/<day>`; `python tools/on.py <day> udhezim-2013-0813-36`).
+Act id: `udhezim-2013-0813-36` (tags `udhezim-2013-0813-36/<day>`; `python registry/tools/on.py <day> udhezim-2013-0813-36`).
 
 ## Decisions made by hand
 

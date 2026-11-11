@@ -33,7 +33,7 @@ Përcaktimin e rregullave, të kategorive prioritare, masës së përfitimit, au
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-02-02 |
 
-Act id: `vendim-2019-904` (tags `vendim-2019-904/<day>`; `python tools/on.py <day> vendim-2019-904`).
+Act id: `vendim-2019-904` (tags `vendim-2019-904/<day>`; `python registry/tools/on.py <day> vendim-2019-904`).
 
 ## Decisions made by hand
 

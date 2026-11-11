@@ -53,7 +53,7 @@ Marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së lij
 | Pika 46 | [pika-046.md](pika-046.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0923-974` (tags `urdher-2026-0923-974/<day>`; `python tools/on.py <day> urdher-2026-0923-974`).
+Act id: `urdher-2026-0923-974` (tags `urdher-2026-0923-974/<day>`; `python registry/tools/on.py <day> urdher-2026-0923-974`).
 
 ## Decisions made by hand
 

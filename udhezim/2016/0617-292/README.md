@@ -13,7 +13,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr. 687, datë 5.12.2013, “për mëny
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0617-292` (tags `udhezim-2016-0617-292/<day>`; `python tools/on.py <day> udhezim-2016-0617-292`).
+Act id: `udhezim-2016-0617-292` (tags `udhezim-2016-0617-292/<day>`; `python registry/tools/on.py <day> udhezim-2016-0617-292`).
 
 ## Decisions made by hand
 

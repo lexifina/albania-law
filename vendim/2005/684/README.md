@@ -14,7 +14,7 @@ Shpalljen e zonës shqiptare të liqenit të Shkodrës “Rezervat natyror i men
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-684` (tags `vendim-2005-684/<day>`; `python tools/on.py <day> vendim-2005-684`).
+Act id: `vendim-2005-684` (tags `vendim-2005-684/<day>`; `python registry/tools/on.py <day> vendim-2005-684`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Pagesën nga fondet e insig-sha të shpenzimeve që do të bëhen nga ifc-ja dhe
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-378` (tags `vendim-2003-378/<day>`; `python tools/on.py <day> vendim-2003-378`).
+Act id: `vendim-2003-378` (tags `vendim-2003-378/<day>`; `python registry/tools/on.py <day> vendim-2003-378`).
 
 ## Decisions made by hand
 

@@ -45,7 +45,7 @@ Përcaktimin e rregullave dhe procedurave për funksionimin e brendshëm të Agj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-1005-13` (tags `udhezim-2020-1005-13/<day>`; `python tools/on.py <day> udhezim-2020-1005-13`).
+Act id: `udhezim-2020-1005-13` (tags `udhezim-2020-1005-13/<day>`; `python registry/tools/on.py <day> udhezim-2020-1005-13`).
 
 ## Decisions made by hand
 

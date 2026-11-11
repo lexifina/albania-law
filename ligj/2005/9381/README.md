@@ -18,7 +18,7 @@ Kompensimin e burgimit të padrejtë · 1 versions, from 2005-06-14 (latest in f
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9381-2005` (tags `ligji-9381-2005/<day>`; `python tools/on.py <day> ligji-9381-2005`).
+Act id: `ligji-9381-2005` (tags `ligji-9381-2005/<day>`; `python registry/tools/on.py <day> ligji-9381-2005`).
 
 ## Decisions made by hand
 

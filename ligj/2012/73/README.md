@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes ndryshuese nr. 2 në marrëveshjen e huas ndërmjet 
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-73` (tags `ligj-2012-73/<day>`; `python tools/on.py <day> ligj-2012-73`).
+Act id: `ligj-2012-73` (tags `ligj-2012-73/<day>`; `python registry/tools/on.py <day> ligj-2012-73`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores për kriteret dhe procedurat e licencimit të ekuipazhit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0323-35` (tags `urdher-2012-0323-35/<day>`; `python tools/on.py <day> urdher-2012-0323-35`).
+Act id: `urdher-2012-0323-35` (tags `urdher-2012-0323-35/<day>`; `python registry/tools/on.py <day> urdher-2012-0323-35`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Përcaktimin e procedurave për dhënien e licencave për prodhimin, çaktivizim
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-658` (tags `vendim-2015-658/<day>`; `python tools/on.py <day> vendim-2015-658`).
+Act id: `vendim-2015-658` (tags `vendim-2015-658/<day>`; `python registry/tools/on.py <day> vendim-2015-658`).
 
 ## Decisions made by hand
 

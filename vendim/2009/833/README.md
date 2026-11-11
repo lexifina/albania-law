@@ -5,7 +5,7 @@ Përcaktimin e rregullave për kontratat e përdorimit me Afat të pasurive të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-833` (tags `vendim-2009-833/<day>`; `python tools/on.py <day> vendim-2009-833`).
+Act id: `vendim-2009-833` (tags `vendim-2009-833/<day>`; `python registry/tools/on.py <day> vendim-2009-833`).
 
 ## Decisions made by hand
 

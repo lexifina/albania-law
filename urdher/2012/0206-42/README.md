@@ -13,7 +13,7 @@ Akreditimin institucional dhe të disa programeve të studimit të shkollës “
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0206-42` (tags `urdher-2012-0206-42/<day>`; `python tools/on.py <day> urdher-2012-0206-42`).
+Act id: `urdher-2012-0206-42` (tags `urdher-2012-0206-42/<day>`; `python registry/tools/on.py <day> urdher-2012-0206-42`).
 
 ## Decisions made by hand
 

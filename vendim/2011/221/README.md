@@ -8,7 +8,7 @@ Miratimin e marrëveshjes së financimit dhe projektit, ndërmjet republikës s�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-221` (tags `vendim-2011-221/<day>`; `python tools/on.py <day> vendim-2011-221`).
+Act id: `vendim-2011-221` (tags `vendim-2011-221/<day>`; `python registry/tools/on.py <day> vendim-2011-221`).
 
 ## Decisions made by hand
 

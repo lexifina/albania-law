@@ -18,7 +18,7 @@ PëR KRIJIMIN E NJËSIVE TË TEKNOLOGJISË SË INFORMACIONIT E TË KOMUNIKIMIT N
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-303` (tags `vendim-2011-303/<day>`; `python tools/on.py <day> vendim-2011-303`).
+Act id: `vendim-2011-303` (tags `vendim-2011-303/<day>`; `python registry/tools/on.py <day> vendim-2011-303`).
 
 ## Decisions made by hand
 

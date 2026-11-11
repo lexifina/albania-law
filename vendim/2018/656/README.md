@@ -19,7 +19,7 @@ Përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2022-09-23 |
 
-Act id: `vendim-2018-656` (tags `vendim-2018-656/<day>`; `python tools/on.py <day> vendim-2018-656`).
+Act id: `vendim-2018-656` (tags `vendim-2018-656/<day>`; `python registry/tools/on.py <day> vendim-2018-656`).
 
 ## Decisions made by hand
 

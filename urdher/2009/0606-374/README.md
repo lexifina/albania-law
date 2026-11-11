@@ -10,7 +10,7 @@ Orarin e punës për zyrat e gjendjes civile në bashki/njësi bashkiake/komuna 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2009-0606-374` (tags `urdher-2009-0606-374/<day>`; `python tools/on.py <day> urdher-2009-0606-374`).
+Act id: `urdher-2009-0606-374` (tags `urdher-2009-0606-374/<day>`; `python registry/tools/on.py <day> urdher-2009-0606-374`).
 
 ## Decisions made by hand
 

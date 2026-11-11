@@ -8,7 +8,7 @@ Miratimin e aktit normativ nr. 16, datë 26.10.2022, ”Për miratimin e amendim
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-85` (tags `ligj-2022-85/<day>`; `python tools/on.py <day> ligj-2022-85`).
+Act id: `ligj-2022-85` (tags `ligj-2022-85/<day>`; `python registry/tools/on.py <day> ligj-2022-85`).
 
 ## Decisions made by hand
 

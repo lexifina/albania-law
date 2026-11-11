@@ -9,7 +9,7 @@ PËR MIRATIMIN E MARRëVESHJES, NDëRMJET këSHILLIT Të MINISTRAVE Të REPUBLIK
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-725` (tags `vendim-2011-725/<day>`; `python tools/on.py <day> vendim-2011-725`).
+Act id: `vendim-2011-725` (tags `vendim-2011-725/<day>`; `python registry/tools/on.py <day> vendim-2011-725`).
 
 ## Decisions made by hand
 

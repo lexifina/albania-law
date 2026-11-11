@@ -5,7 +5,7 @@ Dhënie ndihme financiare familjes së inspektorit ervin robert haxhiu, ish-puno
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-894` (tags `vendim-2016-894/<day>`; `python tools/on.py <day> vendim-2016-894`).
+Act id: `vendim-2016-894` (tags `vendim-2016-894/<day>`; `python registry/tools/on.py <day> vendim-2016-894`).
 
 ## Decisions made by hand
 

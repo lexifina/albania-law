@@ -13,7 +13,7 @@ Hapjen e fakultetit të infermierisë në universitetin “aleksandër xhuvani�
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0507-187` (tags `urdher-2012-0507-187/<day>`; `python tools/on.py <day> urdher-2012-0507-187`).
+Act id: `urdher-2012-0507-187` (tags `urdher-2012-0507-187/<day>`; `python registry/tools/on.py <day> urdher-2012-0507-187`).
 
 ## Decisions made by hand
 

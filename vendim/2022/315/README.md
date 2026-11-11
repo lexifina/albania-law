@@ -5,7 +5,7 @@ Përcaktimin e kërkesave dhe kritereve që duhet të plotësojnë startup-et dh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-315` (tags `vendim-2022-315/<day>`; `python tools/on.py <day> vendim-2022-315`).
+Act id: `vendim-2022-315` (tags `vendim-2022-315/<day>`; `python registry/tools/on.py <day> vendim-2022-315`).
 
 ## Decisions made by hand
 

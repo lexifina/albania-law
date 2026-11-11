@@ -10,7 +10,7 @@ PëR NJë SHTESë FONDi Në BUXHETIN E VITIT 2007, MIRATUAR PëR MINISTRINë E S
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-326` (tags `vendim-2007-326/<day>`; `python tools/on.py <day> vendim-2007-326`).
+Act id: `vendim-2007-326` (tags `vendim-2007-326/<day>`; `python registry/tools/on.py <day> vendim-2007-326`).
 
 ## Decisions made by hand
 

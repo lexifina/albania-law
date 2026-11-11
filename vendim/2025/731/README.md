@@ -12,7 +12,7 @@ Kalimin e fondit në kuadër të mbështetjes së veprimtarisë së fondacionit 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-731` (tags `vendim-2025-731/<day>`; `python tools/on.py <day> vendim-2025-731`).
+Act id: `vendim-2025-731` (tags `vendim-2025-731/<day>`; `python registry/tools/on.py <day> vendim-2025-731`).
 
 ## Decisions made by hand
 

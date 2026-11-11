@@ -16,7 +16,7 @@ Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1021-1074` (tags `urdher-2026-1021-1074/<day>`; `python tools/on.py <day> urdher-2026-1021-1074`).
+Act id: `urdher-2026-1021-1074` (tags `urdher-2026-1021-1074/<day>`; `python registry/tools/on.py <day> urdher-2026-1021-1074`).
 
 ## Decisions made by hand
 

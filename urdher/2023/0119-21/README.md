@@ -19,7 +19,7 @@ Një plan menaxhimi shumëvjeçar për peshkimin fundor të qëndrueshëm në de
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-02-17 |
 
-Act id: `urdher-2023-0119-21` (tags `urdher-2023-0119-21/<day>`; `python tools/on.py <day> urdher-2023-0119-21`).
+Act id: `urdher-2023-0119-21` (tags `urdher-2023-0119-21/<day>`; `python registry/tools/on.py <day> urdher-2023-0119-21`).
 
 ## Decisions made by hand
 

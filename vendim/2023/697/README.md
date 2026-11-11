@@ -23,7 +23,7 @@ Krijimin, organizimin dhe funksionimin e Qendrës Rajonale të Inovacionit të I
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-697` (tags `vendim-2023-697/<day>`; `python tools/on.py <day> vendim-2023-697`).
+Act id: `vendim-2023-697` (tags `vendim-2023-697/<day>`; `python registry/tools/on.py <day> vendim-2023-697`).
 
 ## Decisions made by hand
 

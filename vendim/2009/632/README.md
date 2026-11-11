@@ -5,7 +5,7 @@ Miratimin e tarifave të përdorimit të kullotave dhe livadheve për kullotje d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-632` (tags `vendim-2009-632/<day>`; `python tools/on.py <day> vendim-2009-632`).
+Act id: `vendim-2009-632` (tags `vendim-2009-632/<day>`; `python registry/tools/on.py <day> vendim-2009-632`).
 
 ## Decisions made by hand
 

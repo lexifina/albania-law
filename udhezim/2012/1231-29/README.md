@@ -5,7 +5,7 @@ Mënyrat dhe procedurat e raportimit të profesioneve të lira jofinanciare · 3
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-1231-29` (tags `udhezim-2012-1231-29/<day>`; `python tools/on.py <day> udhezim-2012-1231-29`).
+Act id: `udhezim-2012-1231-29` (tags `udhezim-2012-1231-29/<day>`; `python registry/tools/on.py <day> udhezim-2012-1231-29`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e Strategjisë Kombëtare për Kulturën 2026-2030 dhe të planit të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-617` (tags `vendim-2026-617/<day>`; `python tools/on.py <day> vendim-2026-617`).
+Act id: `vendim-2026-617` (tags `vendim-2026-617/<day>`; `python registry/tools/on.py <day> vendim-2026-617`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Dhënien e lejes për hapjen e institucionit arsimor, jopublik, parauniversitar,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-545` (tags `vendim-2005-545/<day>`; `python tools/on.py <day> vendim-2005-545`).
+Act id: `vendim-2005-545` (tags `vendim-2005-545/<day>`; `python registry/tools/on.py <day> vendim-2005-545`).
 
 ## Decisions made by hand
 

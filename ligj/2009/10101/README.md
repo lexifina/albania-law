@@ -28,7 +28,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen ndërmjet palëve t
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 
-Act id: `ligji-10101-2009` (tags `ligji-10101-2009/<day>`; `python tools/on.py <day> ligji-10101-2009`).
+Act id: `ligji-10101-2009` (tags `ligji-10101-2009/<day>`; `python registry/tools/on.py <day> ligji-10101-2009`).
 
 ## Decisions made by hand
 

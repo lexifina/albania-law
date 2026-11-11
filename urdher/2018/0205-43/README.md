@@ -12,7 +12,7 @@ Detyrimin e tregtimit dhe regjistrimit të të gjitha prodhimeve të peshkimit n
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0205-43` (tags `urdher-2018-0205-43/<day>`; `python tools/on.py <day> urdher-2018-0205-43`).
+Act id: `urdher-2018-0205-43` (tags `urdher-2018-0205-43/<day>`; `python registry/tools/on.py <day> urdher-2018-0205-43`).
 
 ## Decisions made by hand
 

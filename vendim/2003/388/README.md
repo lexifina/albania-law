@@ -23,7 +23,7 @@ Ngritjen e komisionit shtetëror për kualifikimin e auditëve të brendshëm n�
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-388` (tags `vendim-2003-388/<day>`; `python tools/on.py <day> vendim-2003-388`).
+Act id: `vendim-2003-388` (tags `vendim-2003-388/<day>`; `python registry/tools/on.py <day> vendim-2003-388`).
 
 ## Decisions made by hand
 

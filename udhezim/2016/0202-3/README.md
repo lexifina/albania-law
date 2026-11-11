@@ -18,7 +18,15 @@ Vërtetimin e kopjes në letër të dokumentit elektronik nëpërmjet vendosjes 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0202-3` (tags `udhezim-2016-0202-3/<day>`; `python tools/on.py <day> udhezim-2016-0202-3`).
+Act id: `udhezim-2016-0202-3` (tags `udhezim-2016-0202-3/<day>`; `python registry/tools/on.py <day> udhezim-2016-0202-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 35-1, datë 7.3.2016 (Kryeministri) [QBZ 65582]: Aneksi nr. 2](https://qbz.gov.al/eli/udhezim/2016/03/07/35-1)
 
 ## Decisions made by hand
 

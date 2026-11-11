@@ -10,7 +10,7 @@ Përdorimin e fondit të rindërtimit për financimin e hartimit të projektit t
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-52` (tags `vendim-2021-52/<day>`; `python tools/on.py <day> vendim-2021-52`).
+Act id: `vendim-2021-52` (tags `vendim-2021-52/<day>`; `python registry/tools/on.py <day> vendim-2021-52`).
 
 ## Decisions made by hand
 

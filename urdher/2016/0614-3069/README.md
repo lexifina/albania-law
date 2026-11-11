@@ -14,7 +14,15 @@ Përcaktimin e tarifave të shërbimeve portuale në portet detare vlorë, saran
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-0614-3069` (tags `urdher-2016-0614-3069/<day>`; `python tools/on.py <day> urdher-2016-0614-3069`).
+Act id: `urdher-2016-0614-3069` (tags `urdher-2016-0614-3069/<day>`; `python registry/tools/on.py <day> urdher-2016-0614-3069`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 6132-1, datë 16.5.2017 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 64443]: Për ndryshimin e urdhrit të përbashkët nr. 3069 datë 14.6.2016 për caktimin e tarifave të shërbimeve portuale në portet detare vlorë, sarandë dhe shëngjin](https://qbz.gov.al/eli/urdher/2017/05/16/6132-1)
 
 ## Decisions made by hand
 

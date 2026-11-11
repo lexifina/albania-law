@@ -20,7 +20,7 @@ Caktimin e komisioneve, për përballimin e shpenzimeve të shqyrtimit dhe korre
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-403` (tags `vendim-2005-403/<day>`; `python tools/on.py <day> vendim-2005-403`).
+Act id: `vendim-2005-403` (tags `vendim-2005-403/<day>`; `python registry/tools/on.py <day> vendim-2005-403`).
 
 ## Decisions made by hand
 

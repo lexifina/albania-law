@@ -5,7 +5,7 @@ Rregullat e prokurimit publik · 2 versions, from 2000-07-18 (latest in force: 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-335` (tags `vendim-2000-335/<day>`; `python tools/on.py <day> vendim-2000-335`).
+Act id: `vendim-2000-335` (tags `vendim-2000-335/<day>`; `python registry/tools/on.py <day> vendim-2000-335`).
 
 ## Decisions made by hand
 

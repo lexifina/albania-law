@@ -21,7 +21,7 @@ Përcaktimin e kritereve për fitimin e gradës shkencore “doktor” dhe të s
 | Pika 13 | [pika-013.md](pika-013.md) | 2 | 2024-03-12 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-112` (tags `vendim-2018-112/<day>`; `python tools/on.py <day> vendim-2018-112`).
+Act id: `vendim-2018-112` (tags `vendim-2018-112/<day>`; `python registry/tools/on.py <day> vendim-2018-112`).
 
 ## Decisions made by hand
 

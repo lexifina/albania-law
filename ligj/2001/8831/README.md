@@ -10,7 +10,7 @@ Pronësinë shtetërore në shoqëritë tregtare financiare me kapital tërësis
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8831` (tags `ligj-2001-8831/<day>`; `python tools/on.py <day> ligj-2001-8831`).
+Act id: `ligj-2001-8831` (tags `ligj-2001-8831/<day>`; `python registry/tools/on.py <day> ligj-2001-8831`).
 
 ## Decisions made by hand
 

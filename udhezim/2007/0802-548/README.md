@@ -5,7 +5,7 @@ Shoqëritë anonime “në likuidim e sipër”, me kapital tërësisht shtetër
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0802-548` (tags `udhezim-2007-0802-548/<day>`; `python tools/on.py <day> udhezim-2007-0802-548`).
+Act id: `udhezim-2007-0802-548` (tags `udhezim-2007-0802-548/<day>`; `python registry/tools/on.py <day> udhezim-2007-0802-548`).
 
 ## Decisions made by hand
 

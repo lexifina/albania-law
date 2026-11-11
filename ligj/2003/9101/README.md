@@ -93,7 +93,7 @@ Ratifikimin e ”marrëveshjes së tregtisë së lirë ndërmjet republikës së
 | Titulli VI | [titulli-06.md](titulli-06.md) | 0 |  |
 | Titulli VII | [titulli-07.md](titulli-07.md) | 0 |  |
 
-Act id: `ligji-9101-2003` (tags `ligji-9101-2003/<day>`; `python tools/on.py <day> ligji-9101-2003`).
+Act id: `ligji-9101-2003` (tags `ligji-9101-2003/<day>`; `python registry/tools/on.py <day> ligji-9101-2003`).
 
 ## Decisions made by hand
 

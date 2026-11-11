@@ -24,7 +24,17 @@ Mbi procedurat e prodhimit, kodimit, stampimit, shpërndarjes dhe monitorimit t�
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0115-2` (tags `udhezim-2013-0115-2/<day>`; `python tools/on.py <day> udhezim-2013-0115-2`).
+Act id: `udhezim-2013-0115-2` (tags `udhezim-2013-0115-2/<day>`; `python registry/tools/on.py <day> udhezim-2013-0115-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 446, datë 12.8.2013 (Ministria e Financave) [QBZ 9890]: Për disa ndryshime në udhëzimin nr. 2, datë 15.1.2013 “Mbi procedurat e prodhimit, kodimit, stampimit, shpërndarjes dhe monitorimit të pullave të kontrollit të barnave”](https://qbz.gov.al/eli/udhezim/2013/08/12/446)
+- [Udhëzimi nr. 585-1, datë 5.12.2013 (Ministria e Financave) [QBZ 10292]: Për disa ndryshime në udhëzimin nr. 2, datë 15.1.2013 “Mbi procedurat e prodhimit, kodimit, stampimit, shpërndarjes dhe monitorimit të pullave të kontrollit të barnave”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2013/12/05/585-1)
+- [Udhëzimi nr. 575, datë 31.12.2014 (Ministria e Financave) [QBZ 56311]: Për disa ndryshime në udhëzimin nr. 2, datë 15.01.2013 “mbi procedurat e prodhimit, kodimit, stampimit, shpërndarjes dhe monitorimit të pullave të kontrollit të barnave”](https://qbz.gov.al/eli/udhezim/2014/12/31/575)
 
 ## Decisions made by hand
 

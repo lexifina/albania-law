@@ -11,7 +11,7 @@ Transferim fondi nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve UNESC
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-853` (tags `vendim-2006-853/<day>`; `python tools/on.py <day> vendim-2006-853`).
+Act id: `vendim-2006-853` (tags `vendim-2006-853/<day>`; `python registry/tools/on.py <day> vendim-2006-853`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë, të
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-85-2015` (tags `ligji-85-2015/<day>`; `python tools/on.py <day> ligji-85-2015`).
+Act id: `ligji-85-2015` (tags `ligji-85-2015/<day>`; `python registry/tools/on.py <day> ligji-85-2015`).
 
 ## Decisions made by hand
 

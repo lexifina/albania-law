@@ -18,7 +18,7 @@ Zhvillimin e vetëvlerësimit në institucionet ofruese të arsimit dhe formimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-02-18 |
 
-Act id: `udhezim-2018-0508-16` (tags `udhezim-2018-0508-16/<day>`; `python tools/on.py <day> udhezim-2018-0508-16`).
+Act id: `udhezim-2018-0508-16` (tags `udhezim-2018-0508-16/<day>`; `python registry/tools/on.py <day> udhezim-2018-0508-16`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Miratimin e projektit për financimin e shërbimit të kujdesit shëndetësor pa
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-811` (tags `vendim-2005-811/<day>`; `python tools/on.py <day> vendim-2005-811`).
+Act id: `vendim-2005-811` (tags `vendim-2005-811/<day>`; `python registry/tools/on.py <day> vendim-2005-811`).
 
 ## Decisions made by hand
 

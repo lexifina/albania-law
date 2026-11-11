@@ -17,7 +17,7 @@ Përcaktimin e kritereve për shtyrjen e afateve të përgatitjes së projekteve
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1213-873` (tags `udhezim-2010-1213-873/<day>`; `python tools/on.py <day> udhezim-2010-1213-873`).
+Act id: `udhezim-2010-1213-873` (tags `udhezim-2010-1213-873/<day>`; `python registry/tools/on.py <day> udhezim-2010-1213-873`).
 
 ## Decisions made by hand
 

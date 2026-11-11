@@ -39,7 +39,7 @@ Mënyrën e emërimit, transferimit dhe lirimit nga detyra të punonjësve të d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0726-560` (tags `udhezim-2024-0726-560/<day>`; `python tools/on.py <day> udhezim-2024-0726-560`).
+Act id: `udhezim-2024-0726-560` (tags `udhezim-2024-0726-560/<day>`; `python registry/tools/on.py <day> udhezim-2024-0726-560`).
 
 ## Decisions made by hand
 

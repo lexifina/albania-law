@@ -5,7 +5,7 @@ Përcaktimin e skemës së duhur për shtypjen e biletave, shpërndarjen dhe kon
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0126-8` (tags `udhezim-2009-0126-8/<day>`; `python tools/on.py <day> udhezim-2009-0126-8`).
+Act id: `udhezim-2009-0126-8` (tags `udhezim-2009-0126-8/<day>`; `python registry/tools/on.py <day> udhezim-2009-0126-8`).
 
 ## Decisions made by hand
 

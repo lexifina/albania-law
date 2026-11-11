@@ -10,7 +10,7 @@ Miratimin e rregullores “për veprimtarinë e standardizimit” · 2 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-11-12 |
 
-Act id: `vendim-2018-382` (tags `vendim-2018-382/<day>`; `python tools/on.py <day> vendim-2018-382`).
+Act id: `vendim-2018-382` (tags `vendim-2018-382/<day>`; `python registry/tools/on.py <day> vendim-2018-382`).
 
 ## Decisions made by hand
 

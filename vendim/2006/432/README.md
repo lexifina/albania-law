@@ -14,7 +14,7 @@ Krijimin dhe administrimin e të ardhurave, që krijojnë institucionet buxhetor
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-432` (tags `vendim-2006-432/<day>`; `python tools/on.py <day> vendim-2006-432`).
+Act id: `vendim-2006-432` (tags `vendim-2006-432/<day>`; `python registry/tools/on.py <day> vendim-2006-432`).
 
 ## Decisions made by hand
 

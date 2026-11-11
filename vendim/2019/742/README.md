@@ -43,7 +43,7 @@ Përcaktimin e rregullave dhe të procedurave të shkatërrimit të produkteve �
 | Pika 35 | [pika-035.md](pika-035.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-742` (tags `vendim-2019-742/<day>`; `python tools/on.py <day> vendim-2019-742`).
+Act id: `vendim-2019-742` (tags `vendim-2019-742/<day>`; `python registry/tools/on.py <day> vendim-2019-742`).
 
 ## Decisions made by hand
 

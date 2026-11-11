@@ -11,7 +11,7 @@ Miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0505-89` (tags `urdher-2022-0505-89/<day>`; `python tools/on.py <day> urdher-2022-0505-89`).
+Act id: `urdher-2022-0505-89` (tags `urdher-2022-0505-89/<day>`; `python registry/tools/on.py <day> urdher-2022-0505-89`).
 
 ## Decisions made by hand
 

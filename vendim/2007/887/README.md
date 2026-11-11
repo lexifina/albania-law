@@ -5,7 +5,7 @@ Miratimin e tarifave të përdorimit të kullotave dhe livadheve shtetërore pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-887` (tags `vendim-2007-887/<day>`; `python tools/on.py <day> vendim-2007-887`).
+Act id: `vendim-2007-887` (tags `vendim-2007-887/<day>`; `python registry/tools/on.py <day> vendim-2007-887`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Përdorimin e fondeve të ish-fondacioneve për ndërtimin e apaRtamenteve për 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-792` (tags `vendim-2003-792/<day>`; `python tools/on.py <day> vendim-2003-792`).
+Act id: `vendim-2003-792` (tags `vendim-2003-792/<day>`; `python registry/tools/on.py <day> vendim-2003-792`).
 
 ## Decisions made by hand
 

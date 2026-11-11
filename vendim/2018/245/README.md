@@ -10,7 +10,7 @@ Përcaktimin e masës së financimit, nga buxheti i vitit 2018, për bashkësit�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-245` (tags `vendim-2018-245/<day>`; `python tools/on.py <day> vendim-2018-245`).
+Act id: `vendim-2018-245` (tags `vendim-2018-245/<day>`; `python registry/tools/on.py <day> vendim-2018-245`).
 
 ## Decisions made by hand
 

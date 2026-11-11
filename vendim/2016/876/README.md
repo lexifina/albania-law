@@ -5,7 +5,7 @@ Miratimin e tarifave të shpenzimeve administrative · 2 versions, from 2016-12-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-876` (tags `vendim-2016-876/<day>`; `python tools/on.py <day> vendim-2016-876`).
+Act id: `vendim-2016-876` (tags `vendim-2016-876/<day>`; `python registry/tools/on.py <day> vendim-2016-876`).
 
 ## Decisions made by hand
 

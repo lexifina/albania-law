@@ -67,7 +67,7 @@ Kontrollin shtetëror të transferimeve ndërkombëtare të mallrave ushtarake d
 | Neni 50 | [neni-050.md](neni-050.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2026-04-11 |
 
-Act id: `ligj-2018-46` (tags `ligj-2018-46/<day>`; `python tools/on.py <day> ligj-2018-46`).
+Act id: `ligj-2018-46` (tags `ligj-2018-46/<day>`; `python registry/tools/on.py <day> ligj-2018-46`).
 
 ## Decisions made by hand
 

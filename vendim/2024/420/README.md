@@ -22,7 +22,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të ushtarakëve aktivë të Forcave të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-02-27 |
 
-Act id: `vendim-2024-420` (tags `vendim-2024-420/<day>`; `python tools/on.py <day> vendim-2024-420`).
+Act id: `vendim-2024-420` (tags `vendim-2024-420/<day>`; `python registry/tools/on.py <day> vendim-2024-420`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Përcaktimin e formatit të licencës për ushtrimin e aktiviteteve të lidhura 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0223-98` (tags `urdher-2024-0223-98/<day>`; `python tools/on.py <day> urdher-2024-0223-98`).
+Act id: `urdher-2024-0223-98` (tags `urdher-2024-0223-98/<day>`; `python registry/tools/on.py <day> urdher-2024-0223-98`).
 
 ## Decisions made by hand
 

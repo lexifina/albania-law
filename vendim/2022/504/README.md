@@ -11,7 +11,7 @@ Kalimin te Fondi Shqiptar i Zhvillimit dhe bashkitë Durrës, Kamzë, Kavajë dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-504` (tags `vendim-2022-504/<day>`; `python tools/on.py <day> vendim-2022-504`).
+Act id: `vendim-2022-504` (tags `vendim-2022-504/<day>`; `python registry/tools/on.py <day> vendim-2022-504`).
 
 ## Decisions made by hand
 

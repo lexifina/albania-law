@@ -12,7 +12,7 @@ Zhvillimin e provimeve të Maturës Shtetërore 2015 · 1 versions, from 2015-05
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0326-8` (tags `udhezim-2015-0326-8/<day>`; `python tools/on.py <day> udhezim-2015-0326-8`).
+Act id: `udhezim-2015-0326-8` (tags `udhezim-2015-0326-8/<day>`; `python registry/tools/on.py <day> udhezim-2015-0326-8`).
 
 ## Decisions made by hand
 

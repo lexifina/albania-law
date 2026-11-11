@@ -5,7 +5,7 @@ Miratimin e strategjisë ushtarake të Republikës së Shqipërisë · 2 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2015-72` (tags `ligj-2015-72/<day>`; `python tools/on.py <day> ligj-2015-72`).
+Act id: `ligj-2015-72` (tags `ligj-2015-72/<day>`; `python registry/tools/on.py <day> ligj-2015-72`).
 
 ## Decisions made by hand
 

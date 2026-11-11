@@ -11,7 +11,7 @@ Kriteret dhe procedurat e dhënies së ndihmës shtetërore financiare për mbul
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-329` (tags `vendim-2012-329/<day>`; `python tools/on.py <day> vendim-2012-329`).
+Act id: `vendim-2012-329` (tags `vendim-2012-329/<day>`; `python registry/tools/on.py <day> vendim-2012-329`).
 
 ## Decisions made by hand
 

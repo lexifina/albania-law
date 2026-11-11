@@ -11,7 +11,7 @@ Miratimin e zonave arkeologjike “a” dhe “b”, të qytetit të durrësit d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-786` (tags `vendim-2018-786/<day>`; `python tools/on.py <day> vendim-2018-786`).
+Act id: `vendim-2018-786` (tags `vendim-2018-786/<day>`; `python registry/tools/on.py <day> vendim-2018-786`).
 
 ## Decisions made by hand
 

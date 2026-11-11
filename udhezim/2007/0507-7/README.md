@@ -11,7 +11,7 @@ PëR PëRDORIMIN E FONDIT Të SHPRONëSIMEVE · 2 versions, from 2007-05-18 (lat
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0507-7` (tags `udhezim-2007-0507-7/<day>`; `python tools/on.py <day> udhezim-2007-0507-7`).
+Act id: `udhezim-2007-0507-7` (tags `udhezim-2007-0507-7/<day>`; `python registry/tools/on.py <day> udhezim-2007-0507-7`).
 
 ## Decisions made by hand
 

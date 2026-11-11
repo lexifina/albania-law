@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së kontributit ndërmjet këshillit të ministra
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9941` (tags `ligj-2008-9941/<day>`; `python tools/on.py <day> ligj-2008-9941`).
+Act id: `ligj-2008-9941` (tags `ligj-2008-9941/<day>`; `python registry/tools/on.py <day> ligj-2008-9941`).
 
 ## Decisions made by hand
 

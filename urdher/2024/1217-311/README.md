@@ -10,7 +10,7 @@ Mbi rregullat dhe standardet e sigurisë në anijet e pasagjerëve · 1 versions
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1217-311` (tags `urdher-2024-1217-311/<day>`; `python tools/on.py <day> urdher-2024-1217-311`).
+Act id: `urdher-2024-1217-311` (tags `urdher-2024-1217-311/<day>`; `python registry/tools/on.py <day> urdher-2024-1217-311`).
 
 ## Decisions made by hand
 

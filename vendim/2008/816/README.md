@@ -12,7 +12,7 @@ Një shtesë në listën e inventarit DHE Për miratimin e listës përfundimtar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-816` (tags `vendim-2008-816/<day>`; `python tools/on.py <day> vendim-2008-816`).
+Act id: `vendim-2008-816` (tags `vendim-2008-816/<day>`; `python registry/tools/on.py <day> vendim-2008-816`).
 
 ## Decisions made by hand
 

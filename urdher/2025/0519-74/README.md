@@ -9,7 +9,7 @@ Shpalljen e përkthimit të Standardit Ndërkombëtar të Raportimit Financiar 1
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0519-74` (tags `urdher-2025-0519-74/<day>`; `python tools/on.py <day> urdher-2025-0519-74`).
+Act id: `urdher-2025-0519-74` (tags `urdher-2025-0519-74/<day>`; `python registry/tools/on.py <day> urdher-2025-0519-74`).
 
 ## Decisions made by hand
 

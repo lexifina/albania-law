@@ -5,7 +5,7 @@ Krijimin e Agjencisë së Auditimit të Programeve të Asistencës, akredituar n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1020` (tags `vendim-2009-1020/<day>`; `python tools/on.py <day> vendim-2009-1020`).
+Act id: `vendim-2009-1020` (tags `vendim-2009-1020/<day>`; `python registry/tools/on.py <day> vendim-2009-1020`).
 
 ## Decisions made by hand
 

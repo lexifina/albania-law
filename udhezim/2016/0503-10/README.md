@@ -12,7 +12,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr. 19, datë 3.11.2014, “për zbatim
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0503-10` (tags `udhezim-2016-0503-10/<day>`; `python tools/on.py <day> udhezim-2016-0503-10`).
+Act id: `udhezim-2016-0503-10` (tags `udhezim-2016-0503-10/<day>`; `python registry/tools/on.py <day> udhezim-2016-0503-10`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-540` (tags `vendim-2012-540/<day>`; `python tools/on.py <day> vendim-2012-540`).
+Act id: `vendim-2012-540` (tags `vendim-2012-540/<day>`; `python registry/tools/on.py <day> vendim-2012-540`).
 
 ## Decisions made by hand
 

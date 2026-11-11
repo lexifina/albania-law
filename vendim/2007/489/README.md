@@ -14,7 +14,7 @@ Fondin e garantimit të kredive të eksportit · 2 versions, from 2007-08-14 (la
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2011-09-02 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-489` (tags `vendim-2007-489/<day>`; `python tools/on.py <day> vendim-2007-489`).
+Act id: `vendim-2007-489` (tags `vendim-2007-489/<day>`; `python registry/tools/on.py <day> vendim-2007-489`).
 
 ## Decisions made by hand
 

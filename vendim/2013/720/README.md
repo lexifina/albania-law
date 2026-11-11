@@ -9,7 +9,7 @@ Lejimin e Shërbimit Informativ të Shtetit, si autoritet kontraktor, për kryer
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-720` (tags `vendim-2013-720/<day>`; `python tools/on.py <day> vendim-2013-720`).
+Act id: `vendim-2013-720` (tags `vendim-2013-720/<day>`; `python registry/tools/on.py <day> vendim-2013-720`).
 
 ## Decisions made by hand
 

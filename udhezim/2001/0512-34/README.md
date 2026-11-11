@@ -15,7 +15,7 @@ PER REGJISTRIMIN E ZGJEDHESVE Në FORCAT E ARMATOSURA DHE NE FORCAT E RENDIT · 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0512-34` (tags `udhezim-2001-0512-34/<day>`; `python tools/on.py <day> udhezim-2001-0512-34`).
+Act id: `udhezim-2001-0512-34` (tags `udhezim-2001-0512-34/<day>`; `python registry/tools/on.py <day> udhezim-2001-0512-34`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e programit ekonomik e fiskal të shqipërisë, 2012-2014 · 1 version
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-105` (tags `vendim-2012-105/<day>`; `python tools/on.py <day> vendim-2012-105`).
+Act id: `vendim-2012-105` (tags `vendim-2012-105/<day>`; `python registry/tools/on.py <day> vendim-2012-105`).
 
 ## Decisions made by hand
 

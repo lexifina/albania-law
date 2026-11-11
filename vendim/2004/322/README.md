@@ -5,7 +5,7 @@ Miratimin e listës së BARNAVE, që rimbursohen nga instituti i sigurimeve të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-322` (tags `vendim-2004-322/<day>`; `python tools/on.py <day> vendim-2004-322`).
+Act id: `vendim-2004-322` (tags `vendim-2004-322/<day>`; `python registry/tools/on.py <day> vendim-2004-322`).
 
 ## Decisions made by hand
 

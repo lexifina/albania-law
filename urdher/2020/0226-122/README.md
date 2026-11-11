@@ -11,7 +11,7 @@ Miratimin e protokolleve për masat ndaj Coronavirus-it nga Qendra Kombëtare e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0226-122` (tags `urdher-2020-0226-122/<day>`; `python tools/on.py <day> urdher-2020-0226-122`).
+Act id: `urdher-2020-0226-122` (tags `urdher-2020-0226-122/<day>`; `python registry/tools/on.py <day> urdher-2020-0226-122`).
 
 ## Decisions made by hand
 

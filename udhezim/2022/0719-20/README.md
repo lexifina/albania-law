@@ -17,7 +17,7 @@ Përcaktimin e lëndëve mësimore që zhvillohen në gjuhën shqipe dhe në gju
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0719-20` (tags `udhezim-2022-0719-20/<day>`; `python tools/on.py <day> udhezim-2022-0719-20`).
+Act id: `udhezim-2022-0719-20` (tags `udhezim-2022-0719-20/<day>`; `python registry/tools/on.py <day> udhezim-2022-0719-20`).
 
 ## Decisions made by hand
 

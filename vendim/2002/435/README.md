@@ -11,7 +11,15 @@ Miratimin e normave të shkarkimeve në ajër në Republikën e Shqipërisë · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-435` (tags `vendim-2002-435/<day>`; `python tools/on.py <day> vendim-2002-435`).
+Act id: `vendim-2002-435` (tags `vendim-2002-435/<day>`; `python registry/tools/on.py <day> vendim-2002-435`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 162/2014: Për mbrojtjen e cilësisë së ajrit në mjedis](https://qbz.gov.al/eli/ligj/2014/12/04/162)
 
 ## Decisions made by hand
 

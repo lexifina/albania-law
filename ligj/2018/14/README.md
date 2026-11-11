@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republik�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-14` (tags `ligj-2018-14/<day>`; `python tools/on.py <day> ligj-2018-14`).
+Act id: `ligj-2018-14` (tags `ligj-2018-14/<day>`; `python registry/tools/on.py <day> ligj-2018-14`).
 
 ## Decisions made by hand
 

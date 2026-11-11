@@ -10,7 +10,7 @@ Një shtesë fondesh në buxhetin e vitit 2018, miratuar për ministrinë e turi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-347` (tags `vendim-2018-347/<day>`; `python tools/on.py <day> vendim-2018-347`).
+Act id: `vendim-2018-347` (tags `vendim-2018-347/<day>`; `python registry/tools/on.py <day> vendim-2018-347`).
 
 ## Decisions made by hand
 

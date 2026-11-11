@@ -9,7 +9,15 @@ Miratimin e kontratës së koncesionit, ndërmjet ministrisë së ekonomisë , t
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1395` (tags `vendim-2008-1395/<day>`; `python tools/on.py <day> vendim-2008-1395`).
+Act id: `vendim-2008-1395` (tags `vendim-2008-1395/<day>`; `python registry/tools/on.py <day> vendim-2008-1395`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 604, datë 10.7.2013: Për miratimin e marrëveshjes shtesë të koncesionit “Për disa ndryshime dhe shtesa në kontratën e koncesionit të formës “BOT” (ndërtim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe bashkimit të përkohshëm të shoqërive “Titan” sh.p.k. dhe “Osmani” sh.p.k., për ndërtimin e hidrocentraleve “Bishnica 1” dhe “Bishnica 2””](https://qbz.gov.al/eli/vendim/2013/07/10/604)
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Përcaktimin e rregullave dhe të standardeve mbi raportimin dhe monitorimin e e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-1212-35` (tags `udhezim-2019-1212-35/<day>`; `python tools/on.py <day> udhezim-2019-1212-35`).
+Act id: `udhezim-2019-1212-35` (tags `udhezim-2019-1212-35/<day>`; `python registry/tools/on.py <day> udhezim-2019-1212-35`).
 
 ## Decisions made by hand
 

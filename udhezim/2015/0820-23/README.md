@@ -5,7 +5,7 @@ Mbi zbatimin e vendimit nr. 31, datë 20.1.2001, të Këshillit të Ministrave, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-0820-23` (tags `udhezim-2015-0820-23/<day>`; `python tools/on.py <day> udhezim-2015-0820-23`).
+Act id: `udhezim-2015-0820-23` (tags `udhezim-2015-0820-23/<day>`; `python registry/tools/on.py <day> udhezim-2015-0820-23`).
 
 ## Decisions made by hand
 

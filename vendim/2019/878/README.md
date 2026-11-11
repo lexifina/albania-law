@@ -25,7 +25,7 @@ Përbërjen, organizimin, veprimtarinë dhe rregullat e funksionimit të Komisio
 | Pika 17 | [pika-017.md](pika-017.md) | 1 | 2024-04-12 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-878` (tags `vendim-2019-878/<day>`; `python tools/on.py <day> vendim-2019-878`).
+Act id: `vendim-2019-878` (tags `vendim-2019-878/<day>`; `python registry/tools/on.py <day> vendim-2019-878`).
 
 ## Decisions made by hand
 

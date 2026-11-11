@@ -24,7 +24,7 @@ Aderimin e republikës së shqipërisë në “protokollin për statusin e shtab
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
 
-Act id: `ligji-10104-2009` (tags `ligji-10104-2009/<day>`; `python tools/on.py <day> ligji-10104-2009`).
+Act id: `ligji-10104-2009` (tags `ligji-10104-2009/<day>`; `python registry/tools/on.py <day> ligji-10104-2009`).
 
 ## Decisions made by hand
 

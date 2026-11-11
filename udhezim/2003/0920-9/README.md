@@ -35,7 +35,16 @@ Mbi procedurën e numërimit të votave dhe administrimin e fletëve të votimit
 | Pjesa III | [pjesa-03.md](pjesa-03.md) | 0 |  |
 | Pjesa IV | [pjesa-04.md](pjesa-04.md) | 0 |  |
 
-Act id: `udhezim-2003-0920-9` (tags `udhezim-2003-0920-9/<day>`; `python tools/on.py <day> udhezim-2003-0920-9`).
+Act id: `udhezim-2003-0920-9` (tags `udhezim-2003-0920-9/<day>`; `python registry/tools/on.py <day> udhezim-2003-0920-9`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 18, datë 11.10.2003 (Komisioni Qendor i Zgjedhjeve) [QBZ 2366]: Për një ndryshim në udhëzimin e kqz-së nr.9, datë 20.9.2003 “mbi procedurat e numërimit të votave dhe administrimin e fletëve të votimit nga komisioni i qendrës së votimit”](https://qbz.gov.al/eli/udhezim/2003/10/11/18)
+- [Udhëzimi nr. 20, datë 22.12.2003 (Komisioni Qendor i Zgjedhjeve) [QBZ 2467]: PËR NJë SHTESë Në UDHëZIMIN NR. 9, DATë 20.09.2003 “MBI PROCEDURëN E NUMëRIMIT Të VOTAVE DHE ADMINISTRIMIN E FLETëVE Të VOTIMIT NGA KOMISIONI I QENDRëS Së VOTIMIT”, NDRYSHUAR ME UDHëZIMIN NR.18,](https://qbz.gov.al/eli/udhezim/2003/12/22/20)
 
 ## Decisions made by hand
 

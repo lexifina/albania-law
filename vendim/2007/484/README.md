@@ -10,7 +10,7 @@ Caktimin e masës së shpërblimit të anëtarëve të bordit artistik të insti
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-484` (tags `vendim-2007-484/<day>`; `python tools/on.py <day> vendim-2007-484`).
+Act id: `vendim-2007-484` (tags `vendim-2007-484/<day>`; `python registry/tools/on.py <day> vendim-2007-484`).
 
 ## Decisions made by hand
 

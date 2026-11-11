@@ -5,7 +5,7 @@ Miratimin e rregullores për funksionimin e portit të përpunimit të lëndëve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0503-193` (tags `urdher-2019-0503-193/<day>`; `python tools/on.py <day> urdher-2019-0503-193`).
+Act id: `urdher-2019-0503-193` (tags `urdher-2019-0503-193/<day>`; `python registry/tools/on.py <day> urdher-2019-0503-193`).
 
 ## Decisions made by hand
 

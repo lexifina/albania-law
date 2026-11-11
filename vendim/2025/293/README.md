@@ -24,7 +24,7 @@ Organizimin, funksionimin dhe fushën e veprimit të policimit vullnetar · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-293` (tags `vendim-2025-293/<day>`; `python tools/on.py <day> vendim-2025-293`).
+Act id: `vendim-2025-293` (tags `vendim-2025-293/<day>`; `python registry/tools/on.py <day> vendim-2025-293`).
 
 ## Decisions made by hand
 

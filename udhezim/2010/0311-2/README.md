@@ -5,7 +5,7 @@ Mbi kontrollin teknik të mjeteve rrugore · 4 versions, from 2010-04-10 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-0311-2` (tags `udhezim-2010-0311-2/<day>`; `python tools/on.py <day> udhezim-2010-0311-2`).
+Act id: `udhezim-2010-0311-2` (tags `udhezim-2010-0311-2/<day>`; `python registry/tools/on.py <day> udhezim-2010-0311-2`).
 
 ## Decisions made by hand
 

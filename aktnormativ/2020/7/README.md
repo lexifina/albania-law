@@ -17,7 +17,7 @@ Qëndrimin e përkohshëm në shtëpi të të dënuarve · 1 versions, from 2020
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-7` (tags `aktnormativ-2020-7/<day>`; `python tools/on.py <day> aktnormativ-2020-7`).
+Act id: `aktnormativ-2020-7` (tags `aktnormativ-2020-7/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-7`).
 
 ## Decisions made by hand
 

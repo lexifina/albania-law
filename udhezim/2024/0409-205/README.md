@@ -5,7 +5,7 @@ Procedurat e punësimit, emërimit, pezullimit, lirimit dhe të disiplinës së 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2024-0409-205` (tags `udhezim-2024-0409-205/<day>`; `python tools/on.py <day> udhezim-2024-0409-205`).
+Act id: `udhezim-2024-0409-205` (tags `udhezim-2024-0409-205/<day>`; `python registry/tools/on.py <day> udhezim-2024-0409-205`).
 
 ## Decisions made by hand
 

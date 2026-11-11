@@ -9,7 +9,7 @@ Delegim kompetence · 1 versions, from 2016-10-14 (latest in force: 2016-10-14) 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-1013-6811` (tags `urdher-2016-1013-6811/<day>`; `python tools/on.py <day> urdher-2016-1013-6811`).
+Act id: `urdher-2016-1013-6811` (tags `urdher-2016-1013-6811/<day>`; `python registry/tools/on.py <day> urdher-2016-1013-6811`).
 
 ## Decisions made by hand
 

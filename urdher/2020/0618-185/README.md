@@ -10,7 +10,7 @@ Zbatimin e strategjisë për aplikimin e sistemeve inteligjente në transportin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0618-185` (tags `urdher-2020-0618-185/<day>`; `python tools/on.py <day> urdher-2020-0618-185`).
+Act id: `urdher-2020-0618-185` (tags `urdher-2020-0618-185/<day>`; `python registry/tools/on.py <day> urdher-2020-0618-185`).
 
 ## Decisions made by hand
 

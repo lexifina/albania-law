@@ -5,7 +5,7 @@ Shpalljen e ekosistemit natyror krastë-verjon “peizazh i mbrojtur” · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-468` (tags `vendim-2018-468/<day>`; `python tools/on.py <day> vendim-2018-468`).
+Act id: `vendim-2018-468` (tags `vendim-2018-468/<day>`; `python registry/tools/on.py <day> vendim-2018-468`).
 
 ## Decisions made by hand
 

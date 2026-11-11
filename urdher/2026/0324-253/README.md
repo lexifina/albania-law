@@ -13,7 +13,7 @@ Delegim kompetencës së përfaqësimit ligjor të Ministrisë për Evropën dhe
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0324-253` (tags `urdher-2026-0324-253/<day>`; `python tools/on.py <day> urdher-2026-0324-253`).
+Act id: `urdher-2026-0324-253` (tags `urdher-2026-0324-253/<day>`; `python registry/tools/on.py <day> urdher-2026-0324-253`).
 
 ## Decisions made by hand
 

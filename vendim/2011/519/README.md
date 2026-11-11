@@ -9,7 +9,7 @@ Miratimin e strategjisë ndërsektoriale të drejtësisë dhe të planit të vep
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-519` (tags `vendim-2011-519/<day>`; `python tools/on.py <day> vendim-2011-519`).
+Act id: `vendim-2011-519` (tags `vendim-2011-519/<day>`; `python registry/tools/on.py <day> vendim-2011-519`).
 
 ## Decisions made by hand
 

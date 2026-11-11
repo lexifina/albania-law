@@ -12,7 +12,7 @@ Hapjen e programeve të reja ”master profesional” dhe fillimin e veprimtaris
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0529-220` (tags `urdher-2012-0529-220/<day>`; `python tools/on.py <day> urdher-2012-0529-220`).
+Act id: `urdher-2012-0529-220` (tags `urdher-2012-0529-220/<day>`; `python registry/tools/on.py <day> urdher-2012-0529-220`).
 
 ## Decisions made by hand
 

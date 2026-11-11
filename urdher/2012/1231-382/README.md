@@ -5,7 +5,7 @@ Delegim kompetencash · 2 versions, from 2012-12-31 (latest in force: 2013-11-05
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-1231-382` (tags `urdher-2012-1231-382/<day>`; `python tools/on.py <day> urdher-2012-1231-382`).
+Act id: `urdher-2012-1231-382` (tags `urdher-2012-1231-382/<day>`; `python registry/tools/on.py <day> urdher-2012-1231-382`).
 
 ## Decisions made by hand
 

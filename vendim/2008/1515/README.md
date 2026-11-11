@@ -5,7 +5,7 @@ Miratimin e lejes, për ndërtimin dhe shfrytëzimin e linjës tregtare të inte
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1515` (tags `vendim-2008-1515/<day>`; `python tools/on.py <day> vendim-2008-1515`).
+Act id: `vendim-2008-1515` (tags `vendim-2008-1515/<day>`; `python registry/tools/on.py <day> vendim-2008-1515`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e drejtorisë që duhet të përmbushë rolin e autoritetit menaxhu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0222-42` (tags `urdher-2024-0222-42/<day>`; `python tools/on.py <day> urdher-2024-0222-42`).
+Act id: `urdher-2024-0222-42` (tags `urdher-2024-0222-42/<day>`; `python registry/tools/on.py <day> urdher-2024-0222-42`).
 
 ## Decisions made by hand
 

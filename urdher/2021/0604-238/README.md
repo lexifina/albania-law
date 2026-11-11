@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes të infulencës aviare me patogjenitet të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0604-238` (tags `urdher-2021-0604-238/<day>`; `python tools/on.py <day> urdher-2021-0604-238`).
+Act id: `urdher-2021-0604-238` (tags `urdher-2021-0604-238/<day>`; `python registry/tools/on.py <day> urdher-2021-0604-238`).
 
 ## Decisions made by hand
 

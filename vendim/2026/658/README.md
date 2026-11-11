@@ -17,7 +17,7 @@ Përcaktimin e kritereve për dhënien e Medaljes së Shërbimit të Rendit Publ
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-658` (tags `vendim-2026-658/<day>`; `python tools/on.py <day> vendim-2026-658`).
+Act id: `vendim-2026-658` (tags `vendim-2026-658/<day>`; `python registry/tools/on.py <day> vendim-2026-658`).
 
 ## Decisions made by hand
 

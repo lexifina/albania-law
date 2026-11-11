@@ -10,7 +10,7 @@ Disa shtesa në udhëzimin nr. 5, datë 19.1.2009 ”Për procedurat e hapjes dh
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0730-20` (tags `udhezim-2015-0730-20/<day>`; `python tools/on.py <day> udhezim-2015-0730-20`).
+Act id: `udhezim-2015-0730-20` (tags `udhezim-2015-0730-20/<day>`; `python registry/tools/on.py <day> udhezim-2015-0730-20`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e kontratës nr. 5758 prot., datë 25.4.2017, ndërmjet ministrisë s�
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-362` (tags `vendim-2017-362/<day>`; `python tools/on.py <day> vendim-2017-362`).
+Act id: `vendim-2017-362` (tags `vendim-2017-362/<day>`; `python registry/tools/on.py <day> vendim-2017-362`).
 
 ## Decisions made by hand
 

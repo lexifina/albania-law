@@ -14,7 +14,7 @@ Caktimin e numrit të përgjithshëm të noterëve dhe numrit të tyre për çdo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-1116-7518` (tags `urdher-2016-1116-7518/<day>`; `python tools/on.py <day> urdher-2016-1116-7518`).
+Act id: `urdher-2016-1116-7518` (tags `urdher-2016-1116-7518/<day>`; `python registry/tools/on.py <day> urdher-2016-1116-7518`).
 
 ## Decisions made by hand
 

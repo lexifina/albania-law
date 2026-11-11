@@ -18,7 +18,7 @@ Përcaktimin e institucioneve përgjegjëse, të procedurave të miratimit dhe t
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-456` (tags `vendim-2025-456/<day>`; `python tools/on.py <day> vendim-2025-456`).
+Act id: `vendim-2025-456` (tags `vendim-2025-456/<day>`; `python registry/tools/on.py <day> vendim-2025-456`).
 
 ## Decisions made by hand
 

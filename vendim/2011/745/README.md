@@ -5,7 +5,7 @@ Strukturat e Komitetit kombëtar të digave të mëdha (KKDM) · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-745` (tags `vendim-2011-745/<day>`; `python tools/on.py <day> vendim-2011-745`).
+Act id: `vendim-2011-745` (tags `vendim-2011-745/<day>`; `python registry/tools/on.py <day> vendim-2011-745`).
 
 ## Decisions made by hand
 

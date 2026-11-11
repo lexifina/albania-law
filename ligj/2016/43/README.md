@@ -53,7 +53,7 @@ Marrëveshjet ndërkombëtare në republikën e shqipërisë · 2 versions, from
 | Neni 39 | [neni-039.md](neni-039.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-43` (tags `ligj-2016-43/<day>`; `python tools/on.py <day> ligj-2016-43`).
+Act id: `ligj-2016-43` (tags `ligj-2016-43/<day>`; `python registry/tools/on.py <day> ligj-2016-43`).
 
 ## Decisions made by hand
 

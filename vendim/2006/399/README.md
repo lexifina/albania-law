@@ -19,7 +19,7 @@ Rritjen e pensioneve · 1 versions, from 2006-07-05 (latest in force: 2006-07-05
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-399` (tags `vendim-2006-399/<day>`; `python tools/on.py <day> vendim-2006-399`).
+Act id: `vendim-2006-399` (tags `vendim-2006-399/<day>`; `python registry/tools/on.py <day> vendim-2006-399`).
 
 ## Decisions made by hand
 

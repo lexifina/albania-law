@@ -5,7 +5,7 @@ Qendrat e trajnimit privat · 2 versions, from 2018-11-08 (latest in force: 2024
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-1026-505` (tags `udhezim-2018-1026-505/<day>`; `python tools/on.py <day> udhezim-2018-1026-505`).
+Act id: `udhezim-2018-1026-505` (tags `udhezim-2018-1026-505/<day>`; `python registry/tools/on.py <day> udhezim-2018-1026-505`).
 
 ## Decisions made by hand
 

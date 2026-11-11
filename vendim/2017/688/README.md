@@ -12,7 +12,7 @@ Miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë të regj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-02-05 |
 
-Act id: `vendim-2017-688` (tags `vendim-2017-688/<day>`; `python tools/on.py <day> vendim-2017-688`).
+Act id: `vendim-2017-688` (tags `vendim-2017-688/<day>`; `python registry/tools/on.py <day> vendim-2017-688`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Përcaktimin e rregullave, të kërkesave e të procedurave për informimin dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-04-28 |
 
-Act id: `vendim-2014-247` (tags `vendim-2014-247/<day>`; `python tools/on.py <day> vendim-2014-247`).
+Act id: `vendim-2014-247` (tags `vendim-2014-247/<day>`; `python registry/tools/on.py <day> vendim-2014-247`).
 
 ## Decisions made by hand
 

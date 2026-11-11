@@ -8,7 +8,7 @@ Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës s
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-323` (tags `vendim-2013-323/<day>`; `python tools/on.py <day> vendim-2013-323`).
+Act id: `vendim-2013-323` (tags `vendim-2013-323/<day>`; `python registry/tools/on.py <day> vendim-2013-323`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores “Për organizimin dhe funksionimin e strukturës të s
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0503-194` (tags `urdher-2019-0503-194/<day>`; `python tools/on.py <day> urdher-2019-0503-194`).
+Act id: `urdher-2019-0503-194` (tags `urdher-2019-0503-194/<day>`; `python registry/tools/on.py <day> urdher-2019-0503-194`).
 
 ## Decisions made by hand
 

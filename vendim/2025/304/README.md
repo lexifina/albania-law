@@ -19,7 +19,7 @@ Organizimin, funksionimin dhe rastet e lirimit të anëtarëve të Këshillit Ko
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-304` (tags `vendim-2025-304/<day>`; `python tools/on.py <day> vendim-2025-304`).
+Act id: `vendim-2025-304` (tags `vendim-2025-304/<day>`; `python registry/tools/on.py <day> vendim-2025-304`).
 
 ## Decisions made by hand
 

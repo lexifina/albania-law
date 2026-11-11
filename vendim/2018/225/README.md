@@ -5,7 +5,7 @@ Emërimin e anëtarëve të komisionit të ndihmës shtetërore · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-225` (tags `vendim-2018-225/<day>`; `python tools/on.py <day> vendim-2018-225`).
+Act id: `vendim-2018-225` (tags `vendim-2018-225/<day>`; `python registry/tools/on.py <day> vendim-2018-225`).
 
 ## Decisions made by hand
 

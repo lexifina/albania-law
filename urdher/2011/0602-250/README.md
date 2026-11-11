@@ -12,7 +12,7 @@ Hapjen e programit të ri të studimit “menaxhim-biznesi” dhe fillimin e vep
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0602-250` (tags `urdher-2011-0602-250/<day>`; `python tools/on.py <day> urdher-2011-0602-250`).
+Act id: `urdher-2011-0602-250` (tags `urdher-2011-0602-250/<day>`; `python registry/tools/on.py <day> urdher-2011-0602-250`).
 
 ## Decisions made by hand
 

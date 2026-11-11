@@ -10,7 +10,25 @@ Miratimin e niveleve të tarifës doganore · 1 versions, from 2008-10-07 (lates
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9981` (tags `ligj-2008-9981/<day>`; `python tools/on.py <day> ligj-2008-9981`).
+Act id: `ligj-2008-9981` (tags `ligj-2008-9981/<day>`; `python registry/tools/on.py <day> ligj-2008-9981`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 10041: Për një ndryshim në ligjin nr.9981, datë 8.9.2008 “për miratimin e niveleve të tarifës doganore](https://qbz.gov.al/eli/ligj/2008/12/22/10041)
+- [Ligji nr. 123/2012: Për një ndryshim në ligjin nr. 9981, datë 8.9.2008 “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2012/12/20/123)
+- [Ligji nr. 159/2014: Për një ndryshim në ligjin nr. 9981, datë 8.9.2008, “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2014/11/27/159)
+- [Ligji nr. 10459/2011: Për disa ndryshime në ligjin nr.9981, datë 8.9.2008 “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2011/07/21/10459)
+- [Ligji nr. 10492/2011: Për një shtesë në ligjin nr.9981, datë 8.9.2008 “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2011/12/15/10492)
+- [Ligji nr. 103/2017: Për disa ndryshime në ligjin nr. 9981, datë 8.9.2008, “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2017/11/30/103)
+- [Ligji nr. 10366/2010: Për disa ndryshime në ligjin nr.9981, datë 8.9.2008 ”për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2010/12/16/10366)
+- [Ligji nr. 10098/2009: Për një ndryshim në ligjin nr.9981, datë 8.9.2008 “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2009/03/19/10098)
+- [Ligji nr. 128/2016: Për disa ndryshime në ligjin nr. 9981, datë 8.9.2008, “për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2016/12/15/128)
+- [Ligji nr. 30/2018: Për pranimin e skedulit cxlvi të zgjerimit të listës së marrëveshjes së teknologjisë së informacionit, në kuadër të organizatës botërore të tregtisë](https://qbz.gov.al/eli/ligj/2018/05/31/30)
+- [Ligji nr. 168/2020: Për një ndryshim në ligjin nr. 9981, datë 8.9.2008, “Për miratimin e niveleve të tarifës doganore”, të ndryshuar](https://qbz.gov.al/eli/ligj/2020/12/23/168)
 
 ## Decisions made by hand
 

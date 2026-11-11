@@ -30,7 +30,7 @@ Krijimin, organizimin dhe funksionimin e parqeve teknologjike dhe shkencore · 2
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-58` (tags `ligj-2022-58/<day>`; `python tools/on.py <day> ligj-2022-58`).
+Act id: `ligj-2022-58` (tags `ligj-2022-58/<day>`; `python registry/tools/on.py <day> ligj-2022-58`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Shpalljen e vitit 2018 “viti mbarëkombëtar i gjergj kastriotit- skënderbeut
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-493` (tags `vendim-2017-493/<day>`; `python tools/on.py <day> vendim-2017-493`).
+Act id: `vendim-2017-493` (tags `vendim-2017-493/<day>`; `python registry/tools/on.py <day> vendim-2017-493`).
 
 ## Decisions made by hand
 

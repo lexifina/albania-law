@@ -15,7 +15,7 @@ Deklarimin “Pasuri kulturore e paluajtshme” të zonave arkeologjike A dhe B 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-789` (tags `vendim-2024-789/<day>`; `python tools/on.py <day> vendim-2024-789`).
+Act id: `vendim-2024-789` (tags `vendim-2024-789/<day>`; `python registry/tools/on.py <day> vendim-2024-789`).
 
 ## Decisions made by hand
 

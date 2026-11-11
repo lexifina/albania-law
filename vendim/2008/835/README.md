@@ -10,7 +10,17 @@ Përcaktimin e madhësisë së paketës së aksioneve të kapitalit, të shoqër
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-835` (tags `vendim-2008-835/<day>`; `python tools/on.py <day> vendim-2008-835`).
+Act id: `vendim-2008-835` (tags `vendim-2008-835/<day>`; `python registry/tools/on.py <day> vendim-2008-835`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1430, datë 29.10.2008: Për miratimin e raportit të vlerësimit të ofertave për privatizimin e shoqërisë anonime “Operatori i Sistemit të shpërndarjes”](https://qbz.gov.al/eli/vendim/2008/10/29/1430)
+- [Vendimi i Këshillit të Ministrave nr. 1170, datë 13.8.2008: Për disa ndryshime në vendimin nr.835, datë 11.6.2008 të këshillit të ministrave “për përcaktimin e madhësisë së paketës së aksioneve të kapitalit të shoqërisë anonime “operatori i sistemit të shpërndarjes”, që u ofrohet investitorëve strategjikë”](https://qbz.gov.al/eli/vendim/2008/08/13/1170)
+- [Vendimi i Këshillit të Ministrave nr. 1268, datë 17.9.2008: Për disa shtesa dhe ndryshime në vendimin nr.835, datë 11.6.2008 të këshillit të ministrave ”për përcaktimin e madhësisë së paketës së aksioneve të kapitalit të shoqërisë anonime ”operatori i sistemit të shpërndarjes”, që u ofrohet investitorëve strategjikë”](https://qbz.gov.al/eli/vendim/2008/09/17/1268)
 
 ## Decisions made by hand
 

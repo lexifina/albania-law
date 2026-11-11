@@ -15,7 +15,7 @@ Pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në oper
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-45` (tags `vendim-2025-45/<day>`; `python tools/on.py <day> vendim-2025-45`).
+Act id: `vendim-2025-45` (tags `vendim-2025-45/<day>`; `python registry/tools/on.py <day> vendim-2025-45`).
 
 ## Decisions made by hand
 

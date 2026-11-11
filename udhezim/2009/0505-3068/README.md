@@ -13,7 +13,7 @@ Dhënien me qira ose enfiteozë për shfrytëzimin E monumenteve të kulturës �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0505-3068` (tags `udhezim-2009-0505-3068/<day>`; `python tools/on.py <day> udhezim-2009-0505-3068`).
+Act id: `udhezim-2009-0505-3068` (tags `udhezim-2009-0505-3068/<day>`; `python registry/tools/on.py <day> udhezim-2009-0505-3068`).
 
 ## Decisions made by hand
 

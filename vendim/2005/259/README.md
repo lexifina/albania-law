@@ -5,7 +5,7 @@ Licencimin e personave fizikë e juridikë, si vlerësues të pasurive të palua
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-259` (tags `vendim-2005-259/<day>`; `python tools/on.py <day> vendim-2005-259`).
+Act id: `vendim-2005-259` (tags `vendim-2005-259/<day>`; `python registry/tools/on.py <day> vendim-2005-259`).
 
 ## Decisions made by hand
 

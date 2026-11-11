@@ -9,7 +9,15 @@ Përcaktimin e zonave ku mund të hapen kazino · 1 versions, from 2001-12-04 (l
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-622` (tags `vendim-2001-622/<day>`; `python tools/on.py <day> vendim-2001-622`).
+Act id: `vendim-2001-622` (tags `vendim-2001-622/<day>`; `python registry/tools/on.py <day> vendim-2001-622`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 735, datë 1.11.2006: Për disa ndryshime në vendimin nr.622, datë 12.11.2001 të Këshillit të Ministrave “Për përcaktimin e zonave, ku mund të hapen kazino”, të ndryshuar](https://qbz.gov.al/eli/vendim/2006/11/01/735)
 
 ## Decisions made by hand
 

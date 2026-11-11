@@ -17,7 +17,7 @@ Mënyrën e marrjes së mostrave, për ndryshimin e kategorisë së resursit nga
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0709-10` (tags `udhezim-2020-0709-10/<day>`; `python tools/on.py <day> udhezim-2020-0709-10`).
+Act id: `udhezim-2020-0709-10` (tags `udhezim-2020-0709-10/<day>`; `python registry/tools/on.py <day> udhezim-2020-0709-10`).
 
 ## Decisions made by hand
 

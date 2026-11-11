@@ -5,7 +5,7 @@ Krijimin e fondit shqiptar të konkurrueshmërisë · 2 versions, from 2007-03-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-112` (tags `vendim-2007-112/<day>`; `python tools/on.py <day> vendim-2007-112`).
+Act id: `vendim-2007-112` (tags `vendim-2007-112/<day>`; `python registry/tools/on.py <day> vendim-2007-112`).
 
 ## Decisions made by hand
 

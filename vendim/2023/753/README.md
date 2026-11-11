@@ -12,7 +12,7 @@ Dispozitat zbatuese të ligjit nr. 29/2023, ”Për tatimin mbi të ardhurat”,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-753` (tags `vendim-2023-753/<day>`; `python tools/on.py <day> vendim-2023-753`).
+Act id: `vendim-2023-753` (tags `vendim-2023-753/<day>`; `python registry/tools/on.py <day> vendim-2023-753`).
 
 ## Decisions made by hand
 

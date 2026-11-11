@@ -26,7 +26,7 @@ Mbi zbatimin e vendimit nr. 231, datë 1.4.2026, të Këshillit të Ministrave �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0514-348` (tags `udhezim-2026-0514-348/<day>`; `python tools/on.py <day> udhezim-2026-0514-348`).
+Act id: `udhezim-2026-0514-348` (tags `udhezim-2026-0514-348/<day>`; `python registry/tools/on.py <day> udhezim-2026-0514-348`).
 
 ## Decisions made by hand
 

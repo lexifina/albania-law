@@ -22,7 +22,7 @@ Mënyrën e administrimit të gjobave të vëna ndaj kundërvajtësve nga shërb
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0408-111` (tags `udhezim-2010-0408-111/<day>`; `python tools/on.py <day> udhezim-2010-0408-111`).
+Act id: `udhezim-2010-0408-111` (tags `udhezim-2010-0408-111/<day>`; `python registry/tools/on.py <day> udhezim-2010-0408-111`).
 
 ## Decisions made by hand
 

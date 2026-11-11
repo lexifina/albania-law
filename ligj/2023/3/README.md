@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare të Hong-
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-3-2023` (tags `ligji-3-2023/<day>`; `python tools/on.py <day> ligji-3-2023`).
+Act id: `ligji-3-2023` (tags `ligji-3-2023/<day>`; `python registry/tools/on.py <day> ligji-3-2023`).
 
 ## Decisions made by hand
 

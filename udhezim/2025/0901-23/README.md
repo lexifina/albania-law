@@ -12,7 +12,7 @@ Përcaktimin e rregullave dhe masave për ndalimin e përdorimit të telefonit c
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0901-23` (tags `udhezim-2025-0901-23/<day>`; `python tools/on.py <day> udhezim-2025-0901-23`).
+Act id: `udhezim-2025-0901-23` (tags `udhezim-2025-0901-23/<day>`; `python registry/tools/on.py <day> udhezim-2025-0901-23`).
 
 ## Decisions made by hand
 

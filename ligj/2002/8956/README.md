@@ -10,7 +10,7 @@ Një ndryshim në ligjin nr. 8637, datë 6.7.2000 “Për Policinë Elektrike”
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8956` (tags `ligj-2002-8956/<day>`; `python tools/on.py <day> ligj-2002-8956`).
+Act id: `ligj-2002-8956` (tags `ligj-2002-8956/<day>`; `python registry/tools/on.py <day> ligj-2002-8956`).
 
 ## Decisions made by hand
 

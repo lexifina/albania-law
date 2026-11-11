@@ -5,7 +5,7 @@ Procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-1211-26` (tags `udhezim-2017-1211-26/<day>`; `python tools/on.py <day> udhezim-2017-1211-26`).
+Act id: `udhezim-2017-1211-26` (tags `udhezim-2017-1211-26/<day>`; `python registry/tools/on.py <day> udhezim-2017-1211-26`).
 
 ## Decisions made by hand
 

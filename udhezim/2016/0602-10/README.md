@@ -30,7 +30,7 @@ Masat për zhvillimin e provimeve të maturës shtetërore 2016 · 1 versions, f
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0602-10` (tags `udhezim-2016-0602-10/<day>`; `python tools/on.py <day> udhezim-2016-0602-10`).
+Act id: `udhezim-2016-0602-10` (tags `udhezim-2016-0602-10/<day>`; `python registry/tools/on.py <day> udhezim-2016-0602-10`).
 
 ## Decisions made by hand
 

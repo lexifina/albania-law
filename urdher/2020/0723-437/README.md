@@ -11,7 +11,7 @@ Miratimin e procedurës së kryerjes së testimeve molekurale RT-PCR për SARS-C
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0723-437` (tags `urdher-2020-0723-437/<day>`; `python tools/on.py <day> urdher-2020-0723-437`).
+Act id: `urdher-2020-0723-437` (tags `urdher-2020-0723-437/<day>`; `python registry/tools/on.py <day> urdher-2020-0723-437`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Sigurimin e punonjësve, të punësuar në veprimtarinë minerare, nga aksidente
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1109` (tags `vendim-2008-1109/<day>`; `python tools/on.py <day> vendim-2008-1109`).
+Act id: `vendim-2008-1109` (tags `vendim-2008-1109/<day>`; `python registry/tools/on.py <day> vendim-2008-1109`).
 
 ## Decisions made by hand
 

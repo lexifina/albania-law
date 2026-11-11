@@ -5,7 +5,7 @@ Obligacionet e shoqërive aksionare dhe të qeverisë vendore · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2009-10158` (tags `ligj-2009-10158/<day>`; `python tools/on.py <day> ligj-2009-10158`).
+Act id: `ligj-2009-10158` (tags `ligj-2009-10158/<day>`; `python registry/tools/on.py <day> ligj-2009-10158`).
 
 ## Decisions made by hand
 

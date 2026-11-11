@@ -5,7 +5,7 @@ Mbi përcaktimin e kohës së mbajtjes së të dhënave personale që përpunohe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0511-17` (tags `udhezim-2012-0511-17/<day>`; `python tools/on.py <day> udhezim-2012-0511-17`).
+Act id: `udhezim-2012-0511-17` (tags `udhezim-2012-0511-17/<day>`; `python registry/tools/on.py <day> udhezim-2012-0511-17`).
 
 ## Decisions made by hand
 

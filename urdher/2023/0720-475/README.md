@@ -11,7 +11,7 @@ Miratimin e formës së dokumentit të identifikimit të përmbaruesit gjyqësor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0720-475` (tags `urdher-2023-0720-475/<day>`; `python tools/on.py <day> urdher-2023-0720-475`).
+Act id: `urdher-2023-0720-475` (tags `urdher-2023-0720-475/<day>`; `python registry/tools/on.py <day> urdher-2023-0720-475`).
 
 ## Decisions made by hand
 

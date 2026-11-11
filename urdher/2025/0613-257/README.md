@@ -13,7 +13,7 @@ Shpalljen e konkurrimit për pozicionin e zëvendësdrejtorit të përgjithshëm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0613-257` (tags `urdher-2025-0613-257/<day>`; `python tools/on.py <day> urdher-2025-0613-257`).
+Act id: `urdher-2025-0613-257` (tags `urdher-2025-0613-257/<day>`; `python registry/tools/on.py <day> urdher-2025-0613-257`).
 
 ## Decisions made by hand
 

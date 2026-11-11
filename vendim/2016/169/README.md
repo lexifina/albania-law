@@ -8,7 +8,7 @@ Lirim nga detyra · 1 versions, from 2016-03-10 (latest in force: 2016-03-10) ·
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-169` (tags `vendim-2016-169/<day>`; `python tools/on.py <day> vendim-2016-169`).
+Act id: `vendim-2016-169` (tags `vendim-2016-169/<day>`; `python registry/tools/on.py <day> vendim-2016-169`).
 
 ## Decisions made by hand
 

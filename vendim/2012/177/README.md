@@ -47,7 +47,7 @@ Ambalazhet dhe mbetjet e tyre · 2 versions, from 2018-05-04 (latest in force: 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-08-10 |
 
-Act id: `vendim-2012-177` (tags `vendim-2012-177/<day>`; `python tools/on.py <day> vendim-2012-177`).
+Act id: `vendim-2012-177` (tags `vendim-2012-177/<day>`; `python registry/tools/on.py <day> vendim-2012-177`).
 
 ## Decisions made by hand
 

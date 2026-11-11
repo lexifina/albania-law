@@ -10,7 +10,7 @@ Miratimin e rregullores ”Mbi një metodë të përbashkët të sigurisë për 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-1010-123` (tags `urdher-2023-1010-123/<day>`; `python tools/on.py <day> urdher-2023-1010-123`).
+Act id: `urdher-2023-1010-123` (tags `urdher-2023-1010-123/<day>`; `python registry/tools/on.py <day> urdher-2023-1010-123`).
 
 ## Decisions made by hand
 

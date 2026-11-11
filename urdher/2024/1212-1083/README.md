@@ -11,7 +11,7 @@ Miratimin e modelit të vulës së mjekëve veterinarë, të cilët ushtrojnë p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1212-1083` (tags `urdher-2024-1212-1083/<day>`; `python tools/on.py <day> urdher-2024-1212-1083`).
+Act id: `urdher-2024-1212-1083` (tags `urdher-2024-1212-1083/<day>`; `python registry/tools/on.py <day> urdher-2024-1212-1083`).
 
 ## Decisions made by hand
 

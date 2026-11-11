@@ -11,7 +11,7 @@ Përcaktimin e të drejtave e të detyrave dhe për procedurën e përzgjedhjes 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-875` (tags `vendim-2008-875/<day>`; `python tools/on.py <day> vendim-2008-875`).
+Act id: `vendim-2008-875` (tags `vendim-2008-875/<day>`; `python registry/tools/on.py <day> vendim-2008-875`).
 
 ## Decisions made by hand
 

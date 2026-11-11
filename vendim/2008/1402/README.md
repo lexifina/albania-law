@@ -20,7 +20,7 @@ Miratimin e rregullave të zhvillimit të ankandit publik, për shitjen e paket�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1402` (tags `vendim-2008-1402/<day>`; `python tools/on.py <day> vendim-2008-1402`).
+Act id: `vendim-2008-1402` (tags `vendim-2008-1402/<day>`; `python registry/tools/on.py <day> vendim-2008-1402`).
 
 ## Decisions made by hand
 

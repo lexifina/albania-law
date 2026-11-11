@@ -5,7 +5,7 @@ Miratimin e rregullave teknike, në zbatim të udhëzimeve nr.90/396/eec dhe nr.
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-426` (tags `vendim-2003-426/<day>`; `python tools/on.py <day> vendim-2003-426`).
+Act id: `vendim-2003-426` (tags `vendim-2003-426/<day>`; `python registry/tools/on.py <day> vendim-2003-426`).
 
 ## Decisions made by hand
 

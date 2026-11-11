@@ -10,7 +10,7 @@ Ratifikimin e protokollit për ndryshimin e marrëveshjes së tregtisë së lir�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-5` (tags `ligj-2017-5/<day>`; `python tools/on.py <day> ligj-2017-5`).
+Act id: `ligj-2017-5` (tags `ligj-2017-5/<day>`; `python registry/tools/on.py <day> ligj-2017-5`).
 
 ## Decisions made by hand
 

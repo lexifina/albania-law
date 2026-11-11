@@ -10,7 +10,7 @@ Ratifikimin e protokollit të gjashtë shtesë të Marrëveshjes për Forcën Sh
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10-2020` (tags `ligji-10-2020/<day>`; `python tools/on.py <day> ligji-10-2020`).
+Act id: `ligji-10-2020` (tags `ligji-10-2020/<day>`; `python registry/tools/on.py <day> ligji-10-2020`).
 
 ## Decisions made by hand
 

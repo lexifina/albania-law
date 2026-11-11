@@ -22,7 +22,7 @@ Vlerësimin e nxënësve në sistemin arsimor parauniversitar · 3 versions, fro
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0705-17` (tags `udhezim-2022-0705-17/<day>`; `python tools/on.py <day> udhezim-2022-0705-17`).
+Act id: `udhezim-2022-0705-17` (tags `udhezim-2022-0705-17/<day>`; `python registry/tools/on.py <day> udhezim-2022-0705-17`).
 
 ## Decisions made by hand
 

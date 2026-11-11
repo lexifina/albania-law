@@ -14,7 +14,7 @@ Shpalljen e moratoriumit të gjuetisë në republikën e shqipërisë · 1 versi
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-7` (tags `ligj-2014-7/<day>`; `python tools/on.py <day> ligj-2014-7`).
+Act id: `ligj-2014-7` (tags `ligj-2014-7/<day>`; `python registry/tools/on.py <day> ligj-2014-7`).
 
 ## Decisions made by hand
 

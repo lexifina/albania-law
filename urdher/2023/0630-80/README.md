@@ -11,7 +11,7 @@ Miratimin e rregullores për kërkesat teknike dhe procedurat administrative pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-10-17 |
 
-Act id: `urdher-2023-0630-80` (tags `urdher-2023-0630-80/<day>`; `python tools/on.py <day> urdher-2023-0630-80`).
+Act id: `urdher-2023-0630-80` (tags `urdher-2023-0630-80/<day>`; `python registry/tools/on.py <day> urdher-2023-0630-80`).
 
 ## Decisions made by hand
 

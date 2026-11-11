@@ -5,7 +5,7 @@ Procedurat e kryerjes së kontrollit të ndihmës ekonomike, të pagesës së af
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-512` (tags `vendim-2006-512/<day>`; `python tools/on.py <day> vendim-2006-512`).
+Act id: `vendim-2006-512` (tags `vendim-2006-512/<day>`; `python registry/tools/on.py <day> vendim-2006-512`).
 
 ## Decisions made by hand
 

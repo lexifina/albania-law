@@ -5,7 +5,7 @@ PëR MëNYRAT dHE PROCEDURAT E RAPORTIMIT TË PROFESIONEVE TË LIRA JoFINANCIARE
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0205-11` (tags `udhezim-2009-0205-11/<day>`; `python tools/on.py <day> udhezim-2009-0205-11`).
+Act id: `udhezim-2009-0205-11` (tags `udhezim-2009-0205-11/<day>`; `python registry/tools/on.py <day> udhezim-2009-0205-11`).
 
 ## Decisions made by hand
 

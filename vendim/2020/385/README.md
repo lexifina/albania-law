@@ -13,7 +13,7 @@ Përcaktimin si zonë të lirë të një pjese të territorit doganor të Republ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-385` (tags `vendim-2020-385/<day>`; `python tools/on.py <day> vendim-2020-385`).
+Act id: `vendim-2020-385` (tags `vendim-2020-385/<day>`; `python registry/tools/on.py <day> vendim-2020-385`).
 
 ## Decisions made by hand
 

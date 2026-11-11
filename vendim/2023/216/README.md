@@ -29,7 +29,7 @@ Krijimin dhe funksionimin e sistemit të integruar për informatizimin e manuali
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-216` (tags `vendim-2023-216/<day>`; `python tools/on.py <day> vendim-2023-216`).
+Act id: `vendim-2023-216` (tags `vendim-2023-216/<day>`; `python registry/tools/on.py <day> vendim-2023-216`).
 
 ## Decisions made by hand
 

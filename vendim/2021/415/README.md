@@ -19,7 +19,7 @@ Rregullat e aksesit të subjekteve të interesuara në bazën e të dhënave të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-415` (tags `vendim-2021-415/<day>`; `python tools/on.py <day> vendim-2021-415`).
+Act id: `vendim-2021-415` (tags `vendim-2021-415/<day>`; `python registry/tools/on.py <day> vendim-2021-415`).
 
 ## Decisions made by hand
 

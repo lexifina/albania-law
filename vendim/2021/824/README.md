@@ -12,7 +12,7 @@ Miratimin e Kodit të Cilësisë së Arsimit të Lartë · 2 versions, from 2022
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-10-17 |
 
-Act id: `vendim-2021-824` (tags `vendim-2021-824/<day>`; `python tools/on.py <day> vendim-2021-824`).
+Act id: `vendim-2021-824` (tags `vendim-2021-824/<day>`; `python registry/tools/on.py <day> vendim-2021-824`).
 
 ## Decisions made by hand
 

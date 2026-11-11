@@ -43,7 +43,7 @@ Marrëdhëniet juridiksionale në çështjet penale me task forcën hetimore spe
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-53-2012` (tags `ligji-53-2012/<day>`; `python tools/on.py <day> ligji-53-2012`).
+Act id: `ligji-53-2012` (tags `ligji-53-2012/<day>`; `python registry/tools/on.py <day> ligji-53-2012`).
 
 ## Decisions made by hand
 

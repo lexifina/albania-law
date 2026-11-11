@@ -23,7 +23,7 @@ Përcaktimin e rregullave të hollësishme mbi paraqitjen dhe trajtimin e shpreh
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0504-187` (tags `urdher-2022-0504-187/<day>`; `python tools/on.py <day> urdher-2022-0504-187`).
+Act id: `urdher-2022-0504-187` (tags `urdher-2022-0504-187/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-187`).
 
 ## Decisions made by hand
 

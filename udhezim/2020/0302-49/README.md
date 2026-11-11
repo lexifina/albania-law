@@ -5,7 +5,7 @@ Pёr ”Mbrojtjen e tё dhёnave personale shёndetёsore” · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0302-49` (tags `udhezim-2020-0302-49/<day>`; `python tools/on.py <day> udhezim-2020-0302-49`).
+Act id: `udhezim-2020-0302-49` (tags `udhezim-2020-0302-49/<day>`; `python registry/tools/on.py <day> udhezim-2020-0302-49`).
 
 ## Decisions made by hand
 

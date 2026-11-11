@@ -17,7 +17,7 @@ PËR shpronËsimin, pËr interes publik, tË Pronarëve të pasuriVe TË paluajt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-09-10 |
 
-Act id: `vendim-2009-1196` (tags `vendim-2009-1196/<day>`; `python tools/on.py <day> vendim-2009-1196`).
+Act id: `vendim-2009-1196` (tags `vendim-2009-1196/<day>`; `python registry/tools/on.py <day> vendim-2009-1196`).
 
 ## Decisions made by hand
 

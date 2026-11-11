@@ -13,7 +13,7 @@ Miratimin e ”Metodologjia e menaxhimit të riskut dhe e përcaktimit të dëni
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0430-252` (tags `urdher-2024-0430-252/<day>`; `python tools/on.py <day> urdher-2024-0430-252`).
+Act id: `urdher-2024-0430-252` (tags `urdher-2024-0430-252/<day>`; `python registry/tools/on.py <day> urdher-2024-0430-252`).
 
 ## Decisions made by hand
 

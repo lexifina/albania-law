@@ -11,7 +11,7 @@ Dhënien e lejes së hyrjes dhe të qëndrimit të përkohshëm në territorin e
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10282-2010` (tags `ligji-10282-2010/<day>`; `python tools/on.py <day> ligji-10282-2010`).
+Act id: `ligji-10282-2010` (tags `ligji-10282-2010/<day>`; `python registry/tools/on.py <day> ligji-10282-2010`).
 
 ## Decisions made by hand
 

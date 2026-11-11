@@ -10,7 +10,7 @@ Hapjen e konsullatës së përgjithshme të republikës së shqipërisë në myn
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-502` (tags `vendim-2016-502/<day>`; `python tools/on.py <day> vendim-2016-502`).
+Act id: `vendim-2016-502` (tags `vendim-2016-502/<day>`; `python registry/tools/on.py <day> vendim-2016-502`).
 
 ## Decisions made by hand
 

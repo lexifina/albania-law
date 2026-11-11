@@ -13,7 +13,7 @@ Aderimin e republikës së shqipërisë në konventën e athinës “për transp
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9277` (tags `ligj-2004-9277/<day>`; `python tools/on.py <day> ligj-2004-9277`).
+Act id: `ligj-2004-9277` (tags `ligj-2004-9277/<day>`; `python registry/tools/on.py <day> ligj-2004-9277`).
 
 ## Decisions made by hand
 

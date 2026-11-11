@@ -5,7 +5,7 @@ Miratimin e rregullores për kërkesat e përbashkëta të përdorimit të hapë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2015-0928-124` (tags `urdher-2015-0928-124/<day>`; `python tools/on.py <day> urdher-2015-0928-124`).
+Act id: `urdher-2015-0928-124` (tags `urdher-2015-0928-124/<day>`; `python registry/tools/on.py <day> urdher-2015-0928-124`).
 
 ## Decisions made by hand
 

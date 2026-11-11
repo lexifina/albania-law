@@ -12,7 +12,7 @@ Shpalljen e ndryshimeve në Standardet Ndërkombëtare të Kontabilitetit dhe t�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-1218-86` (tags `urdher-2013-1218-86/<day>`; `python tools/on.py <day> urdher-2013-1218-86`).
+Act id: `urdher-2013-1218-86` (tags `urdher-2013-1218-86/<day>`; `python registry/tools/on.py <day> urdher-2013-1218-86`).
 
 ## Decisions made by hand
 

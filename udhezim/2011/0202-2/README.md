@@ -19,7 +19,7 @@ Procedurën e lëshimit, rinovimit, ndryshimit në objekt, pezullimit dhe revoki
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0202-2` (tags `udhezim-2011-0202-2/<day>`; `python tools/on.py <day> udhezim-2011-0202-2`).
+Act id: `udhezim-2011-0202-2` (tags `udhezim-2011-0202-2/<day>`; `python registry/tools/on.py <day> udhezim-2011-0202-2`).
 
 ## Decisions made by hand
 

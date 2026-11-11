@@ -10,7 +10,7 @@ Ratifikimin e një ndryshimi në “Marrëveshjen e tregtisë së lirë ndërmje
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9666` (tags `ligj-2006-9666/<day>`; `python tools/on.py <day> ligj-2006-9666`).
+Act id: `ligj-2006-9666` (tags `ligj-2006-9666/<day>`; `python registry/tools/on.py <day> ligj-2006-9666`).
 
 ## Decisions made by hand
 

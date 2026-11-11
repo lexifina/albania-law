@@ -11,7 +11,7 @@ Shpalljen e ndryshimeve të Standardit Kombëtar të Kontabilitetit nr. 2 “Par
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0130-28` (tags `urdher-2019-0130-28/<day>`; `python tools/on.py <day> urdher-2019-0130-28`).
+Act id: `urdher-2019-0130-28` (tags `urdher-2019-0130-28/<day>`; `python registry/tools/on.py <day> urdher-2019-0130-28`).
 
 ## Decisions made by hand
 

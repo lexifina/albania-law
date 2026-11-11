@@ -5,7 +5,7 @@ Miratimin e strategjisë sektoriale për menaxhimin e financave publike 2014-202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-908` (tags `vendim-2014-908/<day>`; `python tools/on.py <day> vendim-2014-908`).
+Act id: `vendim-2014-908` (tags `vendim-2014-908/<day>`; `python registry/tools/on.py <day> vendim-2014-908`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Mbi kriteret e studim-projektimit për rehabilitimin e vendepozitimeve të mbetj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0312-1738` (tags `udhezim-2015-0312-1738/<day>`; `python tools/on.py <day> udhezim-2015-0312-1738`).
+Act id: `udhezim-2015-0312-1738` (tags `udhezim-2015-0312-1738/<day>`; `python registry/tools/on.py <day> udhezim-2015-0312-1738`).
 
 ## Decisions made by hand
 

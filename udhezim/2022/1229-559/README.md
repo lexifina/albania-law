@@ -21,7 +21,7 @@ Caktimin e procedurës dhe masës së trajtimit financiar të gjyqtarit për sh�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1229-559` (tags `udhezim-2022-1229-559/<day>`; `python tools/on.py <day> udhezim-2022-1229-559`).
+Act id: `udhezim-2022-1229-559` (tags `udhezim-2022-1229-559/<day>`; `python registry/tools/on.py <day> udhezim-2022-1229-559`).
 
 ## Decisions made by hand
 

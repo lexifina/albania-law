@@ -17,7 +17,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Turizm
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1031-147` (tags `urdher-2025-1031-147/<day>`; `python tools/on.py <day> urdher-2025-1031-147`).
+Act id: `urdher-2025-1031-147` (tags `urdher-2025-1031-147/<day>`; `python registry/tools/on.py <day> urdher-2025-1031-147`).
 
 ## Decisions made by hand
 

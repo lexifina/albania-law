@@ -8,7 +8,7 @@ PëR EMëRIMIN E KRYETARIT DHE Të ANëTARëVE Të këSHILLIT Të AUTORITETIT MB
 | Vendimi | [pika-000.md](pika-000.md) | 1 | 2005-01-25 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-681` (tags `vendim-2004-681/<day>`; `python tools/on.py <day> vendim-2004-681`).
+Act id: `vendim-2004-681` (tags `vendim-2004-681/<day>`; `python registry/tools/on.py <day> vendim-2004-681`).
 
 ## Decisions made by hand
 

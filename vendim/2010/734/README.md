@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe të procedurave, për krijimin e rezervave strategj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-734` (tags `vendim-2010-734/<day>`; `python tools/on.py <day> vendim-2010-734`).
+Act id: `vendim-2010-734` (tags `vendim-2010-734/<day>`; `python registry/tools/on.py <day> vendim-2010-734`).
 
 ## Decisions made by hand
 

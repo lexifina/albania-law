@@ -15,7 +15,7 @@ Ndalimin e peshkimit në liqenin e Shkodrës · 1 versions, from 2021-04-01 (lat
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0330-144` (tags `urdher-2021-0330-144/<day>`; `python tools/on.py <day> urdher-2021-0330-144`).
+Act id: `urdher-2021-0330-144` (tags `urdher-2021-0330-144/<day>`; `python registry/tools/on.py <day> urdher-2021-0330-144`).
 
 ## Decisions made by hand
 

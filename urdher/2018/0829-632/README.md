@@ -10,7 +10,7 @@ Miratimin e listës së sëmundjeve infektive, të detyrueshme për t’u raport
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2022-08-12 |
 
-Act id: `urdher-2018-0829-632` (tags `urdher-2018-0829-632/<day>`; `python tools/on.py <day> urdher-2018-0829-632`).
+Act id: `urdher-2018-0829-632` (tags `urdher-2018-0829-632/<day>`; `python registry/tools/on.py <day> urdher-2018-0829-632`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Ripërtëritjen e licencës me kusht agjencisë akdie në administrimin kolektiv
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0706-434` (tags `urdher-2018-0706-434/<day>`; `python tools/on.py <day> urdher-2018-0706-434`).
+Act id: `urdher-2018-0706-434` (tags `urdher-2018-0706-434/<day>`; `python registry/tools/on.py <day> urdher-2018-0706-434`).
 
 ## Decisions made by hand
 

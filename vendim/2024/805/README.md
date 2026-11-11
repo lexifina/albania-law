@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Pjerin Luigj Bushati · 1 ve
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-805` (tags `vendim-2024-805/<day>`; `python tools/on.py <day> vendim-2024-805`).
+Act id: `vendim-2024-805` (tags `vendim-2024-805/<day>`; `python registry/tools/on.py <day> vendim-2024-805`).
 
 ## Decisions made by hand
 

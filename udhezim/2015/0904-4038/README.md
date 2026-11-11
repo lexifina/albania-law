@@ -17,7 +17,7 @@ Përcaktimin e shërbimeve universale postare, që ofrohen pa pagesë, për pers
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0904-4038` (tags `udhezim-2015-0904-4038/<day>`; `python tools/on.py <day> udhezim-2015-0904-4038`).
+Act id: `udhezim-2015-0904-4038` (tags `udhezim-2015-0904-4038/<day>`; `python registry/tools/on.py <day> udhezim-2015-0904-4038`).
 
 ## Decisions made by hand
 

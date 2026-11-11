@@ -10,7 +10,7 @@ Pranimin e protokollit për ndryshimin e marrëveshjes së marrakeshit që theme
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-7` (tags `ligj-2016-7/<day>`; `python tools/on.py <day> ligj-2016-7`).
+Act id: `ligj-2016-7` (tags `ligj-2016-7/<day>`; `python registry/tools/on.py <day> ligj-2016-7`).
 
 ## Decisions made by hand
 

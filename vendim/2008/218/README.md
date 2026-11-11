@@ -10,7 +10,7 @@ Miratimin e strategjisë ndërsektoriale të përfshirjes sociale · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-218` (tags `vendim-2008-218/<day>`; `python tools/on.py <day> vendim-2008-218`).
+Act id: `vendim-2008-218` (tags `vendim-2008-218/<day>`; `python registry/tools/on.py <day> vendim-2008-218`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Përdorimin e fondit të rindërtimit për financimin e realizimit të projektzb
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-335` (tags `vendim-2023-335/<day>`; `python tools/on.py <day> vendim-2023-335`).
+Act id: `vendim-2023-335` (tags `vendim-2023-335/<day>`; `python registry/tools/on.py <day> vendim-2023-335`).
 
 ## Decisions made by hand
 

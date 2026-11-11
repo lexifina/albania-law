@@ -13,7 +13,18 @@ Kuotën e pranimit dhe tarifën e shkollimit në programet e ciklit të tretë, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1282` (tags `vendim-2009-1282/<day>`; `python tools/on.py <day> vendim-2009-1282`).
+Act id: `vendim-2009-1282` (tags `vendim-2009-1282/<day>`; `python registry/tools/on.py <day> vendim-2009-1282`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 25, datë 19.1.2011: Për një ndryshim në vendimin nr.1282, datë 23.12.2009, të Këshillit të Ministrave “Për kuotën e pranimit dhe tarifën e shkollimit në programet e ciklit të tretë, të studimeve specializuese afatgjata, në fakultetin e mjekësisë të universitetit të tiranës, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2011/01/19/25)
+- [Vendimi i Këshillit të Ministrave nr. 828, datë 13.10.2010: Për disa shtesa në vendimin nr. 1282, datë 23.12.2009 të këshillit të ministrave “për kuotën e pranimit dhe tarifën e shkollimit në programet e ciklit të tretë, të studimeve specializuese afatgjata, në fakultetin e mjekësisë të universitetit të tiranës, për vitin akademik 2009-2010”](https://qbz.gov.al/eli/vendim/2010/10/13/828)
+- [Vendimi i Këshillit të Ministrave nr. 1076, datë 29.12.2010: Për një ndryshim në vendimin nr.1282, datë 23.12.2009 të këshillit të ministrave ”për kuotën e pranimit dhe tarifën e shkollimit në programet e ciklit të tretë të studimeve specializuese afatgjata, në fakultetin e mjekësisë, të universitetit të tiranës, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/12/29/1076)
+- [Vendimi i Këshillit të Ministrave nr. 242, datë 23.3.2011: Për disa ndryshime në vendimin nr.1282, datë 23.12.2009 të këshillit të ministrave “për kuotën e pranimit dhe tarifën e shkollimit në programet e ciklit të tretë të studimeve specializuese afatgjata, në fakultetin e mjekësisë të universitetit të tiranës, për vitin akademik 2009-2010”, të ndryshuar](https://qbz.gov.al/eli/vendim/2011/03/23/242)
 
 ## Decisions made by hand
 

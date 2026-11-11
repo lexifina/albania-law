@@ -33,7 +33,15 @@ Përcaktimin e procedurave për mbledhjen, përpunimin dhe administrimin e të d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-437` (tags `vendim-2006-437/<day>`; `python tools/on.py <day> vendim-2006-437`).
+Act id: `vendim-2006-437` (tags `vendim-2006-437/<day>`; `python registry/tools/on.py <day> vendim-2006-437`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 81-1, datë 2.8.2006: Ndreqje gabimi i vendimit nr.437, datë 28.6.2006](https://qbz.gov.al/eli/vendim/2006/08/02/81-1)
 
 ## Decisions made by hand
 

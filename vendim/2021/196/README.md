@@ -20,7 +20,7 @@ Indeksimin e pensioneve dhe bazës së vlerësuar · 1 versions, from 2021-04-02
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-196` (tags `vendim-2021-196/<day>`; `python tools/on.py <day> vendim-2021-196`).
+Act id: `vendim-2021-196` (tags `vendim-2021-196/<day>`; `python registry/tools/on.py <day> vendim-2021-196`).
 
 ## Decisions made by hand
 

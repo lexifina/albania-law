@@ -20,7 +20,7 @@ Miratimin e formës, përmbajtjes dhe procedurës së hartimit të aktit të mir
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0627-477` (tags `urdher-2011-0627-477/<day>`; `python tools/on.py <day> urdher-2011-0627-477`).
+Act id: `urdher-2011-0627-477` (tags `urdher-2011-0627-477/<day>`; `python registry/tools/on.py <day> urdher-2011-0627-477`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lirimin nga detyra të drejtorit të Bibliotekës Kombëtare · 1 versions, from
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-35` (tags `vendim-2026-35/<day>`; `python tools/on.py <day> vendim-2026-35`).
+Act id: `vendim-2026-35` (tags `vendim-2026-35/<day>`; `python registry/tools/on.py <day> vendim-2026-35`).
 
 ## Decisions made by hand
 

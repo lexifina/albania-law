@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet këshillit të ministrave të rep
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-9` (tags `ligj-2012-9/<day>`; `python tools/on.py <day> ligj-2012-9`).
+Act id: `ligj-2012-9` (tags `ligj-2012-9/<day>`; `python registry/tools/on.py <day> ligj-2012-9`).
 
 ## Decisions made by hand
 

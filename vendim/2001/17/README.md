@@ -8,7 +8,7 @@ Miratimin e procedurës së tenderimit, për shitjen e paketës së aksioneve, p
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-17` (tags `vendim-2001-17/<day>`; `python tools/on.py <day> vendim-2001-17`).
+Act id: `vendim-2001-17` (tags `vendim-2001-17/<day>`; `python registry/tools/on.py <day> vendim-2001-17`).
 
 ## Decisions made by hand
 

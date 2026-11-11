@@ -11,7 +11,7 @@ Mbi miratimin e rregullores për administrimin e mbetjeve nga shpimi i puseve p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1120-811` (tags `udhezim-2018-1120-811/<day>`; `python tools/on.py <day> udhezim-2018-1120-811`).
+Act id: `udhezim-2018-1120-811` (tags `udhezim-2018-1120-811/<day>`; `python registry/tools/on.py <day> udhezim-2018-1120-811`).
 
 ## Decisions made by hand
 

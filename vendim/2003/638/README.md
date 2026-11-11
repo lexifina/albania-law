@@ -23,7 +23,24 @@ Miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermier
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-638` (tags `vendim-2003-638/<day>`; `python tools/on.py <day> vendim-2003-638`).
+Act id: `vendim-2003-638` (tags `vendim-2003-638/<day>`; `python registry/tools/on.py <day> vendim-2003-638`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 864, datë 17.12.2004: PËR DISA NDRYSHIME E SHTESA NË VENDIMIN NR.638, DATË 18.9.2004 TË KËSHILLIT TË MINISTRAVE “ pËr MIRATIMIN E STRUKTURËS DHE NIVELIT TË PAGAVE TË PUNONJËSVE TË INFERMIERISTIKËS, NË SISTEMIN E MINISTRISË](https://qbz.gov.al/eli/vendim/2004/12/17/864)
+- [Vendimi i Këshillit të Ministrave nr. 361, datë 14.6.2006: Vendim Nr.361 Dt.14.06.2006](https://qbz.gov.al/eli/vendim/2006/06/14/361)
+- [Vendimi i Këshillit të Ministrave nr. 106, datë 28.2.2007: Për disa ndryshime në vendimin nr.638, datë 18.9.2003 të këshillit të ministrave “për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës, në sistemin e ministrisë së shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2007/02/28/106)
+- [Vendimi i Këshillit të Ministrave nr. 1020, datë 2.7.2008: Për disa ndryshime në vendimin nr.638, datë 18.9.2003 të këshillit të ministrave “për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës, në sistemin e ministrisë së shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2008/07/02/1020)
+- [Vendimi i Këshillit të Ministrave nr. 1670, datë 24.12.2008: Për një ndryshim në vendimin nr.638, datë 18.9.2003 të këshillit të ministrave “për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës, në sistemin e ministrisë së shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2008/12/24/1670)
+- [Vendimi i Këshillit të Ministrave nr. 623, datë 8.7.2010: PëR DISA NDRYSHIME në VENDIMIN NR.638, datë 18.9.2003 Të KëSHILLIT të MINISTRAVE “PëR MIRATIMIN E STRUKTURëS DHE të NIVELIT të PAGAVE të PUNONJëSVE Të INFERMIERISTIKËS në SISTEMIN E MINISTRISË Së SHëNDETëSISë”, të NDRYSHUAR](https://qbz.gov.al/eli/vendim/2010/07/08/623)
+- [Vendimi i Këshillit të Ministrave nr. 783, datë 29.9.2010: Për një ndryshim në vendimin nr.638, datë 18.9.2003 të Këshillit të Ministrave “Për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës, në sistemin e ministrisë së shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/09/29/783)
+- [Vendimi i Këshillit të Ministrave nr. 530, datë 27.4.2009: PËR disa NDRYSHIMe NË VENDIMIN NR. 638, DATË 18.9.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS DHE TË NIVELIT TË PAGAVE TË PUNONJËSVE TË INFERMIERISTIKËS, NË SISTEMIN E MINISTRISË SË SHËNDETËSISË”, TË NDRYSHUAR](https://qbz.gov.al/eli/vendim/2009/04/27/530)
+- [Vendimi i Këshillit të Ministrave nr. 229, datë 19.4.2006: Për disa ndryshime në vendimin nr.638, datë 18.9.2003, të Këshillit të Ministrave “Për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës në sistemin e Ministrisë së Shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2006/04/19/229)
+- [Vendimi i Këshillit të Ministrave nr. 436, datë 13.7.2007: Për një ndryshim në vendimin nr.638, datë 18.9.2003 të këshillit të ministrave “për miratimin e strukturës dhe të nivelit të pagave të punonjësve të infermieristikës në sistemin e ministrisë së shëndetësisë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2007/07/13/436)
 
 ## Decisions made by hand
 

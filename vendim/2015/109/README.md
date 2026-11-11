@@ -15,7 +15,7 @@ Financimin dhe zbatimin e procesit për luftimin mekanik të proçesionares së 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-109` (tags `vendim-2015-109/<day>`; `python tools/on.py <day> vendim-2015-109`).
+Act id: `vendim-2015-109` (tags `vendim-2015-109/<day>`; `python registry/tools/on.py <day> vendim-2015-109`).
 
 ## Decisions made by hand
 

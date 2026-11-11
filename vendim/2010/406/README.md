@@ -16,7 +16,7 @@ Hapjen e programeve të reja të studimeve në shkollën e lartë private “Uni
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-406` (tags `vendim-2010-406/<day>`; `python tools/on.py <day> vendim-2010-406`).
+Act id: `vendim-2010-406` (tags `vendim-2010-406/<day>`; `python registry/tools/on.py <day> vendim-2010-406`).
 
 ## Decisions made by hand
 

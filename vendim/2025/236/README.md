@@ -9,7 +9,7 @@ Pezullimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-236` (tags `vendim-2025-236/<day>`; `python tools/on.py <day> vendim-2025-236`).
+Act id: `vendim-2025-236` (tags `vendim-2025-236/<day>`; `python registry/tools/on.py <day> vendim-2025-236`).
 
 ## Decisions made by hand
 

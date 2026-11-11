@@ -5,7 +5,7 @@ Procedurën e lëshimit të dokumenteve nga disa zyra të regjistrimit të pasur
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-24` (tags `vendim-2007-24/<day>`; `python tools/on.py <day> vendim-2007-24`).
+Act id: `vendim-2007-24` (tags `vendim-2007-24/<day>`; `python registry/tools/on.py <day> vendim-2007-24`).
 
 ## Decisions made by hand
 

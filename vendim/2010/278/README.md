@@ -10,7 +10,7 @@ Përcaktimin e masës së financimit, në buxhetin e vitit 2010, për bashkësit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-278` (tags `vendim-2010-278/<day>`; `python tools/on.py <day> vendim-2010-278`).
+Act id: `vendim-2010-278` (tags `vendim-2010-278/<day>`; `python registry/tools/on.py <day> vendim-2010-278`).
 
 ## Decisions made by hand
 

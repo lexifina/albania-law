@@ -19,7 +19,7 @@ Identifikimin dhe regjistrimin e kafshëve dhe të fermave blegtorale · 1 versi
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8702` (tags `ligj-2000-8702/<day>`; `python tools/on.py <day> ligj-2000-8702`).
+Act id: `ligj-2000-8702` (tags `ligj-2000-8702/<day>`; `python registry/tools/on.py <day> ligj-2000-8702`).
 
 ## Decisions made by hand
 

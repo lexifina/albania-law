@@ -15,7 +15,7 @@ Krijimin dhe funksionimin e këshillit koordinues në luftën kundër gjakmarrje
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2005-9389` (tags `ligj-2005-9389/<day>`; `python tools/on.py <day> ligj-2005-9389`).
+Act id: `ligj-2005-9389` (tags `ligj-2005-9389/<day>`; `python registry/tools/on.py <day> ligj-2005-9389`).
 
 ## Decisions made by hand
 

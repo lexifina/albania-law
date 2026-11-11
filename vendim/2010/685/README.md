@@ -19,7 +19,7 @@ Riorganizimin e universitetit “aleksandër moisiu”, durrës · 1 versions, f
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-685` (tags `vendim-2010-685/<day>`; `python tools/on.py <day> vendim-2010-685`).
+Act id: `vendim-2010-685` (tags `vendim-2010-685/<day>`; `python registry/tools/on.py <day> vendim-2010-685`).
 
 ## Decisions made by hand
 

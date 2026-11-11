@@ -5,7 +5,7 @@ Sigurinë në det, plazhe dhe në ujërat e brendshme në thellësi të territor
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-358` (tags `vendim-2012-358/<day>`; `python tools/on.py <day> vendim-2012-358`).
+Act id: `vendim-2012-358` (tags `vendim-2012-358/<day>`; `python registry/tools/on.py <day> vendim-2012-358`).
 
 ## Decisions made by hand
 

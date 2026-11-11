@@ -12,7 +12,7 @@ PËR KALIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT TË DISA PARCELAVE PYJORE E KU
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-876` (tags `vendim-2004-876/<day>`; `python tools/on.py <day> vendim-2004-876`).
+Act id: `vendim-2004-876` (tags `vendim-2004-876/<day>`; `python registry/tools/on.py <day> vendim-2004-876`).
 
 ## Decisions made by hand
 

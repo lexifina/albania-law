@@ -15,7 +15,7 @@ Mbylljen e veprimtarisë së intitucionit arsimor jopublik të nivelit të arsim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0910-313` (tags `urdher-2021-0910-313/<day>`; `python tools/on.py <day> urdher-2021-0910-313`).
+Act id: `urdher-2021-0910-313` (tags `urdher-2021-0910-313/<day>`; `python registry/tools/on.py <day> urdher-2021-0910-313`).
 
 ## Decisions made by hand
 

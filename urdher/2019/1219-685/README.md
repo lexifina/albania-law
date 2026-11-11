@@ -11,7 +11,7 @@ Miratimin e rregullores “Për përcaktimin e kushteve shëndetësore dhe karan
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-05-10 |
 
-Act id: `urdher-2019-1219-685` (tags `urdher-2019-1219-685/<day>`; `python tools/on.py <day> urdher-2019-1219-685`).
+Act id: `urdher-2019-1219-685` (tags `urdher-2019-1219-685/<day>`; `python registry/tools/on.py <day> urdher-2019-1219-685`).
 
 ## Decisions made by hand
 

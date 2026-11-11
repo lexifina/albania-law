@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së kredisë ndërmjet republikës së shqipëris
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8603` (tags `ligj-2000-8603/<day>`; `python tools/on.py <day> ligj-2000-8603`).
+Act id: `ligj-2000-8603` (tags `ligj-2000-8603/<day>`; `python registry/tools/on.py <day> ligj-2000-8603`).
 
 ## Decisions made by hand
 

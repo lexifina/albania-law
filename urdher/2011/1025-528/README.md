@@ -17,7 +17,7 @@ Tarifat e shkollimit në institucionet publike të arsimit të lartë për të g
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2011-1025-528` (tags `urdher-2011-1025-528/<day>`; `python tools/on.py <day> urdher-2011-1025-528`).
+Act id: `urdher-2011-1025-528` (tags `urdher-2011-1025-528/<day>`; `python registry/tools/on.py <day> urdher-2011-1025-528`).
 
 ## Decisions made by hand
 

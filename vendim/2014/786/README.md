@@ -17,7 +17,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-786` (tags `vendim-2014-786/<day>`; `python tools/on.py <day> vendim-2014-786`).
+Act id: `vendim-2014-786` (tags `vendim-2014-786/<day>`; `python registry/tools/on.py <day> vendim-2014-786`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 68, datë 27.1.2016: Për një ndryshim në vendimin nr. 786, datë 19.11.2014, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preken nga zbatimi i projektit “ndërtimi i muzeut të bashkëjetesës”, miratuar me vendimin nr. 1/2014, të komitetit shtetëror të muzeve”](https://qbz.gov.al/eli/vendim/2016/01/27/68)
 
 ## Decisions made by hand
 

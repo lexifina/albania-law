@@ -36,7 +36,17 @@ Mbi rregullat e zbatueshme të operimit në fushën e shërbimeve ajrore · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0902-17` (tags `udhezim-2010-0902-17/<day>`; `python tools/on.py <day> udhezim-2010-0902-17`).
+Act id: `udhezim-2010-0902-17` (tags `udhezim-2010-0902-17/<day>`; `python registry/tools/on.py <day> udhezim-2010-0902-17`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 14, datë 9.9.2011 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 18138]: PËR DISA SHTESA DHE NDRYSHIME NË UDHËZIMIN E MINISTRIT NR.17, DATË 2.9.2010 “MBI RREGULLAT E ZBATUESHMe TË OPERIMIT NË FUSHËN E SHËRBIMEVE AJRORE”](https://qbz.gov.al/eli/udhezim/2011/09/09/14)
+- [Urdhri nr. 173, datë 12.4.2019 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 18539]: Për miratimin e rregullores për raportimin dhe ndjekjen e ngjarjeve në Aviacionin Civil në Republikën e Shqipërisë](https://qbz.gov.al/eli/urdher/2019/04/12/173)
+- [Urdhri nr. 113, datë 12.10.2012 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 65919]: Për miratimin e rregullores “për regjistrimin e avionëve civilë shqiptarë”](https://qbz.gov.al/eli/urdher/2012/10/12/113)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Negocimin e marrëveshjes ndërmjet shtetit shqiptar dhe kompanisë “al habtoo
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2017-56` (tags `ligj-2017-56/<day>`; `python tools/on.py <day> ligj-2017-56`).
+Act id: `ligj-2017-56` (tags `ligj-2017-56/<day>`; `python registry/tools/on.py <day> ligj-2017-56`).
 
 ## Decisions made by hand
 

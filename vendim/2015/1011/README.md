@@ -8,7 +8,7 @@ Dhënie shtesë pensioni të posaçëm shtetëror znj. Elena Kadare · 1 version
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1011` (tags `vendim-2015-1011/<day>`; `python tools/on.py <day> vendim-2015-1011`).
+Act id: `vendim-2015-1011` (tags `vendim-2015-1011/<day>`; `python registry/tools/on.py <day> vendim-2015-1011`).
 
 ## Decisions made by hand
 

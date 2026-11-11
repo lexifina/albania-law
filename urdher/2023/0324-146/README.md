@@ -16,7 +16,7 @@ Shpalljen e thirrjes për financimin e projekteve për infrastrukturën shkollor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0324-146` (tags `urdher-2023-0324-146/<day>`; `python tools/on.py <day> urdher-2023-0324-146`).
+Act id: `urdher-2023-0324-146` (tags `urdher-2023-0324-146/<day>`; `python registry/tools/on.py <day> urdher-2023-0324-146`).
 
 ## Decisions made by hand
 

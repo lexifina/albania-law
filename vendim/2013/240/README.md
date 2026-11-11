@@ -24,7 +24,7 @@ Përcaktimin e kritereve të tregtimit dhe të certifikimit të materialeve të 
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-240` (tags `vendim-2013-240/<day>`; `python tools/on.py <day> vendim-2013-240`).
+Act id: `vendim-2013-240` (tags `vendim-2013-240/<day>`; `python registry/tools/on.py <day> vendim-2013-240`).
 
 ## Decisions made by hand
 

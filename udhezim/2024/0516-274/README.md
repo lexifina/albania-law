@@ -29,7 +29,7 @@ Përcaktimin e procedurave, afateve, kritereve dhe dokumentacionin e nevojshëm 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-07-31 |
 
-Act id: `udhezim-2024-0516-274` (tags `udhezim-2024-0516-274/<day>`; `python tools/on.py <day> udhezim-2024-0516-274`).
+Act id: `udhezim-2024-0516-274` (tags `udhezim-2024-0516-274/<day>`; `python registry/tools/on.py <day> udhezim-2024-0516-274`).
 
 ## Decisions made by hand
 

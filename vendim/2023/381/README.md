@@ -11,7 +11,7 @@ Hapjen e procedurës së pranimit në kategorinë e ulët dhe të mesme drejtues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-11-17 |
 
-Act id: `vendim-2023-381` (tags `vendim-2023-381/<day>`; `python tools/on.py <day> vendim-2023-381`).
+Act id: `vendim-2023-381` (tags `vendim-2023-381/<day>`; `python registry/tools/on.py <day> vendim-2023-381`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Përcaktimin e kritereve dhe procedurave për pranimin në shkollat e arsimit t�
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0512-14` (tags `udhezim-2015-0512-14/<day>`; `python tools/on.py <day> udhezim-2015-0512-14`).
+Act id: `udhezim-2015-0512-14` (tags `udhezim-2015-0512-14/<day>`; `python registry/tools/on.py <day> udhezim-2015-0512-14`).
 
 ## Decisions made by hand
 

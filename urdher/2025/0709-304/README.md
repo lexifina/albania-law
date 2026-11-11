@@ -10,7 +10,7 @@ Miratimin e formatit të recetës mjekësore · 1 versions, from 2025-08-01 (lat
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0709-304` (tags `urdher-2025-0709-304/<day>`; `python tools/on.py <day> urdher-2025-0709-304`).
+Act id: `urdher-2025-0709-304` (tags `urdher-2025-0709-304/<day>`; `python registry/tools/on.py <day> urdher-2025-0709-304`).
 
 ## Decisions made by hand
 

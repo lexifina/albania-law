@@ -8,7 +8,7 @@ Lirimin nga detyra të drejtorit të përgjithshëm të policisë së shtetit ·
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-3` (tags `vendim-2018-3/<day>`; `python tools/on.py <day> vendim-2018-3`).
+Act id: `vendim-2018-3` (tags `vendim-2018-3/<day>`; `python registry/tools/on.py <day> vendim-2018-3`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Aderimin e republikës së shqipërisë në ndryshimet e neneve të marrëveshje
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-105-2012` (tags `ligji-105-2012/<day>`; `python tools/on.py <day> ligji-105-2012`).
+Act id: `ligji-105-2012` (tags `ligji-105-2012/<day>`; `python registry/tools/on.py <day> ligji-105-2012`).
 
 ## Decisions made by hand
 

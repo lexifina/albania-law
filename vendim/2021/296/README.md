@@ -15,7 +15,7 @@ Përcaktimin e flamurit, stemës, uniformës, si dhe ngjyrës e shenjave në mje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-08-10 |
 
-Act id: `vendim-2021-296` (tags `vendim-2021-296/<day>`; `python tools/on.py <day> vendim-2021-296`).
+Act id: `vendim-2021-296` (tags `vendim-2021-296/<day>`; `python registry/tools/on.py <day> vendim-2021-296`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e planit kombëtar të veprimit “për parandalimin dhe luftën kund�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-312` (tags `vendim-2016-312/<day>`; `python tools/on.py <day> vendim-2016-312`).
+Act id: `vendim-2016-312` (tags `vendim-2016-312/<day>`; `python registry/tools/on.py <day> vendim-2016-312`).
 
 ## Decisions made by hand
 

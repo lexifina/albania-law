@@ -10,7 +10,7 @@ Ratifikimin e amendamentit të dispozitave, që lidhen me tregtinë, të Traktat
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9560` (tags `ligj-2006-9560/<day>`; `python tools/on.py <day> ligj-2006-9560`).
+Act id: `ligj-2006-9560` (tags `ligj-2006-9560/<day>`; `python registry/tools/on.py <day> ligj-2006-9560`).
 
 ## Decisions made by hand
 

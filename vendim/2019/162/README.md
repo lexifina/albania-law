@@ -8,7 +8,7 @@ Largimin nga detyra të një anëtari të Komisionit Kombëtar Rregullator të S
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-162` (tags `vendim-2019-162/<day>`; `python tools/on.py <day> vendim-2019-162`).
+Act id: `vendim-2019-162` (tags `vendim-2019-162/<day>`; `python registry/tools/on.py <day> vendim-2019-162`).
 
 ## Decisions made by hand
 

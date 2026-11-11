@@ -10,7 +10,15 @@ Një shtesë fondi në buxhetin e vitit 2015, miratuar për Ministrinë e Financ
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-212` (tags `vendim-2015-212/<day>`; `python tools/on.py <day> vendim-2015-212`).
+Act id: `vendim-2015-212` (tags `vendim-2015-212/<day>`; `python registry/tools/on.py <day> vendim-2015-212`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1091, datë 28.12.2015: Për një ndryshim në vendimin nr. 212, datë 11.3.2015, “Për një shtesë fondi në buxhetin e vitit 2015, miratuar për Ministrinë e Financave, për pagesën e shërbimeve juridike për përfaqësimin dhe mbrojtjen në çështjen e arbitrazhit ndërkombëtar ICC no. 20447/MHM S2 Albania sh.p.k. dhe Rapyscan Systems INC. kundër Republikës së Shqipërisë”](https://qbz.gov.al/eli/vendim/2015/12/28/1091)
 
 ## Decisions made by hand
 

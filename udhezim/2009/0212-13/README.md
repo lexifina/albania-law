@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për veprime e shërbime të administrat�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0212-13` (tags `udhezim-2009-0212-13/<day>`; `python tools/on.py <day> udhezim-2009-0212-13`).
+Act id: `udhezim-2009-0212-13` (tags `udhezim-2009-0212-13/<day>`; `python registry/tools/on.py <day> udhezim-2009-0212-13`).
 
 ## Decisions made by hand
 

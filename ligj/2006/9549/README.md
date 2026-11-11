@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së grantit të objektivit strategjik, ndërmjet 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9549` (tags `ligj-2006-9549/<day>`; `python tools/on.py <day> ligj-2006-9549`).
+Act id: `ligj-2006-9549` (tags `ligj-2006-9549/<day>`; `python registry/tools/on.py <day> ligj-2006-9549`).
 
 ## Decisions made by hand
 

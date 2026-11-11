@@ -16,7 +16,7 @@ Organizimin dhe funksionimin e agjencisë kombëtare të duhan -cigareve · 1 ve
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-224` (tags `vendim-2001-224/<day>`; `python tools/on.py <day> vendim-2001-224`).
+Act id: `vendim-2001-224` (tags `vendim-2001-224/<day>`; `python registry/tools/on.py <day> vendim-2001-224`).
 
 ## Decisions made by hand
 

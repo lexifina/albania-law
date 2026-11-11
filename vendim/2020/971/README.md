@@ -23,7 +23,7 @@ Miratimin e rregullave për politikat e përgjithshme shtetërore, për sistemin
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-971` (tags `vendim-2020-971/<day>`; `python tools/on.py <day> vendim-2020-971`).
+Act id: `vendim-2020-971` (tags `vendim-2020-971/<day>`; `python registry/tools/on.py <day> vendim-2020-971`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të prefektit të qarkut të beratit · 1 vers
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-634` (tags `vendim-2017-634/<day>`; `python tools/on.py <day> vendim-2017-634`).
+Act id: `vendim-2017-634` (tags `vendim-2017-634/<day>`; `python registry/tools/on.py <day> vendim-2017-634`).
 
 ## Decisions made by hand
 

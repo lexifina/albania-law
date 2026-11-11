@@ -9,7 +9,7 @@ Miratimin e raportit vjetor “për ndihmat shtetërore në vitin 2007” · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1023` (tags `vendim-2008-1023/<day>`; `python tools/on.py <day> vendim-2008-1023`).
+Act id: `vendim-2008-1023` (tags `vendim-2008-1023/<day>`; `python registry/tools/on.py <day> vendim-2008-1023`).
 
 ## Decisions made by hand
 

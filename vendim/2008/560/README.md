@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-560` (tags `vendim-2008-560/<day>`; `python tools/on.py <day> vendim-2008-560`).
+Act id: `vendim-2008-560` (tags `vendim-2008-560/<day>`; `python registry/tools/on.py <day> vendim-2008-560`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 764, datë 2.11.2011: Për disa shtesa në vendimet e Këshillit të Ministrave, nr.1056, datë 16.7.2008 “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën qendër bilisht të qarkut të korçës” dhe nr.560, datë 7.5.2008 “Për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që transferohen në pronësi të njësisë së qeverisjes vendore, komuna qendër bilisht të qarkut të korçës”](https://qbz.gov.al/eli/vendim/2011/11/02/764)
 
 ## Decisions made by hand
 

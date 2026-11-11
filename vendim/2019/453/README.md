@@ -46,7 +46,7 @@ Masën e subvencionit të interesave të kredisë dhe procedurën e dhënies së
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-04-29 |
 
-Act id: `vendim-2019-453` (tags `vendim-2019-453/<day>`; `python tools/on.py <day> vendim-2019-453`).
+Act id: `vendim-2019-453` (tags `vendim-2019-453/<day>`; `python registry/tools/on.py <day> vendim-2019-453`).
 
 ## Decisions made by hand
 

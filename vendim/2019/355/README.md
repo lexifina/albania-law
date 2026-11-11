@@ -17,7 +17,7 @@ Përcaktimin e specifikimeve të medaljeve të mirënjohjes publike dhe të vler
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-355` (tags `vendim-2019-355/<day>`; `python tools/on.py <day> vendim-2019-355`).
+Act id: `vendim-2019-355` (tags `vendim-2019-355/<day>`; `python registry/tools/on.py <day> vendim-2019-355`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së financimit (seco ii) ndërmjet republikës së s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-85` (tags `ligj-2017-85/<day>`; `python tools/on.py <day> ligj-2017-85`).
+Act id: `ligj-2017-85` (tags `ligj-2017-85/<day>`; `python registry/tools/on.py <day> ligj-2017-85`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-864` (tags `vendim-2009-864/<day>`; `python tools/on.py <day> vendim-2009-864`).
+Act id: `vendim-2009-864` (tags `vendim-2009-864/<day>`; `python registry/tools/on.py <day> vendim-2009-864`).
 
 ## Decisions made by hand
 

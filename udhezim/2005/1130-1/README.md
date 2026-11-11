@@ -5,7 +5,7 @@ Tarifat e shërbimit për lejet mjedisore · 2 versions, from 2005-12-29 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2005-1130-1` (tags `udhezim-2005-1130-1/<day>`; `python tools/on.py <day> udhezim-2005-1130-1`).
+Act id: `udhezim-2005-1130-1` (tags `udhezim-2005-1130-1/<day>`; `python registry/tools/on.py <day> udhezim-2005-1130-1`).
 
 ## Decisions made by hand
 

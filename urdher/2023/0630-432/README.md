@@ -43,7 +43,7 @@ Përcaktimin e rregullave të hollësishme për organizimin, zhvillimin, përmba
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0630-432` (tags `urdher-2023-0630-432/<day>`; `python tools/on.py <day> urdher-2023-0630-432`).
+Act id: `urdher-2023-0630-432` (tags `urdher-2023-0630-432/<day>`; `python registry/tools/on.py <day> urdher-2023-0630-432`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e instruksioneve për paraqitjen, hapjen dhe vlerësimin e ofertave p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2008-02-24 |
 
-Act id: `vendim-2008-82` (tags `vendim-2008-82/<day>`; `python tools/on.py <day> vendim-2008-82`).
+Act id: `vendim-2008-82` (tags `vendim-2008-82/<day>`; `python registry/tools/on.py <day> vendim-2008-82`).
 
 ## Decisions made by hand
 

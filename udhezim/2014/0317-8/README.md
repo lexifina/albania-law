@@ -8,7 +8,7 @@ Miratimin e listës së pasagjerëve udhëtues për transportin ndërkombëtar r
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0317-8` (tags `udhezim-2014-0317-8/<day>`; `python tools/on.py <day> udhezim-2014-0317-8`).
+Act id: `udhezim-2014-0317-8` (tags `udhezim-2014-0317-8/<day>`; `python registry/tools/on.py <day> udhezim-2014-0317-8`).
 
 ## Decisions made by hand
 

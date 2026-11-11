@@ -11,7 +11,7 @@ Dhënien e lejes për hapjen e shkollës së lartë universitare, jopublike “U
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-761` (tags `vendim-2005-761/<day>`; `python tools/on.py <day> vendim-2005-761`).
+Act id: `vendim-2005-761` (tags `vendim-2005-761/<day>`; `python registry/tools/on.py <day> vendim-2005-761`).
 
 ## Decisions made by hand
 

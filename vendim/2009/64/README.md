@@ -31,7 +31,7 @@ Kontratat në largësi · 1 versions, from 2009-02-09 (latest in force: 2009-02-
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-64` (tags `vendim-2009-64/<day>`; `python tools/on.py <day> vendim-2009-64`).
+Act id: `vendim-2009-64` (tags `vendim-2009-64/<day>`; `python registry/tools/on.py <day> vendim-2009-64`).
 
 ## Decisions made by hand
 

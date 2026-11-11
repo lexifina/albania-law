@@ -5,7 +5,7 @@ PER DISA KRITERE Të PARAQITJES Së KANDIDATëVE PëR DEPUTeT DHE PëRLLOGARITJE
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2001-0603-43` (tags `udhezim-2001-0603-43/<day>`; `python tools/on.py <day> udhezim-2001-0603-43`).
+Act id: `udhezim-2001-0603-43` (tags `udhezim-2001-0603-43/<day>`; `python registry/tools/on.py <day> udhezim-2001-0603-43`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Ndalimin e telefonit celular në institucionet arsimore parauniversitare · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-1116-34` (tags `udhezim-2018-1116-34/<day>`; `python tools/on.py <day> udhezim-2018-1116-34`).
+Act id: `udhezim-2018-1116-34` (tags `udhezim-2018-1116-34/<day>`; `python registry/tools/on.py <day> udhezim-2018-1116-34`).
 
 ## Decisions made by hand
 

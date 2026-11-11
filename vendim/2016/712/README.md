@@ -11,7 +11,7 @@ Miratimin e rregullores për kriteret dhe procedurat e licencimit të subjekteve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-05-05 |
 
-Act id: `vendim-2016-712` (tags `vendim-2016-712/<day>`; `python tools/on.py <day> vendim-2016-712`).
+Act id: `vendim-2016-712` (tags `vendim-2016-712/<day>`; `python registry/tools/on.py <day> vendim-2016-712`).
 
 ## Decisions made by hand
 

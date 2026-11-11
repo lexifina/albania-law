@@ -19,7 +19,7 @@ Pajisjen, për herë të parë, me letërnjoftim, të shtetasve shqiptarë dhe p
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1` (tags `vendim-2009-1/<day>`; `python tools/on.py <day> vendim-2009-1`).
+Act id: `vendim-2009-1` (tags `vendim-2009-1/<day>`; `python registry/tools/on.py <day> vendim-2009-1`).
 
 ## Decisions made by hand
 

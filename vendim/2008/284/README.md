@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-284` (tags `vendim-2008-284/<day>`; `python tools/on.py <day> vendim-2008-284`).
+Act id: `vendim-2008-284` (tags `vendim-2008-284/<day>`; `python registry/tools/on.py <day> vendim-2008-284`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 224, datë 28.3.2012: Për një shtesë në vendimin nr. 473, datë 16.7.2004 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën e ishmit” dhe për një shtesë në vendimin nr. 284, datë 12.3.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pyjeve dhe kullotave që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna ishëm, të qarkut të durrësit”](https://qbz.gov.al/eli/vendim/2012/03/28/224)
 
 ## Decisions made by hand
 

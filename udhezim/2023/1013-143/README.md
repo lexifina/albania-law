@@ -5,7 +5,7 @@ Përcaktimin e rregullave të veçanta të kalimit të shtetasve shqiptarë të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2023-1013-143` (tags `udhezim-2023-1013-143/<day>`; `python tools/on.py <day> udhezim-2023-1013-143`).
+Act id: `udhezim-2023-1013-143` (tags `udhezim-2023-1013-143/<day>`; `python registry/tools/on.py <day> udhezim-2023-1013-143`).
 
 ## Decisions made by hand
 

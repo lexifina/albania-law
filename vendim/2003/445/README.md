@@ -14,7 +14,7 @@ Inspektimin e punës së detarëve · 2 versions, from 2003-07-03 (latest in for
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2006-09-29 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-445` (tags `vendim-2003-445/<day>`; `python tools/on.py <day> vendim-2003-445`).
+Act id: `vendim-2003-445` (tags `vendim-2003-445/<day>`; `python registry/tools/on.py <day> vendim-2003-445`).
 
 ## Decisions made by hand
 

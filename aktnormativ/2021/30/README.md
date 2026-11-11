@@ -9,7 +9,16 @@ Miratimin e disa ndryshimeve të nënshkruara në marrëveshjen për prodhimin d
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2021-30` (tags `aktnormativ-2021-30/<day>`; `python tools/on.py <day> aktnormativ-2021-30`).
+Act id: `aktnormativ-2021-30` (tags `aktnormativ-2021-30/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-30`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 545, datë 29.9.2021: Për kryerjen e pagesës së dozave të vaksinave dhe të pagesave respektive që rrjedhin nga akti normativ nr. 30, datë 27.9.2021, i Këshillit të Ministrave, ”Për miratimin e disa ndryshimeve të nënshkruara në marrëveshjen për prodhimin dhe furnizimin nga dhe ndërmjet PFIZER EXPORT B.V. dhe ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, Ministrit të Shtetit për rindërtimin dhe Institutit të Shëndetit Publik, miratuar me aktin normativ nr. 3, datë 18.1.2021”](https://qbz.gov.al/eli/vendim/2021/09/29/545)
+- [Ligji nr. 106/2021: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 30, datë 27.9.2021 “Për miratimin e disa ndryshimeve të nënshkruara në marrëveshjen për prodhimin dhe furnizimin nga dhe ndërmjet Pfizer Export B.V. dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale të Shqipërisë, ministrit të Shtetit për Rindërtimin dhe Institutit të Shëndetit Publik, miratuar me aktin normativ nr. 3, datë 18.1.2021, të Këshillit të Ministrave”](https://qbz.gov.al/eli/ligj/2021/11/04/106)
 
 ## Decisions made by hand
 

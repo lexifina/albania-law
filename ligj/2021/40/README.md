@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese me shkëmbim letrash të marrëveshjes s�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2021-40` (tags `ligj-2021-40/<day>`; `python tools/on.py <day> ligj-2021-40`).
+Act id: `ligj-2021-40` (tags `ligj-2021-40/<day>`; `python registry/tools/on.py <day> ligj-2021-40`).
 
 ## Decisions made by hand
 

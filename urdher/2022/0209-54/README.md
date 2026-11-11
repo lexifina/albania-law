@@ -15,7 +15,7 @@ Pezullimin e licencës për ushtrimin e veprimtarisë së instiitucionit arsimor
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0209-54` (tags `urdher-2022-0209-54/<day>`; `python tools/on.py <day> urdher-2022-0209-54`).
+Act id: `urdher-2022-0209-54` (tags `urdher-2022-0209-54/<day>`; `python registry/tools/on.py <day> urdher-2022-0209-54`).
 
 ## Decisions made by hand
 

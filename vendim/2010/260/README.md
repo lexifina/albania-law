@@ -5,7 +5,7 @@ Metodikën e llogaritjes së masës së qirasë, kur banesat sociale me qira fin
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-260` (tags `vendim-2010-260/<day>`; `python tools/on.py <day> vendim-2010-260`).
+Act id: `vendim-2010-260` (tags `vendim-2010-260/<day>`; `python registry/tools/on.py <day> vendim-2010-260`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Kalimin e përgjegjësisë së administrimit të objekteve të institutit të si
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-387` (tags `vendim-2005-387/<day>`; `python tools/on.py <day> vendim-2005-387`).
+Act id: `vendim-2005-387` (tags `vendim-2005-387/<day>`; `python registry/tools/on.py <day> vendim-2005-387`).
 
 ## Decisions made by hand
 

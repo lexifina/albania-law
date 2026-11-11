@@ -14,7 +14,15 @@ Kriteret dhe procedurat e kryerjes së rimbursimit nga taksa e biznesit të vog�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1065` (tags `vendim-2010-1065/<day>`; `python tools/on.py <day> vendim-2010-1065`).
+Act id: `vendim-2010-1065` (tags `vendim-2010-1065/<day>`; `python registry/tools/on.py <day> vendim-2010-1065`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 190, datë 9.3.2011: Për disa ndryshime në vendimin nr.1065, datë 29.12.2010 të këshillit të ministrave “për kriteret dhe procedurat e kryerjes së rimbursimit nga taksa e biznesit të vogël të pagesës për pajisjet fiskale dhe taksimetrat”](https://qbz.gov.al/eli/vendim/2011/03/09/190)
 
 ## Decisions made by hand
 

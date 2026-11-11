@@ -15,7 +15,7 @@ Shpalljen e zonës ekonomike në shëngjin, lezhë · 1 versions, from 2008-01-1
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-11` (tags `vendim-2008-11/<day>`; `python tools/on.py <day> vendim-2008-11`).
+Act id: `vendim-2008-11` (tags `vendim-2008-11/<day>`; `python registry/tools/on.py <day> vendim-2008-11`).
 
 ## Decisions made by hand
 

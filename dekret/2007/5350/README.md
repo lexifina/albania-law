@@ -5,7 +5,7 @@ Krijimin e rretheve gjyqësore, caktimin e kompetencave tokësore dhe të qendr�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `dekret-2007-5350` (tags `dekret-2007-5350/<day>`; `python tools/on.py <day> dekret-2007-5350`).
+Act id: `dekret-2007-5350` (tags `dekret-2007-5350/<day>`; `python registry/tools/on.py <day> dekret-2007-5350`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Aderimin në rezolutën e Bordit të Guvernatorëve të Bankës së Detit të Zi
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-113-2013` (tags `ligji-113-2013/<day>`; `python tools/on.py <day> ligji-113-2013`).
+Act id: `ligji-113-2013` (tags `ligji-113-2013/<day>`; `python registry/tools/on.py <day> ligji-113-2013`).
 
 ## Decisions made by hand
 

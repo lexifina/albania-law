@@ -13,7 +13,7 @@ Krijimin e institucionit Shtëpia e Pushimit e Ministrisë së Brendshme (SHPMB)
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-688` (tags `vendim-2006-688/<day>`; `python tools/on.py <day> vendim-2006-688`).
+Act id: `vendim-2006-688` (tags `vendim-2006-688/<day>`; `python registry/tools/on.py <day> vendim-2006-688`).
 
 ## Decisions made by hand
 

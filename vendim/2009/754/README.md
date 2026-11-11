@@ -5,7 +5,7 @@ Miratimin e kontratës, me ndarje prodhimi, për kërkimin, zhvillimin dhe prodh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-754` (tags `vendim-2009-754/<day>`; `python tools/on.py <day> vendim-2009-754`).
+Act id: `vendim-2009-754` (tags `vendim-2009-754/<day>`; `python registry/tools/on.py <day> vendim-2009-754`).
 
 ## Decisions made by hand
 

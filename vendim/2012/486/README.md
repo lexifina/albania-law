@@ -5,7 +5,7 @@ Miratimin e planit kombëtar për zbatimin e marrëveshjes së stabilizim-asocii
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-486` (tags `vendim-2012-486/<day>`; `python tools/on.py <day> vendim-2012-486`).
+Act id: `vendim-2012-486` (tags `vendim-2012-486/<day>`; `python registry/tools/on.py <day> vendim-2012-486`).
 
 ## Decisions made by hand
 

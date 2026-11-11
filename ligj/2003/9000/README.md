@@ -45,7 +45,7 @@ Organizimin dhe funksionimin e këshillit të ministrave · 1 versions, from 200
 | Neni 33 | [neni-033.md](neni-033.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9000-2003` (tags `ligji-9000-2003/<day>`; `python tools/on.py <day> ligji-9000-2003`).
+Act id: `ligji-9000-2003` (tags `ligji-9000-2003/<day>`; `python registry/tools/on.py <day> ligji-9000-2003`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe republik�
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-97` (tags `ligj-2012-97/<day>`; `python tools/on.py <day> ligj-2012-97`).
+Act id: `ligj-2012-97` (tags `ligj-2012-97/<day>`; `python registry/tools/on.py <day> ligj-2012-97`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në vendimin iii/1, amendament i konvent
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9299` (tags `ligj-2004-9299/<day>`; `python tools/on.py <day> ligj-2004-9299`).
+Act id: `ligj-2004-9299` (tags `ligj-2004-9299/<day>`; `python registry/tools/on.py <day> ligj-2004-9299`).
 
 ## Decisions made by hand
 

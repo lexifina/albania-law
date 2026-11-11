@@ -10,7 +10,7 @@ Përfundimin e vitit shkollor 2009-2010 dhe për zhvillimin e provimeve të liri
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0225-7` (tags `udhezim-2010-0225-7/<day>`; `python tools/on.py <day> udhezim-2010-0225-7`).
+Act id: `udhezim-2010-0225-7` (tags `udhezim-2010-0225-7/<day>`; `python registry/tools/on.py <day> udhezim-2010-0225-7`).
 
 ## Decisions made by hand
 

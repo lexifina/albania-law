@@ -10,7 +10,7 @@ Miratimin e listës së veprimtarive që ndikojnë në mjedis, për të cilat k�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-805` (tags `vendim-2003-805/<day>`; `python tools/on.py <day> vendim-2003-805`).
+Act id: `vendim-2003-805` (tags `vendim-2003-805/<day>`; `python registry/tools/on.py <day> vendim-2003-805`).
 
 ## Decisions made by hand
 

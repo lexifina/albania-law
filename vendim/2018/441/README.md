@@ -12,7 +12,7 @@ Ndryshimin e varësisë së klubit sportiv shumësportësh “partizani” dhe k
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-441` (tags `vendim-2018-441/<day>`; `python tools/on.py <day> vendim-2018-441`).
+Act id: `vendim-2018-441` (tags `vendim-2018-441/<day>`; `python registry/tools/on.py <day> vendim-2018-441`).
 
 ## Decisions made by hand
 

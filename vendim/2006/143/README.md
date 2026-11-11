@@ -9,7 +9,7 @@ Miratimin e marrëveshjes, ndërmjet Qeverisë së Republikës të Shqipërisë 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-143` (tags `vendim-2006-143/<day>`; `python tools/on.py <day> vendim-2006-143`).
+Act id: `vendim-2006-143` (tags `vendim-2006-143/<day>`; `python registry/tools/on.py <day> vendim-2006-143`).
 
 ## Decisions made by hand
 

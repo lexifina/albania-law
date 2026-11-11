@@ -15,7 +15,7 @@ Ngritjen e grupit ndërinstitucional të punës për verifikim dhe kontrollin e 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0224-27` (tags `urdher-2015-0224-27/<day>`; `python tools/on.py <day> urdher-2015-0224-27`).
+Act id: `urdher-2015-0224-27` (tags `urdher-2015-0224-27/<day>`; `python registry/tools/on.py <day> urdher-2015-0224-27`).
 
 ## Decisions made by hand
 

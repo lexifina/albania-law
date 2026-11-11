@@ -11,7 +11,7 @@ Përcaktimin e kritereve të konkurrimit për dhënien me qira, me çmimin simbo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-536` (tags `vendim-2007-536/<day>`; `python tools/on.py <day> vendim-2007-536`).
+Act id: `vendim-2007-536` (tags `vendim-2007-536/<day>`; `python registry/tools/on.py <day> vendim-2007-536`).
 
 ## Decisions made by hand
 

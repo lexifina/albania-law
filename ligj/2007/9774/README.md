@@ -51,7 +51,7 @@ Vlerësimin dhe administrimin e zhurmës në mjedis · 1 versions, from 2023-07-
 | Neni 36 | [neni-036.md](neni-036.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9774` (tags `ligj-2007-9774/<day>`; `python tools/on.py <day> ligj-2007-9774`).
+Act id: `ligj-2007-9774` (tags `ligj-2007-9774/<day>`; `python registry/tools/on.py <day> ligj-2007-9774`).
 
 ## Decisions made by hand
 

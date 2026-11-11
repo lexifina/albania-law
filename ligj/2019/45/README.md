@@ -95,7 +95,7 @@ Mbrojtjen civile · 1 versions, from 2019-08-16 (latest in force: 2019-08-16) ·
 | Neni 75 | [neni-075.md](neni-075.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-45-2019` (tags `ligji-45-2019/<day>`; `python tools/on.py <day> ligji-45-2019`).
+Act id: `ligji-45-2019` (tags `ligji-45-2019/<day>`; `python registry/tools/on.py <day> ligji-45-2019`).
 
 ## Decisions made by hand
 

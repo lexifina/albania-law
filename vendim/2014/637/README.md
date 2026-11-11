@@ -5,7 +5,7 @@ Dhënien e miratimit për lidhjen e kontratëssë qirasë me tarifën simbolike 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-637` (tags `vendim-2014-637/<day>`; `python tools/on.py <day> vendim-2014-637`).
+Act id: `vendim-2014-637` (tags `vendim-2014-637/<day>`; `python registry/tools/on.py <day> vendim-2014-637`).
 
 ## Decisions made by hand
 

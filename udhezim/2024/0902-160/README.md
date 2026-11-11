@@ -37,7 +37,7 @@ Përcaktimin e rregullave dhe procedurave për përzgjedhjen e kandidatit për D
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0902-160` (tags `udhezim-2024-0902-160/<day>`; `python tools/on.py <day> udhezim-2024-0902-160`).
+Act id: `udhezim-2024-0902-160` (tags `udhezim-2024-0902-160/<day>`; `python registry/tools/on.py <day> udhezim-2024-0902-160`).
 
 ## Decisions made by hand
 

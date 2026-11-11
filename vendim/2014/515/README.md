@@ -11,7 +11,15 @@ Një shtesë fondi në buxhetin e vitit 2014, miratuar për ministrinë e kultur
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-515` (tags `vendim-2014-515/<day>`; `python tools/on.py <day> vendim-2014-515`).
+Act id: `vendim-2014-515` (tags `vendim-2014-515/<day>`; `python registry/tools/on.py <day> vendim-2014-515`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 534, datë 6.8.2014: Ministrave, “për një shtesë fondi në buxhetin e vitit 2014, miratuar për ministrinë e kulturës dhe qendrën kombëtare të kinematografisë, për mbulimin e shpenzimeve që do të kryhen në kuadër të organizimit të punëve në vijim të ardhjes së papa françeskut në shqipëri”](https://qbz.gov.al/eli/vendim/2014/08/06/534)
 
 ## Decisions made by hand
 

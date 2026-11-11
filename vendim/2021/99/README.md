@@ -9,7 +9,7 @@ Miratimin e protokollit ndryshues të marrëveshjes për programin dypalësh të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-99` (tags `vendim-2021-99/<day>`; `python tools/on.py <day> vendim-2021-99`).
+Act id: `vendim-2021-99` (tags `vendim-2021-99/<day>`; `python registry/tools/on.py <day> vendim-2021-99`).
 
 ## Decisions made by hand
 

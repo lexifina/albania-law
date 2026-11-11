@@ -13,7 +13,7 @@ Plotësimin e standardeve të përgjithshme bazë në sigurinë e aviacionit civ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0313-2` (tags `udhezim-2015-0313-2/<day>`; `python tools/on.py <day> udhezim-2015-0313-2`).
+Act id: `udhezim-2015-0313-2` (tags `udhezim-2015-0313-2/<day>`; `python registry/tools/on.py <day> udhezim-2015-0313-2`).
 
 ## Decisions made by hand
 

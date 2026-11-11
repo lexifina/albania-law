@@ -15,7 +15,7 @@ Përcaktimin e kushteve të posaçme të licencimit, dokumenteve shoqëruese, pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-199` (tags `vendim-2021-199/<day>`; `python tools/on.py <day> vendim-2021-199`).
+Act id: `vendim-2021-199` (tags `vendim-2021-199/<day>`; `python registry/tools/on.py <day> vendim-2021-199`).
 
 ## Decisions made by hand
 

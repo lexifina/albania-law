@@ -14,7 +14,7 @@ Mbylljen e veprimtarisë mësimore të institucioneve të arsimit parauniversita
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-0222-82` (tags `urdher-2016-0222-82/<day>`; `python tools/on.py <day> urdher-2016-0222-82`).
+Act id: `urdher-2016-0222-82` (tags `urdher-2016-0222-82/<day>`; `python registry/tools/on.py <day> urdher-2016-0222-82`).
 
 ## Decisions made by hand
 

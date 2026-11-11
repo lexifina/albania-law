@@ -9,7 +9,15 @@ Miratimin e marrëveshjes së grantit SECO, ndërmjet Republikës së Shqipëris
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-183` (tags `vendim-2023-183/<day>`; `python tools/on.py <day> vendim-2023-183`).
+Act id: `vendim-2023-183` (tags `vendim-2023-183/<day>`; `python registry/tools/on.py <day> vendim-2023-183`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 213, datë 9.4.2025: Për miratimin e marrëveshjes ndryshuese të marrëveshjes së huas, ratifikuar me ligjin nr.41/2023, marrëveshjes së grantit për masat shoqëruese, miratuar me vendimin nr.182, datë 29.3.2023, të Këshillit të Ministrave, marrëveshjes së grantit të investimit, miratuar me vendimin nr.184, datë 29.3.2023, të Këshillit të Ministrave, marrëveshjes së grantit SECO, miratuar me vendimin nr.183, datë 29.3.2023, të Këshillit të Ministrave, ndërmjet KfW Frankfurt am Main dhe Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, Ministria e Infrastrukturës dhe Energjisë dhe Ministria e Turizmit dhe Mjedisit, për programin “Menaxhimi i qëndrueshëm dhe miqësor me klimën në sektorin e mbetjeve të ngurta”](https://qbz.gov.al/eli/vendim/2025/04/09/213)
 
 ## Decisions made by hand
 

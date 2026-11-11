@@ -5,7 +5,7 @@ Mënyrën e ofrimit të shërbimeve publike në sportel në republikën e shqip�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2016-13` (tags `ligj-2016-13/<day>`; `python tools/on.py <day> ligj-2016-13`).
+Act id: `ligj-2016-13` (tags `ligj-2016-13/<day>`; `python registry/tools/on.py <day> ligj-2016-13`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e buxhetit për Autoritetin e Komunikimeve Elektronike dhe Postare, p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-12-29 |
 
-Act id: `vendim-2022-750` (tags `vendim-2022-750/<day>`; `python tools/on.py <day> vendim-2022-750`).
+Act id: `vendim-2022-750` (tags `vendim-2022-750/<day>`; `python registry/tools/on.py <day> vendim-2022-750`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes së huasë dhe projektit ndërmjet Republikës së S
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2010-10249` (tags `ligj-2010-10249/<day>`; `python tools/on.py <day> ligj-2010-10249`).
+Act id: `ligj-2010-10249` (tags `ligj-2010-10249/<day>`; `python registry/tools/on.py <day> ligj-2010-10249`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 23/2017: Për ratifikimin e ndryshimit të marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 37 750 000 eurosh, të ratifikuar me ligjin nr. 10 249, datë 11.3.2010](https://qbz.gov.al/eli/ligj/2017/03/02/23)
 
 ## Decisions made by hand
 

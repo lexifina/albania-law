@@ -20,7 +20,7 @@ Miratimin e formës së informacioneve tremujore, vjetore, përfundimtare dhe p�
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0413-311` (tags `urdher-2011-0413-311/<day>`; `python tools/on.py <day> urdher-2011-0413-311`).
+Act id: `urdher-2011-0413-311` (tags `urdher-2011-0413-311/<day>`; `python registry/tools/on.py <day> urdher-2011-0413-311`).
 
 ## Decisions made by hand
 

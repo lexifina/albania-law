@@ -10,7 +10,7 @@ Shpalljen e përkthimit të Ndryshimeve të Përmirësimeve Vjetore të Standard
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0519-73` (tags `urdher-2025-0519-73/<day>`; `python tools/on.py <day> urdher-2025-0519-73`).
+Act id: `urdher-2025-0519-73` (tags `urdher-2025-0519-73/<day>`; `python registry/tools/on.py <day> urdher-2025-0519-73`).
 
 ## Decisions made by hand
 

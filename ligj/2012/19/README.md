@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit të marrëveshjes ndërmjet këshillit të ministrave t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2012-19` (tags `ligj-2012-19/<day>`; `python tools/on.py <day> ligj-2012-19`).
+Act id: `ligj-2012-19` (tags `ligj-2012-19/<day>`; `python registry/tools/on.py <day> ligj-2012-19`).
 
 ## Decisions made by hand
 

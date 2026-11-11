@@ -11,7 +11,7 @@ Miratimin e strategjisë së qeverisë për ristrukturimin e pagave në administ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-1999-240` (tags `vendim-1999-240/<day>`; `python tools/on.py <day> vendim-1999-240`).
+Act id: `vendim-1999-240` (tags `vendim-1999-240/<day>`; `python registry/tools/on.py <day> vendim-1999-240`).
 
 ## Decisions made by hand
 

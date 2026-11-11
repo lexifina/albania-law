@@ -16,7 +16,7 @@ Përcaktimin e kritereve për funksionet drejtuese dhe përcaktimin e klasës s�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-327` (tags `vendim-2023-327/<day>`; `python tools/on.py <day> vendim-2023-327`).
+Act id: `vendim-2023-327` (tags `vendim-2023-327/<day>`; `python registry/tools/on.py <day> vendim-2023-327`).
 
 ## Decisions made by hand
 

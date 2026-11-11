@@ -23,7 +23,7 @@ Përcaktimin e rregullave të monitorimit dhe vlerësimit të subjekteve që kan
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0624-374` (tags `udhezim-2021-0624-374/<day>`; `python tools/on.py <day> udhezim-2021-0624-374`).
+Act id: `udhezim-2021-0624-374` (tags `udhezim-2021-0624-374/<day>`; `python registry/tools/on.py <day> udhezim-2021-0624-374`).
 
 ## Decisions made by hand
 

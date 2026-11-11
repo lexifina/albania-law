@@ -5,7 +5,7 @@ Monitorimin dhe kontrollin e nivelit të zhurmave në qendrat urbane dhe turisti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-587` (tags `vendim-2010-587/<day>`; `python tools/on.py <day> vendim-2010-587`).
+Act id: `vendim-2010-587` (tags `vendim-2010-587/<day>`; `python registry/tools/on.py <day> vendim-2010-587`).
 
 ## Decisions made by hand
 

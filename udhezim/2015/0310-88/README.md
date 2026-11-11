@@ -15,7 +15,7 @@ Llojet e vizitave dhe përmbajtjen e raportit mjekësor për veprimtaritë me ar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0310-88` (tags `udhezim-2015-0310-88/<day>`; `python tools/on.py <day> udhezim-2015-0310-88`).
+Act id: `udhezim-2015-0310-88` (tags `udhezim-2015-0310-88/<day>`; `python registry/tools/on.py <day> udhezim-2015-0310-88`).
 
 ## Decisions made by hand
 

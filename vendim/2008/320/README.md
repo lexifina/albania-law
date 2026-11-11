@@ -5,7 +5,7 @@ Sistemin e identifikimit të kafshëve dhe të regjistrimit të fermave blegtora
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-320` (tags `vendim-2008-320/<day>`; `python tools/on.py <day> vendim-2008-320`).
+Act id: `vendim-2008-320` (tags `vendim-2008-320/<day>`; `python registry/tools/on.py <day> vendim-2008-320`).
 
 ## Decisions made by hand
 

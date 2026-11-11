@@ -10,7 +10,7 @@ Procedurat Standarde të Veprimit (PSV) për trajtimin e rasteve të dhunës në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0221-100` (tags `urdher-2020-0221-100/<day>`; `python tools/on.py <day> urdher-2020-0221-100`).
+Act id: `urdher-2020-0221-100` (tags `urdher-2020-0221-100/<day>`; `python registry/tools/on.py <day> urdher-2020-0221-100`).
 
 ## Decisions made by hand
 

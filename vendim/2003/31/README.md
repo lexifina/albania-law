@@ -11,7 +11,7 @@ Fillimin e procedurës së ndërtimit, me koncesion të formës “Boo”, të h
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-31` (tags `vendim-2003-31/<day>`; `python tools/on.py <day> vendim-2003-31`).
+Act id: `vendim-2003-31` (tags `vendim-2003-31/<day>`; `python registry/tools/on.py <day> vendim-2003-31`).
 
 ## Decisions made by hand
 

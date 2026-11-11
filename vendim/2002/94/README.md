@@ -11,7 +11,7 @@ Një shtesë fondi, në Buxhetin e vitit 2002, miratuar për Kuvendin e Republik
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-94` (tags `vendim-2002-94/<day>`; `python tools/on.py <day> vendim-2002-94`).
+Act id: `vendim-2002-94` (tags `vendim-2002-94/<day>`; `python registry/tools/on.py <day> vendim-2002-94`).
 
 ## Decisions made by hand
 

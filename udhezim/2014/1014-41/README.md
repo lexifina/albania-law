@@ -19,7 +19,7 @@ Procedurat e pranimit për plotësimin e kuotave të parealizuara në raundin e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-12-31 |
 
-Act id: `udhezim-2014-1014-41` (tags `udhezim-2014-1014-41/<day>`; `python tools/on.py <day> udhezim-2014-1014-41`).
+Act id: `udhezim-2014-1014-41` (tags `udhezim-2014-1014-41/<day>`; `python registry/tools/on.py <day> udhezim-2014-1014-41`).
 
 ## Decisions made by hand
 

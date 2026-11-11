@@ -12,7 +12,7 @@ Shpërndarjen dhe detajimin e fondit 1 000 000 000 (një miliard) lekë në prog
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-170` (tags `vendim-2019-170/<day>`; `python tools/on.py <day> vendim-2019-170`).
+Act id: `vendim-2019-170` (tags `vendim-2019-170/<day>`; `python registry/tools/on.py <day> vendim-2019-170`).
 
 ## Decisions made by hand
 

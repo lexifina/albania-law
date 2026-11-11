@@ -5,7 +5,7 @@ Funksionet, përgjegjësitë dhe procedurat që do të zbatohen nga avokati i ta
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2010-1105-37` (tags `udhezim-2010-1105-37/<day>`; `python tools/on.py <day> udhezim-2010-1105-37`).
+Act id: `udhezim-2010-1105-37` (tags `udhezim-2010-1105-37/<day>`; `python registry/tools/on.py <day> udhezim-2010-1105-37`).
 
 ## Decisions made by hand
 

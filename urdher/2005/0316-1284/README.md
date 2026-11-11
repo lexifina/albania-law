@@ -10,7 +10,7 @@ Miratimin e tarifave të shpërblimit të avokatëve për dhënien e ndihmës ju
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2005-0316-1284` (tags `urdher-2005-0316-1284/<day>`; `python tools/on.py <day> urdher-2005-0316-1284`).
+Act id: `urdher-2005-0316-1284` (tags `urdher-2005-0316-1284/<day>`; `python registry/tools/on.py <day> urdher-2005-0316-1284`).
 
 ## Decisions made by hand
 

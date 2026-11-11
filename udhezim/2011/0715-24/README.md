@@ -22,7 +22,7 @@ Procedurat e botimit, shtypjes, shpërndarjes dhe shitjes së teksteve shkollore
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0715-24` (tags `udhezim-2011-0715-24/<day>`; `python tools/on.py <day> udhezim-2011-0715-24`).
+Act id: `udhezim-2011-0715-24` (tags `udhezim-2011-0715-24/<day>`; `python registry/tools/on.py <day> udhezim-2011-0715-24`).
 
 ## Decisions made by hand
 

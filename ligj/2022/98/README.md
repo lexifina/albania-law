@@ -18,7 +18,7 @@ Krijimin e kontributit të solidaritetit gjatë kohëzgjatjes së periudhës së
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-98` (tags `ligj-2022-98/<day>`; `python tools/on.py <day> ligj-2022-98`).
+Act id: `ligj-2022-98` (tags `ligj-2022-98/<day>`; `python registry/tools/on.py <day> ligj-2022-98`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Përcaktimin e procedurave dhe afateve për pezullimin apo revokimin e licencës
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-488` (tags `vendim-2026-488/<day>`; `python tools/on.py <day> vendim-2026-488`).
+Act id: `vendim-2026-488` (tags `vendim-2026-488/<day>`; `python registry/tools/on.py <day> vendim-2026-488`).
 
 ## Decisions made by hand
 

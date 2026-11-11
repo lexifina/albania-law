@@ -5,7 +5,7 @@ Përcaktimin e fondit të ngurtësimit për garancinë e fituesit/fituesve në l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2007-0306-151` (tags `urdher-2007-0306-151/<day>`; `python tools/on.py <day> urdher-2007-0306-151`).
+Act id: `urdher-2007-0306-151` (tags `urdher-2007-0306-151/<day>`; `python registry/tools/on.py <day> urdher-2007-0306-151`).
 
 ## Decisions made by hand
 

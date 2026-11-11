@@ -10,7 +10,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2015, për autoritetin e komuniki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-924` (tags `vendim-2014-924/<day>`; `python tools/on.py <day> vendim-2014-924`).
+Act id: `vendim-2014-924` (tags `vendim-2014-924/<day>`; `python registry/tools/on.py <day> vendim-2014-924`).
 
 ## Decisions made by hand
 

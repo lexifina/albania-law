@@ -17,7 +17,7 @@ Organizimin dhe funksionimin e inspektoratit shtetëror të punës · 1 versions
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1139` (tags `vendim-2008-1139/<day>`; `python tools/on.py <day> vendim-2008-1139`).
+Act id: `vendim-2008-1139` (tags `vendim-2008-1139/<day>`; `python registry/tools/on.py <day> vendim-2008-1139`).
 
 ## Decisions made by hand
 

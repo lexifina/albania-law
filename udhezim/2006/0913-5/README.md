@@ -5,7 +5,7 @@ Kërkesat teknike të caktimit të ngastrave e nënngastrave për shfrytëzim, t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0913-5` (tags `udhezim-2006-0913-5/<day>`; `python tools/on.py <day> udhezim-2006-0913-5`).
+Act id: `udhezim-2006-0913-5` (tags `udhezim-2006-0913-5/<day>`; `python registry/tools/on.py <day> udhezim-2006-0913-5`).
 
 ## Decisions made by hand
 

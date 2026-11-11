@@ -5,7 +5,7 @@ Vlerësimin e konformitetit · 2 versions, from 2003-08-19 (latest in force: 200
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9097` (tags `ligj-2003-9097/<day>`; `python tools/on.py <day> ligj-2003-9097`).
+Act id: `ligj-2003-9097` (tags `ligj-2003-9097/<day>`; `python registry/tools/on.py <day> ligj-2003-9097`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Tarifat që zbatohen nga Autoriteti i Aviacionit Civil · 1 versions, from 2025-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1224-11` (tags `udhezim-2024-1224-11/<day>`; `python tools/on.py <day> udhezim-2024-1224-11`).
+Act id: `udhezim-2024-1224-11` (tags `udhezim-2024-1224-11/<day>`; `python registry/tools/on.py <day> udhezim-2024-1224-11`).
 
 ## Decisions made by hand
 

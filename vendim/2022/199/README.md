@@ -10,7 +10,7 @@ Kalimin te bashkitë Tiranë dhe Krujë të njësive të banimit në ndërtesa (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-06-10 |
 
-Act id: `vendim-2022-199` (tags `vendim-2022-199/<day>`; `python tools/on.py <day> vendim-2022-199`).
+Act id: `vendim-2022-199` (tags `vendim-2022-199/<day>`; `python registry/tools/on.py <day> vendim-2022-199`).
 
 ## Decisions made by hand
 

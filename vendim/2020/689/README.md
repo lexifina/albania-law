@@ -9,7 +9,7 @@ Përcaktimin e zonës ku do të lejohet vendosja e lojës së fatit, e kategoris
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-689` (tags `vendim-2020-689/<day>`; `python tools/on.py <day> vendim-2020-689`).
+Act id: `vendim-2020-689` (tags `vendim-2020-689/<day>`; `python registry/tools/on.py <day> vendim-2020-689`).
 
 ## Decisions made by hand
 

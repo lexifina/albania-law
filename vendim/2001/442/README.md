@@ -39,7 +39,7 @@ Kërkesat financiare dhe ato kontabël të pjesëmarrësve në tregun e letrave 
 | Pika 31 | [pika-031.md](pika-031.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-442` (tags `vendim-2001-442/<day>`; `python tools/on.py <day> vendim-2001-442`).
+Act id: `vendim-2001-442` (tags `vendim-2001-442/<day>`; `python registry/tools/on.py <day> vendim-2001-442`).
 
 ## Decisions made by hand
 

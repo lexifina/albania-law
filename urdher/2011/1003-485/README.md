@@ -16,7 +16,7 @@ Hapjen e programeve të studimit të ciklit të parë “bachelor”, programeve
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1003-485` (tags `urdher-2011-1003-485/<day>`; `python tools/on.py <day> urdher-2011-1003-485`).
+Act id: `urdher-2011-1003-485` (tags `urdher-2011-1003-485/<day>`; `python registry/tools/on.py <day> urdher-2011-1003-485`).
 
 ## Decisions made by hand
 

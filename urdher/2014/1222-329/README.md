@@ -10,7 +10,7 @@ Miratimin e rregullores “për të drejtat e invalidëve dhe personave me aftë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-1222-329` (tags `urdher-2014-1222-329/<day>`; `python tools/on.py <day> urdher-2014-1222-329`).
+Act id: `urdher-2014-1222-329` (tags `urdher-2014-1222-329/<day>`; `python registry/tools/on.py <day> urdher-2014-1222-329`).
 
 ## Decisions made by hand
 

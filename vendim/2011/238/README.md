@@ -5,7 +5,7 @@ Shpalljen e qendrës historike të qytetit të korçës dhe miratimin e rregullo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-238` (tags `vendim-2011-238/<day>`; `python tools/on.py <day> vendim-2011-238`).
+Act id: `vendim-2011-238` (tags `vendim-2011-238/<day>`; `python registry/tools/on.py <day> vendim-2011-238`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores për organizimin dhe zhvillimin e praktikave profesional
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-08-08 |
 
-Act id: `urdher-2022-0225-100` (tags `urdher-2022-0225-100/<day>`; `python tools/on.py <day> urdher-2022-0225-100`).
+Act id: `urdher-2022-0225-100` (tags `urdher-2022-0225-100/<day>`; `python registry/tools/on.py <day> urdher-2022-0225-100`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Disa shtesa dhe ndryshime në vendimin nr. 248, datë 27.4.2007 të këshillit t
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-26` (tags `vendim-2012-26/<day>`; `python tools/on.py <day> vendim-2012-26`).
+Act id: `vendim-2012-26` (tags `vendim-2012-26/<day>`; `python registry/tools/on.py <day> vendim-2012-26`).
 
 ## Decisions made by hand
 

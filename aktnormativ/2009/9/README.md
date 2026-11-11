@@ -15,7 +15,7 @@ Mënyrën e funksionimit e burimet e financimit të sistemit të tachograph digi
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2009-9` (tags `aktnormativ-2009-9/<day>`; `python tools/on.py <day> aktnormativ-2009-9`).
+Act id: `aktnormativ-2009-9` (tags `aktnormativ-2009-9/<day>`; `python registry/tools/on.py <day> aktnormativ-2009-9`).
 
 ## Decisions made by hand
 

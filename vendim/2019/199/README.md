@@ -10,7 +10,7 @@ Përcaktimin e kryetarit dhe emërimin e anëtarëve, përfaqësues të pushteti
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-199` (tags `vendim-2019-199/<day>`; `python tools/on.py <day> vendim-2019-199`).
+Act id: `vendim-2019-199` (tags `vendim-2019-199/<day>`; `python registry/tools/on.py <day> vendim-2019-199`).
 
 ## Decisions made by hand
 

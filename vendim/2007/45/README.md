@@ -11,7 +11,7 @@ Vendim Nr.45 Dt.24.01.2007 · 1 versions, from 2007-02-21 (latest in force: 2007
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-45` (tags `vendim-2007-45/<day>`; `python tools/on.py <day> vendim-2007-45`).
+Act id: `vendim-2007-45` (tags `vendim-2007-45/<day>`; `python registry/tools/on.py <day> vendim-2007-45`).
 
 ## Decisions made by hand
 

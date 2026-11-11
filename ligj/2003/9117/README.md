@@ -15,7 +15,7 @@ Përcaktimin e formës dhe të strukturës së formulës së privatizimit të �
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 
-Act id: `ligji-9117-2003` (tags `ligji-9117-2003/<day>`; `python tools/on.py <day> ligji-9117-2003`).
+Act id: `ligji-9117-2003` (tags `ligji-9117-2003/<day>`; `python registry/tools/on.py <day> ligji-9117-2003`).
 
 ## Decisions made by hand
 

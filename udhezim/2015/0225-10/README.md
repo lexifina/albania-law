@@ -17,7 +17,7 @@ Mënyrat, format e bashkëpunimit dhe procedurat e ndërhyrjes në ndihmë të f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0225-10` (tags `udhezim-2015-0225-10/<day>`; `python tools/on.py <day> udhezim-2015-0225-10`).
+Act id: `udhezim-2015-0225-10` (tags `udhezim-2015-0225-10/<day>`; `python registry/tools/on.py <day> udhezim-2015-0225-10`).
 
 ## Decisions made by hand
 

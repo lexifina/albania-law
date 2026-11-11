@@ -5,7 +5,7 @@ Përbërjen dhe funksionimin e komisioneve të vlerësimit të gradave · 2 vers
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-0403-211` (tags `udhezim-2017-0403-211/<day>`; `python tools/on.py <day> udhezim-2017-0403-211`).
+Act id: `udhezim-2017-0403-211` (tags `udhezim-2017-0403-211/<day>`; `python registry/tools/on.py <day> udhezim-2017-0403-211`).
 
 ## Decisions made by hand
 

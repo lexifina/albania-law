@@ -11,7 +11,7 @@ Pёr kryerjen e procedurave të prokurimit publik në mënyrë elektronike · 2 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-918` (tags `vendim-2014-918/<day>`; `python tools/on.py <day> vendim-2014-918`).
+Act id: `vendim-2014-918` (tags `vendim-2014-918/<day>`; `python registry/tools/on.py <day> vendim-2014-918`).
 
 ## Decisions made by hand
 

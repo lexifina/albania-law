@@ -20,7 +20,7 @@ Mbrojtjen e të dhënave personale shëndetësore · 1 versions, from 2025-05-02
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0430-2` (tags `udhezim-2025-0430-2/<day>`; `python tools/on.py <day> udhezim-2025-0430-2`).
+Act id: `udhezim-2025-0430-2` (tags `udhezim-2025-0430-2/<day>`; `python registry/tools/on.py <day> udhezim-2025-0430-2`).
 
 ## Decisions made by hand
 

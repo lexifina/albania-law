@@ -5,7 +5,7 @@ Miratimin e nomenklaturës së veprimtarive ekonomike të revizionuara (rev.2) �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-320` (tags `vendim-2014-320/<day>`; `python tools/on.py <day> vendim-2014-320`).
+Act id: `vendim-2014-320` (tags `vendim-2014-320/<day>`; `python registry/tools/on.py <day> vendim-2014-320`).
 
 ## Decisions made by hand
 

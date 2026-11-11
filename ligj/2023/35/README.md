@@ -23,7 +23,7 @@ Kompetencat për caktimin e pagave, trajtimeve të tjera financiare dhe përfiti
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2023-35` (tags `ligj-2023-35/<day>`; `python tools/on.py <day> ligj-2023-35`).
+Act id: `ligj-2023-35` (tags `ligj-2023-35/<day>`; `python registry/tools/on.py <day> ligj-2023-35`).
 
 ## Decisions made by hand
 

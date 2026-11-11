@@ -11,7 +11,7 @@ Miratimin e rregullores “Për sigurinë industriale, rregullat, procedurat dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-659` (tags `vendim-2024-659/<day>`; `python tools/on.py <day> vendim-2024-659`).
+Act id: `vendim-2024-659` (tags `vendim-2024-659/<day>`; `python registry/tools/on.py <day> vendim-2024-659`).
 
 ## Decisions made by hand
 

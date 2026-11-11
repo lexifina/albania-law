@@ -12,7 +12,7 @@ Krijimin e fondit të kompensimit fizik, nga objekte shtetërore të “albminie
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1696` (tags `vendim-2008-1696/<day>`; `python tools/on.py <day> vendim-2008-1696`).
+Act id: `vendim-2008-1696` (tags `vendim-2008-1696/<day>`; `python registry/tools/on.py <day> vendim-2008-1696`).
 
 ## Decisions made by hand
 

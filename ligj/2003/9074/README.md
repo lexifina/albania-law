@@ -5,7 +5,7 @@ Shërbimin informativ ushtarak · 3 versions, from 2003-07-18 (latest in force: 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9074` (tags `ligj-2003-9074/<day>`; `python tools/on.py <day> ligj-2003-9074`).
+Act id: `ligj-2003-9074` (tags `ligj-2003-9074/<day>`; `python registry/tools/on.py <day> ligj-2003-9074`).
 
 ## Decisions made by hand
 

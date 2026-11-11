@@ -8,7 +8,7 @@ Një ndryshim në udhëzimin nr. 1159, datë 17.3.2014, të ministrit të shteti
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-1103-4099` (tags `udhezim-2014-1103-4099/<day>`; `python tools/on.py <day> udhezim-2014-1103-4099`).
+Act id: `udhezim-2014-1103-4099` (tags `udhezim-2014-1103-4099/<day>`; `python registry/tools/on.py <day> udhezim-2014-1103-4099`).
 
 ## Decisions made by hand
 

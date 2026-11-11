@@ -18,7 +18,7 @@ Përcaktimin e rregullave të hollësishme për veprimtarinë dhe mënyrën e of
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-311` (tags `vendim-2022-311/<day>`; `python tools/on.py <day> vendim-2022-311`).
+Act id: `vendim-2022-311` (tags `vendim-2022-311/<day>`; `python registry/tools/on.py <day> vendim-2022-311`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Zbatimin e vendimin të Këshillit të Ministrave nr. 54, datë 5.2.2014 “Për
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-0903-6756` (tags `udhezim-2015-0903-6756/<day>`; `python tools/on.py <day> udhezim-2015-0903-6756`).
+Act id: `udhezim-2015-0903-6756` (tags `udhezim-2015-0903-6756/<day>`; `python registry/tools/on.py <day> udhezim-2015-0903-6756`).
 
 ## Decisions made by hand
 

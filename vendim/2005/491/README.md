@@ -5,7 +5,7 @@ Disa çështje për sekuestrimin e pasurive të paluajtshme, në kuadër të mas
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-491` (tags `vendim-2005-491/<day>`; `python tools/on.py <day> vendim-2005-491`).
+Act id: `vendim-2005-491` (tags `vendim-2005-491/<day>`; `python registry/tools/on.py <day> vendim-2005-491`).
 
 ## Decisions made by hand
 

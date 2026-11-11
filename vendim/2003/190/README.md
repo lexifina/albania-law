@@ -10,7 +10,7 @@ Miratimin e statutit të Organizatës së peshkimit · 1 versions, from 2003-03-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-190` (tags `vendim-2003-190/<day>`; `python tools/on.py <day> vendim-2003-190`).
+Act id: `vendim-2003-190` (tags `vendim-2003-190/<day>`; `python registry/tools/on.py <day> vendim-2003-190`).
 
 ## Decisions made by hand
 

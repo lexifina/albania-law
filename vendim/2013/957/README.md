@@ -9,7 +9,7 @@ Dhënien në përdorim Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit t
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-957` (tags `vendim-2013-957/<day>`; `python tools/on.py <day> vendim-2013-957`).
+Act id: `vendim-2013-957` (tags `vendim-2013-957/<day>`; `python registry/tools/on.py <day> vendim-2013-957`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Miratimin e rregullit teknik “për kërkesat teknike në instalimin dhe kontro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-245` (tags `vendim-2016-245/<day>`; `python tools/on.py <day> vendim-2016-245`).
+Act id: `vendim-2016-245` (tags `vendim-2016-245/<day>`; `python registry/tools/on.py <day> vendim-2016-245`).
 
 ## Decisions made by hand
 

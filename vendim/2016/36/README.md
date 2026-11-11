@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e inspektoratit shtetëror të mbikëqyrj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-36` (tags `vendim-2016-36/<day>`; `python tools/on.py <day> vendim-2016-36`).
+Act id: `vendim-2016-36` (tags `vendim-2016-36/<day>`; `python registry/tools/on.py <day> vendim-2016-36`).
 
 ## Decisions made by hand
 

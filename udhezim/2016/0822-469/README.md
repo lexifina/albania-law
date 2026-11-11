@@ -5,7 +5,7 @@ Listën e pikave të kalimit kufitar dhe zonave transit në republikën e shqip�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-0822-469` (tags `udhezim-2016-0822-469/<day>`; `python tools/on.py <day> udhezim-2016-0822-469`).
+Act id: `udhezim-2016-0822-469` (tags `udhezim-2016-0822-469/<day>`; `python registry/tools/on.py <day> udhezim-2016-0822-469`).
 
 ## Decisions made by hand
 

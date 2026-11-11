@@ -23,7 +23,7 @@ Aderimin e republikës së shqipërisë në traktatin e atlantikut të veriut ·
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 
-Act id: `ligji-10100-2009` (tags `ligji-10100-2009/<day>`; `python tools/on.py <day> ligji-10100-2009`).
+Act id: `ligji-10100-2009` (tags `ligji-10100-2009/<day>`; `python registry/tools/on.py <day> ligji-10100-2009`).
 
 ## Decisions made by hand
 

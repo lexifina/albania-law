@@ -5,7 +5,7 @@ Tarifat e përdoruesve të pronësisë artistike · 2 versions, from 2000-06-29 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-309` (tags `vendim-2000-309/<day>`; `python tools/on.py <day> vendim-2000-309`).
+Act id: `vendim-2000-309` (tags `vendim-2000-309/<day>`; `python registry/tools/on.py <day> vendim-2000-309`).
 
 ## Decisions made by hand
 

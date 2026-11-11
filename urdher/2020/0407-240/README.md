@@ -5,7 +5,7 @@ Vetëkarantinimin e shtetasve shqipëtarë të cilët duan të futen në territo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0407-240` (tags `urdher-2020-0407-240/<day>`; `python tools/on.py <day> urdher-2020-0407-240`).
+Act id: `urdher-2020-0407-240` (tags `urdher-2020-0407-240/<day>`; `python registry/tools/on.py <day> urdher-2020-0407-240`).
 
 ## Decisions made by hand
 

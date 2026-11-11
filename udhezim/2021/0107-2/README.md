@@ -21,7 +21,7 @@ Përcaktimin e rregullave më të hollësishme për regjistrimin e veprimeve dhe
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0107-2` (tags `udhezim-2021-0107-2/<day>`; `python tools/on.py <day> udhezim-2021-0107-2`).
+Act id: `udhezim-2021-0107-2` (tags `udhezim-2021-0107-2/<day>`; `python registry/tools/on.py <day> udhezim-2021-0107-2`).
 
 ## Decisions made by hand
 

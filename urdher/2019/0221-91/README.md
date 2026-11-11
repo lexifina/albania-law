@@ -5,7 +5,7 @@ Miratimin e rregullores mbi përcaktimin e kërkesave teknike dhe procedurave ad
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0221-91` (tags `urdher-2019-0221-91/<day>`; `python tools/on.py <day> urdher-2019-0221-91`).
+Act id: `urdher-2019-0221-91` (tags `urdher-2019-0221-91/<day>`; `python registry/tools/on.py <day> urdher-2019-0221-91`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Procedurat e zbatimit të ligjit nr. 149/2013 “Për miratimin e aktit normativ
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0531-16` (tags `udhezim-2013-0531-16/<day>`; `python tools/on.py <day> udhezim-2013-0531-16`).
+Act id: `udhezim-2013-0531-16` (tags `udhezim-2013-0531-16/<day>`; `python registry/tools/on.py <day> udhezim-2013-0531-16`).
 
 ## Decisions made by hand
 

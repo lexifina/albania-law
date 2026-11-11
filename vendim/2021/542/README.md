@@ -5,7 +5,7 @@ Rregullat, procedurat dhe kërkesat për mbrojtjen e informacionit të klasifiku
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-542` (tags `vendim-2021-542/<day>`; `python tools/on.py <day> vendim-2021-542`).
+Act id: `vendim-2021-542` (tags `vendim-2021-542/<day>`; `python registry/tools/on.py <day> vendim-2021-542`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kontrollin kufitar · 3 versions, from 2016-08-04 (latest in force: 2025-07-24) 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2016-71` (tags `ligj-2016-71/<day>`; `python tools/on.py <day> ligj-2016-71`).
+Act id: `ligj-2016-71` (tags `ligj-2016-71/<day>`; `python registry/tools/on.py <day> ligj-2016-71`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Dërgimin e kompanisë paqeruajtëse shqiptare në bosnjë-hercegovinë për të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9315` (tags `ligj-2004-9315/<day>`; `python tools/on.py <day> ligj-2004-9315`).
+Act id: `ligj-2004-9315` (tags `ligj-2004-9315/<day>`; `python registry/tools/on.py <day> ligj-2004-9315`).
 
 ## Decisions made by hand
 

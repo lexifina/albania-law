@@ -17,7 +17,7 @@ Krijimin e bazës së të dhënave shtetërore të shërbimit noterial shqiptar,
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-304` (tags `vendim-2014-304/<day>`; `python tools/on.py <day> vendim-2014-304`).
+Act id: `vendim-2014-304` (tags `vendim-2014-304/<day>`; `python registry/tools/on.py <day> vendim-2014-304`).
 
 ## Decisions made by hand
 

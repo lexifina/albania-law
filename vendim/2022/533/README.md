@@ -10,7 +10,7 @@ Emërimin e anëtarëve të Komisionit për Vlerësimin e Masave për Importet �
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-533` (tags `vendim-2022-533/<day>`; `python tools/on.py <day> vendim-2022-533`).
+Act id: `vendim-2022-533` (tags `vendim-2022-533/<day>`; `python registry/tools/on.py <day> vendim-2022-533`).
 
 ## Decisions made by hand
 

@@ -154,7 +154,7 @@ Sektorin e energjisë elektrike · 1 versions, from 2026-07-15 (latest in force:
 | Neni 137 | [neni-137.md](neni-137.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-59-2026` (tags `ligji-59-2026/<day>`; `python tools/on.py <day> ligji-59-2026`).
+Act id: `ligji-59-2026` (tags `ligji-59-2026/<day>`; `python registry/tools/on.py <day> ligji-59-2026`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Statistikat zyrtare · 4 versions, from 2004-03-27 (latest in force: 2018-05-11)
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9180` (tags `ligj-2004-9180/<day>`; `python tools/on.py <day> ligj-2004-9180`).
+Act id: `ligj-2004-9180` (tags `ligj-2004-9180/<day>`; `python registry/tools/on.py <day> ligj-2004-9180`).
 
 ## Decisions made by hand
 

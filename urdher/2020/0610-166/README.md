@@ -33,7 +33,7 @@ Formën, përmbajtjen dhe karakteristikat e tjera të vulave, si dhe rregullat p
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0610-166` (tags `urdher-2020-0610-166/<day>`; `python tools/on.py <day> urdher-2020-0610-166`).
+Act id: `urdher-2020-0610-166` (tags `urdher-2020-0610-166/<day>`; `python registry/tools/on.py <day> urdher-2020-0610-166`).
 
 ## Decisions made by hand
 

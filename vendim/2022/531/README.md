@@ -13,7 +13,7 @@ Miratimin e nurmrit të përgjithshëm të personelit të Policisë së Shtetit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-04-28 |
 
-Act id: `vendim-2022-531` (tags `vendim-2022-531/<day>`; `python tools/on.py <day> vendim-2022-531`).
+Act id: `vendim-2022-531` (tags `vendim-2022-531/<day>`; `python registry/tools/on.py <day> vendim-2022-531`).
 
 ## Decisions made by hand
 

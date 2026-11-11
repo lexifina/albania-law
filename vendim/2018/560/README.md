@@ -17,7 +17,7 @@ Caktimin e tarifave për shërbimet e ofruara nga qendra e shërbimeve arsimore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-07-05 |
 
-Act id: `vendim-2018-560` (tags `vendim-2018-560/<day>`; `python tools/on.py <day> vendim-2018-560`).
+Act id: `vendim-2018-560` (tags `vendim-2018-560/<day>`; `python registry/tools/on.py <day> vendim-2018-560`).
 
 ## Decisions made by hand
 

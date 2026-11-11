@@ -18,7 +18,7 @@ Organizimin dhe funksionimin e komisionit multidisiplinar, si dhe procedurat dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0509-394` (tags `udhezim-2019-0509-394/<day>`; `python tools/on.py <day> udhezim-2019-0509-394`).
+Act id: `udhezim-2019-0509-394` (tags `udhezim-2019-0509-394/<day>`; `python registry/tools/on.py <day> udhezim-2019-0509-394`).
 
 ## Decisions made by hand
 

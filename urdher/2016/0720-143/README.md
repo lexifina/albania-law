@@ -5,7 +5,7 @@ Miratimin e formatit dhe përmbajtjes së vërtetimit të transportit për lëvi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2016-0720-143` (tags `urdher-2016-0720-143/<day>`; `python tools/on.py <day> urdher-2016-0720-143`).
+Act id: `urdher-2016-0720-143` (tags `urdher-2016-0720-143/<day>`; `python registry/tools/on.py <day> urdher-2016-0720-143`).
 
 ## Decisions made by hand
 

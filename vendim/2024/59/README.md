@@ -18,7 +18,7 @@ Përcaktimin e kritereve, të procedurave dhe të dokumentacionit për subjektet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-59` (tags `vendim-2024-59/<day>`; `python tools/on.py <day> vendim-2024-59`).
+Act id: `vendim-2024-59` (tags `vendim-2024-59/<day>`; `python registry/tools/on.py <day> vendim-2024-59`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.3, datë 8.7.2010, të kësh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10309` (tags `ligj-2010-10309/<day>`; `python tools/on.py <day> ligj-2010-10309`).
+Act id: `ligj-2010-10309` (tags `ligj-2010-10309/<day>`; `python registry/tools/on.py <day> ligj-2010-10309`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Shpalljen “Peizazh i mbrojtur” (kategoria V) të zonës “Bredhi i Drenovë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-594` (tags `vendim-2024-594/<day>`; `python tools/on.py <day> vendim-2024-594`).
+Act id: `vendim-2024-594` (tags `vendim-2024-594/<day>`; `python registry/tools/on.py <day> vendim-2024-594`).
 
 ## Decisions made by hand
 

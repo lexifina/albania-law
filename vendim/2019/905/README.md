@@ -22,7 +22,7 @@ Përcaktimin e rregullave dhe të procedurave për kompensimin e shpenzimeve pë
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-905` (tags `vendim-2019-905/<day>`; `python tools/on.py <day> vendim-2019-905`).
+Act id: `vendim-2019-905` (tags `vendim-2019-905/<day>`; `python registry/tools/on.py <day> vendim-2019-905`).
 
 ## Decisions made by hand
 

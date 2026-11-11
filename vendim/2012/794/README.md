@@ -10,7 +10,7 @@ Lejimin e kuvendit të republikës së shqipërisë, si autoritet kontraktor, p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2012-794` (tags `vendim-2012-794/<day>`; `python tools/on.py <day> vendim-2012-794`).
+Act id: `vendim-2012-794` (tags `vendim-2012-794/<day>`; `python registry/tools/on.py <day> vendim-2012-794`).
 
 ## Decisions made by hand
 

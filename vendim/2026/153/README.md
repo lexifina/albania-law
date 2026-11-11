@@ -11,7 +11,7 @@ Miratimin e modelit tip të marrëveshjes, që lidhet ndërmjet Agjencisë Komb�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-153` (tags `vendim-2026-153/<day>`; `python tools/on.py <day> vendim-2026-153`).
+Act id: `vendim-2026-153` (tags `vendim-2026-153/<day>`; `python registry/tools/on.py <day> vendim-2026-153`).
 
 ## Decisions made by hand
 

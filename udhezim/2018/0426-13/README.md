@@ -60,7 +60,7 @@ Zbatimin e vendimit të këshillit të ministrave nr. 54, datë 5.2.2014 “për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0426-13` (tags `udhezim-2018-0426-13/<day>`; `python tools/on.py <day> udhezim-2018-0426-13`).
+Act id: `udhezim-2018-0426-13` (tags `udhezim-2018-0426-13/<day>`; `python registry/tools/on.py <day> udhezim-2018-0426-13`).
 
 ## Decisions made by hand
 

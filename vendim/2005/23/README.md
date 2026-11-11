@@ -13,7 +13,7 @@ Përbërjen, organizimin dhe funksionimin e komitetit kombëtar të strehimit ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-23` (tags `vendim-2005-23/<day>`; `python tools/on.py <day> vendim-2005-23`).
+Act id: `vendim-2005-23` (tags `vendim-2005-23/<day>`; `python registry/tools/on.py <day> vendim-2005-23`).
 
 ## Decisions made by hand
 

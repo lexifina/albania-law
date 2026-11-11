@@ -5,7 +5,7 @@ Ratifikimin e protokollit shtesë të konventës “për mbrojtjen e individëve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9287` (tags `ligj-2004-9287/<day>`; `python tools/on.py <day> ligj-2004-9287`).
+Act id: `ligj-2004-9287` (tags `ligj-2004-9287/<day>`; `python registry/tools/on.py <day> ligj-2004-9287`).
 
 ## Decisions made by hand
 

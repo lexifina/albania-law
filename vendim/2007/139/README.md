@@ -5,7 +5,7 @@ Kufijtë e përcaktimit të pagës në natyrë dhe kriteret e përllogaritjes s�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-139` (tags `vendim-2007-139/<day>`; `python tools/on.py <day> vendim-2007-139`).
+Act id: `vendim-2007-139` (tags `vendim-2007-139/<day>`; `python registry/tools/on.py <day> vendim-2007-139`).
 
 ## Decisions made by hand
 

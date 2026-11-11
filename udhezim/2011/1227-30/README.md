@@ -134,7 +134,7 @@ Menaxhimin e aktiveve në njësitë e sektorit publik · 4 versions, from 2011-1
 | Pika 126 | [pika-126.md](pika-126.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1227-30` (tags `udhezim-2011-1227-30/<day>`; `python tools/on.py <day> udhezim-2011-1227-30`).
+Act id: `udhezim-2011-1227-30` (tags `udhezim-2011-1227-30/<day>`; `python registry/tools/on.py <day> udhezim-2011-1227-30`).
 
 ## Decisions made by hand
 

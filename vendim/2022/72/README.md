@@ -10,7 +10,7 @@ Miratimin e buxhetit të Agjencisë Shtetërore të Kadastrës për vitin 2022 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-08-08 |
 
-Act id: `vendim-2022-72` (tags `vendim-2022-72/<day>`; `python tools/on.py <day> vendim-2022-72`).
+Act id: `vendim-2022-72` (tags `vendim-2022-72/<day>`; `python registry/tools/on.py <day> vendim-2022-72`).
 
 ## Decisions made by hand
 

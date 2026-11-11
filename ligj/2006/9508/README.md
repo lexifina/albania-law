@@ -29,7 +29,7 @@ Bashkëpunimin e publikut në luftën kundër korrupsionit · 1 versions, from 2
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9508` (tags `ligj-2006-9508/<day>`; `python tools/on.py <day> ligj-2006-9508`).
+Act id: `ligj-2006-9508` (tags `ligj-2006-9508/<day>`; `python registry/tools/on.py <day> ligj-2006-9508`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pagat në avokaturën e shtetit · 2 versions, from 2003-07-04 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-407` (tags `vendim-2003-407/<day>`; `python tools/on.py <day> vendim-2003-407`).
+Act id: `vendim-2003-407` (tags `vendim-2003-407/<day>`; `python registry/tools/on.py <day> vendim-2003-407`).
 
 ## Decisions made by hand
 

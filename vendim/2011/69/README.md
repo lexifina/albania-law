@@ -9,7 +9,7 @@ Miratimin e kuadrit makroekonomik e fiskal, për periudhën 2012 - 2014 · 3 ver
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-69` (tags `vendim-2011-69/<day>`; `python tools/on.py <day> vendim-2011-69`).
+Act id: `vendim-2011-69` (tags `vendim-2011-69/<day>`; `python registry/tools/on.py <day> vendim-2011-69`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Krijimin e qendrës së fizikës bërthamore të zbatuar dhe autoritetit atomik 
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-563` (tags `vendim-2007-563/<day>`; `python tools/on.py <day> vendim-2007-563`).
+Act id: `vendim-2007-563` (tags `vendim-2007-563/<day>`; `python registry/tools/on.py <day> vendim-2007-563`).
 
 ## Decisions made by hand
 

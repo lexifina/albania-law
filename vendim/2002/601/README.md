@@ -9,7 +9,7 @@ Miratimin e rregullores së funksionimit të Institutit të Integrimit të të P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-601` (tags `vendim-2002-601/<day>`; `python tools/on.py <day> vendim-2002-601`).
+Act id: `vendim-2002-601` (tags `vendim-2002-601/<day>`; `python registry/tools/on.py <day> vendim-2002-601`).
 
 ## Decisions made by hand
 

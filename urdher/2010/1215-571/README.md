@@ -12,7 +12,7 @@ Hapjen e programeve të studimeve të ciklit të dytë ”master i shkencave” 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1215-571` (tags `urdher-2010-1215-571/<day>`; `python tools/on.py <day> urdher-2010-1215-571`).
+Act id: `urdher-2010-1215-571` (tags `urdher-2010-1215-571/<day>`; `python registry/tools/on.py <day> urdher-2010-1215-571`).
 
 ## Decisions made by hand
 

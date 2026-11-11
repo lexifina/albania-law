@@ -18,7 +18,7 @@ Rregullat për shkëmbimin e grupeve dhe të shërbimeve të të dhënave gjeoha
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-399` (tags `vendim-2019-399/<day>`; `python tools/on.py <day> vendim-2019-399`).
+Act id: `vendim-2019-399` (tags `vendim-2019-399/<day>`; `python registry/tools/on.py <day> vendim-2019-399`).
 
 ## Decisions made by hand
 

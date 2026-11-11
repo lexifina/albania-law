@@ -30,7 +30,7 @@ Organizimin dhe funksionimin e grupeve vendore të veprimit · 1 versions, from 
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-36` (tags `ligj-2022-36/<day>`; `python tools/on.py <day> ligj-2022-36`).
+Act id: `ligj-2022-36` (tags `ligj-2022-36/<day>`; `python registry/tools/on.py <day> ligj-2022-36`).
 
 ## Decisions made by hand
 

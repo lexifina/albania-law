@@ -35,7 +35,7 @@ Ratifikimin e ”marrëveshjes ndërmjet këshillit të ministrave të republik�
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 
-Act id: `ligji-9141-2003` (tags `ligji-9141-2003/<day>`; `python tools/on.py <day> ligji-9141-2003`).
+Act id: `ligji-9141-2003` (tags `ligji-9141-2003/<day>`; `python registry/tools/on.py <day> ligji-9141-2003`).
 
 ## Decisions made by hand
 

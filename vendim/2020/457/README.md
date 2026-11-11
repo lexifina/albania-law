@@ -5,7 +5,7 @@ Mënyrën e organizimit dhe të funksionimit të Drejtorisë së Përgjithshme t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-457` (tags `vendim-2020-457/<day>`; `python tools/on.py <day> vendim-2020-457`).
+Act id: `vendim-2020-457` (tags `vendim-2020-457/<day>`; `python registry/tools/on.py <day> vendim-2020-457`).
 
 ## Decisions made by hand
 

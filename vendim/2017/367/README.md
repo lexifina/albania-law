@@ -13,7 +13,15 @@ Kompensimin financiar të pronarëve të pasurivetë paluajtshme që preken nga 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-367` (tags `vendim-2017-367/<day>`; `python tools/on.py <day> vendim-2017-367`).
+Act id: `vendim-2017-367` (tags `vendim-2017-367/<day>`; `python registry/tools/on.py <day> vendim-2017-367`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 370, datë 20.6.2018: Për disa ndryshime në vendimet e këshillit të ministrave nr. 616, datë 11.6.2009; nr. 1039, datë 14.10.2009; nr. 901, datë 12.12.2012; nr. 449, datë 27.5.2015; nr. 801, datë 30.9.2015; nr. 563, datë 29.7.2016; nr. 849, datë 7.12.2016; nr. 230, datë 21.3.2017; nr. 367, datë 26.4.2017, për shpërblimin e pronarëve, për sipërfaqet takuese të pasurive të paluajtshme, pronë private, që preken nga ndërtimet informale](https://qbz.gov.al/eli/vendim/2018/06/20/370)
 
 ## Decisions made by hand
 

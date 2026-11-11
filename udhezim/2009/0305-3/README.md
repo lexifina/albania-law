@@ -5,7 +5,7 @@ Mënyrën e ngritjes dhe caktimit të vendndodhjes së qendrave të votimit dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0305-3` (tags `udhezim-2009-0305-3/<day>`; `python tools/on.py <day> udhezim-2009-0305-3`).
+Act id: `udhezim-2009-0305-3` (tags `udhezim-2009-0305-3/<day>`; `python registry/tools/on.py <day> udhezim-2009-0305-3`).
 
 ## Decisions made by hand
 

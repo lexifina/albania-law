@@ -10,7 +10,7 @@ Miratimin e strategjisë ndërsektoriale për zhvillimin rural dhe bujqësor 201
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-709` (tags `vendim-2014-709/<day>`; `python tools/on.py <day> vendim-2014-709`).
+Act id: `vendim-2014-709` (tags `vendim-2014-709/<day>`; `python registry/tools/on.py <day> vendim-2014-709`).
 
 ## Decisions made by hand
 

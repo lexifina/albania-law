@@ -17,7 +17,7 @@ Krijimin e bazës së të dhënave shtetërore të Platformës Elektronike të R
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-322` (tags `vendim-2026-322/<day>`; `python tools/on.py <day> vendim-2026-322`).
+Act id: `vendim-2026-322` (tags `vendim-2026-322/<day>`; `python registry/tools/on.py <day> vendim-2026-322`).
 
 ## Decisions made by hand
 

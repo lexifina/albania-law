@@ -5,7 +5,7 @@ Përbërjen e Këshillit Kombëtar të Ujit · 2 versions, from 2024-04-05 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-198` (tags `vendim-2024-198/<day>`; `python tools/on.py <day> vendim-2024-198`).
+Act id: `vendim-2024-198` (tags `vendim-2024-198/<day>`; `python registry/tools/on.py <day> vendim-2024-198`).
 
 ## Decisions made by hand
 

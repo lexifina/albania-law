@@ -24,7 +24,7 @@ Dhënien e pëlqimit dhe mënyrën e marrjes dhe vlefshmërinë e dhënies së p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1209-24` (tags `udhezim-2014-1209-24/<day>`; `python tools/on.py <day> udhezim-2014-1209-24`).
+Act id: `udhezim-2014-1209-24` (tags `udhezim-2014-1209-24/<day>`; `python registry/tools/on.py <day> udhezim-2014-1209-24`).
 
 ## Decisions made by hand
 

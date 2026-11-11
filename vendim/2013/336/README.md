@@ -8,7 +8,7 @@ Emërimin në detyrë të prefektit të qarkut të Durrësit · 1 versions, from
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-336` (tags `vendim-2013-336/<day>`; `python tools/on.py <day> vendim-2013-336`).
+Act id: `vendim-2013-336` (tags `vendim-2013-336/<day>`; `python registry/tools/on.py <day> vendim-2013-336`).
 
 ## Decisions made by hand
 

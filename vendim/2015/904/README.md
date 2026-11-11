@@ -5,7 +5,7 @@ Përcaktimin e kategorive të përfituesve, të masave e të kritereve për sigu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-904` (tags `vendim-2015-904/<day>`; `python tools/on.py <day> vendim-2015-904`).
+Act id: `vendim-2015-904` (tags `vendim-2015-904/<day>`; `python registry/tools/on.py <day> vendim-2015-904`).
 
 ## Decisions made by hand
 

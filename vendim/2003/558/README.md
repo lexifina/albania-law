@@ -5,7 +5,7 @@ Shpalljen e Voskopojës ”Qendër historike” dhe vënien e saj në mbrojtje t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-558` (tags `vendim-2003-558/<day>`; `python tools/on.py <day> vendim-2003-558`).
+Act id: `vendim-2003-558` (tags `vendim-2003-558/<day>`; `python registry/tools/on.py <day> vendim-2003-558`).
 
 ## Decisions made by hand
 

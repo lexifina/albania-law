@@ -9,7 +9,7 @@ Miratimin e bonusit në procedurën përzgjedhëse konkurruese, që u jepet shoq
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-160` (tags `vendim-2007-160/<day>`; `python tools/on.py <day> vendim-2007-160`).
+Act id: `vendim-2007-160` (tags `vendim-2007-160/<day>`; `python registry/tools/on.py <day> vendim-2007-160`).
 
 ## Decisions made by hand
 

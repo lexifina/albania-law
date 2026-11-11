@@ -10,7 +10,7 @@ Dhënie fondi Kryqit të Kuq Shqiptar, për promovimin e dhurimit vullnetar të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-671` (tags `vendim-2007-671/<day>`; `python tools/on.py <day> vendim-2007-671`).
+Act id: `vendim-2007-671` (tags `vendim-2007-671/<day>`; `python registry/tools/on.py <day> vendim-2007-671`).
 
 ## Decisions made by hand
 

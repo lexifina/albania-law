@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-388` (tags `vendim-2008-388/<day>`; `python tools/on.py <day> vendim-2008-388`).
+Act id: `vendim-2008-388` (tags `vendim-2008-388/<day>`; `python registry/tools/on.py <day> vendim-2008-388`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1136, datë 5.8.2008: Për një shtesë në vendimin nr.242, datë 27.2.2008 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, në komunën balldre, të qarkut të lezhës”, dhe në vendimin nr.388, datë 27.3.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, komuna balldre, të qarkut të lezhës”](https://qbz.gov.al/eli/vendim/2008/08/05/1136)
 
 ## Decisions made by hand
 

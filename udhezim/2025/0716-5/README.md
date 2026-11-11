@@ -21,7 +21,7 @@ Përpunimin e të dhënave personale nga autoritetet kompetente · 1 versions, f
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0716-5` (tags `udhezim-2025-0716-5/<day>`; `python tools/on.py <day> udhezim-2025-0716-5`).
+Act id: `udhezim-2025-0716-5` (tags `udhezim-2025-0716-5/<day>`; `python registry/tools/on.py <day> udhezim-2025-0716-5`).
 
 ## Decisions made by hand
 

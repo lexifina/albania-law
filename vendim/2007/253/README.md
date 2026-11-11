@@ -12,7 +12,7 @@ Caktimin e elementeve të sigurisë dhe për miratimin e formës dhe të modelit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-10-09 |
 
-Act id: `vendim-2007-253` (tags `vendim-2007-253/<day>`; `python tools/on.py <day> vendim-2007-253`).
+Act id: `vendim-2007-253` (tags `vendim-2007-253/<day>`; `python registry/tools/on.py <day> vendim-2007-253`).
 
 ## Decisions made by hand
 

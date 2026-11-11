@@ -10,7 +10,7 @@ Shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1142` (tags `vendim-2009-1142/<day>`; `python tools/on.py <day> vendim-2009-1142`).
+Act id: `vendim-2009-1142` (tags `vendim-2009-1142/<day>`; `python registry/tools/on.py <day> vendim-2009-1142`).
 
 ## Decisions made by hand
 

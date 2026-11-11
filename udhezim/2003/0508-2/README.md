@@ -16,7 +16,7 @@ Klasifikimin dhe strukturën e kostos së punimeve të ndërtimit · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2003-0508-2` (tags `udhezim-2003-0508-2/<day>`; `python tools/on.py <day> udhezim-2003-0508-2`).
+Act id: `udhezim-2003-0508-2` (tags `udhezim-2003-0508-2/<day>`; `python registry/tools/on.py <day> udhezim-2003-0508-2`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e uniformave, të gradave dhe shenjave, që mbahen në uniformën usht
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-124` (tags `vendim-2004-124/<day>`; `python tools/on.py <day> vendim-2004-124`).
+Act id: `vendim-2004-124` (tags `vendim-2004-124/<day>`; `python registry/tools/on.py <day> vendim-2004-124`).
 
 ## Decisions made by hand
 

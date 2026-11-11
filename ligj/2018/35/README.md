@@ -10,7 +10,7 @@ Pagesën e detyrimeve të prapambetura në favor të bankës europiane për rind
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2018-35` (tags `ligj-2018-35/<day>`; `python tools/on.py <day> ligj-2018-35`).
+Act id: `ligj-2018-35` (tags `ligj-2018-35/<day>`; `python registry/tools/on.py <day> ligj-2018-35`).
 
 ## Decisions made by hand
 

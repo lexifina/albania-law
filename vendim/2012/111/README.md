@@ -9,7 +9,7 @@ Miratimin e kontratës shtesë të koncesionit “për një ndryshim në kontrat
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-111` (tags `vendim-2012-111/<day>`; `python tools/on.py <day> vendim-2012-111`).
+Act id: `vendim-2012-111` (tags `vendim-2012-111/<day>`; `python registry/tools/on.py <day> vendim-2012-111`).
 
 ## Decisions made by hand
 

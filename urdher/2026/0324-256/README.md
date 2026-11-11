@@ -17,7 +17,7 @@ Delegim kompetencës së ministrit për Evropën dhe Punët e Jashtme mbi çësh
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0324-256` (tags `urdher-2026-0324-256/<day>`; `python tools/on.py <day> urdher-2026-0324-256`).
+Act id: `urdher-2026-0324-256` (tags `urdher-2026-0324-256/<day>`; `python registry/tools/on.py <day> urdher-2026-0324-256`).
 
 ## Decisions made by hand
 

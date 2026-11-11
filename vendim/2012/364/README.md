@@ -10,7 +10,7 @@ Rishpërndarjen në numrin e punonjësve dhe të fondeve buxhetore, miratuar pë
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-364` (tags `vendim-2012-364/<day>`; `python tools/on.py <day> vendim-2012-364`).
+Act id: `vendim-2012-364` (tags `vendim-2012-364/<day>`; `python registry/tools/on.py <day> vendim-2012-364`).
 
 ## Decisions made by hand
 

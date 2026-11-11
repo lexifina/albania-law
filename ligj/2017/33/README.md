@@ -25,7 +25,7 @@ Pagesën dhe fshirjen/shuarjen e detyrimeve tatimore, detyrimeve të pagueshme n
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-33` (tags `ligj-2017-33/<day>`; `python tools/on.py <day> ligj-2017-33`).
+Act id: `ligj-2017-33` (tags `ligj-2017-33/<day>`; `python registry/tools/on.py <day> ligj-2017-33`).
 
 ## Decisions made by hand
 

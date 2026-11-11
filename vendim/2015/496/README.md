@@ -10,7 +10,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Punëve të Brendshme
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-496` (tags `vendim-2015-496/<day>`; `python tools/on.py <day> vendim-2015-496`).
+Act id: `vendim-2015-496` (tags `vendim-2015-496/<day>`; `python registry/tools/on.py <day> vendim-2015-496`).
 
 ## Decisions made by hand
 

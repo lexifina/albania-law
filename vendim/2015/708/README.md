@@ -19,7 +19,7 @@ Llojet, periodicitetin dhe mënyrën e raportimit të të dhënave statistikore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-06-25 |
 
-Act id: `vendim-2015-708` (tags `vendim-2015-708/<day>`; `python tools/on.py <day> vendim-2015-708`).
+Act id: `vendim-2015-708` (tags `vendim-2015-708/<day>`; `python registry/tools/on.py <day> vendim-2015-708`).
 
 ## Decisions made by hand
 

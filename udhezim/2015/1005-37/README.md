@@ -32,7 +32,16 @@ Procedurën e pranimit dhe të regjistrimit në programet e studimit të ciklit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-1005-37` (tags `udhezim-2015-1005-37/<day>`; `python tools/on.py <day> udhezim-2015-1005-37`).
+Act id: `udhezim-2015-1005-37` (tags `udhezim-2015-1005-37/<day>`; `python registry/tools/on.py <day> udhezim-2015-1005-37`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 53, datë 16.12.2015 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 12874]: Për disa ndryshime në udhëzimin nr. 37, datë 5.10.2015, “Për procedurën e pranimit dhe të regjistrimit në programet e studimit të ciklit të parë dhe të dytë, të ofruara nga institucionet private të arsimit të lartë, si dhe për transferimin e studimeve në programet e studimit të ofruara nga këto institucione, për vitin akademik 2015-2016”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2015/12/16/53)
+- [Udhëzimi nr. 43, datë 15.10.2015 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 65934]: Për disa ndryshime në udhëzimin nr. 37, datë 5.10.2015, “Për procedurën e pranimit dhe të regjistrimit në programet e studimit të ciklit të parë dhe të dytë, të ofruara nga institucionet private të arsimit të lartë, si dhe për transferimin e studimeve në programet e studimit të ofruara nga këto institucione, për vitin akademik 2015-2016”](https://qbz.gov.al/eli/udhezim/2015/10/15/43)
 
 ## Decisions made by hand
 

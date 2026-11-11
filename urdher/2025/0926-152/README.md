@@ -5,7 +5,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Punëv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0926-152` (tags `urdher-2025-0926-152/<day>`; `python tools/on.py <day> urdher-2025-0926-152`).
+Act id: `urdher-2025-0926-152` (tags `urdher-2025-0926-152/<day>`; `python registry/tools/on.py <day> urdher-2025-0926-152`).
 
 ## Decisions made by hand
 

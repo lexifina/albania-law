@@ -5,7 +5,7 @@ Zbatimin e Rezolutës së Komisionit të Përgjithshëm të Peshkimit për Mesdh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0910-499` (tags `urdher-2019-0910-499/<day>`; `python tools/on.py <day> urdher-2019-0910-499`).
+Act id: `urdher-2019-0910-499` (tags `urdher-2019-0910-499/<day>`; `python registry/tools/on.py <day> urdher-2019-0910-499`).
 
 ## Decisions made by hand
 

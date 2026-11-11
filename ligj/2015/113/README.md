@@ -37,7 +37,7 @@ Urdhrin Profesional të Mjekut Veterinar · 1 versions, from 2015-11-11 (latest 
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-113` (tags `ligj-2015-113/<day>`; `python tools/on.py <day> ligj-2015-113`).
+Act id: `ligj-2015-113` (tags `ligj-2015-113/<day>`; `python registry/tools/on.py <day> ligj-2015-113`).
 
 ## Decisions made by hand
 

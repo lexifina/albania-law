@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e agjencisë për zhvillim bujqësor dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1443` (tags `vendim-2008-1443/<day>`; `python tools/on.py <day> vendim-2008-1443`).
+Act id: `vendim-2008-1443` (tags `vendim-2008-1443/<day>`; `python registry/tools/on.py <day> vendim-2008-1443`).
 
 ## Decisions made by hand
 

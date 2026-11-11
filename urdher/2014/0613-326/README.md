@@ -8,7 +8,7 @@ Shpalljen e vendeve vakant, për ushtrimin e veprimtarisë së noterëve, sipas 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2014-0613-326` (tags `urdher-2014-0613-326/<day>`; `python tools/on.py <day> urdher-2014-0613-326`).
+Act id: `urdher-2014-0613-326` (tags `urdher-2014-0613-326/<day>`; `python registry/tools/on.py <day> urdher-2014-0613-326`).
 
 ## Decisions made by hand
 

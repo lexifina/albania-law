@@ -13,7 +13,7 @@ Delegim kompetence në SU “Shefqet Ndroqi” Tiranë · 1 versions, from 2019-
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0109-14` (tags `urdher-2019-0109-14/<day>`; `python tools/on.py <day> urdher-2019-0109-14`).
+Act id: `urdher-2019-0109-14` (tags `urdher-2019-0109-14/<day>`; `python registry/tools/on.py <day> urdher-2019-0109-14`).
 
 ## Decisions made by hand
 

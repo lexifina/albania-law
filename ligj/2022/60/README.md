@@ -5,7 +5,7 @@ Shpalljen e moratoriumit të gjuetisë në Republikën e Shqipërisë · 3 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2022-60` (tags `ligj-2022-60/<day>`; `python tools/on.py <day> ligj-2022-60`).
+Act id: `ligj-2022-60` (tags `ligj-2022-60/<day>`; `python registry/tools/on.py <day> ligj-2022-60`).
 
 ## Decisions made by hand
 

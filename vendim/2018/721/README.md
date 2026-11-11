@@ -12,7 +12,7 @@ Miratimin e tarifës së biletave të teatrit kombëtar · 2 versions, from 2018
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-06-06 |
 
-Act id: `vendim-2018-721` (tags `vendim-2018-721/<day>`; `python tools/on.py <day> vendim-2018-721`).
+Act id: `vendim-2018-721` (tags `vendim-2018-721/<day>`; `python registry/tools/on.py <day> vendim-2018-721`).
 
 ## Decisions made by hand
 

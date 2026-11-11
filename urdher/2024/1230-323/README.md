@@ -10,7 +10,7 @@ Miratimin e ”Dokumentit të politikave për zhvillimin e sistemeve inteligjent
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1230-323` (tags `urdher-2024-1230-323/<day>`; `python tools/on.py <day> urdher-2024-1230-323`).
+Act id: `urdher-2024-1230-323` (tags `urdher-2024-1230-323/<day>`; `python registry/tools/on.py <day> urdher-2024-1230-323`).
 
 ## Decisions made by hand
 

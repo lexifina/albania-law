@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të kushteve dhe të mënyrës së financimit për ars
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-865` (tags `vendim-2008-865/<day>`; `python tools/on.py <day> vendim-2008-865`).
+Act id: `vendim-2008-865` (tags `vendim-2008-865/<day>`; `python registry/tools/on.py <day> vendim-2008-865`).
 
 ## Decisions made by hand
 

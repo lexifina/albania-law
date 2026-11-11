@@ -11,7 +11,7 @@ Mbi zbatimin e urdhrit nr. 328, datë 22.11.2011 dhe të urdhrit nr. 5, datë 9.
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0604-177` (tags `urdher-2012-0604-177/<day>`; `python tools/on.py <day> urdher-2012-0604-177`).
+Act id: `urdher-2012-0604-177` (tags `urdher-2012-0604-177/<day>`; `python registry/tools/on.py <day> urdher-2012-0604-177`).
 
 ## Decisions made by hand
 

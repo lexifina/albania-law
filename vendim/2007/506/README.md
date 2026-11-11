@@ -5,7 +5,7 @@ Procedurat e regjistrimit dhe të publikimit në Qendrën kombëtare të regjist
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-506` (tags `vendim-2007-506/<day>`; `python tools/on.py <day> vendim-2007-506`).
+Act id: `vendim-2007-506` (tags `vendim-2007-506/<day>`; `python registry/tools/on.py <day> vendim-2007-506`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-423` (tags `vendim-2019-423/<day>`; `python tools/on.py <day> vendim-2019-423`).
+Act id: `vendim-2019-423` (tags `vendim-2019-423/<day>`; `python registry/tools/on.py <day> vendim-2019-423`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Përcaktimin e tarifave për kryerjen e shërbimit të përkthimit zyrtar dhe in
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-0719-8` (tags `udhezim-2022-0719-8/<day>`; `python tools/on.py <day> udhezim-2022-0719-8`).
+Act id: `udhezim-2022-0719-8` (tags `udhezim-2022-0719-8/<day>`; `python registry/tools/on.py <day> udhezim-2022-0719-8`).
 
 ## Decisions made by hand
 

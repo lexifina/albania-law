@@ -5,7 +5,7 @@ Procedurat që përdoren për lidhjen e kontratave që diktohen nga interesa the
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-203` (tags `vendim-2020-203/<day>`; `python tools/on.py <day> vendim-2020-203`).
+Act id: `vendim-2020-203` (tags `vendim-2020-203/<day>`; `python registry/tools/on.py <day> vendim-2020-203`).
 
 ## Decisions made by hand
 

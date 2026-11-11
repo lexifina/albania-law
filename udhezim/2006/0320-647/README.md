@@ -36,7 +36,7 @@ Mbi zbatimin e vendimit të Këshillit të Ministrave nr.632, datë 18.9.2003 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0320-647` (tags `udhezim-2006-0320-647/<day>`; `python tools/on.py <day> udhezim-2006-0320-647`).
+Act id: `udhezim-2006-0320-647` (tags `udhezim-2006-0320-647/<day>`; `python registry/tools/on.py <day> udhezim-2006-0320-647`).
 
 ## Decisions made by hand
 

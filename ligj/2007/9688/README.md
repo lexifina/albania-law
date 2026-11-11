@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së bashkëpunimit teknik ndërmjet qeverisë së
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9688` (tags `ligj-2007-9688/<day>`; `python tools/on.py <day> ligj-2007-9688`).
+Act id: `ligj-2007-9688` (tags `ligj-2007-9688/<day>`; `python registry/tools/on.py <day> ligj-2007-9688`).
 
 ## Decisions made by hand
 

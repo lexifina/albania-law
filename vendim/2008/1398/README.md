@@ -15,7 +15,7 @@ Faljen e detyrimeve të prapambetura të taksës vjetore të qarkullimit rrugor 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1398` (tags `vendim-2008-1398/<day>`; `python tools/on.py <day> vendim-2008-1398`).
+Act id: `vendim-2008-1398` (tags `vendim-2008-1398/<day>`; `python registry/tools/on.py <day> vendim-2008-1398`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Trajtimin e veçantë të drejtorit të policisë së shtetit pas përfundimit t
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-581` (tags `vendim-2016-581/<day>`; `python tools/on.py <day> vendim-2016-581`).
+Act id: `vendim-2016-581` (tags `vendim-2016-581/<day>`; `python registry/tools/on.py <day> vendim-2016-581`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mënyrën e emërimit dhe të lirimit nga detyra të punonjësve të drejtorive 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2022-0429-15` (tags `udhezim-2022-0429-15/<day>`; `python tools/on.py <day> udhezim-2022-0429-15`).
+Act id: `udhezim-2022-0429-15` (tags `udhezim-2022-0429-15/<day>`; `python registry/tools/on.py <day> udhezim-2022-0429-15`).
 
 ## Decisions made by hand
 

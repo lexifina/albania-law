@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e policisë gjyqësore · 2 versions, from 2000-12-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8677` (tags `ligj-2000-8677/<day>`; `python tools/on.py <day> ligj-2000-8677`).
+Act id: `ligj-2000-8677` (tags `ligj-2000-8677/<day>`; `python registry/tools/on.py <day> ligj-2000-8677`).
 
 ## Decisions made by hand
 

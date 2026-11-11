@@ -22,7 +22,7 @@ Rregullat dhe provedurat për marrjen e informacionit dhe verifikimin e të dhë
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0603-245` (tags `udhezim-2021-0603-245/<day>`; `python tools/on.py <day> udhezim-2021-0603-245`).
+Act id: `udhezim-2021-0603-245` (tags `udhezim-2021-0603-245/<day>`; `python registry/tools/on.py <day> udhezim-2021-0603-245`).
 
 ## Decisions made by hand
 

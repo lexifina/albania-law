@@ -17,7 +17,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë 2016, sesioni i dytë · 1 v
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0811-19` (tags `udhezim-2016-0811-19/<day>`; `python tools/on.py <day> udhezim-2016-0811-19`).
+Act id: `udhezim-2016-0811-19` (tags `udhezim-2016-0811-19/<day>`; `python registry/tools/on.py <day> udhezim-2016-0811-19`).
 
 ## Decisions made by hand
 

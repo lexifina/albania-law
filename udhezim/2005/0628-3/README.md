@@ -27,7 +27,7 @@ Përcaktimin e kushteve teknike të ndërtimit dhe përdorimit të varrezave mbi
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2005-0628-3` (tags `udhezim-2005-0628-3/<day>`; `python tools/on.py <day> udhezim-2005-0628-3`).
+Act id: `udhezim-2005-0628-3` (tags `udhezim-2005-0628-3/<day>`; `python registry/tools/on.py <day> udhezim-2005-0628-3`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së dermatozës nodulare të gjedhit (lumpy
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2026-0610-625` (tags `urdher-2026-0610-625/<day>`; `python tools/on.py <day> urdher-2026-0610-625`).
+Act id: `urdher-2026-0610-625` (tags `urdher-2026-0610-625/<day>`; `python registry/tools/on.py <day> urdher-2026-0610-625`).
 
 ## Decisions made by hand
 

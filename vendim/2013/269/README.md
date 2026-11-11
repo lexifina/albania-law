@@ -5,7 +5,7 @@ Miratimin e Dokumentit të Rishikimit të Strategjisë së Mbrojtjes · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-269` (tags `vendim-2013-269/<day>`; `python tools/on.py <day> vendim-2013-269`).
+Act id: `vendim-2013-269` (tags `vendim-2013-269/<day>`; `python registry/tools/on.py <day> vendim-2013-269`).
 
 ## Decisions made by hand
 

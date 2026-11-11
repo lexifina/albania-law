@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror znj. anita dibra (tartari) · 1
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-773` (tags `vendim-2017-773/<day>`; `python tools/on.py <day> vendim-2017-773`).
+Act id: `vendim-2017-773` (tags `vendim-2017-773/<day>`; `python registry/tools/on.py <day> vendim-2017-773`).
 
 ## Decisions made by hand
 

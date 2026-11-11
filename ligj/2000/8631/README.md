@@ -10,7 +10,7 @@ Ratifikimin e “amendamentit të marrëveshjes dypalëshe “për riskedulimin 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8631` (tags `ligj-2000-8631/<day>`; `python tools/on.py <day> ligj-2000-8631`).
+Act id: `ligj-2000-8631` (tags `ligj-2000-8631/<day>`; `python registry/tools/on.py <day> ligj-2000-8631`).
 
 ## Decisions made by hand
 

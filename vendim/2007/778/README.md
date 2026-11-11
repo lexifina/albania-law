@@ -5,7 +5,7 @@ Miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrym�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-778` (tags `vendim-2007-778/<day>`; `python tools/on.py <day> vendim-2007-778`).
+Act id: `vendim-2007-778` (tags `vendim-2007-778/<day>`; `python registry/tools/on.py <day> vendim-2007-778`).
 
 ## Decisions made by hand
 

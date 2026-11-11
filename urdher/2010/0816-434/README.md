@@ -9,7 +9,7 @@ Rilicencimin e agjencisë së administrimit kolektiv të së drejtës së autori
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-0816-434` (tags `urdher-2010-0816-434/<day>`; `python tools/on.py <day> urdher-2010-0816-434`).
+Act id: `urdher-2010-0816-434` (tags `urdher-2010-0816-434/<day>`; `python registry/tools/on.py <day> urdher-2010-0816-434`).
 
 ## Decisions made by hand
 

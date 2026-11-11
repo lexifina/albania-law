@@ -10,7 +10,7 @@ Miratimin e rregullores së funksionimit dhe organizimit të Komisionit të Rreg
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-08 |
 
-Act id: `urdher-2020-0326-141` (tags `urdher-2020-0326-141/<day>`; `python tools/on.py <day> urdher-2020-0326-141`).
+Act id: `urdher-2020-0326-141` (tags `urdher-2020-0326-141/<day>`; `python registry/tools/on.py <day> urdher-2020-0326-141`).
 
 ## Decisions made by hand
 

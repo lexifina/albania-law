@@ -5,7 +5,7 @@ Kalimin në përdorim të përkohshëm, pa shpërblim, nga ministria e mbrojtjes
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-114` (tags `vendim-2016-114/<day>`; `python tools/on.py <day> vendim-2016-114`).
+Act id: `vendim-2016-114` (tags `vendim-2016-114/<day>`; `python registry/tools/on.py <day> vendim-2016-114`).
 
 ## Decisions made by hand
 

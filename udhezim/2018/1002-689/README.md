@@ -13,7 +13,15 @@ Nivelin e kuotave të shpenzimeve për ushqime, në institucionet publike rezide
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1002-689` (tags `udhezim-2018-1002-689/<day>`; `python tools/on.py <day> udhezim-2018-1002-689`).
+Act id: `udhezim-2018-1002-689` (tags `udhezim-2018-1002-689/<day>`; `python registry/tools/on.py <day> udhezim-2018-1002-689`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 149, datë 18.10.2018 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale): Korrigjim lidhur me udhëzimin nr. 689, datë 2.10.2018, “Për nivelin e kuotave të shpenzimeve për ushqime, në institucionet publike rezidenciale e komunitare të përkujdesjes shoqërore”](https://qbz.gov.al/eli/udhezim/2018/10/18/149-1)
 
 ## Decisions made by hand
 

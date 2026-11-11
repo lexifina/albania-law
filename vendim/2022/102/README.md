@@ -5,7 +5,7 @@ Miratimin e strukturës e të niveleve të pagave të pozicioneve koordinator t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-102` (tags `vendim-2022-102/<day>`; `python tools/on.py <day> vendim-2022-102`).
+Act id: `vendim-2022-102` (tags `vendim-2022-102/<day>`; `python registry/tools/on.py <day> vendim-2022-102`).
 
 ## Decisions made by hand
 

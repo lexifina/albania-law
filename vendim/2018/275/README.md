@@ -5,7 +5,7 @@ Përcaktimin e operatorit të energjisë së rinovueshme · 2 versions, from 201
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-275` (tags `vendim-2018-275/<day>`; `python tools/on.py <day> vendim-2018-275`).
+Act id: `vendim-2018-275` (tags `vendim-2018-275/<day>`; `python registry/tools/on.py <day> vendim-2018-275`).
 
 ## Decisions made by hand
 

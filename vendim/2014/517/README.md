@@ -26,7 +26,7 @@ Kuotat e pranimit të studimeve me kohë të plotë në institucionet publike t�
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-517` (tags `vendim-2014-517/<day>`; `python tools/on.py <day> vendim-2014-517`).
+Act id: `vendim-2014-517` (tags `vendim-2014-517/<day>`; `python registry/tools/on.py <day> vendim-2014-517`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Tarifat gjyqësore në republikën e shqipërisë · 1 versions, from 2018-06-01
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2017-98` (tags `ligj-2017-98/<day>`; `python tools/on.py <day> ligj-2017-98`).
+Act id: `ligj-2017-98` (tags `ligj-2017-98/<day>`; `python registry/tools/on.py <day> ligj-2017-98`).
 
 ## Decisions made by hand
 

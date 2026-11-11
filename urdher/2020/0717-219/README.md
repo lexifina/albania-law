@@ -23,7 +23,7 @@ Krijimin, mbajtjen dhe administrimin e arkivit nga përmbaruesi gjyqësor privat
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0717-219` (tags `urdher-2020-0717-219/<day>`; `python tools/on.py <day> urdher-2020-0717-219`).
+Act id: `urdher-2020-0717-219` (tags `urdher-2020-0717-219/<day>`; `python registry/tools/on.py <day> urdher-2020-0717-219`).
 
 ## Decisions made by hand
 

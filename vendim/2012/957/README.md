@@ -24,7 +24,7 @@ Mbetjet nga pajisjet elektrike dhe elektronike · 1 versions, from 2012-12-31 (l
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-957` (tags `vendim-2012-957/<day>`; `python tools/on.py <day> vendim-2012-957`).
+Act id: `vendim-2012-957` (tags `vendim-2012-957/<day>`; `python registry/tools/on.py <day> vendim-2012-957`).
 
 ## Decisions made by hand
 

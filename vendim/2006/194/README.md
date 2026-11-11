@@ -16,7 +16,7 @@ Ngritjen dhe funksionimin e Institutit Kombëtar të Diasporës, pranë Ministri
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-194` (tags `vendim-2006-194/<day>`; `python tools/on.py <day> vendim-2006-194`).
+Act id: `vendim-2006-194` (tags `vendim-2006-194/<day>`; `python registry/tools/on.py <day> vendim-2006-194`).
 
 ## Decisions made by hand
 

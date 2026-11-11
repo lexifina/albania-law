@@ -94,7 +94,7 @@ Koncesionet dhe partneritetin publik privat · 1 versions, from 2025-12-12 (late
 | Neni 79 | [neni-079.md](neni-079.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-88-2025` (tags `ligji-88-2025/<day>`; `python tools/on.py <day> ligji-88-2025`).
+Act id: `ligji-88-2025` (tags `ligji-88-2025/<day>`; `python registry/tools/on.py <day> ligji-88-2025`).
 
 ## Decisions made by hand
 

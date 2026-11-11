@@ -5,7 +5,7 @@ Krijimin e agjencisë kombëtare të arsimit, formimit profesional dhe kualifiki
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-321` (tags `vendim-2011-321/<day>`; `python tools/on.py <day> vendim-2011-321`).
+Act id: `vendim-2011-321` (tags `vendim-2011-321/<day>`; `python registry/tools/on.py <day> vendim-2011-321`).
 
 ## Decisions made by hand
 

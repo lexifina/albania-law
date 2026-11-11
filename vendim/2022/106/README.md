@@ -12,7 +12,7 @@ Ndalimin e fluturimeve ajrore nga transportuesit ajrorë rusë në hapsirën ajr
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-106` (tags `vendim-2022-106/<day>`; `python tools/on.py <day> vendim-2022-106`).
+Act id: `vendim-2022-106` (tags `vendim-2022-106/<day>`; `python registry/tools/on.py <day> vendim-2022-106`).
 
 ## Decisions made by hand
 

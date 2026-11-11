@@ -10,7 +10,7 @@ Kalimin e fondit për t’u përdorur në formën e kapitalit fillestar për sho
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-308` (tags `vendim-2026-308/<day>`; `python tools/on.py <day> vendim-2026-308`).
+Act id: `vendim-2026-308` (tags `vendim-2026-308/<day>`; `python registry/tools/on.py <day> vendim-2026-308`).
 
 ## Decisions made by hand
 

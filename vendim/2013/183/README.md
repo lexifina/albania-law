@@ -10,7 +10,15 @@ Shpërndarjen pjesore të të ardhurave nga privatizimi i shoqërive “HEC Bist
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-183` (tags `vendim-2013-183/<day>`; `python tools/on.py <day> vendim-2013-183`).
+Act id: `vendim-2013-183` (tags `vendim-2013-183/<day>`; `python registry/tools/on.py <day> vendim-2013-183`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 458, datë 28.5.2013: Për disa ndryshime në vendimin nr.183, datë 13.3.2013 të Këshillit të Ministrave “Për shpërndarjen pjesore të të ardhurave nga privatizimi i “Hec Bistrica 1 dhe Bistrica 2” dhe “Hec Ulëz-Shkopet””](https://qbz.gov.al/eli/vendim/2013/05/28/458)
 
 ## Decisions made by hand
 

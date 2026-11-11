@@ -15,7 +15,7 @@ PËR MIRATIMIN E PROJEKTIT PILOT PËR MASAT PËR NXITJEN E TË NXËNIT, VIJUESHM
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-678` (tags `vendim-2014-678/<day>`; `python tools/on.py <day> vendim-2014-678`).
+Act id: `vendim-2014-678` (tags `vendim-2014-678/<day>`; `python registry/tools/on.py <day> vendim-2014-678`).
 
 ## Decisions made by hand
 

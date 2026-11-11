@@ -14,7 +14,7 @@ Kontrollin e disiplinimin e nënkontraktimit të së drejtës së shfrytëzimit 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-1213-190` (tags `urdher-2013-1213-190/<day>`; `python tools/on.py <day> urdher-2013-1213-190`).
+Act id: `urdher-2013-1213-190` (tags `urdher-2013-1213-190/<day>`; `python registry/tools/on.py <day> urdher-2013-1213-190`).
 
 ## Decisions made by hand
 

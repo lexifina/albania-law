@@ -9,7 +9,7 @@ Delegim kompetence · 1 versions, from 2024-07-31 (latest in force: 2024-07-31) 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0717-150` (tags `urdher-2024-0717-150/<day>`; `python tools/on.py <day> urdher-2024-0717-150`).
+Act id: `urdher-2024-0717-150` (tags `urdher-2024-0717-150/<day>`; `python registry/tools/on.py <day> urdher-2024-0717-150`).
 
 ## Decisions made by hand
 

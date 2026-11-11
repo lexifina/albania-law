@@ -11,7 +11,7 @@ Mbi programet e kontrollit për mbetjet e pesticideve · 1 versions, from 2023-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0217-2` (tags `udhezim-2023-0217-2/<day>`; `python tools/on.py <day> udhezim-2023-0217-2`).
+Act id: `udhezim-2023-0217-2` (tags `udhezim-2023-0217-2/<day>`; `python registry/tools/on.py <day> udhezim-2023-0217-2`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,18 @@ Ngritjen e bazës së të dhënave për Regjistrin Kombëtar të Fondit Pyjor dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-171` (tags `vendim-2022-171/<day>`; `python tools/on.py <day> vendim-2022-171`).
+Act id: `vendim-2022-171` (tags `vendim-2022-171/<day>`; `python registry/tools/on.py <day> vendim-2022-171`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 633, datë 10.10.2024: Për heqjen nga Fondi Kullosor dhe ndryshimin e destinacionit, nga kategoria e përdorimit të zërit kadastral “Kullotë” në zërin kadastral “Truall”, të pasurive me numër 30/158, zona kadastrale 2863, me numër 68/49, 68/50, 68/51/3, 68/119/1, zona kadastrale 1739, Bashkia Himarë](https://qbz.gov.al/eli/vendim/2024/10/10/633)
+- [Vendimi i Këshillit të Ministrave nr. 51, datë 22.1.2025: Për heqjen nga fondi pyjor publik, ndryshimin e kategorisë së përdorimit dhe pakësimin në volum të sipërfaqes prej 2.09 ha në ekonominë pyjore “Zaranikë”, të Bashkisë Elbasan, për ndërtimin e rrugës “Gjergj Arianiti” nga Bashkia Elbasan](https://qbz.gov.al/eli/vendim/2025/01/22/51)
+- [Vendimi i Këshillit të Ministrave nr. 71, datë 29.1.2025: Për heqjen nga fondi pyjor privat, ndryshimin e kategorisë së përdorimit dhe pakësimin në volum të sipërfaqes prej 3 ha në ekonominë pyjore “Mali i Rencit”, të Bashkisë Lezhë, për ndërtimin e objekteve me funksion banimi dhe shërbimi me 1-6 kate mbi tokë dhe 1 kat nën tokë, dhe të objektit me funksion hoteleri dhe kazino me 2, 4, 6 dhe 7 kate mbi tokë dhe me 2 kate nën tokë, nga shoqëria “Dukagjini Group”, sh.p.k](https://qbz.gov.al/eli/vendim/2025/01/29/71)
+- [Vendimi i Këshillit të Ministrave nr. 888, datë 27.12.2022: Për rastet e dhënies në përdorim dhe për ndryshimin e kategorisë së përdorimit, procedurat dhe dokumentacioni përkatës për ndryshimet e sipërfaqeve dhe pakësimin në volum nga fondi pyjor kombëtar apo zgjerimin e tyre](https://qbz.gov.al/eli/vendim/2022/12/27/888)
 
 ## Decisions made by hand
 

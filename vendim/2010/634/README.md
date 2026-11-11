@@ -5,7 +5,7 @@ Kalimin në përdorim të ministrisë së turizmit, kulturës, rinisë dhe sport
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-634` (tags `vendim-2010-634/<day>`; `python tools/on.py <day> vendim-2010-634`).
+Act id: `vendim-2010-634` (tags `vendim-2010-634/<day>`; `python registry/tools/on.py <day> vendim-2010-634`).
 
 ## Decisions made by hand
 

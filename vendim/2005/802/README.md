@@ -14,7 +14,7 @@ Përbërjen, funksionet, detyrat, përgjegjësitë dhe organizimin e brendshëm 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-802` (tags `vendim-2005-802/<day>`; `python tools/on.py <day> vendim-2005-802`).
+Act id: `vendim-2005-802` (tags `vendim-2005-802/<day>`; `python registry/tools/on.py <day> vendim-2005-802`).
 
 ## Decisions made by hand
 

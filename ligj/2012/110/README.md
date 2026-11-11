@@ -38,7 +38,7 @@ Bashkimin ndërkufitar të shoqërive tregtare · 1 versions, from 2012-11-15 (l
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-110-2012` (tags `ligji-110-2012/<day>`; `python tools/on.py <day> ligji-110-2012`).
+Act id: `ligji-110-2012` (tags `ligji-110-2012/<day>`; `python registry/tools/on.py <day> ligji-110-2012`).
 
 ## Decisions made by hand
 

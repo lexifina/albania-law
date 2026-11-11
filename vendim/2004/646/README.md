@@ -5,7 +5,7 @@ Miratimin e strukturës dhe të organikës së policisë së mbrojtjes nga zjarr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-646` (tags `vendim-2004-646/<day>`; `python tools/on.py <day> vendim-2004-646`).
+Act id: `vendim-2004-646` (tags `vendim-2004-646/<day>`; `python registry/tools/on.py <day> vendim-2004-646`).
 
 ## Decisions made by hand
 

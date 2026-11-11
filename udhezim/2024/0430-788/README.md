@@ -14,7 +14,7 @@ Miratimin e modeleve të akteve në zbatim të pikës 32 të VKM-së nr. 1189, d
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0430-788` (tags `udhezim-2024-0430-788/<day>`; `python tools/on.py <day> udhezim-2024-0430-788`).
+Act id: `udhezim-2024-0430-788` (tags `udhezim-2024-0430-788/<day>`; `python registry/tools/on.py <day> udhezim-2024-0430-788`).
 
 ## Decisions made by hand
 

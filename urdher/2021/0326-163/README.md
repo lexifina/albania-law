@@ -12,7 +12,7 @@ Përcaktimin e masave të detajuara për zbatimin e standardeve themelore të p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-05-02 |
 
-Act id: `urdher-2021-0326-163` (tags `urdher-2021-0326-163/<day>`; `python tools/on.py <day> urdher-2021-0326-163`).
+Act id: `urdher-2021-0326-163` (tags `urdher-2021-0326-163/<day>`; `python registry/tools/on.py <day> urdher-2021-0326-163`).
 
 ## Decisions made by hand
 

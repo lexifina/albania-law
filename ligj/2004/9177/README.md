@@ -10,7 +10,7 @@ Ratifikimin e ”marrëveshjes së aksionarëve, ndërmjet ministrisë së finan
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9177` (tags `ligj-2004-9177/<day>`; `python tools/on.py <day> ligj-2004-9177`).
+Act id: `ligj-2004-9177` (tags `ligj-2004-9177/<day>`; `python registry/tools/on.py <day> ligj-2004-9177`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për regjistrimin e personave që lundrojnë në bord
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1210-307` (tags `urdher-2024-1210-307/<day>`; `python tools/on.py <day> urdher-2024-1210-307`).
+Act id: `urdher-2024-1210-307` (tags `urdher-2024-1210-307/<day>`; `python registry/tools/on.py <day> urdher-2024-1210-307`).
 
 ## Decisions made by hand
 

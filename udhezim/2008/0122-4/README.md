@@ -25,7 +25,7 @@ Hapjen, mbylljen dhe riorganizimin e programeve të studimit master të nivelit 
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0122-4` (tags `udhezim-2008-0122-4/<day>`; `python tools/on.py <day> udhezim-2008-0122-4`).
+Act id: `udhezim-2008-0122-4` (tags `udhezim-2008-0122-4/<day>`; `python registry/tools/on.py <day> udhezim-2008-0122-4`).
 
 ## Decisions made by hand
 

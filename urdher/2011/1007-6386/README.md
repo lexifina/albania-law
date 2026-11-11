@@ -13,7 +13,7 @@ Heqjen e lejes së ushtrimit të profesionit të noterit · 1 versions, from 201
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1007-6386` (tags `urdher-2011-1007-6386/<day>`; `python tools/on.py <day> urdher-2011-1007-6386`).
+Act id: `urdher-2011-1007-6386` (tags `urdher-2011-1007-6386/<day>`; `python registry/tools/on.py <day> urdher-2011-1007-6386`).
 
 ## Decisions made by hand
 

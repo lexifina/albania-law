@@ -23,7 +23,7 @@ Disiplinën në shërbimin civil · 1 versions, from 2000-06-29 (latest in force
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-306` (tags `vendim-2000-306/<day>`; `python tools/on.py <day> vendim-2000-306`).
+Act id: `vendim-2000-306` (tags `vendim-2000-306/<day>`; `python registry/tools/on.py <day> vendim-2000-306`).
 
 ## Decisions made by hand
 

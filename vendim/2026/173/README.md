@@ -19,7 +19,7 @@ Krijimin e bazës së të dhënave shtetërore të sistemit të provimit të sht
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-173` (tags `vendim-2026-173/<day>`; `python tools/on.py <day> vendim-2026-173`).
+Act id: `vendim-2026-173` (tags `vendim-2026-173/<day>`; `python registry/tools/on.py <day> vendim-2026-173`).
 
 ## Decisions made by hand
 

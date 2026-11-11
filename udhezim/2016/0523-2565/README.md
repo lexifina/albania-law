@@ -28,7 +28,7 @@ Mbi përcaktimin e kushteve, procedurave dhe afateve të vlefshmërisë së lice
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0523-2565` (tags `udhezim-2016-0523-2565/<day>`; `python tools/on.py <day> udhezim-2016-0523-2565`).
+Act id: `udhezim-2016-0523-2565` (tags `udhezim-2016-0523-2565/<day>`; `python registry/tools/on.py <day> udhezim-2016-0523-2565`).
 
 ## Decisions made by hand
 

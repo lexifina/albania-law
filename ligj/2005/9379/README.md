@@ -5,7 +5,7 @@ Efiçencën e energjisë · 2 versions, from 2005-06-21 (latest in force: 2015-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2005-9379` (tags `ligj-2005-9379/<day>`; `python tools/on.py <day> ligj-2005-9379`).
+Act id: `ligj-2005-9379` (tags `ligj-2005-9379/<day>`; `python registry/tools/on.py <day> ligj-2005-9379`).
 
 ## Decisions made by hand
 

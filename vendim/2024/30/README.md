@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Ekon
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-30` (tags `vendim-2024-30/<day>`; `python tools/on.py <day> vendim-2024-30`).
+Act id: `vendim-2024-30` (tags `vendim-2024-30/<day>`; `python registry/tools/on.py <day> vendim-2024-30`).
 
 ## Decisions made by hand
 

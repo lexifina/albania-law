@@ -11,7 +11,7 @@ Miratimin e rregullores “Nivelet e lejuara të radiobërthamave në ujin për 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-403` (tags `vendim-2024-403/<day>`; `python tools/on.py <day> vendim-2024-403`).
+Act id: `vendim-2024-403` (tags `vendim-2024-403/<day>`; `python registry/tools/on.py <day> vendim-2024-403`).
 
 ## Decisions made by hand
 

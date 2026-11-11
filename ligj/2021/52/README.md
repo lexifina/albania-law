@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 9, datë 22.3.2021 “Për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-52` (tags `ligj-2021-52/<day>`; `python tools/on.py <day> ligj-2021-52`).
+Act id: `ligj-2021-52` (tags `ligj-2021-52/<day>`; `python registry/tools/on.py <day> ligj-2021-52`).
 
 ## Decisions made by hand
 

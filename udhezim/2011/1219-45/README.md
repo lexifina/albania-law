@@ -5,7 +5,7 @@ Gjenerimin dhe dhënien e numrave të matrikullimit · 2 versions, from 2011-12-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-1219-45` (tags `udhezim-2011-1219-45/<day>`; `python tools/on.py <day> udhezim-2011-1219-45`).
+Act id: `udhezim-2011-1219-45` (tags `udhezim-2011-1219-45/<day>`; `python registry/tools/on.py <day> udhezim-2011-1219-45`).
 
 ## Decisions made by hand
 

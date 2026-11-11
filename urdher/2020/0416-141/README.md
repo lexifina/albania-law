@@ -5,7 +5,7 @@ Miratimin e rregullores mbi parashtrimin e kërkesave të përdorimit të hapës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0416-141` (tags `urdher-2020-0416-141/<day>`; `python tools/on.py <day> urdher-2020-0416-141`).
+Act id: `urdher-2020-0416-141` (tags `urdher-2020-0416-141/<day>`; `python registry/tools/on.py <day> urdher-2020-0416-141`).
 
 ## Decisions made by hand
 

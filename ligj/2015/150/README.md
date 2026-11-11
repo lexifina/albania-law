@@ -10,7 +10,7 @@ Ratifikimin e Konventës së Këshillit të Europës kundër Trafikimit të Orga
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-150` (tags `ligj-2015-150/<day>`; `python tools/on.py <day> ligj-2015-150`).
+Act id: `ligj-2015-150` (tags `ligj-2015-150/<day>`; `python registry/tools/on.py <day> ligj-2015-150`).
 
 ## Decisions made by hand
 

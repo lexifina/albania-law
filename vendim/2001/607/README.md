@@ -8,7 +8,7 @@ Shpërndarjen e parakohshme të këshillit të komunës kolsh, të qarkut të le
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-607` (tags `vendim-2001-607/<day>`; `python tools/on.py <day> vendim-2001-607`).
+Act id: `vendim-2001-607` (tags `vendim-2001-607/<day>`; `python registry/tools/on.py <day> vendim-2001-607`).
 
 ## Decisions made by hand
 

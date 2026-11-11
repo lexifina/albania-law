@@ -15,7 +15,7 @@ Ngritjen dhe funksionimin e Grupit Negociator Shqiptar për përgatitjen e negoc
 | Pika 8 | [pika-008.md](pika-008.md) | 1 | 2002-12-14 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-215` (tags `vendim-2002-215/<day>`; `python tools/on.py <day> vendim-2002-215`).
+Act id: `vendim-2002-215` (tags `vendim-2002-215/<day>`; `python registry/tools/on.py <day> vendim-2002-215`).
 
 ## Decisions made by hand
 

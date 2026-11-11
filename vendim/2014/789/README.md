@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të znj. anxhelika hasani · 1 versions, fro
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-789` (tags `vendim-2014-789/<day>`; `python tools/on.py <day> vendim-2014-789`).
+Act id: `vendim-2014-789` (tags `vendim-2014-789/<day>`; `python registry/tools/on.py <day> vendim-2014-789`).
 
 ## Decisions made by hand
 

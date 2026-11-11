@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së aftës epizootike të shfaqur në shtet
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0307-238` (tags `urdher-2025-0307-238/<day>`; `python tools/on.py <day> urdher-2025-0307-238`).
+Act id: `urdher-2025-0307-238` (tags `urdher-2025-0307-238/<day>`; `python registry/tools/on.py <day> urdher-2025-0307-238`).
 
 ## Decisions made by hand
 

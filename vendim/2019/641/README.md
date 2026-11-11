@@ -5,7 +5,7 @@ Organizimin, funksionimin dhe fushën e veprimit të policimit vullnetar · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-641` (tags `vendim-2019-641/<day>`; `python tools/on.py <day> vendim-2019-641`).
+Act id: `vendim-2019-641` (tags `vendim-2019-641/<day>`; `python registry/tools/on.py <day> vendim-2019-641`).
 
 ## Decisions made by hand
 

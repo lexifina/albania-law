@@ -9,7 +9,7 @@ Ndryshimin nga tokë bujqësore të kategorisë v në tokë urbane (truall) të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-554` (tags `vendim-2014-554/<day>`; `python tools/on.py <day> vendim-2014-554`).
+Act id: `vendim-2014-554` (tags `vendim-2014-554/<day>`; `python registry/tools/on.py <day> vendim-2014-554`).
 
 ## Decisions made by hand
 

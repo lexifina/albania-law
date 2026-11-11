@@ -17,7 +17,7 @@ Modalitetet e aplikimit të pullave fiskale në produktet e duhanit, birrës, ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0630-14` (tags `udhezim-2026-0630-14/<day>`; `python tools/on.py <day> udhezim-2026-0630-14`).
+Act id: `udhezim-2026-0630-14` (tags `udhezim-2026-0630-14/<day>`; `python registry/tools/on.py <day> udhezim-2026-0630-14`).
 
 ## Decisions made by hand
 

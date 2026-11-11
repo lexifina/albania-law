@@ -5,7 +5,7 @@ Riorganizimin e statistikave bujqësore në republikën e shqipërisë · 2 vers
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-116` (tags `vendim-2012-116/<day>`; `python tools/on.py <day> vendim-2012-116`).
+Act id: `vendim-2012-116` (tags `vendim-2012-116/<day>`; `python registry/tools/on.py <day> vendim-2012-116`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare për k
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 
-Act id: `ligji-9056-2003` (tags `ligji-9056-2003/<day>`; `python tools/on.py <day> ligji-9056-2003`).
+Act id: `ligji-9056-2003` (tags `ligji-9056-2003/<day>`; `python registry/tools/on.py <day> ligji-9056-2003`).
 
 ## Decisions made by hand
 

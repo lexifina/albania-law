@@ -63,7 +63,7 @@ Përkthimin zyrtar dhe profesionin e përkthyesit zyrtar · 2 versions, from 202
 | Neni 47 | [neni-047.md](neni-047.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-82` (tags `ligj-2021-82/<day>`; `python tools/on.py <day> ligj-2021-82`).
+Act id: `ligj-2021-82` (tags `ligj-2021-82/<day>`; `python registry/tools/on.py <day> ligj-2021-82`).
 
 ## Decisions made by hand
 

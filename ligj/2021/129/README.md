@@ -28,7 +28,7 @@ Statusin ”Fëmijë në përkujdesje të Republikës” · 1 versions, from 202
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-129-2021` (tags `ligji-129-2021/<day>`; `python tools/on.py <day> ligji-129-2021`).
+Act id: `ligji-129-2021` (tags `ligji-129-2021/<day>`; `python registry/tools/on.py <day> ligji-129-2021`).
 
 ## Decisions made by hand
 

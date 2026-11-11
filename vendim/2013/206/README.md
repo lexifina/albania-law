@@ -25,7 +25,7 @@ Përcaktimin e kritereve për hapjen dhe mbylljen e qendrave të transplantimit 
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-206` (tags `vendim-2013-206/<day>`; `python tools/on.py <day> vendim-2013-206`).
+Act id: `vendim-2013-206` (tags `vendim-2013-206/<day>`; `python registry/tools/on.py <day> vendim-2013-206`).
 
 ## Decisions made by hand
 

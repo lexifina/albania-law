@@ -17,7 +17,7 @@ Kufizimin e shpenzimeve buxhetore të vitit 2004 · 1 versions, from 2004-07-24 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-490` (tags `vendim-2004-490/<day>`; `python tools/on.py <day> vendim-2004-490`).
+Act id: `vendim-2004-490` (tags `vendim-2004-490/<day>`; `python registry/tools/on.py <day> vendim-2004-490`).
 
 ## Decisions made by hand
 

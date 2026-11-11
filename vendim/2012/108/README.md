@@ -9,7 +9,7 @@ Mbylljen e ambasadës së republikës së shqipërisë në buenos aires (argjent
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-108` (tags `vendim-2012-108/<day>`; `python tools/on.py <day> vendim-2012-108`).
+Act id: `vendim-2012-108` (tags `vendim-2012-108/<day>`; `python registry/tools/on.py <day> vendim-2012-108`).
 
 ## Decisions made by hand
 

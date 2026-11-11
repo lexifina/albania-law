@@ -12,7 +12,7 @@ Privatizimin e banesave të familjeve të shpërngulura nga ndërtimi i hidrocen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-636` (tags `vendim-2001-636/<day>`; `python tools/on.py <day> vendim-2001-636`).
+Act id: `vendim-2001-636` (tags `vendim-2001-636/<day>`; `python registry/tools/on.py <day> vendim-2001-636`).
 
 ## Decisions made by hand
 

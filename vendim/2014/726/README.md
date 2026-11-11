@@ -10,7 +10,7 @@ Miratimin e marrëveshjes së dytë ndryshuese, ndërmjet “albpetrol”, sha-s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-726` (tags `vendim-2014-726/<day>`; `python tools/on.py <day> vendim-2014-726`).
+Act id: `vendim-2014-726` (tags `vendim-2014-726/<day>`; `python registry/tools/on.py <day> vendim-2014-726`).
 
 ## Decisions made by hand
 

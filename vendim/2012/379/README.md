@@ -13,7 +13,7 @@ Një shtesë fondi në buxhetin e vitit 2012, miratuar për ministrinë e brends
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2012-379` (tags `vendim-2012-379/<day>`; `python tools/on.py <day> vendim-2012-379`).
+Act id: `vendim-2012-379` (tags `vendim-2012-379/<day>`; `python registry/tools/on.py <day> vendim-2012-379`).
 
 ## Decisions made by hand
 

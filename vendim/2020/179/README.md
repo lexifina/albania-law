@@ -45,7 +45,7 @@ Rregullat, kushtet dhe procedurat e privatizimit të banesave që kanë qenë su
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-05-12 |
 
-Act id: `vendim-2020-179` (tags `vendim-2020-179/<day>`; `python tools/on.py <day> vendim-2020-179`).
+Act id: `vendim-2020-179` (tags `vendim-2020-179/<day>`; `python registry/tools/on.py <day> vendim-2020-179`).
 
 ## Decisions made by hand
 

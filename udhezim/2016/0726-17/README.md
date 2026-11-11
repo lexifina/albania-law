@@ -11,7 +11,7 @@ Mbi procedurat e përjashtimit nga detyrimet e importit dhe detyrimet e tjera ta
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0726-17` (tags `udhezim-2016-0726-17/<day>`; `python tools/on.py <day> udhezim-2016-0726-17`).
+Act id: `udhezim-2016-0726-17` (tags `udhezim-2016-0726-17/<day>`; `python registry/tools/on.py <day> udhezim-2016-0726-17`).
 
 ## Decisions made by hand
 

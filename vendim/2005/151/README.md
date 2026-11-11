@@ -10,7 +10,7 @@ Miratimin e instruksioneve për paraqitjen dhe hapjen e ofertave për privatizim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-151` (tags `vendim-2005-151/<day>`; `python tools/on.py <day> vendim-2005-151`).
+Act id: `vendim-2005-151` (tags `vendim-2005-151/<day>`; `python registry/tools/on.py <day> vendim-2005-151`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Fillimin e procedurës së ndërtimit me koncesion, të formës “bot”, për 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-299` (tags `vendim-2005-299/<day>`; `python tools/on.py <day> vendim-2005-299`).
+Act id: `vendim-2005-299` (tags `vendim-2005-299/<day>`; `python registry/tools/on.py <day> vendim-2005-299`).
 
 ## Decisions made by hand
 

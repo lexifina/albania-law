@@ -5,7 +5,7 @@ Miratimin e strategjisë kombëtare të furnizimit me ujë dhe të sanitetit · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-706` (tags `vendim-2003-706/<day>`; `python tools/on.py <day> vendim-2003-706`).
+Act id: `vendim-2003-706` (tags `vendim-2003-706/<day>`; `python registry/tools/on.py <day> vendim-2003-706`).
 
 ## Decisions made by hand
 

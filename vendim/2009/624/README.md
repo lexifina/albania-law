@@ -5,7 +5,7 @@ PËR MIRATIMIN E STATUTIT TË QENDRËS KOMBËTARe TË LICENCIMIT · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-624` (tags `vendim-2009-624/<day>`; `python tools/on.py <day> vendim-2009-624`).
+Act id: `vendim-2009-624` (tags `vendim-2009-624/<day>`; `python registry/tools/on.py <day> vendim-2009-624`).
 
 ## Decisions made by hand
 

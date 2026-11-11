@@ -12,7 +12,7 @@ Ratifikimin e konventës së hagës ”për rivendosjen ndërkombëtare të dety
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-63` (tags `ligj-2012-63/<day>`; `python tools/on.py <day> ligj-2012-63`).
+Act id: `ligj-2012-63` (tags `ligj-2012-63/<day>`; `python registry/tools/on.py <day> ligj-2012-63`).
 
 ## Decisions made by hand
 

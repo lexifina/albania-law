@@ -16,7 +16,7 @@ Krijimin e bazës së të dhënave shtetërore për trafikun detar · 1 versions
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-103` (tags `vendim-2022-103/<day>`; `python tools/on.py <day> vendim-2022-103`).
+Act id: `vendim-2022-103` (tags `vendim-2022-103/<day>`; `python registry/tools/on.py <day> vendim-2022-103`).
 
 ## Decisions made by hand
 

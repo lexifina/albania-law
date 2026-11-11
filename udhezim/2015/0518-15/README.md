@@ -15,7 +15,7 @@ Përcaktimin e procedurave për dhënien e informacionit nga çdo person në pë
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0518-15` (tags `udhezim-2015-0518-15/<day>`; `python tools/on.py <day> udhezim-2015-0518-15`).
+Act id: `udhezim-2015-0518-15` (tags `udhezim-2015-0518-15/<day>`; `python registry/tools/on.py <day> udhezim-2015-0518-15`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Shpërndarjen, me koeficient pjesor, të vlerave financiare kreditorëve të sho
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-586` (tags `vendim-2007-586/<day>`; `python tools/on.py <day> vendim-2007-586`).
+Act id: `vendim-2007-586` (tags `vendim-2007-586/<day>`; `python registry/tools/on.py <day> vendim-2007-586`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores “për etalonet kombëtare të matjes” · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1160` (tags `vendim-2008-1160/<day>`; `python tools/on.py <day> vendim-2008-1160`).
+Act id: `vendim-2008-1160` (tags `vendim-2008-1160/<day>`; `python registry/tools/on.py <day> vendim-2008-1160`).
 
 ## Decisions made by hand
 

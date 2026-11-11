@@ -5,7 +5,7 @@ Sasitë e tregtueshme të materialit mbjellës dhe shumëzues bimor, varieteti i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0216-5` (tags `udhezim-2012-0216-5/<day>`; `python tools/on.py <day> udhezim-2012-0216-5`).
+Act id: `udhezim-2012-0216-5` (tags `udhezim-2012-0216-5/<day>`; `python registry/tools/on.py <day> udhezim-2012-0216-5`).
 
 ## Decisions made by hand
 

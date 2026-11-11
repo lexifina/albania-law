@@ -14,7 +14,7 @@ Hapjen e institucionit arsimor parauniversitar publik të arsimit parashkollor, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1110-335` (tags `urdher-2020-1110-335/<day>`; `python tools/on.py <day> urdher-2020-1110-335`).
+Act id: `urdher-2020-1110-335` (tags `urdher-2020-1110-335/<day>`; `python registry/tools/on.py <day> urdher-2020-1110-335`).
 
 ## Decisions made by hand
 

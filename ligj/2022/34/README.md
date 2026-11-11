@@ -16,7 +16,7 @@ Përcaktimin e procedurës së veçantë për negocimin dhe zbatimin e kontratë
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-34` (tags `ligj-2022-34/<day>`; `python tools/on.py <day> ligj-2022-34`).
+Act id: `ligj-2022-34` (tags `ligj-2022-34/<day>`; `python registry/tools/on.py <day> ligj-2022-34`).
 
 ## Decisions made by hand
 

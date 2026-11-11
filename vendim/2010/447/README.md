@@ -10,7 +10,7 @@ Miratimin e rregullores tip të administrimit të bashkëpronësisë në ndërte
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-447` (tags `vendim-2010-447/<day>`; `python tools/on.py <day> vendim-2010-447`).
+Act id: `vendim-2010-447` (tags `vendim-2010-447/<day>`; `python registry/tools/on.py <day> vendim-2010-447`).
 
 ## Decisions made by hand
 

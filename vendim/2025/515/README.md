@@ -13,7 +13,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Shë
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-515` (tags `vendim-2025-515/<day>`; `python tools/on.py <day> vendim-2025-515`).
+Act id: `vendim-2025-515` (tags `vendim-2025-515/<day>`; `python registry/tools/on.py <day> vendim-2025-515`).
 
 ## Decisions made by hand
 

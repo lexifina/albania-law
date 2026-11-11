@@ -20,7 +20,7 @@ Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-07-14 |
 
-Act id: `vendim-2023-384` (tags `vendim-2023-384/<day>`; `python tools/on.py <day> vendim-2023-384`).
+Act id: `vendim-2023-384` (tags `vendim-2023-384/<day>`; `python registry/tools/on.py <day> vendim-2023-384`).
 
 ## Decisions made by hand
 

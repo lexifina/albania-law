@@ -5,7 +5,7 @@ Përcaktimin e kushteve dhe të procedurës për përzgjedhjen e këshilltarit f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-201` (tags `vendim-2020-201/<day>`; `python tools/on.py <day> vendim-2020-201`).
+Act id: `vendim-2020-201` (tags `vendim-2020-201/<day>`; `python registry/tools/on.py <day> vendim-2020-201`).
 
 ## Decisions made by hand
 

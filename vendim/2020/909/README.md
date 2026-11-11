@@ -13,7 +13,7 @@ Përcaktimin e procedurave, të dokumentacionit dhe të masës së përfitimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-03-12 |
 
-Act id: `vendim-2020-909` (tags `vendim-2020-909/<day>`; `python tools/on.py <day> vendim-2020-909`).
+Act id: `vendim-2020-909` (tags `vendim-2020-909/<day>`; `python registry/tools/on.py <day> vendim-2020-909`).
 
 ## Decisions made by hand
 

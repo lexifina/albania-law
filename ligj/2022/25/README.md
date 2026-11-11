@@ -29,7 +29,7 @@ Mbështetjen dhe zhvillimin e startup-eve · 3 versions, from 2022-04-15 (latest
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-25` (tags `ligj-2022-25/<day>`; `python tools/on.py <day> ligj-2022-25`).
+Act id: `ligj-2022-25` (tags `ligj-2022-25/<day>`; `python registry/tools/on.py <day> ligj-2022-25`).
 
 ## Decisions made by hand
 

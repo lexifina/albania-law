@@ -5,7 +5,7 @@ Urdhrin e mjekëve në republikën e shqipërisë · 2 versions, from 2000-07-06
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8615` (tags `ligj-2000-8615/<day>`; `python tools/on.py <day> ligj-2000-8615`).
+Act id: `ligj-2000-8615` (tags `ligj-2000-8615/<day>`; `python registry/tools/on.py <day> ligj-2000-8615`).
 
 ## Decisions made by hand
 

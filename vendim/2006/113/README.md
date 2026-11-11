@@ -14,7 +14,7 @@ Lejimin e Ministrisë së Mbrojtjes të përdorë procedurë të veçantë proku
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-113` (tags `vendim-2006-113/<day>`; `python tools/on.py <day> vendim-2006-113`).
+Act id: `vendim-2006-113` (tags `vendim-2006-113/<day>`; `python registry/tools/on.py <day> vendim-2006-113`).
 
 ## Decisions made by hand
 

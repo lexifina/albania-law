@@ -18,7 +18,7 @@ Përzgjedhjen e anëtarëve të Këshillit Kombëtar të Arsimit Parauniversitar
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0925-36` (tags `udhezim-2015-0925-36/<day>`; `python tools/on.py <day> udhezim-2015-0925-36`).
+Act id: `udhezim-2015-0925-36` (tags `udhezim-2015-0925-36/<day>`; `python registry/tools/on.py <day> udhezim-2015-0925-36`).
 
 ## Decisions made by hand
 

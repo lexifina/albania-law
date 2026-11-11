@@ -10,7 +10,7 @@ Dhënie fondi, në buxhetin e vitit 2010, për komunën finiq · 1 versions, fro
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-509` (tags `vendim-2010-509/<day>`; `python tools/on.py <day> vendim-2010-509`).
+Act id: `vendim-2010-509` (tags `vendim-2010-509/<day>`; `python registry/tools/on.py <day> vendim-2010-509`).
 
 ## Decisions made by hand
 

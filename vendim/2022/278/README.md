@@ -20,7 +20,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-278` (tags `vendim-2022-278/<day>`; `python tools/on.py <day> vendim-2022-278`).
+Act id: `vendim-2022-278` (tags `vendim-2022-278/<day>`; `python registry/tools/on.py <day> vendim-2022-278`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 841, datë 5.11.2026: Për disa ndryshime në vendimin nr.278, datë 29.4.2022, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Sistemim rrugësh, blloku “Përroi i Çaprazit”, Pogradec””](https://qbz.gov.al/eli/vendim/2026/11/05/841)
 
 ## Decisions made by hand
 

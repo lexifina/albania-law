@@ -10,7 +10,7 @@ Eurobondin që do të emetohet nga ministri i Financave, miratimin e përjashtim
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-67` (tags `ligj-2015-67/<day>`; `python tools/on.py <day> ligj-2015-67`).
+Act id: `ligj-2015-67` (tags `ligj-2015-67/<day>`; `python registry/tools/on.py <day> ligj-2015-67`).
 
 ## Decisions made by hand
 

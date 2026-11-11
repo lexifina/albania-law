@@ -5,7 +5,7 @@ Përcaktimin e procedurës së kalimit të pronësisë të pasurive të paluajts
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-608` (tags `vendim-2012-608/<day>`; `python tools/on.py <day> vendim-2012-608`).
+Act id: `vendim-2012-608` (tags `vendim-2012-608/<day>`; `python registry/tools/on.py <day> vendim-2012-608`).
 
 ## Decisions made by hand
 

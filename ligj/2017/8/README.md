@@ -28,7 +28,7 @@ Statusin e punonjësve të industrisë së naftës dhe të gazit · 1 versions, 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8-2017` (tags `ligji-8-2017/<day>`; `python tools/on.py <day> ligji-8-2017`).
+Act id: `ligji-8-2017` (tags `ligji-8-2017/<day>`; `python registry/tools/on.py <day> ligji-8-2017`).
 
 ## Decisions made by hand
 

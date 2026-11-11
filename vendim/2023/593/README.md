@@ -24,7 +24,7 @@ Organizimin, funksionimin dhe detyrat e Komitetit të Politikave të Menaxhimit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-593` (tags `vendim-2023-593/<day>`; `python tools/on.py <day> vendim-2023-593`).
+Act id: `vendim-2023-593` (tags `vendim-2023-593/<day>`; `python registry/tools/on.py <day> vendim-2023-593`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lejimin e botimit, në buletinin e prokurimeve publike, të njoftimit për lidhj
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-855` (tags `vendim-2011-855/<day>`; `python tools/on.py <day> vendim-2011-855`).
+Act id: `vendim-2011-855` (tags `vendim-2011-855/<day>`; `python registry/tools/on.py <day> vendim-2011-855`).
 
 ## Decisions made by hand
 

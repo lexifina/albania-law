@@ -9,7 +9,7 @@ Miratimin e planit të menaxhimit të integruar të Ansamblit Historik të Palla
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-438` (tags `vendim-2022-438/<day>`; `python tools/on.py <day> vendim-2022-438`).
+Act id: `vendim-2022-438` (tags `vendim-2022-438/<day>`; `python registry/tools/on.py <day> vendim-2022-438`).
 
 ## Decisions made by hand
 

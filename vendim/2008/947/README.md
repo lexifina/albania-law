@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me ishujt Solomon · 1 versions, from 20
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-947` (tags `vendim-2008-947/<day>`; `python tools/on.py <day> vendim-2008-947`).
+Act id: `vendim-2008-947` (tags `vendim-2008-947/<day>`; `python registry/tools/on.py <day> vendim-2008-947`).
 
 ## Decisions made by hand
 

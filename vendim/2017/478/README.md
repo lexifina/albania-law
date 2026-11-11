@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të restaurimit të ish-godinës së Lidhjes së Shkrimta
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-478` (tags `vendim-2017-478/<day>`; `python tools/on.py <day> vendim-2017-478`).
+Act id: `vendim-2017-478` (tags `vendim-2017-478/<day>`; `python registry/tools/on.py <day> vendim-2017-478`).
 
 ## Decisions made by hand
 

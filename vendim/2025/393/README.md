@@ -5,7 +5,7 @@ Përcaktimin e autoritetit të autorizuar për realizimin e shenjimit dhe gjurmu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2025-393` (tags `vendim-2025-393/<day>`; `python tools/on.py <day> vendim-2025-393`).
+Act id: `vendim-2025-393` (tags `vendim-2025-393/<day>`; `python registry/tools/on.py <day> vendim-2025-393`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Indeksimin e pensioneve · 1 versions, from 2019-03-28 (latest in force: 2019-03
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-167` (tags `vendim-2019-167/<day>`; `python tools/on.py <day> vendim-2019-167`).
+Act id: `vendim-2019-167` (tags `vendim-2019-167/<day>`; `python registry/tools/on.py <day> vendim-2019-167`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,17 @@ Miratimin e dokumentit “Politikat dhe procedurat e funksionimit të qendrës n
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-439` (tags `vendim-2011-439/<day>`; `python tools/on.py <day> vendim-2011-439`).
+Act id: `vendim-2011-439` (tags `vendim-2011-439/<day>`; `python registry/tools/on.py <day> vendim-2011-439`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 585, datë 1.7.2015: Për disa shtesa dhe ndryshime në vendimin nr. 439, datë 13.5.2011, të Këshillit të Ministrave, “Për miratimin e dokumentit “Politikat dhe procedurat e funksionimit të Qendrës Ndërinstitucionale Operacionale Detare (QNOD)””](https://qbz.gov.al/eli/vendim/2015/07/01/585)
+- [Vendimi i Këshillit të Ministrave nr. 729, datë 13.11.2019: Për miratimin e Planit Kombëtar të Kërkim-Shpëtimit në Republikën e Shqipërisë dhe planit të veprimit të tij](https://qbz.gov.al/eli/vendim/2019/11/13/729)
+- [Vendimi i Këshillit të Ministrave nr. 1121, datë 30.12.2020: Për miratimin e programit të përgjithshëm analitik të projektakteve, që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2021](https://qbz.gov.al/eli/vendim/2020/12/30/1121)
 
 ## Decisions made by hand
 

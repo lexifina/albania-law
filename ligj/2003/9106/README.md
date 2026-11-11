@@ -5,7 +5,7 @@ Shërbimin spitalor në republikën e shqipërisë · 4 versions, from 2003-08-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9106` (tags `ligj-2003-9106/<day>`; `python tools/on.py <day> ligj-2003-9106`).
+Act id: `ligj-2003-9106` (tags `ligj-2003-9106/<day>`; `python registry/tools/on.py <day> ligj-2003-9106`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen e pjesshme, të zgj
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9939` (tags `ligj-2008-9939/<day>`; `python tools/on.py <day> ligj-2008-9939`).
+Act id: `ligj-2008-9939` (tags `ligj-2008-9939/<day>`; `python registry/tools/on.py <day> ligj-2008-9939`).
 
 ## Decisions made by hand
 

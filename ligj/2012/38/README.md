@@ -80,7 +80,7 @@ Shoqëritë e bashkëpunimit bujqësor · 1 versions, from 2012-05-11 (latest in
 | Neni 63 | [neni-063.md](neni-063.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-38-2012` (tags `ligji-38-2012/<day>`; `python tools/on.py <day> ligji-38-2012`).
+Act id: `ligji-38-2012` (tags `ligji-38-2012/<day>`; `python registry/tools/on.py <day> ligji-38-2012`).
 
 ## Decisions made by hand
 

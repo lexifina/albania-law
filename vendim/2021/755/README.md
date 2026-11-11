@@ -31,7 +31,7 @@ Përcaktimin e dokumentacionit, të procedurave e të kritereve për kryerjen e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-755` (tags `vendim-2021-755/<day>`; `python tools/on.py <day> vendim-2021-755`).
+Act id: `vendim-2021-755` (tags `vendim-2021-755/<day>`; `python registry/tools/on.py <day> vendim-2021-755`).
 
 ## Decisions made by hand
 

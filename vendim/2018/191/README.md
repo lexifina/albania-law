@@ -10,7 +10,7 @@ Miratimin e rregullit teknik “pёr etiketimin e energjisё pёr furrat shtëpi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-191` (tags `vendim-2018-191/<day>`; `python tools/on.py <day> vendim-2018-191`).
+Act id: `vendim-2018-191` (tags `vendim-2018-191/<day>`; `python registry/tools/on.py <day> vendim-2018-191`).
 
 ## Decisions made by hand
 

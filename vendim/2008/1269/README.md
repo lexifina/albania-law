@@ -15,7 +15,7 @@ PËR PËRBËRJEN, MËNYRËN E FUNKSIONIMIT DHE DETYRAT E PËRGJEGJËSITË E STRU
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1269` (tags `vendim-2008-1269/<day>`; `python tools/on.py <day> vendim-2008-1269`).
+Act id: `vendim-2008-1269` (tags `vendim-2008-1269/<day>`; `python registry/tools/on.py <day> vendim-2008-1269`).
 
 ## Decisions made by hand
 

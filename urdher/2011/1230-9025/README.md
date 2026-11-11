@@ -5,7 +5,7 @@ Shpalljen e vendeve vakant, për ushtrimin e veprimtarisë së noterëve, sipas 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-1230-9025` (tags `urdher-2011-1230-9025/<day>`; `python tools/on.py <day> urdher-2011-1230-9025`).
+Act id: `urdher-2011-1230-9025` (tags `urdher-2011-1230-9025/<day>`; `python registry/tools/on.py <day> urdher-2011-1230-9025`).
 
 ## Decisions made by hand
 

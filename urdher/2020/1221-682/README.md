@@ -5,7 +5,7 @@ Ndalimin e lëvizjes përmes rrugëve ajrore me Britaninë e Madhe · 5 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-1221-682` (tags `urdher-2020-1221-682/<day>`; `python tools/on.py <day> urdher-2020-1221-682`).
+Act id: `urdher-2020-1221-682` (tags `urdher-2020-1221-682/<day>`; `python registry/tools/on.py <day> urdher-2020-1221-682`).
 
 ## Decisions made by hand
 

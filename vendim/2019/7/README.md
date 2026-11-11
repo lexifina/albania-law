@@ -14,7 +14,7 @@ Dhënien e bursave për nxënësit e shkollës së mesme profesionale “Peter M
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-7` (tags `vendim-2019-7/<day>`; `python tools/on.py <day> vendim-2019-7`).
+Act id: `vendim-2019-7` (tags `vendim-2019-7/<day>`; `python registry/tools/on.py <day> vendim-2019-7`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e tekstit të marrëveshjes për prodhimin dhe furnizimin nga dhe ndë
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2021-24` (tags `aktnormativ-2021-24/<day>`; `python tools/on.py <day> aktnormativ-2021-24`).
+Act id: `aktnormativ-2021-24` (tags `aktnormativ-2021-24/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-24`).
 
 ## Decisions made by hand
 

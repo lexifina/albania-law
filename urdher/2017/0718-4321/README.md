@@ -15,7 +15,7 @@ Miratimin e modelit të kontratës që lidhet midis shoqërisë përmbarimore/p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2017-0718-4321` (tags `urdher-2017-0718-4321/<day>`; `python tools/on.py <day> urdher-2017-0718-4321`).
+Act id: `urdher-2017-0718-4321` (tags `urdher-2017-0718-4321/<day>`; `python registry/tools/on.py <day> urdher-2017-0718-4321`).
 
 ## Decisions made by hand
 

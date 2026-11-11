@@ -5,7 +5,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien e statusit të zhvilluesit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-773` (tags `vendim-2008-773/<day>`; `python tools/on.py <day> vendim-2008-773`).
+Act id: `vendim-2008-773` (tags `vendim-2008-773/<day>`; `python registry/tools/on.py <day> vendim-2008-773`).
 
 ## Decisions made by hand
 

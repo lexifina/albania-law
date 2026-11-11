@@ -5,7 +5,7 @@ Tarifat dhe pagesat e shërbimeve të drejtorisë së përgjithshme të metrolog
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-1208-7643` (tags `udhezim-2009-1208-7643/<day>`; `python tools/on.py <day> udhezim-2009-1208-7643`).
+Act id: `udhezim-2009-1208-7643` (tags `udhezim-2009-1208-7643/<day>`; `python registry/tools/on.py <day> udhezim-2009-1208-7643`).
 
 ## Decisions made by hand
 

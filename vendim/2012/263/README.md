@@ -5,7 +5,7 @@ Përcaktimin e rregullave të hollësishme për bashkëpunimin ndërmjet mekaniz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-263` (tags `vendim-2012-263/<day>`; `python tools/on.py <day> vendim-2012-263`).
+Act id: `vendim-2012-263` (tags `vendim-2012-263/<day>`; `python registry/tools/on.py <day> vendim-2012-263`).
 
 ## Decisions made by hand
 

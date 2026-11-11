@@ -11,7 +11,7 @@ Miratimin e rregullores për veprimtarinë e Këshillit Kombëtar të Muzeve dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1104-442` (tags `urdher-2020-1104-442/<day>`; `python tools/on.py <day> urdher-2020-1104-442`).
+Act id: `urdher-2020-1104-442` (tags `urdher-2020-1104-442/<day>`; `python registry/tools/on.py <day> urdher-2020-1104-442`).
 
 ## Decisions made by hand
 

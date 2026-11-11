@@ -12,7 +12,7 @@ Disa shtesa në ligjin nr. 7564, datë 19.5.1992, “për të drejtën e autorit
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8826-2001` (tags `ligji-8826-2001/<day>`; `python tools/on.py <day> ligji-8826-2001`).
+Act id: `ligji-8826-2001` (tags `ligji-8826-2001/<day>`; `python registry/tools/on.py <day> ligji-8826-2001`).
 
 ## Decisions made by hand
 

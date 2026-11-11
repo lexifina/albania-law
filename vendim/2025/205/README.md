@@ -10,7 +10,7 @@ Caktimin e datave 15 dhe 16 maj 2025 ditë pushimi për punonjësit e disa insti
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-205` (tags `vendim-2025-205/<day>`; `python tools/on.py <day> vendim-2025-205`).
+Act id: `vendim-2025-205` (tags `vendim-2025-205/<day>`; `python registry/tools/on.py <day> vendim-2025-205`).
 
 ## Decisions made by hand
 

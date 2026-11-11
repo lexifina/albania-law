@@ -17,7 +17,7 @@ Reduktimin dhe stabilizimin e shkarkimeve të gazeve serrë të fluorinuara · 1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-865` (tags `vendim-2014-865/<day>`; `python tools/on.py <day> vendim-2014-865`).
+Act id: `vendim-2014-865` (tags `vendim-2014-865/<day>`; `python registry/tools/on.py <day> vendim-2014-865`).
 
 ## Decisions made by hand
 

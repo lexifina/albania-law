@@ -5,7 +5,7 @@ Disa ndryshime në vendimin nr.207, datë 21.2.2008 të këshillit të ministrav
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-822` (tags `vendim-2009-822/<day>`; `python tools/on.py <day> vendim-2009-822`).
+Act id: `vendim-2009-822` (tags `vendim-2009-822/<day>`; `python registry/tools/on.py <day> vendim-2009-822`).
 
 ## Decisions made by hand
 

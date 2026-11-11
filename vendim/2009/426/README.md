@@ -9,7 +9,7 @@ Sigurimin e jetës së ushtarakëve të forcave të armatosura, të dërguar me 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-426` (tags `vendim-2009-426/<day>`; `python tools/on.py <day> vendim-2009-426`).
+Act id: `vendim-2009-426` (tags `vendim-2009-426/<day>`; `python registry/tools/on.py <day> vendim-2009-426`).
 
 ## Decisions made by hand
 

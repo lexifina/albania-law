@@ -11,7 +11,7 @@ Mbi procedurën e regjistrimit të të huajit në autoritetin përgjegjës vendo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1125-228` (tags `udhezim-2022-1125-228/<day>`; `python tools/on.py <day> udhezim-2022-1125-228`).
+Act id: `udhezim-2022-1125-228` (tags `udhezim-2022-1125-228/<day>`; `python registry/tools/on.py <day> udhezim-2022-1125-228`).
 
 ## Decisions made by hand
 

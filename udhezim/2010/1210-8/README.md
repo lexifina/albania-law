@@ -23,7 +23,7 @@ Përcaktimin e kushteve dhe të procedurave të dhënies të së drejtës subjek
 | Pika 16 | [pika-016.md](pika-016.md) | 1 | 2020-07-29 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1210-8` (tags `udhezim-2010-1210-8/<day>`; `python tools/on.py <day> udhezim-2010-1210-8`).
+Act id: `udhezim-2010-1210-8` (tags `udhezim-2010-1210-8/<day>`; `python registry/tools/on.py <day> udhezim-2010-1210-8`).
 
 ## Decisions made by hand
 

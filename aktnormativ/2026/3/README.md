@@ -11,7 +11,7 @@ Financimin e pjesshëm të organizimit të një aktiviteti kulturor-turistik me 
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2026-3` (tags `aktnormativ-2026-3/<day>`; `python tools/on.py <day> aktnormativ-2026-3`).
+Act id: `aktnormativ-2026-3` (tags `aktnormativ-2026-3/<day>`; `python registry/tools/on.py <day> aktnormativ-2026-3`).
 
 ## Decisions made by hand
 

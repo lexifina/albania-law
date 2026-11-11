@@ -9,7 +9,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien me koncesion të rrjetit k
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1009` (tags `vendim-2010-1009/<day>`; `python tools/on.py <day> vendim-2010-1009`).
+Act id: `vendim-2010-1009` (tags `vendim-2010-1009/<day>`; `python registry/tools/on.py <day> vendim-2010-1009`).
 
 ## Decisions made by hand
 

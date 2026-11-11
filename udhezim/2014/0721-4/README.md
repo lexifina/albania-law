@@ -35,7 +35,7 @@ Rregullat dhe procedurat e shqyrtimit të kërkesave për leje zhvillimore, si d
 | Pika 28 | [pika-028.md](pika-028.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0721-4` (tags `udhezim-2014-0721-4/<day>`; `python tools/on.py <day> udhezim-2014-0721-4`).
+Act id: `udhezim-2014-0721-4` (tags `udhezim-2014-0721-4/<day>`; `python registry/tools/on.py <day> udhezim-2014-0721-4`).
 
 ## Decisions made by hand
 

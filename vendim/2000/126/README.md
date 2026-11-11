@@ -11,7 +11,7 @@ Përbërjen dhe procedurat e punësimit të komisionit të posaçëm për shpron
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-126` (tags `vendim-2000-126/<day>`; `python tools/on.py <day> vendim-2000-126`).
+Act id: `vendim-2000-126` (tags `vendim-2000-126/<day>`; `python registry/tools/on.py <day> vendim-2000-126`).
 
 ## Decisions made by hand
 

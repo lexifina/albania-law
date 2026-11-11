@@ -5,7 +5,7 @@ Shpalljen e qendrës historike të fshatit dhërmi dhe miratimin e rregullores p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-29` (tags `vendim-2016-29/<day>`; `python tools/on.py <day> vendim-2016-29`).
+Act id: `vendim-2016-29` (tags `vendim-2016-29/<day>`; `python registry/tools/on.py <day> vendim-2016-29`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0615-182` (tags `urdher-2020-0615-182/<day>`; `python tools/on.py <day> urdher-2020-0615-182`).
+Act id: `urdher-2020-0615-182` (tags `urdher-2020-0615-182/<day>`; `python registry/tools/on.py <day> urdher-2020-0615-182`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.7, datë 13.12.2000 “për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8727` (tags `ligj-2000-8727/<day>`; `python tools/on.py <day> ligj-2000-8727`).
+Act id: `ligj-2000-8727` (tags `ligj-2000-8727/<day>`; `python registry/tools/on.py <day> ligj-2000-8727`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes specifike, ndërmjet Këshillit të Ministrave të Rep
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-712` (tags `vendim-2005-712/<day>`; `python tools/on.py <day> vendim-2005-712`).
+Act id: `vendim-2005-712` (tags `vendim-2005-712/<day>`; `python registry/tools/on.py <day> vendim-2005-712`).
 
 ## Decisions made by hand
 

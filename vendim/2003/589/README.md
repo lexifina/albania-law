@@ -18,7 +18,7 @@ Ngritjen dhe vënien në funksionim të qendrës pritëse të viktimave të traf
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-589` (tags `vendim-2003-589/<day>`; `python tools/on.py <day> vendim-2003-589`).
+Act id: `vendim-2003-589` (tags `vendim-2003-589/<day>`; `python registry/tools/on.py <day> vendim-2003-589`).
 
 ## Decisions made by hand
 

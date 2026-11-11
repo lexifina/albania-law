@@ -9,7 +9,7 @@ Miratimin e programit buxhetor afatmesëm, të rishikuar, 2015-2017 · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-724` (tags `vendim-2014-724/<day>`; `python tools/on.py <day> vendim-2014-724`).
+Act id: `vendim-2014-724` (tags `vendim-2014-724/<day>`; `python registry/tools/on.py <day> vendim-2014-724`).
 
 ## Decisions made by hand
 

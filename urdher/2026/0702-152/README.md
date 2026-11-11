@@ -12,7 +12,7 @@ Zbatimin e rregullores ”Për udhëzimet e Bashkimit Evropian për zhvillimin e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0702-152` (tags `urdher-2026-0702-152/<day>`; `python tools/on.py <day> urdher-2026-0702-152`).
+Act id: `urdher-2026-0702-152` (tags `urdher-2026-0702-152/<day>`; `python registry/tools/on.py <day> urdher-2026-0702-152`).
 
 ## Decisions made by hand
 

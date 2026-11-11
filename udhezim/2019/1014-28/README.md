@@ -5,7 +5,7 @@ Numrin e nxënësve për klasë dhe normat e punës mësimore në institucionet 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-1014-28` (tags `udhezim-2019-1014-28/<day>`; `python tools/on.py <day> udhezim-2019-1014-28`).
+Act id: `udhezim-2019-1014-28` (tags `udhezim-2019-1014-28/<day>`; `python registry/tools/on.py <day> udhezim-2019-1014-28`).
 
 ## Decisions made by hand
 

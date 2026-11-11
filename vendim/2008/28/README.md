@@ -11,7 +11,16 @@ Miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrym�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-28` (tags `vendim-2008-28/<day>`; `python tools/on.py <day> vendim-2008-28`).
+Act id: `vendim-2008-28` (tags `vendim-2008-28/<day>`; `python registry/tools/on.py <day> vendim-2008-28`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 94, datë 7.2.2012: Për disa ndryshime në vendimin nr. 28, datë 9.1.2008 të këshillit të ministrave “për miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare të interkonjeksionit me rrymë të vazhduar, ndërmjet vlorës (shqipëri) dhe brindizi - jug (itali)”, të ndryshuar](https://qbz.gov.al/eli/vendim/2012/02/07/94)
+- [Vendimi i Këshillit të Ministrave nr. 647, datë 11.6.2009: Për miratimin e disa shtesave dhe ndryshimeve në lejen për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrymë të vazhduar, të interkonjeksionit, vlorë (shqipëri) - brindizi jug (itali), e miratuar me vendimin nr.28, datë 9.1.2008 të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2009/06/11/647)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat e likuidimit të shoqërive shtetërore · 2 versions, from 2009-04-2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0408-317` (tags `udhezim-2009-0408-317/<day>`; `python tools/on.py <day> udhezim-2009-0408-317`).
+Act id: `udhezim-2009-0408-317` (tags `udhezim-2009-0408-317/<day>`; `python registry/tools/on.py <day> udhezim-2009-0408-317`).
 
 ## Decisions made by hand
 

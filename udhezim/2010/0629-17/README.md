@@ -11,7 +11,7 @@ Strukturën dhe planet mësimore në arsimin parauniversitar për vitin shkollor
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0629-17` (tags `udhezim-2010-0629-17/<day>`; `python tools/on.py <day> udhezim-2010-0629-17`).
+Act id: `udhezim-2010-0629-17` (tags `udhezim-2010-0629-17/<day>`; `python registry/tools/on.py <day> udhezim-2010-0629-17`).
 
 ## Decisions made by hand
 

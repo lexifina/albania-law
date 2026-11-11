@@ -15,7 +15,7 @@ Miratimin e rregullave për administrimin e regjistrit të objekteve të konfisk
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-752` (tags `vendim-2024-752/<day>`; `python tools/on.py <day> vendim-2024-752`).
+Act id: `vendim-2024-752` (tags `vendim-2024-752/<day>`; `python registry/tools/on.py <day> vendim-2024-752`).
 
 ## Decisions made by hand
 

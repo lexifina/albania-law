@@ -22,7 +22,7 @@ Miratimin e strukturës dhe të niveleve të pagave të punonjësve mësimorë d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-02-27 |
 
-Act id: `vendim-2024-425` (tags `vendim-2024-425/<day>`; `python tools/on.py <day> vendim-2024-425`).
+Act id: `vendim-2024-425` (tags `vendim-2024-425/<day>`; `python registry/tools/on.py <day> vendim-2024-425`).
 
 ## Decisions made by hand
 

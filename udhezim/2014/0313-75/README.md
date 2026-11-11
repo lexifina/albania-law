@@ -5,7 +5,7 @@ Procedurat që ndiqen për administrimin e automjeteve dhe motomjeteve që kaloj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0313-75` (tags `udhezim-2014-0313-75/<day>`; `python tools/on.py <day> udhezim-2014-0313-75`).
+Act id: `udhezim-2014-0313-75` (tags `udhezim-2014-0313-75/<day>`; `python registry/tools/on.py <day> udhezim-2014-0313-75`).
 
 ## Decisions made by hand
 

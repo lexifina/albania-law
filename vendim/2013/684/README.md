@@ -5,7 +5,7 @@ Lejimin e Ministrisë së Drejtësisë, si autoritet kontraktues, · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-684` (tags `vendim-2013-684/<day>`; `python tools/on.py <day> vendim-2013-684`).
+Act id: `vendim-2013-684` (tags `vendim-2013-684/<day>`; `python registry/tools/on.py <day> vendim-2013-684`).
 
 ## Decisions made by hand
 

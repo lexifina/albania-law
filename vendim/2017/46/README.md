@@ -9,7 +9,7 @@ PËR MIRATIMIN E MARRËVESHJES SË FINANCIMIT, NDËRMJET REPUBLIKËS SË SHQIPË
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-46` (tags `vendim-2017-46/<day>`; `python tools/on.py <day> vendim-2017-46`).
+Act id: `vendim-2017-46` (tags `vendim-2017-46/<day>`; `python registry/tools/on.py <day> vendim-2017-46`).
 
 ## Decisions made by hand
 

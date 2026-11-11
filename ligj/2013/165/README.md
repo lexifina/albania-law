@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes financiare ndërmjet Këshillit të Ministrave të R
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-165-2013` (tags `ligji-165-2013/<day>`; `python tools/on.py <day> ligji-165-2013`).
+Act id: `ligji-165-2013` (tags `ligji-165-2013/<day>`; `python registry/tools/on.py <day> ligji-165-2013`).
 
 ## Decisions made by hand
 

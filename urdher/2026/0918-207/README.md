@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për përcaktimin e një formulari të përbashkët p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0918-207` (tags `urdher-2026-0918-207/<day>`; `python tools/on.py <day> urdher-2026-0918-207`).
+Act id: `urdher-2026-0918-207` (tags `urdher-2026-0918-207/<day>`; `python registry/tools/on.py <day> urdher-2026-0918-207`).
 
 ## Decisions made by hand
 

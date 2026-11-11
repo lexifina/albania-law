@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në amendamentin e Londrës, aneksi II, 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9484` (tags `ligj-2006-9484/<day>`; `python tools/on.py <day> ligj-2006-9484`).
+Act id: `ligj-2006-9484` (tags `ligj-2006-9484/<day>`; `python registry/tools/on.py <day> ligj-2006-9484`).
 
 ## Decisions made by hand
 

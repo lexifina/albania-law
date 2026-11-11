@@ -5,7 +5,7 @@ Përcaktimin e treguesve të vlerësimit dhe të monitorimit të programeve të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-617` (tags `vendim-2006-617/<day>`; `python tools/on.py <day> vendim-2006-617`).
+Act id: `vendim-2006-617` (tags `vendim-2006-617/<day>`; `python registry/tools/on.py <day> vendim-2006-617`).
 
 ## Decisions made by hand
 

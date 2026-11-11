@@ -5,7 +5,7 @@ Përcaktimin e rregullave për kushtet e procedurat për dhënien e lejeve për 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-713` (tags `vendim-2010-713/<day>`; `python tools/on.py <day> vendim-2010-713`).
+Act id: `vendim-2010-713` (tags `vendim-2010-713/<day>`; `python registry/tools/on.py <day> vendim-2010-713`).
 
 ## Decisions made by hand
 

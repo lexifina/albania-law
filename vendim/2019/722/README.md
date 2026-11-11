@@ -27,7 +27,7 @@ Përcaktimin e masës, të kritereve, procedurave dhe dokumentacionit për vler�
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-722` (tags `vendim-2019-722/<day>`; `python tools/on.py <day> vendim-2019-722`).
+Act id: `vendim-2019-722` (tags `vendim-2019-722/<day>`; `python registry/tools/on.py <day> vendim-2019-722`).
 
 ## Decisions made by hand
 

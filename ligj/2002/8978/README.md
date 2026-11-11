@@ -5,7 +5,7 @@ Taksën vendore për biznesin e vogël · 2 versions, from 2005-11-22 (latest in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8978` (tags `ligj-2002-8978/<day>`; `python tools/on.py <day> ligj-2002-8978`).
+Act id: `ligj-2002-8978` (tags `ligj-2002-8978/<day>`; `python registry/tools/on.py <day> ligj-2002-8978`).
 
 ## Decisions made by hand
 

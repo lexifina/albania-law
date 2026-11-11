@@ -35,7 +35,7 @@ Përcaktimin e rregullave të hollësishme për transferimin e përkohshëm dhe 
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0325-1` (tags `udhezim-2024-0325-1/<day>`; `python tools/on.py <day> udhezim-2024-0325-1`).
+Act id: `udhezim-2024-0325-1` (tags `udhezim-2024-0325-1/<day>`; `python registry/tools/on.py <day> udhezim-2024-0325-1`).
 
 ## Decisions made by hand
 

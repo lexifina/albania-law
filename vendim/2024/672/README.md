@@ -9,7 +9,7 @@ Miratimin e marrëveshjes me shkëmbim letrash, ndërmjet Këshillit të Ministr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-672` (tags `vendim-2024-672/<day>`; `python tools/on.py <day> vendim-2024-672`).
+Act id: `vendim-2024-672` (tags `vendim-2024-672/<day>`; `python registry/tools/on.py <day> vendim-2024-672`).
 
 ## Decisions made by hand
 

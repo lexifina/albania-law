@@ -5,7 +5,7 @@ Rregullat e dhënies në përdorim të shpellave · 2 versions, from 2003-12-12 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-807` (tags `vendim-2003-807/<day>`; `python tools/on.py <day> vendim-2003-807`).
+Act id: `vendim-2003-807` (tags `vendim-2003-807/<day>`; `python registry/tools/on.py <day> vendim-2003-807`).
 
 ## Decisions made by hand
 

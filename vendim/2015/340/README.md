@@ -12,7 +12,7 @@ Bashkëfinancimin e projektit “Rikonstruksioni i muzeut “Marubi · 1 version
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-340` (tags `vendim-2015-340/<day>`; `python tools/on.py <day> vendim-2015-340`).
+Act id: `vendim-2015-340` (tags `vendim-2015-340/<day>`; `python registry/tools/on.py <day> vendim-2015-340`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Indeksimin e pensioneve · 1 versions, from 2015-08-03 (latest in force: 2015-08
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-651` (tags `vendim-2015-651/<day>`; `python tools/on.py <day> vendim-2015-651`).
+Act id: `vendim-2015-651` (tags `vendim-2015-651/<day>`; `python registry/tools/on.py <day> vendim-2015-651`).
 
 ## Decisions made by hand
 

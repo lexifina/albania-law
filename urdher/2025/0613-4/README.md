@@ -10,7 +10,7 @@ Shpalljen e ”Thirrjes së Dhjetë” në kuadër të Programit Kombëtar të P
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0613-4` (tags `urdher-2025-0613-4/<day>`; `python tools/on.py <day> urdher-2025-0613-4`).
+Act id: `urdher-2025-0613-4` (tags `urdher-2025-0613-4/<day>`; `python registry/tools/on.py <day> urdher-2025-0613-4`).
 
 ## Decisions made by hand
 

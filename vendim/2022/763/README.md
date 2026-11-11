@@ -5,7 +5,7 @@ Përcaktimin e masës së shtesës për natyrë të veçantë pune për drejtori
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-763` (tags `vendim-2022-763/<day>`; `python tools/on.py <day> vendim-2022-763`).
+Act id: `vendim-2022-763` (tags `vendim-2022-763/<day>`; `python registry/tools/on.py <day> vendim-2022-763`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Librezën e shëndetit · 2 versions, from 2003-03-13 (latest in force: 2014-06-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-86` (tags `vendim-2003-86/<day>`; `python tools/on.py <day> vendim-2003-86`).
+Act id: `vendim-2003-86` (tags `vendim-2003-86/<day>`; `python registry/tools/on.py <day> vendim-2003-86`).
 
 ## Decisions made by hand
 

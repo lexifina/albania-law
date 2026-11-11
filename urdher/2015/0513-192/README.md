@@ -9,7 +9,7 @@ Licencimin e Agjencisë së Administrimit Kolektiv për të drejtat e autorëve 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0513-192` (tags `urdher-2015-0513-192/<day>`; `python tools/on.py <day> urdher-2015-0513-192`).
+Act id: `urdher-2015-0513-192` (tags `urdher-2015-0513-192/<day>`; `python registry/tools/on.py <day> urdher-2015-0513-192`).
 
 ## Decisions made by hand
 

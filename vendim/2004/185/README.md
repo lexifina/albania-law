@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të ministrisë së mbrojtjes të disa ng
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-185` (tags `vendim-2004-185/<day>`; `python tools/on.py <day> vendim-2004-185`).
+Act id: `vendim-2004-185` (tags `vendim-2004-185/<day>`; `python registry/tools/on.py <day> vendim-2004-185`).
 
 ## Decisions made by hand
 

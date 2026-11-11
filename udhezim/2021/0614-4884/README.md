@@ -11,7 +11,7 @@ Përcaktimin e tarifave të shërbimeve portuale të portit të llojit MBM në P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0614-4884` (tags `udhezim-2021-0614-4884/<day>`; `python tools/on.py <day> udhezim-2021-0614-4884`).
+Act id: `udhezim-2021-0614-4884` (tags `udhezim-2021-0614-4884/<day>`; `python registry/tools/on.py <day> udhezim-2021-0614-4884`).
 
 ## Decisions made by hand
 

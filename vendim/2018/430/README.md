@@ -23,7 +23,7 @@ Krijimin e bazës së të dhënave shtetërore për sistemin elektronik të leje
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-430` (tags `vendim-2018-430/<day>`; `python tools/on.py <day> vendim-2018-430`).
+Act id: `vendim-2018-430` (tags `vendim-2018-430/<day>`; `python registry/tools/on.py <day> vendim-2018-430`).
 
 ## Decisions made by hand
 

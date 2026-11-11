@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në ”Konventën ndërkombëtare për m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8853` (tags `ligj-2002-8853/<day>`; `python tools/on.py <day> ligj-2002-8853`).
+Act id: `ligj-2002-8853` (tags `ligj-2002-8853/<day>`; `python registry/tools/on.py <day> ligj-2002-8853`).
 
 ## Decisions made by hand
 

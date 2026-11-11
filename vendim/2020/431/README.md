@@ -26,7 +26,7 @@ Platformën qendrore të faturave · 1 versions, from 2020-06-08 (latest in forc
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-431` (tags `vendim-2020-431/<day>`; `python tools/on.py <day> vendim-2020-431`).
+Act id: `vendim-2020-431` (tags `vendim-2020-431/<day>`; `python registry/tools/on.py <day> vendim-2020-431`).
 
 ## Decisions made by hand
 

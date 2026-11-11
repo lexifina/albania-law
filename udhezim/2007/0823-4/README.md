@@ -5,7 +5,7 @@ Organizimin e ankandit të shitjes së lëndës drusore në pyjet publike · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0823-4` (tags `udhezim-2007-0823-4/<day>`; `python tools/on.py <day> udhezim-2007-0823-4`).
+Act id: `udhezim-2007-0823-4` (tags `udhezim-2007-0823-4/<day>`; `python registry/tools/on.py <day> udhezim-2007-0823-4`).
 
 ## Decisions made by hand
 

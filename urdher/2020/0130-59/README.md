@@ -5,7 +5,7 @@ Miratimin e rregullores për kërkesat teknike dhe procedurat administrative pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0130-59` (tags `urdher-2020-0130-59/<day>`; `python tools/on.py <day> urdher-2020-0130-59`).
+Act id: `urdher-2020-0130-59` (tags `urdher-2020-0130-59/<day>`; `python registry/tools/on.py <day> urdher-2020-0130-59`).
 
 ## Decisions made by hand
 

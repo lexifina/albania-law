@@ -11,7 +11,7 @@ Mbylljen e aktiviteteve publike dhe jopublike dhe anullimin e grumbullimeve masi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0308-132` (tags `urdher-2020-0308-132/<day>`; `python tools/on.py <day> urdher-2020-0308-132`).
+Act id: `urdher-2020-0308-132` (tags `urdher-2020-0308-132/<day>`; `python registry/tools/on.py <day> urdher-2020-0308-132`).
 
 ## Decisions made by hand
 

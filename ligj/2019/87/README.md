@@ -67,7 +67,7 @@ Faturën dhe sistemin e monitorimit të qarkullimit · 3 versions, from 2020-02-
 | Neni 48 | [neni-048.md](neni-048.md) | 1 | 2020-08-22 |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-87` (tags `ligj-2019-87/<day>`; `python tools/on.py <day> ligj-2019-87`).
+Act id: `ligj-2019-87` (tags `ligj-2019-87/<day>`; `python registry/tools/on.py <day> ligj-2019-87`).
 
 ## Decisions made by hand
 

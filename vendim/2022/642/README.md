@@ -9,7 +9,7 @@ Emërimin në detyrë të Kryetarit të Agjencisë Kombëtare të Trajtimit të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-642` (tags `vendim-2022-642/<day>`; `python tools/on.py <day> vendim-2022-642`).
+Act id: `vendim-2022-642` (tags `vendim-2022-642/<day>`; `python registry/tools/on.py <day> vendim-2022-642`).
 
 ## Decisions made by hand
 

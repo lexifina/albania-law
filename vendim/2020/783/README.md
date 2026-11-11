@@ -10,7 +10,7 @@ Miratimin e planit të veprimit 2020-2022, në zbatim të Strategjisë Ndërsekt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-783` (tags `vendim-2020-783/<day>`; `python tools/on.py <day> vendim-2020-783`).
+Act id: `vendim-2020-783` (tags `vendim-2020-783/<day>`; `python registry/tools/on.py <day> vendim-2020-783`).
 
 ## Decisions made by hand
 

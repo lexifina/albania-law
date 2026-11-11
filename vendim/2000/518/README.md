@@ -12,7 +12,7 @@ Ngushtimin e diferencave të masës së pensioneve të parakohshme · 1 versions
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-518` (tags `vendim-2000-518/<day>`; `python tools/on.py <day> vendim-2000-518`).
+Act id: `vendim-2000-518` (tags `vendim-2000-518/<day>`; `python registry/tools/on.py <day> vendim-2000-518`).
 
 ## Decisions made by hand
 

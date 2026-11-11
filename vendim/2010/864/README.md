@@ -5,7 +5,7 @@ Pajisjen me numër telefoni celular të personave juridikë, publikë · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-864` (tags `vendim-2010-864/<day>`; `python tools/on.py <day> vendim-2010-864`).
+Act id: `vendim-2010-864` (tags `vendim-2010-864/<day>`; `python registry/tools/on.py <day> vendim-2010-864`).
 
 ## Decisions made by hand
 

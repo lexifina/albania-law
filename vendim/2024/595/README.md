@@ -20,7 +20,7 @@ Shpalljen ”Peizazh i mbrojtur ( kategoriua V) të zonës ”Krastë-Verjon” 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-595` (tags `vendim-2024-595/<day>`; `python tools/on.py <day> vendim-2024-595`).
+Act id: `vendim-2024-595` (tags `vendim-2024-595/<day>`; `python registry/tools/on.py <day> vendim-2024-595`).
 
 ## Decisions made by hand
 

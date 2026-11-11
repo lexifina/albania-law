@@ -5,7 +5,7 @@ Ngritjen dhe funksionimin e akademisë diplomatike pranë ministrisë së punëv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-198` (tags `vendim-2004-198/<day>`; `python tools/on.py <day> vendim-2004-198`).
+Act id: `vendim-2004-198` (tags `vendim-2004-198/<day>`; `python registry/tools/on.py <day> vendim-2004-198`).
 
 ## Decisions made by hand
 

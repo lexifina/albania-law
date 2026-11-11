@@ -13,7 +13,7 @@ Miratimin e Strategjisë Sektoriale tË Bujqësisë dhe Ushqimit, 2007 - 2013 ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-924` (tags `vendim-2007-924/<day>`; `python tools/on.py <day> vendim-2007-924`).
+Act id: `vendim-2007-924` (tags `vendim-2007-924/<day>`; `python registry/tools/on.py <day> vendim-2007-924`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kriteret dhe procedurat e shitjes së trojeve të ndërmarrjeve shtetërore apo 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-850` (tags `vendim-2007-850/<day>`; `python tools/on.py <day> vendim-2007-850`).
+Act id: `vendim-2007-850` (tags `vendim-2007-850/<day>`; `python registry/tools/on.py <day> vendim-2007-850`).
 
 ## Decisions made by hand
 

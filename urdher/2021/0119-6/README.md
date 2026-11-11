@@ -11,7 +11,7 @@ Hartimin dhe miratimin e kërkesave specifike për arsimimin e inspektorëve në
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0119-6` (tags `urdher-2021-0119-6/<day>`; `python tools/on.py <day> urdher-2021-0119-6`).
+Act id: `urdher-2021-0119-6` (tags `urdher-2021-0119-6/<day>`; `python registry/tools/on.py <day> urdher-2021-0119-6`).
 
 ## Decisions made by hand
 

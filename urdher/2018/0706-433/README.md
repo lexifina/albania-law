@@ -11,7 +11,7 @@ Ripërtëritjen e licencës agjencisë fmaa në administrimin kolektiv të të d
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0706-433` (tags `urdher-2018-0706-433/<day>`; `python tools/on.py <day> urdher-2018-0706-433`).
+Act id: `urdher-2018-0706-433` (tags `urdher-2018-0706-433/<day>`; `python registry/tools/on.py <day> urdher-2018-0706-433`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Trajtimin e punonjësve që dalin të papunë nga procesi i modernizimit të agj
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-465` (tags `vendim-2003-465/<day>`; `python tools/on.py <day> vendim-2003-465`).
+Act id: `vendim-2003-465` (tags `vendim-2003-465/<day>`; `python registry/tools/on.py <day> vendim-2003-465`).
 
 ## Decisions made by hand
 

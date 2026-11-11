@@ -10,7 +10,7 @@ Një shtesë fondi ministrisë së transportit dhe të telekomunikacionit për p
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-200` (tags `vendim-2004-200/<day>`; `python tools/on.py <day> vendim-2004-200`).
+Act id: `vendim-2004-200` (tags `vendim-2004-200/<day>`; `python registry/tools/on.py <day> vendim-2004-200`).
 
 ## Decisions made by hand
 

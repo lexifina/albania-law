@@ -69,7 +69,7 @@ Policinë Bashkiake · 1 versions, from 2023-01-31 (latest in force: 2023-01-31)
 | Neni 54 | [neni-054.md](neni-054.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-89` (tags `ligj-2022-89/<day>`; `python tools/on.py <day> ligj-2022-89`).
+Act id: `ligj-2022-89` (tags `ligj-2022-89/<day>`; `python registry/tools/on.py <day> ligj-2022-89`).
 
 ## Decisions made by hand
 

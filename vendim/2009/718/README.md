@@ -23,7 +23,7 @@ Pagat e punonjësve të personelit të hetimit, të inspektimit dhe të shërbim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-718` (tags `vendim-2009-718/<day>`; `python tools/on.py <day> vendim-2009-718`).
+Act id: `vendim-2009-718` (tags `vendim-2009-718/<day>`; `python registry/tools/on.py <day> vendim-2009-718`).
 
 ## Decisions made by hand
 

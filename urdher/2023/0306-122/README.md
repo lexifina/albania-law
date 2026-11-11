@@ -10,7 +10,7 @@ Miratimin e rregullores për miratimin e rregullave për praktikat e uniformës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-04-09 |
 
-Act id: `urdher-2023-0306-122` (tags `urdher-2023-0306-122/<day>`; `python tools/on.py <day> urdher-2023-0306-122`).
+Act id: `urdher-2023-0306-122` (tags `urdher-2023-0306-122/<day>`; `python registry/tools/on.py <day> urdher-2023-0306-122`).
 
 ## Decisions made by hand
 

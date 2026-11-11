@@ -8,7 +8,7 @@ Emërimin në detyrë të prefektit të Qarkut të Beratit · 1 versions, from 2
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-834` (tags `vendim-2015-834/<day>`; `python tools/on.py <day> vendim-2015-834`).
+Act id: `vendim-2015-834` (tags `vendim-2015-834/<day>`; `python registry/tools/on.py <day> vendim-2015-834`).
 
 ## Decisions made by hand
 

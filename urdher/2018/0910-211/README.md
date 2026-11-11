@@ -5,7 +5,7 @@ Miratimin e programit model të transparencës për njësitë e vetëqeverisjes 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2018-0910-211` (tags `urdher-2018-0910-211/<day>`; `python tools/on.py <day> urdher-2018-0910-211`).
+Act id: `urdher-2018-0910-211` (tags `urdher-2018-0910-211/<day>`; `python registry/tools/on.py <day> urdher-2018-0910-211`).
 
 ## Decisions made by hand
 

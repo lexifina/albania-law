@@ -18,7 +18,7 @@ Procedurat e ndjekjes së arsimit të detyruar nga nxënësit që nuk kanë ndje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0509-17` (tags `udhezim-2018-0509-17/<day>`; `python tools/on.py <day> udhezim-2018-0509-17`).
+Act id: `udhezim-2018-0509-17` (tags `udhezim-2018-0509-17/<day>`; `python registry/tools/on.py <day> udhezim-2018-0509-17`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Policinë ushtarake në forcat e armatosura të republikës së shqipërisë · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9069` (tags `ligj-2003-9069/<day>`; `python tools/on.py <day> ligj-2003-9069`).
+Act id: `ligj-2003-9069` (tags `ligj-2003-9069/<day>`; `python registry/tools/on.py <day> ligj-2003-9069`).
 
 ## Decisions made by hand
 

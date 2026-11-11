@@ -15,7 +15,7 @@ Përcaktimin e kritereve dhe të rregullave të transferimit të të drejtave mi
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-357` (tags `vendim-2022-357/<day>`; `python tools/on.py <day> vendim-2022-357`).
+Act id: `vendim-2022-357` (tags `vendim-2022-357/<day>`; `python registry/tools/on.py <day> vendim-2022-357`).
 
 ## Decisions made by hand
 

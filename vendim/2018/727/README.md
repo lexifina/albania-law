@@ -15,7 +15,7 @@ Kriteret dhe masën e përfitimit të kompensimit, në rast humbjeje të jetës 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-727` (tags `vendim-2018-727/<day>`; `python tools/on.py <day> vendim-2018-727`).
+Act id: `vendim-2018-727` (tags `vendim-2018-727/<day>`; `python registry/tools/on.py <day> vendim-2018-727`).
 
 ## Decisions made by hand
 

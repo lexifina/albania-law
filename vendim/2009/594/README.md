@@ -10,7 +10,7 @@ MIRATIMIN E STRUKTURËS DHE TË ORGANIKËS SË KËSHILLIT KOMBËTAR TË KONTABIL
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-594` (tags `vendim-2009-594/<day>`; `python tools/on.py <day> vendim-2009-594`).
+Act id: `vendim-2009-594` (tags `vendim-2009-594/<day>`; `python registry/tools/on.py <day> vendim-2009-594`).
 
 ## Decisions made by hand
 

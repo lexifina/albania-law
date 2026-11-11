@@ -5,7 +5,7 @@ Regjistrimin e përgjithshëm të popullsisë dhe të banesave · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8669` (tags `ligj-2000-8669/<day>`; `python tools/on.py <day> ligj-2000-8669`).
+Act id: `ligj-2000-8669` (tags `ligj-2000-8669/<day>`; `python registry/tools/on.py <day> ligj-2000-8669`).
 
 ## Decisions made by hand
 

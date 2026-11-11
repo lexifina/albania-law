@@ -5,7 +5,7 @@ Përditësimin e certifikatave veterinare të cilat shoqërojnë ngarkesat e ush
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0109-5` (tags `urdher-2012-0109-5/<day>`; `python tools/on.py <day> urdher-2012-0109-5`).
+Act id: `urdher-2012-0109-5` (tags `urdher-2012-0109-5/<day>`; `python registry/tools/on.py <day> urdher-2012-0109-5`).
 
 ## Decisions made by hand
 

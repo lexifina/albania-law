@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes ndërmjet Këshillit të Ministrave të Republik�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9872` (tags `ligj-2008-9872/<day>`; `python tools/on.py <day> ligj-2008-9872`).
+Act id: `ligj-2008-9872` (tags `ligj-2008-9872/<day>`; `python registry/tools/on.py <day> ligj-2008-9872`).
 
 ## Decisions made by hand
 

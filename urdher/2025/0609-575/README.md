@@ -5,7 +5,7 @@ Ndalimin e përkohshëm të lëvizjes së kafshëve të gjalla të llojit dhen d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0609-575` (tags `urdher-2025-0609-575/<day>`; `python tools/on.py <day> urdher-2025-0609-575`).
+Act id: `urdher-2025-0609-575` (tags `urdher-2025-0609-575/<day>`; `python registry/tools/on.py <day> urdher-2025-0609-575`).
 
 ## Decisions made by hand
 

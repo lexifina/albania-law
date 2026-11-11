@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 1, datë 3.4.2026, “Për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2026-47` (tags `ligj-2026-47/<day>`; `python tools/on.py <day> ligj-2026-47`).
+Act id: `ligj-2026-47` (tags `ligj-2026-47/<day>`; `python registry/tools/on.py <day> ligj-2026-47`).
 
 ## Decisions made by hand
 

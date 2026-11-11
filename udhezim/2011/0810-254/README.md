@@ -16,7 +16,7 @@ Konstituimin e këshillit të qarkut · 1 versions, from 2011-09-14 (latest in f
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0810-254` (tags `udhezim-2011-0810-254/<day>`; `python tools/on.py <day> udhezim-2011-0810-254`).
+Act id: `udhezim-2011-0810-254` (tags `udhezim-2011-0810-254/<day>`; `python registry/tools/on.py <day> udhezim-2011-0810-254`).
 
 ## Decisions made by hand
 

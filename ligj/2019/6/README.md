@@ -5,7 +5,7 @@ Ratifikimin e marrëveshjes statusore ndërmjet Republikës së Shqipërisë dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2019-6` (tags `ligj-2019-6/<day>`; `python tools/on.py <day> ligj-2019-6`).
+Act id: `ligj-2019-6` (tags `ligj-2019-6/<day>`; `python registry/tools/on.py <day> ligj-2019-6`).
 
 ## Decisions made by hand
 

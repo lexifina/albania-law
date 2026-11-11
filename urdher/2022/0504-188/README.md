@@ -20,7 +20,7 @@ Përcaktimin e rregullave të hollësishme për paraqitjen e kërkesës për reg
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0504-188` (tags `urdher-2022-0504-188/<day>`; `python tools/on.py <day> urdher-2022-0504-188`).
+Act id: `urdher-2022-0504-188` (tags `urdher-2022-0504-188/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-188`).
 
 ## Decisions made by hand
 

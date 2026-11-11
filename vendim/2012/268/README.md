@@ -5,7 +5,7 @@ Kryerjen në mënyrë elektronike të procedurave konkurruese të dhënies së k
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-268` (tags `vendim-2012-268/<day>`; `python tools/on.py <day> vendim-2012-268`).
+Act id: `vendim-2012-268` (tags `vendim-2012-268/<day>`; `python registry/tools/on.py <day> vendim-2012-268`).
 
 ## Decisions made by hand
 

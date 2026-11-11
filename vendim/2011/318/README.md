@@ -13,7 +13,7 @@ Ekzekutimin e vendimit të Gykatës Europiane për të Drejtat e Njeriut, datë 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-318` (tags `vendim-2011-318/<day>`; `python tools/on.py <day> vendim-2011-318`).
+Act id: `vendim-2011-318` (tags `vendim-2011-318/<day>`; `python registry/tools/on.py <day> vendim-2011-318`).
 
 ## Decisions made by hand
 

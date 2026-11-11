@@ -11,7 +11,7 @@ Miratimin e rregullores për përcaktimin e rregullave për mbajtjen e deklarata
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1217-1368` (tags `urdher-2025-1217-1368/<day>`; `python tools/on.py <day> urdher-2025-1217-1368`).
+Act id: `urdher-2025-1217-1368` (tags `urdher-2025-1217-1368/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-1368`).
 
 ## Decisions made by hand
 

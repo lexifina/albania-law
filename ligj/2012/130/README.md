@@ -17,7 +17,7 @@ Trajtimin dhe administrimin e mjeteve rrugore e lundruese të konfiskuara, si pa
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-130-2012` (tags `ligji-130-2012/<day>`; `python tools/on.py <day> ligji-130-2012`).
+Act id: `ligji-130-2012` (tags `ligji-130-2012/<day>`; `python registry/tools/on.py <day> ligji-130-2012`).
 
 ## Decisions made by hand
 

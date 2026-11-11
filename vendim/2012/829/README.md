@@ -8,7 +8,7 @@ Miratimin e marrëveshjes së grantit nr.tf012599 të fondit global të mjedisit
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-829` (tags `vendim-2012-829/<day>`; `python tools/on.py <day> vendim-2012-829`).
+Act id: `vendim-2012-829` (tags `vendim-2012-829/<day>`; `python registry/tools/on.py <day> vendim-2012-829`).
 
 ## Decisions made by hand
 

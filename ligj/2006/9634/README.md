@@ -56,7 +56,7 @@ Inspektimin e punës dhe Inspektoratin Shtetëror të Punës · 2 versions, from
 | Neni 41 | [neni-041.md](neni-041.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9634` (tags `ligj-2006-9634/<day>`; `python tools/on.py <day> ligj-2006-9634`).
+Act id: `ligj-2006-9634` (tags `ligj-2006-9634/<day>`; `python registry/tools/on.py <day> ligj-2006-9634`).
 
 ## Decisions made by hand
 

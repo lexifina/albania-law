@@ -5,7 +5,7 @@ Shpalljen e zonës arkeologjike “A” të Gradishtës së Selcës, rrethi I Po
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-788` (tags `vendim-2010-788/<day>`; `python tools/on.py <day> vendim-2010-788`).
+Act id: `vendim-2010-788` (tags `vendim-2010-788/<day>`; `python registry/tools/on.py <day> vendim-2010-788`).
 
 ## Decisions made by hand
 

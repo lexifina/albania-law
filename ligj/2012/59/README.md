@@ -9,7 +9,7 @@ Ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipëri
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-59` (tags `ligj-2012-59/<day>`; `python tools/on.py <day> ligj-2012-59`).
+Act id: `ligj-2012-59` (tags `ligj-2012-59/<day>`; `python registry/tools/on.py <day> ligj-2012-59`).
 
 ## Decisions made by hand
 

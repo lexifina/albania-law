@@ -9,7 +9,7 @@ Pjesëmarrjen me kontratë menaxhimi të sektorit privat në shoqërinë anonime
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-491` (tags `vendim-2001-491/<day>`; `python tools/on.py <day> vendim-2001-491`).
+Act id: `vendim-2001-491` (tags `vendim-2001-491/<day>`; `python registry/tools/on.py <day> vendim-2001-491`).
 
 ## Decisions made by hand
 

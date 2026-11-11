@@ -8,7 +8,7 @@ Përcaktimin e nivelit të masave shtesë të sigurisë dhe llojin e masave që 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2018-1106-633` (tags `udhezim-2018-1106-633/<day>`; `python tools/on.py <day> udhezim-2018-1106-633`).
+Act id: `udhezim-2018-1106-633` (tags `udhezim-2018-1106-633/<day>`; `python registry/tools/on.py <day> udhezim-2018-1106-633`).
 
 ## Decisions made by hand
 

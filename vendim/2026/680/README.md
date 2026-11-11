@@ -11,7 +11,7 @@ Miratimin e vënies në dispozicion të pasurive të paluajtshme shtetërore nr.
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-680` (tags `vendim-2026-680/<day>`; `python tools/on.py <day> vendim-2026-680`).
+Act id: `vendim-2026-680` (tags `vendim-2026-680/<day>`; `python registry/tools/on.py <day> vendim-2026-680`).
 
 ## Decisions made by hand
 

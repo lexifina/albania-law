@@ -13,7 +13,7 @@ Miratimin e planit të veprimeve për parandalimin dhe luftën kundër korrupsio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-580` (tags `vendim-2003-580/<day>`; `python tools/on.py <day> vendim-2003-580`).
+Act id: `vendim-2003-580` (tags `vendim-2003-580/<day>`; `python registry/tools/on.py <day> vendim-2003-580`).
 
 ## Decisions made by hand
 

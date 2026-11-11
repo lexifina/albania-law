@@ -5,7 +5,7 @@ Krijimin e komiteteve të menaxhimit të zonave të mbrojtura · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-86` (tags `vendim-2005-86/<day>`; `python tools/on.py <day> vendim-2005-86`).
+Act id: `vendim-2005-86` (tags `vendim-2005-86/<day>`; `python registry/tools/on.py <day> vendim-2005-86`).
 
 ## Decisions made by hand
 

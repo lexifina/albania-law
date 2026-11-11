@@ -30,7 +30,7 @@ Përfinancimin e shërbimeve shëndetësore publike të kujdesit shëndetësor p
 | Pika 23 | [pika-023.md](pika-023.md) | 1 | 2026-10-21 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-737` (tags `vendim-2014-737/<day>`; `python tools/on.py <day> vendim-2014-737`).
+Act id: `vendim-2014-737` (tags `vendim-2014-737/<day>`; `python registry/tools/on.py <day> vendim-2014-737`).
 
 ## Decisions made by hand
 

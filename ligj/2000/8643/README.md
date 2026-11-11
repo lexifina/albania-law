@@ -5,7 +5,7 @@ Gradat në policinë e shtetit · 2 versions, from 2000-08-19 (latest in force: 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8643` (tags `ligj-2000-8643/<day>`; `python tools/on.py <day> ligj-2000-8643`).
+Act id: `ligj-2000-8643` (tags `ligj-2000-8643/<day>`; `python registry/tools/on.py <day> ligj-2000-8643`).
 
 ## Decisions made by hand
 

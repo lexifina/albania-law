@@ -15,7 +15,7 @@ Riorganizimin e ndërmarrjeve të trajtimit të studentëve · 1 versions, from 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-525` (tags `vendim-2003-525/<day>`; `python tools/on.py <day> vendim-2003-525`).
+Act id: `vendim-2003-525` (tags `vendim-2003-525/<day>`; `python registry/tools/on.py <day> vendim-2003-525`).
 
 ## Decisions made by hand
 

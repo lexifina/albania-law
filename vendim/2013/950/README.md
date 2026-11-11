@@ -12,7 +12,7 @@ Disa ndryshime në vendimin nr. 62, datë 1.2.2012 të Këshillit të Ministrave
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-950` (tags `vendim-2013-950/<day>`; `python tools/on.py <day> vendim-2013-950`).
+Act id: `vendim-2013-950` (tags `vendim-2013-950/<day>`; `python registry/tools/on.py <day> vendim-2013-950`).
 
 ## Decisions made by hand
 

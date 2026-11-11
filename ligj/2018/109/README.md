@@ -41,7 +41,7 @@ Statusin e dëshmorit të atdheut · 1 versions, from 2018-12-20 (latest in forc
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-109-2018` (tags `ligji-109-2018/<day>`; `python tools/on.py <day> ligji-109-2018`).
+Act id: `ligji-109-2018` (tags `ligji-109-2018/<day>`; `python registry/tools/on.py <day> ligji-109-2018`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,16 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/ko
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-642` (tags `vendim-2019-642/<day>`; `python tools/on.py <day> vendim-2019-642`).
+Act id: `vendim-2019-642` (tags `vendim-2019-642/<day>`; `python registry/tools/on.py <day> vendim-2019-642`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 157, datë 19.2.2020: Për dhënien e miratimit për një shtesë në kontratën e qirasë me tarifën 1 euro/kontrata, miratuar me vendimin nr. 642, datë 2.10.2019, të Këshillit të Ministrave](https://qbz.gov.al/eli/vendim/2020/02/19/157)
+- [Vendimi i Këshillit të Ministrave nr. 589, datë 22.7.2020: Për dhënien e miratimit për një ndryshim në kontratën e qirasë me tarifën 1 EURO/Kontrata, të miratuar me vendimin nr. 642, datë 2.10.2019, të Këshillit të Ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2020/07/22/589)
 
 ## Decisions made by hand
 

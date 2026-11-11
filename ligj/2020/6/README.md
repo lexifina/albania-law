@@ -10,7 +10,7 @@ Pranimin e instrumentit të amendamentit të Kushtetutës së Organizatës Ndër
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-6` (tags `ligj-2020-6/<day>`; `python tools/on.py <day> ligj-2020-6`).
+Act id: `ligj-2020-6` (tags `ligj-2020-6/<day>`; `python registry/tools/on.py <day> ligj-2020-6`).
 
 ## Decisions made by hand
 

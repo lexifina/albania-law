@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në memorandumin e mirëkuptimit për or
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10330-2010` (tags `ligji-10330-2010/<day>`; `python tools/on.py <day> ligji-10330-2010`).
+Act id: `ligji-10330-2010` (tags `ligji-10330-2010/<day>`; `python registry/tools/on.py <day> ligji-10330-2010`).
 
 ## Decisions made by hand
 

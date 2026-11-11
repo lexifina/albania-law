@@ -5,7 +5,7 @@ Ngritjen, përbërjen dhe detyrat e zyrave të regjistrimit të popullsisë dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-734` (tags `vendim-2000-734/<day>`; `python tools/on.py <day> vendim-2000-734`).
+Act id: `vendim-2000-734` (tags `vendim-2000-734/<day>`; `python registry/tools/on.py <day> vendim-2000-734`).
 
 ## Decisions made by hand
 

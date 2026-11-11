@@ -11,7 +11,7 @@ Aderimin e Republikës së Shqipërisë në vendimet II/14 dhe III/7, amendament
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9478` (tags `ligj-2006-9478/<day>`; `python tools/on.py <day> ligj-2006-9478`).
+Act id: `ligj-2006-9478` (tags `ligj-2006-9478/<day>`; `python registry/tools/on.py <day> ligj-2006-9478`).
 
 ## Decisions made by hand
 

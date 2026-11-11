@@ -12,7 +12,7 @@ Vetëkarantinimin e personave që hyjnë në territorin e Shqipërisë nga zona 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0308-134` (tags `urdher-2020-0308-134/<day>`; `python tools/on.py <day> urdher-2020-0308-134`).
+Act id: `urdher-2020-0308-134` (tags `urdher-2020-0308-134/<day>`; `python registry/tools/on.py <day> urdher-2020-0308-134`).
 
 ## Decisions made by hand
 

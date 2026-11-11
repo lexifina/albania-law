@@ -14,7 +14,7 @@ Faljen e detyrimeve të sigurimeve shoqërore, që ish-punonjësit e nëntokës 
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-167` (tags `ligj-2020-167/<day>`; `python tools/on.py <day> ligj-2020-167`).
+Act id: `ligj-2020-167` (tags `ligj-2020-167/<day>`; `python registry/tools/on.py <day> ligj-2020-167`).
 
 ## Decisions made by hand
 

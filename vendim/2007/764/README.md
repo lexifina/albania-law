@@ -10,7 +10,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2008, të entit rregullator të s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-764` (tags `vendim-2007-764/<day>`; `python tools/on.py <day> vendim-2007-764`).
+Act id: `vendim-2007-764` (tags `vendim-2007-764/<day>`; `python registry/tools/on.py <day> vendim-2007-764`).
 
 ## Decisions made by hand
 

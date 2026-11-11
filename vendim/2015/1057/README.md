@@ -5,7 +5,7 @@ Miratimin e rregullit teknik “Për ashensorët” dhe pёrcaktimin e listёs s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1057` (tags `vendim-2015-1057/<day>`; `python tools/on.py <day> vendim-2015-1057`).
+Act id: `vendim-2015-1057` (tags `vendim-2015-1057/<day>`; `python registry/tools/on.py <day> vendim-2015-1057`).
 
 ## Decisions made by hand
 

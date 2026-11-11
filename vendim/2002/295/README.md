@@ -13,7 +13,7 @@ Shpronësimin për interes publik të pasurive të paluajtshme, të cilat preken
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-295` (tags `vendim-2002-295/<day>`; `python tools/on.py <day> vendim-2002-295`).
+Act id: `vendim-2002-295` (tags `vendim-2002-295/<day>`; `python registry/tools/on.py <day> vendim-2002-295`).
 
 ## Decisions made by hand
 

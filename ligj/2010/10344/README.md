@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes ndërmjet këshillit të ministrave të republik�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10344-2010` (tags `ligji-10344-2010/<day>`; `python tools/on.py <day> ligji-10344-2010`).
+Act id: `ligji-10344-2010` (tags `ligji-10344-2010/<day>`; `python registry/tools/on.py <day> ligji-10344-2010`).
 
 ## Decisions made by hand
 

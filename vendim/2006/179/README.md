@@ -16,7 +16,7 @@ Krijimin e njësive të integrimit europian në ministritë e linjës · 2 versi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2009-01-29 |
 
-Act id: `vendim-2006-179` (tags `vendim-2006-179/<day>`; `python tools/on.py <day> vendim-2006-179`).
+Act id: `vendim-2006-179` (tags `vendim-2006-179/<day>`; `python registry/tools/on.py <day> vendim-2006-179`).
 
 ## Decisions made by hand
 

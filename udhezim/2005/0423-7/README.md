@@ -10,7 +10,7 @@ Procedurat dhe afatin e heqjes së zgjedhësve, që shërbejnë në forcat e arm
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 
-Act id: `udhezim-2005-0423-7` (tags `udhezim-2005-0423-7/<day>`; `python tools/on.py <day> udhezim-2005-0423-7`).
+Act id: `udhezim-2005-0423-7` (tags `udhezim-2005-0423-7/<day>`; `python registry/tools/on.py <day> udhezim-2005-0423-7`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e planit të veprimit për fushën e organizmave të modifikuar gjenet
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-200` (tags `vendim-2011-200/<day>`; `python tools/on.py <day> vendim-2011-200`).
+Act id: `vendim-2011-200` (tags `vendim-2011-200/<day>`; `python registry/tools/on.py <day> vendim-2011-200`).
 
 ## Decisions made by hand
 

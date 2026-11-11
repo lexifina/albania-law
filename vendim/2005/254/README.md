@@ -5,7 +5,7 @@ Njohjen ushtarakëve të forcave të armatosura si periudhë sigurimi të periud
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-254` (tags `vendim-2005-254/<day>`; `python tools/on.py <day> vendim-2005-254`).
+Act id: `vendim-2005-254` (tags `vendim-2005-254/<day>`; `python registry/tools/on.py <day> vendim-2005-254`).
 
 ## Decisions made by hand
 

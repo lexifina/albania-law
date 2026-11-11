@@ -5,7 +5,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Turizm
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0131-21` (tags `urdher-2019-0131-21/<day>`; `python tools/on.py <day> urdher-2019-0131-21`).
+Act id: `urdher-2019-0131-21` (tags `urdher-2019-0131-21/<day>`; `python registry/tools/on.py <day> urdher-2019-0131-21`).
 
 ## Decisions made by hand
 

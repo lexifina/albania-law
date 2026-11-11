@@ -5,7 +5,7 @@ Krijimin e regjistrit qendror të bazës së të dhënave për llogaritjen e tak
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-273` (tags `vendim-2018-273/<day>`; `python tools/on.py <day> vendim-2018-273`).
+Act id: `vendim-2018-273` (tags `vendim-2018-273/<day>`; `python registry/tools/on.py <day> vendim-2018-273`).
 
 ## Decisions made by hand
 

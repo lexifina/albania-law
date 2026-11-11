@@ -14,7 +14,7 @@ Per caktimin e fushes se veprimtarise dhe detyrave te zevendesministrit ne Minis
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0401-189` (tags `urdher-2019-0401-189/<day>`; `python tools/on.py <day> urdher-2019-0401-189`).
+Act id: `urdher-2019-0401-189` (tags `urdher-2019-0401-189/<day>`; `python registry/tools/on.py <day> urdher-2019-0401-189`).
 
 ## Decisions made by hand
 

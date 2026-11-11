@@ -41,7 +41,7 @@ Mbi zbatimin e vkm nr. 904, datë 12.12.2012, “për përcaktimin e kritereve, 
 | Pika 34 | [pika-034.md](pika-034.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0623-9` (tags `udhezim-2014-0623-9/<day>`; `python tools/on.py <day> udhezim-2014-0623-9`).
+Act id: `udhezim-2014-0623-9` (tags `udhezim-2014-0623-9/<day>`; `python registry/tools/on.py <day> udhezim-2014-0623-9`).
 
 ## Decisions made by hand
 

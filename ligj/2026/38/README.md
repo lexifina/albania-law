@@ -11,7 +11,7 @@ Ratifikimin e protokollit shtesë 7 për zgjidhjen e mosmarrëveshjeve të marr�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-38-2026` (tags `ligji-38-2026/<day>`; `python tools/on.py <day> ligji-38-2026`).
+Act id: `ligji-38-2026` (tags `ligji-38-2026/<day>`; `python registry/tools/on.py <day> ligji-38-2026`).
 
 ## Decisions made by hand
 

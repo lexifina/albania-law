@@ -10,7 +10,7 @@ Miratimin e rregullores mbi shërbimet meteorologjike në navigimin ajror · 1 v
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0801-82` (tags `urdher-2012-0801-82/<day>`; `python tools/on.py <day> urdher-2012-0801-82`).
+Act id: `urdher-2012-0801-82` (tags `urdher-2012-0801-82/<day>`; `python registry/tools/on.py <day> urdher-2012-0801-82`).
 
 ## Decisions made by hand
 

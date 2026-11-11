@@ -20,7 +20,7 @@ Miratimin e ndryshimit të statusit dhe të sipërfaqes së ekosistemeve natyror
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-59` (tags `vendim-2022-59/<day>`; `python tools/on.py <day> vendim-2022-59`).
+Act id: `vendim-2022-59` (tags `vendim-2022-59/<day>`; `python registry/tools/on.py <day> vendim-2022-59`).
 
 ## Decisions made by hand
 

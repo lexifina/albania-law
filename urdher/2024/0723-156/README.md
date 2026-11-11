@@ -10,7 +10,7 @@ Miratimin e rregullores mbi skemën e klasifikimit të riskut · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0723-156` (tags `urdher-2024-0723-156/<day>`; `python tools/on.py <day> urdher-2024-0723-156`).
+Act id: `urdher-2024-0723-156` (tags `urdher-2024-0723-156/<day>`; `python registry/tools/on.py <day> urdher-2024-0723-156`).
 
 ## Decisions made by hand
 

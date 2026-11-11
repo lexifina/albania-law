@@ -5,7 +5,7 @@ Mënyrën e përllogaritjes së tarifave të shërbimeve specifike, që u ofrohe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0614-407` (tags `udhezim-2019-0614-407/<day>`; `python tools/on.py <day> udhezim-2019-0614-407`).
+Act id: `udhezim-2019-0614-407` (tags `udhezim-2019-0614-407/<day>`; `python registry/tools/on.py <day> udhezim-2019-0614-407`).
 
 ## Decisions made by hand
 

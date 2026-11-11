@@ -13,7 +13,7 @@ Deklarimin pasuri kulturore e paluajtshme ”Qendër historike” të një zone 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-120` (tags `vendim-2025-120/<day>`; `python tools/on.py <day> vendim-2025-120`).
+Act id: `vendim-2025-120` (tags `vendim-2025-120/<day>`; `python registry/tools/on.py <day> vendim-2025-120`).
 
 ## Decisions made by hand
 

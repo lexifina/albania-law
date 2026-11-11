@@ -11,7 +11,7 @@ Mbështetjen e prodhimit bujqësor · 1 versions, from 2008-01-16 (latest in for
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-10` (tags `vendim-2008-10/<day>`; `python tools/on.py <day> vendim-2008-10`).
+Act id: `vendim-2008-10` (tags `vendim-2008-10/<day>`; `python registry/tools/on.py <day> vendim-2008-10`).
 
 ## Decisions made by hand
 

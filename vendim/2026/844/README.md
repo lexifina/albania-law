@@ -18,7 +18,7 @@ Miratimin e masës së mbështetjes financiare për kujdesin alternativ në fami
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-844` (tags `vendim-2026-844/<day>`; `python tools/on.py <day> vendim-2026-844`).
+Act id: `vendim-2026-844` (tags `vendim-2026-844/<day>`; `python registry/tools/on.py <day> vendim-2026-844`).
 
 ## Decisions made by hand
 

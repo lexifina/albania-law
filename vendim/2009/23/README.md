@@ -19,7 +19,7 @@ Hapjen e programeve të studimit, master i nivelit të parë, dhe miratimin e ku
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-23` (tags `vendim-2009-23/<day>`; `python tools/on.py <day> vendim-2009-23`).
+Act id: `vendim-2009-23` (tags `vendim-2009-23/<day>`; `python registry/tools/on.py <day> vendim-2009-23`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Rishpërndarje të numrit të punonjësve organikë, për vitin 2021, ndërmjet 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-655` (tags `vendim-2021-655/<day>`; `python tools/on.py <day> vendim-2021-655`).
+Act id: `vendim-2021-655` (tags `vendim-2021-655/<day>`; `python registry/tools/on.py <day> vendim-2021-655`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së barnave, që rimbursohen nga Instituti i Sigurimeve të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-138` (tags `vendim-2010-138/<day>`; `python tools/on.py <day> vendim-2010-138`).
+Act id: `vendim-2010-138` (tags `vendim-2010-138/<day>`; `python registry/tools/on.py <day> vendim-2010-138`).
 
 ## Decisions made by hand
 

@@ -45,7 +45,7 @@ Sinjalizimin dhe mbrojtjen e sinjalizuesve · 1 versions, from 2026-02-05 (lates
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-96-2025` (tags `ligji-96-2025/<day>`; `python tools/on.py <day> ligji-96-2025`).
+Act id: `ligji-96-2025` (tags `ligji-96-2025/<day>`; `python registry/tools/on.py <day> ligji-96-2025`).
 
 ## Decisions made by hand
 

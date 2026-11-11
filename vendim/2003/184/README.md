@@ -5,7 +5,7 @@ Rregullat dhe veprimet e zyrave të gjendjes civile dhe për detyrimin e shtetas
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-184` (tags `vendim-2003-184/<day>`; `python tools/on.py <day> vendim-2003-184`).
+Act id: `vendim-2003-184` (tags `vendim-2003-184/<day>`; `python registry/tools/on.py <day> vendim-2003-184`).
 
 ## Decisions made by hand
 

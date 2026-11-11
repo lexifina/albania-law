@@ -5,7 +5,7 @@ Dhënie fondi komunës tërthorë, për realizimin e procedurave për zhvendosje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-808` (tags `vendim-2007-808/<day>`; `python tools/on.py <day> vendim-2007-808`).
+Act id: `vendim-2007-808` (tags `vendim-2007-808/<day>`; `python registry/tools/on.py <day> vendim-2007-808`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Shpërblimin e inspektorit financiar publik · 2 versions, from 2011-08-17 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-492` (tags `vendim-2011-492/<day>`; `python tools/on.py <day> vendim-2011-492`).
+Act id: `vendim-2011-492` (tags `vendim-2011-492/<day>`; `python registry/tools/on.py <day> vendim-2011-492`).
 
 ## Decisions made by hand
 

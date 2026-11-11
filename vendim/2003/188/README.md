@@ -10,7 +10,7 @@ MIratimin e fondit të shpenzimeve të entit rrEgullator të telekomunikacioneve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-188` (tags `vendim-2003-188/<day>`; `python tools/on.py <day> vendim-2003-188`).
+Act id: `vendim-2003-188` (tags `vendim-2003-188/<day>`; `python registry/tools/on.py <day> vendim-2003-188`).
 
 ## Decisions made by hand
 

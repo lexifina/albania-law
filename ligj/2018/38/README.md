@@ -10,7 +10,7 @@ Ratifikimin e korrigjimit të marrëveshjes së huas ndërmjet republikës së s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-38` (tags `ligj-2018-38/<day>`; `python tools/on.py <day> ligj-2018-38`).
+Act id: `ligj-2018-38` (tags `ligj-2018-38/<day>`; `python registry/tools/on.py <day> ligj-2018-38`).
 
 ## Decisions made by hand
 

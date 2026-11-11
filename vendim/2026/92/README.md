@@ -10,7 +10,7 @@ Indeksimin e pagës së Presidentit të Republikës së Shqipërisë · 1 versio
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-92` (tags `vendim-2026-92/<day>`; `python tools/on.py <day> vendim-2026-92`).
+Act id: `vendim-2026-92` (tags `vendim-2026-92/<day>`; `python registry/tools/on.py <day> vendim-2026-92`).
 
 ## Decisions made by hand
 

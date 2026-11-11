@@ -22,7 +22,7 @@ Përdorimin e armëve të zjarrit · 1 versions, from 2014-08-23 (latest in forc
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-72` (tags `ligj-2014-72/<day>`; `python tools/on.py <day> ligj-2014-72`).
+Act id: `ligj-2014-72` (tags `ligj-2014-72/<day>`; `python registry/tools/on.py <day> ligj-2014-72`).
 
 ## Decisions made by hand
 

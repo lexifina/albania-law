@@ -19,7 +19,7 @@ Mbi raportimin financiar të shoqërive të ujësjellësve në republikën e shq
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0327-94` (tags `urdher-2018-0327-94/<day>`; `python tools/on.py <day> urdher-2018-0327-94`).
+Act id: `urdher-2018-0327-94` (tags `urdher-2018-0327-94/<day>`; `python registry/tools/on.py <day> urdher-2018-0327-94`).
 
 ## Decisions made by hand
 

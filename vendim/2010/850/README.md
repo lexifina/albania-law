@@ -5,7 +5,7 @@ PëR PëRCAKTIMIN E KOEFICIENTËVE Të INDEKSIMIT Të BAZëS Së VLERëSIMIT VJE
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-850` (tags `vendim-2010-850/<day>`; `python tools/on.py <day> vendim-2010-850`).
+Act id: `vendim-2010-850` (tags `vendim-2010-850/<day>`; `python registry/tools/on.py <day> vendim-2010-850`).
 
 ## Decisions made by hand
 

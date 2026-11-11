@@ -5,7 +5,7 @@ Kriteret dhe masën e kompensimit të dëmeve shkaktuar pronës së punonjësit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-163` (tags `vendim-2004-163/<day>`; `python tools/on.py <day> vendim-2004-163`).
+Act id: `vendim-2004-163` (tags `vendim-2004-163/<day>`; `python registry/tools/on.py <day> vendim-2004-163`).
 
 ## Decisions made by hand
 

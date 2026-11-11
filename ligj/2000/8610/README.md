@@ -5,7 +5,7 @@ Parandalimin e pastrimit të parave · 2 versions, from 2000-12-06 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8610` (tags `ligj-2000-8610/<day>`; `python tools/on.py <day> ligj-2000-8610`).
+Act id: `ligj-2000-8610` (tags `ligj-2000-8610/<day>`; `python registry/tools/on.py <day> ligj-2000-8610`).
 
 ## Decisions made by hand
 

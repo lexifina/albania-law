@@ -8,7 +8,7 @@ Caktimin e datës së konkurrimit, rregullave të funksionimit të komisionit t�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2005-0527-2945` (tags `udhezim-2005-0527-2945/<day>`; `python tools/on.py <day> udhezim-2005-0527-2945`).
+Act id: `udhezim-2005-0527-2945` (tags `udhezim-2005-0527-2945/<day>`; `python registry/tools/on.py <day> udhezim-2005-0527-2945`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Heqjen nga fondi pyjor dhe kullosor publik dhe pakësimin në volum të sipërfa
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-113` (tags `vendim-2017-113/<day>`; `python tools/on.py <day> vendim-2017-113`).
+Act id: `vendim-2017-113` (tags `vendim-2017-113/<day>`; `python registry/tools/on.py <day> vendim-2017-113`).
 
 ## Decisions made by hand
 

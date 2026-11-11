@@ -5,7 +5,7 @@ Përbërjen e këshillit kombëtar të ujit · 3 versions, from 2017-10-24 (late
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-590` (tags `vendim-2017-590/<day>`; `python tools/on.py <day> vendim-2017-590`).
+Act id: `vendim-2017-590` (tags `vendim-2017-590/<day>`; `python registry/tools/on.py <day> vendim-2017-590`).
 
 ## Decisions made by hand
 

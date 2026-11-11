@@ -28,7 +28,7 @@ Kuotat e pranimit në institucionet publike të arsimit të lartë, cikli i par�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2010-11-24 |
 
-Act id: `vendim-2010-586` (tags `vendim-2010-586/<day>`; `python tools/on.py <day> vendim-2010-586`).
+Act id: `vendim-2010-586` (tags `vendim-2010-586/<day>`; `python registry/tools/on.py <day> vendim-2010-586`).
 
 ## Decisions made by hand
 

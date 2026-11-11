@@ -9,7 +9,7 @@ Miratimin e memorandumit të mirëkuptimit, ndërmjet këshillit të ministrave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-623` (tags `vendim-2017-623/<day>`; `python tools/on.py <day> vendim-2017-623`).
+Act id: `vendim-2017-623` (tags `vendim-2017-623/<day>`; `python registry/tools/on.py <day> vendim-2017-623`).
 
 ## Decisions made by hand
 

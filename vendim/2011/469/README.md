@@ -5,7 +5,7 @@ Procedurën për dhënien e licencave të importit, eksportit dhe prodhimit të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-469` (tags `vendim-2011-469/<day>`; `python tools/on.py <day> vendim-2011-469`).
+Act id: `vendim-2011-469` (tags `vendim-2011-469/<day>`; `python registry/tools/on.py <day> vendim-2011-469`).
 
 ## Decisions made by hand
 

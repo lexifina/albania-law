@@ -11,7 +11,7 @@ Dhënien e pensionit të posaçëm familjarëve në ngarkim të të ndjerëve Zi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-112` (tags `vendim-2015-112/<day>`; `python tools/on.py <day> vendim-2015-112`).
+Act id: `vendim-2015-112` (tags `vendim-2015-112/<day>`; `python registry/tools/on.py <day> vendim-2015-112`).
 
 ## Decisions made by hand
 

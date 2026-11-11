@@ -9,7 +9,7 @@ Mbështetjen e shërbimit të kontrollit të plehrave kimike nga organet e ruajt
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-233` (tags `vendim-2000-233/<day>`; `python tools/on.py <day> vendim-2000-233`).
+Act id: `vendim-2000-233` (tags `vendim-2000-233/<day>`; `python registry/tools/on.py <day> vendim-2000-233`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,15 @@ Miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare të inter
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-31` (tags `vendim-2010-31/<day>`; `python tools/on.py <day> vendim-2010-31`).
+Act id: `vendim-2010-31` (tags `vendim-2010-31/<day>`; `python registry/tools/on.py <day> vendim-2010-31`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 542, datë 27.7.2011: Për disa ndryshime në vendimin nr.31, datë 20.1.2010 të këshillit të Ministrave “Për miratimin e lejes për ndërtimin dhe shfrytëzimin e linjËs tregtare, të interkonjeksionit me rrymë të vazhduar, ndërmjet kallmet/lezhë (Shqipëri) dhe zapponeta/manfredonia (Itali)”](https://qbz.gov.al/eli/vendim/2011/07/27/542)
 
 ## Decisions made by hand
 

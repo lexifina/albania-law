@@ -17,7 +17,7 @@ Përcaktimin e rregullave dhe të kritereve për administrimin e fondit të veç
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-296` (tags `vendim-2025-296/<day>`; `python tools/on.py <day> vendim-2025-296`).
+Act id: `vendim-2025-296` (tags `vendim-2025-296/<day>`; `python registry/tools/on.py <day> vendim-2025-296`).
 
 ## Decisions made by hand
 

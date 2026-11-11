@@ -10,7 +10,7 @@ Miratimin e rregullores ”Mbi specifikimet për regjistrin e mjeteve hekurudhor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1010-153` (tags `urdher-2025-1010-153/<day>`; `python tools/on.py <day> urdher-2025-1010-153`).
+Act id: `urdher-2025-1010-153` (tags `urdher-2025-1010-153/<day>`; `python registry/tools/on.py <day> urdher-2025-1010-153`).
 
 ## Decisions made by hand
 

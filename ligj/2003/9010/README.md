@@ -54,7 +54,7 @@ Administrimin mjedisor të mbetjeve të ngurta · 2 versions, from 2003-04-05 (l
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9010` (tags `ligj-2003-9010/<day>`; `python tools/on.py <day> ligj-2003-9010`).
+Act id: `ligj-2003-9010` (tags `ligj-2003-9010/<day>`; `python registry/tools/on.py <day> ligj-2003-9010`).
 
 ## Decisions made by hand
 

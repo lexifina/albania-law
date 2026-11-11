@@ -11,7 +11,7 @@ Miratimin e Kodit të Etikës Profesionale të Ndërmjetësit të Pasurive të P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0504-185` (tags `urdher-2022-0504-185/<day>`; `python tools/on.py <day> urdher-2022-0504-185`).
+Act id: `urdher-2022-0504-185` (tags `urdher-2022-0504-185/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-185`).
 
 ## Decisions made by hand
 

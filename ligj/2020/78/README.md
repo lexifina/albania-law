@@ -49,7 +49,7 @@ Organizimin dhe funksionimin e Shërbimit të Provës · 2 versions, from 2020-0
 | Neni 37 | [neni-037.md](neni-037.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-78` (tags `ligj-2020-78/<day>`; `python tools/on.py <day> ligj-2020-78`).
+Act id: `ligj-2020-78` (tags `ligj-2020-78/<day>`; `python registry/tools/on.py <day> ligj-2020-78`).
 
 ## Decisions made by hand
 

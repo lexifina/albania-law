@@ -5,7 +5,7 @@ Legalizimin e shtesave në ndërtime · 2 versions, from 2004-05-25 (latest in f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9209` (tags `ligj-2004-9209/<day>`; `python tools/on.py <day> ligj-2004-9209`).
+Act id: `ligj-2004-9209` (tags `ligj-2004-9209/<day>`; `python registry/tools/on.py <day> ligj-2004-9209`).
 
 ## Decisions made by hand
 

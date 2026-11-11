@@ -31,7 +31,7 @@ Menaxhimin e mbetjeve të automjeteve në fund të jetës · 1 versions, from
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-705` (tags `vendim-2012-705/<day>`; `python tools/on.py <day> vendim-2012-705`).
+Act id: `vendim-2012-705` (tags `vendim-2012-705/<day>`; `python registry/tools/on.py <day> vendim-2012-705`).
 
 ## Decisions made by hand
 

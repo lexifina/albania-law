@@ -9,7 +9,7 @@ Fillimin e funksionimit të gjykatave administrative · 1 versions, from 2013-10
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2013-8349` (tags `dekret-2013-8349/<day>`; `python tools/on.py <day> dekret-2013-8349`).
+Act id: `dekret-2013-8349` (tags `dekret-2013-8349/<day>`; `python registry/tools/on.py <day> dekret-2013-8349`).
 
 ## Decisions made by hand
 

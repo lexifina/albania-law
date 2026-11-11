@@ -9,7 +9,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.6, datë 16.7.2008, të kës
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9968` (tags `ligj-2008-9968/<day>`; `python tools/on.py <day> ligj-2008-9968`).
+Act id: `ligj-2008-9968` (tags `ligj-2008-9968/<day>`; `python registry/tools/on.py <day> ligj-2008-9968`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Shpenzimet që kryhen nga komuna/bashkia për përgatitjen e dokumentacionit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0729-8` (tags `udhezim-2013-0729-8/<day>`; `python tools/on.py <day> udhezim-2013-0729-8`).
+Act id: `udhezim-2013-0729-8` (tags `udhezim-2013-0729-8/<day>`; `python registry/tools/on.py <day> udhezim-2013-0729-8`).
 
 ## Decisions made by hand
 

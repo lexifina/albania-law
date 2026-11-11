@@ -8,7 +8,7 @@ Shkarkimin nga detyra të kryetarit të bashkisë kavajë, z. elvis roshi · 1 v
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-952` (tags `vendim-2016-952/<day>`; `python tools/on.py <day> vendim-2016-952`).
+Act id: `vendim-2016-952` (tags `vendim-2016-952/<day>`; `python registry/tools/on.py <day> vendim-2016-952`).
 
 ## Decisions made by hand
 

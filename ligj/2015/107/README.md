@@ -5,7 +5,7 @@ Identifikimin elektronik dhe shërbimet e besuara · 2 versions, from 2017-01-21
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2015-107` (tags `ligj-2015-107/<day>`; `python tools/on.py <day> ligj-2015-107`).
+Act id: `ligj-2015-107` (tags `ligj-2015-107/<day>`; `python registry/tools/on.py <day> ligj-2015-107`).
 
 ## Decisions made by hand
 

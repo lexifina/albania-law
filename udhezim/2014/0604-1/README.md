@@ -23,7 +23,7 @@ Mënyrën e ekzekutimit të detyrimeve monetare të njësive të qeverisjes së 
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0604-1` (tags `udhezim-2014-0604-1/<day>`; `python tools/on.py <day> udhezim-2014-0604-1`).
+Act id: `udhezim-2014-0604-1` (tags `udhezim-2014-0604-1/<day>`; `python registry/tools/on.py <day> udhezim-2014-0604-1`).
 
 ## Decisions made by hand
 

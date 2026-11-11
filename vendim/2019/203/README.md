@@ -17,7 +17,7 @@ Përcaktimin e kritereve të masës së përfitimit dhe llojeve të pushimeve t�
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2026-07-14 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-203` (tags `vendim-2019-203/<day>`; `python tools/on.py <day> vendim-2019-203`).
+Act id: `vendim-2019-203` (tags `vendim-2019-203/<day>`; `python registry/tools/on.py <day> vendim-2019-203`).
 
 ## Decisions made by hand
 

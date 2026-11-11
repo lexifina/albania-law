@@ -20,7 +20,7 @@ Miratimin e formës dhe të përmbajtjes së vulës, dokumentit të identifikimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0305-117` (tags `urdher-2021-0305-117/<day>`; `python tools/on.py <day> urdher-2021-0305-117`).
+Act id: `urdher-2021-0305-117` (tags `urdher-2021-0305-117/<day>`; `python registry/tools/on.py <day> urdher-2021-0305-117`).
 
 ## Decisions made by hand
 

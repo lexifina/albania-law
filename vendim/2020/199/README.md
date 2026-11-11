@@ -11,7 +11,7 @@ Miratimin e dokumenteve standarde të procedurës së prokurimit, të kritereve 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2021-04-14 |
 
-Act id: `vendim-2020-199` (tags `vendim-2020-199/<day>`; `python tools/on.py <day> vendim-2020-199`).
+Act id: `vendim-2020-199` (tags `vendim-2020-199/<day>`; `python registry/tools/on.py <day> vendim-2020-199`).
 
 ## Decisions made by hand
 

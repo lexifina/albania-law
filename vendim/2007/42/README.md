@@ -5,7 +5,7 @@ Përcaktimin e pagës minimale mujore për efekt të llogaritjes së kontributev
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-42` (tags `vendim-2007-42/<day>`; `python tools/on.py <day> vendim-2007-42`).
+Act id: `vendim-2007-42` (tags `vendim-2007-42/<day>`; `python registry/tools/on.py <day> vendim-2007-42`).
 
 ## Decisions made by hand
 

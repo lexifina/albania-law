@@ -21,7 +21,7 @@ Marrjen e masave të veçanta nga njësitë e vetqeverisjes vendore për paranda
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0901-213` (tags `urdher-2020-0901-213/<day>`; `python tools/on.py <day> urdher-2020-0901-213`).
+Act id: `urdher-2020-0901-213` (tags `urdher-2020-0901-213/<day>`; `python registry/tools/on.py <day> urdher-2020-0901-213`).
 
 ## Decisions made by hand
 

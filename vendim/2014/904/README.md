@@ -14,7 +14,7 @@ Trajtimin me kredi të lehtësuara për strehim të familjeve që banojnë në o
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-904` (tags `vendim-2014-904/<day>`; `python tools/on.py <day> vendim-2014-904`).
+Act id: `vendim-2014-904` (tags `vendim-2014-904/<day>`; `python registry/tools/on.py <day> vendim-2014-904`).
 
 ## Decisions made by hand
 

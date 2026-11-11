@@ -5,7 +5,7 @@ Shpalljen e qendrës historike të fshatit kaninë e të zonës së mbrojtur rre
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-581` (tags `vendim-2017-581/<day>`; `python tools/on.py <day> vendim-2017-581`).
+Act id: `vendim-2017-581` (tags `vendim-2017-581/<day>`; `python registry/tools/on.py <day> vendim-2017-581`).
 
 ## Decisions made by hand
 

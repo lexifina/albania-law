@@ -12,7 +12,7 @@ Mbi zbatimin e vendimit nr. 618, datë 7.9.2006, të Këshillit të Ministrave �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0801-594` (tags `udhezim-2019-0801-594/<day>`; `python tools/on.py <day> udhezim-2019-0801-594`).
+Act id: `udhezim-2019-0801-594` (tags `udhezim-2019-0801-594/<day>`; `python registry/tools/on.py <day> udhezim-2019-0801-594`).
 
 ## Decisions made by hand
 

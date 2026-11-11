@@ -5,7 +5,7 @@ Parandalimin e përhapjes së infeksionit hiv/aids në republikën e shqipëris�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8689` (tags `ligj-2000-8689/<day>`; `python tools/on.py <day> ligj-2000-8689`).
+Act id: `ligj-2000-8689` (tags `ligj-2000-8689/<day>`; `python registry/tools/on.py <day> ligj-2000-8689`).
 
 ## Decisions made by hand
 

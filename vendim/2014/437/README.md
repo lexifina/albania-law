@@ -5,7 +5,7 @@ Përcaktimin e përbërjes strukturore e të shpërblimit të këshillit kombët
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-437` (tags `vendim-2014-437/<day>`; `python tools/on.py <day> vendim-2014-437`).
+Act id: `vendim-2014-437` (tags `vendim-2014-437/<day>`; `python registry/tools/on.py <day> vendim-2014-437`).
 
 ## Decisions made by hand
 

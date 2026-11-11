@@ -18,7 +18,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Arsimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0124-44` (tags `urdher-2019-0124-44/<day>`; `python tools/on.py <day> urdher-2019-0124-44`).
+Act id: `urdher-2019-0124-44` (tags `urdher-2019-0124-44/<day>`; `python registry/tools/on.py <day> urdher-2019-0124-44`).
 
 ## Decisions made by hand
 

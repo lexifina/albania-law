@@ -12,7 +12,7 @@ Një shtesë dhe ndryshime në udhëzimin nr. 6, datë 30.1.2015, “për tatimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0705-16` (tags `udhezim-2017-0705-16/<day>`; `python tools/on.py <day> udhezim-2017-0705-16`).
+Act id: `udhezim-2017-0705-16` (tags `udhezim-2017-0705-16/<day>`; `python registry/tools/on.py <day> udhezim-2017-0705-16`).
 
 ## Decisions made by hand
 

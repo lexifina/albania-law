@@ -16,7 +16,7 @@ Procedurën e organizimit të shortit, për shpalljen e fituesit midis kandidat�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1124-9` (tags `udhezim-2006-1124-9/<day>`; `python tools/on.py <day> udhezim-2006-1124-9`).
+Act id: `udhezim-2006-1124-9` (tags `udhezim-2006-1124-9/<day>`; `python registry/tools/on.py <day> udhezim-2006-1124-9`).
 
 ## Decisions made by hand
 

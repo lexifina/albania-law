@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe të procedurave të shitjes së trojeve të ndërma
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-98` (tags `vendim-2009-98/<day>`; `python tools/on.py <day> vendim-2009-98`).
+Act id: `vendim-2009-98` (tags `vendim-2009-98/<day>`; `python registry/tools/on.py <day> vendim-2009-98`).
 
 ## Decisions made by hand
 

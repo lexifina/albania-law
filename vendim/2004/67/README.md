@@ -5,7 +5,7 @@ Miratimin e uniformës dhe të shenjave dalluese të gardës së Republikës Të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-67` (tags `vendim-2004-67/<day>`; `python tools/on.py <day> vendim-2004-67`).
+Act id: `vendim-2004-67` (tags `vendim-2004-67/<day>`; `python registry/tools/on.py <day> vendim-2004-67`).
 
 ## Decisions made by hand
 

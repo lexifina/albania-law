@@ -9,7 +9,7 @@ PËR MIRATIMIN E DOKUMENTIT TË NDRYSHIMIT NR. 1 TË MARRËVESHJES SË GRANTIT N
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-690` (tags `vendim-2016-690/<day>`; `python tools/on.py <day> vendim-2016-690`).
+Act id: `vendim-2016-690` (tags `vendim-2016-690/<day>`; `python registry/tools/on.py <day> vendim-2016-690`).
 
 ## Decisions made by hand
 

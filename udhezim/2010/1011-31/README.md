@@ -19,7 +19,7 @@ Procedurat e pranimit dhe të regjistrimit në programet e studimit të ciklit t
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1011-31` (tags `udhezim-2010-1011-31/<day>`; `python tools/on.py <day> udhezim-2010-1011-31`).
+Act id: `udhezim-2010-1011-31` (tags `udhezim-2010-1011-31/<day>`; `python registry/tools/on.py <day> udhezim-2010-1011-31`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Krijimin e regjistrit të ndërmarrjeve sociale dhe rregullat për mbajtjen e ti
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0104-2` (tags `udhezim-2019-0104-2/<day>`; `python tools/on.py <day> udhezim-2019-0104-2`).
+Act id: `udhezim-2019-0104-2` (tags `udhezim-2019-0104-2/<day>`; `python registry/tools/on.py <day> udhezim-2019-0104-2`).
 
 ## Decisions made by hand
 

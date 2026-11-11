@@ -34,7 +34,7 @@ Kriteret, procedurat dhe mënyrën e administrimit të fondit të programit për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-07-10 |
 
-Act id: `udhezim-2023-0303-5` (tags `udhezim-2023-0303-5/<day>`; `python tools/on.py <day> udhezim-2023-0303-5`).
+Act id: `udhezim-2023-0303-5` (tags `udhezim-2023-0303-5/<day>`; `python registry/tools/on.py <day> udhezim-2023-0303-5`).
 
 ## Decisions made by hand
 

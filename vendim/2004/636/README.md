@@ -8,7 +8,7 @@ Miratimin e dokumentit të politikave të decentralizimit në fushën e kujdesit
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-636` (tags `vendim-2004-636/<day>`; `python tools/on.py <day> vendim-2004-636`).
+Act id: `vendim-2004-636` (tags `vendim-2004-636/<day>`; `python registry/tools/on.py <day> vendim-2004-636`).
 
 ## Decisions made by hand
 

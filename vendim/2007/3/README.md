@@ -11,7 +11,7 @@ Nxitjen e zhvillimit të vreshtarisë, pemëtarisë dhe ullirit · 1 versions, f
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-3` (tags `vendim-2007-3/<day>`; `python tools/on.py <day> vendim-2007-3`).
+Act id: `vendim-2007-3` (tags `vendim-2007-3/<day>`; `python registry/tools/on.py <day> vendim-2007-3`).
 
 ## Decisions made by hand
 

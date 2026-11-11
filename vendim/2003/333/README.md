@@ -5,7 +5,7 @@ Pagat e punonjësve të policisë së shtetit · 3 versions, from 2003-06-19 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-333` (tags `vendim-2003-333/<day>`; `python tools/on.py <day> vendim-2003-333`).
+Act id: `vendim-2003-333` (tags `vendim-2003-333/<day>`; `python registry/tools/on.py <day> vendim-2003-333`).
 
 ## Decisions made by hand
 

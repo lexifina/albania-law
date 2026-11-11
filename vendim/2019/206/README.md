@@ -13,7 +13,7 @@ Pjesmarrjen e Shqipërisë në panairin ndërkombëtar ”Expo 2020 Dubai” · 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-206` (tags `vendim-2019-206/<day>`; `python tools/on.py <day> vendim-2019-206`).
+Act id: `vendim-2019-206` (tags `vendim-2019-206/<day>`; `python registry/tools/on.py <day> vendim-2019-206`).
 
 ## Decisions made by hand
 

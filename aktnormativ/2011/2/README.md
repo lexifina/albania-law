@@ -16,7 +16,7 @@ Zhvillimin dhe pjesëmarrjen e forcave ushtarake të britanisë së madhe në st
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2011-2` (tags `aktnormativ-2011-2/<day>`; `python tools/on.py <day> aktnormativ-2011-2`).
+Act id: `aktnormativ-2011-2` (tags `aktnormativ-2011-2/<day>`; `python registry/tools/on.py <day> aktnormativ-2011-2`).
 
 ## Decisions made by hand
 

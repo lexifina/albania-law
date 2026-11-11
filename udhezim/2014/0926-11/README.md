@@ -5,7 +5,7 @@ Kriteret dhe procedurat e emërimit dhe lirimit nga detyra të drejtuesve të in
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0926-11` (tags `udhezim-2014-0926-11/<day>`; `python tools/on.py <day> udhezim-2014-0926-11`).
+Act id: `udhezim-2014-0926-11` (tags `udhezim-2014-0926-11/<day>`; `python registry/tools/on.py <day> udhezim-2014-0926-11`).
 
 ## Decisions made by hand
 

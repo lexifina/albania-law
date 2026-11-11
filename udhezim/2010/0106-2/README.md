@@ -15,7 +15,7 @@ Zbatimin e kurrikulës së klasës X · 1 versions, from 2010-03-21 (latest in f
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0106-2` (tags `udhezim-2010-0106-2/<day>`; `python tools/on.py <day> udhezim-2010-0106-2`).
+Act id: `udhezim-2010-0106-2` (tags `udhezim-2010-0106-2/<day>`; `python registry/tools/on.py <day> udhezim-2010-0106-2`).
 
 ## Decisions made by hand
 

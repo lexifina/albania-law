@@ -5,7 +5,7 @@ Miratimin e formularëve të kërkesës për miratimin, në parim për dhënien 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-550` (tags `vendim-2020-550/<day>`; `python tools/on.py <day> vendim-2020-550`).
+Act id: `vendim-2020-550` (tags `vendim-2020-550/<day>`; `python registry/tools/on.py <day> vendim-2020-550`).
 
 ## Decisions made by hand
 

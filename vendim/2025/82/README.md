@@ -10,7 +10,7 @@ Miratimin e buxhetit të Agjencisë Shtetërore të Kadastrës për vitin 2025 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-82` (tags `vendim-2025-82/<day>`; `python tools/on.py <day> vendim-2025-82`).
+Act id: `vendim-2025-82` (tags `vendim-2025-82/<day>`; `python registry/tools/on.py <day> vendim-2025-82`).
 
 ## Decisions made by hand
 

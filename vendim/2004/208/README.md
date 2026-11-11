@@ -9,7 +9,16 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-208` (tags `vendim-2004-208/<day>`; `python tools/on.py <day> vendim-2004-208`).
+Act id: `vendim-2004-208` (tags `vendim-2004-208/<day>`; `python registry/tools/on.py <day> vendim-2004-208`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 978, datë 2.7.2008: Për kalimin në pronësi nga armo, sha-ja, tiranë, bashkisë ura vajgurore të një sipërfaqeje, truall, të degës së shpërndarjes së karburanteve, ura vajgurore, dhe për një ndryshim në vendimin nr.208, datë 16.4.2004 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi armo, sha-së”](https://qbz.gov.al/eli/vendim/2008/07/02/978)
+- [Vendimi i Këshillit të Ministrave nr. 1323, datë 1.10.2008: Për kalimin në pronësi, nga armo sha-ja, tiranë, bashkisë kuçovë, të ish-uzinës së përpunimit të naftës, kuçovë, dhe për një ndryshim në vendimin nr.208, datë 16.4.2004 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të cilat i kalojnë në përgjegjësi administrimi armo sha-së](https://qbz.gov.al/eli/vendim/2008/10/01/1323)
 
 ## Decisions made by hand
 

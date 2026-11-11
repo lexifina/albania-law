@@ -12,7 +12,7 @@ Zhvillimin e provimeve të maturës shtetërore 2014 · 1 versions, from 2014-08
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0403-10` (tags `udhezim-2014-0403-10/<day>`; `python tools/on.py <day> udhezim-2014-0403-10`).
+Act id: `udhezim-2014-0403-10` (tags `udhezim-2014-0403-10/<day>`; `python registry/tools/on.py <day> udhezim-2014-0403-10`).
 
 ## Decisions made by hand
 

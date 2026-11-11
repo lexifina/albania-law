@@ -20,7 +20,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet e organeve të 
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2018-1106-295` (tags `udhezim-2018-1106-295/<day>`; `python tools/on.py <day> udhezim-2018-1106-295`).
+Act id: `udhezim-2018-1106-295` (tags `udhezim-2018-1106-295/<day>`; `python registry/tools/on.py <day> udhezim-2018-1106-295`).
 
 ## Decisions made by hand
 

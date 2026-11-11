@@ -5,7 +5,7 @@ Miratimin e lejes së funksionimit të institucionit arsimor, jopublik, Medresej
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-602` (tags `vendim-2002-602/<day>`; `python tools/on.py <day> vendim-2002-602`).
+Act id: `vendim-2002-602` (tags `vendim-2002-602/<day>`; `python registry/tools/on.py <day> vendim-2002-602`).
 
 ## Decisions made by hand
 

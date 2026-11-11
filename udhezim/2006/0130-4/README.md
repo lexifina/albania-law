@@ -5,7 +5,7 @@ Mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndet�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0130-4` (tags `udhezim-2006-0130-4/<day>`; `python tools/on.py <day> udhezim-2006-0130-4`).
+Act id: `udhezim-2006-0130-4` (tags `udhezim-2006-0130-4/<day>`; `python registry/tools/on.py <day> udhezim-2006-0130-4`).
 
 ## Decisions made by hand
 

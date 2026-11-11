@@ -11,7 +11,7 @@ Miratimin e rezolutës nr. bg/6-434, “në lidhje me rritjen e përgjithshme t�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-50` (tags `ligj-2017-50/<day>`; `python tools/on.py <day> ligj-2017-50`).
+Act id: `ligj-2017-50` (tags `ligj-2017-50/<day>`; `python registry/tools/on.py <day> ligj-2017-50`).
 
 ## Decisions made by hand
 

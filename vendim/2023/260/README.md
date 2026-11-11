@@ -10,7 +10,7 @@ Miratimin e projekteve fituese të financuara nga fondi për parandalimin dhe me
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-260` (tags `vendim-2023-260/<day>`; `python tools/on.py <day> vendim-2023-260`).
+Act id: `vendim-2023-260` (tags `vendim-2023-260/<day>`; `python registry/tools/on.py <day> vendim-2023-260`).
 
 ## Decisions made by hand
 

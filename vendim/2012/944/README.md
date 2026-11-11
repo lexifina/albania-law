@@ -11,7 +11,7 @@ Kalimin e pronës “kalaja lezhë” dhe zonës arkeologjike përreth saj në p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2012-944` (tags `vendim-2012-944/<day>`; `python tools/on.py <day> vendim-2012-944`).
+Act id: `vendim-2012-944` (tags `vendim-2012-944/<day>`; `python registry/tools/on.py <day> vendim-2012-944`).
 
 ## Decisions made by hand
 

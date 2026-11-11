@@ -12,7 +12,7 @@ Hapjen e programit të studimeve në Universitetin Politeknik të Tiranës · 1 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0906-378` (tags `urdher-2013-0906-378/<day>`; `python tools/on.py <day> urdher-2013-0906-378`).
+Act id: `urdher-2013-0906-378` (tags `urdher-2013-0906-378/<day>`; `python registry/tools/on.py <day> urdher-2013-0906-378`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Rishpërndarje fondesh, për shpenzime kapitale, ndërmjet programeve brenda bux
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-903` (tags `vendim-2010-903/<day>`; `python tools/on.py <day> vendim-2010-903`).
+Act id: `vendim-2010-903` (tags `vendim-2010-903/<day>`; `python registry/tools/on.py <day> vendim-2010-903`).
 
 ## Decisions made by hand
 

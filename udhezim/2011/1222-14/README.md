@@ -19,7 +19,7 @@ Përpunimin, mbrojtjen dhe sigurinë e të dhënave personale në sektorin e kom
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1222-14` (tags `udhezim-2011-1222-14/<day>`; `python tools/on.py <day> udhezim-2011-1222-14`).
+Act id: `udhezim-2011-1222-14` (tags `udhezim-2011-1222-14/<day>`; `python registry/tools/on.py <day> udhezim-2011-1222-14`).
 
 ## Decisions made by hand
 

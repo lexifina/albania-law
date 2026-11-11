@@ -10,7 +10,7 @@ PËR RISHPËRNDARJE FONDESH, NGA Ministria e Infrastrukturës dhe Energjisë NË
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-416` (tags `vendim-2017-416/<day>`; `python tools/on.py <day> vendim-2017-416`).
+Act id: `vendim-2017-416` (tags `vendim-2017-416/<day>`; `python registry/tools/on.py <day> vendim-2017-416`).
 
 ## Decisions made by hand
 

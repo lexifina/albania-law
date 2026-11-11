@@ -5,7 +5,7 @@ Pezullimin e përkohshëm të udhëzimit nr. 1, datë 18.7.2012 të Këshillit t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-1127-3` (tags `udhezim-2013-1127-3/<day>`; `python tools/on.py <day> udhezim-2013-1127-3`).
+Act id: `udhezim-2013-1127-3` (tags `udhezim-2013-1127-3/<day>`; `python registry/tools/on.py <day> udhezim-2013-1127-3`).
 
 ## Decisions made by hand
 

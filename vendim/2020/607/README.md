@@ -13,7 +13,7 @@ Tarifat për llojet e shërbimeve që ofrohen nga Shërbimi i Mbrojtjes nga Zjar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-607` (tags `vendim-2020-607/<day>`; `python tools/on.py <day> vendim-2020-607`).
+Act id: `vendim-2020-607` (tags `vendim-2020-607/<day>`; `python registry/tools/on.py <day> vendim-2020-607`).
 
 ## Decisions made by hand
 

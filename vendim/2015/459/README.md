@@ -5,7 +5,7 @@ Miratimin e udhërrëfyesit për hartimin e politikës dhe masave për një mjed
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-459` (tags `vendim-2015-459/<day>`; `python tools/on.py <day> vendim-2015-459`).
+Act id: `vendim-2015-459` (tags `vendim-2015-459/<day>`; `python registry/tools/on.py <day> vendim-2015-459`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Etiketimin e produkteve me ndikim në energji · 3 versions, from 2024-06-25 (la
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2024-52` (tags `ligj-2024-52/<day>`; `python tools/on.py <day> ligj-2024-52`).
+Act id: `ligj-2024-52` (tags `ligj-2024-52/<day>`; `python registry/tools/on.py <day> ligj-2024-52`).
 
 ## Decisions made by hand
 

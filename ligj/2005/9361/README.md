@@ -16,7 +16,7 @@ Një trajtim të veçantë financiar të efektivave, oficerë dhe nënoficerë l
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2005-9361` (tags `ligj-2005-9361/<day>`; `python tools/on.py <day> ligj-2005-9361`).
+Act id: `ligj-2005-9361` (tags `ligj-2005-9361/<day>`; `python registry/tools/on.py <day> ligj-2005-9361`).
 
 ## Decisions made by hand
 

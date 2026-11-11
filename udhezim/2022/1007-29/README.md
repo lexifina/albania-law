@@ -14,7 +14,7 @@ Frekuentimin e procesit mësimor, sipas llojit të veprimtarive mësimore në au
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-1007-29` (tags `udhezim-2022-1007-29/<day>`; `python tools/on.py <day> udhezim-2022-1007-29`).
+Act id: `udhezim-2022-1007-29` (tags `udhezim-2022-1007-29/<day>`; `python registry/tools/on.py <day> udhezim-2022-1007-29`).
 
 ## Decisions made by hand
 

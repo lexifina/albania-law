@@ -12,7 +12,7 @@ Hapjen e programeve të reja të studimit, në shkollën e lartë private “Sev
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-354` (tags `vendim-2010-354/<day>`; `python tools/on.py <day> vendim-2010-354`).
+Act id: `vendim-2010-354` (tags `vendim-2010-354/<day>`; `python registry/tools/on.py <day> vendim-2010-354`).
 
 ## Decisions made by hand
 

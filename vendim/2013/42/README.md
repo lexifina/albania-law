@@ -9,7 +9,7 @@ Miratimin e fondit të shpenzimeve për Këshillin Kombëtar të Radios dhe Tele
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-42` (tags `vendim-2013-42/<day>`; `python tools/on.py <day> vendim-2013-42`).
+Act id: `vendim-2013-42` (tags `vendim-2013-42/<day>`; `python registry/tools/on.py <day> vendim-2013-42`).
 
 ## Decisions made by hand
 

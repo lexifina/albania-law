@@ -12,7 +12,7 @@ Miratimin e rregullores së provimit të kualifikimit · 1 versions, from 2020-1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1015-347` (tags `urdher-2020-1015-347/<day>`; `python tools/on.py <day> urdher-2020-1015-347`).
+Act id: `urdher-2020-1015-347` (tags `urdher-2020-1015-347/<day>`; `python registry/tools/on.py <day> urdher-2020-1015-347`).
 
 ## Decisions made by hand
 

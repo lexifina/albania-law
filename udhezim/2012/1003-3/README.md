@@ -5,7 +5,7 @@ Caktimin e kritereve e të procedurave për regjistrimin e lejes së ndërtimit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-1003-3` (tags `udhezim-2012-1003-3/<day>`; `python tools/on.py <day> udhezim-2012-1003-3`).
+Act id: `udhezim-2012-1003-3` (tags `udhezim-2012-1003-3/<day>`; `python registry/tools/on.py <day> udhezim-2012-1003-3`).
 
 ## Decisions made by hand
 

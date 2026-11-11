@@ -10,7 +10,7 @@ Shpalljen për zbatim të Standardit Ndërkombëtar të Raportimit Financiar 20 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-1009-138` (tags `urdher-2026-1009-138/<day>`; `python tools/on.py <day> urdher-2026-1009-138`).
+Act id: `urdher-2026-1009-138` (tags `urdher-2026-1009-138/<day>`; `python registry/tools/on.py <day> urdher-2026-1009-138`).
 
 ## Decisions made by hand
 

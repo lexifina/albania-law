@@ -5,7 +5,7 @@ Miratimin e statutit të agjencisë kombëtare të turizmit · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-571` (tags `vendim-2007-571/<day>`; `python tools/on.py <day> vendim-2007-571`).
+Act id: `vendim-2007-571` (tags `vendim-2007-571/<day>`; `python registry/tools/on.py <day> vendim-2007-571`).
 
 ## Decisions made by hand
 

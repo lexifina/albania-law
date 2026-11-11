@@ -9,7 +9,7 @@ Faljen e kamatëvonesave të faturave të papaguara të konsumit të ujit, që k
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9803` (tags `ligj-2007-9803/<day>`; `python tools/on.py <day> ligj-2007-9803`).
+Act id: `ligj-2007-9803` (tags `ligj-2007-9803/<day>`; `python registry/tools/on.py <day> ligj-2007-9803`).
 
 ## Decisions made by hand
 

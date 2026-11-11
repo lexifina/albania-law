@@ -5,7 +5,7 @@ Përcaktimin e kufijve maksimalë të lejueshëm për aktivet dhe investimet e a
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-268` (tags `vendim-2005-268/<day>`; `python tools/on.py <day> vendim-2005-268`).
+Act id: `vendim-2005-268` (tags `vendim-2005-268/<day>`; `python registry/tools/on.py <day> vendim-2005-268`).
 
 ## Decisions made by hand
 

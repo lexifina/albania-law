@@ -29,7 +29,7 @@ Fondin e zhvillimit të rajoneve · 1 versions, from 2010-04-29 (latest in force
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0401-11` (tags `udhezim-2010-0401-11/<day>`; `python tools/on.py <day> udhezim-2010-0401-11`).
+Act id: `udhezim-2010-0401-11` (tags `udhezim-2010-0401-11/<day>`; `python registry/tools/on.py <day> udhezim-2010-0401-11`).
 
 ## Decisions made by hand
 

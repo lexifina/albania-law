@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në amendamentin e kigalit të protokoll
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-91` (tags `ligj-2018-91/<day>`; `python tools/on.py <day> ligj-2018-91`).
+Act id: `ligj-2018-91` (tags `ligj-2018-91/<day>`; `python registry/tools/on.py <day> ligj-2018-91`).
 
 ## Decisions made by hand
 

@@ -57,7 +57,7 @@ Karrierën ushtarake në forcat e armatosura të republikës së shqipërisë ·
 | Neni 39 | [neni-039.md](neni-039.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-59` (tags `ligj-2014-59/<day>`; `python tools/on.py <day> ligj-2014-59`).
+Act id: `ligj-2014-59` (tags `ligj-2014-59/<day>`; `python registry/tools/on.py <day> ligj-2014-59`).
 
 ## Decisions made by hand
 

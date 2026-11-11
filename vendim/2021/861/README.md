@@ -17,7 +17,7 @@ Transferimin në fondin e pasurive të paluajtshme për mbështetjen e investime
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2022-10-28 |
 
-Act id: `vendim-2021-861` (tags `vendim-2021-861/<day>`; `python tools/on.py <day> vendim-2021-861`).
+Act id: `vendim-2021-861` (tags `vendim-2021-861/<day>`; `python registry/tools/on.py <day> vendim-2021-861`).
 
 ## Decisions made by hand
 

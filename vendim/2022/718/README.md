@@ -10,7 +10,7 @@ Zbatimin nga Republika e Shqipërisë të rregulloreve të Këshillit të Bashki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-718` (tags `vendim-2022-718/<day>`; `python tools/on.py <day> vendim-2022-718`).
+Act id: `vendim-2022-718` (tags `vendim-2022-718/<day>`; `python registry/tools/on.py <day> vendim-2022-718`).
 
 ## Decisions made by hand
 

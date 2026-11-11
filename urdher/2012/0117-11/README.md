@@ -14,7 +14,7 @@ Hapjen e programeve të reja të studimit të ciklit të parë “bachelor” n�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0117-11` (tags `urdher-2012-0117-11/<day>`; `python tools/on.py <day> urdher-2012-0117-11`).
+Act id: `urdher-2012-0117-11` (tags `urdher-2012-0117-11/<day>`; `python registry/tools/on.py <day> urdher-2012-0117-11`).
 
 ## Decisions made by hand
 

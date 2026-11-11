@@ -10,7 +10,7 @@ Kalimin e disa mjediseve të ndërmarrjes elektroteknike, Tiranë, në përgjegj
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-238` (tags `vendim-2006-238/<day>`; `python tools/on.py <day> vendim-2006-238`).
+Act id: `vendim-2006-238` (tags `vendim-2006-238/<day>`; `python registry/tools/on.py <day> vendim-2006-238`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror znj. Suzana Xhevdet Kuka (Varva
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-846` (tags `vendim-2022-846/<day>`; `python tools/on.py <day> vendim-2022-846`).
+Act id: `vendim-2022-846` (tags `vendim-2022-846/<day>`; `python registry/tools/on.py <day> vendim-2022-846`).
 
 ## Decisions made by hand
 

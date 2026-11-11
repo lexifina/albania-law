@@ -15,7 +15,7 @@ Procedurën e heqjes së licencës së ndërmjetësit · 1 versions, from 2011-0
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-418` (tags `vendim-2011-418/<day>`; `python tools/on.py <day> vendim-2011-418`).
+Act id: `vendim-2011-418` (tags `vendim-2011-418/<day>`; `python registry/tools/on.py <day> vendim-2011-418`).
 
 ## Decisions made by hand
 

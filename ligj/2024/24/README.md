@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes për njohjen e kualifikimeve profesionale të inferm
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-24-2024` (tags `ligji-24-2024/<day>`; `python tools/on.py <day> ligji-24-2024`).
+Act id: `ligji-24-2024` (tags `ligji-24-2024/<day>`; `python registry/tools/on.py <day> ligji-24-2024`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të procedurave dhe dokumentacionit të zbatueshëm, p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-438` (tags `vendim-2006-438/<day>`; `python tools/on.py <day> vendim-2006-438`).
+Act id: `vendim-2006-438` (tags `vendim-2006-438/<day>`; `python registry/tools/on.py <day> vendim-2006-438`).
 
 ## Decisions made by hand
 

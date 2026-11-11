@@ -10,7 +10,7 @@ Ratifikimin e “protokollit 2 shtesë “për përkufizimin e konceptit “prod
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10199-2009` (tags `ligji-10199-2009/<day>`; `python tools/on.py <day> ligji-10199-2009`).
+Act id: `ligji-10199-2009` (tags `ligji-10199-2009/<day>`; `python registry/tools/on.py <day> ligji-10199-2009`).
 
 ## Decisions made by hand
 

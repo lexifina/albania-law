@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe procedurave të shitjes së trojeve shtesë, funksi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-648` (tags `vendim-2009-648/<day>`; `python tools/on.py <day> vendim-2009-648`).
+Act id: `vendim-2009-648` (tags `vendim-2009-648/<day>`; `python registry/tools/on.py <day> vendim-2009-648`).
 
 ## Decisions made by hand
 

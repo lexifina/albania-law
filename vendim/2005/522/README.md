@@ -12,7 +12,7 @@ Transferimin e fondeve financiare të kreditorëve të shoqërive huamarrëse n�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-522` (tags `vendim-2005-522/<day>`; `python tools/on.py <day> vendim-2005-522`).
+Act id: `vendim-2005-522` (tags `vendim-2005-522/<day>`; `python registry/tools/on.py <day> vendim-2005-522`).
 
 ## Decisions made by hand
 

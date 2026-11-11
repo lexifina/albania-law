@@ -5,7 +5,7 @@ Miratimin e procedurave, kritereve dhe përparësive për përfitimin e grantit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-527` (tags `vendim-2014-527/<day>`; `python tools/on.py <day> vendim-2014-527`).
+Act id: `vendim-2014-527` (tags `vendim-2014-527/<day>`; `python registry/tools/on.py <day> vendim-2014-527`).
 
 ## Decisions made by hand
 

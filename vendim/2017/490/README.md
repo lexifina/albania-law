@@ -18,7 +18,17 @@ Shpronësimin, për interes publik, të pronarëve pasurive të paluajtshme, pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-490` (tags `vendim-2017-490/<day>`; `python tools/on.py <day> vendim-2017-490`).
+Act id: `vendim-2017-490` (tags `vendim-2017-490/<day>`; `python registry/tools/on.py <day> vendim-2017-490`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 91, datë 21.2.2024: Për disa shtesa dhe ndryshime në vendimin nr. 490, datë 19.7.2017, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Vlora - ACU, rikualifikim urban në qytetin e Vlorës, përgjatë “P4 C2 A, B, C”, dhe “Ndërtim i Rrugës - vazhdimi i unazës Vlorë - Uji i Ftohtë””, të ndryshuar](https://qbz.gov.al/eli/vendim/2024/02/21/91)
+- [Vendimi i Këshillit të Ministrave nr. 864, datë 29.12.2021: Për disa ndryshime dhe shtesa në vendimin nr. 490, datë 19.7.2017, të Këshillit të Ministrave, ”Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ”VLORA-ACU”, rikualifikimi urban në qytetin e Vlorës, përgjatë P4, C2, A, B, C” dhe ndërtim i rrugës-Vazhdim i unazës Vlorë-Uji i Ftohtë””, të ndryshuar](https://qbz.gov.al/eli/vendim/2021/12/29/864)
+- [Vendimi i Këshillit të Ministrave nr. 759, datë 19.12.2018: Për disa ndryshime në vendimin nr. 490, datë 19.7.2017, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “vlora - acu, rikualifikim urban në qytetin e vlorës, përgjatë ’p4 c2 a, b, c’”, dhe “ndërtim i rrugës - vazhdimi i unazës vlorë - uji i ftohtë”“](https://qbz.gov.al/eli/vendim/2018/12/19/759)
 
 ## Decisions made by hand
 

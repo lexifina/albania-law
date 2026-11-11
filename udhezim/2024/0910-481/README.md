@@ -30,7 +30,7 @@ Mbi procedurat e verifikimit dhe shqyrtimin e kërkesës së mjekëve të instit
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0910-481` (tags `udhezim-2024-0910-481/<day>`; `python tools/on.py <day> udhezim-2024-0910-481`).
+Act id: `udhezim-2024-0910-481` (tags `udhezim-2024-0910-481/<day>`; `python registry/tools/on.py <day> udhezim-2024-0910-481`).
 
 ## Decisions made by hand
 

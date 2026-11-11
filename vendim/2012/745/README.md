@@ -5,7 +5,7 @@ Procedurat e regjistrimit të pasurive të paluajtshme, për të cilat zotërohe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-745` (tags `vendim-2012-745/<day>`; `python tools/on.py <day> vendim-2012-745`).
+Act id: `vendim-2012-745` (tags `vendim-2012-745/<day>`; `python registry/tools/on.py <day> vendim-2012-745`).
 
 ## Decisions made by hand
 

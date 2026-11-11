@@ -12,7 +12,7 @@ Ngritjen e grupit të punës për rishikimin e strukturave organike dhe të sist
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-0902-168` (tags `urdher-2010-0902-168/<day>`; `python tools/on.py <day> urdher-2010-0902-168`).
+Act id: `urdher-2010-0902-168` (tags `urdher-2010-0902-168/<day>`; `python registry/tools/on.py <day> urdher-2010-0902-168`).
 
 ## Decisions made by hand
 

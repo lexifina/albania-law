@@ -5,7 +5,7 @@ Miratimin e rregullores “Për trajtimin e sigurt të mbetjeve radioaktive në 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-8` (tags `vendim-2010-8/<day>`; `python tools/on.py <day> vendim-2010-8`).
+Act id: `vendim-2010-8` (tags `vendim-2010-8/<day>`; `python registry/tools/on.py <day> vendim-2010-8`).
 
 ## Decisions made by hand
 

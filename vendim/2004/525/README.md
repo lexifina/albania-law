@@ -13,7 +13,7 @@ Procedurën e aplikimit për regjistrimin e lëndëve plasëse në regjistrin sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2015-12-09 |
 
-Act id: `vendim-2004-525` (tags `vendim-2004-525/<day>`; `python tools/on.py <day> vendim-2004-525`).
+Act id: `vendim-2004-525` (tags `vendim-2004-525/<day>`; `python registry/tools/on.py <day> vendim-2004-525`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e formatit të vizës pullë dhe të vizës elektronike · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-854` (tags `vendim-2021-854/<day>`; `python tools/on.py <day> vendim-2021-854`).
+Act id: `vendim-2021-854` (tags `vendim-2021-854/<day>`; `python registry/tools/on.py <day> vendim-2021-854`).
 
 ## Decisions made by hand
 

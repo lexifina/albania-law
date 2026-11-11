@@ -15,7 +15,7 @@ Metodologjinë e klasifikimit, kodifikimit dhe formularët e aplikimit të shër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0722-3477` (tags `udhezim-2015-0722-3477/<day>`; `python tools/on.py <day> udhezim-2015-0722-3477`).
+Act id: `udhezim-2015-0722-3477` (tags `udhezim-2015-0722-3477/<day>`; `python registry/tools/on.py <day> udhezim-2015-0722-3477`).
 
 ## Decisions made by hand
 

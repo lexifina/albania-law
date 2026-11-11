@@ -25,7 +25,7 @@ Planet e rehabilitimit të sipërfaqeve të dëmtuara nga guroret · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0517-3` (tags `udhezim-2006-0517-3/<day>`; `python tools/on.py <day> udhezim-2006-0517-3`).
+Act id: `udhezim-2006-0517-3` (tags `udhezim-2006-0517-3/<day>`; `python registry/tools/on.py <day> udhezim-2006-0517-3`).
 
 ## Decisions made by hand
 

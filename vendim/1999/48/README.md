@@ -5,7 +5,7 @@ Krijimin e bordit të hetimit të aksidenteve dhe të incidenteve ajrore të avi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-1999-48` (tags `vendim-1999-48/<day>`; `python tools/on.py <day> vendim-1999-48`).
+Act id: `vendim-1999-48` (tags `vendim-1999-48/<day>`; `python registry/tools/on.py <day> vendim-1999-48`).
 
 ## Decisions made by hand
 

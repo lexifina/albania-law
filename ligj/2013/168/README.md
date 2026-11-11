@@ -51,7 +51,7 @@ Sigurinë në anije dhe në porte · 1 versions, from 2013-12-05 (latest in forc
 | Neni 39 | [neni-039.md](neni-039.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-168-2013` (tags `ligji-168-2013/<day>`; `python tools/on.py <day> ligji-168-2013`).
+Act id: `ligji-168-2013` (tags `ligji-168-2013/<day>`; `python registry/tools/on.py <day> ligji-168-2013`).
 
 ## Decisions made by hand
 

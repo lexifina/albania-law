@@ -17,7 +17,7 @@ Rregullat dhe procedurat për hartimin dhe zbatimin e programit kombëtar të mo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-07-08 |
 
-Act id: `vendim-2009-1189` (tags `vendim-2009-1189/<day>`; `python tools/on.py <day> vendim-2009-1189`).
+Act id: `vendim-2009-1189` (tags `vendim-2009-1189/<day>`; `python registry/tools/on.py <day> vendim-2009-1189`).
 
 ## Decisions made by hand
 

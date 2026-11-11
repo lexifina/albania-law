@@ -11,7 +11,7 @@ Kalimin në administrim të Bashkisë së qytetit Përmet · 1 versions, from 20
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-218` (tags `vendim-2003-218/<day>`; `python tools/on.py <day> vendim-2003-218`).
+Act id: `vendim-2003-218` (tags `vendim-2003-218/<day>`; `python registry/tools/on.py <day> vendim-2003-218`).
 
 ## Decisions made by hand
 

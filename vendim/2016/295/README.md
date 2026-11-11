@@ -10,7 +10,7 @@ Kalimin në përdorim të bashkisë tiranë të pronës me nr. 619, pasuria 7/18
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-295` (tags `vendim-2016-295/<day>`; `python tools/on.py <day> vendim-2016-295`).
+Act id: `vendim-2016-295` (tags `vendim-2016-295/<day>`; `python registry/tools/on.py <day> vendim-2016-295`).
 
 ## Decisions made by hand
 

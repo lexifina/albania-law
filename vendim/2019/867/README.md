@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndryshuese, me shkëmbim notash, të marrëveshjes nd�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-867` (tags `vendim-2019-867/<day>`; `python tools/on.py <day> vendim-2019-867`).
+Act id: `vendim-2019-867` (tags `vendim-2019-867/<day>`; `python registry/tools/on.py <day> vendim-2019-867`).
 
 ## Decisions made by hand
 

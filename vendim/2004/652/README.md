@@ -5,7 +5,7 @@ Dhënien e lejes për hapjen e shkollës së lartë jopublike “marubi” · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-652` (tags `vendim-2004-652/<day>`; `python tools/on.py <day> vendim-2004-652`).
+Act id: `vendim-2004-652` (tags `vendim-2004-652/<day>`; `python registry/tools/on.py <day> vendim-2004-652`).
 
 ## Decisions made by hand
 

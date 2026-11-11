@@ -460,7 +460,7 @@ Aderimin e republikës së shqipërisë në “konventën mbi të drejtën e det
 | Pjesa XVI | [pjesa-16.md](pjesa-16.md) | 0 |  |
 | Pjesa XVII | [pjesa-17.md](pjesa-17.md) | 0 |  |
 
-Act id: `ligji-9055-2003` (tags `ligji-9055-2003/<day>`; `python tools/on.py <day> ligji-9055-2003`).
+Act id: `ligji-9055-2003` (tags `ligji-9055-2003/<day>`; `python registry/tools/on.py <day> ligji-9055-2003`).
 
 ## Decisions made by hand
 

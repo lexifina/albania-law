@@ -11,7 +11,7 @@ PëR MIRATIMIN E LISTëS PëRFUNDIMTARE të PRONAVE, PYJE DHE KULLOTA, që DO t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-593` (tags `vendim-2008-593/<day>`; `python tools/on.py <day> vendim-2008-593`).
+Act id: `vendim-2008-593` (tags `vendim-2008-593/<day>`; `python registry/tools/on.py <day> vendim-2008-593`).
 
 ## Decisions made by hand
 

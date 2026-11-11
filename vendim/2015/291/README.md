@@ -9,7 +9,7 @@ Miratimin e planit kombëtar të veprimit 2015-2017, “Për parandalimin dhe lu
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-291` (tags `vendim-2015-291/<day>`; `python tools/on.py <day> vendim-2015-291`).
+Act id: `vendim-2015-291` (tags `vendim-2015-291/<day>`; `python registry/tools/on.py <day> vendim-2015-291`).
 
 ## Decisions made by hand
 

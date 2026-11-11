@@ -10,7 +10,7 @@ Miratimin e buxhetit të Agjencisë Shtetërore të Kadastrës, për vitin 2021 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-08-04 |
 
-Act id: `vendim-2021-6` (tags `vendim-2021-6/<day>`; `python tools/on.py <day> vendim-2021-6`).
+Act id: `vendim-2021-6` (tags `vendim-2021-6/<day>`; `python registry/tools/on.py <day> vendim-2021-6`).
 
 ## Decisions made by hand
 

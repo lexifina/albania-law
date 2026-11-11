@@ -5,7 +5,7 @@ Ndërtimin me koncesion të autostradës Rrogozhinë-Pezë-Degëzim Tiranë-Vor�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-506` (tags `vendim-2003-506/<day>`; `python tools/on.py <day> vendim-2003-506`).
+Act id: `vendim-2003-506` (tags `vendim-2003-506/<day>`; `python registry/tools/on.py <day> vendim-2003-506`).
 
 ## Decisions made by hand
 

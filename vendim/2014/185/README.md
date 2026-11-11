@@ -19,7 +19,7 @@ Përcaktimin e mënyrës së realizimit të kontrollit mjekësor bazë për shte
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-185` (tags `vendim-2014-185/<day>`; `python tools/on.py <day> vendim-2014-185`).
+Act id: `vendim-2014-185` (tags `vendim-2014-185/<day>`; `python registry/tools/on.py <day> vendim-2014-185`).
 
 ## Decisions made by hand
 

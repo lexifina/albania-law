@@ -15,7 +15,7 @@ Marrjen e masave për hartimin e legjislacionit në fushën penale, në kuadër 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-588` (tags `vendim-2026-588/<day>`; `python tools/on.py <day> vendim-2026-588`).
+Act id: `vendim-2026-588` (tags `vendim-2026-588/<day>`; `python registry/tools/on.py <day> vendim-2026-588`).
 
 ## Decisions made by hand
 

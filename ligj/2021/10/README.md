@@ -123,7 +123,7 @@ Azilin në Republikën e Shqipërisë” · 1 versions, from 2021-03-11 (latest 
 | Neni 102 | [neni-102.md](neni-102.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10-2021` (tags `ligji-10-2021/<day>`; `python tools/on.py <day> ligji-10-2021`).
+Act id: `ligji-10-2021` (tags `ligji-10-2021/<day>`; `python registry/tools/on.py <day> ligji-10-2021`).
 
 ## Decisions made by hand
 

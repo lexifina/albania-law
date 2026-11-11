@@ -11,7 +11,7 @@ PËR KALIMIN NË PRONËSI TË BASHKISË VLORË TË PRONËS ME SIPËRFAQE 371 m2 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-541` (tags `vendim-2016-541/<day>`; `python tools/on.py <day> vendim-2016-541`).
+Act id: `vendim-2016-541` (tags `vendim-2016-541/<day>`; `python registry/tools/on.py <day> vendim-2016-541`).
 
 ## Decisions made by hand
 

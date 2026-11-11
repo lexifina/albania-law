@@ -15,7 +15,15 @@ Dokumentacionin e aplikimit për licencë dhe procedurat e inspektimit, pezullim
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0111-179` (tags `udhezim-2017-0111-179/<day>`; `python tools/on.py <day> udhezim-2017-0111-179`).
+Act id: `udhezim-2017-0111-179` (tags `udhezim-2017-0111-179/<day>`; `python registry/tools/on.py <day> udhezim-2017-0111-179`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 1192, datë 13.2.2017 (Ministri i Shteti për  Sipërmarrjen dhe Klimën e Biznesit) [QBZ 55988]: Për disa ndryshime në udhëzimin nr. 179, datë 11/01/2017 “për dokumentacionin e aplikimit dhe procedurat e inspektimit, pezullimit dhe revokimit të licencës për ushtrimin e veprimtarisë së agjencisë së udhëtimit dhe operatorit turistik”](https://qbz.gov.al/eli/udhezim/2017/02/13/1192)
 
 ## Decisions made by hand
 

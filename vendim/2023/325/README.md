@@ -20,7 +20,7 @@ Miratimin e strukturës së pagave, niveleve të pagave dhe shtesave të tjera m
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 13 | 2026-07-14 |
 
-Act id: `vendim-2023-325` (tags `vendim-2023-325/<day>`; `python tools/on.py <day> vendim-2023-325`).
+Act id: `vendim-2023-325` (tags `vendim-2023-325/<day>`; `python registry/tools/on.py <day> vendim-2023-325`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin e Inspektoratit Kombëtar të Arsimit Parauniversitar · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-56` (tags `vendim-2010-56/<day>`; `python tools/on.py <day> vendim-2010-56`).
+Act id: `vendim-2010-56` (tags `vendim-2010-56/<day>`; `python registry/tools/on.py <day> vendim-2010-56`).
 
 ## Decisions made by hand
 

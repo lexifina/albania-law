@@ -24,7 +24,7 @@ Miratimin e listës së ndotësve organikë të qëndrueshëm dhe përcaktimin e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-11-02 |
 
-Act id: `vendim-2015-360` (tags `vendim-2015-360/<day>`; `python tools/on.py <day> vendim-2015-360`).
+Act id: `vendim-2015-360` (tags `vendim-2015-360/<day>`; `python registry/tools/on.py <day> vendim-2015-360`).
 
 ## Decisions made by hand
 

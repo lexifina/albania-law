@@ -14,7 +14,7 @@ Shpërblimin e personave, që përfitojnë pension · 1 versions, from 2004-12-2
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-869` (tags `vendim-2004-869/<day>`; `python tools/on.py <day> vendim-2004-869`).
+Act id: `vendim-2004-869` (tags `vendim-2004-869/<day>`; `python registry/tools/on.py <day> vendim-2004-869`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Një shtesë në listën e inventarit dhe për miratimin e listës përfundimtar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-648` (tags `vendim-2008-648/<day>`; `python tools/on.py <day> vendim-2008-648`).
+Act id: `vendim-2008-648` (tags `vendim-2008-648/<day>`; `python registry/tools/on.py <day> vendim-2008-648`).
 
 ## Decisions made by hand
 

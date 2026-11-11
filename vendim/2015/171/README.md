@@ -5,7 +5,7 @@ Miratimin e planit të rimëkëmbjes financiare të sektorit të energjisë elek
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-171` (tags `vendim-2015-171/<day>`; `python tools/on.py <day> vendim-2015-171`).
+Act id: `vendim-2015-171` (tags `vendim-2015-171/<day>`; `python registry/tools/on.py <day> vendim-2015-171`).
 
 ## Decisions made by hand
 

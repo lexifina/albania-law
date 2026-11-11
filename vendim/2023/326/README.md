@@ -23,7 +23,7 @@ Pagat e punonjësve mbështetës dhe punonjësve të tjerë të specialiteteve t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2026-02-09 |
 
-Act id: `vendim-2023-326` (tags `vendim-2023-326/<day>`; `python tools/on.py <day> vendim-2023-326`).
+Act id: `vendim-2023-326` (tags `vendim-2023-326/<day>`; `python registry/tools/on.py <day> vendim-2023-326`).
 
 ## Decisions made by hand
 

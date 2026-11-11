@@ -10,7 +10,7 @@ Modelin e strategjisë për zhvillimin lokal · 1 versions, from 2022-08-10 (lat
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0725-13` (tags `udhezim-2022-0725-13/<day>`; `python tools/on.py <day> udhezim-2022-0725-13`).
+Act id: `udhezim-2022-0725-13` (tags `udhezim-2022-0725-13/<day>`; `python registry/tools/on.py <day> udhezim-2022-0725-13`).
 
 ## Decisions made by hand
 

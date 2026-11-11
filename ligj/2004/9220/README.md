@@ -49,7 +49,7 @@ Shërbimin publik të varrimit · 2 versions, from 2004-06-11 (latest in force: 
 | Neni 33 | [neni-033.md](neni-033.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9220` (tags `ligj-2004-9220/<day>`; `python tools/on.py <day> ligj-2004-9220`).
+Act id: `ligj-2004-9220` (tags `ligj-2004-9220/<day>`; `python registry/tools/on.py <day> ligj-2004-9220`).
 
 ## Decisions made by hand
 

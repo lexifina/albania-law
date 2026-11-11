@@ -15,7 +15,7 @@ Zbatimin e rekomandimit të ICCAT-it për ndryshimin e rekomandimit 18-02, për 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0825-334` (tags `urdher-2020-0825-334/<day>`; `python tools/on.py <day> urdher-2020-0825-334`).
+Act id: `urdher-2020-0825-334` (tags `urdher-2020-0825-334/<day>`; `python registry/tools/on.py <day> urdher-2020-0825-334`).
 
 ## Decisions made by hand
 

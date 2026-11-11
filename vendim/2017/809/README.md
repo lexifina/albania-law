@@ -14,7 +14,7 @@ Ekzekutimin e vendimit të gjykatës evropiane për të drejtat e njeriut, datë
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-809` (tags `vendim-2017-809/<day>`; `python tools/on.py <day> vendim-2017-809`).
+Act id: `vendim-2017-809` (tags `vendim-2017-809/<day>`; `python registry/tools/on.py <day> vendim-2017-809`).
 
 ## Decisions made by hand
 

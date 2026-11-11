@@ -23,7 +23,15 @@ Përllogaritjen e përfitimit të ndihmës ekonomike · 1 versions, from 2017-03
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0217-4` (tags `udhezim-2017-0217-4/<day>`; `python tools/on.py <day> udhezim-2017-0217-4`).
+Act id: `udhezim-2017-0217-4` (tags `udhezim-2017-0217-4/<day>`; `python registry/tools/on.py <day> udhezim-2017-0217-4`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 9, datë 8.5.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 64488]: Për një ndryshim në udhëzimin nr. 4, datë 17.2.2017 “për përllogaritjen e përfitimit të ndihmës ekonomike”](https://qbz.gov.al/eli/udhezim/2017/05/08/9)
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-426` (tags `vendim-2006-426/<day>`; `python tools/on.py <day> vendim-2006-426`).
+Act id: `vendim-2006-426` (tags `vendim-2006-426/<day>`; `python registry/tools/on.py <day> vendim-2006-426`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Kristjan Çareri · 1 versions, from 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-974` (tags `vendim-2020-974/<day>`; `python tools/on.py <day> vendim-2020-974`).
+Act id: `vendim-2020-974` (tags `vendim-2020-974/<day>`; `python registry/tools/on.py <day> vendim-2020-974`).
 
 ## Decisions made by hand
 

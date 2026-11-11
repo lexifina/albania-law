@@ -11,7 +11,7 @@ Miratimin e planit të veprimit për ruajtjen e gjelit të egër (Tetrao Urogall
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0602-3` (tags `udhezim-2021-0602-3/<day>`; `python tools/on.py <day> udhezim-2021-0602-3`).
+Act id: `udhezim-2021-0602-3` (tags `udhezim-2021-0602-3/<day>`; `python registry/tools/on.py <day> udhezim-2021-0602-3`).
 
 ## Decisions made by hand
 

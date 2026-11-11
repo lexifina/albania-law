@@ -12,7 +12,7 @@ Shlyerjen e detyrimeve financiare ndaj të tretëve të ndërmarrjeve shtetëror
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-339` (tags `vendim-2025-339/<day>`; `python tools/on.py <day> vendim-2025-339`).
+Act id: `vendim-2025-339` (tags `vendim-2025-339/<day>`; `python registry/tools/on.py <day> vendim-2025-339`).
 
 ## Decisions made by hand
 

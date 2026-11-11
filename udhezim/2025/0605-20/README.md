@@ -112,7 +112,7 @@ Rregullat e hollësishme për prodhimin organik blegtoral, përfshirë rregullat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0605-20` (tags `udhezim-2025-0605-20/<day>`; `python tools/on.py <day> udhezim-2025-0605-20`).
+Act id: `udhezim-2025-0605-20` (tags `udhezim-2025-0605-20/<day>`; `python registry/tools/on.py <day> udhezim-2025-0605-20`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Vitin shkollor 2014-2015 në sistemin arsimor parauniversitar · 1 versions, fro
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0808-23` (tags `udhezim-2014-0808-23/<day>`; `python tools/on.py <day> udhezim-2014-0808-23`).
+Act id: `udhezim-2014-0808-23` (tags `udhezim-2014-0808-23/<day>`; `python registry/tools/on.py <day> udhezim-2014-0808-23`).
 
 ## Decisions made by hand
 

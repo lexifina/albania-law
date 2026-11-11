@@ -34,7 +34,7 @@ Përcaktimin e procedurave dhe të kritereve për kontraktimin e pagesën e avok
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-893` (tags `vendim-2020-893/<day>`; `python tools/on.py <day> vendim-2020-893`).
+Act id: `vendim-2020-893` (tags `vendim-2020-893/<day>`; `python registry/tools/on.py <day> vendim-2020-893`).
 
 ## Decisions made by hand
 

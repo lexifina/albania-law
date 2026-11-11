@@ -14,7 +14,7 @@ Vitin shkollor 2011- 2012 në sistemin arsimor parauniversitar · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0804-31` (tags `udhezim-2011-0804-31/<day>`; `python tools/on.py <day> udhezim-2011-0804-31`).
+Act id: `udhezim-2011-0804-31` (tags `udhezim-2011-0804-31/<day>`; `python registry/tools/on.py <day> udhezim-2011-0804-31`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores për standardizimin dhe administrimin e shtigjeve turist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0729-272` (tags `urdher-2024-0729-272/<day>`; `python tools/on.py <day> urdher-2024-0729-272`).
+Act id: `urdher-2024-0729-272` (tags `urdher-2024-0729-272/<day>`; `python registry/tools/on.py <day> urdher-2024-0729-272`).
 
 ## Decisions made by hand
 

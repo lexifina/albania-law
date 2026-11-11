@@ -10,7 +10,7 @@ Kalimin e përgjegjësisë së administrimit të disa mjediseve nga ministria e 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-220` (tags `vendim-2014-220/<day>`; `python tools/on.py <day> vendim-2014-220`).
+Act id: `vendim-2014-220` (tags `vendim-2014-220/<day>`; `python registry/tools/on.py <day> vendim-2014-220`).
 
 ## Decisions made by hand
 

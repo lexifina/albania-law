@@ -25,7 +25,7 @@ Zhvillimin e konkurseve të pranimit dhe tarifën e regjistrimit për konkurrim 
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0806-20` (tags `udhezim-2014-0806-20/<day>`; `python tools/on.py <day> udhezim-2014-0806-20`).
+Act id: `udhezim-2014-0806-20` (tags `udhezim-2014-0806-20/<day>`; `python registry/tools/on.py <day> udhezim-2014-0806-20`).
 
 ## Decisions made by hand
 

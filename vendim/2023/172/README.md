@@ -10,7 +10,7 @@ Miratimin e kalendarit të menaxhimit të shpenzimeve publike për vitin 2023 ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-172` (tags `vendim-2023-172/<day>`; `python tools/on.py <day> vendim-2023-172`).
+Act id: `vendim-2023-172` (tags `vendim-2023-172/<day>`; `python registry/tools/on.py <day> vendim-2023-172`).
 
 ## Decisions made by hand
 

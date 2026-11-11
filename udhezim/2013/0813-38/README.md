@@ -14,7 +14,7 @@ Arsimimin e individëve të moshës shkollore në institucionet e përkujdesjes 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0813-38` (tags `udhezim-2013-0813-38/<day>`; `python tools/on.py <day> udhezim-2013-0813-38`).
+Act id: `udhezim-2013-0813-38` (tags `udhezim-2013-0813-38/<day>`; `python registry/tools/on.py <day> udhezim-2013-0813-38`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores “Për kushtet, kriteret dhe programet për përgatitje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2010-0329-47` (tags `urdher-2010-0329-47/<day>`; `python tools/on.py <day> urdher-2010-0329-47`).
+Act id: `urdher-2010-0329-47` (tags `urdher-2010-0329-47/<day>`; `python registry/tools/on.py <day> urdher-2010-0329-47`).
 
 ## Decisions made by hand
 

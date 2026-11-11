@@ -10,7 +10,7 @@ Ratifikimin e ”marrëveshjes së kredisë të zhvillimit për projektin e leht
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8747` (tags `ligj-2001-8747/<day>`; `python tools/on.py <day> ligj-2001-8747`).
+Act id: `ligj-2001-8747` (tags `ligj-2001-8747/<day>`; `python registry/tools/on.py <day> ligj-2001-8747`).
 
 ## Decisions made by hand
 

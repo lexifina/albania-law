@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Fina
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-31` (tags `vendim-2024-31/<day>`; `python tools/on.py <day> vendim-2024-31`).
+Act id: `vendim-2024-31` (tags `vendim-2024-31/<day>`; `python registry/tools/on.py <day> vendim-2024-31`).
 
 ## Decisions made by hand
 

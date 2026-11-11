@@ -12,7 +12,7 @@ Pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në oper
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-98-2026` (tags `ligji-98-2026/<day>`; `python tools/on.py <day> ligji-98-2026`).
+Act id: `ligji-98-2026` (tags `ligji-98-2026/<day>`; `python registry/tools/on.py <day> ligji-98-2026`).
 
 ## Decisions made by hand
 

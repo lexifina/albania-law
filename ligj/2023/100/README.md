@@ -35,7 +35,7 @@ Llogarinë e pagesave me shërbime bazike · 1 versions, from 2024-01-03 (latest
 | Neni 23 | [neni-023.md](neni-023.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-100-2023` (tags `ligji-100-2023/<day>`; `python tools/on.py <day> ligji-100-2023`).
+Act id: `ligji-100-2023` (tags `ligji-100-2023/<day>`; `python registry/tools/on.py <day> ligji-100-2023`).
 
 ## Decisions made by hand
 

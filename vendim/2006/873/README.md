@@ -18,7 +18,7 @@ Masën e financimit, kriteret dhe procedurat e zbatimit të programeve të prakt
 | Pika 11 | [pika-011.md](pika-011.md) | 1 | 2014-04-03 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-873` (tags `vendim-2006-873/<day>`; `python tools/on.py <day> vendim-2006-873`).
+Act id: `vendim-2006-873` (tags `vendim-2006-873/<day>`; `python registry/tools/on.py <day> vendim-2006-873`).
 
 ## Decisions made by hand
 

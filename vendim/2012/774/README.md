@@ -15,7 +15,7 @@ Rregullat, kërkesat e prodhimit, të etiketimit e të paketimit për vendosjen 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-774` (tags `vendim-2012-774/<day>`; `python tools/on.py <day> vendim-2012-774`).
+Act id: `vendim-2012-774` (tags `vendim-2012-774/<day>`; `python registry/tools/on.py <day> vendim-2012-774`).
 
 ## Decisions made by hand
 

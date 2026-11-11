@@ -15,7 +15,7 @@ PËR EMËRIMIN E ANËTARËVE, KRYETARIT, ZV/KRYETARIT DHE SEKRETARIT TË KQV-së
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 
-Act id: `udhezim-2003-0913-7` (tags `udhezim-2003-0913-7/<day>`; `python tools/on.py <day> udhezim-2003-0913-7`).
+Act id: `udhezim-2003-0913-7` (tags `udhezim-2003-0913-7/<day>`; `python registry/tools/on.py <day> udhezim-2003-0913-7`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Lejimin e përdorimit të brigjeve në funksion të realizimit të projektit inv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-07-15 |
 
-Act id: `vendim-2016-544` (tags `vendim-2016-544/<day>`; `python tools/on.py <day> vendim-2016-544`).
+Act id: `vendim-2016-544` (tags `vendim-2016-544/<day>`; `python registry/tools/on.py <day> vendim-2016-544`).
 
 ## Decisions made by hand
 

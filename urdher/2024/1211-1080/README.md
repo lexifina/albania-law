@@ -11,7 +11,7 @@ Miratimin e rregullores për aksesimin në bazën e të dhënave të sistemit RU
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1211-1080` (tags `urdher-2024-1211-1080/<day>`; `python tools/on.py <day> urdher-2024-1211-1080`).
+Act id: `urdher-2024-1211-1080` (tags `urdher-2024-1211-1080/<day>`; `python registry/tools/on.py <day> urdher-2024-1211-1080`).
 
 ## Decisions made by hand
 

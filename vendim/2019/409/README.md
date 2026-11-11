@@ -10,7 +10,7 @@ Miratimin e Planit të Veprimit 2019-2021 të Strategjisë Ndërsektoriale të D
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-409` (tags `vendim-2019-409/<day>`; `python tools/on.py <day> vendim-2019-409`).
+Act id: `vendim-2019-409` (tags `vendim-2019-409/<day>`; `python registry/tools/on.py <day> vendim-2019-409`).
 
 ## Decisions made by hand
 

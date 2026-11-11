@@ -9,7 +9,7 @@ Transferimin e së drejtës së pronësisë së shoqërisë “qendra sportive�
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-86` (tags `vendim-2016-86/<day>`; `python tools/on.py <day> vendim-2016-86`).
+Act id: `vendim-2016-86` (tags `vendim-2016-86/<day>`; `python registry/tools/on.py <day> vendim-2016-86`).
 
 ## Decisions made by hand
 

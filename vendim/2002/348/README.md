@@ -5,7 +5,7 @@ Kategorizimin e pozicioneve të punës së nëpunësve civilë në aparatin e K�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-348` (tags `vendim-2002-348/<day>`; `python tools/on.py <day> vendim-2002-348`).
+Act id: `vendim-2002-348` (tags `vendim-2002-348/<day>`; `python registry/tools/on.py <day> vendim-2002-348`).
 
 ## Decisions made by hand
 

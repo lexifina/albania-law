@@ -24,7 +24,7 @@ Organizimin dhe zhvillimin e sesionit të dytë të provimeve të Maturës Shtet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0711-18` (tags `udhezim-2025-0711-18/<day>`; `python tools/on.py <day> udhezim-2025-0711-18`).
+Act id: `udhezim-2025-0711-18` (tags `udhezim-2025-0711-18/<day>`; `python registry/tools/on.py <day> udhezim-2025-0711-18`).
 
 ## Decisions made by hand
 

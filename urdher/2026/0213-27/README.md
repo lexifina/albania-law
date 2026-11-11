@@ -11,7 +11,7 @@ Caktimin e zëvendësdrejtorit të përgjithshëm të Gardës së Republikës s�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0213-27` (tags `urdher-2026-0213-27/<day>`; `python tools/on.py <day> urdher-2026-0213-27`).
+Act id: `urdher-2026-0213-27` (tags `urdher-2026-0213-27/<day>`; `python registry/tools/on.py <day> urdher-2026-0213-27`).
 
 ## Decisions made by hand
 

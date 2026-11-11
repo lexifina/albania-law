@@ -5,7 +5,7 @@ Miratimin e strukturës, të organikës dhe të strukturës e të nivelit të pa
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-785` (tags `vendim-2006-785/<day>`; `python tools/on.py <day> vendim-2006-785`).
+Act id: `vendim-2006-785` (tags `vendim-2006-785/<day>`; `python registry/tools/on.py <day> vendim-2006-785`).
 
 ## Decisions made by hand
 

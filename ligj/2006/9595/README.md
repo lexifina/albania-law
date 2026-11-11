@@ -5,7 +5,7 @@ Krijimin e Inspektoratit Qendror Teknik · 2 versions, from 2006-08-24 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2006-9595` (tags `ligj-2006-9595/<day>`; `python tools/on.py <day> ligj-2006-9595`).
+Act id: `ligj-2006-9595` (tags `ligj-2006-9595/<day>`; `python registry/tools/on.py <day> ligj-2006-9595`).
 
 ## Decisions made by hand
 

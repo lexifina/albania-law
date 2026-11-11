@@ -11,7 +11,7 @@ Miratimin e Regjistrit të Kërkesave dhe Përgjigjeve të rishikuar · 2 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1218-188` (tags `urdher-2020-1218-188/<day>`; `python tools/on.py <day> urdher-2020-1218-188`).
+Act id: `urdher-2020-1218-188` (tags `urdher-2020-1218-188/<day>`; `python registry/tools/on.py <day> urdher-2020-1218-188`).
 
 ## Decisions made by hand
 

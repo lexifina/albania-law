@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes për krijimin e komisionit të përgjithshëm të
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9093` (tags `ligj-2003-9093/<day>`; `python tools/on.py <day> ligj-2003-9093`).
+Act id: `ligj-2003-9093` (tags `ligj-2003-9093/<day>`; `python registry/tools/on.py <day> ligj-2003-9093`).
 
 ## Decisions made by hand
 

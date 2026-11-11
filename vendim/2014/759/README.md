@@ -5,7 +5,7 @@ Licencimin profesional të individëve dhe subjekteve juridike që do të ushtro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-759` (tags `vendim-2014-759/<day>`; `python tools/on.py <day> vendim-2014-759`).
+Act id: `vendim-2014-759` (tags `vendim-2014-759/<day>`; `python registry/tools/on.py <day> vendim-2014-759`).
 
 ## Decisions made by hand
 

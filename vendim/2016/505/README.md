@@ -24,7 +24,7 @@ Mënyrën e organizimit e të funksionimit të qendrës kombëtare të transfuzi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-505` (tags `vendim-2016-505/<day>`; `python tools/on.py <day> vendim-2016-505`).
+Act id: `vendim-2016-505` (tags `vendim-2016-505/<day>`; `python registry/tools/on.py <day> vendim-2016-505`).
 
 ## Decisions made by hand
 

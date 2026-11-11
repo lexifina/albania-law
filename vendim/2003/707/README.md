@@ -5,7 +5,7 @@ Riorganizimin e drejtorive arsimore të rretheve në drejtori arsimore rajonale 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-707` (tags `vendim-2003-707/<day>`; `python tools/on.py <day> vendim-2003-707`).
+Act id: `vendim-2003-707` (tags `vendim-2003-707/<day>`; `python registry/tools/on.py <day> vendim-2003-707`).
 
 ## Decisions made by hand
 

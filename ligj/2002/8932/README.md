@@ -10,7 +10,7 @@ Dërgimin e një force ushtarake shqiptare në Afganistan, në kuadër të koali
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8932` (tags `ligj-2002-8932/<day>`; `python tools/on.py <day> ligj-2002-8932`).
+Act id: `ligj-2002-8932` (tags `ligj-2002-8932/<day>`; `python registry/tools/on.py <day> ligj-2002-8932`).
 
 ## Decisions made by hand
 

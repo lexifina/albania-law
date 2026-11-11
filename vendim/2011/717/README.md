@@ -15,7 +15,7 @@ Transferimin e 100% të aksioneve të shoqërisë “HEC”, Lanabregas” sha, 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-717` (tags `vendim-2011-717/<day>`; `python tools/on.py <day> vendim-2011-717`).
+Act id: `vendim-2011-717` (tags `vendim-2011-717/<day>`; `python registry/tools/on.py <day> vendim-2011-717`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e konferencës gjyqësore kombëtare · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-77` (tags `ligj-2012-77/<day>`; `python tools/on.py <day> ligj-2012-77`).
+Act id: `ligj-2012-77` (tags `ligj-2012-77/<day>`; `python registry/tools/on.py <day> ligj-2012-77`).
 
 ## Decisions made by hand
 

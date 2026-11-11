@@ -11,7 +11,7 @@ Përcaktimin e tarifave të rregjistrimit të mjeteve lundruese · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0504-1289` (tags `udhezim-2021-0504-1289/<day>`; `python tools/on.py <day> udhezim-2021-0504-1289`).
+Act id: `udhezim-2021-0504-1289` (tags `udhezim-2021-0504-1289/<day>`; `python registry/tools/on.py <day> udhezim-2021-0504-1289`).
 
 ## Decisions made by hand
 

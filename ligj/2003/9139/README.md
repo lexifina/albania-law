@@ -18,7 +18,7 @@ Ratifikimin e ”marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 
-Act id: `ligji-9139-2003` (tags `ligji-9139-2003/<day>`; `python tools/on.py <day> ligji-9139-2003`).
+Act id: `ligji-9139-2003` (tags `ligji-9139-2003/<day>`; `python registry/tools/on.py <day> ligji-9139-2003`).
 
 ## Decisions made by hand
 

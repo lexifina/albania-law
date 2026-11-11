@@ -5,7 +5,7 @@ Krijimin, përbërjen, organizimin dhe funksionimin e komisionit kombëtar për 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-206` (tags `vendim-2016-206/<day>`; `python tools/on.py <day> vendim-2016-206`).
+Act id: `vendim-2016-206` (tags `vendim-2016-206/<day>`; `python registry/tools/on.py <day> vendim-2016-206`).
 
 ## Decisions made by hand
 

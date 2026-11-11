@@ -12,7 +12,7 @@ Transferimin, në pronësi ose në përdorim të Bashkisë Tiranë, të Njësis�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1082` (tags `vendim-2020-1082/<day>`; `python tools/on.py <day> vendim-2020-1082`).
+Act id: `vendim-2020-1082` (tags `vendim-2020-1082/<day>`; `python registry/tools/on.py <day> vendim-2020-1082`).
 
 ## Decisions made by hand
 

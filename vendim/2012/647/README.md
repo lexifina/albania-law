@@ -5,7 +5,7 @@ Dhënien në përdorim, pa shpërblim, të një sipërfaqeje prej 371.41 m2, në
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-647` (tags `vendim-2012-647/<day>`; `python tools/on.py <day> vendim-2012-647`).
+Act id: `vendim-2012-647` (tags `vendim-2012-647/<day>`; `python registry/tools/on.py <day> vendim-2012-647`).
 
 ## Decisions made by hand
 

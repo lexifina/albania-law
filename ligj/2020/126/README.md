@@ -76,7 +76,7 @@ Metrologjinë · 2 versions, from 2021-01-02 (latest in force: 2025-05-13) · <h
 | Neni 59 | [neni-059.md](neni-059.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-126` (tags `ligj-2020-126/<day>`; `python tools/on.py <day> ligj-2020-126`).
+Act id: `ligj-2020-126` (tags `ligj-2020-126/<day>`; `python registry/tools/on.py <day> ligj-2020-126`).
 
 ## Decisions made by hand
 

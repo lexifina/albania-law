@@ -21,7 +21,7 @@ Forcimin e kontrollit të shtetasve shqiptarë që kalojnë kufirin shtetëror �
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-1220-641` (tags `urdher-2019-1220-641/<day>`; `python tools/on.py <day> urdher-2019-1220-641`).
+Act id: `urdher-2019-1220-641` (tags `urdher-2019-1220-641/<day>`; `python registry/tools/on.py <day> urdher-2019-1220-641`).
 
 ## Decisions made by hand
 

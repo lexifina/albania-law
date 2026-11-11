@@ -17,7 +17,7 @@ Hapjen e programeve të studimit, të ciklit të dytë dhe master i nivelit të 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1370` (tags `vendim-2008-1370/<day>`; `python tools/on.py <day> vendim-2008-1370`).
+Act id: `vendim-2008-1370` (tags `vendim-2008-1370/<day>`; `python registry/tools/on.py <day> vendim-2008-1370`).
 
 ## Decisions made by hand
 

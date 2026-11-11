@@ -9,7 +9,7 @@ Aderimin e Republikës së Shqipërisë në Memorandumin e Mirëkuptimit për Ko
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-69-2025` (tags `ligji-69-2025/<day>`; `python tools/on.py <day> ligji-69-2025`).
+Act id: `ligji-69-2025` (tags `ligji-69-2025/<day>`; `python registry/tools/on.py <day> ligji-69-2025`).
 
 ## Decisions made by hand
 

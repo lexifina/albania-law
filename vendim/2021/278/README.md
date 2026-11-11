@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitit 2021, miratuar për Ministrinë e Turizm
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-278` (tags `vendim-2021-278/<day>`; `python tools/on.py <day> vendim-2021-278`).
+Act id: `vendim-2021-278` (tags `vendim-2021-278/<day>`; `python registry/tools/on.py <day> vendim-2021-278`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores higjieno-sanitare “Për administrimin e cilësisë së
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-797` (tags `vendim-2010-797/<day>`; `python tools/on.py <day> vendim-2010-797`).
+Act id: `vendim-2010-797` (tags `vendim-2010-797/<day>`; `python registry/tools/on.py <day> vendim-2010-797`).
 
 ## Decisions made by hand
 

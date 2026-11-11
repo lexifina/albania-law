@@ -10,7 +10,7 @@ Miratimin e rregullave për zbatimin e parimeve të etikës, të klasifikimit t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-874` (tags `vendim-2021-874/<day>`; `python tools/on.py <day> vendim-2021-874`).
+Act id: `vendim-2021-874` (tags `vendim-2021-874/<day>`; `python registry/tools/on.py <day> vendim-2021-874`).
 
 ## Decisions made by hand
 

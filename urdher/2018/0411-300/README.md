@@ -9,7 +9,7 @@ Miratimin e formularit dhe kërkesat e raportit mbi sigurinë e produktit kozmet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0411-300` (tags `urdher-2018-0411-300/<day>`; `python tools/on.py <day> urdher-2018-0411-300`).
+Act id: `urdher-2018-0411-300` (tags `urdher-2018-0411-300/<day>`; `python registry/tools/on.py <day> urdher-2018-0411-300`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e kalimit të pasurive nr. 3/411 dhe nr. 3/1116, me sipërfaqe, përka
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-812` (tags `vendim-2022-812/<day>`; `python tools/on.py <day> vendim-2022-812`).
+Act id: `vendim-2022-812` (tags `vendim-2022-812/<day>`; `python registry/tools/on.py <day> vendim-2022-812`).
 
 ## Decisions made by hand
 

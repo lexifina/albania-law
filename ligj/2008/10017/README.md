@@ -29,7 +29,7 @@ Përcaktimin e poligoneve për asgjësimin e municioneve të forcave të armatos
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-10017` (tags `ligj-2008-10017/<day>`; `python tools/on.py <day> ligj-2008-10017`).
+Act id: `ligj-2008-10017` (tags `ligj-2008-10017/<day>`; `python registry/tools/on.py <day> ligj-2008-10017`).
 
 ## Decisions made by hand
 

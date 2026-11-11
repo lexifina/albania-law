@@ -18,7 +18,7 @@ Pagesën e pjesëmarrjes në kurset e formimit profesional · 1 versions, from 2
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-162` (tags `vendim-2018-162/<day>`; `python tools/on.py <day> vendim-2018-162`).
+Act id: `vendim-2018-162` (tags `vendim-2018-162/<day>`; `python registry/tools/on.py <day> vendim-2018-162`).
 
 ## Decisions made by hand
 

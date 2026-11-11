@@ -14,7 +14,7 @@ Kompensimin financiar të pronarëve të pasurisë së paluajtshme, që preket n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-852` (tags `vendim-2021-852/<day>`; `python tools/on.py <day> vendim-2021-852`).
+Act id: `vendim-2021-852` (tags `vendim-2021-852/<day>`; `python registry/tools/on.py <day> vendim-2021-852`).
 
 ## Decisions made by hand
 

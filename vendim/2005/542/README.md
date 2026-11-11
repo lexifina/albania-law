@@ -5,7 +5,7 @@ Miratimin e statutit të shërbimit social shtetëror · 2 versions, from 2005-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-542` (tags `vendim-2005-542/<day>`; `python tools/on.py <day> vendim-2005-542`).
+Act id: `vendim-2005-542` (tags `vendim-2005-542/<day>`; `python registry/tools/on.py <day> vendim-2005-542`).
 
 ## Decisions made by hand
 

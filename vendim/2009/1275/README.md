@@ -9,7 +9,7 @@ Miratimin e marrëveshjes me shkëmbim notash, ndërmjet këshillit të ministra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1275` (tags `vendim-2009-1275/<day>`; `python tools/on.py <day> vendim-2009-1275`).
+Act id: `vendim-2009-1275` (tags `vendim-2009-1275/<day>`; `python registry/tools/on.py <day> vendim-2009-1275`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Mbi krijimin e strukturës së Qiellit të Vetëm Europian (kuadri rregullator) 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2015-10-14 |
 
-Act id: `udhezim-2010-0603-5` (tags `udhezim-2010-0603-5/<day>`; `python tools/on.py <day> udhezim-2010-0603-5`).
+Act id: `udhezim-2010-0603-5` (tags `udhezim-2010-0603-5/<day>`; `python registry/tools/on.py <day> udhezim-2010-0603-5`).
 
 ## Decisions made by hand
 

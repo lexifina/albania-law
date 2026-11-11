@@ -5,7 +5,7 @@ Regjistrimin e titujve në shoqërinë “qendra e regjistrimit të aksioneve”
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0603-309` (tags `udhezim-2014-0603-309/<day>`; `python tools/on.py <day> udhezim-2014-0603-309`).
+Act id: `udhezim-2014-0603-309` (tags `udhezim-2014-0603-309/<day>`; `python registry/tools/on.py <day> udhezim-2014-0603-309`).
 
 ## Decisions made by hand
 

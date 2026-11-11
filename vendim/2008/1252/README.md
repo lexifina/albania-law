@@ -5,7 +5,7 @@ Miratimin e rregullave të zhvillimit të tenderit publik, për dhënien e së d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1252` (tags `vendim-2008-1252/<day>`; `python tools/on.py <day> vendim-2008-1252`).
+Act id: `vendim-2008-1252` (tags `vendim-2008-1252/<day>`; `python registry/tools/on.py <day> vendim-2008-1252`).
 
 ## Decisions made by hand
 

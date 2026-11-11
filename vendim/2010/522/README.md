@@ -17,7 +17,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-522` (tags `vendim-2010-522/<day>`; `python tools/on.py <day> vendim-2010-522`).
+Act id: `vendim-2010-522` (tags `vendim-2010-522/<day>`; `python registry/tools/on.py <day> vendim-2010-522`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 337, datë 16.5.2012: Për disa ndryshime në vendimin nr. 522, datë 30.6.2010 të këshillit të ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga shpronësimi për qëllim të ndërtimit, pronësisë, shfrytëzimit, mirëmbajtjes dhe transferimit në favor të shtetit të projektit të një hidrocentrali të ri në Ashtë, në qarkun e Shkodrës”](https://qbz.gov.al/eli/vendim/2012/05/16/337)
+- [Vendimi i Këshillit të Ministrave nr. 678, datë 29.7.2015: Për disa ndryshime në vendimin nr. 522, datë 30.6.2010, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga shpronësimi për qëllim të ndërtimit, pronësisë, shfrytëzimit, mirëmbajtjes dhe transferimit në favor të shtetit, të projektit të një hidrocentrali të ri në Ashtë, në qarkun e Shkodrës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2015/07/29/678)
 
 ## Decisions made by hand
 

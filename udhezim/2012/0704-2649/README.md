@@ -16,7 +16,7 @@ Mbulimin e të dënuarve me burgim dhe të paraburgosurve nga skema e sigurimeve
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0704-2649` (tags `udhezim-2012-0704-2649/<day>`; `python tools/on.py <day> udhezim-2012-0704-2649`).
+Act id: `udhezim-2012-0704-2649` (tags `udhezim-2012-0704-2649/<day>`; `python registry/tools/on.py <day> udhezim-2012-0704-2649`).
 
 ## Decisions made by hand
 

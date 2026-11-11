@@ -5,7 +5,7 @@ Miratimin e kritereve dhe rregullave të transferimit, mënyrës së aplikimit p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-362` (tags `vendim-2011-362/<day>`; `python tools/on.py <day> vendim-2011-362`).
+Act id: `vendim-2011-362` (tags `vendim-2011-362/<day>`; `python registry/tools/on.py <day> vendim-2011-362`).
 
 ## Decisions made by hand
 

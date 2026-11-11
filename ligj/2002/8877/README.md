@@ -5,7 +5,7 @@ Krijimin e Agjencisë së Nxitjes të Investimeve të Huaja · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8877` (tags `ligj-2002-8877/<day>`; `python tools/on.py <day> ligj-2002-8877`).
+Act id: `ligj-2002-8877` (tags `ligj-2002-8877/<day>`; `python registry/tools/on.py <day> ligj-2002-8877`).
 
 ## Decisions made by hand
 

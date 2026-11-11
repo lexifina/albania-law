@@ -5,7 +5,7 @@ Procedurat e punësimit të punonjësve të administratës në OSHKSH, spitalet 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-1002-673` (tags `udhezim-2019-1002-673/<day>`; `python tools/on.py <day> udhezim-2019-1002-673`).
+Act id: `udhezim-2019-1002-673` (tags `udhezim-2019-1002-673/<day>`; `python registry/tools/on.py <day> udhezim-2019-1002-673`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Pronësinë e rrugëve shtetërore dhe kalimet e pronësisë ndërmjet enteve pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-04-19 |
 
-Act id: `vendim-2021-600` (tags `vendim-2021-600/<day>`; `python tools/on.py <day> vendim-2021-600`).
+Act id: `vendim-2021-600` (tags `vendim-2021-600/<day>`; `python registry/tools/on.py <day> vendim-2021-600`).
 
 ## Decisions made by hand
 

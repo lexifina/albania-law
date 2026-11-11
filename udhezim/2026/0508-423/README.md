@@ -18,7 +18,7 @@ Mbi procedurat për digjitalizimin e hartave kadastrale · 1 versions, from 2026
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0508-423` (tags `udhezim-2026-0508-423/<day>`; `python tools/on.py <day> udhezim-2026-0508-423`).
+Act id: `udhezim-2026-0508-423` (tags `udhezim-2026-0508-423/<day>`; `python registry/tools/on.py <day> udhezim-2026-0508-423`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Disa të drejta të punonjësve të shërbimit për çështjet e brendshme dhe a
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-776` (tags `vendim-2014-776/<day>`; `python tools/on.py <day> vendim-2014-776`).
+Act id: `vendim-2014-776` (tags `vendim-2014-776/<day>`; `python registry/tools/on.py <day> vendim-2014-776`).
 
 ## Decisions made by hand
 

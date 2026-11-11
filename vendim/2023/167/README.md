@@ -10,7 +10,7 @@ Kalimin te Bashkia Durrës të objektit arsimor, shkolla 9-vjeçare dhe kopshti 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-167` (tags `vendim-2023-167/<day>`; `python tools/on.py <day> vendim-2023-167`).
+Act id: `vendim-2023-167` (tags `vendim-2023-167/<day>`; `python registry/tools/on.py <day> vendim-2023-167`).
 
 ## Decisions made by hand
 

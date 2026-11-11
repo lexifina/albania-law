@@ -10,7 +10,7 @@ Ratifikimin e “konventës europiane “për pastrimin, depistimin, kapjen dhe 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8646` (tags `ligj-2000-8646/<day>`; `python tools/on.py <day> ligj-2000-8646`).
+Act id: `ligj-2000-8646` (tags `ligj-2000-8646/<day>`; `python registry/tools/on.py <day> ligj-2000-8646`).
 
 ## Decisions made by hand
 

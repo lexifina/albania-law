@@ -22,7 +22,7 @@ Vitin shkollor 2015 - 2016 në sistemin arsimor parauniversitar · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0817-25` (tags `udhezim-2015-0817-25/<day>`; `python tools/on.py <day> udhezim-2015-0817-25`).
+Act id: `udhezim-2015-0817-25` (tags `udhezim-2015-0817-25/<day>`; `python registry/tools/on.py <day> udhezim-2015-0817-25`).
 
 ## Decisions made by hand
 

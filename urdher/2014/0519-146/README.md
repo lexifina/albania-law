@@ -12,7 +12,7 @@ Caktimin e tarifave për paraqitjen e kërkesës dhe afishimin e shpalljes së k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0519-146` (tags `urdher-2014-0519-146/<day>`; `python tools/on.py <day> urdher-2014-0519-146`).
+Act id: `urdher-2014-0519-146` (tags `urdher-2014-0519-146/<day>`; `python registry/tools/on.py <day> urdher-2014-0519-146`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Shpërblimin e familjeve të fshatit levrushk, komuna qelëz, rrethi pukë, për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-86` (tags `vendim-2009-86/<day>`; `python tools/on.py <day> vendim-2009-86`).
+Act id: `vendim-2009-86` (tags `vendim-2009-86/<day>`; `python registry/tools/on.py <day> vendim-2009-86`).
 
 ## Decisions made by hand
 

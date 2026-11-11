@@ -10,7 +10,7 @@ Moslicencimin e shoqatës elite si agjenci e administrimit kolektiv në fushën 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0706-436` (tags `urdher-2018-0706-436/<day>`; `python tools/on.py <day> urdher-2018-0706-436`).
+Act id: `urdher-2018-0706-436` (tags `urdher-2018-0706-436/<day>`; `python registry/tools/on.py <day> urdher-2018-0706-436`).
 
 ## Decisions made by hand
 

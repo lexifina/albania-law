@@ -13,7 +13,15 @@ Kriteret dhe masën e pagesës për t’u përjashtuar nga shërbimi i detyruesh
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-69` (tags `vendim-2004-69/<day>`; `python tools/on.py <day> vendim-2004-69`).
+Act id: `vendim-2004-69` (tags `vendim-2004-69/<day>`; `python registry/tools/on.py <day> vendim-2004-69`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 870, datë 3.11.2010: Për miratimin e raportit fillestar kombëtar, në kuadër të protokollit opsional të Konventës së OKB-së “Për të drejtat e fëmijëve”, për përfshirjen e fëmijëve në konflikte të armatosura](https://qbz.gov.al/eli/vendim/2010/11/03/870)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit nr. 3 të marrëveshjes së ndihmës për objektiva zhv
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-166` (tags `ligj-2014-166/<day>`; `python tools/on.py <day> ligj-2014-166`).
+Act id: `ligj-2014-166` (tags `ligj-2014-166/<day>`; `python registry/tools/on.py <day> ligj-2014-166`).
 
 ## Decisions made by hand
 

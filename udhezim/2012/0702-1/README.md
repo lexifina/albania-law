@@ -5,7 +5,7 @@ Përcaktimin e kritereve të konkurrimit dhe procedurën e dhënies në përdori
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0702-1` (tags `udhezim-2012-0702-1/<day>`; `python tools/on.py <day> udhezim-2012-0702-1`).
+Act id: `udhezim-2012-0702-1` (tags `udhezim-2012-0702-1/<day>`; `python registry/tools/on.py <day> udhezim-2012-0702-1`).
 
 ## Decisions made by hand
 

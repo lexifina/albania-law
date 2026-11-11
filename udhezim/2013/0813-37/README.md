@@ -13,7 +13,7 @@ Kriteret dhe procedurat për përzgjedhjen e anëtarëve të këshillit vendor t
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0813-37` (tags `udhezim-2013-0813-37/<day>`; `python tools/on.py <day> udhezim-2013-0813-37`).
+Act id: `udhezim-2013-0813-37` (tags `udhezim-2013-0813-37/<day>`; `python registry/tools/on.py <day> udhezim-2013-0813-37`).
 
 ## Decisions made by hand
 

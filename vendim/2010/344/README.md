@@ -10,7 +10,7 @@ Rishpërndarje të fondeve të shpenzimeve korrente, në buxhetin e Ministrisë 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-344` (tags `vendim-2010-344/<day>`; `python tools/on.py <day> vendim-2010-344`).
+Act id: `vendim-2010-344` (tags `vendim-2010-344/<day>`; `python registry/tools/on.py <day> vendim-2010-344`).
 
 ## Decisions made by hand
 

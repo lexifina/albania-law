@@ -20,7 +20,7 @@ Përcaktimin e kritereve për ndarjen e Fondit për Zhvillimin e Rajoneve · 1 v
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-135` (tags `vendim-2010-135/<day>`; `python tools/on.py <day> vendim-2010-135`).
+Act id: `vendim-2010-135` (tags `vendim-2010-135/<day>`; `python registry/tools/on.py <day> vendim-2010-135`).
 
 ## Decisions made by hand
 

@@ -37,7 +37,7 @@ Përcaktimin e procedurave të hollësishme të regjistrimit të titujve të pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-781` (tags `vendim-2020-781/<day>`; `python tools/on.py <day> vendim-2020-781`).
+Act id: `vendim-2020-781` (tags `vendim-2020-781/<day>`; `python registry/tools/on.py <day> vendim-2020-781`).
 
 ## Decisions made by hand
 

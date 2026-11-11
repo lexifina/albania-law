@@ -24,7 +24,7 @@ Përcaktimin e rregullave të funksionimit të Këshillit Drejtues të Agjencis�
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-244` (tags `vendim-2019-244/<day>`; `python tools/on.py <day> vendim-2019-244`).
+Act id: `vendim-2019-244` (tags `vendim-2019-244/<day>`; `python registry/tools/on.py <day> vendim-2019-244`).
 
 ## Decisions made by hand
 

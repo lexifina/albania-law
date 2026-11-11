@@ -19,7 +19,7 @@ Përcaktimin e drejtimeve për miratimin e strategjive, programeve dhe planeve t
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-463` (tags `vendim-2019-463/<day>`; `python tools/on.py <day> vendim-2019-463`).
+Act id: `vendim-2019-463` (tags `vendim-2019-463/<day>`; `python registry/tools/on.py <day> vendim-2019-463`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ me fuqinë e ligjit nR.1, datë 25.5.2007 të Këshil
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9746-2007` (tags `ligji-9746-2007/<day>`; `python tools/on.py <day> ligji-9746-2007`).
+Act id: `ligji-9746-2007` (tags `ligji-9746-2007/<day>`; `python registry/tools/on.py <day> ligji-9746-2007`).
 
 ## Decisions made by hand
 

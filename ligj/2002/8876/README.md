@@ -60,7 +60,7 @@ Shëndetin riprodhues · 4 versions, from 2002-08-13 (latest in force: 2025-05-1
 | Neni 45 | [neni-045.md](neni-045.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8876` (tags `ligj-2002-8876/<day>`; `python tools/on.py <day> ligj-2002-8876`).
+Act id: `ligj-2002-8876` (tags `ligj-2002-8876/<day>`; `python registry/tools/on.py <day> ligj-2002-8876`).
 
 ## Decisions made by hand
 

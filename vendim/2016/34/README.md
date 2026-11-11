@@ -5,7 +5,7 @@ PËR DHËNIEN NË PËRDORIM, PA SHPËRBLIM, TË NJË SIPËRFAQEJE PREJ 871 m², 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-34` (tags `vendim-2016-34/<day>`; `python tools/on.py <day> vendim-2016-34`).
+Act id: `vendim-2016-34` (tags `vendim-2016-34/<day>`; `python registry/tools/on.py <day> vendim-2016-34`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Shembjen e godinës nr. 4, në qendrën kombëtare pritëse për azilkërkuesit,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-747` (tags `vendim-2016-747/<day>`; `python tools/on.py <day> vendim-2016-747`).
+Act id: `vendim-2016-747` (tags `vendim-2016-747/<day>`; `python registry/tools/on.py <day> vendim-2016-747`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Pranimin në universitetet dhe në shkollat e larta për vitin akademik 2003-200
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-526` (tags `vendim-2003-526/<day>`; `python tools/on.py <day> vendim-2003-526`).
+Act id: `vendim-2003-526` (tags `vendim-2003-526/<day>`; `python registry/tools/on.py <day> vendim-2003-526`).
 
 ## Decisions made by hand
 

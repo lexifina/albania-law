@@ -15,7 +15,7 @@ Sigurimin e ndërtimeve · 1 versions, from 2019-10-07 (latest in force: 2019-10
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-650` (tags `vendim-2019-650/<day>`; `python tools/on.py <day> vendim-2019-650`).
+Act id: `vendim-2019-650` (tags `vendim-2019-650/<day>`; `python registry/tools/on.py <day> vendim-2019-650`).
 
 ## Decisions made by hand
 

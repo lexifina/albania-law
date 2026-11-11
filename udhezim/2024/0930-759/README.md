@@ -221,7 +221,7 @@ Mënyrën e organizimit dhe veprimtarisë, menaxhimin e burimeve njerëzore, pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 1 | 2026-03-12 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-03-12 |
 
-Act id: `udhezim-2024-0930-759` (tags `udhezim-2024-0930-759/<day>`; `python tools/on.py <day> udhezim-2024-0930-759`).
+Act id: `udhezim-2024-0930-759` (tags `udhezim-2024-0930-759/<day>`; `python registry/tools/on.py <day> udhezim-2024-0930-759`).
 
 ## Decisions made by hand
 

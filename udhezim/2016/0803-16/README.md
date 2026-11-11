@@ -20,7 +20,7 @@ Vitin shkollor 2016-2017 në sistemin arsimor parauniversitar · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0803-16` (tags `udhezim-2016-0803-16/<day>`; `python tools/on.py <day> udhezim-2016-0803-16`).
+Act id: `udhezim-2016-0803-16` (tags `udhezim-2016-0803-16/<day>`; `python registry/tools/on.py <day> udhezim-2016-0803-16`).
 
 ## Decisions made by hand
 

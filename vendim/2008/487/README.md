@@ -13,7 +13,15 @@ Kriteret e përzgjedhjes së investitorëve strategjikë, të interesuar për bl
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-487` (tags `vendim-2008-487/<day>`; `python tools/on.py <day> vendim-2008-487`).
+Act id: `vendim-2008-487` (tags `vendim-2008-487/<day>`; `python registry/tools/on.py <day> vendim-2008-487`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 83-2, datë 6.6.2008: Ndreqje gabimi](https://qbz.gov.al/eli/vendim/2008/06/06/83-2)
 
 ## Decisions made by hand
 

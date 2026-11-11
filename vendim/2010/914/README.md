@@ -10,7 +10,7 @@ Pagesën e kontributeve të NATO-S për vitin 2010 · 1 versions, from 2010-12-0
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-914` (tags `vendim-2010-914/<day>`; `python tools/on.py <day> vendim-2010-914`).
+Act id: `vendim-2010-914` (tags `vendim-2010-914/<day>`; `python registry/tools/on.py <day> vendim-2010-914`).
 
 ## Decisions made by hand
 

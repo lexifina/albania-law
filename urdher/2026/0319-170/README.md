@@ -5,7 +5,7 @@ Delegimin e autoritetit/kompetencave nëpunësve të lartë civilë të Ministri
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2026-0319-170` (tags `urdher-2026-0319-170/<day>`; `python tools/on.py <day> urdher-2026-0319-170`).
+Act id: `urdher-2026-0319-170` (tags `urdher-2026-0319-170/<day>`; `python registry/tools/on.py <day> urdher-2026-0319-170`).
 
 ## Decisions made by hand
 

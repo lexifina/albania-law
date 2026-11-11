@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-691` (tags `vendim-2008-691/<day>`; `python tools/on.py <day> vendim-2008-691`).
+Act id: `vendim-2008-691` (tags `vendim-2008-691/<day>`; `python registry/tools/on.py <day> vendim-2008-691`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 834, datë 30.11.2011: Për një ndryshim në vendimin nr.691, datë 21.5.2008 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave, pyjeve dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, bashkia Përrenjas, të qarkut të Elbasanit”, dhe për disa ndryshime në vendimin nr.1642, datë 17.5.2008 të Këshillit të Ministrave “Për miratimin e listës përfundimTare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Përrenjas, të qarkut të Elbasanit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2011/11/30/834)
 
 ## Decisions made by hand
 

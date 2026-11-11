@@ -11,7 +11,7 @@ Tarifat e shërbimit për licencat e peshkimit · 1 versions, from 2008-04-11 (l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0312-3` (tags `udhezim-2008-0312-3/<day>`; `python tools/on.py <day> udhezim-2008-0312-3`).
+Act id: `udhezim-2008-0312-3` (tags `udhezim-2008-0312-3/<day>`; `python registry/tools/on.py <day> udhezim-2008-0312-3`).
 
 ## Decisions made by hand
 

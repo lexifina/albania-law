@@ -9,7 +9,7 @@ Ratifikimin e konventës së okb-së ”për të drejtat e personave me aftësi 
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-108-2012` (tags `ligji-108-2012/<day>`; `python tools/on.py <day> ligji-108-2012`).
+Act id: `ligji-108-2012` (tags `ligji-108-2012/<day>`; `python registry/tools/on.py <day> ligji-108-2012`).
 
 ## Decisions made by hand
 

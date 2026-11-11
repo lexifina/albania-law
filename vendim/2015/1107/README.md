@@ -5,7 +5,7 @@ Krijimin e bordeve rajonale të kullimit Lezhë, Durrës, Fier dhe Korçë · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1107` (tags `vendim-2015-1107/<day>`; `python tools/on.py <day> vendim-2015-1107`).
+Act id: `vendim-2015-1107` (tags `vendim-2015-1107/<day>`; `python registry/tools/on.py <day> vendim-2015-1107`).
 
 ## Decisions made by hand
 

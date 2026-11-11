@@ -5,7 +5,7 @@ Krijimin e Institutit të mjekësisë ligjore · 2 versions, from 2003-03-21 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-120` (tags `vendim-2003-120/<day>`; `python tools/on.py <day> vendim-2003-120`).
+Act id: `vendim-2003-120` (tags `vendim-2003-120/<day>`; `python registry/tools/on.py <day> vendim-2003-120`).
 
 ## Decisions made by hand
 

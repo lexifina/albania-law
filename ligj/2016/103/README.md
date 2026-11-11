@@ -72,7 +72,7 @@ Akuakulturën · 4 versions, from 2016-11-19 (latest in force: 2026-08-14) · <h
 | Neni 52 | [neni-052.md](neni-052.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-103` (tags `ligj-2016-103/<day>`; `python tools/on.py <day> ligj-2016-103`).
+Act id: `ligj-2016-103` (tags `ligj-2016-103/<day>`; `python registry/tools/on.py <day> ligj-2016-103`).
 
 ## Decisions made by hand
 

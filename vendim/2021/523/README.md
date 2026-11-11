@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Arsi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-523` (tags `vendim-2021-523/<day>`; `python tools/on.py <day> vendim-2021-523`).
+Act id: `vendim-2021-523` (tags `vendim-2021-523/<day>`; `python registry/tools/on.py <day> vendim-2021-523`).
 
 ## Decisions made by hand
 

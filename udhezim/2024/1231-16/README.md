@@ -30,7 +30,7 @@ Përgjegjësitë dhe detyrat lidhur me koordinimin e menaxhimit financiar dhe ko
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-1231-16` (tags `udhezim-2024-1231-16/<day>`; `python tools/on.py <day> udhezim-2024-1231-16`).
+Act id: `udhezim-2024-1231-16` (tags `udhezim-2024-1231-16/<day>`; `python registry/tools/on.py <day> udhezim-2024-1231-16`).
 
 ## Decisions made by hand
 

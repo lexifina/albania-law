@@ -5,7 +5,7 @@ Krijimin, administrimin dhe përdorimin e Sistemit Elektronik për Regjistrimin 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-824` (tags `vendim-2015-824/<day>`; `python tools/on.py <day> vendim-2015-824`).
+Act id: `vendim-2015-824` (tags `vendim-2015-824/<day>`; `python registry/tools/on.py <day> vendim-2015-824`).
 
 ## Decisions made by hand
 

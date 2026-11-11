@@ -17,7 +17,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurisë të paluajtshme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-117` (tags `vendim-2009-117/<day>`; `python tools/on.py <day> vendim-2009-117`).
+Act id: `vendim-2009-117` (tags `vendim-2009-117/<day>`; `python registry/tools/on.py <day> vendim-2009-117`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 912, datë 23.11.2011: Për një ndryshim në vendimin nr.117, datë 2.2.2009 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor rrëshen-kalimash”](https://qbz.gov.al/eli/vendim/2011/11/23/912)
 
 ## Decisions made by hand
 

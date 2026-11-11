@@ -19,7 +19,7 @@ Procedurën e rekrutimit të punonjësve në Agjencinë Shtetërore të Kadastr�
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0725-858` (tags `udhezim-2025-0725-858/<day>`; `python tools/on.py <day> udhezim-2025-0725-858`).
+Act id: `udhezim-2025-0725-858` (tags `udhezim-2025-0725-858/<day>`; `python registry/tools/on.py <day> udhezim-2025-0725-858`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,7 @@ Miratimin/përcaktimin e strukturës, kriteret e përzgjedhjes dhe trajnimin e p
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0923-1` (tags `udhezim-2016-0923-1/<day>`; `python tools/on.py <day> udhezim-2016-0923-1`).
+Act id: `udhezim-2016-0923-1` (tags `udhezim-2016-0923-1/<day>`; `python registry/tools/on.py <day> udhezim-2016-0923-1`).
 
 ## Decisions made by hand
 

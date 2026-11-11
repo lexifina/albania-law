@@ -20,7 +20,7 @@ Përcaktimin e rregullave për prodhimin, shpërndarjen dhe pajisjen e udhëtar�
 | Pika 12 | [pika-012.md](pika-012.md) | 1 | 2022-04-15 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-85` (tags `vendim-2017-85/<day>`; `python tools/on.py <day> vendim-2017-85`).
+Act id: `vendim-2017-85` (tags `vendim-2017-85/<day>`; `python registry/tools/on.py <day> vendim-2017-85`).
 
 ## Decisions made by hand
 

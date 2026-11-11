@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes kuadër ndërmjet Republikës së Shqipërisë, për
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-37-2015` (tags `ligji-37-2015/<day>`; `python tools/on.py <day> ligji-37-2015`).
+Act id: `ligji-37-2015` (tags `ligji-37-2015/<day>`; `python registry/tools/on.py <day> ligji-37-2015`).
 
 ## Decisions made by hand
 

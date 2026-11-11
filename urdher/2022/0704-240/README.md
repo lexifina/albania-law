@@ -19,7 +19,7 @@ Caktimin e tarifave për dhënien e autorizimit të tregtimit të barnave · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0704-240` (tags `urdher-2022-0704-240/<day>`; `python tools/on.py <day> urdher-2022-0704-240`).
+Act id: `urdher-2022-0704-240` (tags `urdher-2022-0704-240/<day>`; `python registry/tools/on.py <day> urdher-2022-0704-240`).
 
 ## Decisions made by hand
 

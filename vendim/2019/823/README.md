@@ -27,7 +27,7 @@ Procedurën e blerjes së banesave në tregun e lirë, që i shtohen fondit publ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-823` (tags `vendim-2019-823/<day>`; `python tools/on.py <day> vendim-2019-823`).
+Act id: `vendim-2019-823` (tags `vendim-2019-823/<day>`; `python registry/tools/on.py <day> vendim-2019-823`).
 
 ## Decisions made by hand
 

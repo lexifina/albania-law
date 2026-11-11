@@ -26,7 +26,7 @@ Ngritjen, përbërjen dhe funksionimin e komisionit vlerësues për plotësimin 
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0622-180` (tags `urdher-2022-0622-180/<day>`; `python tools/on.py <day> urdher-2022-0622-180`).
+Act id: `urdher-2022-0622-180` (tags `urdher-2022-0622-180/<day>`; `python registry/tools/on.py <day> urdher-2022-0622-180`).
 
 ## Decisions made by hand
 

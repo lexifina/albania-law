@@ -19,7 +19,7 @@ Përcaktimin e standardeve bazë për ruajtjen e aviacionit civil nga aktet e nd
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-821` (tags `vendim-2021-821/<day>`; `python tools/on.py <day> vendim-2021-821`).
+Act id: `vendim-2021-821` (tags `vendim-2021-821/<day>`; `python registry/tools/on.py <day> vendim-2021-821`).
 
 ## Decisions made by hand
 

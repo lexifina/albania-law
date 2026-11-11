@@ -10,7 +10,7 @@ Miratimin e strategjisë së strehimit social 2016-2025 · 1 versions, from 2016
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-405` (tags `vendim-2016-405/<day>`; `python tools/on.py <day> vendim-2016-405`).
+Act id: `vendim-2016-405` (tags `vendim-2016-405/<day>`; `python registry/tools/on.py <day> vendim-2016-405`).
 
 ## Decisions made by hand
 

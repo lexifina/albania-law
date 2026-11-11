@@ -9,7 +9,16 @@ Miratimin e listës paraprake (pjesa e parë + pjesa e dytë) të pronave të pa
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-143` (tags `vendim-2012-143/<day>`; `python tools/on.py <day> vendim-2012-143`).
+Act id: `vendim-2012-143` (tags `vendim-2012-143/<day>`; `python registry/tools/on.py <day> vendim-2012-143`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 582, datë 3.8.2016: PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË ZHVILLIMIT EKONOMIK, TURIZMIT, TREGTISË DHE SIPËRMARRJES, PËR SHOQËRINË “QENDRA SPORTIVE “KUQ E ZI””, SHA, TË SIPËRFAQES SË PËRGJITHSHME PREJ 2800 m², PËR T’U PËRDORUR PËR NDËRTIMIN E OBJEKTIT “KOMPLEKSI I RI I STADIUMIT KOMBËTAR” DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 143, DATË 18.1.2012, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E LISTËS PARAPRAKE (PJESA E PARË + PJESA E DYTË) TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIM TË BASHKISË TIRANË, TË QARKUT TË TIRANËS”](https://qbz.gov.al/eli/vendim/2016/08/03/582)
+- [Vendimi i Këshillit të Ministrave nr. 146, datë 20.2.2013: Për kalimin e pasurisë së ndodhur në zonën kadastrale nr. 8380, të Bashkisë Tiranë në përgjegjësi administrimi të Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave dhe për një ndryshim në vendimin nr. 143, datë 18.1.2012 të Këshillit të Ministrave “Për miratimin e listës paraprake (pjesa e parë+pjesa e dytë) të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Tiranë, të qarkut të Tiranës”](https://qbz.gov.al/eli/vendim/2013/02/20/146)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Modelin, përshkrimin, rregullat, procedurat dhe dhënien e medaljeve dhe certif
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-275` (tags `vendim-2016-275/<day>`; `python tools/on.py <day> vendim-2016-275`).
+Act id: `vendim-2016-275` (tags `vendim-2016-275/<day>`; `python registry/tools/on.py <day> vendim-2016-275`).
 
 ## Decisions made by hand
 

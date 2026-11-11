@@ -11,7 +11,7 @@ Miratimin e buxhetit të vitit 2018 për zyrën e regjistrimit të pasurive të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2018-09-07 |
 
-Act id: `vendim-2017-811` (tags `vendim-2017-811/<day>`; `python tools/on.py <day> vendim-2017-811`).
+Act id: `vendim-2017-811` (tags `vendim-2017-811/<day>`; `python registry/tools/on.py <day> vendim-2017-811`).
 
 ## Decisions made by hand
 

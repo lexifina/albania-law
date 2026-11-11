@@ -34,7 +34,7 @@ Urdhrin e farmacistëve në republikën e shqipërisë · 3 versions, from 2003-
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9150` (tags `ligj-2003-9150/<day>`; `python tools/on.py <day> ligj-2003-9150`).
+Act id: `ligj-2003-9150` (tags `ligj-2003-9150/<day>`; `python registry/tools/on.py <day> ligj-2003-9150`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Dhënien në përdorim të përkohshëm, nga Ministria e Mbrojtjes te Ministria 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-277` (tags `vendim-2015-277/<day>`; `python tools/on.py <day> vendim-2015-277`).
+Act id: `vendim-2015-277` (tags `vendim-2015-277/<day>`; `python registry/tools/on.py <day> vendim-2015-277`).
 
 ## Decisions made by hand
 

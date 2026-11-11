@@ -11,7 +11,7 @@ PëR KRYERJEN E PAGESAVE Në KUADëR Të MBYLLJES Së KONTRATAVE Të FINANCUARA 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-841` (tags `vendim-2010-841/<day>`; `python tools/on.py <day> vendim-2010-841`).
+Act id: `vendim-2010-841` (tags `vendim-2010-841/<day>`; `python registry/tools/on.py <day> vendim-2010-841`).
 
 ## Decisions made by hand
 

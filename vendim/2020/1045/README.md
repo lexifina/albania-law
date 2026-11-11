@@ -25,7 +25,15 @@ Mënyrën e ndërlidhjes, nivelin e aksesit dhe të bashkëveprimit të sistemit
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1045` (tags `vendim-2020-1045/<day>`; `python tools/on.py <day> vendim-2020-1045`).
+Act id: `vendim-2020-1045` (tags `vendim-2020-1045/<day>`; `python registry/tools/on.py <day> vendim-2020-1045`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Gjykatës Kushtetuese nr. 32, datë 27.10.2021: Me objekt shfuqizimin epikës 2,të nenit 8, pikës 6,të nenit 10, pikës 4 të nenit 15, shkronjave “d” dhe “dh”,të pikës 2,të nenit 26, pikës 5,të nenit 26, shkronjave “ç” dhe “d”,të nenit 27, pikës 2,të nenit 31, neneve 41-53, shkronjës “ll”,të pikës 1,të nenit 63, fjalisë “Paga e zëvendësnoterit nuk mund të jetë më e ulët se 150% e pagës minimale mujore në shkallë vendi, sipas legjislacionit në fuqi”,në pikën 2,të nenit 75, shkronjave “dh” dhe “gj”,të nenit 81, nenit 95, nenit 96, togfjalëshit “identifikuesin elektronik të aktit”në shkronjën “a”,të pikës 1,të nenit 105, si dhe të fjalisë “Çdo akt dhe veprim noterial merr nga sistemi elektronik një numër unik elektronik”në nenin 106 të ligjit nr. 110/2018,“Për noterinë”, si të papajtueshme me Kushtetutën e Republikës së Shqipërisë.Shfuqizimin e vendimit të Këshillit të Ministrave nr. 1045, datë 15.1.2020,“Për mënyrën e ndërlidhjes, nivelin e aksesit dhe të bashkëveprimit të sistemit elektronik të Dhomës Kombëtare](https://qbz.gov.al/eli/vendim/2021/10/27/32)
 
 ## Decisions made by hand
 

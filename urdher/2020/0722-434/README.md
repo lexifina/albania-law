@@ -5,7 +5,7 @@ Miratimin e përbërjes së komisioneve mjekësore të caktimit të aftësisë p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0722-434` (tags `urdher-2020-0722-434/<day>`; `python tools/on.py <day> urdher-2020-0722-434`).
+Act id: `urdher-2020-0722-434` (tags `urdher-2020-0722-434/<day>`; `python registry/tools/on.py <day> urdher-2020-0722-434`).
 
 ## Decisions made by hand
 

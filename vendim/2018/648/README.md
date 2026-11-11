@@ -21,7 +21,7 @@ Kartelat informative për shërbimet publike, që u ofrohen qytetarëve · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-648` (tags `vendim-2018-648/<day>`; `python tools/on.py <day> vendim-2018-648`).
+Act id: `vendim-2018-648` (tags `vendim-2018-648/<day>`; `python registry/tools/on.py <day> vendim-2018-648`).
 
 ## Decisions made by hand
 

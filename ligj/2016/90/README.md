@@ -50,7 +50,7 @@ Organizimin dhe funksionimin e agjencisë së auditimit të programeve të asist
 | Neni 39 | [neni-039.md](neni-039.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2025-04-19 |
 
-Act id: `ligj-2016-90` (tags `ligj-2016-90/<day>`; `python tools/on.py <day> ligj-2016-90`).
+Act id: `ligj-2016-90` (tags `ligj-2016-90/<day>`; `python registry/tools/on.py <day> ligj-2016-90`).
 
 ## Decisions made by hand
 

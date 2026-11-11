@@ -10,7 +10,7 @@ Ratifikimin e memorandUmit të mirëkuptimit, ndërmjet këshillit të ministrav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2009-2` (tags `aktnormativ-2009-2/<day>`; `python tools/on.py <day> aktnormativ-2009-2`).
+Act id: `aktnormativ-2009-2` (tags `aktnormativ-2009-2/<day>`; `python registry/tools/on.py <day> aktnormativ-2009-2`).
 
 ## Decisions made by hand
 

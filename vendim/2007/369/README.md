@@ -5,7 +5,7 @@ PËR FONDIN E VEÇANTË NË INSTITUCIONET BUXHETORE · 2 versions, from 2007-07-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-369` (tags `vendim-2007-369/<day>`; `python tools/on.py <day> vendim-2007-369`).
+Act id: `vendim-2007-369` (tags `vendim-2007-369/<day>`; `python registry/tools/on.py <day> vendim-2007-369`).
 
 ## Decisions made by hand
 

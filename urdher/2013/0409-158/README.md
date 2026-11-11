@@ -5,7 +5,7 @@ Caktimin e numrit të përgjithshëm të noterëve dhe numrit të tyre për çdo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2013-0409-158` (tags `urdher-2013-0409-158/<day>`; `python tools/on.py <day> urdher-2013-0409-158`).
+Act id: `urdher-2013-0409-158` (tags `urdher-2013-0409-158/<day>`; `python registry/tools/on.py <day> urdher-2013-0409-158`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,15 @@ Përcaktimin e kritereve dhe të procedurave për dhënien e medaljes së artë 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0408-8` (tags `udhezim-2021-0408-8/<day>`; `python tools/on.py <day> udhezim-2021-0408-8`).
+Act id: `udhezim-2021-0408-8` (tags `udhezim-2021-0408-8/<day>`; `python registry/tools/on.py <day> udhezim-2021-0408-8`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 21, datë 27.7.2022 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 60208]: Për përcaktimin e kritereve dhe procedurës për dhëninien e medaljes së artë nxënësve të shkëlqyer në vite, pas përfundimit të arsimit të mesëm të lartë](https://qbz.gov.al/eli/udhezim/2022/07/27/21)
 
 ## Decisions made by hand
 

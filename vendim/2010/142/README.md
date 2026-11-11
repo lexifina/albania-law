@@ -5,7 +5,7 @@ Hapjen e përfaqësisë diplomatike të Republikës së Shqipërisë në Bruksel
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-142` (tags `vendim-2010-142/<day>`; `python tools/on.py <day> vendim-2010-142`).
+Act id: `vendim-2010-142` (tags `vendim-2010-142/<day>`; `python registry/tools/on.py <day> vendim-2010-142`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ PËR FONDIN E EKSELENCËS PËR MBËSHTETJE FINANCIARE TË STUDENTËVE E SHKENCË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-875` (tags `vendim-2012-875/<day>`; `python tools/on.py <day> vendim-2012-875`).
+Act id: `vendim-2012-875` (tags `vendim-2012-875/<day>`; `python registry/tools/on.py <day> vendim-2012-875`).
 
 ## Decisions made by hand
 

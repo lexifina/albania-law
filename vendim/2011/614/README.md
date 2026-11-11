@@ -5,7 +5,7 @@ PËR MIRATIMIN E KRITEREVE DHE të NORMAVE të TRAJTIMIT ME UNIFORMë të USHTAR
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-614` (tags `vendim-2011-614/<day>`; `python tools/on.py <day> vendim-2011-614`).
+Act id: `vendim-2011-614` (tags `vendim-2011-614/<day>`; `python registry/tools/on.py <day> vendim-2011-614`).
 
 ## Decisions made by hand
 

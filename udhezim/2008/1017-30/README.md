@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për qarkullimin e automjeteve të huaja 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1017-30` (tags `udhezim-2008-1017-30/<day>`; `python tools/on.py <day> udhezim-2008-1017-30`).
+Act id: `udhezim-2008-1017-30` (tags `udhezim-2008-1017-30/<day>`; `python registry/tools/on.py <day> udhezim-2008-1017-30`).
 
 ## Decisions made by hand
 

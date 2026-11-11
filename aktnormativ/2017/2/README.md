@@ -18,7 +18,15 @@ Disa ndryshime në ligjin nr. 130/2016, “për buxhetin e vitit 2017” · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2017-2` (tags `aktnormativ-2017-2/<day>`; `python tools/on.py <day> aktnormativ-2017-2`).
+Act id: `aktnormativ-2017-2` (tags `aktnormativ-2017-2/<day>`; `python registry/tools/on.py <day> aktnormativ-2017-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 92/2017: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 16.8.2017, të këshillit të ministrave, “për disa ndryshime në ligjin nr. 130/2016 “për buxhetin e vitit 2017””](https://qbz.gov.al/eli/ligj/2017/09/29/92-2017)
 
 ## Decisions made by hand
 

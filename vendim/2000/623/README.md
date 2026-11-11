@@ -13,7 +13,7 @@ Rritjen e pagës bazë të administratorëve dhe të specialistëve në shoqëri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-623` (tags `vendim-2000-623/<day>`; `python tools/on.py <day> vendim-2000-623`).
+Act id: `vendim-2000-623` (tags `vendim-2000-623/<day>`; `python registry/tools/on.py <day> vendim-2000-623`).
 
 ## Decisions made by hand
 

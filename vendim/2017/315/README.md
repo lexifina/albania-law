@@ -9,7 +9,7 @@ Miratimin e shtesës së marrëveshjes, ndërmjet qeverisë së konfederatës zv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-315` (tags `vendim-2017-315/<day>`; `python tools/on.py <day> vendim-2017-315`).
+Act id: `vendim-2017-315` (tags `vendim-2017-315/<day>`; `python registry/tools/on.py <day> vendim-2017-315`).
 
 ## Decisions made by hand
 

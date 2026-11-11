@@ -5,7 +5,7 @@ Caktimin e zëvendësdrejtorit të përgjithshëm të Gardës së Republikës s�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-1217-212` (tags `urdher-2025-1217-212/<day>`; `python tools/on.py <day> urdher-2025-1217-212`).
+Act id: `urdher-2025-1217-212` (tags `urdher-2025-1217-212/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-212`).
 
 ## Decisions made by hand
 

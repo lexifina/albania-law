@@ -5,7 +5,7 @@ Tatimin mbi te ardhurat · 2 versions, from 2005-01-20 (latest in force: 2006-02
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2005-0118-5` (tags `udhezim-2005-0118-5/<day>`; `python tools/on.py <day> udhezim-2005-0118-5`).
+Act id: `udhezim-2005-0118-5` (tags `udhezim-2005-0118-5/<day>`; `python registry/tools/on.py <day> udhezim-2005-0118-5`).
 
 ## Decisions made by hand
 

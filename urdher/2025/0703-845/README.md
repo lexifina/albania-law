@@ -12,7 +12,7 @@ Miratimin e rregullores për standardet, kriteret dhe procedurat e akreditimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0703-845` (tags `urdher-2025-0703-845/<day>`; `python tools/on.py <day> urdher-2025-0703-845`).
+Act id: `urdher-2025-0703-845` (tags `urdher-2025-0703-845/<day>`; `python registry/tools/on.py <day> urdher-2025-0703-845`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Marrjen në përdorim të përkohshëm dhe vendosjen e servitutit të kalimit p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-01-18 |
 
-Act id: `vendim-2016-246` (tags `vendim-2016-246/<day>`; `python tools/on.py <day> vendim-2016-246`).
+Act id: `vendim-2016-246` (tags `vendim-2016-246/<day>`; `python registry/tools/on.py <day> vendim-2016-246`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Caktimin e pagës së drejtorit të përgjithshëm të agjensisë së trajtimit 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-421` (tags `vendim-2000-421/<day>`; `python tools/on.py <day> vendim-2000-421`).
+Act id: `vendim-2000-421` (tags `vendim-2000-421/<day>`; `python registry/tools/on.py <day> vendim-2000-421`).
 
 ## Decisions made by hand
 

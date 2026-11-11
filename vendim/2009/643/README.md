@@ -5,7 +5,7 @@ Prodhimin, shpërndarjen dhe pajisjen e udhëtarëve me bileta transporti rrugor
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-643` (tags `vendim-2009-643/<day>`; `python tools/on.py <day> vendim-2009-643`).
+Act id: `vendim-2009-643` (tags `vendim-2009-643/<day>`; `python registry/tools/on.py <day> vendim-2009-643`).
 
 ## Decisions made by hand
 

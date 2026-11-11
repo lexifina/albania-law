@@ -10,7 +10,7 @@ Ratifikimin e planit të veprimit të Programit Kombëtar 2006-2010 ndërmjet K�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9638` (tags `ligj-2006-9638/<day>`; `python tools/on.py <day> ligj-2006-9638`).
+Act id: `ligj-2006-9638` (tags `ligj-2006-9638/<day>`; `python registry/tools/on.py <day> ligj-2006-9638`).
 
 ## Decisions made by hand
 

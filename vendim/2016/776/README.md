@@ -5,7 +5,7 @@ Shpalljen e qendrës historike të fshatit bënjë dhe miratimin e rregullores p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-776` (tags `vendim-2016-776/<day>`; `python tools/on.py <day> vendim-2016-776`).
+Act id: `vendim-2016-776` (tags `vendim-2016-776/<day>`; `python registry/tools/on.py <day> vendim-2016-776`).
 
 ## Decisions made by hand
 

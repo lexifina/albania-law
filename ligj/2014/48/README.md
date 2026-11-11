@@ -25,7 +25,7 @@ Pagesat e vonuara në detyrimet kontraktore e tregtare · 3 versions, from 2021-
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-48` (tags `ligj-2014-48/<day>`; `python tools/on.py <day> ligj-2014-48`).
+Act id: `ligj-2014-48` (tags `ligj-2014-48/<day>`; `python registry/tools/on.py <day> ligj-2014-48`).
 
 ## Decisions made by hand
 

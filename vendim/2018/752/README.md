@@ -11,7 +11,7 @@ Miratimin e rregullores së organizimit, funksionimit dhe përcaktimit të masë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-04-22 |
 
-Act id: `vendim-2018-752` (tags `vendim-2018-752/<day>`; `python tools/on.py <day> vendim-2018-752`).
+Act id: `vendim-2018-752` (tags `vendim-2018-752/<day>`; `python registry/tools/on.py <day> vendim-2018-752`).
 
 ## Decisions made by hand
 

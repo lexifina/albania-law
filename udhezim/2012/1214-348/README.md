@@ -12,7 +12,7 @@ Miratimin e programeve mbikëqyrëse, çrrënjosëse dhe statusit “i lirë nga
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1214-348` (tags `udhezim-2012-1214-348/<day>`; `python tools/on.py <day> udhezim-2012-1214-348`).
+Act id: `udhezim-2012-1214-348` (tags `udhezim-2012-1214-348/<day>`; `python registry/tools/on.py <day> udhezim-2012-1214-348`).
 
 ## Decisions made by hand
 

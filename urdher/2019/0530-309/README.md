@@ -13,7 +13,7 @@ Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, Gjimn
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0530-309` (tags `urdher-2019-0530-309/<day>`; `python tools/on.py <day> urdher-2019-0530-309`).
+Act id: `urdher-2019-0530-309` (tags `urdher-2019-0530-309/<day>`; `python registry/tools/on.py <day> urdher-2019-0530-309`).
 
 ## Decisions made by hand
 

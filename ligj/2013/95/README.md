@@ -10,7 +10,7 @@ Miratimin e marrëveshjes së licencës për lotarinë kombëtare ndërmjet Mini
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2013-95` (tags `ligj-2013-95/<day>`; `python tools/on.py <day> ligj-2013-95`).
+Act id: `ligj-2013-95` (tags `ligj-2013-95/<day>`; `python registry/tools/on.py <day> ligj-2013-95`).
 
 ## Decisions made by hand
 

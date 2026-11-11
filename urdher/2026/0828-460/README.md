@@ -11,7 +11,7 @@ Miratimin e metodës, për specifikimin e shpenzimeve, për përcaktimin dhe ele
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0828-460` (tags `urdher-2026-0828-460/<day>`; `python tools/on.py <day> urdher-2026-0828-460`).
+Act id: `urdher-2026-0828-460` (tags `urdher-2026-0828-460/<day>`; `python registry/tools/on.py <day> urdher-2026-0828-460`).
 
 ## Decisions made by hand
 

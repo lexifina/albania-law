@@ -16,7 +16,7 @@ Përcaktimin e kritereve e të procedurave të kompensimit për kufizimet që i 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-176` (tags `vendim-2025-176/<day>`; `python tools/on.py <day> vendim-2025-176`).
+Act id: `vendim-2025-176` (tags `vendim-2025-176/<day>`; `python registry/tools/on.py <day> vendim-2025-176`).
 
 ## Decisions made by hand
 

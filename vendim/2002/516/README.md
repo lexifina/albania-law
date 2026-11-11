@@ -5,7 +5,7 @@ Zgjerimin e qendrës historike të bashkisë së Korçës · 2 versions, from 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-516` (tags `vendim-2002-516/<day>`; `python tools/on.py <day> vendim-2002-516`).
+Act id: `vendim-2002-516` (tags `vendim-2002-516/<day>`; `python registry/tools/on.py <day> vendim-2002-516`).
 
 ## Decisions made by hand
 

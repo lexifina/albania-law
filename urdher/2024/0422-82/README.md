@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për shërbimin e pilotimit në det” · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0422-82` (tags `urdher-2024-0422-82/<day>`; `python tools/on.py <day> urdher-2024-0422-82`).
+Act id: `urdher-2024-0422-82` (tags `urdher-2024-0422-82/<day>`; `python registry/tools/on.py <day> urdher-2024-0422-82`).
 
 ## Decisions made by hand
 

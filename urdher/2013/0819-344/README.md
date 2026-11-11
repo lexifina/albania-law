@@ -5,7 +5,7 @@ Ngritjen e Njësisë së Shërbimit Psiko-Social · 2 versions, from 2020-01-22 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2013-0819-344` (tags `urdher-2013-0819-344/<day>`; `python tools/on.py <day> urdher-2013-0819-344`).
+Act id: `urdher-2013-0819-344` (tags `urdher-2013-0819-344/<day>`; `python registry/tools/on.py <day> urdher-2013-0819-344`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së materialeve dhe të pajisjeve sportive, që do të përj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-306` (tags `vendim-2006-306/<day>`; `python tools/on.py <day> vendim-2006-306`).
+Act id: `vendim-2006-306` (tags `vendim-2006-306/<day>`; `python registry/tools/on.py <day> vendim-2006-306`).
 
 ## Decisions made by hand
 

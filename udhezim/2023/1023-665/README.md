@@ -22,7 +22,7 @@ Miratimin e kritereve dhe pranimin në listën e ekspertëve vlerësues të vler
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1023-665` (tags `udhezim-2023-1023-665/<day>`; `python tools/on.py <day> udhezim-2023-1023-665`).
+Act id: `udhezim-2023-1023-665` (tags `udhezim-2023-1023-665/<day>`; `python registry/tools/on.py <day> udhezim-2023-1023-665`).
 
 ## Decisions made by hand
 

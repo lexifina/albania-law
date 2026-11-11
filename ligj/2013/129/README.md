@@ -9,7 +9,7 @@ Ratifikimin e kontratës për zgjatjen dhe përmirësimet e kontratës së konce
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-129-2013` (tags `ligji-129-2013/<day>`; `python tools/on.py <day> ligji-129-2013`).
+Act id: `ligji-129-2013` (tags `ligji-129-2013/<day>`; `python registry/tools/on.py <day> ligji-129-2013`).
 
 ## Decisions made by hand
 

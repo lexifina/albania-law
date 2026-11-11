@@ -10,7 +10,7 @@ Miratimin e rregullores “Për nivelin minimal të trajnimit të detarëve” �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0627-134` (tags `urdher-2022-0627-134/<day>`; `python tools/on.py <day> urdher-2022-0627-134`).
+Act id: `urdher-2022-0627-134` (tags `urdher-2022-0627-134/<day>`; `python registry/tools/on.py <day> urdher-2022-0627-134`).
 
 ## Decisions made by hand
 

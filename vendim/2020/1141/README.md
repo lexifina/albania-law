@@ -5,7 +5,7 @@ Përcaktimin e kritereve dhe të procedurave të përzgjedhjes së organizatave 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-1141` (tags `vendim-2020-1141/<day>`; `python tools/on.py <day> vendim-2020-1141`).
+Act id: `vendim-2020-1141` (tags `vendim-2020-1141/<day>`; `python registry/tools/on.py <day> vendim-2020-1141`).
 
 ## Decisions made by hand
 

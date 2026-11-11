@@ -5,7 +5,7 @@ Miratimin e kodit të cilësisë së arsimit të lartë · 2 versions, from 2018
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-531` (tags `vendim-2018-531/<day>`; `python tools/on.py <day> vendim-2018-531`).
+Act id: `vendim-2018-531` (tags `vendim-2018-531/<day>`; `python registry/tools/on.py <day> vendim-2018-531`).
 
 ## Decisions made by hand
 

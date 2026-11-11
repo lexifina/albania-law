@@ -11,7 +11,7 @@ Financimin e Federatës Shqiptare të Skive për mbështetje dhe përgatitje pë
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-423` (tags `vendim-2025-423/<day>`; `python tools/on.py <day> vendim-2025-423`).
+Act id: `vendim-2025-423` (tags `vendim-2025-423/<day>`; `python registry/tools/on.py <day> vendim-2025-423`).
 
 ## Decisions made by hand
 

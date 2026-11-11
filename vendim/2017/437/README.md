@@ -16,7 +16,15 @@ Krijimin, organizimin dhe funksionimin e drejtorive të ujitjes dhe të kullimit
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-437` (tags `vendim-2017-437/<day>`; `python tools/on.py <day> vendim-2017-437`).
+Act id: `vendim-2017-437` (tags `vendim-2017-437/<day>`; `python registry/tools/on.py <day> vendim-2017-437`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 345, datë 22.5.2019: Për miratimin e Strategjisë Kombëtare të Ujitjes dhe Kullimit 2019-2031 dhe të planit të veprimit](https://qbz.gov.al/eli/vendim/2019/05/22/345)
 
 ## Decisions made by hand
 

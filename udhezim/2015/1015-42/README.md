@@ -27,7 +27,7 @@ Identifikimin e nevojave për zhvillimin profesional të punonjësve mësimorë 
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1015-42` (tags `udhezim-2015-1015-42/<day>`; `python tools/on.py <day> udhezim-2015-1015-42`).
+Act id: `udhezim-2015-1015-42` (tags `udhezim-2015-1015-42/<day>`; `python registry/tools/on.py <day> udhezim-2015-1015-42`).
 
 ## Decisions made by hand
 

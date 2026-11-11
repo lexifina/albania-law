@@ -15,7 +15,15 @@ Përcaktimin e kushteve dhe të procedurave, për rimbursimin e akcizës së lë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1158` (tags `vendim-2008-1158/<day>`; `python tools/on.py <day> vendim-2008-1158`).
+Act id: `vendim-2008-1158` (tags `vendim-2008-1158/<day>`; `python registry/tools/on.py <day> vendim-2008-1158`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 362, datë 16.5.2012: Për disa ndryshime dhe shtesa në vendimin nr. 1158, datë 13.8.2008 të këshillit të ministrave “për përcaktimin e kushteve dhe të procedurave për rimbursimin e akcizës së lëndëve djegëse, të konsumuara në serrat me ngrohje, për prodhimin e produkteve industriale e agroindustriale, të cilat përdoren për nevoja teknologjike të prodhimit”](https://qbz.gov.al/eli/vendim/2012/05/16/362)
 
 ## Decisions made by hand
 

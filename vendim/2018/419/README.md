@@ -22,7 +22,7 @@ Krijimin, mënyrën e organizimit dhe të funksionimit të operatorit të shërb
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-419` (tags `vendim-2018-419/<day>`; `python tools/on.py <day> vendim-2018-419`).
+Act id: `vendim-2018-419` (tags `vendim-2018-419/<day>`; `python registry/tools/on.py <day> vendim-2018-419`).
 
 ## Decisions made by hand
 

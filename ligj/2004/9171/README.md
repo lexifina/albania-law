@@ -5,7 +5,7 @@ Gradat dhe karrierën ushtarake në forcat e armatosura të republikës së shqi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9171` (tags `ligj-2004-9171/<day>`; `python tools/on.py <day> ligj-2004-9171`).
+Act id: `ligj-2004-9171` (tags `ligj-2004-9171/<day>`; `python registry/tools/on.py <day> ligj-2004-9171`).
 
 ## Decisions made by hand
 

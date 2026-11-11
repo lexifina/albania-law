@@ -15,7 +15,7 @@ Procedurën e hedhjes së shortit për caktimin e anëtarit të tretë dhe të k
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 90 | [neni-090.md](neni-090.md) | 0 |  |
 
-Act id: `udhezim-2009-0609-19` (tags `udhezim-2009-0609-19/<day>`; `python tools/on.py <day> udhezim-2009-0609-19`).
+Act id: `udhezim-2009-0609-19` (tags `udhezim-2009-0609-19/<day>`; `python registry/tools/on.py <day> udhezim-2009-0609-19`).
 
 ## Decisions made by hand
 

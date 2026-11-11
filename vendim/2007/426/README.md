@@ -5,7 +5,7 @@ Miratimin e kartës shqiptare të restaurimit · 2 versions, from 2007-07-29 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-426` (tags `vendim-2007-426/<day>`; `python tools/on.py <day> vendim-2007-426`).
+Act id: `vendim-2007-426` (tags `vendim-2007-426/<day>`; `python registry/tools/on.py <day> vendim-2007-426`).
 
 ## Decisions made by hand
 

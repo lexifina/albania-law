@@ -21,7 +21,7 @@ Formën e kërkesës dhe rregullat shtesë për regjistrim në regjistrin e vres
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1217-1367` (tags `urdher-2025-1217-1367/<day>`; `python tools/on.py <day> urdher-2025-1217-1367`).
+Act id: `urdher-2025-1217-1367` (tags `urdher-2025-1217-1367/<day>`; `python registry/tools/on.py <day> urdher-2025-1217-1367`).
 
 ## Decisions made by hand
 

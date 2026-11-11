@@ -13,7 +13,7 @@ Miratimin e marrëveshjes së rinovuar, ndërmjet këshillit të ministrave të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-762` (tags `vendim-2010-762/<day>`; `python tools/on.py <day> vendim-2010-762`).
+Act id: `vendim-2010-762` (tags `vendim-2010-762/<day>`; `python registry/tools/on.py <day> vendim-2010-762`).
 
 ## Decisions made by hand
 

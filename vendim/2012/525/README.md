@@ -18,7 +18,7 @@ Përcaktimin e funksioneve, të përgjegjësive e të marrëdhënieve ndërmjet 
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-525` (tags `vendim-2012-525/<day>`; `python tools/on.py <day> vendim-2012-525`).
+Act id: `vendim-2012-525` (tags `vendim-2012-525/<day>`; `python registry/tools/on.py <day> vendim-2012-525`).
 
 ## Decisions made by hand
 

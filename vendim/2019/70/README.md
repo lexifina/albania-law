@@ -10,7 +10,7 @@ Dhënien e miratimit për lidhjen e kontratës së enfiteozës, me tarifën 1 eu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-70` (tags `vendim-2019-70/<day>`; `python tools/on.py <day> vendim-2019-70`).
+Act id: `vendim-2019-70` (tags `vendim-2019-70/<day>`; `python registry/tools/on.py <day> vendim-2019-70`).
 
 ## Decisions made by hand
 

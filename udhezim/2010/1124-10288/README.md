@@ -21,7 +21,7 @@ PËR ZBATIMIN E VendimIT tË KËshillIt tË Ministrave NR.757, DATË 15.9.2010 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-1124-10288` (tags `udhezim-2010-1124-10288/<day>`; `python tools/on.py <day> udhezim-2010-1124-10288`).
+Act id: `udhezim-2010-1124-10288` (tags `udhezim-2010-1124-10288/<day>`; `python registry/tools/on.py <day> udhezim-2010-1124-10288`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Krijimin dhe mënyrën e organizimit e të funksionimit të Agjencisë Kombëtar
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-102` (tags `vendim-2015-102/<day>`; `python tools/on.py <day> vendim-2015-102`).
+Act id: `vendim-2015-102` (tags `vendim-2015-102/<day>`; `python registry/tools/on.py <day> vendim-2015-102`).
 
 ## Decisions made by hand
 

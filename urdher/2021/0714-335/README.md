@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për ndalimin e reklamimit të ushqimeve të pashënd
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0714-335` (tags `urdher-2021-0714-335/<day>`; `python tools/on.py <day> urdher-2021-0714-335`).
+Act id: `urdher-2021-0714-335` (tags `urdher-2021-0714-335/<day>`; `python registry/tools/on.py <day> urdher-2021-0714-335`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,7 @@ Ngritjen e task-forcës për evidentimin e pasurive të paluajtshme shtetërore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-137` (tags `vendim-2018-137/<day>`; `python tools/on.py <day> vendim-2018-137`).
+Act id: `vendim-2018-137` (tags `vendim-2018-137/<day>`; `python registry/tools/on.py <day> vendim-2018-137`).
 
 ## Decisions made by hand
 

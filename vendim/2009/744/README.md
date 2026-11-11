@@ -8,7 +8,7 @@ Një ndryshim në vendimin nr.255, datë 27.4.2007 të këshillit të ministrave
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-744` (tags `vendim-2009-744/<day>`; `python tools/on.py <day> vendim-2009-744`).
+Act id: `vendim-2009-744` (tags `vendim-2009-744/<day>`; `python registry/tools/on.py <day> vendim-2009-744`).
 
 ## Decisions made by hand
 

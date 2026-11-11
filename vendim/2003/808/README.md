@@ -14,7 +14,7 @@ PËR DHËNIEN E LEJEVE Të MANOVRIMIT PëRDORUESVE Të MAKINERIVE Të RëNDA Të
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2009-07-31 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-808` (tags `vendim-2003-808/<day>`; `python tools/on.py <day> vendim-2003-808`).
+Act id: `vendim-2003-808` (tags `vendim-2003-808/<day>`; `python registry/tools/on.py <day> vendim-2003-808`).
 
 ## Decisions made by hand
 

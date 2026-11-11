@@ -11,7 +11,7 @@ Miratimin e kartës së performancës së shkollës dhe udhëzuesit të saj · 1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0328-157` (tags `urdher-2022-0328-157/<day>`; `python tools/on.py <day> urdher-2022-0328-157`).
+Act id: `urdher-2022-0328-157` (tags `urdher-2022-0328-157/<day>`; `python registry/tools/on.py <day> urdher-2022-0328-157`).
 
 ## Decisions made by hand
 

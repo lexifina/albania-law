@@ -15,7 +15,7 @@ Rregulloren tip të institucioneve arsimore · 1 versions, from 2013-08-23 (late
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0802-30` (tags `udhezim-2013-0802-30/<day>`; `python tools/on.py <day> udhezim-2013-0802-30`).
+Act id: `udhezim-2013-0802-30` (tags `udhezim-2013-0802-30/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-30`).
 
 ## Decisions made by hand
 

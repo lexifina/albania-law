@@ -11,7 +11,7 @@ Delegimin e autoritetit/kompetencave nëpunësve të lartë civilë të Ministri
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0520-271` (tags `urdher-2026-0520-271/<day>`; `python tools/on.py <day> urdher-2026-0520-271`).
+Act id: `urdher-2026-0520-271` (tags `urdher-2026-0520-271/<day>`; `python registry/tools/on.py <day> urdher-2026-0520-271`).
 
 ## Decisions made by hand
 

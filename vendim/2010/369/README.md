@@ -8,7 +8,7 @@ Dhënien shtesë pensioni të posaçëm shtetëror znj.Liljana Cingu · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-369` (tags `vendim-2010-369/<day>`; `python tools/on.py <day> vendim-2010-369`).
+Act id: `vendim-2010-369` (tags `vendim-2010-369/<day>`; `python registry/tools/on.py <day> vendim-2010-369`).
 
 ## Decisions made by hand
 

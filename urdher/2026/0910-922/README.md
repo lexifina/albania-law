@@ -16,7 +16,7 @@ Përcaktimin e rregulllave për laboratorët e akredituar, qëllimin e analizës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0910-922` (tags `urdher-2026-0910-922/<day>`; `python tools/on.py <day> urdher-2026-0910-922`).
+Act id: `urdher-2026-0910-922` (tags `urdher-2026-0910-922/<day>`; `python registry/tools/on.py <day> urdher-2026-0910-922`).
 
 ## Decisions made by hand
 

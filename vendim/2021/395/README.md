@@ -23,7 +23,7 @@ Përcaktimin e metodologjisë së llogaritjes dhe kufijve të kuotës BID · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-395` (tags `vendim-2021-395/<day>`; `python tools/on.py <day> vendim-2021-395`).
+Act id: `vendim-2021-395` (tags `vendim-2021-395/<day>`; `python registry/tools/on.py <day> vendim-2021-395`).
 
 ## Decisions made by hand
 

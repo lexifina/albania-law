@@ -13,7 +13,7 @@ Trajtimin e përkohshëm financiar mujor të disa funksionarëve dhe nëpunësve
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-267` (tags `vendim-2020-267/<day>`; `python tools/on.py <day> vendim-2020-267`).
+Act id: `vendim-2020-267` (tags `vendim-2020-267/<day>`; `python registry/tools/on.py <day> vendim-2020-267`).
 
 ## Decisions made by hand
 

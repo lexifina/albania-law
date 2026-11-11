@@ -10,7 +10,7 @@ Dhënien e miratimit për një ndryshim në kontratën e qirasë me tarifën 1 E
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-589` (tags `vendim-2020-589/<day>`; `python tools/on.py <day> vendim-2020-589`).
+Act id: `vendim-2020-589` (tags `vendim-2020-589/<day>`; `python registry/tools/on.py <day> vendim-2020-589`).
 
 ## Decisions made by hand
 

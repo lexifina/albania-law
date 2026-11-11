@@ -10,7 +10,7 @@ Miratimin e rregullores së personelit të shërbimit të kontrollit të brendsh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-637` (tags `vendim-2009-637/<day>`; `python tools/on.py <day> vendim-2009-637`).
+Act id: `vendim-2009-637` (tags `vendim-2009-637/<day>`; `python registry/tools/on.py <day> vendim-2009-637`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Përcaktimin e rregullave në zbatim të kritereve, masës së financimit dhe pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1231-37` (tags `udhezim-2012-1231-37/<day>`; `python tools/on.py <day> udhezim-2012-1231-37`).
+Act id: `udhezim-2012-1231-37` (tags `udhezim-2012-1231-37/<day>`; `python registry/tools/on.py <day> udhezim-2012-1231-37`).
 
 ## Decisions made by hand
 

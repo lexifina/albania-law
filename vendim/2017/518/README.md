@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të ministrisë së drejtësisë të një
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-12-18 |
 
-Act id: `vendim-2017-518` (tags `vendim-2017-518/<day>`; `python tools/on.py <day> vendim-2017-518`).
+Act id: `vendim-2017-518` (tags `vendim-2017-518/<day>`; `python registry/tools/on.py <day> vendim-2017-518`).
 
 ## Decisions made by hand
 

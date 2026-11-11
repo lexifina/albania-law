@@ -18,7 +18,7 @@ Miratimin e procedurës dhe të kritereve për emërimin e administratorit të p
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-702` (tags `vendim-2020-702/<day>`; `python tools/on.py <day> vendim-2020-702`).
+Act id: `vendim-2020-702` (tags `vendim-2020-702/<day>`; `python registry/tools/on.py <day> vendim-2020-702`).
 
 ## Decisions made by hand
 

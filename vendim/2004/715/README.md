@@ -8,7 +8,7 @@ Miratimin e programit buxhetor afatmesëm 2005-2007 · 1 versions, from 2004-11-
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-715` (tags `vendim-2004-715/<day>`; `python tools/on.py <day> vendim-2004-715`).
+Act id: `vendim-2004-715` (tags `vendim-2004-715/<day>`; `python registry/tools/on.py <day> vendim-2004-715`).
 
 ## Decisions made by hand
 

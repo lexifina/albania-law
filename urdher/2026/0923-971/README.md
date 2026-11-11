@@ -10,7 +10,7 @@ Përcaktimin e rregullave të stabilimenteve që mbajnë kafshë tokësore dhe v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0923-971` (tags `urdher-2026-0923-971/<day>`; `python tools/on.py <day> urdher-2026-0923-971`).
+Act id: `urdher-2026-0923-971` (tags `urdher-2026-0923-971/<day>`; `python registry/tools/on.py <day> urdher-2026-0923-971`).
 
 ## Decisions made by hand
 

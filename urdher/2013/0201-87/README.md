@@ -10,7 +10,7 @@ Miratimin e rregullores “Për përcaktimin e rregullave dhe veprimeve që duhe
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0201-87` (tags `urdher-2013-0201-87/<day>`; `python tools/on.py <day> urdher-2013-0201-87`).
+Act id: `urdher-2013-0201-87` (tags `urdher-2013-0201-87/<day>`; `python registry/tools/on.py <day> urdher-2013-0201-87`).
 
 ## Decisions made by hand
 

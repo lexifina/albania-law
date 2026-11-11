@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për parandalimin dhe kontrollin e sëmundjeve të li
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1023-1072` (tags `urdher-2025-1023-1072/<day>`; `python tools/on.py <day> urdher-2025-1023-1072`).
+Act id: `urdher-2025-1023-1072` (tags `urdher-2025-1023-1072/<day>`; `python registry/tools/on.py <day> urdher-2025-1023-1072`).
 
 ## Decisions made by hand
 

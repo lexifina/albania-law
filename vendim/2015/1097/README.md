@@ -5,7 +5,7 @@ Përcaktimin e përbërjes së Këshillit Kombëtar të Territorit · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1097` (tags `vendim-2015-1097/<day>`; `python tools/on.py <day> vendim-2015-1097`).
+Act id: `vendim-2015-1097` (tags `vendim-2015-1097/<day>`; `python registry/tools/on.py <day> vendim-2015-1097`).
 
 ## Decisions made by hand
 

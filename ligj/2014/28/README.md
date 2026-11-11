@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe zyrës s�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-28` (tags `ligj-2014-28/<day>`; `python tools/on.py <day> ligj-2014-28`).
+Act id: `ligj-2014-28` (tags `ligj-2014-28/<day>`; `python registry/tools/on.py <day> ligj-2014-28`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 60/2018: Për ratifikimin e marrëveshjes ndryshuese me shkëmbim notash që përditëson marrëveshjen ndërmjet republikës së shqipërisë dhe zyrës së policisë evropiane (europol) për bashkëpunimin strategjik dhe operacional, ratifikuar me ligjin nr. 28/2014](https://qbz.gov.al/eli/ligj/2018/09/20/60)
 
 ## Decisions made by hand
 

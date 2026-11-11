@@ -18,7 +18,7 @@ Njohjen e periudhave të punësimit në institucionet shtetërore, në ish-ndër
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-7-2025` (tags `ligji-7-2025/<day>`; `python tools/on.py <day> ligji-7-2025`).
+Act id: `ligji-7-2025` (tags `ligji-7-2025/<day>`; `python registry/tools/on.py <day> ligji-7-2025`).
 
 ## Decisions made by hand
 

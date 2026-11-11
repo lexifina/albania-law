@@ -25,7 +25,7 @@ Krijimin e Qendrës së Studimeve dhe Publikimeve për Arbëreshët · 1 version
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-601` (tags `vendim-2019-601/<day>`; `python tools/on.py <day> vendim-2019-601`).
+Act id: `vendim-2019-601` (tags `vendim-2019-601/<day>`; `python registry/tools/on.py <day> vendim-2019-601`).
 
 ## Decisions made by hand
 

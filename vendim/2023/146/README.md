@@ -9,7 +9,7 @@ Miratimin e ndërtimit të centralit gjenerues të energjisë elektrike eolike d
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-146` (tags `vendim-2023-146/<day>`; `python tools/on.py <day> vendim-2023-146`).
+Act id: `vendim-2023-146` (tags `vendim-2023-146/<day>`; `python registry/tools/on.py <day> vendim-2023-146`).
 
 ## Decisions made by hand
 

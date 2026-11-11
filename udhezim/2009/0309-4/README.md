@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e komisionit të qendrës së votimit · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0309-4` (tags `udhezim-2009-0309-4/<day>`; `python tools/on.py <day> udhezim-2009-0309-4`).
+Act id: `udhezim-2009-0309-4` (tags `udhezim-2009-0309-4/<day>`; `python registry/tools/on.py <day> udhezim-2009-0309-4`).
 
 ## Decisions made by hand
 

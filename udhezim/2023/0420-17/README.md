@@ -15,7 +15,7 @@ Bashkërendimin e funksioneve inspektuese në fushën e mbrojtjes së pyjeve · 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0420-17` (tags `udhezim-2023-0420-17/<day>`; `python tools/on.py <day> udhezim-2023-0420-17`).
+Act id: `udhezim-2023-0420-17` (tags `udhezim-2023-0420-17/<day>`; `python registry/tools/on.py <day> udhezim-2023-0420-17`).
 
 ## Decisions made by hand
 

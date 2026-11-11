@@ -16,7 +16,16 @@ PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJT
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-207` (tags `vendim-2008-207/<day>`; `python tools/on.py <day> vendim-2008-207`).
+Act id: `vendim-2008-207` (tags `vendim-2008-207/<day>`; `python registry/tools/on.py <day> vendim-2008-207`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 482, datë 23.6.2010: Për disa ndryshime në vendimin nr.207, datë 21.2.2008 të Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, të cilët preken nga ndërtimi i segmentit rrugor Levan-Vlorë (seksioni i dytë)”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/06/23/482)
+- [Vendimi i Këshillit të Ministrave nr. 822, datë 29.7.2009: Për disa ndryshime në vendimin nr.207, datë 21.2.2008 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, të cilat preken nga ndërtimi i segmentit rrugor levan-vlorë (seksioni i dytë)”](https://qbz.gov.al/eli/vendim/2009/07/29/822)
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Mbi metodat e analizimit të treguesve të vajit të ullirit · 1 versions, from
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1031-21` (tags `udhezim-2023-1031-21/<day>`; `python tools/on.py <day> udhezim-2023-1031-21`).
+Act id: `udhezim-2023-1031-21` (tags `udhezim-2023-1031-21/<day>`; `python registry/tools/on.py <day> udhezim-2023-1031-21`).
 
 ## Decisions made by hand
 

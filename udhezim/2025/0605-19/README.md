@@ -13,7 +13,7 @@ Mbi listën e substancave aromatizuese në produktet ushqimore · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0605-19` (tags `udhezim-2025-0605-19/<day>`; `python tools/on.py <day> udhezim-2025-0605-19`).
+Act id: `udhezim-2025-0605-19` (tags `udhezim-2025-0605-19/<day>`; `python registry/tools/on.py <day> udhezim-2025-0605-19`).
 
 ## Decisions made by hand
 

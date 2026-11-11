@@ -5,7 +5,7 @@ Miratimin e listës së llojeve të huaja invazive dhe për përcaktimin e proce
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-241` (tags `vendim-2009-241/<day>`; `python tools/on.py <day> vendim-2009-241`).
+Act id: `vendim-2009-241` (tags `vendim-2009-241/<day>`; `python registry/tools/on.py <day> vendim-2009-241`).
 
 ## Decisions made by hand
 

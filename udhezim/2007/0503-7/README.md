@@ -18,7 +18,7 @@ Mbi kontrollin dhe monitorimin e subjekteve që mbjellin kërp industrial · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0503-7` (tags `udhezim-2007-0503-7/<day>`; `python tools/on.py <day> udhezim-2007-0503-7`).
+Act id: `udhezim-2007-0503-7` (tags `udhezim-2007-0503-7/<day>`; `python registry/tools/on.py <day> udhezim-2007-0503-7`).
 
 ## Decisions made by hand
 

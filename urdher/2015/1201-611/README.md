@@ -5,7 +5,7 @@ Procedurën dhe rregullat për dërgimin e rastit, nga Autoriteti Përgjegjës p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2015-1201-611` (tags `urdher-2015-1201-611/<day>`; `python tools/on.py <day> urdher-2015-1201-611`).
+Act id: `urdher-2015-1201-611` (tags `urdher-2015-1201-611/<day>`; `python registry/tools/on.py <day> urdher-2015-1201-611`).
 
 ## Decisions made by hand
 

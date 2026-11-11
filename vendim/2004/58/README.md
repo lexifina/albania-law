@@ -15,7 +15,7 @@ Organizimin e drejtorisë së sigurimit të informacionit të klasifikuar · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-58` (tags `vendim-2004-58/<day>`; `python tools/on.py <day> vendim-2004-58`).
+Act id: `vendim-2004-58` (tags `vendim-2004-58/<day>`; `python registry/tools/on.py <day> vendim-2004-58`).
 
 ## Decisions made by hand
 

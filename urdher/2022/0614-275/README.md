@@ -14,7 +14,15 @@ Miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0614-275` (tags `urdher-2022-0614-275/<day>`; `python tools/on.py <day> urdher-2022-0614-275`).
+Act id: `urdher-2022-0614-275` (tags `urdher-2022-0614-275/<day>`; `python registry/tools/on.py <day> urdher-2022-0614-275`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 3258, datë 7.7.2022 (Ministria e Bujqësisë dhe Zhvillimit Rural): Korrigjim gabimi material në urdhrin e ministrit të Bujqësisë dhe Zhvillimit Rural nr. 275, datë 14.6.2022, “Për miratimin e modelit të regjistrit të përdorimit të produkteve për mbrojtjen e bimëve në fermë, përmbajtjes dhe plotësimit të tij”, botuar në Fletoren Zyrtare nr. 94, datë 24.6.2022](https://qbz.gov.al/eli/urdher/2022/07/07/3258-4)
 
 ## Decisions made by hand
 

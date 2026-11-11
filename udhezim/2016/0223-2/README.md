@@ -17,7 +17,16 @@ Procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0223-2` (tags `udhezim-2016-0223-2/<day>`; `python tools/on.py <day> udhezim-2016-0223-2`).
+Act id: `udhezim-2016-0223-2` (tags `udhezim-2016-0223-2/<day>`; `python registry/tools/on.py <day> udhezim-2016-0223-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 4, datë 15.2.2017 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 12913]: Për disa shtesa dhe ndryshime në udhëzimin e ministrisë së arsimit dhe sportit nr. 2, datë 23.2.2016 “për procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së teksteve shkollore të reja”](https://qbz.gov.al/eli/udhezim/2017/02/15/4)
+- [Udhëzimi nr. 26, datë 11.12.2017 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 54815]: Për procedurat e konkurrimit, miratimit, porositjes, shpërndarjes dhe shitjes së teksteve shkollore të reja dhe/ose përmbajtjeve digjitale](https://qbz.gov.al/eli/udhezim/2017/12/11/26)
 
 ## Decisions made by hand
 

@@ -9,7 +9,15 @@ Miratimin e autorizimit të ndërtimit të centralit elektrik me erë (parqe eol
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-693` (tags `vendim-2013-693/<day>`; `python tools/on.py <day> vendim-2013-693`).
+Act id: `vendim-2013-693` (tags `vendim-2013-693/<day>`; `python registry/tools/on.py <day> vendim-2013-693`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 660, datë 8.10.2014: Për disa ndryshime dhe shtesa në vendimin nr. 693, datë 16.8.2013, të këshillit të ministrave, “për miratimin e autorizimit të ndërtimit të centralit elektrik me erë (parqe eolike) dhënë shoqërisë “power wind energy”, shpk”](https://qbz.gov.al/eli/vendim/2014/10/08/660)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ PëR USHTRIMIN E VEPRIMTARISË SË AUTORIPARIMIT, SIPAS SEKSIONEVE · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0703-8` (tags `udhezim-2007-0703-8/<day>`; `python tools/on.py <day> udhezim-2007-0703-8`).
+Act id: `udhezim-2007-0703-8` (tags `udhezim-2007-0703-8/<day>`; `python registry/tools/on.py <day> udhezim-2007-0703-8`).
 
 ## Decisions made by hand
 

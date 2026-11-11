@@ -10,7 +10,7 @@ Anëtarësimin e republikës së shqipërisë në nismën e europës qendrore (n
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9236` (tags `ligj-2004-9236/<day>`; `python tools/on.py <day> ligj-2004-9236`).
+Act id: `ligj-2004-9236` (tags `ligj-2004-9236/<day>`; `python registry/tools/on.py <day> ligj-2004-9236`).
 
 ## Decisions made by hand
 

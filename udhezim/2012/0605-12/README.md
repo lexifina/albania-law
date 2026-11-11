@@ -5,7 +5,7 @@ Mbi procedurat e kryerjes së veprimtarisë së auditimit të brendshëm në sek
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0605-12` (tags `udhezim-2012-0605-12/<day>`; `python tools/on.py <day> udhezim-2012-0605-12`).
+Act id: `udhezim-2012-0605-12` (tags `udhezim-2012-0605-12/<day>`; `python registry/tools/on.py <day> udhezim-2012-0605-12`).
 
 ## Decisions made by hand
 

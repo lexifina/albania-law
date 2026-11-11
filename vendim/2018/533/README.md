@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. spiro dede · 1 versions, from 2018-0
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-533` (tags `vendim-2018-533/<day>`; `python tools/on.py <day> vendim-2018-533`).
+Act id: `vendim-2018-533` (tags `vendim-2018-533/<day>`; `python registry/tools/on.py <day> vendim-2018-533`).
 
 ## Decisions made by hand
 

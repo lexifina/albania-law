@@ -20,7 +20,16 @@ Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-300` (tags `vendim-2022-300/<day>`; `python tools/on.py <day> vendim-2022-300`).
+Act id: `vendim-2022-300` (tags `vendim-2022-300/<day>`; `python registry/tools/on.py <day> vendim-2022-300`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 27, datë 27.6.2023 (Ministria e Infrastrukturës dhe Energjisë): Për një korrigjim në VKM nr.300, datë 11.5.2022, ”Për shpronësimin, për interes publik,të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ” Sistemim Rrugësh, Blloku tek Stadiumi ”Pogradec” ”](https://qbz.gov.al/eli/kerkese/2023/06/27/27-20)
+- [Vendimi i Këshillit të Ministrave nr. 567, datë 4.10.2023: Për një ndryshim në vendimin nr. 300, datë 11.5.2022, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zbatimi i projektit “Sistemim rrugësh, blloku te stadiumi, Pogradec”](https://qbz.gov.al/eli/vendim/2023/10/04/567)
 
 ## Decisions made by hand
 

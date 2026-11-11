@@ -30,7 +30,7 @@ Paketën e maleve · 1 versions, from 2025-05-03 (latest in force: 2025-05-03) �
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2025-20` (tags `ligj-2025-20/<day>`; `python tools/on.py <day> ligj-2025-20`).
+Act id: `ligj-2025-20` (tags `ligj-2025-20/<day>`; `python registry/tools/on.py <day> ligj-2025-20`).
 
 ## Decisions made by hand
 

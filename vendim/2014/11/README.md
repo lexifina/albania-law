@@ -8,7 +8,7 @@ Emërimin në detyrë të një anëtari të bordit mbikëqyrës të agjencisë p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-11` (tags `vendim-2014-11/<day>`; `python tools/on.py <day> vendim-2014-11`).
+Act id: `vendim-2014-11` (tags `vendim-2014-11/<day>`; `python registry/tools/on.py <day> vendim-2014-11`).
 
 ## Decisions made by hand
 

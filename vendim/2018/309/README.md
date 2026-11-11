@@ -15,7 +15,7 @@ Përcaktimin e procedurave të krijimit të shoqërisë “air albania” shpk �
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-309` (tags `vendim-2018-309/<day>`; `python tools/on.py <day> vendim-2018-309`).
+Act id: `vendim-2018-309` (tags `vendim-2018-309/<day>`; `python registry/tools/on.py <day> vendim-2018-309`).
 
 ## Decisions made by hand
 

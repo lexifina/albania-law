@@ -5,7 +5,7 @@ Gradat dhe karrierën në gardën e republikës së shqipërisë · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2005-9366` (tags `ligj-2005-9366/<day>`; `python tools/on.py <day> ligj-2005-9366`).
+Act id: `ligj-2005-9366` (tags `ligj-2005-9366/<day>`; `python registry/tools/on.py <day> ligj-2005-9366`).
 
 ## Decisions made by hand
 

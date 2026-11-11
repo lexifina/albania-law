@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit nr. TF019228, të Fondit të Besimit me Sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-749` (tags `vendim-2015-749/<day>`; `python tools/on.py <day> vendim-2015-749`).
+Act id: `vendim-2015-749` (tags `vendim-2015-749/<day>`; `python registry/tools/on.py <day> vendim-2015-749`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-51` (tags `vendim-2013-51/<day>`; `python tools/on.py <day> vendim-2013-51`).
+Act id: `vendim-2013-51` (tags `vendim-2013-51/<day>`; `python registry/tools/on.py <day> vendim-2013-51`).
 
 ## Decisions made by hand
 

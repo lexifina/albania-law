@@ -13,7 +13,7 @@ Përcaktimin e diplomave universitare të njëvlershme, të ngjashme ose të pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0215-3` (tags `udhezim-2023-0215-3/<day>`; `python tools/on.py <day> udhezim-2023-0215-3`).
+Act id: `udhezim-2023-0215-3` (tags `udhezim-2023-0215-3/<day>`; `python registry/tools/on.py <day> udhezim-2023-0215-3`).
 
 ## Decisions made by hand
 

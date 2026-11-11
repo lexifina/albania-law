@@ -5,7 +5,7 @@ Procedurat e regjistrimit, të organizimit dhe klasifikimit të veprave të të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-34` (tags `vendim-2017-34/<day>`; `python tools/on.py <day> vendim-2017-34`).
+Act id: `vendim-2017-34` (tags `vendim-2017-34/<day>`; `python registry/tools/on.py <day> vendim-2017-34`).
 
 ## Decisions made by hand
 

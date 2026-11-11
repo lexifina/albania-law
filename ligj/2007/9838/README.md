@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në protokollin kundër prodhimit të pa
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9838` (tags `ligj-2007-9838/<day>`; `python tools/on.py <day> ligj-2007-9838`).
+Act id: `ligj-2007-9838` (tags `ligj-2007-9838/<day>`; `python registry/tools/on.py <day> ligj-2007-9838`).
 
 ## Decisions made by hand
 

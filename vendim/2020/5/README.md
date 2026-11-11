@@ -38,7 +38,7 @@ Përcaktimin e rregullave dhe të procedurave për përfitimet nga programi i gr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-5` (tags `vendim-2020-5/<day>`; `python tools/on.py <day> vendim-2020-5`).
+Act id: `vendim-2020-5` (tags `vendim-2020-5/<day>`; `python registry/tools/on.py <day> vendim-2020-5`).
 
 ## Decisions made by hand
 

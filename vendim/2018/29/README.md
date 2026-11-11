@@ -8,7 +8,7 @@ Emërimin në detyrë të drejtorit të galerisë kombëtare të arteve · 1 ver
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-29` (tags `vendim-2018-29/<day>`; `python tools/on.py <day> vendim-2018-29`).
+Act id: `vendim-2018-29` (tags `vendim-2018-29/<day>`; `python registry/tools/on.py <day> vendim-2018-29`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Metodologjinë e procesit të vlerësimit të veprimtarisë kërkimore-shkencore
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-165` (tags `vendim-2018-165/<day>`; `python tools/on.py <day> vendim-2018-165`).
+Act id: `vendim-2018-165` (tags `vendim-2018-165/<day>`; `python registry/tools/on.py <day> vendim-2018-165`).
 
 ## Decisions made by hand
 

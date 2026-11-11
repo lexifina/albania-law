@@ -22,7 +22,7 @@ Përcaktimin e rregullave, të kritereve, të motivit dhe të procedurave për d
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-295` (tags `vendim-2025-295/<day>`; `python tools/on.py <day> vendim-2025-295`).
+Act id: `vendim-2025-295` (tags `vendim-2025-295/<day>`; `python registry/tools/on.py <day> vendim-2025-295`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Kalimin te Bashkia Tiranë të njësive individuale të banimit · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-364` (tags `vendim-2024-364/<day>`; `python tools/on.py <day> vendim-2024-364`).
+Act id: `vendim-2024-364` (tags `vendim-2024-364/<day>`; `python registry/tools/on.py <day> vendim-2024-364`).
 
 ## Decisions made by hand
 

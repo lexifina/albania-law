@@ -23,7 +23,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë, viti shkollor 2015-2016 · 
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0525-8` (tags `udhezim-2016-0525-8/<day>`; `python tools/on.py <day> udhezim-2016-0525-8`).
+Act id: `udhezim-2016-0525-8` (tags `udhezim-2016-0525-8/<day>`; `python registry/tools/on.py <day> udhezim-2016-0525-8`).
 
 ## Decisions made by hand
 

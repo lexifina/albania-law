@@ -9,7 +9,7 @@ PËR MIRATIMIN E RREGULLAVE TEKNIKe “PËR PËRCAKTIMIN E KËRKESAVE THELBËSOR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-889` (tags `vendim-2007-889/<day>`; `python tools/on.py <day> vendim-2007-889`).
+Act id: `vendim-2007-889` (tags `vendim-2007-889/<day>`; `python registry/tools/on.py <day> vendim-2007-889`).
 
 ## Decisions made by hand
 

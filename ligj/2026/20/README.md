@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese nr. 1 të rishikuar, me shkëmbim letrash
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-20-2026` (tags `ligji-20-2026/<day>`; `python tools/on.py <day> ligji-20-2026`).
+Act id: `ligji-20-2026` (tags `ligji-20-2026/<day>`; `python registry/tools/on.py <day> ligji-20-2026`).
 
 ## Decisions made by hand
 

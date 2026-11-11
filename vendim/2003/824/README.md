@@ -5,7 +5,7 @@ Klasifikimin, ambalazhimin, etiketimin dhe ruajtjen e substancave dhe të prepar
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-824` (tags `vendim-2003-824/<day>`; `python tools/on.py <day> vendim-2003-824`).
+Act id: `vendim-2003-824` (tags `vendim-2003-824/<day>`; `python registry/tools/on.py <day> vendim-2003-824`).
 
 ## Decisions made by hand
 

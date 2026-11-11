@@ -5,7 +5,7 @@ Krijimin e bazës së të dhënave shtetërore për sistemin e webgis për menax
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-133` (tags `vendim-2018-133/<day>`; `python tools/on.py <day> vendim-2018-133`).
+Act id: `vendim-2018-133` (tags `vendim-2018-133/<day>`; `python registry/tools/on.py <day> vendim-2018-133`).
 
 ## Decisions made by hand
 

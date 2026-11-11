@@ -9,7 +9,15 @@ Shtyrjen e afatit të kryerjes së procedurave të prokurimit për entin kombët
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-870` (tags `vendim-2012-870/<day>`; `python tools/on.py <day> vendim-2012-870`).
+Act id: `vendim-2012-870` (tags `vendim-2012-870/<day>`; `python registry/tools/on.py <day> vendim-2012-870`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 923, datë 26.12.2012: Për një ndryshim në vendimin nr. 870, datë 12.12.2012 të këshillit të ministrave “për shtyrjen e afatit të kryerjes së procedurës së prokurimit për entin kombëtar të banesave, si autoritet kontraktor”](https://qbz.gov.al/eli/vendim/2012/12/26/923)
 
 ## Decisions made by hand
 

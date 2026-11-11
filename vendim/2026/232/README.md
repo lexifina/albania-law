@@ -37,7 +37,7 @@ Miratimin e kërkesave, procedurave dhe standardeve për menaxhimin e mbetjeve s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-232` (tags `vendim-2026-232/<day>`; `python tools/on.py <day> vendim-2026-232`).
+Act id: `vendim-2026-232` (tags `vendim-2026-232/<day>`; `python registry/tools/on.py <day> vendim-2026-232`).
 
 ## Decisions made by hand
 

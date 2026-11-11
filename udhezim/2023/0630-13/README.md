@@ -21,7 +21,7 @@ Përcaktimin e kritereve dhe të procedurave të njëvlershmërisë së dëftesa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-05-09 |
 
-Act id: `udhezim-2023-0630-13` (tags `udhezim-2023-0630-13/<day>`; `python tools/on.py <day> udhezim-2023-0630-13`).
+Act id: `udhezim-2023-0630-13` (tags `udhezim-2023-0630-13/<day>`; `python registry/tools/on.py <day> udhezim-2023-0630-13`).
 
 ## Decisions made by hand
 

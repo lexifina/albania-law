@@ -13,7 +13,7 @@ Krijimin e institutit të policisë shkencore · 1 versions, from 2000-06-29 (la
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-278` (tags `vendim-2000-278/<day>`; `python tools/on.py <day> vendim-2000-278`).
+Act id: `vendim-2000-278` (tags `vendim-2000-278/<day>`; `python registry/tools/on.py <day> vendim-2000-278`).
 
 ## Decisions made by hand
 

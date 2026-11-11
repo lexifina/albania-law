@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2013-173` (tags `ligj-2013-173/<day>`; `python tools/on.py <day> ligj-2013-173`).
+Act id: `ligj-2013-173` (tags `ligj-2013-173/<day>`; `python registry/tools/on.py <day> ligj-2013-173`).
 
 ## Decisions made by hand
 

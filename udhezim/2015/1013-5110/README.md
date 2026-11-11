@@ -22,7 +22,15 @@ Dhënien me qira dhe mënyrën e administrimit të monumenteve të kulturës me 
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1013-5110` (tags `udhezim-2015-1013-5110/<day>`; `python tools/on.py <day> udhezim-2015-1013-5110`).
+Act id: `udhezim-2015-1013-5110` (tags `udhezim-2015-1013-5110/<day>`; `python registry/tools/on.py <day> udhezim-2015-1013-5110`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 5127, datë 20.10.2016 (Ministria e Ekonomisë, Kulturës dhe Inovacionit) [QBZ 16063]: “për disa shtesa dhe ndryshime në udhëzimin nr. 5110, datë 13.10.2015, “për dhënien me qira dhe mënyrën e administrimit të monumenteve të kulturës”](https://qbz.gov.al/eli/udhezim/2016/10/20/5127)
 
 ## Decisions made by hand
 

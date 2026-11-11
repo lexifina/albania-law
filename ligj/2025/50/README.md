@@ -10,7 +10,7 @@ Ratifikimin e vendimit nr. 2/2024, të Komitetit të Përbashkët të Marrëvesh
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-50-2025` (tags `ligji-50-2025/<day>`; `python tools/on.py <day> ligji-50-2025`).
+Act id: `ligji-50-2025` (tags `ligji-50-2025/<day>`; `python registry/tools/on.py <day> ligji-50-2025`).
 
 ## Decisions made by hand
 

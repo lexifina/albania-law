@@ -14,7 +14,7 @@ Dhënie amnistie · 1 versions, from 2007-02-01 (latest in force: 2007-02-01) ·
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9678` (tags `ligj-2007-9678/<day>`; `python tools/on.py <day> ligj-2007-9678`).
+Act id: `ligj-2007-9678` (tags `ligj-2007-9678/<day>`; `python registry/tools/on.py <day> ligj-2007-9678`).
 
 ## Decisions made by hand
 

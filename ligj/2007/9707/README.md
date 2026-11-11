@@ -5,7 +5,7 @@ Kontrollin shtetëror të veprimtarisë së import- eksportit të mallrave ushta
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9707` (tags `ligj-2007-9707/<day>`; `python tools/on.py <day> ligj-2007-9707`).
+Act id: `ligj-2007-9707` (tags `ligj-2007-9707/<day>`; `python registry/tools/on.py <day> ligj-2007-9707`).
 
 ## Decisions made by hand
 

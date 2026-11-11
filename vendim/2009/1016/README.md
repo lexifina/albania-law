@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitit 2009, miratuar për ministrinë e arsimi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1016` (tags `vendim-2009-1016/<day>`; `python tools/on.py <day> vendim-2009-1016`).
+Act id: `vendim-2009-1016` (tags `vendim-2009-1016/<day>`; `python registry/tools/on.py <day> vendim-2009-1016`).
 
 ## Decisions made by hand
 

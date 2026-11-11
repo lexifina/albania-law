@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitit 2006, miratuar për Ministrinë e Ekonom
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-795` (tags `vendim-2006-795/<day>`; `python tools/on.py <day> vendim-2006-795`).
+Act id: `vendim-2006-795` (tags `vendim-2006-795/<day>`; `python registry/tools/on.py <day> vendim-2006-795`).
 
 ## Decisions made by hand
 

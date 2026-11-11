@@ -5,7 +5,7 @@ Mënyrën e organizimit dhe të funksionimit të Këshillit Kombëtar të Arsimi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-406` (tags `vendim-2013-406/<day>`; `python tools/on.py <day> vendim-2013-406`).
+Act id: `vendim-2013-406` (tags `vendim-2013-406/<day>`; `python registry/tools/on.py <day> vendim-2013-406`).
 
 ## Decisions made by hand
 

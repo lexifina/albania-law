@@ -10,7 +10,7 @@ Miratimin e standardeve dhe të kushteve teknike të projektimit dhe të zbatimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2007-01-19 |
 
-Act id: `vendim-2002-646` (tags `vendim-2002-646/<day>`; `python tools/on.py <day> vendim-2002-646`).
+Act id: `vendim-2002-646` (tags `vendim-2002-646/<day>`; `python registry/tools/on.py <day> vendim-2002-646`).
 
 ## Decisions made by hand
 

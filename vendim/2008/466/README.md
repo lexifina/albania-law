@@ -15,7 +15,7 @@ Licencimin e institucionit privat të arsimit të lartë “issat · 1 versions,
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-466` (tags `vendim-2008-466/<day>`; `python tools/on.py <day> vendim-2008-466`).
+Act id: `vendim-2008-466` (tags `vendim-2008-466/<day>`; `python registry/tools/on.py <day> vendim-2008-466`).
 
 ## Decisions made by hand
 

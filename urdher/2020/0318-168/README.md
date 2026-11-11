@@ -13,7 +13,7 @@ Kufizimin e lëvizjes me automjetet private ose shtetërore të administratës p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0318-168` (tags `urdher-2020-0318-168/<day>`; `python tools/on.py <day> urdher-2020-0318-168`).
+Act id: `urdher-2020-0318-168` (tags `urdher-2020-0318-168/<day>`; `python registry/tools/on.py <day> urdher-2020-0318-168`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,15 @@ Emërtimet e profesioneve e të punëve, si pasojë e ndryshimeve të teknologji
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-447` (tags `vendim-2020-447/<day>`; `python tools/on.py <day> vendim-2020-447`).
+Act id: `vendim-2020-447` (tags `vendim-2020-447/<day>`; `python registry/tools/on.py <day> vendim-2020-447`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 91, datë 9.2.2022: Për Miratimin e Planit Kombëtar për Integrimin Evropian 2022-2024](https://qbz.gov.al/eli/vendim/2022/02/09/91)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e manualit të hartimit dhe paraqitjes së materialeve grafike · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2006-1030-8` (tags `urdher-2006-1030-8/<day>`; `python tools/on.py <day> urdher-2006-1030-8`).
+Act id: `urdher-2006-1030-8` (tags `urdher-2006-1030-8/<day>`; `python registry/tools/on.py <day> urdher-2006-1030-8`).
 
 ## Decisions made by hand
 

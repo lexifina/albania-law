@@ -14,7 +14,7 @@ Shpërndarjen e kuotave të pranimit për një program të dytë studimi dhe të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2010-1011-460` (tags `urdher-2010-1011-460/<day>`; `python tools/on.py <day> urdher-2010-1011-460`).
+Act id: `urdher-2010-1011-460` (tags `urdher-2010-1011-460/<day>`; `python registry/tools/on.py <day> urdher-2010-1011-460`).
 
 ## Decisions made by hand
 

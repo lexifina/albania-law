@@ -16,7 +16,7 @@ Organizimin dhe funksionimin e Agjencisë së Menaxhimit të Garancive dhe Kredi
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-723` (tags `vendim-2023-723/<day>`; `python tools/on.py <day> vendim-2023-723`).
+Act id: `vendim-2023-723` (tags `vendim-2023-723/<day>`; `python registry/tools/on.py <day> vendim-2023-723`).
 
 ## Decisions made by hand
 

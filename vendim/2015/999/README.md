@@ -16,7 +16,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-999` (tags `vendim-2015-999/<day>`; `python tools/on.py <day> vendim-2015-999`).
+Act id: `vendim-2015-999` (tags `vendim-2015-999/<day>`; `python registry/tools/on.py <day> vendim-2015-999`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 573, datë 3.8.2016: Për disa shtesa dhe ndryshime në vendimin nr. 999, datë 9.12.2015, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “rehabilitimi i shëtitores kryesore anës detit, himarë”](https://qbz.gov.al/eli/vendim/2016/08/03/573)
 
 ## Decisions made by hand
 

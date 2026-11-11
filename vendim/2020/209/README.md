@@ -5,7 +5,7 @@ Ngritjen dhe funksionimin e njësisë speciale antikorrupsion dhe antievazion ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-209` (tags `vendim-2020-209/<day>`; `python tools/on.py <day> vendim-2020-209`).
+Act id: `vendim-2020-209` (tags `vendim-2020-209/<day>`; `python registry/tools/on.py <day> vendim-2020-209`).
 
 ## Decisions made by hand
 

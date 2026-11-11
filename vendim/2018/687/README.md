@@ -5,7 +5,7 @@ Kriteret, mënyrën e shpërblimit dhe përfitimin e trajtimit për përgatitjen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-687` (tags `vendim-2018-687/<day>`; `python tools/on.py <day> vendim-2018-687`).
+Act id: `vendim-2018-687` (tags `vendim-2018-687/<day>`; `python registry/tools/on.py <day> vendim-2018-687`).
 
 ## Decisions made by hand
 

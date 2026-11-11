@@ -36,7 +36,7 @@ Njoftimin dhe konsultimin publik · 1 versions, from 2015-05-24 (latest in force
 | Neni 23 | [neni-023.md](neni-023.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-146-2014` (tags `ligji-146-2014/<day>`; `python tools/on.py <day> ligji-146-2014`).
+Act id: `ligji-146-2014` (tags `ligji-146-2014/<day>`; `python registry/tools/on.py <day> ligji-146-2014`).
 
 ## Decisions made by hand
 

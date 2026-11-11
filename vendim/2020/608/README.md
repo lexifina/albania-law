@@ -21,7 +21,7 @@ Procedurat, kriteret dhe rregullat për zbatimin e programit të nxitjes së pun
 | Pika 13 | [pika-013.md](pika-013.md) | 2 | 2021-10-07 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-608` (tags `vendim-2020-608/<day>`; `python tools/on.py <day> vendim-2020-608`).
+Act id: `vendim-2020-608` (tags `vendim-2020-608/<day>`; `python registry/tools/on.py <day> vendim-2020-608`).
 
 ## Decisions made by hand
 

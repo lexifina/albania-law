@@ -41,7 +41,7 @@ Tregtinë elektronike · 2 versions, from 2009-06-27 (latest in force: 2013-05-3
 | Neni 25/1 | [neni-025-01.md](neni-025-01.md) | 1 | 2013-05-30 |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10128` (tags `ligj-2009-10128/<day>`; `python tools/on.py <day> ligj-2009-10128`).
+Act id: `ligj-2009-10128` (tags `ligj-2009-10128/<day>`; `python registry/tools/on.py <day> ligj-2009-10128`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Një trajtim të veçantë të punonjësve që kanë punuar në miniera në nën
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8685` (tags `ligj-2000-8685/<day>`; `python tools/on.py <day> ligj-2000-8685`).
+Act id: `ligj-2000-8685` (tags `ligj-2000-8685/<day>`; `python registry/tools/on.py <day> ligj-2000-8685`).
 
 ## Decisions made by hand
 

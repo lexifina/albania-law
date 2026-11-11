@@ -10,7 +10,7 @@ Përcaktimin e madhësisë së paketës së aksioneve të kapitalit të shoqëri
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-416` (tags `vendim-2004-416/<day>`; `python tools/on.py <day> vendim-2004-416`).
+Act id: `vendim-2004-416` (tags `vendim-2004-416/<day>`; `python registry/tools/on.py <day> vendim-2004-416`).
 
 ## Decisions made by hand
 

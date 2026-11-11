@@ -12,7 +12,7 @@ Detajimin e fondit të investimeve për funksionin e ujitjes e të kullimit sipa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-10-25 |
 
-Act id: `vendim-2016-90` (tags `vendim-2016-90/<day>`; `python tools/on.py <day> vendim-2016-90`).
+Act id: `vendim-2016-90` (tags `vendim-2016-90/<day>`; `python registry/tools/on.py <day> vendim-2016-90`).
 
 ## Decisions made by hand
 

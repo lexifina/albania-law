@@ -14,7 +14,7 @@ Ngritjen dhe përbërjen e Komitetit Sektorial të Bujqësisë · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0130-81` (tags `urdher-2026-0130-81/<day>`; `python tools/on.py <day> urdher-2026-0130-81`).
+Act id: `urdher-2026-0130-81` (tags `urdher-2026-0130-81/<day>`; `python registry/tools/on.py <day> urdher-2026-0130-81`).
 
 ## Decisions made by hand
 

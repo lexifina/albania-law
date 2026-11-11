@@ -14,7 +14,15 @@ Autorizimin e kurum international, sha për importin e mbretjeve metalike të he
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1078` (tags `vendim-2010-1078/<day>`; `python tools/on.py <day> vendim-2010-1078`).
+Act id: `vendim-2010-1078` (tags `vendim-2010-1078/<day>`; `python registry/tools/on.py <day> vendim-2010-1078`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 187, datë 9.3.2011: Për disa ndryshime dhe shtesa në vendimin nr.1078, datë 29.12.2010 të Këshillit të Ministrave “Për autorizimin e importit të mbetjeve metalike të hekurit dhe çelikut, për qëllime riciklimi, nga shoqëria Kurum International sh.a.”](https://qbz.gov.al/eli/vendim/2011/03/09/187)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pilotimin e shpërndarjes së fondeve të ndihmës ekonomike, të kushtëzuar me
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-758` (tags `vendim-2003-758/<day>`; `python tools/on.py <day> vendim-2003-758`).
+Act id: `vendim-2003-758` (tags `vendim-2003-758/<day>`; `python registry/tools/on.py <day> vendim-2003-758`).
 
 ## Decisions made by hand
 

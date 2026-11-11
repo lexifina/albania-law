@@ -14,7 +14,7 @@ Përcaktimin e përbërjes së Këshillit Kombëtar të Territorit · 3 versions
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2024-12-27 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-519` (tags `vendim-2017-519/<day>`; `python tools/on.py <day> vendim-2017-519`).
+Act id: `vendim-2017-519` (tags `vendim-2017-519/<day>`; `python registry/tools/on.py <day> vendim-2017-519`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin e bazës së të dhënave shtetërore të sistemit të provimit të sht
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-741` (tags `vendim-2021-741/<day>`; `python tools/on.py <day> vendim-2021-741`).
+Act id: `vendim-2021-741` (tags `vendim-2021-741/<day>`; `python registry/tools/on.py <day> vendim-2021-741`).
 
 ## Decisions made by hand
 

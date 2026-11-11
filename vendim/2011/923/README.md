@@ -19,7 +19,7 @@ Përbërjen, funksionimin e detyrat e komisionit të vlerësimit dhe regjistrimi
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-923` (tags `vendim-2011-923/<day>`; `python tools/on.py <day> vendim-2011-923`).
+Act id: `vendim-2011-923` (tags `vendim-2011-923/<day>`; `python registry/tools/on.py <day> vendim-2011-923`).
 
 ## Decisions made by hand
 

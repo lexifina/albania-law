@@ -9,7 +9,7 @@ Mënyrën e financimit të cilësisë sportive · 1 versions, from 2001-12-28 (l
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-667` (tags `vendim-2001-667/<day>`; `python tools/on.py <day> vendim-2001-667`).
+Act id: `vendim-2001-667` (tags `vendim-2001-667/<day>`; `python registry/tools/on.py <day> vendim-2001-667`).
 
 ## Decisions made by hand
 

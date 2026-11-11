@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së tregtisë së lirë ndërmjet republikës së
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9733-2007` (tags `ligji-9733-2007/<day>`; `python tools/on.py <day> ligji-9733-2007`).
+Act id: `ligji-9733-2007` (tags `ligji-9733-2007/<day>`; `python registry/tools/on.py <day> ligji-9733-2007`).
 
 ## Decisions made by hand
 

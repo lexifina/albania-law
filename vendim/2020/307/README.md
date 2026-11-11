@@ -12,7 +12,7 @@ Përdorimin e fondit të ridërtimit për financimin e rikonstruksionit dhe të 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-307` (tags `vendim-2020-307/<day>`; `python tools/on.py <day> vendim-2020-307`).
+Act id: `vendim-2020-307` (tags `vendim-2020-307/<day>`; `python registry/tools/on.py <day> vendim-2020-307`).
 
 ## Decisions made by hand
 

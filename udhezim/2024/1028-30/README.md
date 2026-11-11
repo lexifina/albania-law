@@ -17,7 +17,7 @@ Mbi kërkesat specifike dhe frekuencat minimale uniforme të kontrolleve zyrtare
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1028-30` (tags `udhezim-2024-1028-30/<day>`; `python tools/on.py <day> udhezim-2024-1028-30`).
+Act id: `udhezim-2024-1028-30` (tags `udhezim-2024-1028-30/<day>`; `python registry/tools/on.py <day> udhezim-2024-1028-30`).
 
 ## Decisions made by hand
 

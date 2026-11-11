@@ -9,7 +9,7 @@ Miratimin e planit ”Administrimi i zonës bregdetare” · 1 versions, from 20
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-364` (tags `vendim-2002-364/<day>`; `python tools/on.py <day> vendim-2002-364`).
+Act id: `vendim-2002-364` (tags `vendim-2002-364/<day>`; `python registry/tools/on.py <day> vendim-2002-364`).
 
 ## Decisions made by hand
 

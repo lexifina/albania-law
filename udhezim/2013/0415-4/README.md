@@ -5,7 +5,7 @@ Dokumentacionin e aplikimit për leje mjedisi të tipit A, B dhe C në Qendrën 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0415-4` (tags `udhezim-2013-0415-4/<day>`; `python tools/on.py <day> udhezim-2013-0415-4`).
+Act id: `udhezim-2013-0415-4` (tags `udhezim-2013-0415-4/<day>`; `python registry/tools/on.py <day> udhezim-2013-0415-4`).
 
 ## Decisions made by hand
 

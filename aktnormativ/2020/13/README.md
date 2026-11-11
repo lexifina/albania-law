@@ -5,7 +5,7 @@ Marrjen e masave të veçanta në fushën e veprimtarisë së shërbimit përmba
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `aktnormativ-2020-13` (tags `aktnormativ-2020-13/<day>`; `python tools/on.py <day> aktnormativ-2020-13`).
+Act id: `aktnormativ-2020-13` (tags `aktnormativ-2020-13/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-13`).
 
 ## Decisions made by hand
 

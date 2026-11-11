@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të dokumentacionit dhe të procedurës së shërbimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-89` (tags `vendim-2012-89/<day>`; `python tools/on.py <day> vendim-2012-89`).
+Act id: `vendim-2012-89` (tags `vendim-2012-89/<day>`; `python registry/tools/on.py <day> vendim-2012-89`).
 
 ## Decisions made by hand
 

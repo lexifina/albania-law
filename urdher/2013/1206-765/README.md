@@ -18,7 +18,7 @@ Rregullat e organizimit dhe funksionimit të komiteteve ad hoc · 1 versions, fr
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-1206-765` (tags `urdher-2013-1206-765/<day>`; `python tools/on.py <day> urdher-2013-1206-765`).
+Act id: `urdher-2013-1206-765` (tags `urdher-2013-1206-765/<day>`; `python registry/tools/on.py <day> urdher-2013-1206-765`).
 
 ## Decisions made by hand
 

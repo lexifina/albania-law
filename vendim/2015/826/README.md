@@ -5,7 +5,7 @@ Përcaktimin e procedurave, kritereve dhe afateve për ndjekjen e programeve të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-826` (tags `vendim-2015-826/<day>`; `python tools/on.py <day> vendim-2015-826`).
+Act id: `vendim-2015-826` (tags `vendim-2015-826/<day>`; `python registry/tools/on.py <day> vendim-2015-826`).
 
 ## Decisions made by hand
 

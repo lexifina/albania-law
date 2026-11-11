@@ -5,7 +5,7 @@ Procedurën e konvertimit të licencës kombëtare të personelit të mirëmbajt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-0329-7` (tags `udhezim-2011-0329-7/<day>`; `python tools/on.py <day> udhezim-2011-0329-7`).
+Act id: `udhezim-2011-0329-7` (tags `udhezim-2011-0329-7/<day>`; `python registry/tools/on.py <day> udhezim-2011-0329-7`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kushteve dhe të procedurave për përmirësimin e përditësimin
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-245` (tags `vendim-2014-245/<day>`; `python tools/on.py <day> vendim-2014-245`).
+Act id: `vendim-2014-245` (tags `vendim-2014-245/<day>`; `python registry/tools/on.py <day> vendim-2014-245`).
 
 ## Decisions made by hand
 

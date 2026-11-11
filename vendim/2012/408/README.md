@@ -20,7 +20,15 @@ Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, p
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-408` (tags `vendim-2012-408/<day>`; `python tools/on.py <day> vendim-2012-408`).
+Act id: `vendim-2012-408` (tags `vendim-2012-408/<day>`; `python registry/tools/on.py <day> vendim-2012-408`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 639, datë 31.7.2013: Për disa ndryshime në vendimin nr. 408, datë 27.6.2012 të Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor bulevardi “Bajram Curri” deri në rrugën “Ali Demi””](https://qbz.gov.al/eli/vendim/2013/07/31/639)
 
 ## Decisions made by hand
 

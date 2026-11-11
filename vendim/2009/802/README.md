@@ -15,7 +15,7 @@ Hapjen e programit të përbashkët rajonal të studimit “master në “eu bus
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-802` (tags `vendim-2009-802/<day>`; `python tools/on.py <day> vendim-2009-802`).
+Act id: `vendim-2009-802` (tags `vendim-2009-802/<day>`; `python registry/tools/on.py <day> vendim-2009-802`).
 
 ## Decisions made by hand
 

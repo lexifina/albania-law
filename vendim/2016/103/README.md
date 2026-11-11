@@ -29,7 +29,7 @@ Miratimin e planit të mobilizimit të përgjithshëm ose të pjesshëm të buri
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-103` (tags `vendim-2016-103/<day>`; `python tools/on.py <day> vendim-2016-103`).
+Act id: `vendim-2016-103` (tags `vendim-2016-103/<day>`; `python registry/tools/on.py <day> vendim-2016-103`).
 
 ## Decisions made by hand
 

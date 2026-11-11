@@ -11,7 +11,7 @@ Miratimin e metodologjisë së rregullimit të tarifave të organizmave me fuqi 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2004-04-08 |
 
-Act id: `vendim-2003-582` (tags `vendim-2003-582/<day>`; `python tools/on.py <day> vendim-2003-582`).
+Act id: `vendim-2003-582` (tags `vendim-2003-582/<day>`; `python registry/tools/on.py <day> vendim-2003-582`).
 
 ## Decisions made by hand
 

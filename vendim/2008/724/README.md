@@ -15,7 +15,7 @@ Organizimin dhe funksionimin e agjencisë së shërbimit arkeologjik · 1 versio
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-724` (tags `vendim-2008-724/<day>`; `python tools/on.py <day> vendim-2008-724`).
+Act id: `vendim-2008-724` (tags `vendim-2008-724/<day>`; `python registry/tools/on.py <day> vendim-2008-724`).
 
 ## Decisions made by hand
 

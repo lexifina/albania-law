@@ -31,7 +31,7 @@ Masat shtrënguese ndërkombëtare në Republikën e Shqipërisë · 2 versions,
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-72` (tags `ligj-2019-72/<day>`; `python tools/on.py <day> ligj-2019-72`).
+Act id: `ligj-2019-72` (tags `ligj-2019-72/<day>`; `python registry/tools/on.py <day> ligj-2019-72`).
 
 ## Decisions made by hand
 

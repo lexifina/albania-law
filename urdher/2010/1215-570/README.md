@@ -13,7 +13,7 @@ Shpërndarjen e kuotave të pranimit për transferim studimesh, në ciklin e par
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2010-1215-570` (tags `urdher-2010-1215-570/<day>`; `python tools/on.py <day> urdher-2010-1215-570`).
+Act id: `urdher-2010-1215-570` (tags `urdher-2010-1215-570/<day>`; `python registry/tools/on.py <day> urdher-2010-1215-570`).
 
 ## Decisions made by hand
 

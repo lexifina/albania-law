@@ -8,7 +8,7 @@ Propozimin e kuvendit të republikës së shqipërisë të tre anëtarëve për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-711` (tags `vendim-2018-711/<day>`; `python tools/on.py <day> vendim-2018-711`).
+Act id: `vendim-2018-711` (tags `vendim-2018-711/<day>`; `python registry/tools/on.py <day> vendim-2018-711`).
 
 ## Decisions made by hand
 

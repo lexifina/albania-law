@@ -15,7 +15,7 @@ Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-541` (tags `vendim-2005-541/<day>`; `python tools/on.py <day> vendim-2005-541`).
+Act id: `vendim-2005-541` (tags `vendim-2005-541/<day>`; `python registry/tools/on.py <day> vendim-2005-541`).
 
 ## Decisions made by hand
 

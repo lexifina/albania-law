@@ -33,7 +33,7 @@ Aderimin e republikës së shqipërisë në “konventën për tregtinë ndërko
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 
-Act id: `ligji-9021-2003` (tags `ligji-9021-2003/<day>`; `python tools/on.py <day> ligji-9021-2003`).
+Act id: `ligji-9021-2003` (tags `ligji-9021-2003/<day>`; `python registry/tools/on.py <day> ligji-9021-2003`).
 
 ## Decisions made by hand
 

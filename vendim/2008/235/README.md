@@ -5,7 +5,7 @@ Përcaktimin e pagës minimale në shkallë vendi · 2 versions, from 2008-03-15
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-235` (tags `vendim-2008-235/<day>`; `python tools/on.py <day> vendim-2008-235`).
+Act id: `vendim-2008-235` (tags `vendim-2008-235/<day>`; `python registry/tools/on.py <day> vendim-2008-235`).
 
 ## Decisions made by hand
 

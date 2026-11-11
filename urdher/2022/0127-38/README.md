@@ -10,7 +10,7 @@ Përcaktimin e mënyrës së aplikimit për vendosjen e strukturës së shërbim
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0127-38` (tags `urdher-2022-0127-38/<day>`; `python tools/on.py <day> urdher-2022-0127-38`).
+Act id: `urdher-2022-0127-38` (tags `urdher-2022-0127-38/<day>`; `python registry/tools/on.py <day> urdher-2022-0127-38`).
 
 ## Decisions made by hand
 

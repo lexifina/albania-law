@@ -17,7 +17,17 @@ Shpronësimin, për interes publik, të pronarËve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-848` (tags `vendim-2010-848/<day>`; `python tools/on.py <day> vendim-2010-848`).
+Act id: `vendim-2010-848` (tags `vendim-2010-848/<day>`; `python registry/tools/on.py <day> vendim-2010-848`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 439, datë 22.5.2013: Për disa ndryshime në vendimin nr. 848, datë 21.10.2010 të Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës së tensionit të lartë 400 kv Tiranë 2-Elbasan 2, qarku Elbasan”](https://qbz.gov.al/eli/vendim/2013/05/22/439)
+- [Vendimi i Këshillit të Ministrave nr. 574, datë 3.9.2014: Për disa ndryshime në vendimin nr. 848, datë 21.10.2010, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv, tiranë 2 - elbasan 2, qarku i elbasanit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/09/03/574)
+- [Vendimi i Këshillit të Ministrave nr. 780, datë 14.11.2012: Për disa ndryshime në vendimin nr. 848, datë 21.10.2010 të këshillit të ministrave ”për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv tiranë 2 - elbasan 2, qarku i elbasanit”](https://qbz.gov.al/eli/vendim/2012/11/14/780)
 
 ## Decisions made by hand
 

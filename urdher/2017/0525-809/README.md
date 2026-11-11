@@ -40,7 +40,7 @@ Përcaktimin e kategorisë së zyrtarëve të administratës tatimore, të cilë
 | Pika 32 | [pika-032.md](pika-032.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-0525-809` (tags `urdher-2017-0525-809/<day>`; `python tools/on.py <day> urdher-2017-0525-809`).
+Act id: `urdher-2017-0525-809` (tags `urdher-2017-0525-809/<day>`; `python registry/tools/on.py <day> urdher-2017-0525-809`).
 
 ## Decisions made by hand
 

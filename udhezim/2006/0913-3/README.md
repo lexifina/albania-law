@@ -5,7 +5,7 @@ Organizimin dhe zhvillimin e ankandit të shitjes së materialit drusor të asor
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0913-3` (tags `udhezim-2006-0913-3/<day>`; `python tools/on.py <day> udhezim-2006-0913-3`).
+Act id: `udhezim-2006-0913-3` (tags `udhezim-2006-0913-3/<day>`; `python registry/tools/on.py <day> udhezim-2006-0913-3`).
 
 ## Decisions made by hand
 

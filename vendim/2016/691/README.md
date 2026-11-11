@@ -10,7 +10,7 @@ Miratimin e formatit të marrëveshjes me investitorët në fushën e turizmit �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-691` (tags `vendim-2016-691/<day>`; `python tools/on.py <day> vendim-2016-691`).
+Act id: `vendim-2016-691` (tags `vendim-2016-691/<day>`; `python registry/tools/on.py <day> vendim-2016-691`).
 
 ## Decisions made by hand
 

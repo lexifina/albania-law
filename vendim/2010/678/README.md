@@ -16,7 +16,7 @@ Hapjen e programeve të studimeve të doktoratës, në Fakultetin e Infermieris�
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-678` (tags `vendim-2010-678/<day>`; `python tools/on.py <day> vendim-2010-678`).
+Act id: `vendim-2010-678` (tags `vendim-2010-678/<day>`; `python registry/tools/on.py <day> vendim-2010-678`).
 
 ## Decisions made by hand
 

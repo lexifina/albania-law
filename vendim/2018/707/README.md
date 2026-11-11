@@ -13,7 +13,11 @@ Kalimin në përgjegjësi administrimi të ministrisë përgjegjëse për turizm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2026-10-30 |
 
-Act id: `vendim-2018-707` (tags `vendim-2018-707/<day>`; `python tools/on.py <day> vendim-2018-707`).
+Act id: `vendim-2018-707` (tags `vendim-2018-707/<day>`; `python registry/tools/on.py <day> vendim-2018-707`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

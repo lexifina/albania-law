@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së pestës së ruminantëve të vegjël t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-0130-87` (tags `urdher-2025-0130-87/<day>`; `python tools/on.py <day> urdher-2025-0130-87`).
+Act id: `urdher-2025-0130-87` (tags `urdher-2025-0130-87/<day>`; `python registry/tools/on.py <day> urdher-2025-0130-87`).
 
 ## Decisions made by hand
 

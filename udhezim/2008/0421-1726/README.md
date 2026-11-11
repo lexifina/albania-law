@@ -23,7 +23,7 @@ Caktimin e çmimeve dhe tarifave në shërbimin taksi · 1 versions, from 2008-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0421-1726` (tags `udhezim-2008-0421-1726/<day>`; `python tools/on.py <day> udhezim-2008-0421-1726`).
+Act id: `udhezim-2008-0421-1726` (tags `udhezim-2008-0421-1726/<day>`; `python registry/tools/on.py <day> udhezim-2008-0421-1726`).
 
 ## Decisions made by hand
 

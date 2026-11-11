@@ -28,7 +28,7 @@ Organizimin dhe funksionimin e Autoritetit Kombëtar të Ushqimit · 1 versions,
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-708` (tags `vendim-2020-708/<day>`; `python tools/on.py <day> vendim-2020-708`).
+Act id: `vendim-2020-708` (tags `vendim-2020-708/<day>`; `python registry/tools/on.py <day> vendim-2020-708`).
 
 ## Decisions made by hand
 

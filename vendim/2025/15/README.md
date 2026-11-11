@@ -28,7 +28,7 @@ Financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-09-16 |
 
-Act id: `vendim-2025-15` (tags `vendim-2025-15/<day>`; `python tools/on.py <day> vendim-2025-15`).
+Act id: `vendim-2025-15` (tags `vendim-2025-15/<day>`; `python registry/tools/on.py <day> vendim-2025-15`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Rregullat dhe procedurat për mbulimin e shpenzimeve në ofrimin e shërbimit ar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0923-659` (tags `udhezim-2019-0923-659/<day>`; `python tools/on.py <day> udhezim-2019-0923-659`).
+Act id: `udhezim-2019-0923-659` (tags `udhezim-2019-0923-659/<day>`; `python registry/tools/on.py <day> udhezim-2019-0923-659`).
 
 ## Decisions made by hand
 

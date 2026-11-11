@@ -10,7 +10,7 @@ Miratimin e rregullores “Mbi disa kërkesa shtesë në tregtinë e gjedhit lid
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2013-0724-188` (tags `urdher-2013-0724-188/<day>`; `python tools/on.py <day> urdher-2013-0724-188`).
+Act id: `urdher-2013-0724-188` (tags `urdher-2013-0724-188/<day>`; `python registry/tools/on.py <day> urdher-2013-0724-188`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Përdorimin e fondit rezervë të buxhetit të shtetit, të miratuar për vitin 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-745` (tags `vendim-2022-745/<day>`; `python tools/on.py <day> vendim-2022-745`).
+Act id: `vendim-2022-745` (tags `vendim-2022-745/<day>`; `python registry/tools/on.py <day> vendim-2022-745`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,16 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-363` (tags `vendim-2004-363/<day>`; `python tools/on.py <day> vendim-2004-363`).
+Act id: `vendim-2004-363` (tags `vendim-2004-363/<day>`; `python registry/tools/on.py <day> vendim-2004-363`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 93, datë 3.2.2008: Për kalimin në përgjegjësi administrimi të ndërtesës së ish-Policisë Ndërtimore, dega Tiranë te Posta Shqiptare sh.a., dhe për një shtesë në vendimin nr.363, datë 11.6.2004 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Postës Shqiptare sh.a](https://qbz.gov.al/eli/vendim/2008/02/03/93)
+- [Vendimi i Këshillit të Ministrave nr. 218, datë 21.3.2017: Për kalimin në përgjegjësi administrimi, nga “posta shqiptare” sha ministrisë së punëve të brendshme, të pasurisë së paluajtshme me emërtimin “zyra bankare klos”, me nr. 60, me vendndodhje në zonën kadastrale 2161, me numër pasurie 1/144-n2(153), kati i dytë, dhe sipërfaqe të përgjithshme 210.1 m2, me qëllim pajisjen me ndërtesë të subjektit “partia socialiste e shqipërisë”, për degën vendore të partisë socialiste klos](https://qbz.gov.al/eli/vendim/2017/03/21/218)
 
 ## Decisions made by hand
 

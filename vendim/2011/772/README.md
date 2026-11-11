@@ -9,7 +9,7 @@ Lejimin e agjencisë kombëtare të shoqërisë së informacionit, si autoritet 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-772` (tags `vendim-2011-772/<day>`; `python tools/on.py <day> vendim-2011-772`).
+Act id: `vendim-2011-772` (tags `vendim-2011-772/<day>`; `python registry/tools/on.py <day> vendim-2011-772`).
 
 ## Decisions made by hand
 

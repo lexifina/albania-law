@@ -12,7 +12,7 @@ Caktimin e administratorëve të përkohshëm të falimentimit · 1 versions, fr
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0729-22` (tags `udhezim-2008-0729-22/<day>`; `python tools/on.py <day> udhezim-2008-0729-22`).
+Act id: `udhezim-2008-0729-22` (tags `udhezim-2008-0729-22/<day>`; `python registry/tools/on.py <day> udhezim-2008-0729-22`).
 
 ## Decisions made by hand
 

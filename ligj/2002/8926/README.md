@@ -17,7 +17,7 @@ Formën dhe përmasat e Flamurit Kombëtar, përmbajtjen e Himnit Kombëtar, for
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8926` (tags `ligj-2002-8926/<day>`; `python tools/on.py <day> ligj-2002-8926`).
+Act id: `ligj-2002-8926` (tags `ligj-2002-8926/<day>`; `python registry/tools/on.py <day> ligj-2002-8926`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mënyrën e organizimit dhe funksionimit të shërbimeve në qendrat spitalore u
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-764` (tags `vendim-2014-764/<day>`; `python tools/on.py <day> vendim-2014-764`).
+Act id: `vendim-2014-764` (tags `vendim-2014-764/<day>`; `python registry/tools/on.py <day> vendim-2014-764`).
 
 ## Decisions made by hand
 

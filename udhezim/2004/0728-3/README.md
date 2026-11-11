@@ -16,7 +16,7 @@ Administrimin e ujit të pijshëm · 1 versions, from 2004-08-11 (latest in forc
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-0728-3` (tags `udhezim-2004-0728-3/<day>`; `python tools/on.py <day> udhezim-2004-0728-3`).
+Act id: `udhezim-2004-0728-3` (tags `udhezim-2004-0728-3/<day>`; `python registry/tools/on.py <day> udhezim-2004-0728-3`).
 
 ## Decisions made by hand
 

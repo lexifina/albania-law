@@ -5,7 +5,7 @@ Ndryshimin e përgjegjësisë së administrimit të disa mjediseve, nga Ministri
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-18` (tags `vendim-2010-18/<day>`; `python tools/on.py <day> vendim-2010-18`).
+Act id: `vendim-2010-18` (tags `vendim-2010-18/<day>`; `python registry/tools/on.py <day> vendim-2010-18`).
 
 ## Decisions made by hand
 

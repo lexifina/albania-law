@@ -19,7 +19,7 @@ Krijimin dhe funksionimin e këshillit ekonomik kombëtar · 1 versions, from 20
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-57` (tags `ligj-2014-57/<day>`; `python tools/on.py <day> ligj-2014-57`).
+Act id: `ligj-2014-57` (tags `ligj-2014-57/<day>`; `python registry/tools/on.py <day> ligj-2014-57`).
 
 ## Decisions made by hand
 

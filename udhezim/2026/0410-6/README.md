@@ -5,7 +5,7 @@ Përcaktimin e procedurës së monitorimit të zbatimit të kontratave për usht
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2026-0410-6` (tags `udhezim-2026-0410-6/<day>`; `python tools/on.py <day> udhezim-2026-0410-6`).
+Act id: `udhezim-2026-0410-6` (tags `udhezim-2026-0410-6/<day>`; `python registry/tools/on.py <day> udhezim-2026-0410-6`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e formatit dhe përmbajtjes së certifikatës së regjistrimit për sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0506-94` (tags `urdher-2026-0506-94/<day>`; `python tools/on.py <day> urdher-2026-0506-94`).
+Act id: `urdher-2026-0506-94` (tags `urdher-2026-0506-94/<day>`; `python registry/tools/on.py <day> urdher-2026-0506-94`).
 
 ## Decisions made by hand
 

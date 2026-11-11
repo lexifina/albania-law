@@ -9,7 +9,7 @@ Rritjen e nivelit të pagesës së papunësisë · 1 versions, from 2002-07-12 (
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-308` (tags `vendim-2002-308/<day>`; `python tools/on.py <day> vendim-2002-308`).
+Act id: `vendim-2002-308` (tags `vendim-2002-308/<day>`; `python registry/tools/on.py <day> vendim-2002-308`).
 
 ## Decisions made by hand
 

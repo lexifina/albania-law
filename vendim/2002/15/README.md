@@ -11,7 +11,7 @@ Krijimin e Fondit për riaftësimin e veprave ujitëse · 1 versions, from 2002-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-15` (tags `vendim-2002-15/<day>`; `python tools/on.py <day> vendim-2002-15`).
+Act id: `vendim-2002-15` (tags `vendim-2002-15/<day>`; `python registry/tools/on.py <day> vendim-2002-15`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Ngritjen e grupit ndërinstitucional për negociimin dhe nënshkrimin e kontrat�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-796` (tags `vendim-2024-796/<day>`; `python tools/on.py <day> vendim-2024-796`).
+Act id: `vendim-2024-796` (tags `vendim-2024-796/<day>`; `python registry/tools/on.py <day> vendim-2024-796`).
 
 ## Decisions made by hand
 

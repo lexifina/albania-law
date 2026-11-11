@@ -23,7 +23,7 @@ Përcaktimin e rregullave për zhvillimin e zonave aeroportuale · 3 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-02-20 |
 
-Act id: `vendim-2024-784` (tags `vendim-2024-784/<day>`; `python tools/on.py <day> vendim-2024-784`).
+Act id: `vendim-2024-784` (tags `vendim-2024-784/<day>`; `python registry/tools/on.py <day> vendim-2024-784`).
 
 ## Decisions made by hand
 

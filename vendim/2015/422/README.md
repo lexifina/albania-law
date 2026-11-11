@@ -11,7 +11,7 @@ Një ndryshim në vendimin nr. 175, datë 6.3.2012, të Këshillit të Ministrav
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-422` (tags `vendim-2015-422/<day>`; `python tools/on.py <day> vendim-2015-422`).
+Act id: `vendim-2015-422` (tags `vendim-2015-422/<day>`; `python registry/tools/on.py <day> vendim-2015-422`).
 
 ## Decisions made by hand
 

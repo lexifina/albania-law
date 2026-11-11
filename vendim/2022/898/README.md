@@ -15,7 +15,7 @@ Mbështetje financiare të menjëhershme të punonjësve të njësive të qeveri
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-898` (tags `vendim-2022-898/<day>`; `python tools/on.py <day> vendim-2022-898`).
+Act id: `vendim-2022-898` (tags `vendim-2022-898/<day>`; `python registry/tools/on.py <day> vendim-2022-898`).
 
 ## Decisions made by hand
 

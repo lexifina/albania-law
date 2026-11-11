@@ -78,7 +78,7 @@ Sigurimin e detyrueshëm në sektorin e transportit · 1 versions, from 2021-03-
 | Neni 61 | [neni-061.md](neni-061.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-32-2021` (tags `ligji-32-2021/<day>`; `python tools/on.py <day> ligji-32-2021`).
+Act id: `ligji-32-2021` (tags `ligji-32-2021/<day>`; `python registry/tools/on.py <day> ligji-32-2021`).
 
 ## Decisions made by hand
 

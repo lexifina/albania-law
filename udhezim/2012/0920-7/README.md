@@ -5,7 +5,7 @@ Mbi zbatimin e vendimit nr. 618, datë 7.9.2006 “për përcaktimin e kritereve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0920-7` (tags `udhezim-2012-0920-7/<day>`; `python tools/on.py <day> udhezim-2012-0920-7`).
+Act id: `udhezim-2012-0920-7` (tags `udhezim-2012-0920-7/<day>`; `python registry/tools/on.py <day> udhezim-2012-0920-7`).
 
 ## Decisions made by hand
 

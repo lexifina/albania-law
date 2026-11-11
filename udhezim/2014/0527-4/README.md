@@ -36,7 +36,7 @@ Mbi kërkesat teknike dhe standardet e operimit të ofiçinës (qendrës teknike
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2017-02-01 |
 
-Act id: `udhezim-2014-0527-4` (tags `udhezim-2014-0527-4/<day>`; `python tools/on.py <day> udhezim-2014-0527-4`).
+Act id: `udhezim-2014-0527-4` (tags `udhezim-2014-0527-4/<day>`; `python registry/tools/on.py <day> udhezim-2014-0527-4`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kriteret dhe procedurat e shpalljes së gjendjes së emergjencës civile · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-664` (tags `vendim-2002-664/<day>`; `python tools/on.py <day> vendim-2002-664`).
+Act id: `vendim-2002-664` (tags `vendim-2002-664/<day>`; `python registry/tools/on.py <day> vendim-2002-664`).
 
 ## Decisions made by hand
 

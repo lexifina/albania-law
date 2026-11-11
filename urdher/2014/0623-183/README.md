@@ -15,7 +15,7 @@ Përgatitjen dhe hartimin e strategjisë kombëtare për zhvillim dhe integrim 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0623-183` (tags `urdher-2014-0623-183/<day>`; `python tools/on.py <day> urdher-2014-0623-183`).
+Act id: `urdher-2014-0623-183` (tags `urdher-2014-0623-183/<day>`; `python registry/tools/on.py <day> urdher-2014-0623-183`).
 
 ## Decisions made by hand
 

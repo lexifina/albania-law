@@ -31,7 +31,7 @@ Procedurat e rishikimit të listave paraprake dhe shpallja e listës përfundimt
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0118-130` (tags `udhezim-2007-0118-130/<day>`; `python tools/on.py <day> udhezim-2007-0118-130`).
+Act id: `udhezim-2007-0118-130` (tags `udhezim-2007-0118-130/<day>`; `python registry/tools/on.py <day> udhezim-2007-0118-130`).
 
 ## Decisions made by hand
 

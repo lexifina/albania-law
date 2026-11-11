@@ -5,7 +5,7 @@ Ngritjen e bazës së të dhënave imei dhe regjistrimin e numrave imei të apar
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-354` (tags `vendim-2014-354/<day>`; `python tools/on.py <day> vendim-2014-354`).
+Act id: `vendim-2014-354` (tags `vendim-2014-354/<day>`; `python registry/tools/on.py <day> vendim-2014-354`).
 
 ## Decisions made by hand
 

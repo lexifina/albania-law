@@ -13,7 +13,7 @@ Ngritjen e grupit ndërinstitucional të punës për vlerësimin e gjendjes në 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2004-0726-143` (tags `urdher-2004-0726-143/<day>`; `python tools/on.py <day> urdher-2004-0726-143`).
+Act id: `urdher-2004-0726-143` (tags `urdher-2004-0726-143/<day>`; `python registry/tools/on.py <day> urdher-2004-0726-143`).
 
 ## Decisions made by hand
 

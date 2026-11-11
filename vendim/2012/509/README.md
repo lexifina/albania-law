@@ -11,7 +11,7 @@ Lirimin, mandatimin dhe rimandatimin e disa anëtarëve të këshillit kombëtar
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-509` (tags `vendim-2012-509/<day>`; `python tools/on.py <day> vendim-2012-509`).
+Act id: `vendim-2012-509` (tags `vendim-2012-509/<day>`; `python registry/tools/on.py <day> vendim-2012-509`).
 
 ## Decisions made by hand
 

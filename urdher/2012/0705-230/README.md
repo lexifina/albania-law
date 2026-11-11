@@ -10,7 +10,15 @@ Delegim kompetencash · 1 versions, from 2012-08-06 (latest in force: 2012-08-06
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0705-230` (tags `urdher-2012-0705-230/<day>`; `python tools/on.py <day> urdher-2012-0705-230`).
+Act id: `urdher-2012-0705-230` (tags `urdher-2012-0705-230/<day>`; `python registry/tools/on.py <day> urdher-2012-0705-230`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 230, datë 23.8.2012 (Ministria e Brendshme) [QBZ 8487]: Për revokimin e urdhrit nr. 230, datë 5.7.2012 “për delegim kompetencash”](https://qbz.gov.al/eli/udhezim/2012/08/23/230)
 
 ## Decisions made by hand
 

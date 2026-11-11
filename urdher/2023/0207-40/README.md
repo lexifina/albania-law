@@ -10,7 +10,7 @@ Emërim në detyrë · 1 versions, from 2023-02-15 (latest in force: 2023-02-15)
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0207-40` (tags `urdher-2023-0207-40/<day>`; `python tools/on.py <day> urdher-2023-0207-40`).
+Act id: `urdher-2023-0207-40` (tags `urdher-2023-0207-40/<day>`; `python registry/tools/on.py <day> urdher-2023-0207-40`).
 
 ## Decisions made by hand
 

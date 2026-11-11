@@ -11,7 +11,7 @@ Miratimin e rregullores “për zbatimin e kodit ndërkombëtar të menaxhimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-809` (tags `vendim-2016-809/<day>`; `python tools/on.py <day> vendim-2016-809`).
+Act id: `vendim-2016-809` (tags `vendim-2016-809/<day>`; `python registry/tools/on.py <day> vendim-2016-809`).
 
 ## Decisions made by hand
 

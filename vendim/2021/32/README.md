@@ -12,7 +12,7 @@ Kryerjen e parapagimit të dozave të vaksinave dhe të pagesave përkatëse, q�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-32` (tags `vendim-2021-32/<day>`; `python tools/on.py <day> vendim-2021-32`).
+Act id: `vendim-2021-32` (tags `vendim-2021-32/<day>`; `python registry/tools/on.py <day> vendim-2021-32`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Delegim e kompetencave · 2 versions, from 2020-01-15 (latest in force: 2020-09-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0108-2` (tags `urdher-2020-0108-2/<day>`; `python tools/on.py <day> urdher-2020-0108-2`).
+Act id: `urdher-2020-0108-2` (tags `urdher-2020-0108-2/<day>`; `python registry/tools/on.py <day> urdher-2020-0108-2`).
 
 ## Decisions made by hand
 

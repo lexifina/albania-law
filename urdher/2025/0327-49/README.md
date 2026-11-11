@@ -10,7 +10,7 @@ Miratimin e rregullores ”Mbi përcaktimin e masave për zbatimin e skemës së
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0327-49` (tags `urdher-2025-0327-49/<day>`; `python tools/on.py <day> urdher-2025-0327-49`).
+Act id: `urdher-2025-0327-49` (tags `urdher-2025-0327-49/<day>`; `python registry/tools/on.py <day> urdher-2025-0327-49`).
 
 ## Decisions made by hand
 

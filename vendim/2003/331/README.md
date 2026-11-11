@@ -5,7 +5,7 @@ Kushtet që duhet të plotësojnë nëpunësit e shërbimit të jashtëm të rep
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-331` (tags `vendim-2003-331/<day>`; `python tools/on.py <day> vendim-2003-331`).
+Act id: `vendim-2003-331` (tags `vendim-2003-331/<day>`; `python registry/tools/on.py <day> vendim-2003-331`).
 
 ## Decisions made by hand
 

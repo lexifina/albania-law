@@ -11,7 +11,7 @@ Miratimin e listës së rishikuar, të përditësuar, të monumenteve të natyr�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-04-28 |
 
-Act id: `vendim-2019-303` (tags `vendim-2019-303/<day>`; `python tools/on.py <day> vendim-2019-303`).
+Act id: `vendim-2019-303` (tags `vendim-2019-303/<day>`; `python registry/tools/on.py <day> vendim-2019-303`).
 
 ## Decisions made by hand
 

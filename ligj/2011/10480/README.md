@@ -47,7 +47,7 @@ Sigurinë e përgjithshme të produkteve joushqimore · 3 versions, from 2011-12
 | Neni 35 | [neni-035.md](neni-035.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10480` (tags `ligj-2011-10480/<day>`; `python tools/on.py <day> ligj-2011-10480`).
+Act id: `ligj-2011-10480` (tags `ligj-2011-10480/<day>`; `python registry/tools/on.py <day> ligj-2011-10480`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Caktimin e numrit të vendeve vakant, për ushtrimin e veprimtarisë së noterë
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0401-2501` (tags `urdher-2011-0401-2501/<day>`; `python tools/on.py <day> urdher-2011-0401-2501`).
+Act id: `urdher-2011-0401-2501` (tags `urdher-2011-0401-2501/<day>`; `python registry/tools/on.py <day> urdher-2011-0401-2501`).
 
 ## Decisions made by hand
 

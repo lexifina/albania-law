@@ -14,7 +14,7 @@ Masën, kriteret dhe procedurat për tarifat financiare për veprimtarinë e sh�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0624-345` (tags `udhezim-2015-0624-345/<day>`; `python tools/on.py <day> udhezim-2015-0624-345`).
+Act id: `udhezim-2015-0624-345` (tags `udhezim-2015-0624-345/<day>`; `python registry/tools/on.py <day> udhezim-2015-0624-345`).
 
 ## Decisions made by hand
 

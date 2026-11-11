@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-165` (tags `vendim-2008-165/<day>`; `python tools/on.py <day> vendim-2008-165`).
+Act id: `vendim-2008-165` (tags `vendim-2008-165/<day>`; `python registry/tools/on.py <day> vendim-2008-165`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 896, datë 21.12.2011: Për një shtesë në vendimin nr.165, datë 13.2.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës maminas, të qarkut të durrësit”](https://qbz.gov.al/eli/vendim/2011/12/21/896)
 
 ## Decisions made by hand
 

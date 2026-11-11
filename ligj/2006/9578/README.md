@@ -10,7 +10,7 @@ Miratimin e disa shtesave dhe ndryshimeve në “Marrëveshjen e koncesionit, t�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9578` (tags `ligj-2006-9578/<day>`; `python tools/on.py <day> ligj-2006-9578`).
+Act id: `ligj-2006-9578` (tags `ligj-2006-9578/<day>`; `python registry/tools/on.py <day> ligj-2006-9578`).
 
 ## Decisions made by hand
 

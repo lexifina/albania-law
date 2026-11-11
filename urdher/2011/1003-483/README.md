@@ -9,7 +9,7 @@ Hapjen e fakultetit ekonomik në shkollën e lartë private “illyria” · 1 v
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1003-483` (tags `urdher-2011-1003-483/<day>`; `python tools/on.py <day> urdher-2011-1003-483`).
+Act id: `urdher-2011-1003-483` (tags `urdher-2011-1003-483/<day>`; `python registry/tools/on.py <day> urdher-2011-1003-483`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Përcaktimin e rasteve dhe të rregullave për shpërblimin në natyrë të shpr
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-797` (tags `vendim-2023-797/<day>`; `python tools/on.py <day> vendim-2023-797`).
+Act id: `vendim-2023-797` (tags `vendim-2023-797/<day>`; `python registry/tools/on.py <day> vendim-2023-797`).
 
 ## Decisions made by hand
 

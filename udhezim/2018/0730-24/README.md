@@ -24,7 +24,7 @@ PëR PROCEDURAT PËR NJOHJEN dhe njësimin E MËSIMNXËNIES DHE KUALIFIKIMEVE PR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0730-24` (tags `udhezim-2018-0730-24/<day>`; `python tools/on.py <day> udhezim-2018-0730-24`).
+Act id: `udhezim-2018-0730-24` (tags `udhezim-2018-0730-24/<day>`; `python registry/tools/on.py <day> udhezim-2018-0730-24`).
 
 ## Decisions made by hand
 

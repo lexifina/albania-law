@@ -8,7 +8,7 @@ Miratimin e shtesës së marrëveshjes së koncesionit, ndërmjet Ministrisë s�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-663` (tags `vendim-2020-663/<day>`; `python tools/on.py <day> vendim-2020-663`).
+Act id: `vendim-2020-663` (tags `vendim-2020-663/<day>`; `python registry/tools/on.py <day> vendim-2020-663`).
 
 ## Decisions made by hand
 

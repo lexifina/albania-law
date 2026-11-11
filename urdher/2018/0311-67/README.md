@@ -10,7 +10,7 @@ Miratimin e “planit të veprimit për veprimtaritë minerare me karrierë (gur
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0311-67` (tags `urdher-2018-0311-67/<day>`; `python tools/on.py <day> urdher-2018-0311-67`).
+Act id: `urdher-2018-0311-67` (tags `urdher-2018-0311-67/<day>`; `python registry/tools/on.py <day> urdher-2018-0311-67`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Faljen e dënimeve administrative në formën e gjobave, të vëna në bazë të
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-39` (tags `ligj-2014-39/<day>`; `python tools/on.py <day> ligj-2014-39`).
+Act id: `ligj-2014-39` (tags `ligj-2014-39/<day>`; `python registry/tools/on.py <day> ligj-2014-39`).
 
 ## Decisions made by hand
 

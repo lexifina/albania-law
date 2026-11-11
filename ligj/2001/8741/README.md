@@ -5,7 +5,7 @@ Sigurinë në punë në veprimtarinë minerare · 3 versions, from 2001-03-31 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2001-8741` (tags `ligj-2001-8741/<day>`; `python tools/on.py <day> ligj-2001-8741`).
+Act id: `ligj-2001-8741` (tags `ligj-2001-8741/<day>`; `python registry/tools/on.py <day> ligj-2001-8741`).
 
 ## Decisions made by hand
 

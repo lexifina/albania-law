@@ -10,7 +10,7 @@ Ratifikimin e protokollit shtesë 5 të marrëveshjes për amendimin dhe aderimi
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-18-2018` (tags `ligji-18-2018/<day>`; `python tools/on.py <day> ligji-18-2018`).
+Act id: `ligji-18-2018` (tags `ligji-18-2018/<day>`; `python registry/tools/on.py <day> ligji-18-2018`).
 
 ## Decisions made by hand
 

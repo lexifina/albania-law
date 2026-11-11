@@ -5,7 +5,7 @@ Miratimin e strukturës së administratës së akademisë së shkencave të repu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-636` (tags `vendim-2008-636/<day>`; `python tools/on.py <day> vendim-2008-636`).
+Act id: `vendim-2008-636` (tags `vendim-2008-636/<day>`; `python registry/tools/on.py <day> vendim-2008-636`).
 
 ## Decisions made by hand
 

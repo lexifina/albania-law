@@ -8,7 +8,7 @@ Një shtesë në vendimin nr. 7, datë 4.1.2012, të Këshillit të Ministrave, 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-123` (tags `vendim-2015-123/<day>`; `python tools/on.py <day> vendim-2015-123`).
+Act id: `vendim-2015-123` (tags `vendim-2015-123/<day>`; `python registry/tools/on.py <day> vendim-2015-123`).
 
 ## Decisions made by hand
 

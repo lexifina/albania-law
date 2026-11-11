@@ -41,7 +41,7 @@ Krijimin, administrimin dhe vënien në dispozicion për publikun të regjistrit
 | Pika 33 | [pika-033.md](pika-033.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0415-1` (tags `udhezim-2026-0415-1/<day>`; `python tools/on.py <day> udhezim-2026-0415-1`).
+Act id: `udhezim-2026-0415-1` (tags `udhezim-2026-0415-1/<day>`; `python registry/tools/on.py <day> udhezim-2026-0415-1`).
 
 ## Decisions made by hand
 

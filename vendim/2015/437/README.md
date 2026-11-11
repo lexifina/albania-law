@@ -5,7 +5,7 @@ Miratimin e Rregullores së Përgjithshme të Burgjeve · 2 versions, from 2015-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-437` (tags `vendim-2015-437/<day>`; `python tools/on.py <day> vendim-2015-437`).
+Act id: `vendim-2015-437` (tags `vendim-2015-437/<day>`; `python registry/tools/on.py <day> vendim-2015-437`).
 
 ## Decisions made by hand
 

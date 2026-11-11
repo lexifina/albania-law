@@ -14,7 +14,7 @@ Shpalljen e kompleksit natyror të liqeneve të Prespës së Madhe e të Vogël 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-489` (tags `vendim-2013-489/<day>`; `python tools/on.py <day> vendim-2013-489`).
+Act id: `vendim-2013-489` (tags `vendim-2013-489/<day>`; `python registry/tools/on.py <day> vendim-2013-489`).
 
 ## Decisions made by hand
 

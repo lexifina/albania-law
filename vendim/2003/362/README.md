@@ -10,7 +10,15 @@ Miratimin e listës paraprake të pronave të paluajtshme publike, që transfero
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-362` (tags `vendim-2003-362/<day>`; `python tools/on.py <day> vendim-2003-362`).
+Act id: `vendim-2003-362` (tags `vendim-2003-362/<day>`; `python registry/tools/on.py <day> vendim-2003-362`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 385, datë 6.5.2015: Për kalimin në përgjegjësi administrimi të Ministrisë së Mirëqenies Sociale dhe Rinisë të objektit “Shkolla 8-vjeçare Palasë” dhe për një ndryshim në vendimin nr. 362, datë 5.6.2003, të Këshillit të Ministrave, “Për miratimin e listës paraprake të pronave të paluajtshme publike, që transferohen në pronësi të bashkisë së Himarës”](https://qbz.gov.al/eli/vendim/2015/05/06/385)
 
 ## Decisions made by hand
 

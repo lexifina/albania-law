@@ -5,7 +5,7 @@ Per delegim kompetence · 2 versions, from 2015-03-25 (latest in force: 2017-11-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2015-0316-461` (tags `urdher-2015-0316-461/<day>`; `python tools/on.py <day> urdher-2015-0316-461`).
+Act id: `urdher-2015-0316-461` (tags `urdher-2015-0316-461/<day>`; `python registry/tools/on.py <day> urdher-2015-0316-461`).
 
 ## Decisions made by hand
 

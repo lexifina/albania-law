@@ -5,7 +5,7 @@ Krijimin dhe mënyrën e organizimit e të funksionimit të shërbimit kombëtar
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-377` (tags `vendim-2014-377/<day>`; `python tools/on.py <day> vendim-2014-377`).
+Act id: `vendim-2014-377` (tags `vendim-2014-377/<day>`; `python registry/tools/on.py <day> vendim-2014-377`).
 
 ## Decisions made by hand
 

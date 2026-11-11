@@ -13,7 +13,7 @@ Përcaktimin e masës së pagesës për anëtarët e komisioneve të përkohshme
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-437` (tags `vendim-2013-437/<day>`; `python tools/on.py <day> vendim-2013-437`).
+Act id: `vendim-2013-437` (tags `vendim-2013-437/<day>`; `python registry/tools/on.py <day> vendim-2013-437`).
 
 ## Decisions made by hand
 

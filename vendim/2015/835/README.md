@@ -8,7 +8,7 @@ Emërimin në detyrë të prefektit të Qarkut të Gjirokastrës · 1 versions, 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-835` (tags `vendim-2015-835/<day>`; `python tools/on.py <day> vendim-2015-835`).
+Act id: `vendim-2015-835` (tags `vendim-2015-835/<day>`; `python registry/tools/on.py <day> vendim-2015-835`).
 
 ## Decisions made by hand
 

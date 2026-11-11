@@ -10,7 +10,7 @@ Miratimin e planit të menaxhimit të basenit ujor Seman · 1 versions, from 202
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-453` (tags `vendim-2020-453/<day>`; `python tools/on.py <day> vendim-2020-453`).
+Act id: `vendim-2020-453` (tags `vendim-2020-453/<day>`; `python registry/tools/on.py <day> vendim-2020-453`).
 
 ## Decisions made by hand
 

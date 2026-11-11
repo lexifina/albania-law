@@ -15,7 +15,7 @@ Miratimin e programit kombëtar të monitorimit të vazhdimit të vlefshmërisë
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0207-4` (tags `udhezim-2011-0207-4/<day>`; `python tools/on.py <day> udhezim-2011-0207-4`).
+Act id: `udhezim-2011-0207-4` (tags `udhezim-2011-0207-4/<day>`; `python registry/tools/on.py <day> udhezim-2011-0207-4`).
 
 ## Decisions made by hand
 

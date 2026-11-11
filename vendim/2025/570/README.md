@@ -10,7 +10,7 @@ Miratimin e listës me përbërësit kritikë dhe pjesët e ndjeshme të rrjetev
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-570` (tags `vendim-2025-570/<day>`; `python tools/on.py <day> vendim-2025-570`).
+Act id: `vendim-2025-570` (tags `vendim-2025-570/<day>`; `python registry/tools/on.py <day> vendim-2025-570`).
 
 ## Decisions made by hand
 

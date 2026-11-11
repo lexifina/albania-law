@@ -9,7 +9,7 @@ Miratimin e mesatares së çmimeve të shitjes së banesave në treg, sipas zona
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-1202-1052` (tags `urdher-2024-1202-1052/<day>`; `python tools/on.py <day> urdher-2024-1202-1052`).
+Act id: `urdher-2024-1202-1052` (tags `urdher-2024-1202-1052/<day>`; `python registry/tools/on.py <day> urdher-2024-1202-1052`).
 
 ## Decisions made by hand
 

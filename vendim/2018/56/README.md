@@ -10,7 +10,7 @@ Përcaktimin e kategorive konkrete të grupeve të pafavorizuara · 1 versions, 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-56` (tags `vendim-2018-56/<day>`; `python tools/on.py <day> vendim-2018-56`).
+Act id: `vendim-2018-56` (tags `vendim-2018-56/<day>`; `python registry/tools/on.py <day> vendim-2018-56`).
 
 ## Decisions made by hand
 

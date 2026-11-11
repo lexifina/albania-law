@@ -13,7 +13,7 @@ Përcaktimin e tarifave të autorizimit për peshkimin çlodhës-argëtues dhe t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1006-443` (tags `urdher-2022-1006-443/<day>`; `python tools/on.py <day> urdher-2022-1006-443`).
+Act id: `urdher-2022-1006-443` (tags `urdher-2022-1006-443/<day>`; `python registry/tools/on.py <day> urdher-2022-1006-443`).
 
 ## Decisions made by hand
 

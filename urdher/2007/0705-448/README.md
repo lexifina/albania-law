@@ -11,7 +11,7 @@ Ripërtëritjen e licencës së agjencisë së administrimit kolektiv të së dr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2007-0705-448` (tags `urdher-2007-0705-448/<day>`; `python tools/on.py <day> urdher-2007-0705-448`).
+Act id: `urdher-2007-0705-448` (tags `urdher-2007-0705-448/<day>`; `python registry/tools/on.py <day> urdher-2007-0705-448`).
 
 ## Decisions made by hand
 

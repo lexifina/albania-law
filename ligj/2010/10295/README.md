@@ -26,7 +26,7 @@ Faljen · 1 versions, from 2010-07-01 (latest in force: 2010-07-01) · <https://
 | Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 
-Act id: `ligji-10295-2010` (tags `ligji-10295-2010/<day>`; `python tools/on.py <day> ligji-10295-2010`).
+Act id: `ligji-10295-2010` (tags `ligji-10295-2010/<day>`; `python registry/tools/on.py <day> ligji-10295-2010`).
 
 ## Decisions made by hand
 

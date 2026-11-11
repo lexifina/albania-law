@@ -12,7 +12,7 @@ Transferimin në fondin e pasurive të paluajtshme për mbështetjen e investime
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-510` (tags `vendim-2026-510/<day>`; `python tools/on.py <day> vendim-2026-510`).
+Act id: `vendim-2026-510` (tags `vendim-2026-510/<day>`; `python registry/tools/on.py <day> vendim-2026-510`).
 
 ## Decisions made by hand
 

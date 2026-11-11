@@ -19,7 +19,7 @@ Përcaktimin e rregullave dhe procedurave për përdorimin e fondit për blerjen
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-869` (tags `vendim-2024-869/<day>`; `python tools/on.py <day> vendim-2024-869`).
+Act id: `vendim-2024-869` (tags `vendim-2024-869/<day>`; `python registry/tools/on.py <day> vendim-2024-869`).
 
 ## Decisions made by hand
 

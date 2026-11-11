@@ -8,7 +8,7 @@ Miratimin e statutit të Organizatës së peshkimit · 1 versions, from 2003-03-
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2003-0115-17` (tags `urdher-2003-0115-17/<day>`; `python tools/on.py <day> urdher-2003-0115-17`).
+Act id: `urdher-2003-0115-17` (tags `urdher-2003-0115-17/<day>`; `python registry/tools/on.py <day> urdher-2003-0115-17`).
 
 ## Decisions made by hand
 

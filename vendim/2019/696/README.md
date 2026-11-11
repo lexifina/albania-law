@@ -5,7 +5,7 @@ Përcaktimin e kufijve territorialë, hidrografikë të baseneve ujore në Repub
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-696` (tags `vendim-2019-696/<day>`; `python tools/on.py <day> vendim-2019-696`).
+Act id: `vendim-2019-696` (tags `vendim-2019-696/<day>`; `python registry/tools/on.py <day> vendim-2019-696`).
 
 ## Decisions made by hand
 

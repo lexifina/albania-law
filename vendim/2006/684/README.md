@@ -12,7 +12,7 @@ Lejimin e kalimit tranzit të disa trupave ushtarake turke përmes territorit t�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-684` (tags `vendim-2006-684/<day>`; `python tools/on.py <day> vendim-2006-684`).
+Act id: `vendim-2006-684` (tags `vendim-2006-684/<day>`; `python registry/tools/on.py <day> vendim-2006-684`).
 
 ## Decisions made by hand
 

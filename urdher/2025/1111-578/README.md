@@ -13,7 +13,15 @@ Delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të ars
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1111-578` (tags `urdher-2025-1111-578/<day>`; `python tools/on.py <day> urdher-2025-1111-578`).
+Act id: `urdher-2025-1111-578` (tags `urdher-2025-1111-578/<day>`; `python registry/tools/on.py <day> urdher-2025-1111-578`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 2, datë 30.1.2026 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 63730]: Për organizimin dhe zhvillimin e provimeve kombëtare të arsimit bazë, viti shkollor 2025-2026](https://qbz.gov.al/eli/udhezim/2026/01/30/2)
 
 ## Decisions made by hand
 

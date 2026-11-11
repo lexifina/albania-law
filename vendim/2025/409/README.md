@@ -22,7 +22,7 @@ Përcaktimin e afateve të testimit fillestar, intervaleve të testimit periodik
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-409` (tags `vendim-2025-409/<day>`; `python tools/on.py <day> vendim-2025-409`).
+Act id: `vendim-2025-409` (tags `vendim-2025-409/<day>`; `python registry/tools/on.py <day> vendim-2025-409`).
 
 ## Decisions made by hand
 

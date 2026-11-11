@@ -37,7 +37,7 @@ Parandalimin e çrregullimeve të shkaktuara nga pamjaftueshmëria e jodit në o
 | Neni 23 | [neni-023.md](neni-023.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9942` (tags `ligj-2008-9942/<day>`; `python tools/on.py <day> ligj-2008-9942`).
+Act id: `ligj-2008-9942` (tags `ligj-2008-9942/<day>`; `python registry/tools/on.py <day> ligj-2008-9942`).
 
 ## Decisions made by hand
 

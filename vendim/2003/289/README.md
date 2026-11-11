@@ -5,7 +5,7 @@ Kriteret dhe përbërjen e këshillave mbikëqyrës të shoqërive anonime, shte
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-289` (tags `vendim-2003-289/<day>`; `python tools/on.py <day> vendim-2003-289`).
+Act id: `vendim-2003-289` (tags `vendim-2003-289/<day>`; `python registry/tools/on.py <day> vendim-2003-289`).
 
 ## Decisions made by hand
 

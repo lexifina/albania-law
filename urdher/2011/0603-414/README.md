@@ -14,7 +14,7 @@ Miratimin e formës dhe përmbajtjes së planit të menaxhimit dhe informacionev
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0603-414` (tags `urdher-2011-0603-414/<day>`; `python tools/on.py <day> urdher-2011-0603-414`).
+Act id: `urdher-2011-0603-414` (tags `urdher-2011-0603-414/<day>`; `python registry/tools/on.py <day> urdher-2011-0603-414`).
 
 ## Decisions made by hand
 

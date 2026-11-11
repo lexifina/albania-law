@@ -5,7 +5,7 @@ Shpalljen e zonave arkeologjike “a” dhe “b” të qytetit të krujës dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-427` (tags `vendim-2012-427/<day>`; `python tools/on.py <day> vendim-2012-427`).
+Act id: `vendim-2012-427` (tags `vendim-2012-427/<day>`; `python registry/tools/on.py <day> vendim-2012-427`).
 
 ## Decisions made by hand
 

@@ -265,7 +265,7 @@ Sipërmarrjet e investimeve kolektive · 1 versions, from 2020-04-30 (latest in 
 | Neni 243 | [neni-243.md](neni-243.md) | 0 |  |
 | Neni 244 | [neni-244.md](neni-244.md) | 0 |  |
 
-Act id: `ligji-56-2020` (tags `ligji-56-2020/<day>`; `python tools/on.py <day> ligji-56-2020`).
+Act id: `ligji-56-2020` (tags `ligji-56-2020/<day>`; `python registry/tools/on.py <day> ligji-56-2020`).
 
 ## Decisions made by hand
 

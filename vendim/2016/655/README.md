@@ -17,7 +17,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-655` (tags `vendim-2016-655/<day>`; `python tools/on.py <day> vendim-2016-655`).
+Act id: `vendim-2016-655` (tags `vendim-2016-655/<day>`; `python registry/tools/on.py <day> vendim-2016-655`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 180, datë 1.8.2024 (Ministria e Infrastrukturës dhe Energjisë): Për disa shtesa dhe ndryshime në VKM-në nr.655, datë 14.09.2016, ”Për shpronësimin për interes publik, të pronarëve të pasurive të paluajtshme pronë private, që preken nga realizimi i projektit ”Zgjerimi i varrezave publike Korçë”](https://qbz.gov.al/eli/kerkese/2024/08/01/180-9)
+- [Vendimi i Këshillit të Ministrave nr. 58, datë 29.1.2025: Për disa ndryshime dhe shtesa në vendimin nr. 655, datë 14.9.2016, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Zgjerimi i varrezave publike Korçë””](https://qbz.gov.al/eli/vendim/2025/01/29/58)
 
 ## Decisions made by hand
 

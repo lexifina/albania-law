@@ -9,7 +9,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare për s
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8569-2000` (tags `ligji-8569-2000/<day>`; `python tools/on.py <day> ligji-8569-2000`).
+Act id: `ligji-8569-2000` (tags `ligji-8569-2000/<day>`; `python registry/tools/on.py <day> ligji-8569-2000`).
 
 ## Decisions made by hand
 

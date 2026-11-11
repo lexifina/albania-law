@@ -13,7 +13,7 @@ Përcaktimin e kritereve bazë, të sektorëve, që do të mbështeten, dhe të 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-18` (tags `vendim-2009-18/<day>`; `python tools/on.py <day> vendim-2009-18`).
+Act id: `vendim-2009-18` (tags `vendim-2009-18/<day>`; `python registry/tools/on.py <day> vendim-2009-18`).
 
 ## Decisions made by hand
 

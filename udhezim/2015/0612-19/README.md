@@ -15,7 +15,7 @@ Porositjen, shpërndarjen dhe shitjen e teksteve shkollore për klasat II-V dhe 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0612-19` (tags `udhezim-2015-0612-19/<day>`; `python tools/on.py <day> udhezim-2015-0612-19`).
+Act id: `udhezim-2015-0612-19` (tags `udhezim-2015-0612-19/<day>`; `python registry/tools/on.py <day> udhezim-2015-0612-19`).
 
 ## Decisions made by hand
 

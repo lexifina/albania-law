@@ -5,7 +5,7 @@ Miratimin e rregullores “Për administrimin e mbetjeve spitalore” · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-798` (tags `vendim-2010-798/<day>`; `python tools/on.py <day> vendim-2010-798`).
+Act id: `vendim-2010-798` (tags `vendim-2010-798/<day>`; `python registry/tools/on.py <day> vendim-2010-798`).
 
 ## Decisions made by hand
 

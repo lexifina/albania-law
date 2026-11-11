@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me Antigua dhe Barbuda · 1 versions, fr
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-959` (tags `vendim-2008-959/<day>`; `python tools/on.py <day> vendim-2008-959`).
+Act id: `vendim-2008-959` (tags `vendim-2008-959/<day>`; `python registry/tools/on.py <day> vendim-2008-959`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Dhënien në përdorim, në formën e huapërdorjes pa kundërshpërblim, të nj
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-587` (tags `vendim-2011-587/<day>`; `python tools/on.py <day> vendim-2011-587`).
+Act id: `vendim-2011-587` (tags `vendim-2011-587/<day>`; `python registry/tools/on.py <day> vendim-2011-587`).
 
 ## Decisions made by hand
 

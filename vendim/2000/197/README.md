@@ -9,7 +9,7 @@ Shpalljen “dëshmorë të atdheut” · 1 versions, from 2000-05-10 (latest in
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-197` (tags `vendim-2000-197/<day>`; `python tools/on.py <day> vendim-2000-197`).
+Act id: `vendim-2000-197` (tags `vendim-2000-197/<day>`; `python registry/tools/on.py <day> vendim-2000-197`).
 
 ## Decisions made by hand
 

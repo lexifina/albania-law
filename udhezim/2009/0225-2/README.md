@@ -39,7 +39,7 @@ Organizimin dhe funksionimin e komisionit të zonës të administrit zgjedhor ·
 | Pjesa IX | [pjesa-09.md](pjesa-09.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0225-2` (tags `udhezim-2009-0225-2/<day>`; `python tools/on.py <day> udhezim-2009-0225-2`).
+Act id: `udhezim-2009-0225-2` (tags `udhezim-2009-0225-2/<day>`; `python registry/tools/on.py <day> udhezim-2009-0225-2`).
 
 ## Decisions made by hand
 

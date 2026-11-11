@@ -11,7 +11,7 @@ Përcaktimin e masës së vlerës së dëmit dhe të dëmshpërblimit të pronar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-349` (tags `vendim-2026-349/<day>`; `python tools/on.py <day> vendim-2026-349`).
+Act id: `vendim-2026-349` (tags `vendim-2026-349/<day>`; `python registry/tools/on.py <day> vendim-2026-349`).
 
 ## Decisions made by hand
 

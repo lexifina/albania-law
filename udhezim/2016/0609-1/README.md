@@ -37,7 +37,7 @@ Rregullat, procedurat e kërkimit, të shqyrtimit e të miratimit të kërkesave
 | Pika 30 | [pika-030.md](pika-030.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0609-1` (tags `udhezim-2016-0609-1/<day>`; `python tools/on.py <day> udhezim-2016-0609-1`).
+Act id: `udhezim-2016-0609-1` (tags `udhezim-2016-0609-1/<day>`; `python registry/tools/on.py <day> udhezim-2016-0609-1`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Shpalljen ansambël monument- kulture të aksit kryesor dhe qendrës historike t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-180` (tags `vendim-2000-180/<day>`; `python tools/on.py <day> vendim-2000-180`).
+Act id: `vendim-2000-180` (tags `vendim-2000-180/<day>`; `python registry/tools/on.py <day> vendim-2000-180`).
 
 ## Decisions made by hand
 

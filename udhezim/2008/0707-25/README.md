@@ -13,7 +13,7 @@ Kriteret profesionale dhe procedurat e konkursit për zgjedhjen e trembëdhjetë
 | Pika 5 | [pika-005.md](pika-005.md) | 1 | 2008-08-13 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0707-25` (tags `udhezim-2008-0707-25/<day>`; `python tools/on.py <day> udhezim-2008-0707-25`).
+Act id: `udhezim-2008-0707-25` (tags `udhezim-2008-0707-25/<day>`; `python registry/tools/on.py <day> udhezim-2008-0707-25`).
 
 ## Decisions made by hand
 

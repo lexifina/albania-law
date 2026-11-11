@@ -45,7 +45,7 @@ Përdorimin e arkivit elektronik në procesin e ekzekutimit të buxhetit të sht
 | Pika 37 | [pika-037.md](pika-037.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0609-12` (tags `udhezim-2025-0609-12/<day>`; `python tools/on.py <day> udhezim-2025-0609-12`).
+Act id: `udhezim-2025-0609-12` (tags `udhezim-2025-0609-12/<day>`; `python registry/tools/on.py <day> udhezim-2025-0609-12`).
 
 ## Decisions made by hand
 

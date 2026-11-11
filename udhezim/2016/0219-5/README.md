@@ -14,7 +14,15 @@ Mbi zbatimin e vendimit nr. 758, datë 16.9.2015, të këshillit të ministrave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0219-5` (tags `udhezim-2016-0219-5/<day>`; `python tools/on.py <day> udhezim-2016-0219-5`).
+Act id: `udhezim-2016-0219-5` (tags `udhezim-2016-0219-5/<day>`; `python registry/tools/on.py <day> udhezim-2016-0219-5`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 20, datë 3.10.2016 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 15831]: Për një ndryshim në udhëzimin nr. 5, datë 19.2.2016,“mbi zbatimin e vendimit nr. 758, datë 16.9.2015, të këshillit të ministrave,“për ngarkimin e ministrisë së mirëqenies sociale dhe rinisë për kryerjen e procedurave të prokurimit “për pajisjen me dekodera të familjeve në nevojë, përfituese nga skema e ndihmës ekonomike dhe për një shtesë fondi në buxhetin e vitit 2015, miratuar për këtë ministri””](https://qbz.gov.al/eli/udhezim/2016/10/03/20)
 
 ## Decisions made by hand
 

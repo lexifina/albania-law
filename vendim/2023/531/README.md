@@ -32,7 +32,7 @@ Krijimin e shoqërisë aksionare shtetërore ”Operatori i Blerjeve të Përqë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-12-17 |
 
-Act id: `vendim-2023-531` (tags `vendim-2023-531/<day>`; `python tools/on.py <day> vendim-2023-531`).
+Act id: `vendim-2023-531` (tags `vendim-2023-531/<day>`; `python registry/tools/on.py <day> vendim-2023-531`).
 
 ## Decisions made by hand
 

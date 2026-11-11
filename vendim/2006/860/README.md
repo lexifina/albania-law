@@ -5,7 +5,7 @@ Miratimin e planit kombëtar të veprimit për heqjen nga përdorimi dhe elimini
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-860` (tags `vendim-2006-860/<day>`; `python tools/on.py <day> vendim-2006-860`).
+Act id: `vendim-2006-860` (tags `vendim-2006-860/<day>`; `python registry/tools/on.py <day> vendim-2006-860`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kritereve të gradimit të oficerëve, nënoficerëve dhe ushtar�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-170` (tags `vendim-2018-170/<day>`; `python tools/on.py <day> vendim-2018-170`).
+Act id: `vendim-2018-170` (tags `vendim-2018-170/<day>`; `python registry/tools/on.py <day> vendim-2018-170`).
 
 ## Decisions made by hand
 

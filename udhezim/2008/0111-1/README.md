@@ -14,7 +14,7 @@ Tatimin mbi tË ardhurat · 1 versions, from 2008-01-11 (latest in force: 2008-0
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0111-1` (tags `udhezim-2008-0111-1/<day>`; `python tools/on.py <day> udhezim-2008-0111-1`).
+Act id: `udhezim-2008-0111-1` (tags `udhezim-2008-0111-1/<day>`; `python registry/tools/on.py <day> udhezim-2008-0111-1`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Miratimin e modelit dhe standardeve të shërbimit të linjës kombëtare të k�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0430-313` (tags `udhezim-2026-0430-313/<day>`; `python tools/on.py <day> udhezim-2026-0430-313`).
+Act id: `udhezim-2026-0430-313` (tags `udhezim-2026-0430-313/<day>`; `python registry/tools/on.py <day> udhezim-2026-0430-313`).
 
 ## Decisions made by hand
 

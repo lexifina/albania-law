@@ -24,7 +24,7 @@ Përcaktimin e procedurave e të kushteve për dhënien e “licencës së përp
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-755` (tags `vendim-2014-755/<day>`; `python tools/on.py <day> vendim-2014-755`).
+Act id: `vendim-2014-755` (tags `vendim-2014-755/<day>`; `python registry/tools/on.py <day> vendim-2014-755`).
 
 ## Decisions made by hand
 

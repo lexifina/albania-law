@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e bashkisë së tiranës · 2 versions, from 2000-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8654` (tags `ligj-2000-8654/<day>`; `python tools/on.py <day> ligj-2000-8654`).
+Act id: `ligj-2000-8654` (tags `ligj-2000-8654/<day>`; `python registry/tools/on.py <day> ligj-2000-8654`).
 
 ## Decisions made by hand
 

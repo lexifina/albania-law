@@ -5,7 +5,7 @@ Miratimin e statutit të autoritetit portual durrës dhe për riorganizimin e ti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-596` (tags `vendim-2004-596/<day>`; `python tools/on.py <day> vendim-2004-596`).
+Act id: `vendim-2004-596` (tags `vendim-2004-596/<day>`; `python registry/tools/on.py <day> vendim-2004-596`).
 
 ## Decisions made by hand
 

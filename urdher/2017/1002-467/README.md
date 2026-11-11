@@ -17,7 +17,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të ministrisë së arsimi
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-1002-467` (tags `urdher-2017-1002-467/<day>`; `python tools/on.py <day> urdher-2017-1002-467`).
+Act id: `urdher-2017-1002-467` (tags `urdher-2017-1002-467/<day>`; `python registry/tools/on.py <day> urdher-2017-1002-467`).
 
 ## Decisions made by hand
 

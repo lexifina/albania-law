@@ -9,7 +9,7 @@ Miratimin e programeve të ristrukturimit, në funksion të privatizimit të ins
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-377` (tags `vendim-2003-377/<day>`; `python tools/on.py <day> vendim-2003-377`).
+Act id: `vendim-2003-377` (tags `vendim-2003-377/<day>`; `python registry/tools/on.py <day> vendim-2003-377`).
 
 ## Decisions made by hand
 

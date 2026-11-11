@@ -15,7 +15,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Ekonomisë, Tregtisë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-443` (tags `vendim-2013-443/<day>`; `python tools/on.py <day> vendim-2013-443`).
+Act id: `vendim-2013-443` (tags `vendim-2013-443/<day>`; `python registry/tools/on.py <day> vendim-2013-443`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Format dhe procedurat e identifikimit dhe të raportimit nga organet, që licenc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2004-0318-3` (tags `udhezim-2004-0318-3/<day>`; `python tools/on.py <day> udhezim-2004-0318-3`).
+Act id: `udhezim-2004-0318-3` (tags `udhezim-2004-0318-3/<day>`; `python registry/tools/on.py <day> udhezim-2004-0318-3`).
 
 ## Decisions made by hand
 

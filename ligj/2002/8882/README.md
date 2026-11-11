@@ -9,7 +9,7 @@ Ratifikimin e “Protokollit shtesë të “Marrëveshjes Europiane për transme
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8882-2002` (tags `ligji-8882-2002/<day>`; `python tools/on.py <day> ligji-8882-2002`).
+Act id: `ligji-8882-2002` (tags `ligji-8882-2002/<day>`; `python registry/tools/on.py <day> ligji-8882-2002`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Rregullat dhe procedurat e ndryshimit të kategorive të resurseve të tokës ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-655` (tags `vendim-2010-655/<day>`; `python tools/on.py <day> vendim-2010-655`).
+Act id: `vendim-2010-655` (tags `vendim-2010-655/<day>`; `python registry/tools/on.py <day> vendim-2010-655`).
 
 ## Decisions made by hand
 

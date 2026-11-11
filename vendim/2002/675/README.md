@@ -5,7 +5,7 @@ Përdorimin e fondeve buxhetore të planifikuara për mallrat, shërbimet dhe nd
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-675` (tags `vendim-2002-675/<day>`; `python tools/on.py <day> vendim-2002-675`).
+Act id: `vendim-2002-675` (tags `vendim-2002-675/<day>`; `python registry/tools/on.py <day> vendim-2002-675`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Ndërprerjen e marrëdhënieve të punës, nga organet e administratës shtetër
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-478` (tags `vendim-2010-478/<day>`; `python tools/on.py <day> vendim-2010-478`).
+Act id: `vendim-2010-478` (tags `vendim-2010-478/<day>`; `python registry/tools/on.py <day> vendim-2010-478`).
 
 ## Decisions made by hand
 

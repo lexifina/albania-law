@@ -10,7 +10,7 @@ Miratimin e Planit Kombëtar të Veprimit për Rininë, 2015 - 2020 · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-383` (tags `vendim-2015-383/<day>`; `python tools/on.py <day> vendim-2015-383`).
+Act id: `vendim-2015-383` (tags `vendim-2015-383/<day>`; `python registry/tools/on.py <day> vendim-2015-383`).
 
 ## Decisions made by hand
 

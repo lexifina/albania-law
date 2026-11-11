@@ -11,7 +11,17 @@ Ratifikimin e “marrëveshjes së koncesionit, të formës “bot” (ndërtim,
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9298` (tags `ligj-2004-9298/<day>`; `python tools/on.py <day> ligj-2004-9298`).
+Act id: `ligj-2004-9298` (tags `ligj-2004-9298/<day>`; `python registry/tools/on.py <day> ligj-2004-9298`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 8, datë 10.12.2010 (Kryeministri) [QBZ 16663]: Për përcaktimin e kushteve dhe të procedurave të dhënies të së drejtës subjekteve juridike, për marrjen, në dispozicion, të sipërfaqeve të parashikuara për ndërtimin e objekteve e zhvillimin e veprimtarisë përkatëse në zonën energjetike dhe industriale, të porto-romanos, durrës](https://qbz.gov.al/eli/udhezim/2010/12/10/8)
+- [Ligji nr. 10108/2009: Për miratimin e disa shtesave e ndryshimeve në “marrëveshjen e koncesionit të formës “bot” për ndërtimin dhe shfrytëzimin e pontilit të naftës, gazit e nënprodukteve të tyre në zonën bregdetare të porto-romanos, durrës”, ratifikuar me ligjin nr.9298, datë 28.10.2004, të ndryshuar](https://qbz.gov.al/eli/ligj/2009/04/02/10108)
+- [Vendimi i Këshillit të Ministrave nr. 306, datë 25.3.2009: Për shpalljen, kategorizimin dhe emërtimin e portit “porto romano”, - “port i hapur për trafik ndërkombëtar”](https://qbz.gov.al/eli/vendim/2009/03/25/306)
 
 ## Decisions made by hand
 

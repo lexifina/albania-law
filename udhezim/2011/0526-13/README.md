@@ -8,7 +8,7 @@ Një ndryshim në udhëzimin nr.5, datë 30.1.2006 “Për tatimin mbi të ardhu
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0526-13` (tags `udhezim-2011-0526-13/<day>`; `python tools/on.py <day> udhezim-2011-0526-13`).
+Act id: `udhezim-2011-0526-13` (tags `udhezim-2011-0526-13/<day>`; `python registry/tools/on.py <day> udhezim-2011-0526-13`).
 
 ## Decisions made by hand
 

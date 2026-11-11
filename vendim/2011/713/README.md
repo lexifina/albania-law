@@ -5,7 +5,7 @@ Caktimin e tarifave të shërbimIt të zyrave të regjistrimit të pasurive të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-713` (tags `vendim-2011-713/<day>`; `python tools/on.py <day> vendim-2011-713`).
+Act id: `vendim-2011-713` (tags `vendim-2011-713/<day>`; `python registry/tools/on.py <day> vendim-2011-713`).
 
 ## Decisions made by hand
 

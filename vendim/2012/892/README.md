@@ -21,7 +21,7 @@ PËR NDRYSHIMIN E EMËRTIMIT TË SPITALIT USHTARAK QENDROR UNIVERSITAR NË “SP
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-892` (tags `vendim-2012-892/<day>`; `python tools/on.py <day> vendim-2012-892`).
+Act id: `vendim-2012-892` (tags `vendim-2012-892/<day>`; `python registry/tools/on.py <day> vendim-2012-892`).
 
 ## Decisions made by hand
 

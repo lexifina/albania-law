@@ -10,7 +10,7 @@ Ratifikimin e “protokollit të tretë shtesë të “marrëveshjes së forcës
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8816` (tags `ligj-2001-8816/<day>`; `python tools/on.py <day> ligj-2001-8816`).
+Act id: `ligj-2001-8816` (tags `ligj-2001-8816/<day>`; `python registry/tools/on.py <day> ligj-2001-8816`).
 
 ## Decisions made by hand
 

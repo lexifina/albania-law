@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në “Marrëveshjen europiane për linj
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9873` (tags `ligj-2008-9873/<day>`; `python tools/on.py <day> ligj-2008-9873`).
+Act id: `ligj-2008-9873` (tags `ligj-2008-9873/<day>`; `python registry/tools/on.py <day> ligj-2008-9873`).
 
 ## Decisions made by hand
 

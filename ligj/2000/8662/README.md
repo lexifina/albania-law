@@ -10,7 +10,7 @@ Trajtimin si titull ekzekutiv të faturës së konsumit të energjisë elektrike
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8662` (tags `ligj-2000-8662/<day>`; `python tools/on.py <day> ligj-2000-8662`).
+Act id: `ligj-2000-8662` (tags `ligj-2000-8662/<day>`; `python registry/tools/on.py <day> ligj-2000-8662`).
 
 ## Decisions made by hand
 

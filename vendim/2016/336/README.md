@@ -13,7 +13,7 @@ Transferimin e aksioneve të shoqërive të tregjeve të tregtimit me shumicë d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-07-29 |
 
-Act id: `vendim-2016-336` (tags `vendim-2016-336/<day>`; `python tools/on.py <day> vendim-2016-336`).
+Act id: `vendim-2016-336` (tags `vendim-2016-336/<day>`; `python registry/tools/on.py <day> vendim-2016-336`).
 
 ## Decisions made by hand
 

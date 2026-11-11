@@ -11,7 +11,7 @@ Ekzekutimin e vendimit të gjykatës europiane për të drejtat e njeriut, datë
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-399` (tags `vendim-2012-399/<day>`; `python tools/on.py <day> vendim-2012-399`).
+Act id: `vendim-2012-399` (tags `vendim-2012-399/<day>`; `python registry/tools/on.py <day> vendim-2012-399`).
 
 ## Decisions made by hand
 

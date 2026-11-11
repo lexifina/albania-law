@@ -5,7 +5,7 @@ Delegim kompetencash për miratimin e shërbimeve jashtë vendit për nëpunësi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2019-0104-5` (tags `urdher-2019-0104-5/<day>`; `python tools/on.py <day> urdher-2019-0104-5`).
+Act id: `urdher-2019-0104-5` (tags `urdher-2019-0104-5/<day>`; `python registry/tools/on.py <day> urdher-2019-0104-5`).
 
 ## Decisions made by hand
 

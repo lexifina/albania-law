@@ -5,7 +5,7 @@ Delegimin e kompetencave · 2 versions, from 2017-05-31 (latest in force: 2017-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-0522-113` (tags `urdher-2017-0522-113/<day>`; `python tools/on.py <day> urdher-2017-0522-113`).
+Act id: `urdher-2017-0522-113` (tags `urdher-2017-0522-113/<day>`; `python registry/tools/on.py <day> urdher-2017-0522-113`).
 
 ## Decisions made by hand
 

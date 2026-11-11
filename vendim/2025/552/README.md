@@ -13,7 +13,7 @@ Miratimin e Nomenklaturës së Veprimtarive Ekonomike të Revizionuara (Rev.2.1)
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-552` (tags `vendim-2025-552/<day>`; `python tools/on.py <day> vendim-2025-552`).
+Act id: `vendim-2025-552` (tags `vendim-2025-552/<day>`; `python registry/tools/on.py <day> vendim-2025-552`).
 
 ## Decisions made by hand
 

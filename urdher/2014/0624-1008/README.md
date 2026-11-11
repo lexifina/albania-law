@@ -5,7 +5,7 @@ Përcaktimin e kategorisë së zyrtarëve të administratës tatimore, të cilë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-0624-1008` (tags `urdher-2014-0624-1008/<day>`; `python tools/on.py <day> urdher-2014-0624-1008`).
+Act id: `urdher-2014-0624-1008` (tags `urdher-2014-0624-1008/<day>`; `python registry/tools/on.py <day> urdher-2014-0624-1008`).
 
 ## Decisions made by hand
 

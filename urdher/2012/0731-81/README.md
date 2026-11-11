@@ -5,7 +5,7 @@ Mbi përpunimin e të dhënave personale në sektorin bankar · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0731-81` (tags `urdher-2012-0731-81/<day>`; `python tools/on.py <day> urdher-2012-0731-81`).
+Act id: `urdher-2012-0731-81` (tags `urdher-2012-0731-81/<day>`; `python registry/tools/on.py <day> urdher-2012-0731-81`).
 
 ## Decisions made by hand
 

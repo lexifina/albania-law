@@ -24,7 +24,7 @@ Kriteret dhe procedurën e programit të certifikimit të profesionistëve të s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-624` (tags `vendim-2020-624/<day>`; `python tools/on.py <day> vendim-2020-624`).
+Act id: `vendim-2020-624` (tags `vendim-2020-624/<day>`; `python registry/tools/on.py <day> vendim-2020-624`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e protokollit të bisedimeve, ndërmjet qeverisë së republikës së 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-898` (tags `vendim-2012-898/<day>`; `python tools/on.py <day> vendim-2012-898`).
+Act id: `vendim-2012-898` (tags `vendim-2012-898/<day>`; `python registry/tools/on.py <day> vendim-2012-898`).
 
 ## Decisions made by hand
 

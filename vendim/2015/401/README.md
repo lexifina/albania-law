@@ -13,7 +13,7 @@ Përcaktimin e tarifës dhe të rregullave për pagimin e saj në një procedur�
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-401` (tags `vendim-2015-401/<day>`; `python tools/on.py <day> vendim-2015-401`).
+Act id: `vendim-2015-401` (tags `vendim-2015-401/<day>`; `python registry/tools/on.py <day> vendim-2015-401`).
 
 ## Decisions made by hand
 

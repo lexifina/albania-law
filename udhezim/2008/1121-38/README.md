@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për shërbimet konsullore të ministris�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1121-38` (tags `udhezim-2008-1121-38/<day>`; `python tools/on.py <day> udhezim-2008-1121-38`).
+Act id: `udhezim-2008-1121-38` (tags `udhezim-2008-1121-38/<day>`; `python registry/tools/on.py <day> udhezim-2008-1121-38`).
 
 ## Decisions made by hand
 

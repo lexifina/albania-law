@@ -10,7 +10,7 @@ Ratifikimin e “Protokollit për pranimin e Komunitetit Europian në Konventën
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9619` (tags `ligj-2006-9619/<day>`; `python tools/on.py <day> ligj-2006-9619`).
+Act id: `ligj-2006-9619` (tags `ligj-2006-9619/<day>`; `python registry/tools/on.py <day> ligj-2006-9619`).
 
 ## Decisions made by hand
 

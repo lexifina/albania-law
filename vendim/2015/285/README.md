@@ -5,7 +5,7 @@ Tavanet përgatitore të shpenzimeve të programit buxhetor afatmesëm 2016 - 20
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-285` (tags `vendim-2015-285/<day>`; `python tools/on.py <day> vendim-2015-285`).
+Act id: `vendim-2015-285` (tags `vendim-2015-285/<day>`; `python registry/tools/on.py <day> vendim-2015-285`).
 
 ## Decisions made by hand
 

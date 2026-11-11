@@ -54,7 +54,7 @@ Mënyrën e funksionimit e të pagesës së anëtarëve të komisionit të mbroj
 | Pika 47 | [pika-047.md](pika-047.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1444` (tags `vendim-2008-1444/<day>`; `python tools/on.py <day> vendim-2008-1444`).
+Act id: `vendim-2008-1444` (tags `vendim-2008-1444/<day>`; `python registry/tools/on.py <day> vendim-2008-1444`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Rritjen e pensioneve · 1 versions, from 2012-07-02 (latest in force: 2012-07-02
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-387` (tags `vendim-2012-387/<day>`; `python tools/on.py <day> vendim-2012-387`).
+Act id: `vendim-2012-387` (tags `vendim-2012-387/<day>`; `python registry/tools/on.py <day> vendim-2012-387`).
 
 ## Decisions made by hand
 

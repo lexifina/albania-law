@@ -10,7 +10,7 @@ Miratimin e rregullores “Për marrëdhëniet e Avokaturës së Shtetit dhe per
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-11-27 |
 
-Act id: `vendim-2024-711` (tags `vendim-2024-711/<day>`; `python tools/on.py <day> vendim-2024-711`).
+Act id: `vendim-2024-711` (tags `vendim-2024-711/<day>`; `python registry/tools/on.py <day> vendim-2024-711`).
 
 ## Decisions made by hand
 

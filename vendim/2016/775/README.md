@@ -10,7 +10,7 @@ Përcaktimin e masës së financimit, nga buxheti i vitit 2016, për kishën kat
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-775` (tags `vendim-2016-775/<day>`; `python tools/on.py <day> vendim-2016-775`).
+Act id: `vendim-2016-775` (tags `vendim-2016-775/<day>`; `python registry/tools/on.py <day> vendim-2016-775`).
 
 ## Decisions made by hand
 

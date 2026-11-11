@@ -9,7 +9,7 @@ Miratimin e strukturës dhe të niveleve të pagave të punonjësve të administ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2009-03-18 |
 
-Act id: `vendim-2009-21` (tags `vendim-2009-21/<day>`; `python tools/on.py <day> vendim-2009-21`).
+Act id: `vendim-2009-21` (tags `vendim-2009-21/<day>`; `python registry/tools/on.py <day> vendim-2009-21`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Kalimin në përgjegjësi administrimi të qendrës kombëtare pritëse të azil
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-262` (tags `vendim-2004-262/<day>`; `python tools/on.py <day> vendim-2004-262`).
+Act id: `vendim-2004-262` (tags `vendim-2004-262/<day>`; `python registry/tools/on.py <day> vendim-2004-262`).
 
 ## Decisions made by hand
 

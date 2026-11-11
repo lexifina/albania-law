@@ -12,7 +12,7 @@ Miratimin e rregullores “për disenjot industriale” · 1 versions, from 2018
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-270` (tags `vendim-2018-270/<day>`; `python tools/on.py <day> vendim-2018-270`).
+Act id: `vendim-2018-270` (tags `vendim-2018-270/<day>`; `python registry/tools/on.py <day> vendim-2018-270`).
 
 ## Decisions made by hand
 

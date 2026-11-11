@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me ishujt Tuvalu · 1 versions, from 200
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-953` (tags `vendim-2008-953/<day>`; `python tools/on.py <day> vendim-2008-953`).
+Act id: `vendim-2008-953` (tags `vendim-2008-953/<day>`; `python registry/tools/on.py <day> vendim-2008-953`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Transferimin e pronësisë së 89,652% të aksioneve të shoqërisë “Duhan Ci
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-639` (tags `vendim-2026-639/<day>`; `python tools/on.py <day> vendim-2026-639`).
+Act id: `vendim-2026-639` (tags `vendim-2026-639/<day>`; `python registry/tools/on.py <day> vendim-2026-639`).
 
 ## Decisions made by hand
 

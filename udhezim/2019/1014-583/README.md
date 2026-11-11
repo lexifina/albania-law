@@ -19,7 +19,7 @@ Miratimin e kritereve dhe procedurave standarde të kalimit të pronës në admi
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-1014-583` (tags `udhezim-2019-1014-583/<day>`; `python tools/on.py <day> udhezim-2019-1014-583`).
+Act id: `udhezim-2019-1014-583` (tags `udhezim-2019-1014-583/<day>`; `python registry/tools/on.py <day> udhezim-2019-1014-583`).
 
 ## Decisions made by hand
 

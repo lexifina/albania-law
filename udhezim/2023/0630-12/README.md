@@ -29,7 +29,7 @@ Procedurat e aplikimit dhe të regjistrimit në institucionet e arsimit të lart
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0630-12` (tags `udhezim-2023-0630-12/<day>`; `python tools/on.py <day> udhezim-2023-0630-12`).
+Act id: `udhezim-2023-0630-12` (tags `udhezim-2023-0630-12/<day>`; `python registry/tools/on.py <day> udhezim-2023-0630-12`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Disa ndryshime dhe shtesa në vendimin nr.205, datë 13.4.1999 të Këshillit t�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-940` (tags `vendim-2010-940/<day>`; `python tools/on.py <day> vendim-2010-940`).
+Act id: `vendim-2010-940` (tags `vendim-2010-940/<day>`; `python registry/tools/on.py <day> vendim-2010-940`).
 
 ## Decisions made by hand
 

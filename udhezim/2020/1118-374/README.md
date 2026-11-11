@@ -30,7 +30,7 @@ Përcaktimin e rregullave dhe të procedurave për financimin e projekteve nga F
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-1118-374` (tags `udhezim-2020-1118-374/<day>`; `python tools/on.py <day> udhezim-2020-1118-374`).
+Act id: `udhezim-2020-1118-374` (tags `udhezim-2020-1118-374/<day>`; `python registry/tools/on.py <day> udhezim-2020-1118-374`).
 
 ## Decisions made by hand
 

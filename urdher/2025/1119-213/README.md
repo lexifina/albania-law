@@ -12,7 +12,7 @@ Miratimin e rregullores ”Për kushtet, kriteret, afatet, si dhe procedurën p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-10 |
 
-Act id: `urdher-2025-1119-213` (tags `urdher-2025-1119-213/<day>`; `python tools/on.py <day> urdher-2025-1119-213`).
+Act id: `urdher-2025-1119-213` (tags `urdher-2025-1119-213/<day>`; `python registry/tools/on.py <day> urdher-2025-1119-213`).
 
 ## Decisions made by hand
 

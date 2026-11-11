@@ -11,7 +11,7 @@ Ndalimin e hyrjes në Republikën e Shqipërisë të shtetasve të huaj me histo
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-1203-520` (tags `urdher-2021-1203-520/<day>`; `python tools/on.py <day> urdher-2021-1203-520`).
+Act id: `urdher-2021-1203-520` (tags `urdher-2021-1203-520/<day>`; `python registry/tools/on.py <day> urdher-2021-1203-520`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e buxhetit të Agjencisë Shtetërore të Kadastrës, për vitin 2023 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-08-29 |
 
-Act id: `vendim-2023-111` (tags `vendim-2023-111/<day>`; `python tools/on.py <day> vendim-2023-111`).
+Act id: `vendim-2023-111` (tags `vendim-2023-111/<day>`; `python registry/tools/on.py <day> vendim-2023-111`).
 
 ## Decisions made by hand
 

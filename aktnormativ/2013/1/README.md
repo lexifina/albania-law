@@ -13,7 +13,7 @@ Pajisjen me leje përdorimi të strukturave të ndërtuara me shkelje të kushte
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2013-1` (tags `aktnormativ-2013-1/<day>`; `python tools/on.py <day> aktnormativ-2013-1`).
+Act id: `aktnormativ-2013-1` (tags `aktnormativ-2013-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2013-1`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Përcaktimin e kritereve, intensitetit dhe të procedurës për dhënien dhe aut
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-650` (tags `vendim-2016-650/<day>`; `python tools/on.py <day> vendim-2016-650`).
+Act id: `vendim-2016-650` (tags `vendim-2016-650/<day>`; `python registry/tools/on.py <day> vendim-2016-650`).
 
 ## Decisions made by hand
 

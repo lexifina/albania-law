@@ -5,7 +5,7 @@ Kriteret për zgjedhjen e vendeve për afishimin e materialeve propagandistike n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0424-14` (tags `udhezim-2009-0424-14/<day>`; `python tools/on.py <day> udhezim-2009-0424-14`).
+Act id: `udhezim-2009-0424-14` (tags `udhezim-2009-0424-14/<day>`; `python registry/tools/on.py <day> udhezim-2009-0424-14`).
 
 ## Decisions made by hand
 

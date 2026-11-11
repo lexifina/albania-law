@@ -14,7 +14,7 @@ Përcaktimin e procedurës së vlerësimit të kontributit të donacioneve në f
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-118` (tags `vendim-2020-118/<day>`; `python tools/on.py <day> vendim-2020-118`).
+Act id: `vendim-2020-118` (tags `vendim-2020-118/<day>`; `python registry/tools/on.py <day> vendim-2020-118`).
 
 ## Decisions made by hand
 

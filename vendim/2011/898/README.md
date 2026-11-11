@@ -15,7 +15,7 @@ Shpalljen e ekosistemit natyror malor korab - koritnik “park natyror” · 1 v
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-898` (tags `vendim-2011-898/<day>`; `python tools/on.py <day> vendim-2011-898`).
+Act id: `vendim-2011-898` (tags `vendim-2011-898/<day>`; `python registry/tools/on.py <day> vendim-2011-898`).
 
 ## Decisions made by hand
 

@@ -25,7 +25,7 @@ Mënyrën e marrjes në dorëzim të mallrave nga Drejtoria e Përgjithshme e Re
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0218-1` (tags `udhezim-2015-0218-1/<day>`; `python tools/on.py <day> udhezim-2015-0218-1`).
+Act id: `udhezim-2015-0218-1` (tags `udhezim-2015-0218-1/<day>`; `python registry/tools/on.py <day> udhezim-2015-0218-1`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr.1619, datë 2.7.2008, të këshillit të ministra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-598` (tags `vendim-2009-598/<day>`; `python tools/on.py <day> vendim-2009-598`).
+Act id: `vendim-2009-598` (tags `vendim-2009-598/<day>`; `python registry/tools/on.py <day> vendim-2009-598`).
 
 ## Decisions made by hand
 

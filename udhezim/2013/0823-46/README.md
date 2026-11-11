@@ -13,7 +13,15 @@ Vitin shkollor 2013-2014 në sistemin arsimor parauniversitar · 1 versions, fro
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0823-46` (tags `udhezim-2013-0823-46/<day>`; `python tools/on.py <day> udhezim-2013-0823-46`).
+Act id: `udhezim-2013-0823-46` (tags `udhezim-2013-0823-46/<day>`; `python registry/tools/on.py <day> udhezim-2013-0823-46`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 14, datë 8.5.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 10951]: Për mbylljen e vitit shkollor 2013-2014 dhe organizimin e provimit të gjuhës së huaj të maturës shtetërore 2014](https://qbz.gov.al/eli/udhezim/2014/05/08/14)
 
 ## Decisions made by hand
 

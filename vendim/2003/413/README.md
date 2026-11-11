@@ -9,7 +9,7 @@ Kalimin e banesave të ndërtuara në qytetin e vlorës në pronësi të banorë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-413` (tags `vendim-2003-413/<day>`; `python tools/on.py <day> vendim-2003-413`).
+Act id: `vendim-2003-413` (tags `vendim-2003-413/<day>`; `python registry/tools/on.py <day> vendim-2003-413`).
 
 ## Decisions made by hand
 

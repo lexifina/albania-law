@@ -8,7 +8,16 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 13, datë 2.4.2020, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-34` (tags `ligj-2020-34/<day>`; `python tools/on.py <day> ligj-2020-34`).
+Act id: `ligj-2020-34` (tags `ligj-2020-34/<day>`; `python registry/tools/on.py <day> ligj-2020-34`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Akti normativ nr. 22, datë 27.5.2020: Për shfuqizimin e aktit normativ nr.13, datë 2.4.2020, të Këshillit të Ministrave, “Për marrjen e masave të veçanta në fushën e veprimtarisë së shërbimit përmbarimor gjyqësor, ndërmjetësimit dhe administrimit të procedurave të falimentimit gjatë kohëzgjatjes së gjendjes së epidemisë të shkaktuar nga COVID-19”, miratuar me ligjin nr.34/2020](https://qbz.gov.al/eli/akt-normativ/2020/05/27/22)
+- [Ligji nr. 76/2020: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 22, datë 27.5.2020 ”Për shfuqizimin e aktit normativ nr. 13, datë 2.4.2020, të Këshillit të Ministrave, ”Për marrjen e masave të veҫanta në fushën e veprimtarisë së shërbimit përmbarimor gjyqësor, ndërmjetësimit dhe administrimit të procedurave të falimentimit, gjatë kohëzgjatjes së gjendjes së epidemisë së shkaktuar nga COVID-19””, miratuar me ligjin nr. 34/2020](https://qbz.gov.al/eli/ligj/2020/06/25/76)
 
 ## Decisions made by hand
 

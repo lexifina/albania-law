@@ -25,7 +25,7 @@ Përcaktimin e rregullave teknike për dorëzimin, bërjen të paefektshme për 
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-0423-672` (tags `udhezim-2008-0423-672/<day>`; `python tools/on.py <day> udhezim-2008-0423-672`).
+Act id: `udhezim-2008-0423-672` (tags `udhezim-2008-0423-672/<day>`; `python registry/tools/on.py <day> udhezim-2008-0423-672`).
 
 ## Decisions made by hand
 

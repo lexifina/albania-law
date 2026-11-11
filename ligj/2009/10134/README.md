@@ -20,7 +20,7 @@ Krijimin e qendrës së panaireve dhe të ekspozitave tregtare · 1 versions, fr
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10134-2009` (tags `ligji-10134-2009/<day>`; `python tools/on.py <day> ligji-10134-2009`).
+Act id: `ligji-10134-2009` (tags `ligji-10134-2009/<day>`; `python registry/tools/on.py <day> ligji-10134-2009`).
 
 ## Decisions made by hand
 

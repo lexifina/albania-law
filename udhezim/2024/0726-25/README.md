@@ -11,7 +11,7 @@ Mbi specifikimet për aditivët ushqimorë të listuar në shtojcat II dhe III, 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0726-25` (tags `udhezim-2024-0726-25/<day>`; `python tools/on.py <day> udhezim-2024-0726-25`).
+Act id: `udhezim-2024-0726-25` (tags `udhezim-2024-0726-25/<day>`; `python registry/tools/on.py <day> udhezim-2024-0726-25`).
 
 ## Decisions made by hand
 

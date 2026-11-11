@@ -10,7 +10,15 @@ Miratimin e kushteve dhe të procedurave për ndërtimin e interkonektorëve të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-16` (tags `vendim-2017-16/<day>`; `python tools/on.py <day> vendim-2017-16`).
+Act id: `vendim-2017-16` (tags `vendim-2017-16/<day>`; `python registry/tools/on.py <day> vendim-2017-16`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 685, datë 14.11.2018: R miratimin e praktikave për promovimin e investimeve të përbashkëta, rajonale, në infrastrukturën e sektorit të energjisë *](https://qbz.gov.al/eli/vendim/2018/11/14/685)
 
 ## Decisions made by hand
 

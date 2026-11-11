@@ -20,7 +20,7 @@ Caktimin e çmimit dhe tarifave të botimeve të Qendrës së Botimeve Zyrtare, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-11-18 |
 
-Act id: `udhezim-2015-0105-8451` (tags `udhezim-2015-0105-8451/<day>`; `python tools/on.py <day> udhezim-2015-0105-8451`).
+Act id: `udhezim-2015-0105-8451` (tags `udhezim-2015-0105-8451/<day>`; `python registry/tools/on.py <day> udhezim-2015-0105-8451`).
 
 ## Decisions made by hand
 

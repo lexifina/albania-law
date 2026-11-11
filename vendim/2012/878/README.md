@@ -9,7 +9,7 @@ Shtyrjen e afatit të njoftimit të kontratës së nënshkruar për procedurën 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-878` (tags `vendim-2012-878/<day>`; `python tools/on.py <day> vendim-2012-878`).
+Act id: `vendim-2012-878` (tags `vendim-2012-878/<day>`; `python registry/tools/on.py <day> vendim-2012-878`).
 
 ## Decisions made by hand
 

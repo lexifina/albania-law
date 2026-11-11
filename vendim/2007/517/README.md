@@ -22,7 +22,7 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-517` (tags `vendim-2007-517/<day>`; `python tools/on.py <day> vendim-2007-517`).
+Act id: `vendim-2007-517` (tags `vendim-2007-517/<day>`; `python registry/tools/on.py <day> vendim-2007-517`).
 
 ## Decisions made by hand
 

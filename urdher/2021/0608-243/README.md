@@ -5,7 +5,7 @@ Marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së inf
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0608-243` (tags `urdher-2021-0608-243/<day>`; `python tools/on.py <day> urdher-2021-0608-243`).
+Act id: `urdher-2021-0608-243` (tags `urdher-2021-0608-243/<day>`; `python registry/tools/on.py <day> urdher-2021-0608-243`).
 
 ## Decisions made by hand
 

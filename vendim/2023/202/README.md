@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e Ministrisë së Kulturës, për vitin 2023, p�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-202` (tags `vendim-2023-202/<day>`; `python tools/on.py <day> vendim-2023-202`).
+Act id: `vendim-2023-202` (tags `vendim-2023-202/<day>`; `python registry/tools/on.py <day> vendim-2023-202`).
 
 ## Decisions made by hand
 

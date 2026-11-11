@@ -10,7 +10,7 @@ Ndjekjen e procedurave për shpronësimin, për interes publik, të pronarëve t
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-820` (tags `vendim-2018-820/<day>`; `python tools/on.py <day> vendim-2018-820`).
+Act id: `vendim-2018-820` (tags `vendim-2018-820/<day>`; `python registry/tools/on.py <day> vendim-2018-820`).
 
 ## Decisions made by hand
 

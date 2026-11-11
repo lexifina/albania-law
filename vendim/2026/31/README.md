@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve, për vitin 2026, të Entit Rregullator të S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-06-30 |
 
-Act id: `vendim-2026-31` (tags `vendim-2026-31/<day>`; `python tools/on.py <day> vendim-2026-31`).
+Act id: `vendim-2026-31` (tags `vendim-2026-31/<day>`; `python registry/tools/on.py <day> vendim-2026-31`).
 
 ## Decisions made by hand
 

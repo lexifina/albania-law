@@ -29,7 +29,7 @@ Procedurën e shpalljes publike të pasurive kulturore, që zbulohen në det · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-565` (tags `vendim-2026-565/<day>`; `python tools/on.py <day> vendim-2026-565`).
+Act id: `vendim-2026-565` (tags `vendim-2026-565/<day>`; `python registry/tools/on.py <day> vendim-2026-565`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Fondin e veçantë në institucionet buxhetore · 2 versions, from 2006-07-07 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-434` (tags `vendim-2006-434/<day>`; `python tools/on.py <day> vendim-2006-434`).
+Act id: `vendim-2006-434` (tags `vendim-2006-434/<day>`; `python registry/tools/on.py <day> vendim-2006-434`).
 
 ## Decisions made by hand
 

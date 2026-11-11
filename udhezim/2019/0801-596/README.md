@@ -21,7 +21,7 @@ Mbi përcaktimin e masës për përfitimin e pagesës së aftësisë së kufizua
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0801-596` (tags `udhezim-2019-0801-596/<day>`; `python tools/on.py <day> udhezim-2019-0801-596`).
+Act id: `udhezim-2019-0801-596` (tags `udhezim-2019-0801-596/<day>`; `python registry/tools/on.py <day> udhezim-2019-0801-596`).
 
 ## Decisions made by hand
 

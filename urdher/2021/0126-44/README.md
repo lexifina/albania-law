@@ -5,7 +5,7 @@ Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuaku
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0126-44` (tags `urdher-2021-0126-44/<day>`; `python tools/on.py <day> urdher-2021-0126-44`).
+Act id: `urdher-2021-0126-44` (tags `urdher-2021-0126-44/<day>`; `python registry/tools/on.py <day> urdher-2021-0126-44`).
 
 ## Decisions made by hand
 

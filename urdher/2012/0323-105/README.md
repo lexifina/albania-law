@@ -10,7 +10,7 @@ Miratimin e rregullores “për etikën në veprimtarinë kërkimore dhe botuese
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0323-105` (tags `urdher-2012-0323-105/<day>`; `python tools/on.py <day> urdher-2012-0323-105`).
+Act id: `urdher-2012-0323-105` (tags `urdher-2012-0323-105/<day>`; `python registry/tools/on.py <day> urdher-2012-0323-105`).
 
 ## Decisions made by hand
 

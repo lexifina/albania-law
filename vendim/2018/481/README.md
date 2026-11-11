@@ -12,7 +12,7 @@ Kalimin në përgjegjësi administrimi, nga ministria e turizmit dhe mjedisit dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-481` (tags `vendim-2018-481/<day>`; `python tools/on.py <day> vendim-2018-481`).
+Act id: `vendim-2018-481` (tags `vendim-2018-481/<day>`; `python registry/tools/on.py <day> vendim-2018-481`).
 
 ## Decisions made by hand
 

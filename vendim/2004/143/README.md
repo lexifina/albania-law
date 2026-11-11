@@ -9,7 +9,7 @@ PËR ANËTARËSIMIN E MINISTRISë SË BUJQËSISË DHE TË USHQIMIT NË KOMITETIN
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-143` (tags `vendim-2004-143/<day>`; `python tools/on.py <day> vendim-2004-143`).
+Act id: `vendim-2004-143` (tags `vendim-2004-143/<day>`; `python registry/tools/on.py <day> vendim-2004-143`).
 
 ## Decisions made by hand
 

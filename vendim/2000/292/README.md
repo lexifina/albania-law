@@ -12,7 +12,7 @@ Shpronësimin e godinës aktuale të muzeut etnografik në qytetin e krujës pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-292` (tags `vendim-2000-292/<day>`; `python tools/on.py <day> vendim-2000-292`).
+Act id: `vendim-2000-292` (tags `vendim-2000-292/<day>`; `python registry/tools/on.py <day> vendim-2000-292`).
 
 ## Decisions made by hand
 

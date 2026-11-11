@@ -16,7 +16,7 @@ Shpalljen e moratoriumit të gjuetisë në republikën e shqipërisë · 1 versi
 | Neni 8 | [neni-008-2.md](neni-008-2.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-61-2016` (tags `ligji-61-2016/<day>`; `python tools/on.py <day> ligji-61-2016`).
+Act id: `ligji-61-2016` (tags `ligji-61-2016/<day>`; `python registry/tools/on.py <day> ligji-61-2016`).
 
 ## Decisions made by hand
 

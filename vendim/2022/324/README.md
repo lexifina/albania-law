@@ -13,7 +13,7 @@ Përcaktimin e kërkesave dhe kushteve, që duhet të plotësojë një standard 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-324` (tags `vendim-2022-324/<day>`; `python tools/on.py <day> vendim-2022-324`).
+Act id: `vendim-2022-324` (tags `vendim-2022-324/<day>`; `python registry/tools/on.py <day> vendim-2022-324`).
 
 ## Decisions made by hand
 

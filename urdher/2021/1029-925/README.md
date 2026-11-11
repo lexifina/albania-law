@@ -9,7 +9,7 @@ Miratimin e formularit të deklarimit të pasurisë dhe interesave private · 1 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-1029-925` (tags `urdher-2021-1029-925/<day>`; `python tools/on.py <day> urdher-2021-1029-925`).
+Act id: `urdher-2021-1029-925` (tags `urdher-2021-1029-925/<day>`; `python registry/tools/on.py <day> urdher-2021-1029-925`).
 
 ## Decisions made by hand
 

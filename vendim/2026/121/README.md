@@ -18,7 +18,7 @@ Krijimin, organizimin dhe funksionimin e Inspektoratit Qendror të Arsimit Parau
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-121` (tags `vendim-2026-121/<day>`; `python tools/on.py <day> vendim-2026-121`).
+Act id: `vendim-2026-121` (tags `vendim-2026-121/<day>`; `python registry/tools/on.py <day> vendim-2026-121`).
 
 ## Decisions made by hand
 

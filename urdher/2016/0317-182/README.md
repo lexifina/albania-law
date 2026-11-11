@@ -10,7 +10,7 @@ Miratimin e rregullores “për paraqitjen e vlerave ushqimore dhe shëndetësor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-0317-182` (tags `urdher-2016-0317-182/<day>`; `python tools/on.py <day> urdher-2016-0317-182`).
+Act id: `urdher-2016-0317-182` (tags `urdher-2016-0317-182/<day>`; `python registry/tools/on.py <day> urdher-2016-0317-182`).
 
 ## Decisions made by hand
 

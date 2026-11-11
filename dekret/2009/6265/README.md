@@ -5,7 +5,7 @@ Caktimin e numrit të gjyqtarëve për çdo gjykatë të shkallës së parë dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `dekret-2009-6265` (tags `dekret-2009-6265/<day>`; `python tools/on.py <day> dekret-2009-6265`).
+Act id: `dekret-2009-6265` (tags `dekret-2009-6265/<day>`; `python registry/tools/on.py <day> dekret-2009-6265`).
 
 ## Decisions made by hand
 

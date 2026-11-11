@@ -5,7 +5,7 @@ Miratimin e fushave dhe nënfushave prioritare të zhvillimit të vendit dhe të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2023-419` (tags `vendim-2023-419/<day>`; `python tools/on.py <day> vendim-2023-419`).
+Act id: `vendim-2023-419` (tags `vendim-2023-419/<day>`; `python registry/tools/on.py <day> vendim-2023-419`).
 
 ## Decisions made by hand
 

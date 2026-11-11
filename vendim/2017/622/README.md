@@ -12,7 +12,7 @@ Përcaktimin e kritereve dhe të masës së përfitimit të ndihmës financiare 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-622` (tags `vendim-2017-622/<day>`; `python tools/on.py <day> vendim-2017-622`).
+Act id: `vendim-2017-622` (tags `vendim-2017-622/<day>`; `python registry/tools/on.py <day> vendim-2017-622`).
 
 ## Decisions made by hand
 

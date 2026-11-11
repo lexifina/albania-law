@@ -5,7 +5,7 @@ Mbrojtjen e racës autoktone të buajve nga zhdukja · 2 versions, from 2002-05-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-219` (tags `vendim-2002-219/<day>`; `python tools/on.py <day> vendim-2002-219`).
+Act id: `vendim-2002-219` (tags `vendim-2002-219/<day>`; `python registry/tools/on.py <day> vendim-2002-219`).
 
 ## Decisions made by hand
 

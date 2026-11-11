@@ -12,7 +12,7 @@ Miratimin e modelit të tregut të gazit natyror · 1 versions, from 2018-10-16 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-590` (tags `vendim-2018-590/<day>`; `python tools/on.py <day> vendim-2018-590`).
+Act id: `vendim-2018-590` (tags `vendim-2018-590/<day>`; `python registry/tools/on.py <day> vendim-2018-590`).
 
 ## Decisions made by hand
 

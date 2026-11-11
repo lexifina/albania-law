@@ -23,7 +23,7 @@ Mbi procedurat për përballimin nga shteti të shpenzimeve të shërbimit të v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2004-0621-3912` (tags `udhezim-2004-0621-3912/<day>`; `python tools/on.py <day> udhezim-2004-0621-3912`).
+Act id: `udhezim-2004-0621-3912` (tags `udhezim-2004-0621-3912/<day>`; `python registry/tools/on.py <day> udhezim-2004-0621-3912`).
 
 ## Decisions made by hand
 

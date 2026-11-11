@@ -11,7 +11,7 @@ Ratifikimin e “konventës penale për korrupsionin · 2 versions, from 2001-06
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8778` (tags `ligj-2001-8778/<day>`; `python tools/on.py <day> ligj-2001-8778`).
+Act id: `ligj-2001-8778` (tags `ligj-2001-8778/<day>`; `python registry/tools/on.py <day> ligj-2001-8778`).
 
 ## Decisions made by hand
 

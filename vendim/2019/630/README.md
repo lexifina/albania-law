@@ -12,7 +12,7 @@ Miratimin e buxhetit të vitit 2019, për Agjencinë Shtetërore të Kadastrës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-630` (tags `vendim-2019-630/<day>`; `python tools/on.py <day> vendim-2019-630`).
+Act id: `vendim-2019-630` (tags `vendim-2019-630/<day>`; `python registry/tools/on.py <day> vendim-2019-630`).
 
 ## Decisions made by hand
 

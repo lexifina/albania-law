@@ -10,7 +10,7 @@ Miratimin e shpenzimeve operative, për vitin 2005, të Entit Rregullator të se
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-713` (tags `vendim-2004-713/<day>`; `python tools/on.py <day> vendim-2004-713`).
+Act id: `vendim-2004-713` (tags `vendim-2004-713/<day>`; `python registry/tools/on.py <day> vendim-2004-713`).
 
 ## Decisions made by hand
 

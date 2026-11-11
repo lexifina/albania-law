@@ -5,7 +5,7 @@ PËR PROCEDURËn E SHQYRTIMIT TË KËRKESAVE PËR LICENcIM, TË SUBJEKTEVE QË K
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0728-1457` (tags `udhezim-2009-0728-1457/<day>`; `python tools/on.py <day> udhezim-2009-0728-1457`).
+Act id: `udhezim-2009-0728-1457` (tags `udhezim-2009-0728-1457/<day>`; `python registry/tools/on.py <day> udhezim-2009-0728-1457`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e strukturës së pagës së punonjësve të agjencisë së administri
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1106` (tags `vendim-2008-1106/<day>`; `python tools/on.py <day> vendim-2008-1106`).
+Act id: `vendim-2008-1106` (tags `vendim-2008-1106/<day>`; `python registry/tools/on.py <day> vendim-2008-1106`).
 
 ## Decisions made by hand
 

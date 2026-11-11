@@ -110,7 +110,7 @@ Strehimin social · 2 versions, from 2018-11-30 (latest in force: 2023-07-25) ·
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-07-25 |
 
-Act id: `ligj-2018-22` (tags `ligj-2018-22/<day>`; `python tools/on.py <day> ligj-2018-22`).
+Act id: `ligj-2018-22` (tags `ligj-2018-22/<day>`; `python registry/tools/on.py <day> ligj-2018-22`).
 
 ## Decisions made by hand
 

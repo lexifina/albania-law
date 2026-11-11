@@ -12,7 +12,7 @@ Hapjen e programit të integruar të studimeve të ciklit të parë dhe të dyt�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1210-559` (tags `urdher-2010-1210-559/<day>`; `python tools/on.py <day> urdher-2010-1210-559`).
+Act id: `urdher-2010-1210-559` (tags `urdher-2010-1210-559/<day>`; `python registry/tools/on.py <day> urdher-2010-1210-559`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ PËR MIRATIMIN E SHTESëS NR.1 të MARRëVESHJES Së FINANCIMIT, NDëRMJET KëSH
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-610` (tags `vendim-2011-610/<day>`; `python tools/on.py <day> vendim-2011-610`).
+Act id: `vendim-2011-610` (tags `vendim-2011-610/<day>`; `python registry/tools/on.py <day> vendim-2011-610`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores mbi praktikën e përgatitjes së mirë të përgatesave
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0831-564` (tags `urdher-2023-0831-564/<day>`; `python tools/on.py <day> urdher-2023-0831-564`).
+Act id: `urdher-2023-0831-564` (tags `urdher-2023-0831-564/<day>`; `python registry/tools/on.py <day> urdher-2023-0831-564`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e bonusit, në procedurën përzgjedhëse konkurruese, që i jepet sho
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-609` (tags `vendim-2013-609/<day>`; `python tools/on.py <day> vendim-2013-609`).
+Act id: `vendim-2013-609` (tags `vendim-2013-609/<day>`; `python registry/tools/on.py <day> vendim-2013-609`).
 
 ## Decisions made by hand
 

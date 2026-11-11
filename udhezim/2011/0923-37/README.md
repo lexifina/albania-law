@@ -14,7 +14,7 @@ Strukturën e vitit akademik 2011-2012 në institucionet publike të arsimit të
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0923-37` (tags `udhezim-2011-0923-37/<day>`; `python tools/on.py <day> udhezim-2011-0923-37`).
+Act id: `udhezim-2011-0923-37` (tags `udhezim-2011-0923-37/<day>`; `python registry/tools/on.py <day> udhezim-2011-0923-37`).
 
 ## Decisions made by hand
 

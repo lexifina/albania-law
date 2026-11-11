@@ -22,7 +22,7 @@ Miratimin e rregullave të administrimit të pasurive kulturore publike dhe të 
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-625` (tags `vendim-2019-625/<day>`; `python tools/on.py <day> vendim-2019-625`).
+Act id: `vendim-2019-625` (tags `vendim-2019-625/<day>`; `python registry/tools/on.py <day> vendim-2019-625`).
 
 ## Decisions made by hand
 

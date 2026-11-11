@@ -5,7 +5,7 @@ Procedurën e lëshimit të dokumenteve nga zyrat e regjistrimit të pasurive t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-376` (tags `vendim-2012-376/<day>`; `python tools/on.py <day> vendim-2012-376`).
+Act id: `vendim-2012-376` (tags `vendim-2012-376/<day>`; `python registry/tools/on.py <day> vendim-2012-376`).
 
 ## Decisions made by hand
 

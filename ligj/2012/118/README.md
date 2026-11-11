@@ -80,7 +80,7 @@ Transportin e mallrave të rrezikshme · 1 versions, from 2013-01-15 (latest in 
 | Neni 66 | [neni-066.md](neni-066.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-118-2012` (tags `ligji-118-2012/<day>`; `python tools/on.py <day> ligji-118-2012`).
+Act id: `ligji-118-2012` (tags `ligji-118-2012/<day>`; `python registry/tools/on.py <day> ligji-118-2012`).
 
 ## Decisions made by hand
 

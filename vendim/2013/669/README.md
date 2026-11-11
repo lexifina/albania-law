@@ -10,7 +10,7 @@ Miratimin e rregullave për përcaktimin, krijimin dhe realizimin e Kornizës Re
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-06-03 |
 
-Act id: `vendim-2013-669` (tags `vendim-2013-669/<day>`; `python tools/on.py <day> vendim-2013-669`).
+Act id: `vendim-2013-669` (tags `vendim-2013-669/<day>`; `python registry/tools/on.py <day> vendim-2013-669`).
 
 ## Decisions made by hand
 

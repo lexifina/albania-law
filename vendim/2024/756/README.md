@@ -14,7 +14,7 @@ Miratimin e Planit Kombëtar të Frekuencave · 1 versions, from 2025-01-01 (lat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-756` (tags `vendim-2024-756/<day>`; `python tools/on.py <day> vendim-2024-756`).
+Act id: `vendim-2024-756` (tags `vendim-2024-756/<day>`; `python registry/tools/on.py <day> vendim-2024-756`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Nivelin kufi të zhurmës për një mjedis të dhenë dhe për fushën e veprimt
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-28 |
 
-Act id: `udhezim-2023-1115-2` (tags `udhezim-2023-1115-2/<day>`; `python tools/on.py <day> udhezim-2023-1115-2`).
+Act id: `udhezim-2023-1115-2` (tags `udhezim-2023-1115-2/<day>`; `python registry/tools/on.py <day> udhezim-2023-1115-2`).
 
 ## Decisions made by hand
 

@@ -40,7 +40,7 @@ Procedurat e konstatimit dhe veprimit për kundërvajtjet që kryhen me mjetet l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0616-177` (tags `udhezim-2014-0616-177/<day>`; `python tools/on.py <day> udhezim-2014-0616-177`).
+Act id: `udhezim-2014-0616-177` (tags `udhezim-2014-0616-177/<day>`; `python registry/tools/on.py <day> udhezim-2014-0616-177`).
 
 ## Decisions made by hand
 

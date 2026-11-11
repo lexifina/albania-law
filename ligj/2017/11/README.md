@@ -10,7 +10,7 @@ Ratifikimin e memorandumit të mirëkuptimit ndërmjet republikës së shqipëri
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-11-2017` (tags `ligji-11-2017/<day>`; `python tools/on.py <day> ligji-11-2017`).
+Act id: `ligji-11-2017` (tags `ligji-11-2017/<day>`; `python registry/tools/on.py <day> ligji-11-2017`).
 
 ## Decisions made by hand
 

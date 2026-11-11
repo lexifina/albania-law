@@ -12,7 +12,17 @@ Shpërblimin e pronarëve dhe për sipërfaqet takuese të pasurive të paluajts
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-120` (tags `vendim-2011-120/<day>`; `python tools/on.py <day> vendim-2011-120`).
+Act id: `vendim-2011-120` (tags `vendim-2011-120/<day>`; `python registry/tools/on.py <day> vendim-2011-120`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 493, datë 19.6.2013: Për disa ndryshime në vendimet e Këshillit të Ministrave nr.1039, datë 14.10.2009, nr.120, datë 17.2.2011, dhe nr.435, datë 24.4.2013, për shpërblimin e pronarëve mbi sipërfaqet takuese të pasurive të paluajtshme, pronë private, që preken nga ndërtimet informale](https://qbz.gov.al/eli/vendim/2013/06/19/493)
+- [Vendimi i Këshillit të Ministrave nr. 278, datë 1.4.2015: Për disa ndryshime në vendimet e Këshillit të Ministrave, nr. 1481, datë 12.11.2008; nr. 1657, datë 24.12.2008; nr. 100, datë 27.1.2009; nr. 286, datë 18.3.2009, nr. 611, datë 11.6.2009; nr. 677, datë 18.6.2009; nr. 450, datë 6.5.2009; nr. 706, datë 23.6.2009; nr. 805, datë 22.7.2009; nr. 1038, datë 14.10.2009; nr. 1134, datë 18.11.2009; nr. 1283, datë 23.12.2009; nr. 125, datë 7.2.2010; nr. 549, datë 7.7.2010; nr. 404, datë 26.5.2010; nr. 247, datë 13.4.2010; nr. 646, datë 28.7.2010; nr. 118, datë 7.2.2011; nr. 359, datë 4.5.2011; nr. 822, datë 23.11.2011; nr. 120, datë 17.12.2011; nr. 472, datë 30.5.2013; nr. 686, datë 16.3.2013 dhe nr. 345, datë 24.4.2013, të ndryshuara, për miratimin e kalimit të pronësisë së disa parcelave ndërtimore në favor të poseduesve të objekteve informale](https://qbz.gov.al/eli/vendim/2015/04/01/278)
+- [Vendimi i Këshillit të Ministrave nr. 512, datë 1.8.2012: Për disa ndryshime në vendimet nr. 1481, datë 12.11.2008; nr. 1657, datë 24.12.2008; nr. 100, datë 27.1.2009; nr. 167, datë 19.2.2009; nr. 286, datë 18.3.2009; nr. 450, datë 6.5.2009; nr. 611, datë 11.6.2009; nr. 677, datë 18.6.2009; nr. 706, datë 23.6.2009; nr. 805, datë 22.7.2009; nr. 1038, datë 14.10.2009; nr. 1134, datë 18.11.2009; nr. 1283, datë 23.12.2009; nr. 125, datë 17.2.2010; nr. 247, datë 13.4.2010; nr. 404, datë 26.5.2010; nr. 549, datë 7.7.2010; nr. 646, datë 28.7.2010; nr. 118, datë 7.2.2011; nr. 359, datë 4.5.2011, nr. 822, datë 23.11.2011; nr. 1655, datë 24.12.2008; nr. 1039, datë 14.10.2009; nr. 120, datë 17.2.2011 dhe nr. 900, datë 6.12.2011, të këshillit të ministrave, për kalimin e pronësisë së disa parcelave ndërtimore në favor të poseduesve të objekteve informale](https://qbz.gov.al/eli/vendim/2012/08/01/512)
 
 ## Decisions made by hand
 

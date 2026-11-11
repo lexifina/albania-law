@@ -9,7 +9,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2014 nga ministria e mjedisit te min
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-97` (tags `vendim-2014-97/<day>`; `python tools/on.py <day> vendim-2014-97`).
+Act id: `vendim-2014-97` (tags `vendim-2014-97/<day>`; `python registry/tools/on.py <day> vendim-2014-97`).
 
 ## Decisions made by hand
 

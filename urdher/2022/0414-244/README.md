@@ -18,7 +18,7 @@ Përcaktimin e kritereve për tregtimin me shumicë apo pakicë të pajisjeve mj
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0414-244` (tags `urdher-2022-0414-244/<day>`; `python tools/on.py <day> urdher-2022-0414-244`).
+Act id: `urdher-2022-0414-244` (tags `urdher-2022-0414-244/<day>`; `python registry/tools/on.py <day> urdher-2022-0414-244`).
 
 ## Decisions made by hand
 

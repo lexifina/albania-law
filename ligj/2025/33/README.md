@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së garancisë ndërmjet Republikës së Shqipëris�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-33-2025` (tags `ligji-33-2025/<day>`; `python tools/on.py <day> ligji-33-2025`).
+Act id: `ligji-33-2025` (tags `ligji-33-2025/<day>`; `python registry/tools/on.py <day> ligji-33-2025`).
 
 ## Decisions made by hand
 

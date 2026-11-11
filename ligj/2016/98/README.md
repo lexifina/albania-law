@@ -121,7 +121,7 @@ Organizimin e pushtetit gjyqësor në republikën e shqipërisë · 2 versions, 
 | Seksioni V | [seksioni-05.md](seksioni-05.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-98` (tags `ligj-2016-98/<day>`; `python tools/on.py <day> ligj-2016-98`).
+Act id: `ligj-2016-98` (tags `ligj-2016-98/<day>`; `python registry/tools/on.py <day> ligj-2016-98`).
 
 ## Decisions made by hand
 

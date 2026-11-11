@@ -10,7 +10,7 @@ Miratimin e rregullores “Për ushtrimin e veprimtarisë së Këshillit Kombët
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-140` (tags `vendim-2015-140/<day>`; `python tools/on.py <day> vendim-2015-140`).
+Act id: `vendim-2015-140` (tags `vendim-2015-140/<day>`; `python registry/tools/on.py <day> vendim-2015-140`).
 
 ## Decisions made by hand
 

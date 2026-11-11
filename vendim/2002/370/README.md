@@ -14,7 +14,7 @@ Trajtimin financiar të ushtarakëve aktivë të Forcave të Armatosura, që dë
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-370` (tags `vendim-2002-370/<day>`; `python tools/on.py <day> vendim-2002-370`).
+Act id: `vendim-2002-370` (tags `vendim-2002-370/<day>`; `python registry/tools/on.py <day> vendim-2002-370`).
 
 ## Decisions made by hand
 

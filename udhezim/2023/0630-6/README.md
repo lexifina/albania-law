@@ -21,7 +21,7 @@ Përcaktimin e rregullave të hollësishme për procedurën e komandimit të pë
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-0630-6` (tags `udhezim-2023-0630-6/<day>`; `python tools/on.py <day> udhezim-2023-0630-6`).
+Act id: `udhezim-2023-0630-6` (tags `udhezim-2023-0630-6/<day>`; `python registry/tools/on.py <day> udhezim-2023-0630-6`).
 
 ## Decisions made by hand
 

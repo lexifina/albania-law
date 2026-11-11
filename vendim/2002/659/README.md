@@ -13,7 +13,7 @@ Krijimin e Institutit të Mjedisit · 1 versions, from 2002-12-31 (latest in for
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-659` (tags `vendim-2002-659/<day>`; `python tools/on.py <day> vendim-2002-659`).
+Act id: `vendim-2002-659` (tags `vendim-2002-659/<day>`; `python registry/tools/on.py <day> vendim-2002-659`).
 
 ## Decisions made by hand
 

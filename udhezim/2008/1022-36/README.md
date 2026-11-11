@@ -20,7 +20,7 @@ Procedurat e pranimit dhe të regjistrimit në programet e studimit të ciklit t
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1022-36` (tags `udhezim-2008-1022-36/<day>`; `python tools/on.py <day> udhezim-2008-1022-36`).
+Act id: `udhezim-2008-1022-36` (tags `udhezim-2008-1022-36/<day>`; `python registry/tools/on.py <day> udhezim-2008-1022-36`).
 
 ## Decisions made by hand
 

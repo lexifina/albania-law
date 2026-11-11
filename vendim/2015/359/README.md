@@ -10,7 +10,7 @@ Miratimin e rregullores për parimet dhe udhëzimet e praktikës së prodhimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-09-01 |
 
-Act id: `vendim-2015-359` (tags `vendim-2015-359/<day>`; `python tools/on.py <day> vendim-2015-359`).
+Act id: `vendim-2015-359` (tags `vendim-2015-359/<day>`; `python registry/tools/on.py <day> vendim-2015-359`).
 
 ## Decisions made by hand
 

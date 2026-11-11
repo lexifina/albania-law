@@ -19,7 +19,7 @@ Miratimin e programit të veprimit 3-vjeçar, për vitet 2019-2021, në zbatim t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-664` (tags `vendim-2019-664/<day>`; `python tools/on.py <day> vendim-2019-664`).
+Act id: `vendim-2019-664` (tags `vendim-2019-664/<day>`; `python registry/tools/on.py <day> vendim-2019-664`).
 
 ## Decisions made by hand
 

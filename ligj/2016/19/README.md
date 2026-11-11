@@ -32,7 +32,7 @@ Masat shtesë të sigurisë publike · 1 versions, from 2016-12-28 (latest in fo
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-19-2016` (tags `ligji-19-2016/<day>`; `python tools/on.py <day> ligji-19-2016`).
+Act id: `ligji-19-2016` (tags `ligji-19-2016/<day>`; `python registry/tools/on.py <day> ligji-19-2016`).
 
 ## Decisions made by hand
 

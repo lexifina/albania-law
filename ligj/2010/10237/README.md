@@ -61,7 +61,7 @@ Sigurinë dhe shëndetin në punë · 1 versions, from 2025-05-13 (latest in for
 | Neni 45 | [neni-045.md](neni-045.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10237` (tags `ligj-2010-10237/<day>`; `python tools/on.py <day> ligj-2010-10237`).
+Act id: `ligj-2010-10237` (tags `ligj-2010-10237/<day>`; `python registry/tools/on.py <day> ligj-2010-10237`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ PER DISA KRITERE Të PARAQITJES Së KANDIDATëVE PëR DEPUTET DHE PERLLOGARITJEN
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0608-45` (tags `udhezim-2001-0608-45/<day>`; `python tools/on.py <day> udhezim-2001-0608-45`).
+Act id: `udhezim-2001-0608-45` (tags `udhezim-2001-0608-45/<day>`; `python registry/tools/on.py <day> udhezim-2001-0608-45`).
 
 ## Decisions made by hand
 

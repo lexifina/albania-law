@@ -10,7 +10,7 @@ Miratimin e ndërtimit të termocentralit dhe veprave ndihmëse, i cili nuk ësh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-785` (tags `vendim-2024-785/<day>`; `python tools/on.py <day> vendim-2024-785`).
+Act id: `vendim-2024-785` (tags `vendim-2024-785/<day>`; `python registry/tools/on.py <day> vendim-2024-785`).
 
 ## Decisions made by hand
 

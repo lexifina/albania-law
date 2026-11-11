@@ -10,7 +10,7 @@ Miratimin e fletës së bllokut të procesverbalit të konstatimit të shkeljes 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-534` (tags `vendim-2003-534/<day>`; `python tools/on.py <day> vendim-2003-534`).
+Act id: `vendim-2003-534` (tags `vendim-2003-534/<day>`; `python registry/tools/on.py <day> vendim-2003-534`).
 
 ## Decisions made by hand
 

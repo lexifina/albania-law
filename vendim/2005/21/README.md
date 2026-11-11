@@ -24,7 +24,7 @@ Miratimin e strukturës, të organikës dhe të pagave të punonjësve të komit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2006-06-28 |
 
-Act id: `vendim-2005-21` (tags `vendim-2005-21/<day>`; `python tools/on.py <day> vendim-2005-21`).
+Act id: `vendim-2005-21` (tags `vendim-2005-21/<day>`; `python registry/tools/on.py <day> vendim-2005-21`).
 
 ## Decisions made by hand
 

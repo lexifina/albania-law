@@ -20,7 +20,7 @@ Ndryshimin e kategorisë së tokës bujqësore dhe kategorizimit të resurseve �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0220-1` (tags `udhezim-2006-0220-1/<day>`; `python tools/on.py <day> udhezim-2006-0220-1`).
+Act id: `udhezim-2006-0220-1` (tags `udhezim-2006-0220-1/<day>`; `python registry/tools/on.py <day> udhezim-2006-0220-1`).
 
 ## Decisions made by hand
 

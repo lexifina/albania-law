@@ -22,7 +22,7 @@ Procedurat, kriteret dhe rregullat për zbatimin e programit të punëve publike
 | Pika 14 | [pika-014.md](pika-014.md) | 1 | 2024-04-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-535` (tags `vendim-2020-535/<day>`; `python tools/on.py <day> vendim-2020-535`).
+Act id: `vendim-2020-535` (tags `vendim-2020-535/<day>`; `python registry/tools/on.py <day> vendim-2020-535`).
 
 ## Decisions made by hand
 

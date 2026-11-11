@@ -12,7 +12,7 @@ Shpalljen e liqenit të ohrit si zonë bashkëmenaxhuese peshkimi · 1 versions,
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-283` (tags `vendim-2016-283/<day>`; `python tools/on.py <day> vendim-2016-283`).
+Act id: `vendim-2016-283` (tags `vendim-2016-283/<day>`; `python registry/tools/on.py <day> vendim-2016-283`).
 
 ## Decisions made by hand
 

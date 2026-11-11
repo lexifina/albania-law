@@ -14,7 +14,7 @@ Pagimin e interesave të vonesave në ekzekutimin e disa vendimeve të gjykatës
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-238` (tags `vendim-2016-238/<day>`; `python tools/on.py <day> vendim-2016-238`).
+Act id: `vendim-2016-238` (tags `vendim-2016-238/<day>`; `python registry/tools/on.py <day> vendim-2016-238`).
 
 ## Decisions made by hand
 

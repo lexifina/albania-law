@@ -33,7 +33,7 @@ Mbi zbatimin e vendimit të Këshillit të Ministrave nr.27, datë 12.1.2011 “
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0208-2` (tags `udhezim-2011-0208-2/<day>`; `python tools/on.py <day> udhezim-2011-0208-2`).
+Act id: `udhezim-2011-0208-2` (tags `udhezim-2011-0208-2/<day>`; `python registry/tools/on.py <day> udhezim-2011-0208-2`).
 
 ## Decisions made by hand
 

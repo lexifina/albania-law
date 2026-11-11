@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 16.6.2010 të Kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10298` (tags `ligj-2010-10298/<day>`; `python tools/on.py <day> ligj-2010-10298`).
+Act id: `ligj-2010-10298` (tags `ligj-2010-10298/<day>`; `python registry/tools/on.py <day> ligj-2010-10298`).
 
 ## Decisions made by hand
 

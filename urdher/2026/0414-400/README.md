@@ -17,7 +17,15 @@ Disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0414-400` (tags `urdher-2026-0414-400/<day>`; `python tools/on.py <day> urdher-2026-0414-400`).
+Act id: `urdher-2026-0414-400` (tags `urdher-2026-0414-400/<day>`; `python registry/tools/on.py <day> urdher-2026-0414-400`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 403, datë 15.4.2026 (Ministria e Bujqësisë dhe Zhvillimit Rural) [QBZ 33104]: Për disa masa mbrojtëse ndaj sëmundjes së pseudopestit të shpendëve, të shfaqur në shtetin e Polonisë](https://qbz.gov.al/eli/urdher/2026/04/15/403)
 
 ## Decisions made by hand
 

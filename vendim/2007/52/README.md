@@ -14,7 +14,7 @@ Përcaktimin e procedurave dhe të afateve të komunikimit, ndërmjet akkp-së d
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-52` (tags `vendim-2007-52/<day>`; `python tools/on.py <day> vendim-2007-52`).
+Act id: `vendim-2007-52` (tags `vendim-2007-52/<day>`; `python registry/tools/on.py <day> vendim-2007-52`).
 
 ## Decisions made by hand
 

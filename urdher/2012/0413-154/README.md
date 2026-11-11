@@ -13,7 +13,7 @@ Hapjen e njësive kryesore pranë shkollës së lartë private “vitrina” · 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0413-154` (tags `urdher-2012-0413-154/<day>`; `python tools/on.py <day> urdher-2012-0413-154`).
+Act id: `urdher-2012-0413-154` (tags `urdher-2012-0413-154/<day>`; `python registry/tools/on.py <day> urdher-2012-0413-154`).
 
 ## Decisions made by hand
 

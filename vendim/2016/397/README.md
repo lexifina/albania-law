@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit nr. tf0a1769, ndërmjet republikës së sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-397` (tags `vendim-2016-397/<day>`; `python tools/on.py <day> vendim-2016-397`).
+Act id: `vendim-2016-397` (tags `vendim-2016-397/<day>`; `python registry/tools/on.py <day> vendim-2016-397`).
 
 ## Decisions made by hand
 

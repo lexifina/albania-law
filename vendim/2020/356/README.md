@@ -15,7 +15,7 @@ Kalimin në përgjegjësi administrimi, nga Ministria e Drejtësisë te Ministri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-356` (tags `vendim-2020-356/<day>`; `python tools/on.py <day> vendim-2020-356`).
+Act id: `vendim-2020-356` (tags `vendim-2020-356/<day>`; `python registry/tools/on.py <day> vendim-2020-356`).
 
 ## Decisions made by hand
 

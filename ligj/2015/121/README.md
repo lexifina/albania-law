@@ -5,7 +5,7 @@ Miratimin e Planit Afatgjatë të Zhvillimit të Forcave të Armatosura 2016-202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2015-121` (tags `ligj-2015-121/<day>`; `python tools/on.py <day> ligj-2015-121`).
+Act id: `ligj-2015-121` (tags `ligj-2015-121/<day>`; `python registry/tools/on.py <day> ligj-2015-121`).
 
 ## Decisions made by hand
 

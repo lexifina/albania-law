@@ -11,7 +11,7 @@ Kthimin në fond banesash të disa objekteve të ish-Kombinatit të Tekstileve t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2013-07-18 |
 
-Act id: `vendim-2013-346` (tags `vendim-2013-346/<day>`; `python tools/on.py <day> vendim-2013-346`).
+Act id: `vendim-2013-346` (tags `vendim-2013-346/<day>`; `python registry/tools/on.py <day> vendim-2013-346`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-02-02 |
 
-Act id: `vendim-2016-641` (tags `vendim-2016-641/<day>`; `python tools/on.py <day> vendim-2016-641`).
+Act id: `vendim-2016-641` (tags `vendim-2016-641/<day>`; `python registry/tools/on.py <day> vendim-2016-641`).
 
 ## Decisions made by hand
 

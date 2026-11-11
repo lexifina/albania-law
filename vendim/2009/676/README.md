@@ -11,7 +11,7 @@ Kalimin e përgjegjësisë së administrimit, nga ministria e arsimit dhe shkenc
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-676` (tags `vendim-2009-676/<day>`; `python tools/on.py <day> vendim-2009-676`).
+Act id: `vendim-2009-676` (tags `vendim-2009-676/<day>`; `python registry/tools/on.py <day> vendim-2009-676`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Kriteret dhe procedurat e përfitimit e të dhënies së granteve konkurruese p�
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-454` (tags `vendim-2019-454/<day>`; `python tools/on.py <day> vendim-2019-454`).
+Act id: `vendim-2019-454` (tags `vendim-2019-454/<day>`; `python registry/tools/on.py <day> vendim-2019-454`).
 
 ## Decisions made by hand
 

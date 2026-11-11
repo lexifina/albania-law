@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 5, datë 9.7.2008, të kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9958` (tags `ligj-2008-9958/<day>`; `python tools/on.py <day> ligj-2008-9958`).
+Act id: `ligj-2008-9958` (tags `ligj-2008-9958/<day>`; `python registry/tools/on.py <day> ligj-2008-9958`).
 
 ## Decisions made by hand
 

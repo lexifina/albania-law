@@ -10,7 +10,7 @@ Miratimin e rregullores së zhvillimit të territorit · 4 versions, from 2024-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-07-25 |
 
-Act id: `vendim-2015-408` (tags `vendim-2015-408/<day>`; `python tools/on.py <day> vendim-2015-408`).
+Act id: `vendim-2015-408` (tags `vendim-2015-408/<day>`; `python registry/tools/on.py <day> vendim-2015-408`).
 
 ## Decisions made by hand
 

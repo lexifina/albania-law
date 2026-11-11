@@ -15,7 +15,7 @@ Bashkërendimin e veprimtarisë ndërmjet mekanizmave këshillimorë dhe koordin
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-565` (tags `vendim-2018-565/<day>`; `python tools/on.py <day> vendim-2018-565`).
+Act id: `vendim-2018-565` (tags `vendim-2018-565/<day>`; `python registry/tools/on.py <day> vendim-2018-565`).
 
 ## Decisions made by hand
 

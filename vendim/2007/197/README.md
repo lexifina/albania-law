@@ -5,7 +5,7 @@ Kushtet dhe kriteret e përcaktimit të masës së shpërblimit dhe të rimbursi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-197` (tags `vendim-2007-197/<day>`; `python tools/on.py <day> vendim-2007-197`).
+Act id: `vendim-2007-197` (tags `vendim-2007-197/<day>`; `python registry/tools/on.py <day> vendim-2007-197`).
 
 ## Decisions made by hand
 

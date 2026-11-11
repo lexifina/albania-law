@@ -35,7 +35,7 @@ Organizimin dhe funksionimin e qendrës së botimeve zyrtare · 1 versions, from
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-78` (tags `ligj-2014-78/<day>`; `python tools/on.py <day> ligj-2014-78`).
+Act id: `ligj-2014-78` (tags `ligj-2014-78/<day>`; `python registry/tools/on.py <day> ligj-2014-78`).
 
 ## Decisions made by hand
 

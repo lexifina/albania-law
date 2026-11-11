@@ -5,7 +5,7 @@ Mbrojtjen e të dhënave personale · 3 versions, from 2014-11-01 (latest in for
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9887` (tags `ligj-2008-9887/<day>`; `python tools/on.py <day> ligj-2008-9887`).
+Act id: `ligj-2008-9887` (tags `ligj-2008-9887/<day>`; `python registry/tools/on.py <day> ligj-2008-9887`).
 
 ## Decisions made by hand
 

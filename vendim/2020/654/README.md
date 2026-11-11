@@ -10,7 +10,7 @@ Emërimin e dy anëtarëve të Komisionit Kombëtar të Përzgjedhjes për TND-n
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-654` (tags `vendim-2020-654/<day>`; `python tools/on.py <day> vendim-2020-654`).
+Act id: `vendim-2020-654` (tags `vendim-2020-654/<day>`; `python registry/tools/on.py <day> vendim-2020-654`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Riorganizimin strukturor nga “fakulteti i drejtësisë” dhe “fakulteti i s
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0315-92` (tags `urdher-2012-0315-92/<day>`; `python tools/on.py <day> urdher-2012-0315-92`).
+Act id: `urdher-2012-0315-92` (tags `urdher-2012-0315-92/<day>`; `python registry/tools/on.py <day> urdher-2012-0315-92`).
 
 ## Decisions made by hand
 

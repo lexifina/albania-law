@@ -14,7 +14,7 @@ Pjesëmarrjen e shqipërisë në panairin ndërkombëtar “cmt, shtutgart 2017�
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-85` (tags `vendim-2016-85/<day>`; `python tools/on.py <day> vendim-2016-85`).
+Act id: `vendim-2016-85` (tags `vendim-2016-85/<day>`; `python registry/tools/on.py <day> vendim-2016-85`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e planit kombëtar për integrimin evropian 2018-2020 · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-246` (tags `vendim-2018-246/<day>`; `python tools/on.py <day> vendim-2018-246`).
+Act id: `vendim-2018-246` (tags `vendim-2018-246/<day>`; `python registry/tools/on.py <day> vendim-2018-246`).
 
 ## Decisions made by hand
 

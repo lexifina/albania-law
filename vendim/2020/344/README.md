@@ -9,7 +9,7 @@ Kalimin në pronësi të bashkisë Elbasan, për njësinë administrative Labino
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-344` (tags `vendim-2020-344/<day>`; `python tools/on.py <day> vendim-2020-344`).
+Act id: `vendim-2020-344` (tags `vendim-2020-344/<day>`; `python registry/tools/on.py <day> vendim-2020-344`).
 
 ## Decisions made by hand
 

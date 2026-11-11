@@ -10,7 +10,7 @@ Miratimin e kalendarit të vitit 2011, për menaxhimin e shpenzimeve publike · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-2` (tags `vendim-2011-2/<day>`; `python tools/on.py <day> vendim-2011-2`).
+Act id: `vendim-2011-2` (tags `vendim-2011-2/<day>`; `python registry/tools/on.py <day> vendim-2011-2`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Dhënien e së drejtës së përdorimit, për 15 vjet, në brezin e frekuencave 
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10118-2009` (tags `ligji-10118-2009/<day>`; `python tools/on.py <day> ligji-10118-2009`).
+Act id: `ligji-10118-2009` (tags `ligji-10118-2009/<day>`; `python registry/tools/on.py <day> ligji-10118-2009`).
 
 ## Decisions made by hand
 

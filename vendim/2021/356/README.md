@@ -16,7 +16,7 @@ Përcaktimin e kritereve për dhënien dhe kohëzgjatjen e pushimeve për punonj
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-356` (tags `vendim-2021-356/<day>`; `python tools/on.py <day> vendim-2021-356`).
+Act id: `vendim-2021-356` (tags `vendim-2021-356/<day>`; `python registry/tools/on.py <day> vendim-2021-356`).
 
 ## Decisions made by hand
 

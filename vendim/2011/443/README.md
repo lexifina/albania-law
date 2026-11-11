@@ -5,7 +5,7 @@ Krijimin, regjistrimin, mënyrën e funksionimit, të administrimit e të ndërv
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-443` (tags `vendim-2011-443/<day>`; `python tools/on.py <day> vendim-2011-443`).
+Act id: `vendim-2011-443` (tags `vendim-2011-443/<day>`; `python registry/tools/on.py <day> vendim-2011-443`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Ngritjen e monumentit të heroit të demokracisë dhe pluralizmit, azem hajdari,
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-199` (tags `vendim-2011-199/<day>`; `python tools/on.py <day> vendim-2011-199`).
+Act id: `vendim-2011-199` (tags `vendim-2011-199/<day>`; `python registry/tools/on.py <day> vendim-2011-199`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vend
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10494-2011` (tags `ligji-10494-2011/<day>`; `python tools/on.py <day> ligji-10494-2011`).
+Act id: `ligji-10494-2011` (tags `ligji-10494-2011/<day>`; `python registry/tools/on.py <day> ligji-10494-2011`).
 
 ## Decisions made by hand
 

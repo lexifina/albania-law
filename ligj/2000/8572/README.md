@@ -5,7 +5,7 @@ Miratimin e dokumentit të strategjisë së sigurimit të republikës së shqip�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8572` (tags `ligj-2000-8572/<day>`; `python tools/on.py <day> ligj-2000-8572`).
+Act id: `ligj-2000-8572` (tags `ligj-2000-8572/<day>`; `python registry/tools/on.py <day> ligj-2000-8572`).
 
 ## Decisions made by hand
 

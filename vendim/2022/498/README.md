@@ -10,7 +10,7 @@ Kalim fondi Ministrisë së Infrastrukturës dhe Energjisë për mbështetjen e 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-498` (tags `vendim-2022-498/<day>`; `python tools/on.py <day> vendim-2022-498`).
+Act id: `vendim-2022-498` (tags `vendim-2022-498/<day>`; `python registry/tools/on.py <day> vendim-2022-498`).
 
 ## Decisions made by hand
 

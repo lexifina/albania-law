@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në Konventën për Përpunimin e Farmak
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2019-60` (tags `ligj-2019-60/<day>`; `python tools/on.py <day> ligj-2019-60`).
+Act id: `ligj-2019-60` (tags `ligj-2019-60/<day>`; `python registry/tools/on.py <day> ligj-2019-60`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Shpalljen e liqeneve të ulzës dhe të shkopetit si zonë bashkëmenaxhuese pes
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-486` (tags `vendim-2018-486/<day>`; `python tools/on.py <day> vendim-2018-486`).
+Act id: `vendim-2018-486` (tags `vendim-2018-486/<day>`; `python registry/tools/on.py <day> vendim-2018-486`).
 
 ## Decisions made by hand
 

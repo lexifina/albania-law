@@ -23,7 +23,7 @@ Procedurat për vlerësimin e kërcënimit të rrezikut për jetën dhe pajisjen
 | Pika 16 | [pika-016.md](pika-016.md) | 1 | 2021-05-21 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-95` (tags `vendim-2015-95/<day>`; `python tools/on.py <day> vendim-2015-95`).
+Act id: `vendim-2015-95` (tags `vendim-2015-95/<day>`; `python registry/tools/on.py <day> vendim-2015-95`).
 
 ## Decisions made by hand
 

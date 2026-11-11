@@ -67,7 +67,7 @@ Ndryshimet klimatike · 3 versions, from 2021-07-08 (latest in force: 2026-01-22
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-01-22 |
 
-Act id: `ligj-2020-155` (tags `ligj-2020-155/<day>`; `python tools/on.py <day> ligj-2020-155`).
+Act id: `ligj-2020-155` (tags `ligj-2020-155/<day>`; `python registry/tools/on.py <day> ligj-2020-155`).
 
 ## Decisions made by hand
 

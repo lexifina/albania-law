@@ -22,7 +22,7 @@ Përfundimin e procesit të privatizimit të objekteve të ish-ndërmarrjeve buj
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-18-2023` (tags `ligji-18-2023/<day>`; `python tools/on.py <day> ligji-18-2023`).
+Act id: `ligji-18-2023` (tags `ligji-18-2023/<day>`; `python registry/tools/on.py <day> ligji-18-2023`).
 
 ## Decisions made by hand
 

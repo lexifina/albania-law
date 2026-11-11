@@ -11,7 +11,7 @@ Miratimin e rregullores mbi procedurën e klasifikimit të strukturave akomodues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0709-243` (tags `urdher-2019-0709-243/<day>`; `python tools/on.py <day> urdher-2019-0709-243`).
+Act id: `urdher-2019-0709-243` (tags `urdher-2019-0709-243/<day>`; `python registry/tools/on.py <day> urdher-2019-0709-243`).
 
 ## Decisions made by hand
 

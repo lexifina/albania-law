@@ -15,7 +15,7 @@ Planifikimin e fondeve buxhetore dhe ndjekjen e procedurave të prokurimit për 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0802-34` (tags `udhezim-2013-0802-34/<day>`; `python tools/on.py <day> udhezim-2013-0802-34`).
+Act id: `udhezim-2013-0802-34` (tags `udhezim-2013-0802-34/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-34`).
 
 ## Decisions made by hand
 

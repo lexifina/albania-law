@@ -5,7 +5,7 @@ ZBATIMIN E VENDIMIT Të KëSHILLIT Të MINISTRAVE · 2 versions, from 2004-01-30
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2004-0114-75` (tags `udhezim-2004-0114-75/<day>`; `python tools/on.py <day> udhezim-2004-0114-75`).
+Act id: `udhezim-2004-0114-75` (tags `udhezim-2004-0114-75/<day>`; `python registry/tools/on.py <day> udhezim-2004-0114-75`).
 
 ## Decisions made by hand
 

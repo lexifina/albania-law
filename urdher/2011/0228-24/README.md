@@ -21,7 +21,7 @@ Shpalljen e ndryshimeve në STANDARDET NDËRKOMBËTARE të kontabilitetit dhe t�
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0228-24` (tags `urdher-2011-0228-24/<day>`; `python tools/on.py <day> urdher-2011-0228-24`).
+Act id: `urdher-2011-0228-24` (tags `urdher-2011-0228-24/<day>`; `python registry/tools/on.py <day> urdher-2011-0228-24`).
 
 ## Decisions made by hand
 

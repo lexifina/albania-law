@@ -17,7 +17,7 @@ Përcaktimin e kritereve të tregtimit e certifikimit të materialeve të shumë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-523` (tags `vendim-2016-523/<day>`; `python tools/on.py <day> vendim-2016-523`).
+Act id: `vendim-2016-523` (tags `vendim-2016-523/<day>`; `python registry/tools/on.py <day> vendim-2016-523`).
 
 ## Decisions made by hand
 

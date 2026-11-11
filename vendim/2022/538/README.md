@@ -16,7 +16,7 @@ Përcaktimin e rregullave dhe të procedurave të detajuara për ngrirjen e për
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2023-12-15 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-538` (tags `vendim-2022-538/<day>`; `python tools/on.py <day> vendim-2022-538`).
+Act id: `vendim-2022-538` (tags `vendim-2022-538/<day>`; `python registry/tools/on.py <day> vendim-2022-538`).
 
 ## Decisions made by hand
 

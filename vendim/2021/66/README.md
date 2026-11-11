@@ -12,7 +12,7 @@ Kalimin në përgjegjësi administrimi, nga Ministria e Shëndetësisë dhe Mbro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-66` (tags `vendim-2021-66/<day>`; `python tools/on.py <day> vendim-2021-66`).
+Act id: `vendim-2021-66` (tags `vendim-2021-66/<day>`; `python registry/tools/on.py <day> vendim-2021-66`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të procedurave dhe të dokumentacionit për subjektet
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-257` (tags `vendim-2018-257/<day>`; `python tools/on.py <day> vendim-2018-257`).
+Act id: `vendim-2018-257` (tags `vendim-2018-257/<day>`; `python registry/tools/on.py <day> vendim-2018-257`).
 
 ## Decisions made by hand
 

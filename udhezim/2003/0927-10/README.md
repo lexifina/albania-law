@@ -13,7 +13,7 @@ Rregullat që duhen respektuar për afishimin e materialeve propagandistike · 1
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 
-Act id: `udhezim-2003-0927-10` (tags `udhezim-2003-0927-10/<day>`; `python tools/on.py <day> udhezim-2003-0927-10`).
+Act id: `udhezim-2003-0927-10` (tags `udhezim-2003-0927-10/<day>`; `python registry/tools/on.py <day> udhezim-2003-0927-10`).
 
 ## Decisions made by hand
 

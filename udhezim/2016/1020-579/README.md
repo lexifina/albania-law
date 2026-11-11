@@ -5,7 +5,7 @@ Informacionin që u jepet personave të cilët janë subjekt i verifikimeve në 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-1020-579` (tags `udhezim-2016-1020-579/<day>`; `python tools/on.py <day> udhezim-2016-1020-579`).
+Act id: `udhezim-2016-1020-579` (tags `udhezim-2016-1020-579/<day>`; `python registry/tools/on.py <day> udhezim-2016-1020-579`).
 
 ## Decisions made by hand
 

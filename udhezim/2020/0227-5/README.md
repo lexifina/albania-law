@@ -5,7 +5,7 @@ Zhvillimin e vlerësimit të arritjeve të nxënësve të arsimit fillor 2020 ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0227-5` (tags `udhezim-2020-0227-5/<day>`; `python tools/on.py <day> udhezim-2020-0227-5`).
+Act id: `udhezim-2020-0227-5` (tags `udhezim-2020-0227-5/<day>`; `python registry/tools/on.py <day> udhezim-2020-0227-5`).
 
 ## Decisions made by hand
 

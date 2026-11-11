@@ -5,7 +5,7 @@ Procedurat dhe limitet e kryerjes së shpenzimeve, rregullat për mbledhjen dhe 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-0923-27` (tags `udhezim-2008-0923-27/<day>`; `python tools/on.py <day> udhezim-2008-0923-27`).
+Act id: `udhezim-2008-0923-27` (tags `udhezim-2008-0923-27/<day>`; `python registry/tools/on.py <day> udhezim-2008-0923-27`).
 
 ## Decisions made by hand
 

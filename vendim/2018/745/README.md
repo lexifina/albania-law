@@ -9,7 +9,16 @@ Miratimin e marrëveshjes kuadër, ndërmjet këshillit të ministrave të repub
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-745` (tags `vendim-2018-745/<day>`; `python tools/on.py <day> vendim-2018-745`).
+Act id: `vendim-2018-745` (tags `vendim-2018-745/<day>`; `python registry/tools/on.py <day> vendim-2018-745`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 862, datë 27.12.2022: Për miratimin e programit të përgjithshëm analitik të projektakteve që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2023](https://qbz.gov.al/eli/vendim/2022/12/27/862)
+- [Vendimi i Këshillit të Ministrave nr. 113, datë 6.3.2019: Për emërimin e anëtarëve që përfaqësojnë palën shqiptare në Komisionin Shqiptaro-Malazez për Menaxhimin e Ujërave me interes të përbashkët](https://qbz.gov.al/eli/vendim/2019/03/06/113)
 
 ## Decisions made by hand
 

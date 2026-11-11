@@ -20,7 +20,7 @@ Transparencën dhe monitorimin e çmimit për disa produkte ushqimore bazë dhe 
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2022-7` (tags `aktnormativ-2022-7/<day>`; `python tools/on.py <day> aktnormativ-2022-7`).
+Act id: `aktnormativ-2022-7` (tags `aktnormativ-2022-7/<day>`; `python registry/tools/on.py <day> aktnormativ-2022-7`).
 
 ## Decisions made by hand
 

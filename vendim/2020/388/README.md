@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes së Grantit nr.TF0B1063, ndërmjet Republikës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-388` (tags `vendim-2020-388/<day>`; `python tools/on.py <day> vendim-2020-388`).
+Act id: `vendim-2020-388` (tags `vendim-2020-388/<day>`; `python registry/tools/on.py <day> vendim-2020-388`).
 
 ## Decisions made by hand
 

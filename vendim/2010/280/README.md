@@ -10,7 +10,7 @@ Një shtesë fondi për Komisionin e Prokurimit Publik · 1 versions, from 2010-
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-280` (tags `vendim-2010-280/<day>`; `python tools/on.py <day> vendim-2010-280`).
+Act id: `vendim-2010-280` (tags `vendim-2010-280/<day>`; `python registry/tools/on.py <day> vendim-2010-280`).
 
 ## Decisions made by hand
 

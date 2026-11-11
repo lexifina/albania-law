@@ -22,7 +22,15 @@ Organizimin dhe funksionimin e komisionit të qendrës së votimit për zgjedhje
 | Pjesa III | [pjesa-03.md](pjesa-03.md) | 0 |  |
 | Pjesa IV | [pjesa-04.md](pjesa-04.md) | 0 |  |
 
-Act id: `udhezim-2006-1205-11` (tags `udhezim-2006-1205-11/<day>`; `python tools/on.py <day> udhezim-2006-1205-11`).
+Act id: `udhezim-2006-1205-11` (tags `udhezim-2006-1205-11/<day>`; `python registry/tools/on.py <day> udhezim-2006-1205-11`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 1, datë 16.1.2007 (Komisioni Qendor i Zgjedhjeve) [QBZ 5073]: Për disa ndryshime dhe shtesa në udhëzimin nr.11, datë 5.12.2006 të kqz-së “për organizimin dhe funksionimin e komisionit të qendrës së votimit për zgjedhjet për organet e qeverisjes vendore”](https://qbz.gov.al/eli/udhezim/2007/01/16/1)
 
 ## Decisions made by hand
 

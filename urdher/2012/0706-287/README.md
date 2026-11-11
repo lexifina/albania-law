@@ -12,7 +12,7 @@ Miratimin e formës së studimit, me kohë të pjesshme të programeve të studi
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0706-287` (tags `urdher-2012-0706-287/<day>`; `python tools/on.py <day> urdher-2012-0706-287`).
+Act id: `urdher-2012-0706-287` (tags `urdher-2012-0706-287/<day>`; `python registry/tools/on.py <day> urdher-2012-0706-287`).
 
 ## Decisions made by hand
 

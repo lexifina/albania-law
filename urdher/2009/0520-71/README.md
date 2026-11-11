@@ -12,7 +12,7 @@ Marrjen e disa masave mbështetëse, për mbarëvajtjen e provimeve të maturës
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2009-0520-71` (tags `urdher-2009-0520-71/<day>`; `python tools/on.py <day> urdher-2009-0520-71`).
+Act id: `urdher-2009-0520-71` (tags `urdher-2009-0520-71/<day>`; `python registry/tools/on.py <day> urdher-2009-0520-71`).
 
 ## Decisions made by hand
 

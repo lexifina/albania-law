@@ -14,7 +14,7 @@ Përcaktimin e kritereve për vlerësimin e veprimtarisë kërkimore-shkencore t
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0605-11` (tags `udhezim-2026-0605-11/<day>`; `python tools/on.py <day> udhezim-2026-0605-11`).
+Act id: `udhezim-2026-0605-11` (tags `udhezim-2026-0605-11/<day>`; `python registry/tools/on.py <day> udhezim-2026-0605-11`).
 
 ## Decisions made by hand
 

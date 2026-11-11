@@ -23,7 +23,15 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me k
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0829-47` (tags `udhezim-2013-0829-47/<day>`; `python tools/on.py <day> udhezim-2013-0829-47`).
+Act id: `udhezim-2013-0829-47` (tags `udhezim-2013-0829-47/<day>`; `python registry/tools/on.py <day> udhezim-2013-0829-47`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 7, datë 24.3.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 10579]: Për disa shtesa dhe ndryshime në udhëzimin e ministrit të arsimit dhe shkencës nr. 47, datë 27.8.2013 “për procedurat e pranimit dhe të regjistrimit në ciklin e parë me kohë të pjesshme dhe edukimit në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2013-2014” dhe udhëzimin e ministrit të arsimit dhe shkencës nr. 20, datë 12.9.2012 “për procedurat e pranimit dhe të regjistrimit në ciklin e parë me kohë të pjesshme dhe edukimin në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2012-2013”](https://qbz.gov.al/eli/udhezim/2014/03/24/7)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e qendrës kombëtare pritëse për azilkërkuesit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-332` (tags `vendim-2016-332/<day>`; `python tools/on.py <day> vendim-2016-332`).
+Act id: `vendim-2016-332` (tags `vendim-2016-332/<day>`; `python registry/tools/on.py <day> vendim-2016-332`).
 
 ## Decisions made by hand
 

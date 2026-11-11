@@ -5,7 +5,7 @@ Masat kundër financimit të terrorizmit · 2 versions, from 2004-08-26 (latest 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9258` (tags `ligj-2004-9258/<day>`; `python tools/on.py <day> ligj-2004-9258`).
+Act id: `ligj-2004-9258` (tags `ligj-2004-9258/<day>`; `python registry/tools/on.py <day> ligj-2004-9258`).
 
 ## Decisions made by hand
 

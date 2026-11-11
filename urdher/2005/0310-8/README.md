@@ -19,7 +19,15 @@ Sekuestrimin e pasurive të fondacionit “ringjallja e trashëgimisë islame”
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2005-0310-8` (tags `urdher-2005-0310-8/<day>`; `python tools/on.py <day> urdher-2005-0310-8`).
+Act id: `urdher-2005-0310-8` (tags `urdher-2005-0310-8/<day>`; `python registry/tools/on.py <day> urdher-2005-0310-8`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 5556, datë 25.7.2006 (Ministria e Financave) [QBZ 4662]: Për disa ndryshime në urdhrin nr.8, datë 10.03.2005 të Ministrit të Financave “Për sekuestrimin e pasurive të fondacionit “Ringjallja e trashëgimisë islame”, e njohur dhe si “Revival of Islamic Heritage Society”, RIHS, i cili rezulton i shpallur në listën e financuesve të terrorizmit”](https://qbz.gov.al/eli/urdher/2006/07/25/5556)
 
 ## Decisions made by hand
 

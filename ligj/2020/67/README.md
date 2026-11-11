@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 17, datë 22.4.2020, të K�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-67` (tags `ligj-2020-67/<day>`; `python tools/on.py <day> ligj-2020-67`).
+Act id: `ligj-2020-67` (tags `ligj-2020-67/<day>`; `python registry/tools/on.py <day> ligj-2020-67`).
 
 ## Decisions made by hand
 

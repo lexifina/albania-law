@@ -10,7 +10,7 @@ Përcaktimin e kritereve për vaksinat që përdoren kundër sëmundjes së pseu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0415-174` (tags `urdher-2022-0415-174/<day>`; `python tools/on.py <day> urdher-2022-0415-174`).
+Act id: `urdher-2022-0415-174` (tags `urdher-2022-0415-174/<day>`; `python registry/tools/on.py <day> urdher-2022-0415-174`).
 
 ## Decisions made by hand
 

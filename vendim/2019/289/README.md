@@ -9,7 +9,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Financave dhe Ekonomi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-289` (tags `vendim-2019-289/<day>`; `python tools/on.py <day> vendim-2019-289`).
+Act id: `vendim-2019-289` (tags `vendim-2019-289/<day>`; `python registry/tools/on.py <day> vendim-2019-289`).
 
 ## Decisions made by hand
 

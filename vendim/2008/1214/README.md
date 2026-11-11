@@ -10,7 +10,7 @@ Miratimin e strategjisë sektoriale të transportit · 1 versions, from 2008-09-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1214` (tags `vendim-2008-1214/<day>`; `python tools/on.py <day> vendim-2008-1214`).
+Act id: `vendim-2008-1214` (tags `vendim-2008-1214/<day>`; `python registry/tools/on.py <day> vendim-2008-1214`).
 
 ## Decisions made by hand
 

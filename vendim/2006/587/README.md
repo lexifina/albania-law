@@ -11,7 +11,7 @@ Ndryshimin dhe kalimin e përgjegjësisë së administrimit të disa mjediseve n
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-587` (tags `vendim-2006-587/<day>`; `python tools/on.py <day> vendim-2006-587`).
+Act id: `vendim-2006-587` (tags `vendim-2006-587/<day>`; `python registry/tools/on.py <day> vendim-2006-587`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores mbi rregullat dhe procedurat për operimin e avionëve p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-29 |
 
-Act id: `urdher-2022-0718-143` (tags `urdher-2022-0718-143/<day>`; `python tools/on.py <day> urdher-2022-0718-143`).
+Act id: `urdher-2022-0718-143` (tags `urdher-2022-0718-143/<day>`; `python registry/tools/on.py <day> urdher-2022-0718-143`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e raportit vjetor “për ndihmat shtetërore të vitit 2013” · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-365` (tags `vendim-2014-365/<day>`; `python tools/on.py <day> vendim-2014-365`).
+Act id: `vendim-2014-365` (tags `vendim-2014-365/<day>`; `python registry/tools/on.py <day> vendim-2014-365`).
 
 ## Decisions made by hand
 

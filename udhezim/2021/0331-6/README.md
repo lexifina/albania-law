@@ -19,7 +19,7 @@ Zhvillimin e vlerësimit të arritjeve të nxënësve të arsimit fillor, viti s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0331-6` (tags `udhezim-2021-0331-6/<day>`; `python tools/on.py <day> udhezim-2021-0331-6`).
+Act id: `udhezim-2021-0331-6` (tags `udhezim-2021-0331-6/<day>`; `python registry/tools/on.py <day> udhezim-2021-0331-6`).
 
 ## Decisions made by hand
 

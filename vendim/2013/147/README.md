@@ -5,7 +5,7 @@ Miratimin e rregullores “Për organizimin dhe funksionimin e Autoritetit Shtet
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-147` (tags `vendim-2013-147/<day>`; `python tools/on.py <day> vendim-2013-147`).
+Act id: `vendim-2013-147` (tags `vendim-2013-147/<day>`; `python registry/tools/on.py <day> vendim-2013-147`).
 
 ## Decisions made by hand
 

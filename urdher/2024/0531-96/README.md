@@ -10,7 +10,7 @@ Caktimin e Zëvendësdrejtorit të Përgjithshëm të Gardës së Republikës s�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0531-96` (tags `urdher-2024-0531-96/<day>`; `python tools/on.py <day> urdher-2024-0531-96`).
+Act id: `urdher-2024-0531-96` (tags `urdher-2024-0531-96/<day>`; `python registry/tools/on.py <day> urdher-2024-0531-96`).
 
 ## Decisions made by hand
 

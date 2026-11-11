@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike, ndërmjet Republikës së Shqipërisë 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-473` (tags `vendim-2019-473/<day>`; `python tools/on.py <day> vendim-2019-473`).
+Act id: `vendim-2019-473` (tags `vendim-2019-473/<day>`; `python registry/tools/on.py <day> vendim-2019-473`).
 
 ## Decisions made by hand
 

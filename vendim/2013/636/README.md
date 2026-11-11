@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit suedez nr. TF014255, ndërmjet Shqipëris�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-636` (tags `vendim-2013-636/<day>`; `python tools/on.py <day> vendim-2013-636`).
+Act id: `vendim-2013-636` (tags `vendim-2013-636/<day>`; `python registry/tools/on.py <day> vendim-2013-636`).
 
 ## Decisions made by hand
 

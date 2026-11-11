@@ -17,7 +17,7 @@ PëR SHPRONëSIMIN PëR INTERES PUBLIK, Të PRONARIT TË PASURISë së PALUAJTSH
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1677` (tags `vendim-2008-1677/<day>`; `python tools/on.py <day> vendim-2008-1677`).
+Act id: `vendim-2008-1677` (tags `vendim-2008-1677/<day>`; `python registry/tools/on.py <day> vendim-2008-1677`).
 
 ## Decisions made by hand
 

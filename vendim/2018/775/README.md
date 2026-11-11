@@ -5,7 +5,7 @@ Miratimin dhe publikimin zyrtar të nomenklaturës së kombinuar të mallrave, 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-775` (tags `vendim-2018-775/<day>`; `python tools/on.py <day> vendim-2018-775`).
+Act id: `vendim-2018-775` (tags `vendim-2018-775/<day>`; `python registry/tools/on.py <day> vendim-2018-775`).
 
 ## Decisions made by hand
 

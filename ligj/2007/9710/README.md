@@ -31,7 +31,7 @@ Portet turistike në republikën e shqipërisë · 3 versions, from 2007-05-09 (
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9710` (tags `ligj-2007-9710/<day>`; `python tools/on.py <day> ligj-2007-9710`).
+Act id: `ligj-2007-9710` (tags `ligj-2007-9710/<day>`; `python registry/tools/on.py <day> ligj-2007-9710`).
 
 ## Decisions made by hand
 

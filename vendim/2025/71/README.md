@@ -15,7 +15,7 @@ Heqjen nga fondi pyjor privat, ndryshimin e kategorisë së përdorimit dhe pak�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-71` (tags `vendim-2025-71/<day>`; `python tools/on.py <day> vendim-2025-71`).
+Act id: `vendim-2025-71` (tags `vendim-2025-71/<day>`; `python registry/tools/on.py <day> vendim-2025-71`).
 
 ## Decisions made by hand
 

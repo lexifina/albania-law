@@ -10,7 +10,7 @@ Miratimin e marrëveshjes së koncesionit të formës “ROT” ndërmjet minist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2007-04-19 |
 
-Act id: `vendim-2003-486` (tags `vendim-2003-486/<day>`; `python tools/on.py <day> vendim-2003-486`).
+Act id: `vendim-2003-486` (tags `vendim-2003-486/<day>`; `python registry/tools/on.py <day> vendim-2003-486`).
 
 ## Decisions made by hand
 

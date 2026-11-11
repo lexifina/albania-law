@@ -41,7 +41,7 @@ Mbrojtjen e liqeneve ndërkufitare · 2 versions, from 2003-08-19 (latest in for
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9103` (tags `ligj-2003-9103/<day>`; `python tools/on.py <day> ligj-2003-9103`).
+Act id: `ligj-2003-9103` (tags `ligj-2003-9103/<day>`; `python registry/tools/on.py <day> ligj-2003-9103`).
 
 ## Decisions made by hand
 

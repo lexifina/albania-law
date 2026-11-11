@@ -16,7 +16,7 @@ Procedurat, kriteret e përfitimit të kredisë dhe mënyra e administrimit të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-0216-3` (tags `udhezim-2012-0216-3/<day>`; `python tools/on.py <day> udhezim-2012-0216-3`).
+Act id: `udhezim-2012-0216-3` (tags `udhezim-2012-0216-3/<day>`; `python registry/tools/on.py <day> udhezim-2012-0216-3`).
 
 ## Decisions made by hand
 

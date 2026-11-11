@@ -5,7 +5,7 @@ Njësitë e matjes dhe kontrollin e mjeteve matëse (metrologjinë) · 4 version
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-8996` (tags `ligj-2003-8996/<day>`; `python tools/on.py <day> ligj-2003-8996`).
+Act id: `ligj-2003-8996` (tags `ligj-2003-8996/<day>`; `python registry/tools/on.py <day> ligj-2003-8996`).
 
 ## Decisions made by hand
 

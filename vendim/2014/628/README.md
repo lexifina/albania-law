@@ -14,7 +14,7 @@ Përcaktimin e medaljeve që do të jepen me rastin e 70 - vjetorit të çlirimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-628` (tags `vendim-2014-628/<day>`; `python tools/on.py <day> vendim-2014-628`).
+Act id: `vendim-2014-628` (tags `vendim-2014-628/<day>`; `python registry/tools/on.py <day> vendim-2014-628`).
 
 ## Decisions made by hand
 

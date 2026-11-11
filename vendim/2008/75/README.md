@@ -11,7 +11,7 @@ Përdorimin e bonove të privatizimit të punonjësve të ish-shoqërisë “Pro
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-75` (tags `vendim-2008-75/<day>`; `python tools/on.py <day> vendim-2008-75`).
+Act id: `vendim-2008-75` (tags `vendim-2008-75/<day>`; `python registry/tools/on.py <day> vendim-2008-75`).
 
 ## Decisions made by hand
 

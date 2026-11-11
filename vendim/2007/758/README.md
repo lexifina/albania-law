@@ -10,7 +10,7 @@ Dhënien në përdorim, pa shpërblim, të një sipërfaqeje prej 100 m2 shoqat�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-758` (tags `vendim-2007-758/<day>`; `python tools/on.py <day> vendim-2007-758`).
+Act id: `vendim-2007-758` (tags `vendim-2007-758/<day>`; `python registry/tools/on.py <day> vendim-2007-758`).
 
 ## Decisions made by hand
 

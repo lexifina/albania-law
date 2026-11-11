@@ -27,7 +27,15 @@ Përcaktimin e procedurave të rekrutimit e të emërimit, të afateve të kalim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1184` (tags `vendim-2008-1184/<day>`; `python tools/on.py <day> vendim-2008-1184`).
+Act id: `vendim-2008-1184` (tags `vendim-2008-1184/<day>`; `python registry/tools/on.py <day> vendim-2008-1184`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1496, datë 19.11.2008: Për disa ndryshime dhe shtesa në vendimin nr.1184, datë 20.8.2008 të këshillit të ministrave “për përcaktimin e procedurave të rekrutimit e të emërimit, të afateve të kalimit nga një nivel më i ulët në një nivel më të lartë karriere dhe për marrjen e masave disiplinore për punonjësit e administratës tatimore qendrore](https://qbz.gov.al/eli/vendim/2008/11/19/1496)
 
 ## Decisions made by hand
 

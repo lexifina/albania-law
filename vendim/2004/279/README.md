@@ -5,7 +5,7 @@ Ngritjen e bordit të kullimit në zonën e shërbimit të kullimit të tiranës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-279` (tags `vendim-2004-279/<day>`; `python tools/on.py <day> vendim-2004-279`).
+Act id: `vendim-2004-279` (tags `vendim-2004-279/<day>`; `python registry/tools/on.py <day> vendim-2004-279`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Miratimin e rregullave, përgjegjësive dhe procedurave të detajuara për vler�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-620` (tags `vendim-2015-620/<day>`; `python tools/on.py <day> vendim-2015-620`).
+Act id: `vendim-2015-620` (tags `vendim-2015-620/<day>`; `python registry/tools/on.py <day> vendim-2015-620`).
 
 ## Decisions made by hand
 

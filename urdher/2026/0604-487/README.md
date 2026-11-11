@@ -9,7 +9,7 @@ Delegimin e kompetencës për nënshkrimin e certifikatave të kategorizimit të
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0604-487` (tags `urdher-2026-0604-487/<day>`; `python tools/on.py <day> urdher-2026-0604-487`).
+Act id: `urdher-2026-0604-487` (tags `urdher-2026-0604-487/<day>`; `python registry/tools/on.py <day> urdher-2026-0604-487`).
 
 ## Decisions made by hand
 

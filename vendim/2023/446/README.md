@@ -22,7 +22,7 @@ Përcaktimin e rregullave të hollësishme për kalimin e së drejtës së pron�
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-446` (tags `vendim-2023-446/<day>`; `python tools/on.py <day> vendim-2023-446`).
+Act id: `vendim-2023-446` (tags `vendim-2023-446/<day>`; `python registry/tools/on.py <day> vendim-2023-446`).
 
 ## Decisions made by hand
 

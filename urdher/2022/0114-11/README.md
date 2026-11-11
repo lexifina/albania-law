@@ -15,7 +15,7 @@ Një plan menaxhimi shumëvjeçar për një shfrytëzim të qëndrueshëm të re
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-03-28 |
 
-Act id: `urdher-2022-0114-11` (tags `urdher-2022-0114-11/<day>`; `python tools/on.py <day> urdher-2022-0114-11`).
+Act id: `urdher-2022-0114-11` (tags `urdher-2022-0114-11/<day>`; `python registry/tools/on.py <day> urdher-2022-0114-11`).
 
 ## Decisions made by hand
 

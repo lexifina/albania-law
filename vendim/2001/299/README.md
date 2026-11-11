@@ -14,7 +14,7 @@ Regjistrimin për shitje të sipërfaqeve të trojeve të objekteve në pronësi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2001-12-04 |
 
-Act id: `vendim-2001-299` (tags `vendim-2001-299/<day>`; `python tools/on.py <day> vendim-2001-299`).
+Act id: `vendim-2001-299` (tags `vendim-2001-299/<day>`; `python registry/tools/on.py <day> vendim-2001-299`).
 
 ## Decisions made by hand
 

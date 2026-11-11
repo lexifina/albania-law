@@ -15,7 +15,7 @@ Procedurën e pagimit të tarifës së licencës së prodhimit të Cannabis-it p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-1220-549` (tags `udhezim-2024-1220-549/<day>`; `python tools/on.py <day> udhezim-2024-1220-549`).
+Act id: `udhezim-2024-1220-549` (tags `udhezim-2024-1220-549/<day>`; `python registry/tools/on.py <day> udhezim-2024-1220-549`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mënyrën dhe afatet e kryerjes së pagesës së detyrimeve ligjore të subjekte
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-1126-47` (tags `udhezim-2009-1126-47/<day>`; `python tools/on.py <day> udhezim-2009-1126-47`).
+Act id: `udhezim-2009-1126-47` (tags `udhezim-2009-1126-47/<day>`; `python registry/tools/on.py <day> udhezim-2009-1126-47`).
 
 ## Decisions made by hand
 

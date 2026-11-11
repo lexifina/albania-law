@@ -9,7 +9,7 @@ Miratimin e formës dhe përmbajtjes së informacioneve të detyrueshme që për
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0413-312` (tags `urdher-2011-0413-312/<day>`; `python tools/on.py <day> urdher-2011-0413-312`).
+Act id: `urdher-2011-0413-312` (tags `urdher-2011-0413-312/<day>`; `python registry/tools/on.py <day> urdher-2011-0413-312`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Përcaktimin e autoriteteve dhe të përgjegjësive, për menaxhimin e decentral
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-505` (tags `vendim-2010-505/<day>`; `python tools/on.py <day> vendim-2010-505`).
+Act id: `vendim-2010-505` (tags `vendim-2010-505/<day>`; `python registry/tools/on.py <day> vendim-2010-505`).
 
 ## Decisions made by hand
 

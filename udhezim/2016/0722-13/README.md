@@ -29,7 +29,18 @@ Procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0722-13` (tags `udhezim-2016-0722-13/<day>`; `python tools/on.py <day> udhezim-2016-0722-13`).
+Act id: `udhezim-2016-0722-13` (tags `udhezim-2016-0722-13/<day>`; `python registry/tools/on.py <day> udhezim-2016-0722-13`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 15, datë 1.8.2016 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 15692]: Për disa shtesa në udhëzimin nr. 13, datë 22.7.2016, “për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, për vitin akademik 2016-2017](https://qbz.gov.al/eli/udhezim/2016/08/01/15)
+- [Udhëzimi nr. 22, datë 6.9.2016 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 15809]: Për disa shtesa dhe ndryshime në udhëzimin nr. 13, datë 22.7.2016, “për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, në vitin akademik 2016-2017](https://qbz.gov.al/eli/udhezim/2016/09/06/22)
+- [Udhëzimi nr. 24, datë 7.10.2016 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 15851]: Për disa shtesa dhe ndryshime në udhëzimin nr. 13, datë 22.7.2016,“për procedurat e aplikimit dhe të regjistrimit në programet e ciklit të parë të studimeve, në programet e studimeve me karakter profesional, si dhe në programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, në vitin akademik 2016-2017”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2016/10/07/24)
+- [Udhëzimi nr. 27, datë 29.12.2016 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 62278]: Për disa shtesa dhe ndryshime në udhëzimin nr. 13, datë 22.7.2016, “për procedurat e aplikimit dhe të regjistrimit në vitin akademik 2016-2017”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2016/12/29/27)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mbajtjen e procesverbalit të seancës gjyqësore me mjete audio · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0615-282` (tags `udhezim-2012-0615-282/<day>`; `python tools/on.py <day> udhezim-2012-0615-282`).
+Act id: `udhezim-2012-0615-282` (tags `udhezim-2012-0615-282/<day>`; `python registry/tools/on.py <day> udhezim-2012-0615-282`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Kuotat e pranimit dhe tarifat e shkollimit për ciklin e dytë të studimeve, me
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1077` (tags `vendim-2010-1077/<day>`; `python tools/on.py <day> vendim-2010-1077`).
+Act id: `vendim-2010-1077` (tags `vendim-2010-1077/<day>`; `python registry/tools/on.py <day> vendim-2010-1077`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullave për shpalljen e zonave të veçanta të ruajtjes · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-897` (tags `vendim-2011-897/<day>`; `python tools/on.py <day> vendim-2011-897`).
+Act id: `vendim-2011-897` (tags `vendim-2011-897/<day>`; `python registry/tools/on.py <day> vendim-2011-897`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e standardeve dhe metodologjisë së inspektimit të veprimtarisë së
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1203-408` (tags `urdher-2020-1203-408/<day>`; `python tools/on.py <day> urdher-2020-1203-408`).
+Act id: `urdher-2020-1203-408` (tags `urdher-2020-1203-408/<day>`; `python registry/tools/on.py <day> urdher-2020-1203-408`).
 
 ## Decisions made by hand
 

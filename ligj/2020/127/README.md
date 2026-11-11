@@ -38,7 +38,7 @@ Regjistrimin, mënyrën e përdorimit dhe kontrollin e mjeteve lundruese turisti
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-127` (tags `ligj-2020-127/<day>`; `python tools/on.py <day> ligj-2020-127`).
+Act id: `ligj-2020-127` (tags `ligj-2020-127/<day>`; `python registry/tools/on.py <day> ligj-2020-127`).
 
 ## Decisions made by hand
 

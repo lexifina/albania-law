@@ -14,7 +14,7 @@ Ngritjen dhe funksionimin e regjistrit elektronik të subjekteve që marrin masa
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-1030-1181` (tags `udhezim-2017-1030-1181/<day>`; `python tools/on.py <day> udhezim-2017-1030-1181`).
+Act id: `udhezim-2017-1030-1181` (tags `udhezim-2017-1030-1181/<day>`; `python registry/tools/on.py <day> udhezim-2017-1030-1181`).
 
 ## Decisions made by hand
 

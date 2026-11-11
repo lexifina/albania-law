@@ -31,7 +31,7 @@ Pagesën e së ardhurës nga papunësia · 2 versions, from 2018-03-27 (latest i
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-161` (tags `vendim-2018-161/<day>`; `python tools/on.py <day> vendim-2018-161`).
+Act id: `vendim-2018-161` (tags `vendim-2018-161/<day>`; `python registry/tools/on.py <day> vendim-2018-161`).
 
 ## Decisions made by hand
 

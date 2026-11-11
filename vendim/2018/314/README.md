@@ -9,7 +9,7 @@ Miratimin e ndryshimit nr. 3 të marrëveshjes së grantit nr. tf013972, ndërmj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-314` (tags `vendim-2018-314/<day>`; `python tools/on.py <day> vendim-2018-314`).
+Act id: `vendim-2018-314` (tags `vendim-2018-314/<day>`; `python registry/tools/on.py <day> vendim-2018-314`).
 
 ## Decisions made by hand
 

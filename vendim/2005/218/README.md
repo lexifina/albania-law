@@ -10,7 +10,7 @@ Miratimin e projektkontratës për blerjen e aksioneve të shoqërisë anonime �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-218` (tags `vendim-2005-218/<day>`; `python tools/on.py <day> vendim-2005-218`).
+Act id: `vendim-2005-218` (tags `vendim-2005-218/<day>`; `python registry/tools/on.py <day> vendim-2005-218`).
 
 ## Decisions made by hand
 

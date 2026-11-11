@@ -16,7 +16,7 @@ Përpunimin e të dhënave personale të kandidatëve për punë” · 1 version
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0722-42` (tags `udhezim-2014-0722-42/<day>`; `python tools/on.py <day> udhezim-2014-0722-42`).
+Act id: `udhezim-2014-0722-42` (tags `udhezim-2014-0722-42/<day>`; `python registry/tools/on.py <day> udhezim-2014-0722-42`).
 
 ## Decisions made by hand
 

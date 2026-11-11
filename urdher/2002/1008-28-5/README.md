@@ -10,7 +10,7 @@ Miratimin e statutit të Organizatës së Menaxhimit të Peshkimit (OMP, Elbasan
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2002-1008-28-5` (tags `urdher-2002-1008-28-5/<day>`; `python tools/on.py <day> urdher-2002-1008-28-5`).
+Act id: `urdher-2002-1008-28-5` (tags `urdher-2002-1008-28-5/<day>`; `python registry/tools/on.py <day> urdher-2002-1008-28-5`).
 
 ## Decisions made by hand
 

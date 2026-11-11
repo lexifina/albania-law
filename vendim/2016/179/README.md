@@ -11,7 +11,7 @@ Miratimin e statutit të qendrës kombëtare të biznesit · 1 versions, from 20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-179` (tags `vendim-2016-179/<day>`; `python tools/on.py <day> vendim-2016-179`).
+Act id: `vendim-2016-179` (tags `vendim-2016-179/<day>`; `python registry/tools/on.py <day> vendim-2016-179`).
 
 ## Decisions made by hand
 

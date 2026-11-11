@@ -20,7 +20,7 @@ Përcaktimin e tabelave dhe simboleve në pikat e kalimit kufitar dhe zonat e ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-442` (tags `vendim-2026-442/<day>`; `python tools/on.py <day> vendim-2026-442`).
+Act id: `vendim-2026-442` (tags `vendim-2026-442/<day>`; `python registry/tools/on.py <day> vendim-2026-442`).
 
 ## Decisions made by hand
 

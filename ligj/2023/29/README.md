@@ -88,7 +88,7 @@ Tatimi mbi të ardhurat · 7 versions, from 2023-05-17 (latest in force: 2026-01
 | Shtojca | [shtojca.md](shtojca.md) | 1 | 2026-01-30 |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `tatimi-mbi-te-ardhurat` (tags `tatimi-mbi-te-ardhurat/<day>`; `python tools/on.py <day> tatimi-mbi-te-ardhurat`).
+Act id: `tatimi-mbi-te-ardhurat` (tags `tatimi-mbi-te-ardhurat/<day>`; `python registry/tools/on.py <day> tatimi-mbi-te-ardhurat`).
 
 ## Decisions made by hand
 

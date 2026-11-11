@@ -18,7 +18,7 @@ Shërbimin meteorologjik ushtarak · 1 versions, from 2004-06-22 (latest in forc
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9224` (tags `ligj-2004-9224/<day>`; `python tools/on.py <day> ligj-2004-9224`).
+Act id: `ligj-2004-9224` (tags `ligj-2004-9224/<day>`; `python registry/tools/on.py <day> ligj-2004-9224`).
 
 ## Decisions made by hand
 

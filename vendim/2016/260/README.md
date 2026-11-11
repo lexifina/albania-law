@@ -10,7 +10,7 @@ PËR DHËNIEN E MIRATIMIT PËR LIDHJEN E KONTRATËS SË QIRASË ME TARIFËN 1 EU
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-260` (tags `vendim-2016-260/<day>`; `python tools/on.py <day> vendim-2016-260`).
+Act id: `vendim-2016-260` (tags `vendim-2016-260/<day>`; `python registry/tools/on.py <day> vendim-2016-260`).
 
 ## Decisions made by hand
 

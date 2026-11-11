@@ -22,7 +22,7 @@ Krijimin e agjencisë kombëtare të provimeve (akp) · 1 versions, from 2017-05
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1013` (tags `vendim-2010-1013/<day>`; `python tools/on.py <day> vendim-2010-1013`).
+Act id: `vendim-2010-1013` (tags `vendim-2010-1013/<day>`; `python registry/tools/on.py <day> vendim-2010-1013`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Strukturën varietore të fidanëve dhe materialeve të shumëzimit vegjetativ t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2005-1229-620` (tags `udhezim-2005-1229-620/<day>`; `python tools/on.py <day> udhezim-2005-1229-620`).
+Act id: `udhezim-2005-1229-620` (tags `udhezim-2005-1229-620/<day>`; `python registry/tools/on.py <day> udhezim-2005-1229-620`).
 
 ## Decisions made by hand
 

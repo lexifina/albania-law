@@ -29,7 +29,7 @@ Mbi Zbatimin e rregullave në organizimin e kohës së punës të personave që 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0506-5` (tags `udhezim-2009-0506-5/<day>`; `python tools/on.py <day> udhezim-2009-0506-5`).
+Act id: `udhezim-2009-0506-5` (tags `udhezim-2009-0506-5/<day>`; `python registry/tools/on.py <day> udhezim-2009-0506-5`).
 
 ## Decisions made by hand
 

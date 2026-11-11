@@ -5,7 +5,7 @@ Procedurat e monitorimit të zbatimit të kontratave për ushtrimin e aktiviteti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0910-11` (tags `udhezim-2020-0910-11/<day>`; `python tools/on.py <day> udhezim-2020-0910-11`).
+Act id: `udhezim-2020-0910-11` (tags `udhezim-2020-0910-11/<day>`; `python registry/tools/on.py <day> udhezim-2020-0910-11`).
 
 ## Decisions made by hand
 

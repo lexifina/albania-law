@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen për privilegjet dh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-8995` (tags `ligj-2003-8995/<day>`; `python tools/on.py <day> ligj-2003-8995`).
+Act id: `ligj-2003-8995` (tags `ligj-2003-8995/<day>`; `python registry/tools/on.py <day> ligj-2003-8995`).
 
 ## Decisions made by hand
 

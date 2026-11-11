@@ -25,7 +25,7 @@ Shërbimin shëndetësor stomatologjik në republikën e shqipërisë · 4 versi
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9928` (tags `ligj-2008-9928/<day>`; `python tools/on.py <day> ligj-2008-9928`).
+Act id: `ligj-2008-9928` (tags `ligj-2008-9928/<day>`; `python registry/tools/on.py <day> ligj-2008-9928`).
 
 ## Decisions made by hand
 

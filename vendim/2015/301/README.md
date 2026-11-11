@@ -16,7 +16,16 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-301` (tags `vendim-2015-301/<day>`; `python tools/on.py <day> vendim-2015-301`).
+Act id: `vendim-2015-301` (tags `vendim-2015-301/<day>`; `python registry/tools/on.py <day> vendim-2015-301`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 128, datë 17.2.2016: Për disa ndryshime në vendimin nr. 301, datë 8.4.2015, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv, vau i dejës-morinë”](https://qbz.gov.al/eli/vendim/2016/02/17/128)
+- [Vendimi i Këshillit të Ministrave nr. 389, datë 25.5.2016: Për disa ndryshime në vendimin nr. 301, datë 8.4.2015, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kv vau i dejës-morinë”, të ndryshuar](https://qbz.gov.al/eli/vendim/2016/05/25/389)
 
 ## Decisions made by hand
 

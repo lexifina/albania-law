@@ -11,7 +11,7 @@ Licencimin e subjekteve shtetërorë dhe private që kryejnë sherbimin e teleko
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0718-2220` (tags `udhezim-2001-0718-2220/<day>`; `python tools/on.py <day> udhezim-2001-0718-2220`).
+Act id: `udhezim-2001-0718-2220` (tags `udhezim-2001-0718-2220/<day>`; `python registry/tools/on.py <day> udhezim-2001-0718-2220`).
 
 ## Decisions made by hand
 

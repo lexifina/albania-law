@@ -12,7 +12,7 @@ Shpalljen dhe zbatimin e detyrueshëm të standardeve ndërkombëtare të kontab
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2008-0505-65` (tags `urdher-2008-0505-65/<day>`; `python tools/on.py <day> urdher-2008-0505-65`).
+Act id: `urdher-2008-0505-65` (tags `urdher-2008-0505-65/<day>`; `python registry/tools/on.py <day> urdher-2008-0505-65`).
 
 ## Decisions made by hand
 

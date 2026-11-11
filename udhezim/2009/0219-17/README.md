@@ -11,7 +11,7 @@ Formatin e formularit dhe deklarimit të pagesës së tatimit mbi të ardhurat p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-0219-17` (tags `udhezim-2009-0219-17/<day>`; `python tools/on.py <day> udhezim-2009-0219-17`).
+Act id: `udhezim-2009-0219-17` (tags `udhezim-2009-0219-17/<day>`; `python registry/tools/on.py <day> udhezim-2009-0219-17`).
 
 ## Decisions made by hand
 

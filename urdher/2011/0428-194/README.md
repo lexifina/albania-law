@@ -12,7 +12,7 @@ Hapjen e programeve të reja dhe fillimin e veprimtarisë akademike për këto p
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0428-194` (tags `urdher-2011-0428-194/<day>`; `python tools/on.py <day> urdher-2011-0428-194`).
+Act id: `urdher-2011-0428-194` (tags `urdher-2011-0428-194/<day>`; `python registry/tools/on.py <day> urdher-2011-0428-194`).
 
 ## Decisions made by hand
 

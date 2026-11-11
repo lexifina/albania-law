@@ -16,7 +16,7 @@ Krijimin e shoqërisë “albgaz” sha dhe përcaktimin e autoritetit publik q�
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-848` (tags `vendim-2016-848/<day>`; `python tools/on.py <day> vendim-2016-848`).
+Act id: `vendim-2016-848` (tags `vendim-2016-848/<day>`; `python registry/tools/on.py <day> vendim-2016-848`).
 
 ## Decisions made by hand
 

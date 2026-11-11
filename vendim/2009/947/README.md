@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-947` (tags `vendim-2009-947/<day>`; `python tools/on.py <day> vendim-2009-947`).
+Act id: `vendim-2009-947` (tags `vendim-2009-947/<day>`; `python registry/tools/on.py <day> vendim-2009-947`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 84, datë 30.1.2013: Për një ndryshim në vendimin nr. 947, datë 2.9.2009 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Kolonjë të qarkut të Fierit”](https://qbz.gov.al/eli/vendim/2013/01/30/84)
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Cilësinë e lëndës djegëse gazoil (diezel), të prodhuar nga rafinimi i naft
 | Pika 11 | [pika-011.md](pika-011.md) | 1 | 2009-08-22 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-52` (tags `vendim-2009-52/<day>`; `python tools/on.py <day> vendim-2009-52`).
+Act id: `vendim-2009-52` (tags `vendim-2009-52/<day>`; `python registry/tools/on.py <day> vendim-2009-52`).
 
 ## Decisions made by hand
 

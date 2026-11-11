@@ -5,7 +5,7 @@ Caktimin e selive dhe të rezidencave, që do të ruhen dhe DO TË mbrohen nga g
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-295` (tags `vendim-2004-295/<day>`; `python tools/on.py <day> vendim-2004-295`).
+Act id: `vendim-2004-295` (tags `vendim-2004-295/<day>`; `python registry/tools/on.py <day> vendim-2004-295`).
 
 ## Decisions made by hand
 

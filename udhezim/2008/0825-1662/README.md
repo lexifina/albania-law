@@ -22,7 +22,7 @@ Kriteret ë përdorimit të fondit të pashpërndarë të mbrojtjes sociale · 1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0825-1662` (tags `udhezim-2008-0825-1662/<day>`; `python tools/on.py <day> udhezim-2008-0825-1662`).
+Act id: `udhezim-2008-0825-1662` (tags `udhezim-2008-0825-1662/<day>`; `python registry/tools/on.py <day> udhezim-2008-0825-1662`).
 
 ## Decisions made by hand
 

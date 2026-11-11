@@ -27,7 +27,7 @@ Përcaktimin e procedurave dhe dokumentacionit për autorizimin e organizatave j
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-55` (tags `vendim-2019-55/<day>`; `python tools/on.py <day> vendim-2019-55`).
+Act id: `vendim-2019-55` (tags `vendim-2019-55/<day>`; `python registry/tools/on.py <day> vendim-2019-55`).
 
 ## Decisions made by hand
 

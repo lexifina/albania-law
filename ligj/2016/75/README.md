@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së parisit, në kuadër të konventës kuadër të 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-75-2016` (tags `ligji-75-2016/<day>`; `python tools/on.py <day> ligji-75-2016`).
+Act id: `ligji-75-2016` (tags `ligji-75-2016/<day>`; `python registry/tools/on.py <day> ligji-75-2016`).
 
 ## Decisions made by hand
 

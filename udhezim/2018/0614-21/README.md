@@ -19,7 +19,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë 2018, sesioni i dytë · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0614-21` (tags `udhezim-2018-0614-21/<day>`; `python tools/on.py <day> udhezim-2018-0614-21`).
+Act id: `udhezim-2018-0614-21` (tags `udhezim-2018-0614-21/<day>`; `python registry/tools/on.py <day> udhezim-2018-0614-21`).
 
 ## Decisions made by hand
 

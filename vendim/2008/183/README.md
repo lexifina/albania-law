@@ -10,7 +10,7 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-183` (tags `vendim-2008-183/<day>`; `python tools/on.py <day> vendim-2008-183`).
+Act id: `vendim-2008-183` (tags `vendim-2008-183/<day>`; `python registry/tools/on.py <day> vendim-2008-183`).
 
 ## Decisions made by hand
 

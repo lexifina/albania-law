@@ -10,7 +10,7 @@ Miratimin e simbolit të shërbimit kombëtar të punësimit · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-186` (tags `vendim-2014-186/<day>`; `python tools/on.py <day> vendim-2014-186`).
+Act id: `vendim-2014-186` (tags `vendim-2014-186/<day>`; `python registry/tools/on.py <day> vendim-2014-186`).
 
 ## Decisions made by hand
 

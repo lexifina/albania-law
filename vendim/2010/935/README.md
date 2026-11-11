@@ -9,7 +9,7 @@ Miratimin, në parim, të konventës së Këshillit të europës “për statusi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-935` (tags `vendim-2010-935/<day>`; `python tools/on.py <day> vendim-2010-935`).
+Act id: `vendim-2010-935` (tags `vendim-2010-935/<day>`; `python registry/tools/on.py <day> vendim-2010-935`).
 
 ## Decisions made by hand
 

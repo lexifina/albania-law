@@ -32,7 +32,7 @@ Kriteret e vendosjes dhe të funksionimit të stacioneve sezonale të ankorimit/
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-285` (tags `vendim-2022-285/<day>`; `python tools/on.py <day> vendim-2022-285`).
+Act id: `vendim-2022-285` (tags `vendim-2022-285/<day>`; `python registry/tools/on.py <day> vendim-2022-285`).
 
 ## Decisions made by hand
 

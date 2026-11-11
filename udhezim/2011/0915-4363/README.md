@@ -17,7 +17,7 @@ Shpenzimet dhe koston ekonomike, për zbatimin e procedurave të mbledhjes së d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0915-4363` (tags `udhezim-2011-0915-4363/<day>`; `python tools/on.py <day> udhezim-2011-0915-4363`).
+Act id: `udhezim-2011-0915-4363` (tags `udhezim-2011-0915-4363/<day>`; `python registry/tools/on.py <day> udhezim-2011-0915-4363`).
 
 ## Decisions made by hand
 

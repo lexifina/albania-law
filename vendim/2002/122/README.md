@@ -11,7 +11,7 @@ Përdorimin e procedurës ”Prokurim i drejtpërdrejtë” për përmirësimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-122` (tags `vendim-2002-122/<day>`; `python tools/on.py <day> vendim-2002-122`).
+Act id: `vendim-2002-122` (tags `vendim-2002-122/<day>`; `python registry/tools/on.py <day> vendim-2002-122`).
 
 ## Decisions made by hand
 

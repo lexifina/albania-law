@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me Republikën e Swazilendit · 1 versio
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-940` (tags `vendim-2008-940/<day>`; `python tools/on.py <day> vendim-2008-940`).
+Act id: `vendim-2008-940` (tags `vendim-2008-940/<day>`; `python registry/tools/on.py <day> vendim-2008-940`).
 
 ## Decisions made by hand
 

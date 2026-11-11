@@ -12,7 +12,7 @@ Shpërndarjen e vlerave financiare kreditorëve të shoqërisë “universi”, 
 | Pika 5 | [pika-005.md](pika-005.md) | 1 | 2005-07-21 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-162` (tags `vendim-2000-162/<day>`; `python tools/on.py <day> vendim-2000-162`).
+Act id: `vendim-2000-162` (tags `vendim-2000-162/<day>`; `python registry/tools/on.py <day> vendim-2000-162`).
 
 ## Decisions made by hand
 

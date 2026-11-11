@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-693` (tags `vendim-2008-693/<day>`; `python tools/on.py <day> vendim-2008-693`).
+Act id: `vendim-2008-693` (tags `vendim-2008-693/<day>`; `python registry/tools/on.py <day> vendim-2008-693`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 244, datë 20.3.2013: Për disa ndryshime në vendimin nr. 1236, datë 10.9.2008 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme publike të shtetit të komunës Kërrabë, qarku Tiranë” dhe në vendimin nr. 693, datë 21.5.2008 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pyjeve dhe kullotave që transferohen në pronësi të komunës Kërrabë, qarku Tiranë”](https://qbz.gov.al/eli/vendim/2013/03/20/244)
 
 ## Decisions made by hand
 

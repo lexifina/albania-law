@@ -26,7 +26,7 @@ Përcaktimin e rregullave të hollësishme për kriteret, procedurat për përzg
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0504-186` (tags `urdher-2022-0504-186/<day>`; `python tools/on.py <day> urdher-2022-0504-186`).
+Act id: `urdher-2022-0504-186` (tags `urdher-2022-0504-186/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-186`).
 
 ## Decisions made by hand
 

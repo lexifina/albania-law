@@ -14,7 +14,7 @@ Miratimin e kontratës tip për ushtrimin e aktivitetit të peshkimit dhe akuaku
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1020-1068` (tags `urdher-2026-1020-1068/<day>`; `python tools/on.py <day> urdher-2026-1020-1068`).
+Act id: `urdher-2026-1020-1068` (tags `urdher-2026-1020-1068/<day>`; `python registry/tools/on.py <day> urdher-2026-1020-1068`).
 
 ## Decisions made by hand
 

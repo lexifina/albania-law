@@ -12,7 +12,7 @@ Një shtesë fondi në buxhetin e vitit 2022, miratuar për Ministrinë e Arsimi
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-832` (tags `vendim-2022-832/<day>`; `python tools/on.py <day> vendim-2022-832`).
+Act id: `vendim-2022-832` (tags `vendim-2022-832/<day>`; `python registry/tools/on.py <day> vendim-2022-832`).
 
 ## Decisions made by hand
 

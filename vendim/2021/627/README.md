@@ -10,7 +10,7 @@ Kalimin te bashkitë Kurbin e Lezhë të objekteve arsimore, shkolla 9-vjeçare 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-627` (tags `vendim-2021-627/<day>`; `python tools/on.py <day> vendim-2021-627`).
+Act id: `vendim-2021-627` (tags `vendim-2021-627/<day>`; `python registry/tools/on.py <day> vendim-2021-627`).
 
 ## Decisions made by hand
 

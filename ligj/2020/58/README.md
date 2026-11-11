@@ -10,7 +10,7 @@ Miratimin e shtesës së kontratës së koncesionit të formës “BOT” (ndër
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-58-2020` (tags `ligji-58-2020/<day>`; `python tools/on.py <day> ligji-58-2020`).
+Act id: `ligji-58-2020` (tags `ligji-58-2020/<day>`; `python registry/tools/on.py <day> ligji-58-2020`).
 
 ## Decisions made by hand
 

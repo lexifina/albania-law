@@ -5,7 +5,7 @@ Përcaktimin e procedurës së kalimit në pronësi të oborreve në përdorim �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-578` (tags `vendim-2012-578/<day>`; `python tools/on.py <day> vendim-2012-578`).
+Act id: `vendim-2012-578` (tags `vendim-2012-578/<day>`; `python registry/tools/on.py <day> vendim-2012-578`).
 
 ## Decisions made by hand
 

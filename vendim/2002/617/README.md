@@ -13,7 +13,7 @@ Heqjen nga armatimi dhe përdorimi të një pjese të armëve, teknikës dhe paj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2004-10-21 |
 
-Act id: `vendim-2002-617` (tags `vendim-2002-617/<day>`; `python tools/on.py <day> vendim-2002-617`).
+Act id: `vendim-2002-617` (tags `vendim-2002-617/<day>`; `python registry/tools/on.py <day> vendim-2002-617`).
 
 ## Decisions made by hand
 

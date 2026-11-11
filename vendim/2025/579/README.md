@@ -10,7 +10,7 @@ Autorizimin e Ministrisë së Turizmit, Kulturës dhe Sportit si themeluese e fo
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-579` (tags `vendim-2025-579/<day>`; `python tools/on.py <day> vendim-2025-579`).
+Act id: `vendim-2025-579` (tags `vendim-2025-579/<day>`; `python registry/tools/on.py <day> vendim-2025-579`).
 
 ## Decisions made by hand
 

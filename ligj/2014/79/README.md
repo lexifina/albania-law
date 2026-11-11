@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes së kredisë për eksport ndërmjet këshillit të m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-79` (tags `ligj-2014-79/<day>`; `python tools/on.py <day> ligj-2014-79`).
+Act id: `ligj-2014-79` (tags `ligj-2014-79/<day>`; `python registry/tools/on.py <day> ligj-2014-79`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 77/2017: Për ratifikimin e ndryshimit nr. 1 të marrëveshjes së kredisë për eksport ndërmjet këshillit të ministrave të republikës së shqipërisë, që vepron në emër të republikës së shqipërisë dhe përfaqësohet nga ministria e financave, dhe unicredit bank austria ag, lidhur me financimin e projektit “modernizimi i sistemit arsimor në shqipëri nëpërmjet e-edukimit”, të ratifikuar me ligjin nr. 79/2014](https://qbz.gov.al/eli/ligj/2017/04/27/77-2017)
 
 ## Decisions made by hand
 

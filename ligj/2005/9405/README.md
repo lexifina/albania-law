@@ -10,7 +10,7 @@ Ratifikimin e “shtojcës në marrëveshjen financiare ndërmjet këshillit të
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9405` (tags `ligj-2005-9405/<day>`; `python tools/on.py <day> ligj-2005-9405`).
+Act id: `ligj-2005-9405` (tags `ligj-2005-9405/<day>`; `python registry/tools/on.py <day> ligj-2005-9405`).
 
 ## Decisions made by hand
 

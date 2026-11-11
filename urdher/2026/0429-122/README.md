@@ -10,7 +10,7 @@ Miratimin e Planit të Integritetit të Ministrisë së Arsimit 2026-2029 · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0429-122` (tags `urdher-2026-0429-122/<day>`; `python tools/on.py <day> urdher-2026-0429-122`).
+Act id: `urdher-2026-0429-122` (tags `urdher-2026-0429-122/<day>`; `python registry/tools/on.py <day> urdher-2026-0429-122`).
 
 ## Decisions made by hand
 

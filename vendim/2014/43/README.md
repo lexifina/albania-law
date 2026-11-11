@@ -9,7 +9,7 @@ Miratimin, në parim, të marrëveshjes së grantit nr. tf014999, ndërmjet shqi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-43` (tags `vendim-2014-43/<day>`; `python tools/on.py <day> vendim-2014-43`).
+Act id: `vendim-2014-43` (tags `vendim-2014-43/<day>`; `python registry/tools/on.py <day> vendim-2014-43`).
 
 ## Decisions made by hand
 

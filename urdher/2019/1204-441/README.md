@@ -10,7 +10,7 @@ Miratimin e planit vjetor minerar 2019 · 1 versions, from 2019-12-28 (latest in
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-1204-441` (tags `urdher-2019-1204-441/<day>`; `python tools/on.py <day> urdher-2019-1204-441`).
+Act id: `urdher-2019-1204-441` (tags `urdher-2019-1204-441/<day>`; `python registry/tools/on.py <day> urdher-2019-1204-441`).
 
 ## Decisions made by hand
 

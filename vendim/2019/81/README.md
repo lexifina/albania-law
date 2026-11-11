@@ -9,7 +9,15 @@ Miratimin e letërmarrëveshjes së grantit nr. TF0A8666, ndërmjet Republikës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-81` (tags `vendim-2019-81/<day>`; `python tools/on.py <day> vendim-2019-81`).
+Act id: `vendim-2019-81` (tags `vendim-2019-81/<day>`; `python registry/tools/on.py <day> vendim-2019-81`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 710, datë 6.11.2019: Për miratimin e marrëveshjes ndryshuese me shkëmbim letrash të letërmarrëveshjes së grantit nr. TF0A8666, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant të siguruara nga dhurues të ndryshëm, nën fondin e besimit shumëdhurues, për mbështetjen për ngritjen e kapaciteteve për zbatimin e sistemit të planifikimit të integruar 2, për financimin e projektit për ngritjen e kapaciteteve për zbatimin e sistemit të planifikimit të integruar 2, miratuar me vendimin nr. 81, datë 20.2.2019, të Këshillit të Ministrave](https://qbz.gov.al/eli/vendim/2019/11/06/710)
 
 ## Decisions made by hand
 

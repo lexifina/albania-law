@@ -11,7 +11,7 @@ Mbylljen e veprimtarisë së institucioneve arsimore publike dhe jopublike dhe �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0319-190` (tags `urdher-2020-0319-190/<day>`; `python tools/on.py <day> urdher-2020-0319-190`).
+Act id: `urdher-2020-0319-190` (tags `urdher-2020-0319-190/<day>`; `python registry/tools/on.py <day> urdher-2020-0319-190`).
 
 ## Decisions made by hand
 

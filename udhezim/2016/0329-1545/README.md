@@ -15,7 +15,7 @@ Shitblerja e mjeteve rrugore me motor dhe/ose e rimorkiove, të reja ose të pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0329-1545` (tags `udhezim-2016-0329-1545/<day>`; `python tools/on.py <day> udhezim-2016-0329-1545`).
+Act id: `udhezim-2016-0329-1545` (tags `udhezim-2016-0329-1545/<day>`; `python registry/tools/on.py <day> udhezim-2016-0329-1545`).
 
 ## Decisions made by hand
 

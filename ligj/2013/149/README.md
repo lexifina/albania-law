@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 2.5.2013, të Kës
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2013-149` (tags `ligj-2013-149/<day>`; `python tools/on.py <day> ligj-2013-149`).
+Act id: `ligj-2013-149` (tags `ligj-2013-149/<day>`; `python registry/tools/on.py <day> ligj-2013-149`).
 
 ## Decisions made by hand
 

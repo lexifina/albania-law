@@ -12,7 +12,16 @@ Miratimin e strategjisë për parandalimin dhe shlyerjen e detyrimeve të prapam
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-50` (tags `vendim-2014-50/<day>`; `python tools/on.py <day> vendim-2014-50`).
+Act id: `vendim-2014-50` (tags `vendim-2014-50/<day>`; `python registry/tools/on.py <day> vendim-2014-50`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 405, datë 13.5.2015: Për një shtesë në vendimin nr. 50, datë 5.2.2014, të Këshillit të Ministrave, “Për miratimin e strategjisë për parandalimin dhe shlyerjen e detyrimeve të prapambetura e të planit të veprimit”, të ndryshuar](https://qbz.gov.al/eli/vendim/2015/05/13/405)
+- [Vendimi i Këshillit të Ministrave nr. 331, datë 28.5.2014: Për një ndryshim në vendimin nr. 50, datë 5.2.2014, të këshillit të ministrave, “për miratimin e strategjisë për parandalimin dhe shlyerjen e detyrimeve të prapambetura e të planit të veprimit”](https://qbz.gov.al/eli/vendim/2014/05/28/331)
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Kuotat financiare të ushqimit në mensa e konvikte, përcaktimin e kritereve p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-873` (tags `vendim-2016-873/<day>`; `python tools/on.py <day> vendim-2016-873`).
+Act id: `vendim-2016-873` (tags `vendim-2016-873/<day>`; `python registry/tools/on.py <day> vendim-2016-873`).
 
 ## Decisions made by hand
 

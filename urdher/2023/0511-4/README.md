@@ -11,7 +11,7 @@ Shpalljen e ”Thirrjes së tetë” në kuadër të Programit Kombëtar të Pra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0511-4` (tags `urdher-2023-0511-4/<day>`; `python tools/on.py <day> urdher-2023-0511-4`).
+Act id: `urdher-2023-0511-4` (tags `urdher-2023-0511-4/<day>`; `python registry/tools/on.py <day> urdher-2023-0511-4`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e marrëveshjes hidrokarbure me ndarje prodhimi për zhvillimin dhe pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-401` (tags `vendim-2022-401/<day>`; `python tools/on.py <day> vendim-2022-401`).
+Act id: `vendim-2022-401` (tags `vendim-2022-401/<day>`; `python registry/tools/on.py <day> vendim-2022-401`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Trajtimin e punonjësve që dalin të papunë nga procesi i ristrukturimit të u
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-389` (tags `vendim-2002-389/<day>`; `python tools/on.py <day> vendim-2002-389`).
+Act id: `vendim-2002-389` (tags `vendim-2002-389/<day>`; `python registry/tools/on.py <day> vendim-2002-389`).
 
 ## Decisions made by hand
 

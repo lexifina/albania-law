@@ -5,7 +5,7 @@ Shërbimin për çështjet e brendshme dhe ankesat në ministrinë e punëve të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2014-70` (tags `ligj-2014-70/<day>`; `python tools/on.py <day> ligj-2014-70`).
+Act id: `ligj-2014-70` (tags `ligj-2014-70/<day>`; `python registry/tools/on.py <day> ligj-2014-70`).
 
 ## Decisions made by hand
 

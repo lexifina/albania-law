@@ -5,7 +5,7 @@ PËr REGJISTRIMIN DHE VLERËSIMIN E NXËNËSVE QË KANË PËRFITUAR AZIL NË REP
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-1026-32` (tags `udhezim-2009-1026-32/<day>`; `python tools/on.py <day> udhezim-2009-1026-32`).
+Act id: `udhezim-2009-1026-32` (tags `udhezim-2009-1026-32/<day>`; `python registry/tools/on.py <day> udhezim-2009-1026-32`).
 
 ## Decisions made by hand
 

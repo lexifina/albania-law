@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së garancisë ndërmjet republikës së shqipër
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9309` (tags `ligj-2004-9309/<day>`; `python tools/on.py <day> ligj-2004-9309`).
+Act id: `ligj-2004-9309` (tags `ligj-2004-9309/<day>`; `python registry/tools/on.py <day> ligj-2004-9309`).
 
 ## Decisions made by hand
 

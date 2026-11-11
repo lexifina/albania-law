@@ -15,7 +15,7 @@ Shpërblimin e pensionistëve për festat e fundivitit 2024 · 1 versions, from 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-736` (tags `vendim-2024-736/<day>`; `python tools/on.py <day> vendim-2024-736`).
+Act id: `vendim-2024-736` (tags `vendim-2024-736/<day>`; `python registry/tools/on.py <day> vendim-2024-736`).
 
 ## Decisions made by hand
 

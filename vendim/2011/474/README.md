@@ -5,7 +5,7 @@ Përcaktimin e standardeve e të procedurës që duhet të ndiqet gjatë hartimi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-474` (tags `vendim-2011-474/<day>`; `python tools/on.py <day> vendim-2011-474`).
+Act id: `vendim-2011-474` (tags `vendim-2011-474/<day>`; `python registry/tools/on.py <day> vendim-2011-474`).
 
 ## Decisions made by hand
 

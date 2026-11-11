@@ -13,7 +13,7 @@ Ndalimin e peshkimit në liqenet e Ohrit, Prespës, Fierzës, Ulzës dhe Shkopet
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0411-167` (tags `urdher-2022-0411-167/<day>`; `python tools/on.py <day> urdher-2022-0411-167`).
+Act id: `urdher-2022-0411-167` (tags `urdher-2022-0411-167/<day>`; `python registry/tools/on.py <day> urdher-2022-0411-167`).
 
 ## Decisions made by hand
 

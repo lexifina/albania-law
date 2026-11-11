@@ -5,7 +5,7 @@ KrIteret dhe masën e kompensimit të ushtarakut të forcave të armatosura të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-435` (tags `vendim-2004-435/<day>`; `python tools/on.py <day> vendim-2004-435`).
+Act id: `vendim-2004-435` (tags `vendim-2004-435/<day>`; `python registry/tools/on.py <day> vendim-2004-435`).
 
 ## Decisions made by hand
 

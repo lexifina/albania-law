@@ -10,7 +10,7 @@ Miratimin e modelit të prospektit BID · 1 versions, from 2021-06-11 (latest in
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-341` (tags `vendim-2021-341/<day>`; `python tools/on.py <day> vendim-2021-341`).
+Act id: `vendim-2021-341` (tags `vendim-2021-341/<day>`; `python registry/tools/on.py <day> vendim-2021-341`).
 
 ## Decisions made by hand
 

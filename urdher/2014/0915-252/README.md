@@ -5,7 +5,7 @@ Miratimin e rregullores “për përcaktimin e kërkesave mbi cilësinë e të d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-0915-252` (tags `urdher-2014-0915-252/<day>`; `python tools/on.py <day> urdher-2014-0915-252`).
+Act id: `urdher-2014-0915-252` (tags `urdher-2014-0915-252/<day>`; `python registry/tools/on.py <day> urdher-2014-0915-252`).
 
 ## Decisions made by hand
 

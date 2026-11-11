@@ -10,7 +10,7 @@ Kriteret për fillimin e Inspektimit Financiar Publik · 1 versions, from 2011-0
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0516-11` (tags `udhezim-2011-0516-11/<day>`; `python tools/on.py <day> udhezim-2011-0516-11`).
+Act id: `udhezim-2011-0516-11` (tags `udhezim-2011-0516-11/<day>`; `python registry/tools/on.py <day> udhezim-2011-0516-11`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,18 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-513` (tags `vendim-2007-513/<day>`; `python tools/on.py <day> vendim-2007-513`).
+Act id: `vendim-2007-513` (tags `vendim-2007-513/<day>`; `python registry/tools/on.py <day> vendim-2007-513`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 538, datë 18.6.2015: Për kalimin në përgjegjësi administrimi, nga Agjencia e Trajtimit të Kredive te Ministria e Financave, për degën e thesarit Pukë, të një ambienti në pronën me numër pasurie nr. 1, në zonën kadastrale nr. 3069, me vendndodhje në qytetin e Pukës, dhe për një ndryshim në vendimet e Këshillit të Ministrave nr. 513, datë 15.8.2007, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Financave, për Agjencinë e Trajtimit të Kredive”, dhe nr. 622, datë 15.9.2006, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Financave”](https://qbz.gov.al/eli/vendim/2015/06/18/538)
+- [Vendimi i Këshillit të Ministrave nr. 588, datë 1.7.2015: Për kalimin në përgjegjësi administrimi, nga Agjencia e Trajtimit të Kredive te Ministria e Financave, për degën e thesarit Gjirokastër, të një ambienti në pronën nr. 4/183+1-12, në zonën kadastrale nr.8542, me vendndodhje në adresën “Lagjja Varosh”, në qytetin e Gjirokastrës, dhe për një ndryshim në vendimin nr.513, datë 15.8.2007, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Financave për Agjencinë e Trajtimit të Kredive”](https://qbz.gov.al/eli/vendim/2015/07/01/588)
+- [Vendimi i Këshillit të Ministrave nr. 537, datë 1.5.2008: Për kalimin në përgjegjësi administrimi nga ministria e financave te ministria e brendshme, të ish-ndërmarrjes së bakrit artistik, kavajë, dhe për ndryshimin e vendimit nr.513, datë 15.8.2007 të këshillit të ministrave ”për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së financave, për agjencinë e trajtimit të kredive”, e për një shtesë në vendimin nr.250, datë 24.4.2003 të këshillit të ministrave ”për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së rendit publik”](https://qbz.gov.al/eli/vendim/2008/05/01/537)
+- [Vendimi i Këshillit të Ministrave nr. 199, datë 15.3.2017: Për kalimin në përgjegjësi administrimi, nga agjencia e trajtimit të kredive te ministria e financave, për degën e thesarit sarandë, të një ambienti në pronën nr. 13/125-m7, në zonën kadastrale 8641, me vendndodhje në adresën “lagjja nr. 1”, në qytetin e sarandës, dhe për një ndryshim në vendimin nr. 513, datë 15.8.2007, të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi ministrisë së financave për agjencinë e trajtimit të kredive”](https://qbz.gov.al/eli/vendim/2017/03/15/199)
 
 ## Decisions made by hand
 

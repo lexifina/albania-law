@@ -12,7 +12,7 @@ Miratimin e rregullores ”Për përcaktimin e rregullave dhe të procedurave p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-792` (tags `vendim-2023-792/<day>`; `python tools/on.py <day> vendim-2023-792`).
+Act id: `vendim-2023-792` (tags `vendim-2023-792/<day>`; `python registry/tools/on.py <day> vendim-2023-792`).
 
 ## Decisions made by hand
 

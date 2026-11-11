@@ -20,7 +20,7 @@ Mbi modalitetet për transferimin e zëvendësnoterit · 2 versions, from 2020-0
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0610-7` (tags `udhezim-2020-0610-7/<day>`; `python tools/on.py <day> udhezim-2020-0610-7`).
+Act id: `udhezim-2020-0610-7` (tags `udhezim-2020-0610-7/<day>`; `python registry/tools/on.py <day> udhezim-2020-0610-7`).
 
 ## Decisions made by hand
 

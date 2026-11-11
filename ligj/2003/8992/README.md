@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “protokollin e marrëveshjes së m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-8992` (tags `ligj-2003-8992/<day>`; `python tools/on.py <day> ligj-2003-8992`).
+Act id: `ligj-2003-8992` (tags `ligj-2003-8992/<day>`; `python registry/tools/on.py <day> ligj-2003-8992`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Përcaktimin e rregullave për ushtrimin e funksionit mbikëqyrës të ministris
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1001-279` (tags `urdher-2020-1001-279/<day>`; `python tools/on.py <day> urdher-2020-1001-279`).
+Act id: `urdher-2020-1001-279` (tags `urdher-2020-1001-279/<day>`; `python registry/tools/on.py <day> urdher-2020-1001-279`).
 
 ## Decisions made by hand
 

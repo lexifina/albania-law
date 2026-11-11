@@ -29,7 +29,7 @@ Ngritjen, funksionimin dhe zhvillimin profesional të Rrjetit Kombëtar të Moni
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0506-10` (tags `udhezim-2022-0506-10/<day>`; `python tools/on.py <day> udhezim-2022-0506-10`).
+Act id: `udhezim-2022-0506-10` (tags `udhezim-2022-0506-10/<day>`; `python registry/tools/on.py <day> udhezim-2022-0506-10`).
 
 ## Decisions made by hand
 

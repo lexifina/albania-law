@@ -10,7 +10,7 @@ Ripërtëritjen e licencës si agjenci e adminstrimit kolektiv në fushën e të
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-1202-1048` (tags `urdher-2024-1202-1048/<day>`; `python tools/on.py <day> urdher-2024-1202-1048`).
+Act id: `urdher-2024-1202-1048` (tags `urdher-2024-1202-1048/<day>`; `python registry/tools/on.py <day> urdher-2024-1202-1048`).
 
 ## Decisions made by hand
 

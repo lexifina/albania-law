@@ -5,7 +5,7 @@ Tarifat e shërbimeve që kryhen nga shërbimi i gjendjes civile · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-550` (tags `vendim-2003-550/<day>`; `python tools/on.py <day> vendim-2003-550`).
+Act id: `vendim-2003-550` (tags `vendim-2003-550/<day>`; `python registry/tools/on.py <day> vendim-2003-550`).
 
 ## Decisions made by hand
 

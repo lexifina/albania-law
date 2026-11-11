@@ -13,7 +13,7 @@ Përcaktimin e kushteve për mbledhjen dhe përpunimin e molusqeve bivalve nga z
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0829-25` (tags `udhezim-2025-0829-25/<day>`; `python tools/on.py <day> udhezim-2025-0829-25`).
+Act id: `udhezim-2025-0829-25` (tags `udhezim-2025-0829-25/<day>`; `python registry/tools/on.py <day> udhezim-2025-0829-25`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Zbatimin e buxhetit të shtetit për vitin 2005 · 1 versions, from 2005-02-01 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2005-0127-8` (tags `udhezim-2005-0127-8/<day>`; `python tools/on.py <day> udhezim-2005-0127-8`).
+Act id: `udhezim-2005-0127-8` (tags `udhezim-2005-0127-8/<day>`; `python registry/tools/on.py <day> udhezim-2005-0127-8`).
 
 ## Decisions made by hand
 

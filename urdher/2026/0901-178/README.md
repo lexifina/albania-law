@@ -14,7 +14,7 @@ Përcaktimin e moshës për kategoritë e pranimit në rolet policore · 1 versi
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0901-178` (tags `urdher-2026-0901-178/<day>`; `python tools/on.py <day> urdher-2026-0901-178`).
+Act id: `urdher-2026-0901-178` (tags `urdher-2026-0901-178/<day>`; `python registry/tools/on.py <day> urdher-2026-0901-178`).
 
 ## Decisions made by hand
 

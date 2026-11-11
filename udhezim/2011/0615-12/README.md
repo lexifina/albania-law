@@ -10,7 +10,7 @@ Disa shtesa në udhëzimin nr.12, datë 18.5.2011 “për procedurat e zbatimit 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0615-12` (tags `udhezim-2011-0615-12/<day>`; `python tools/on.py <day> udhezim-2011-0615-12`).
+Act id: `udhezim-2011-0615-12` (tags `udhezim-2011-0615-12/<day>`; `python registry/tools/on.py <day> udhezim-2011-0615-12`).
 
 ## Decisions made by hand
 

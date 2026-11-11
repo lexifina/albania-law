@@ -10,7 +10,7 @@ Ratifikimin e “protokollit të dytë shtesë të marrëveshjes për krijimin e
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8640` (tags `ligj-2000-8640/<day>`; `python tools/on.py <day> ligj-2000-8640`).
+Act id: `ligj-2000-8640` (tags `ligj-2000-8640/<day>`; `python registry/tools/on.py <day> ligj-2000-8640`).
 
 ## Decisions made by hand
 

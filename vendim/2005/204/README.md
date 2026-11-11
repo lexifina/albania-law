@@ -10,7 +10,7 @@ Lejimin e institutit të sigurimeve shoqërore të përdorë procedurën “prok
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-204` (tags `vendim-2005-204/<day>`; `python tools/on.py <day> vendim-2005-204`).
+Act id: `vendim-2005-204` (tags `vendim-2005-204/<day>`; `python registry/tools/on.py <day> vendim-2005-204`).
 
 ## Decisions made by hand
 

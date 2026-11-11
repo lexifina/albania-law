@@ -13,7 +13,7 @@ Zëvendësimin e përkohshëm për nënshkrimin e dokumenteve në emër të Sekr
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0426-261` (tags `urdher-2023-0426-261/<day>`; `python tools/on.py <day> urdher-2023-0426-261`).
+Act id: `urdher-2023-0426-261` (tags `urdher-2023-0426-261/<day>`; `python registry/tools/on.py <day> urdher-2023-0426-261`).
 
 ## Decisions made by hand
 

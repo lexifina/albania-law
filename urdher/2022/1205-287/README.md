@@ -11,7 +11,7 @@ Miratimin e planit vjetor minerar 2023 · 1 versions, from 2022-12-16 (latest in
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1205-287` (tags `urdher-2022-1205-287/<day>`; `python tools/on.py <day> urdher-2022-1205-287`).
+Act id: `urdher-2022-1205-287` (tags `urdher-2022-1205-287/<day>`; `python registry/tools/on.py <day> urdher-2022-1205-287`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të disa anëtarëve të bordit mbikëqyrës t
 | Pika 2 | [pika-002.md](pika-002.md) | 1 | 2014-08-07 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-1045` (tags `vendim-2013-1045/<day>`; `python tools/on.py <day> vendim-2013-1045`).
+Act id: `vendim-2013-1045` (tags `vendim-2013-1045/<day>`; `python registry/tools/on.py <day> vendim-2013-1045`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me k
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0720-14` (tags `udhezim-2012-0720-14/<day>`; `python tools/on.py <day> udhezim-2012-0720-14`).
+Act id: `udhezim-2012-0720-14` (tags `udhezim-2012-0720-14/<day>`; `python registry/tools/on.py <day> udhezim-2012-0720-14`).
 
 ## Decisions made by hand
 

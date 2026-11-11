@@ -12,7 +12,7 @@ Përcaktimin e formatit të raportimit, afateve dhe kohës së paraqitjes së ra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-97` (tags `vendim-2025-97/<day>`; `python tools/on.py <day> vendim-2025-97`).
+Act id: `vendim-2025-97` (tags `vendim-2025-97/<day>`; `python registry/tools/on.py <day> vendim-2025-97`).
 
 ## Decisions made by hand
 

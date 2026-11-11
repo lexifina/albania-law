@@ -9,7 +9,7 @@ Miratimin e Manualit të Rojës Bregdetare Shqiptare · 1 versions, from 2002-12
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-606` (tags `vendim-2002-606/<day>`; `python tools/on.py <day> vendim-2002-606`).
+Act id: `vendim-2002-606` (tags `vendim-2002-606/<day>`; `python registry/tools/on.py <day> vendim-2002-606`).
 
 ## Decisions made by hand
 

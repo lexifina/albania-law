@@ -11,7 +11,7 @@ Miratimin e Planit të Veprimit për Ruajtjen e Ariut të Murrmë (Ursus arctos)
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0901-467` (tags `urdher-2026-0901-467/<day>`; `python tools/on.py <day> urdher-2026-0901-467`).
+Act id: `urdher-2026-0901-467` (tags `urdher-2026-0901-467/<day>`; `python registry/tools/on.py <day> urdher-2026-0901-467`).
 
 ## Decisions made by hand
 

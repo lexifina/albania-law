@@ -10,7 +10,7 @@ Dhënie fondi partisë demokracia paqësore shqiptare · 1 versions, from 2001-0
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-416` (tags `vendim-2001-416/<day>`; `python tools/on.py <day> vendim-2001-416`).
+Act id: `vendim-2001-416` (tags `vendim-2001-416/<day>`; `python registry/tools/on.py <day> vendim-2001-416`).
 
 ## Decisions made by hand
 

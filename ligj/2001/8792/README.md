@@ -21,7 +21,7 @@ Per krijimin e qendrës së përpunimit të të dhënave · 1 versions, from 200
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8792-2001` (tags `ligji-8792-2001/<day>`; `python tools/on.py <day> ligji-8792-2001`).
+Act id: `ligji-8792-2001` (tags `ligji-8792-2001/<day>`; `python registry/tools/on.py <day> ligji-8792-2001`).
 
 ## Decisions made by hand
 

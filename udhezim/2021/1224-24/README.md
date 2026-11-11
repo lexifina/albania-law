@@ -15,7 +15,7 @@ Procedurat e organizimit të konkursit për tekstin e vetëm të përbashkët �
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-1224-24` (tags `udhezim-2021-1224-24/<day>`; `python tools/on.py <day> udhezim-2021-1224-24`).
+Act id: `udhezim-2021-1224-24` (tags `udhezim-2021-1224-24/<day>`; `python registry/tools/on.py <day> udhezim-2021-1224-24`).
 
 ## Decisions made by hand
 

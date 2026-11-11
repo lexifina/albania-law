@@ -5,7 +5,7 @@ Përcaktimin e tarifave për lëshimin e dokumenteve ligjore për transferimin n
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-202` (tags `vendim-2019-202/<day>`; `python tools/on.py <day> vendim-2019-202`).
+Act id: `vendim-2019-202` (tags `vendim-2019-202/<day>`; `python registry/tools/on.py <day> vendim-2019-202`).
 
 ## Decisions made by hand
 

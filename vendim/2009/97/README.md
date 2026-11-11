@@ -20,7 +20,7 @@ Hapjen e programit të studimit “master i nivelit të parë”, për përcakti
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-97` (tags `vendim-2009-97/<day>`; `python tools/on.py <day> vendim-2009-97`).
+Act id: `vendim-2009-97` (tags `vendim-2009-97/<day>`; `python registry/tools/on.py <day> vendim-2009-97`).
 
 ## Decisions made by hand
 

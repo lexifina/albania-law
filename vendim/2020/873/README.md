@@ -12,7 +12,7 @@ Përcaktimin e rasteve dhe të mënyrës së bashkëpunimit ndërmjet pushtetit 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-873` (tags `vendim-2020-873/<day>`; `python tools/on.py <day> vendim-2020-873`).
+Act id: `vendim-2020-873` (tags `vendim-2020-873/<day>`; `python registry/tools/on.py <day> vendim-2020-873`).
 
 ## Decisions made by hand
 

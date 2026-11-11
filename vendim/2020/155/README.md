@@ -14,7 +14,7 @@ Kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-155` (tags `vendim-2020-155/<day>`; `python tools/on.py <day> vendim-2020-155`).
+Act id: `vendim-2020-155` (tags `vendim-2020-155/<day>`; `python registry/tools/on.py <day> vendim-2020-155`).
 
 ## Decisions made by hand
 

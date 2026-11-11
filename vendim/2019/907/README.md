@@ -8,7 +8,7 @@ Pёr dhёnie shtese pensioni tё posaҫёm shtetёror z. Astrit Shuaip Hafizi ·
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-907` (tags `vendim-2019-907/<day>`; `python tools/on.py <day> vendim-2019-907`).
+Act id: `vendim-2019-907` (tags `vendim-2019-907/<day>`; `python registry/tools/on.py <day> vendim-2019-907`).
 
 ## Decisions made by hand
 

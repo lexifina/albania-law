@@ -22,7 +22,7 @@ Procedurën e organizimit të komisionit të licencimit të ofruesve të shërbi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0116-90` (tags `udhezim-2006-0116-90/<day>`; `python tools/on.py <day> udhezim-2006-0116-90`).
+Act id: `udhezim-2006-0116-90` (tags `udhezim-2006-0116-90/<day>`; `python registry/tools/on.py <day> udhezim-2006-0116-90`).
 
 ## Decisions made by hand
 

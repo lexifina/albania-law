@@ -30,7 +30,7 @@ Përcaktimin e masave të nevojshme për grumbullimin dhe trajtimin e mbetjeve b
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-608` (tags `vendim-2014-608/<day>`; `python tools/on.py <day> vendim-2014-608`).
+Act id: `vendim-2014-608` (tags `vendim-2014-608/<day>`; `python registry/tools/on.py <day> vendim-2014-608`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Mbi informacionin teknik të nevojshëm për elementet e kontrollit teknik, meto
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-0412-8` (tags `udhezim-2022-0412-8/<day>`; `python tools/on.py <day> udhezim-2022-0412-8`).
+Act id: `udhezim-2022-0412-8` (tags `udhezim-2022-0412-8/<day>`; `python registry/tools/on.py <day> udhezim-2022-0412-8`).
 
 ## Decisions made by hand
 

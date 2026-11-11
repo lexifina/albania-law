@@ -10,7 +10,7 @@ Miratimin e kuadrit makroekonomik e fiskal për periudhën 2027-2029 · 2 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-07-02 |
 
-Act id: `vendim-2026-9` (tags `vendim-2026-9/<day>`; `python tools/on.py <day> vendim-2026-9`).
+Act id: `vendim-2026-9` (tags `vendim-2026-9/<day>`; `python registry/tools/on.py <day> vendim-2026-9`).
 
 ## Decisions made by hand
 

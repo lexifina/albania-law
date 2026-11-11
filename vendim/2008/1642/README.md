@@ -10,7 +10,17 @@ MiraTImin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1642` (tags `vendim-2008-1642/<day>`; `python tools/on.py <day> vendim-2008-1642`).
+Act id: `vendim-2008-1642` (tags `vendim-2008-1642/<day>`; `python registry/tools/on.py <day> vendim-2008-1642`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 525, datë 30.6.2010: Për një ndryshim në vendimin nr.1642, datë 11.12.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim të bashkisë përrenjas të qarkut të elbasanit”](https://qbz.gov.al/eli/vendim/2010/06/30/525)
+- [Vendimi i Këshillit të Ministrave nr. 1025, datë 15.12.2010: Për një ndryshim në vendimin nr.1642, datë 11.12.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë përrenjas të qarkut të elbasanit”](https://qbz.gov.al/eli/vendim/2010/12/15/1025)
+- [Vendimi i Këshillit të Ministrave nr. 668, datë 11.6.2009: Për një ndryshim në vendimin nr.1642, datë 17.12.2008 të këshillit të ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, që transferohen, në pronësi ose në përdorim, të bashkisë përrenjas të qarkut të Elbasanit](https://qbz.gov.al/eli/vendim/2009/06/11/668)
 
 ## Decisions made by hand
 

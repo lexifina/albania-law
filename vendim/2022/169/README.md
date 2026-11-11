@@ -5,7 +5,7 @@ Përcaktimin e afatit të hyrjes dhe qëndrimit të shtetasve të Ukrainës në 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-169` (tags `vendim-2022-169/<day>`; `python tools/on.py <day> vendim-2022-169`).
+Act id: `vendim-2022-169` (tags `vendim-2022-169/<day>`; `python registry/tools/on.py <day> vendim-2022-169`).
 
 ## Decisions made by hand
 

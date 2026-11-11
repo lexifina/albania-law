@@ -15,7 +15,7 @@ Përcaktimin e procedurave dhe të kritereve për financimin e aktiviteteve spor
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-830` (tags `vendim-2025-830/<day>`; `python tools/on.py <day> vendim-2025-830`).
+Act id: `vendim-2025-830` (tags `vendim-2025-830/<day>`; `python registry/tools/on.py <day> vendim-2025-830`).
 
 ## Decisions made by hand
 

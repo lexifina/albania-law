@@ -19,7 +19,7 @@ Krijimin, administrimin dhe përdorimin e bazës së të dhënave të Regjistrit
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-217` (tags `vendim-2022-217/<day>`; `python tools/on.py <day> vendim-2022-217`).
+Act id: `vendim-2022-217` (tags `vendim-2022-217/<day>`; `python registry/tools/on.py <day> vendim-2022-217`).
 
 ## Decisions made by hand
 

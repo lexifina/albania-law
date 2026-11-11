@@ -12,7 +12,7 @@ Procedurat e hartimit të listave paraprake të zgjedhësve “për zgjedhjet e 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0115-98` (tags `udhezim-2007-0115-98/<day>`; `python tools/on.py <day> udhezim-2007-0115-98`).
+Act id: `udhezim-2007-0115-98` (tags `udhezim-2007-0115-98/<day>`; `python registry/tools/on.py <day> udhezim-2007-0115-98`).
 
 ## Decisions made by hand
 

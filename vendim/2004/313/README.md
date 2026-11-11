@@ -5,7 +5,7 @@ Miratimin e taRifave të përdorimit të ujit · 2 versions, from 2004-05-27 (la
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-313` (tags `vendim-2004-313/<day>`; `python tools/on.py <day> vendim-2004-313`).
+Act id: `vendim-2004-313` (tags `vendim-2004-313/<day>`; `python registry/tools/on.py <day> vendim-2004-313`).
 
 ## Decisions made by hand
 

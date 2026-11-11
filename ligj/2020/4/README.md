@@ -32,7 +32,7 @@ Shkëmbimin automatik të informacionit të llogarive financiare · 2 versions, 
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-4` (tags `ligj-2020-4/<day>`; `python tools/on.py <day> ligj-2020-4`).
+Act id: `ligj-2020-4` (tags `ligj-2020-4/<day>`; `python registry/tools/on.py <day> ligj-2020-4`).
 
 ## Decisions made by hand
 

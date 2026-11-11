@@ -18,7 +18,7 @@ Zbatimin e Buxhetit të Shtetit për vitin 2006 · 1 versions, from 2006-03-01 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0208-2` (tags `udhezim-2006-0208-2/<day>`; `python tools/on.py <day> udhezim-2006-0208-2`).
+Act id: `udhezim-2006-0208-2` (tags `udhezim-2006-0208-2/<day>`; `python registry/tools/on.py <day> udhezim-2006-0208-2`).
 
 ## Decisions made by hand
 

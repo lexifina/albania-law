@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Drej
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-606` (tags `vendim-2021-606/<day>`; `python tools/on.py <day> vendim-2021-606`).
+Act id: `vendim-2021-606` (tags `vendim-2021-606/<day>`; `python registry/tools/on.py <day> vendim-2021-606`).
 
 ## Decisions made by hand
 

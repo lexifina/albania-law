@@ -11,7 +11,7 @@ Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit të obj
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-200` (tags `vendim-2021-200/<day>`; `python tools/on.py <day> vendim-2021-200`).
+Act id: `vendim-2021-200` (tags `vendim-2021-200/<day>`; `python registry/tools/on.py <day> vendim-2021-200`).
 
 ## Decisions made by hand
 

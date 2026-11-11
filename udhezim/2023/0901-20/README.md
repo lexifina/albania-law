@@ -11,7 +11,7 @@ Përcaktimin e mënyrës dhe procedurës së punësimit me prioritet, të mjekë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0901-20` (tags `udhezim-2023-0901-20/<day>`; `python tools/on.py <day> udhezim-2023-0901-20`).
+Act id: `udhezim-2023-0901-20` (tags `udhezim-2023-0901-20/<day>`; `python registry/tools/on.py <day> udhezim-2023-0901-20`).
 
 ## Decisions made by hand
 

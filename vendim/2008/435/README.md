@@ -9,7 +9,7 @@ Miratimin e listës me numrat dhe titujt e standardeve të harmonizuara shqiptar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-435` (tags `vendim-2008-435/<day>`; `python tools/on.py <day> vendim-2008-435`).
+Act id: `vendim-2008-435` (tags `vendim-2008-435/<day>`; `python registry/tools/on.py <day> vendim-2008-435`).
 
 ## Decisions made by hand
 

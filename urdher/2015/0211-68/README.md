@@ -11,7 +11,7 @@ Miratimin e rregullores për vlerësimin e njohurive dhe aftësive të personeli
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2015-0211-68` (tags `urdher-2015-0211-68/<day>`; `python tools/on.py <day> urdher-2015-0211-68`).
+Act id: `urdher-2015-0211-68` (tags `urdher-2015-0211-68/<day>`; `python registry/tools/on.py <day> urdher-2015-0211-68`).
 
 ## Decisions made by hand
 

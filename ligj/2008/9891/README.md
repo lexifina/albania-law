@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit të “Marrëveshjes së rishitjes së aksioneve të IN
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9891` (tags `ligj-2008-9891/<day>`; `python tools/on.py <day> ligj-2008-9891`).
+Act id: `ligj-2008-9891` (tags `ligj-2008-9891/<day>`; `python registry/tools/on.py <day> ligj-2008-9891`).
 
 ## Decisions made by hand
 

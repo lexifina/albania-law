@@ -9,7 +9,7 @@ Miratimin e përmbajtjes dhe modeleve të akteve për kundërvajtjet në pyje ·
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0811-254` (tags `urdher-2023-0811-254/<day>`; `python tools/on.py <day> urdher-2023-0811-254`).
+Act id: `urdher-2023-0811-254` (tags `urdher-2023-0811-254/<day>`; `python registry/tools/on.py <day> urdher-2023-0811-254`).
 
 ## Decisions made by hand
 

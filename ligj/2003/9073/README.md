@@ -10,7 +10,7 @@ Privatizimin e shoqërisë: · 1 versions, from 2003-07-18 (latest in force: 200
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 
-Act id: `ligji-9073-2003` (tags `ligji-9073-2003/<day>`; `python tools/on.py <day> ligji-9073-2003`).
+Act id: `ligji-9073-2003` (tags `ligji-9073-2003/<day>`; `python registry/tools/on.py <day> ligji-9073-2003`).
 
 ## Decisions made by hand
 

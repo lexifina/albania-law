@@ -10,7 +10,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien e statusit të zhvilluesit
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-849` (tags `vendim-2009-849/<day>`; `python tools/on.py <day> vendim-2009-849`).
+Act id: `vendim-2009-849` (tags `vendim-2009-849/<day>`; `python registry/tools/on.py <day> vendim-2009-849`).
 
 ## Decisions made by hand
 

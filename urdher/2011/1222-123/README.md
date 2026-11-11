@@ -5,7 +5,7 @@ PËR MIRATIMIN E RREGULLORES PËR INTEGRIMIN NË NJË BAZË QENDRORE TË INFORMA
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-1222-123` (tags `urdher-2011-1222-123/<day>`; `python tools/on.py <day> urdher-2011-1222-123`).
+Act id: `urdher-2011-1222-123` (tags `urdher-2011-1222-123/<day>`; `python registry/tools/on.py <day> urdher-2011-1222-123`).
 
 ## Decisions made by hand
 

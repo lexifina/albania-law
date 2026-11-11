@@ -8,7 +8,7 @@ Emërimin në detyrë të disa anëtarëve të bordit mbikëqyrës të Agjencis�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-464` (tags `vendim-2022-464/<day>`; `python tools/on.py <day> vendim-2022-464`).
+Act id: `vendim-2022-464` (tags `vendim-2022-464/<day>`; `python registry/tools/on.py <day> vendim-2022-464`).
 
 ## Decisions made by hand
 

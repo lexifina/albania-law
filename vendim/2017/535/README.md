@@ -9,7 +9,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2017, miratuar për ministrinë e mb
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-535` (tags `vendim-2017-535/<day>`; `python tools/on.py <day> vendim-2017-535`).
+Act id: `vendim-2017-535` (tags `vendim-2017-535/<day>`; `python registry/tools/on.py <day> vendim-2017-535`).
 
 ## Decisions made by hand
 

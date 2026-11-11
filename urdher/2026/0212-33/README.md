@@ -13,7 +13,7 @@ Delegim kompetetencash · 1 versions, from 2026-02-18 (latest in force: 2026-02-
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0212-33` (tags `urdher-2026-0212-33/<day>`; `python tools/on.py <day> urdher-2026-0212-33`).
+Act id: `urdher-2026-0212-33` (tags `urdher-2026-0212-33/<day>`; `python registry/tools/on.py <day> urdher-2026-0212-33`).
 
 ## Decisions made by hand
 

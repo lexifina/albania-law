@@ -5,7 +5,7 @@ Miratimin e rregullores “Për transportimin fizik të informacionit të klasif
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-488` (tags `vendim-2010-488/<day>`; `python tools/on.py <day> vendim-2010-488`).
+Act id: `vendim-2010-488` (tags `vendim-2010-488/<day>`; `python registry/tools/on.py <day> vendim-2010-488`).
 
 ## Decisions made by hand
 

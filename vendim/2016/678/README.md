@@ -12,7 +12,7 @@ Shpërblimin e pronarëve të pasurive të paluajtshme, pronë private, për sip
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-678` (tags `vendim-2016-678/<day>`; `python tools/on.py <day> vendim-2016-678`).
+Act id: `vendim-2016-678` (tags `vendim-2016-678/<day>`; `python registry/tools/on.py <day> vendim-2016-678`).
 
 ## Decisions made by hand
 

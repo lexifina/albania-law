@@ -28,7 +28,7 @@ Përcaktimin e kushteve, kritereve, procedurave të shqyrtimit dhe të vendimmar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-258` (tags `vendim-2023-258/<day>`; `python tools/on.py <day> vendim-2023-258`).
+Act id: `vendim-2023-258` (tags `vendim-2023-258/<day>`; `python registry/tools/on.py <day> vendim-2023-258`).
 
 ## Decisions made by hand
 

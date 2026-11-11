@@ -9,7 +9,7 @@ Kalimin e një pjese të territorit të QSUT-SË në administrim të Institutit 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-481` (tags `vendim-2003-481/<day>`; `python tools/on.py <day> vendim-2003-481`).
+Act id: `vendim-2003-481` (tags `vendim-2003-481/<day>`; `python registry/tools/on.py <day> vendim-2003-481`).
 
 ## Decisions made by hand
 

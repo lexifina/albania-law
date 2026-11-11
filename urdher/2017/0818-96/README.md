@@ -9,7 +9,7 @@ Një ndryshim në urdhrin nr. 94, datë 3.8.2017 “për delegim kompetence” �
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-0818-96` (tags `urdher-2017-0818-96/<day>`; `python tools/on.py <day> urdher-2017-0818-96`).
+Act id: `urdher-2017-0818-96` (tags `urdher-2017-0818-96/<day>`; `python registry/tools/on.py <day> urdher-2017-0818-96`).
 
 ## Decisions made by hand
 

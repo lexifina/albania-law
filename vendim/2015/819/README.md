@@ -10,7 +10,7 @@ Një shtesë fondi në buxhetin e vitin 2015, miratuar për Gjykatën Kushtetues
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-819` (tags `vendim-2015-819/<day>`; `python tools/on.py <day> vendim-2015-819`).
+Act id: `vendim-2015-819` (tags `vendim-2015-819/<day>`; `python registry/tools/on.py <day> vendim-2015-819`).
 
 ## Decisions made by hand
 

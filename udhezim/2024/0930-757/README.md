@@ -20,7 +20,7 @@ Procedurat e shqyrtimit, vlerësimit dhe miratimit të kërkesave për licencim,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2024-0930-757` (tags `udhezim-2024-0930-757/<day>`; `python tools/on.py <day> udhezim-2024-0930-757`).
+Act id: `udhezim-2024-0930-757` (tags `udhezim-2024-0930-757/<day>`; `python registry/tools/on.py <day> udhezim-2024-0930-757`).
 
 ## Decisions made by hand
 

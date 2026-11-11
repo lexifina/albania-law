@@ -10,7 +10,7 @@ Përballimin e shpenzimeve të fushatave sensibilizuese për promovimin e dhurim
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-824` (tags `vendim-2009-824/<day>`; `python tools/on.py <day> vendim-2009-824`).
+Act id: `vendim-2009-824` (tags `vendim-2009-824/<day>`; `python registry/tools/on.py <day> vendim-2009-824`).
 
 ## Decisions made by hand
 

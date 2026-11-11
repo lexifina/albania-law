@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes së huasë, financimit dhe projektit ndërmjet Re
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9883` (tags `ligj-2008-9883/<day>`; `python tools/on.py <day> ligj-2008-9883`).
+Act id: `ligj-2008-9883` (tags `ligj-2008-9883/<day>`; `python registry/tools/on.py <day> ligj-2008-9883`).
 
 ## Decisions made by hand
 

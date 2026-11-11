@@ -11,7 +11,15 @@ Miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0606-115` (tags `urdher-2022-0606-115/<day>`; `python tools/on.py <day> urdher-2022-0606-115`).
+Act id: `urdher-2022-0606-115` (tags `urdher-2022-0606-115/<day>`; `python registry/tools/on.py <day> urdher-2022-0606-115`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 4514, datë 4.7.2022 (Ministria e Infrastrukturës dhe Energjisë): Korrigjim gabimi material në urdhrin e Ministrit të Infrastrukturës dhe Energjisë nr. 115, datë 6.6.2022 ”Për miratimin e rregullores për kërkesat, përmbajtjen e regjistrit dhe procedurat e regjistrimit, çregjistrimit ose ndryshimit të të dhënave në regjistrin e avionëve civil të Republikës së Shqipërisë”](https://qbz.gov.al/eli/urdher/2022/07/04/4514)
 
 ## Decisions made by hand
 

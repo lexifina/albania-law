@@ -14,7 +14,7 @@ Disa masa mbrojtëse ndaj sëmundjes së gjuhës blu të shfaqur në shtetin e I
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0924-744` (tags `urdher-2024-0924-744/<day>`; `python tools/on.py <day> urdher-2024-0924-744`).
+Act id: `urdher-2024-0924-744` (tags `urdher-2024-0924-744/<day>`; `python registry/tools/on.py <day> urdher-2024-0924-744`).
 
 ## Decisions made by hand
 

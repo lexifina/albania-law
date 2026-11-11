@@ -65,7 +65,7 @@ Vreshtarinë dhe verën · 1 versions, from 2023-01-31 (latest in force: 2023-01
 | Neni 50 | [neni-050.md](neni-050.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-86-2022` (tags `ligji-86-2022/<day>`; `python tools/on.py <day> ligji-86-2022`).
+Act id: `ligji-86-2022` (tags `ligji-86-2022/<day>`; `python registry/tools/on.py <day> ligji-86-2022`).
 
 ## Decisions made by hand
 

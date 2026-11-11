@@ -37,7 +37,7 @@ Dëftesat tregtare mbi produktet bujqësore · 1 versions, from 2026-08-14 (late
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-65-2026` (tags `ligji-65-2026/<day>`; `python tools/on.py <day> ligji-65-2026`).
+Act id: `ligji-65-2026` (tags `ligji-65-2026/<day>`; `python registry/tools/on.py <day> ligji-65-2026`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Dhënie Shtesë pensioni të posaçëm shtetëror znj. Lefteri Kodra · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-936` (tags `vendim-2014-936/<day>`; `python tools/on.py <day> vendim-2014-936`).
+Act id: `vendim-2014-936` (tags `vendim-2014-936/<day>`; `python registry/tools/on.py <day> vendim-2014-936`).
 
 ## Decisions made by hand
 

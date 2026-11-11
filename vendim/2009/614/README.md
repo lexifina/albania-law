@@ -10,7 +10,7 @@ Pagimin e shpenzimeve për kthimin në republikën ë shqipërisë të kokës s�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-614` (tags `vendim-2009-614/<day>`; `python tools/on.py <day> vendim-2009-614`).
+Act id: `vendim-2009-614` (tags `vendim-2009-614/<day>`; `python registry/tools/on.py <day> vendim-2009-614`).
 
 ## Decisions made by hand
 

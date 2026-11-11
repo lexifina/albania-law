@@ -13,7 +13,15 @@ Përcaktimin e procedurave dhe të mënyrës së mbështetjes financiare, për r
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1634` (tags `vendim-2008-1634/<day>`; `python tools/on.py <day> vendim-2008-1634`).
+Act id: `vendim-2008-1634` (tags `vendim-2008-1634/<day>`; `python registry/tools/on.py <day> vendim-2008-1634`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 436, datë 2.6.2010: Për disa ndryshime në vendimin nr.1634, datë 17.12.2008 të Këshillit të Ministrave “Për përcaktimin e procedurave dhe të mënyrës së mbështetjes financiare, për ruajtjen e rezervës gjenetike të racës autoktone të buajve”](https://qbz.gov.al/eli/vendim/2010/06/02/436)
 
 ## Decisions made by hand
 

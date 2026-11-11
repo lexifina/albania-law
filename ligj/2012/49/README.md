@@ -87,7 +87,7 @@ Organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2012-49` (tags `ligj-2012-49/<day>`; `python tools/on.py <day> ligj-2012-49`).
+Act id: `ligj-2012-49` (tags `ligj-2012-49/<day>`; `python registry/tools/on.py <day> ligj-2012-49`).
 
 ## Decisions made by hand
 

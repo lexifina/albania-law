@@ -11,7 +11,7 @@ Licencimin e shoqatës gramm-a si agjenci e administrimit kolektiv në fushën e
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0706-437` (tags `urdher-2018-0706-437/<day>`; `python tools/on.py <day> urdher-2018-0706-437`).
+Act id: `urdher-2018-0706-437` (tags `urdher-2018-0706-437/<day>`; `python registry/tools/on.py <day> urdher-2018-0706-437`).
 
 ## Decisions made by hand
 

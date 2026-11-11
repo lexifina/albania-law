@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror znj. Marjana Ndue Leka · 1 ver
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-815` (tags `vendim-2024-815/<day>`; `python tools/on.py <day> vendim-2024-815`).
+Act id: `vendim-2024-815` (tags `vendim-2024-815/<day>`; `python registry/tools/on.py <day> vendim-2024-815`).
 
 ## Decisions made by hand
 

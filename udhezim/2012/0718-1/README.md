@@ -22,7 +22,16 @@ Procedurat e dhënies me qira të tokave bujqësore të pandara · 1 versions, f
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0718-1` (tags `udhezim-2012-0718-1/<day>`; `python tools/on.py <day> udhezim-2012-0718-1`).
+Act id: `udhezim-2012-0718-1` (tags `udhezim-2012-0718-1/<day>`; `python registry/tools/on.py <day> udhezim-2012-0718-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 3, datë 27.11.2013 (Këshilli i Ministrave) [QBZ 10236]: Për pezullimin e përkohshëm të udhëzimit nr. 1, datë 18.7.2012 të Këshillit të Ministrave “Për procedurat e dhënies me qira të tokave bujqësore të pandara”](https://qbz.gov.al/eli/udhezim/2013/11/27/3)
+- [Udhëzimi nr. 2, datë 20.4.2016 (Këshilli i Ministrave) [QBZ 64398]: Për shfuqizimin e udhëzimit nr. 3, datë 27.11.2013, të këshillit të ministrave “për pezullimin e përkohshëm të udhëzimit nr. 1, datë 18.7.2012, të këshillit të ministrave “për procedurat e dhënies me qira të tokave bujqësore të pandara””](https://qbz.gov.al/eli/udhezim/2016/04/20/2)
 
 ## Decisions made by hand
 

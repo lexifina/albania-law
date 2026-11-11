@@ -5,7 +5,7 @@ Caktimin e nivelit bazë të së ardhurës nga papunësi · 2 versions, from 200
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-224` (tags `vendim-2006-224/<day>`; `python tools/on.py <day> vendim-2006-224`).
+Act id: `vendim-2006-224` (tags `vendim-2006-224/<day>`; `python registry/tools/on.py <day> vendim-2006-224`).
 
 ## Decisions made by hand
 

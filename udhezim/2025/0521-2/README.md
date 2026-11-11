@@ -10,7 +10,7 @@ Miratimin e formatit që do të përdoret për raportimin vjetor për vlerësimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0521-2` (tags `udhezim-2025-0521-2/<day>`; `python tools/on.py <day> udhezim-2025-0521-2`).
+Act id: `udhezim-2025-0521-2` (tags `udhezim-2025-0521-2/<day>`; `python registry/tools/on.py <day> udhezim-2025-0521-2`).
 
 ## Decisions made by hand
 

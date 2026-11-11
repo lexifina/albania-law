@@ -24,7 +24,7 @@ Marrjen dhe bashkërendimin e masave për mbarëvajtjen e sezonit turistik, si d
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0730-259` (tags `udhezim-2012-0730-259/<day>`; `python tools/on.py <day> udhezim-2012-0730-259`).
+Act id: `udhezim-2012-0730-259` (tags `udhezim-2012-0730-259/<day>`; `python registry/tools/on.py <day> udhezim-2012-0730-259`).
 
 ## Decisions made by hand
 

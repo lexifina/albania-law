@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së bashkëpunimit tregtar dhe ekonomik ndërmjet
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8817` (tags `ligj-2001-8817/<day>`; `python tools/on.py <day> ligj-2001-8817`).
+Act id: `ligj-2001-8817` (tags `ligj-2001-8817/<day>`; `python registry/tools/on.py <day> ligj-2001-8817`).
 
 ## Decisions made by hand
 

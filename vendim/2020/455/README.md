@@ -17,7 +17,7 @@ Kriteret dhe masën e kompensimit të qirasë së banesës dhe të ushqimit të 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-455` (tags `vendim-2020-455/<day>`; `python tools/on.py <day> vendim-2020-455`).
+Act id: `vendim-2020-455` (tags `vendim-2020-455/<day>`; `python registry/tools/on.py <day> vendim-2020-455`).
 
 ## Decisions made by hand
 

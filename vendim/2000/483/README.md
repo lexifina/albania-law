@@ -12,7 +12,7 @@ Transferimin e aksioneve të bankës kombëtare tregtare në bankën italo shqip
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-483` (tags `vendim-2000-483/<day>`; `python tools/on.py <day> vendim-2000-483`).
+Act id: `vendim-2000-483` (tags `vendim-2000-483/<day>`; `python registry/tools/on.py <day> vendim-2000-483`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Organizimin dhe funksionimin e qeverisë së nxënësve · 2 versions, from 2013
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2019-10-25 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0802-25` (tags `udhezim-2013-0802-25/<day>`; `python tools/on.py <day> udhezim-2013-0802-25`).
+Act id: `udhezim-2013-0802-25` (tags `udhezim-2013-0802-25/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-25`).
 
 ## Decisions made by hand
 

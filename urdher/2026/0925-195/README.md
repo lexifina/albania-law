@@ -15,7 +15,7 @@ Përcaktimin e formatit, temave dhe periudhave të zhvillimit të aktiviteteve i
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0925-195` (tags `urdher-2026-0925-195/<day>`; `python tools/on.py <day> urdher-2026-0925-195`).
+Act id: `urdher-2026-0925-195` (tags `urdher-2026-0925-195/<day>`; `python registry/tools/on.py <day> urdher-2026-0925-195`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Caktimin e masës së shpenzimeve dhe pagesave të ekspertëve dhe dëshmitarëv
 | Pika 5 | [pika-005.md](pika-005.md) | 1 | 2019-03-15 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-1212-4` (tags `udhezim-2012-1212-4/<day>`; `python tools/on.py <day> udhezim-2012-1212-4`).
+Act id: `udhezim-2012-1212-4` (tags `udhezim-2012-1212-4/<day>`; `python registry/tools/on.py <day> udhezim-2012-1212-4`).
 
 ## Decisions made by hand
 

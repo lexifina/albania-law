@@ -19,7 +19,7 @@ Formatin e skedarit të raportimit të të dhënave në zbatim të ligjit nr. 15
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0419-10` (tags `udhezim-2021-0419-10/<day>`; `python tools/on.py <day> udhezim-2021-0419-10`).
+Act id: `udhezim-2021-0419-10` (tags `udhezim-2021-0419-10/<day>`; `python registry/tools/on.py <day> udhezim-2021-0419-10`).
 
 ## Decisions made by hand
 

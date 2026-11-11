@@ -10,7 +10,7 @@ Miratimin e rregullores së programit të detyrueshëm të trajnimit për kandid
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0504-184` (tags `urdher-2022-0504-184/<day>`; `python tools/on.py <day> urdher-2022-0504-184`).
+Act id: `urdher-2022-0504-184` (tags `urdher-2022-0504-184/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-184`).
 
 ## Decisions made by hand
 

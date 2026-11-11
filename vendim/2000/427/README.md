@@ -10,7 +10,7 @@ Krijimin e “agjensisë së zhvillimit të zonave malore” · 3 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2010-04-22 |
 
-Act id: `vendim-2000-427` (tags `vendim-2000-427/<day>`; `python tools/on.py <day> vendim-2000-427`).
+Act id: `vendim-2000-427` (tags `vendim-2000-427/<day>`; `python registry/tools/on.py <day> vendim-2000-427`).
 
 ## Decisions made by hand
 

@@ -33,7 +33,7 @@ Mbi zbatimin e vendimit të Këshillit të Ministrave nr.73, datë 11.2.1999 “
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0320-648` (tags `udhezim-2006-0320-648/<day>`; `python tools/on.py <day> udhezim-2006-0320-648`).
+Act id: `udhezim-2006-0320-648` (tags `udhezim-2006-0320-648/<day>`; `python registry/tools/on.py <day> udhezim-2006-0320-648`).
 
 ## Decisions made by hand
 

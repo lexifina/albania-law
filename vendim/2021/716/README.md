@@ -10,7 +10,7 @@ Kalimin te Bashkitë Tiranë dhe Shijak të njësive individuale të banimit · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-716` (tags `vendim-2021-716/<day>`; `python tools/on.py <day> vendim-2021-716`).
+Act id: `vendim-2021-716` (tags `vendim-2021-716/<day>`; `python registry/tools/on.py <day> vendim-2021-716`).
 
 ## Decisions made by hand
 

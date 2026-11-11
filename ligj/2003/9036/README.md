@@ -37,7 +37,7 @@ Ratifikimin e “konventës ndërmjet qeverisë së republikës të shqipërisë
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 
-Act id: `ligji-9036-2003` (tags `ligji-9036-2003/<day>`; `python tools/on.py <day> ligji-9036-2003`).
+Act id: `ligji-9036-2003` (tags `ligji-9036-2003/<day>`; `python registry/tools/on.py <day> ligji-9036-2003`).
 
 ## Decisions made by hand
 

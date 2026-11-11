@@ -18,7 +18,7 @@ Ngritjen e komisionit për shqyrtimin e përputhshmërisë me politikat, strateg
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0913-7415` (tags `udhezim-2016-0913-7415/<day>`; `python tools/on.py <day> udhezim-2016-0913-7415`).
+Act id: `udhezim-2016-0913-7415` (tags `udhezim-2016-0913-7415/<day>`; `python registry/tools/on.py <day> udhezim-2016-0913-7415`).
 
 ## Decisions made by hand
 

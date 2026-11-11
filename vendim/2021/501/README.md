@@ -17,7 +17,7 @@ Dhënien e mbrojtjes së përkohshme shtetasve afganë dhe personave pa shtetës
 | Pika 10 | [pika-010.md](pika-010.md) | 1 | 2024-01-05 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-501` (tags `vendim-2021-501/<day>`; `python tools/on.py <day> vendim-2021-501`).
+Act id: `vendim-2021-501` (tags `vendim-2021-501/<day>`; `python registry/tools/on.py <day> vendim-2021-501`).
 
 ## Decisions made by hand
 

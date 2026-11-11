@@ -11,7 +11,7 @@ Rivlerësimin e pasurisë së paluajtshme · 1 versions, from 2026-01-22 (latest
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-85-2025` (tags `ligji-85-2025/<day>`; `python tools/on.py <day> ligji-85-2025`).
+Act id: `ligji-85-2025` (tags `ligji-85-2025/<day>`; `python registry/tools/on.py <day> ligji-85-2025`).
 
 ## Decisions made by hand
 

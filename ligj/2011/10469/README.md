@@ -22,7 +22,7 @@ Mbrojtjen nga rrezatimet jojonizuese · 1 versions, from 2025-05-13 (latest in f
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10469` (tags `ligj-2011-10469/<day>`; `python tools/on.py <day> ligj-2011-10469`).
+Act id: `ligj-2011-10469` (tags `ligj-2011-10469/<day>`; `python registry/tools/on.py <day> ligj-2011-10469`).
 
 ## Decisions made by hand
 

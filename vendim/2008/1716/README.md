@@ -45,7 +45,7 @@ Mënyrën e organizimit dhe të funksionimit të drejtorisë së përgjithshme t
 | Pika 38 | [pika-038.md](pika-038.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1716` (tags `vendim-2008-1716/<day>`; `python tools/on.py <day> vendim-2008-1716`).
+Act id: `vendim-2008-1716` (tags `vendim-2008-1716/<day>`; `python registry/tools/on.py <day> vendim-2008-1716`).
 
 ## Decisions made by hand
 

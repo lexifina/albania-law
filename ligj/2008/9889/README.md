@@ -18,7 +18,7 @@ Përcaktimin e formës dhe të strukturës së formulës së privatizimit të sh
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9889` (tags `ligj-2008-9889/<day>`; `python tools/on.py <day> ligj-2008-9889`).
+Act id: `ligj-2008-9889` (tags `ligj-2008-9889/<day>`; `python registry/tools/on.py <day> ligj-2008-9889`).
 
 ## Decisions made by hand
 

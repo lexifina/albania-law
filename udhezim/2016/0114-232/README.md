@@ -17,7 +17,7 @@ Mbi ndryshimin e pronësisë së mjeteve rrugore · 1 versions, from 2016-03-03 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0114-232` (tags `udhezim-2016-0114-232/<day>`; `python tools/on.py <day> udhezim-2016-0114-232`).
+Act id: `udhezim-2016-0114-232` (tags `udhezim-2016-0114-232/<day>`; `python registry/tools/on.py <day> udhezim-2016-0114-232`).
 
 ## Decisions made by hand
 

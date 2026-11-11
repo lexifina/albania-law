@@ -5,7 +5,7 @@ Procedurat e mbledhjes, përpunimit dhe administrimit të akteve të subjekteve 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-255` (tags `vendim-2010-255/<day>`; `python tools/on.py <day> vendim-2010-255`).
+Act id: `vendim-2010-255` (tags `vendim-2010-255/<day>`; `python registry/tools/on.py <day> vendim-2010-255`).
 
 ## Decisions made by hand
 

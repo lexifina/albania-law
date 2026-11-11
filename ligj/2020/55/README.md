@@ -127,7 +127,7 @@ Shërbimet e pagesave · 1 versions, from 2021-01-02 (latest in force: 2021-01-0
 | Titulli V | [titulli-05.md](titulli-05.md) | 0 |  |
 | Titulli VI | [titulli-06.md](titulli-06.md) | 0 |  |
 
-Act id: `ligji-55-2020` (tags `ligji-55-2020/<day>`; `python tools/on.py <day> ligji-55-2020`).
+Act id: `ligji-55-2020` (tags `ligji-55-2020/<day>`; `python registry/tools/on.py <day> ligji-55-2020`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1680` (tags `vendim-2008-1680/<day>`; `python tools/on.py <day> vendim-2008-1680`).
+Act id: `vendim-2008-1680` (tags `vendim-2008-1680/<day>`; `python registry/tools/on.py <day> vendim-2008-1680`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 840, datë 28.10.2020: Për disa ndryshime dhe shtesa në vendimin nr. 1680, datë 24.12.2008, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor Levan-Tepelenë”](https://qbz.gov.al/eli/vendim/2020/10/28/840)
 
 ## Decisions made by hand
 

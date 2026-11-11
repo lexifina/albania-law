@@ -5,7 +5,7 @@ Zbatimin e rekomandimit ICCAT ”Për ndryshimin e rekomandimitn19-04, për ndry
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2022-0908-385` (tags `urdher-2022-0908-385/<day>`; `python tools/on.py <day> urdher-2022-0908-385`).
+Act id: `urdher-2022-0908-385` (tags `urdher-2022-0908-385/<day>`; `python registry/tools/on.py <day> urdher-2022-0908-385`).
 
 ## Decisions made by hand
 

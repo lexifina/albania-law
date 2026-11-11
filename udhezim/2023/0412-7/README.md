@@ -12,7 +12,7 @@ Miratimin e treguesve dhe kritereve që duhet të arrijnë subjektet që ofrojn�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-08-20 |
 
-Act id: `udhezim-2023-0412-7` (tags `udhezim-2023-0412-7/<day>`; `python tools/on.py <day> udhezim-2023-0412-7`).
+Act id: `udhezim-2023-0412-7` (tags `udhezim-2023-0412-7/<day>`; `python registry/tools/on.py <day> udhezim-2023-0412-7`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Të drejtën e damkimit, administrimin dhe mënyrën e përdorimit të çekiçda
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0429-2` (tags `udhezim-2026-0429-2/<day>`; `python tools/on.py <day> udhezim-2026-0429-2`).
+Act id: `udhezim-2026-0429-2` (tags `udhezim-2026-0429-2/<day>`; `python registry/tools/on.py <day> udhezim-2026-0429-2`).
 
 ## Decisions made by hand
 

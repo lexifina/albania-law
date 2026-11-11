@@ -8,7 +8,7 @@ Miratimin e kontratës me objekt ”fFrnizim vendosje respiratorë me dy modalit
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-274` (tags `vendim-2020-274/<day>`; `python tools/on.py <day> vendim-2020-274`).
+Act id: `vendim-2020-274` (tags `vendim-2020-274/<day>`; `python registry/tools/on.py <day> vendim-2020-274`).
 
 ## Decisions made by hand
 

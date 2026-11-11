@@ -5,7 +5,7 @@ Përcaktimin e tarifave të shërbimeve portuale të portit të llojit MBM në P
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0910-5749` (tags `udhezim-2019-0910-5749/<day>`; `python tools/on.py <day> udhezim-2019-0910-5749`).
+Act id: `udhezim-2019-0910-5749` (tags `udhezim-2019-0910-5749/<day>`; `python registry/tools/on.py <day> udhezim-2019-0910-5749`).
 
 ## Decisions made by hand
 

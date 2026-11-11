@@ -5,7 +5,7 @@ Sigurimin e të dhënave për pronat publike dhe private, në funksion të reali
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-330` (tags `vendim-2005-330/<day>`; `python tools/on.py <day> vendim-2005-330`).
+Act id: `vendim-2005-330` (tags `vendim-2005-330/<day>`; `python registry/tools/on.py <day> vendim-2005-330`).
 
 ## Decisions made by hand
 

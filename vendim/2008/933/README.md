@@ -17,7 +17,18 @@ Përfaqësimin e ministrisë së brendshme me oficerë kontakti në britaninë e
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-933` (tags `vendim-2008-933/<day>`; `python tools/on.py <day> vendim-2008-933`).
+Act id: `vendim-2008-933` (tags `vendim-2008-933/<day>`; `python registry/tools/on.py <day> vendim-2008-933`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 215, datë 11.2.2009: Për disa ndryshime në vendimin nr.933, datë 2.7.2008 të këshillit të ministrave “Për përfaqësimin e ministrisë së brendshme me oficerë kontakti në britaninë e madhe, belgjikë, itali, greqi, turqi, kosovë dhe europol”](https://qbz.gov.al/eli/vendim/2009/02/11/215)
+- [Vendimi i Këshillit të Ministrave nr. 1137, datë 18.11.2009: Për disa ndryshime në vendimin nr.933, datë 2.7.2008 të këshillit të ministrave “për përfaqësimin e ministrisë së brendshme me oficerë kontakti në britaninë e madhe, belgjikë, itali, greqi, turqi, kosovë, shtetet e bashkuara të amerikës, gjermani, francë dhe europol”, të ndryshuar](https://qbz.gov.al/eli/vendim/2009/11/18/1137)
+- [Vendimi i Këshillit të Ministrave nr. 499, datë 29.8.2018: Për miratimin e procedurave standarde të veprimit për mbrojtjen e viktimave dhe viktimave të mundshme të trafikimit](https://qbz.gov.al/eli/vendim/2018/08/29/499)
+- [Vendimi i Këshillit të Ministrave nr. 750, datë 19.12.2018: Për disa ndryshime në vendimin nr. 933, datë 2.7.2008, të këshillit të ministrave, “për përfaqësimin e ministrisë së brendshme me oficerë kontakti në britaninë e madhe, belgjikë, itali, greqi, turqi, kosovë, shtetet e bashkuara të amerikës, gjermani, francë, europol dhe interpol”, të ndryshuar](https://qbz.gov.al/eli/vendim/2018/12/19/750)
 
 ## Decisions made by hand
 

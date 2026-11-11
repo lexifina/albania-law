@@ -24,7 +24,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë 2015 · 1 versions, from 201
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0326-7` (tags `udhezim-2015-0326-7/<day>`; `python tools/on.py <day> udhezim-2015-0326-7`).
+Act id: `udhezim-2015-0326-7` (tags `udhezim-2015-0326-7/<day>`; `python registry/tools/on.py <day> udhezim-2015-0326-7`).
 
 ## Decisions made by hand
 

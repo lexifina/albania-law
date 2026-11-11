@@ -14,7 +14,7 @@ Miratimin e primit të pastër të sigurimit të detyrueshëm të mbajtësve të
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2008-0619-82` (tags `urdher-2008-0619-82/<day>`; `python tools/on.py <day> urdher-2008-0619-82`).
+Act id: `urdher-2008-0619-82` (tags `urdher-2008-0619-82/<day>`; `python registry/tools/on.py <day> urdher-2008-0619-82`).
 
 ## Decisions made by hand
 

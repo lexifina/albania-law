@@ -5,7 +5,7 @@ Funksionimin e këshillit kombëtar të punës dhe për caktimin e përfaqësues
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-730` (tags `vendim-2003-730/<day>`; `python tools/on.py <day> vendim-2003-730`).
+Act id: `vendim-2003-730` (tags `vendim-2003-730/<day>`; `python registry/tools/on.py <day> vendim-2003-730`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Marrjen në dorëzim të akteve noteriale, regjistrave dhe vulave të noterit ·
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0610-167` (tags `urdher-2020-0610-167/<day>`; `python tools/on.py <day> urdher-2020-0610-167`).
+Act id: `urdher-2020-0610-167` (tags `urdher-2020-0610-167/<day>`; `python registry/tools/on.py <day> urdher-2020-0610-167`).
 
 ## Decisions made by hand
 

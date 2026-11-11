@@ -12,7 +12,7 @@ Përcaktimin e shkeljeve të tjera të ligjit nr. 9049, datë 10.4.2003 “Për 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0403-715` (tags `urdher-2013-0403-715/<day>`; `python tools/on.py <day> urdher-2013-0403-715`).
+Act id: `urdher-2013-0403-715` (tags `urdher-2013-0403-715/<day>`; `python registry/tools/on.py <day> urdher-2013-0403-715`).
 
 ## Decisions made by hand
 

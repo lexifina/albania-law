@@ -9,7 +9,7 @@ Miratimin e raportit të nëntë, të dhjetë, të njëmbëdhjetë kombëtar per
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-534` (tags `vendim-2017-534/<day>`; `python tools/on.py <day> vendim-2017-534`).
+Act id: `vendim-2017-534` (tags `vendim-2017-534/<day>`; `python registry/tools/on.py <day> vendim-2017-534`).
 
 ## Decisions made by hand
 

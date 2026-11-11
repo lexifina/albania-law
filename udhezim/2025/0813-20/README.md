@@ -32,7 +32,7 @@ Vitin shkollor 2025-2026 në sistemin arsimor parauniversitar · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0813-20` (tags `udhezim-2025-0813-20/<day>`; `python tools/on.py <day> udhezim-2025-0813-20`).
+Act id: `udhezim-2025-0813-20` (tags `udhezim-2025-0813-20/<day>`; `python registry/tools/on.py <day> udhezim-2025-0813-20`).
 
 ## Decisions made by hand
 

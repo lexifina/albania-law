@@ -5,7 +5,7 @@ Miratimin e rregullores ”Për zhvillimin e maturës shtetërore në Republikë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2022-1215-739` (tags `urdher-2022-1215-739/<day>`; `python tools/on.py <day> urdher-2022-1215-739`).
+Act id: `urdher-2022-1215-739` (tags `urdher-2022-1215-739/<day>`; `python registry/tools/on.py <day> urdher-2022-1215-739`).
 
 ## Decisions made by hand
 

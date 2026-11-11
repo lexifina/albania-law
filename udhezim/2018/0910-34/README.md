@@ -16,7 +16,7 @@ Zbatimin e ligjit nr. 45, datë 19.7.2018 “për ratifikimin e marrëveshjes s�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0910-34` (tags `udhezim-2018-0910-34/<day>`; `python tools/on.py <day> udhezim-2018-0910-34`).
+Act id: `udhezim-2018-0910-34` (tags `udhezim-2018-0910-34/<day>`; `python registry/tools/on.py <day> udhezim-2018-0910-34`).
 
 ## Decisions made by hand
 

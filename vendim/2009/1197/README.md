@@ -11,7 +11,7 @@ Shpalljen e kalasë së tiranës “zonë arkeologjike “a”” dhe miratimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1197` (tags `vendim-2009-1197/<day>`; `python tools/on.py <day> vendim-2009-1197`).
+Act id: `vendim-2009-1197` (tags `vendim-2009-1197/<day>`; `python registry/tools/on.py <day> vendim-2009-1197`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Përdorimin dhe kontrollin e fondit operativ të policisë ushtarake në forcat 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-503` (tags `vendim-2016-503/<day>`; `python tools/on.py <day> vendim-2016-503`).
+Act id: `vendim-2016-503` (tags `vendim-2016-503/<day>`; `python registry/tools/on.py <day> vendim-2016-503`).
 
 ## Decisions made by hand
 

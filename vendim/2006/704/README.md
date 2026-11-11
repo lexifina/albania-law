@@ -5,7 +5,7 @@ Kriteret e vlerësimit të pronës shtetërore që privatizohet, si dhe për pro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-704` (tags `vendim-2006-704/<day>`; `python tools/on.py <day> vendim-2006-704`).
+Act id: `vendim-2006-704` (tags `vendim-2006-704/<day>`; `python registry/tools/on.py <day> vendim-2006-704`).
 
 ## Decisions made by hand
 

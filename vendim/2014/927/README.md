@@ -12,7 +12,7 @@ Koeficientët e indeksimit të pagave, për efekt të llogaritjes së bazës së
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-927` (tags `vendim-2014-927/<day>`; `python tools/on.py <day> vendim-2014-927`).
+Act id: `vendim-2014-927` (tags `vendim-2014-927/<day>`; `python registry/tools/on.py <day> vendim-2014-927`).
 
 ## Decisions made by hand
 

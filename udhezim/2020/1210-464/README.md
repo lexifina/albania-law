@@ -5,7 +5,7 @@ Transmetimin e të dhënave të pasagjerit te Njësia e Informacionit të Pasagj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-1210-464` (tags `udhezim-2020-1210-464/<day>`; `python tools/on.py <day> udhezim-2020-1210-464`).
+Act id: `udhezim-2020-1210-464` (tags `udhezim-2020-1210-464/<day>`; `python registry/tools/on.py <day> udhezim-2020-1210-464`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullores së planifikimit të territorit · 2 versions, from 2015
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-671` (tags `vendim-2015-671/<day>`; `python tools/on.py <day> vendim-2015-671`).
+Act id: `vendim-2015-671` (tags `vendim-2015-671/<day>`; `python registry/tools/on.py <day> vendim-2015-671`).
 
 ## Decisions made by hand
 

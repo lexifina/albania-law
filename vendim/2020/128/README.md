@@ -22,7 +22,7 @@ Përcaktimin e vlerës së dëmit të shkaktuar në zonat e mbrojtura mjedisore,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-128` (tags `vendim-2020-128/<day>`; `python tools/on.py <day> vendim-2020-128`).
+Act id: `vendim-2020-128` (tags `vendim-2020-128/<day>`; `python registry/tools/on.py <day> vendim-2020-128`).
 
 ## Decisions made by hand
 

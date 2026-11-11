@@ -5,7 +5,7 @@ Prefektin · 3 versions, from 2002-08-25 (latest in force: 2016-11-29) · <https
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8927` (tags `ligj-2002-8927/<day>`; `python tools/on.py <day> ligj-2002-8927`).
+Act id: `ligj-2002-8927` (tags `ligj-2002-8927/<day>`; `python registry/tools/on.py <day> ligj-2002-8927`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e disa kushteve lehtësuese për ndërtimin e burimeve të reja të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-560` (tags `vendim-2004-560/<day>`; `python tools/on.py <day> vendim-2004-560`).
+Act id: `vendim-2004-560` (tags `vendim-2004-560/<day>`; `python registry/tools/on.py <day> vendim-2004-560`).
 
 ## Decisions made by hand
 

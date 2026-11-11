@@ -5,7 +5,7 @@ Përcaktimin dhe marrjen e masave kundër zjarrit dhe shpëtimin në objektet me
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-288` (tags `vendim-2002-288/<day>`; `python tools/on.py <day> vendim-2002-288`).
+Act id: `vendim-2002-288` (tags `vendim-2002-288/<day>`; `python registry/tools/on.py <day> vendim-2002-288`).
 
 ## Decisions made by hand
 

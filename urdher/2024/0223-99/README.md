@@ -10,7 +10,7 @@ Miratimin e rregullores për organizimin e punës dhe veprimtarisë së komision
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0223-99` (tags `urdher-2024-0223-99/<day>`; `python tools/on.py <day> urdher-2024-0223-99`).
+Act id: `urdher-2024-0223-99` (tags `urdher-2024-0223-99/<day>`; `python registry/tools/on.py <day> urdher-2024-0223-99`).
 
 ## Decisions made by hand
 

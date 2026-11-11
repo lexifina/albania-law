@@ -13,7 +13,7 @@ Përbërjen dhe detyrat e njësive organizative që kanë në kompetencë të ty
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-431` (tags `vendim-2021-431/<day>`; `python tools/on.py <day> vendim-2021-431`).
+Act id: `vendim-2021-431` (tags `vendim-2021-431/<day>`; `python registry/tools/on.py <day> vendim-2021-431`).
 
 ## Decisions made by hand
 

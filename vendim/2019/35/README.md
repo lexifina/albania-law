@@ -5,7 +5,7 @@ Miratimin e buxhetit të vitit 2019 për Zyrën e Regjistrimit të Pasurive të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-35` (tags `vendim-2019-35/<day>`; `python tools/on.py <day> vendim-2019-35`).
+Act id: `vendim-2019-35` (tags `vendim-2019-35/<day>`; `python registry/tools/on.py <day> vendim-2019-35`).
 
 ## Decisions made by hand
 

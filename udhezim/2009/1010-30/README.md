@@ -27,7 +27,7 @@ Plotësimin e kuotave të parealizuara dhe regjistrimin e kandidatëve fitues n�
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-1010-30` (tags `udhezim-2009-1010-30/<day>`; `python tools/on.py <day> udhezim-2009-1010-30`).
+Act id: `udhezim-2009-1010-30` (tags `udhezim-2009-1010-30/<day>`; `python registry/tools/on.py <day> udhezim-2009-1010-30`).
 
 ## Decisions made by hand
 

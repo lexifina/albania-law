@@ -14,7 +14,15 @@ Delegim kompetence · 1 versions, from 2026-04-17 (latest in force: 2026-04-17) 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0410-330` (tags `urdher-2026-0410-330/<day>`; `python tools/on.py <day> urdher-2026-0410-330`).
+Act id: `urdher-2026-0410-330` (tags `urdher-2026-0410-330/<day>`; `python registry/tools/on.py <day> urdher-2026-0410-330`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 882, datë 30.10.2026 (Agjensia Shtetërore e Kadastrës) [QBZ 120199]: Për shfuqizimin e urdhrit nr.330, datë 10.4.2026 ”Për delegim kompetence”](https://qbz.gov.al/eli/urdher/2026/10/30/882)
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së financimit, ndërmjet Repubikës së Shqipërisë,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-223` (tags `vendim-2019-223/<day>`; `python tools/on.py <day> vendim-2019-223`).
+Act id: `vendim-2019-223` (tags `vendim-2019-223/<day>`; `python registry/tools/on.py <day> vendim-2019-223`).
 
 ## Decisions made by hand
 

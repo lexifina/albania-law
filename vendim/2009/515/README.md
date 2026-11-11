@@ -5,7 +5,7 @@ Përcaktimin e afateve, të mënyrës dhe kohës së ushtrimit nga aluizni të p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-515` (tags `vendim-2009-515/<day>`; `python tools/on.py <day> vendim-2009-515`).
+Act id: `vendim-2009-515` (tags `vendim-2009-515/<day>`; `python registry/tools/on.py <day> vendim-2009-515`).
 
 ## Decisions made by hand
 

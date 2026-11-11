@@ -5,7 +5,7 @@ Miratimin e projektit pilot dhe të skemës së furnizimit me karburant pa akciz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-244` (tags `vendim-2004-244/<day>`; `python tools/on.py <day> vendim-2004-244`).
+Act id: `vendim-2004-244` (tags `vendim-2004-244/<day>`; `python registry/tools/on.py <day> vendim-2004-244`).
 
 ## Decisions made by hand
 

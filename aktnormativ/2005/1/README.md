@@ -10,7 +10,7 @@ Ratifikimin e memorandumit të mirëkuptimit, ndërmjet Këshillit të Ministrav
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2005-1` (tags `aktnormativ-2005-1/<day>`; `python tools/on.py <day> aktnormativ-2005-1`).
+Act id: `aktnormativ-2005-1` (tags `aktnormativ-2005-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2005-1`).
 
 ## Decisions made by hand
 

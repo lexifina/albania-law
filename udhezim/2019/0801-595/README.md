@@ -11,7 +11,7 @@ Mbi zbatimin e vendimit nr. 277, datë 18.6.1997, të Këshillit të Ministrave,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0801-595` (tags `udhezim-2019-0801-595/<day>`; `python tools/on.py <day> udhezim-2019-0801-595`).
+Act id: `udhezim-2019-0801-595` (tags `udhezim-2019-0801-595/<day>`; `python registry/tools/on.py <day> udhezim-2019-0801-595`).
 
 ## Decisions made by hand
 

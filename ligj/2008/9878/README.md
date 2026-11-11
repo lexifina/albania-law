@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes për ngritjen dhe veprimtarinë e observatorit t�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9878` (tags `ligj-2008-9878/<day>`; `python tools/on.py <day> ligj-2008-9878`).
+Act id: `ligj-2008-9878` (tags `ligj-2008-9878/<day>`; `python registry/tools/on.py <day> ligj-2008-9878`).
 
 ## Decisions made by hand
 

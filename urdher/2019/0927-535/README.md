@@ -12,7 +12,7 @@ Miratimin e marrëveshjes tip të bashkëpunimit ndërmjet bashkisë dhe Shoqër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0927-535` (tags `urdher-2019-0927-535/<day>`; `python tools/on.py <day> urdher-2019-0927-535`).
+Act id: `urdher-2019-0927-535` (tags `urdher-2019-0927-535/<day>`; `python registry/tools/on.py <day> urdher-2019-0927-535`).
 
 ## Decisions made by hand
 

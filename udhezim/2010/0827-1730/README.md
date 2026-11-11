@@ -23,7 +23,7 @@ Zbatimin e standardeve të shërbimeve të përkujdesit shoqëror, për personat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0827-1730` (tags `udhezim-2010-0827-1730/<day>`; `python tools/on.py <day> udhezim-2010-0827-1730`).
+Act id: `udhezim-2010-0827-1730` (tags `udhezim-2010-0827-1730/<day>`; `python registry/tools/on.py <day> udhezim-2010-0827-1730`).
 
 ## Decisions made by hand
 

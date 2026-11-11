@@ -15,7 +15,7 @@ Financimin e projektit “diaspora për zhvillim” dhe zbatimin e tij nga fondi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-611` (tags `vendim-2018-611/<day>`; `python tools/on.py <day> vendim-2018-611`).
+Act id: `vendim-2018-611` (tags `vendim-2018-611/<day>`; `python registry/tools/on.py <day> vendim-2018-611`).
 
 ## Decisions made by hand
 

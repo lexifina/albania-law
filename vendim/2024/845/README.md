@@ -22,7 +22,7 @@ Përcaktimin e përbërjes, funksioneve dhe procedurës së komisionit për shqy
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-845` (tags `vendim-2024-845/<day>`; `python tools/on.py <day> vendim-2024-845`).
+Act id: `vendim-2024-845` (tags `vendim-2024-845/<day>`; `python registry/tools/on.py <day> vendim-2024-845`).
 
 ## Decisions made by hand
 

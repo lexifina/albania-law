@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-431` (tags `vendim-2019-431/<day>`; `python tools/on.py <day> vendim-2019-431`).
+Act id: `vendim-2019-431` (tags `vendim-2019-431/<day>`; `python registry/tools/on.py <day> vendim-2019-431`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 800, datë 12.10.2020: Për një ndryshim në vendimin nr. 431, datë 26.6.2019, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit ’Rikualifikimi i sheshit ’Italia’’, Tiranë”](https://qbz.gov.al/eli/vendim/2020/10/12/800)
 
 ## Decisions made by hand
 

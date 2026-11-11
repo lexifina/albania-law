@@ -9,7 +9,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-467` (tags `vendim-2012-467/<day>`; `python tools/on.py <day> vendim-2012-467`).
+Act id: `vendim-2012-467` (tags `vendim-2012-467/<day>`; `python registry/tools/on.py <day> vendim-2012-467`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 933, datë 28.12.2016: Për kalimin në pronësi, nga Ministria e Mbrojtjes te Bashkia Kurbin, të objektit dhe truallit funksional të pronës nr.1148, me emërtim “Ish-ESKU”, me vendndodhje në Laç, Kurbin, dhe për një ndryshim në Vendimin nr.515, datë 18.7.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar, DHE në VENDIMIN NR.467, DATË 18.7.2012, TË kËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIM TË BASHKISË LAÇ, TË QARKUT TË LEZHËS”](https://qbz.gov.al/eli/vendim/2016/12/28/933)
 
 ## Decisions made by hand
 

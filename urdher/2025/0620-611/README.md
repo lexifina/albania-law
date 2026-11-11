@@ -11,7 +11,7 @@ Disa masa mbrojtëse ndaj sëmundjes së aftës epizootike të shfaqur në shtet
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0620-611` (tags `urdher-2025-0620-611/<day>`; `python tools/on.py <day> urdher-2025-0620-611`).
+Act id: `urdher-2025-0620-611` (tags `urdher-2025-0620-611/<day>`; `python registry/tools/on.py <day> urdher-2025-0620-611`).
 
 ## Decisions made by hand
 

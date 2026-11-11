@@ -5,7 +5,7 @@ Procedurat e certifikimit, licencimit dhe kontrollit të veprimtarisë së shër
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-1006-656` (tags `udhezim-2009-1006-656/<day>`; `python tools/on.py <day> udhezim-2009-1006-656`).
+Act id: `udhezim-2009-1006-656` (tags `udhezim-2009-1006-656/<day>`; `python registry/tools/on.py <day> udhezim-2009-1006-656`).
 
 ## Decisions made by hand
 

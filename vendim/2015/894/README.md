@@ -25,7 +25,7 @@ Unifikimin e procedurave të kontrollit të territorit nga Inspektorati Kombëta
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-894` (tags `vendim-2015-894/<day>`; `python tools/on.py <day> vendim-2015-894`).
+Act id: `vendim-2015-894` (tags `vendim-2015-894/<day>`; `python registry/tools/on.py <day> vendim-2015-894`).
 
 ## Decisions made by hand
 

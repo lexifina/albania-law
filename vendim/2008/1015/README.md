@@ -11,7 +11,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien me koncesion të veprës �
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1015` (tags `vendim-2008-1015/<day>`; `python tools/on.py <day> vendim-2008-1015`).
+Act id: `vendim-2008-1015` (tags `vendim-2008-1015/<day>`; `python registry/tools/on.py <day> vendim-2008-1015`).
 
 ## Decisions made by hand
 

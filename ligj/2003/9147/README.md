@@ -30,7 +30,7 @@ Ratifikimin e konventës nr.155 të organizatës ndërkombëtare të punës “p
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Neni 22 | [neni-022.md](neni-022.md) | 0 |  |
 
-Act id: `ligji-9147-2003` (tags `ligji-9147-2003/<day>`; `python tools/on.py <day> ligji-9147-2003`).
+Act id: `ligji-9147-2003` (tags `ligji-9147-2003/<day>`; `python registry/tools/on.py <day> ligji-9147-2003`).
 
 ## Decisions made by hand
 

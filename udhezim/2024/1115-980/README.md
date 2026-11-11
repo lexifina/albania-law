@@ -16,7 +16,7 @@ Përcaktimin e formës dhe mënyrës së paraqitjes së kërkesës për miratimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-09-14 |
 
-Act id: `udhezim-2024-1115-980` (tags `udhezim-2024-1115-980/<day>`; `python tools/on.py <day> udhezim-2024-1115-980`).
+Act id: `udhezim-2024-1115-980` (tags `udhezim-2024-1115-980/<day>`; `python registry/tools/on.py <day> udhezim-2024-1115-980`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Kryerje pagesash, në formë kontributi, në fondin e përbashkët të nato-s ·
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1596` (tags `vendim-2008-1596/<day>`; `python tools/on.py <day> vendim-2008-1596`).
+Act id: `vendim-2008-1596` (tags `vendim-2008-1596/<day>`; `python registry/tools/on.py <day> vendim-2008-1596`).
 
 ## Decisions made by hand
 

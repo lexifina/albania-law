@@ -17,7 +17,7 @@ Përcaktimin e rregullave të hollësishme për procedurën dhe afatet e dorëzi
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0618-4` (tags `udhezim-2024-0618-4/<day>`; `python tools/on.py <day> udhezim-2024-0618-4`).
+Act id: `udhezim-2024-0618-4` (tags `udhezim-2024-0618-4/<day>`; `python registry/tools/on.py <day> udhezim-2024-0618-4`).
 
 ## Decisions made by hand
 

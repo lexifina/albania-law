@@ -5,7 +5,7 @@ Miratimin e formularit të deklarimit të pasurive dhe interesave private · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-0509-284` (tags `urdher-2017-0509-284/<day>`; `python tools/on.py <day> urdher-2017-0509-284`).
+Act id: `urdher-2017-0509-284` (tags `urdher-2017-0509-284/<day>`; `python registry/tools/on.py <day> urdher-2017-0509-284`).
 
 ## Decisions made by hand
 

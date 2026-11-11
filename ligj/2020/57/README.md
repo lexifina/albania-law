@@ -57,7 +57,7 @@ Pyjet · 2 versions, from 2020-06-12 (latest in force: 2025-05-13) · <https://q
 | Neni 42 | [neni-042.md](neni-042.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-57` (tags `ligj-2020-57/<day>`; `python tools/on.py <day> ligj-2020-57`).
+Act id: `ligj-2020-57` (tags `ligj-2020-57/<day>`; `python registry/tools/on.py <day> ligj-2020-57`).
 
 ## Decisions made by hand
 

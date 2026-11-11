@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në Konventën Ndërkombëtare për Kont
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-19-2022` (tags `ligji-19-2022/<day>`; `python tools/on.py <day> ligji-19-2022`).
+Act id: `ligji-19-2022` (tags `ligji-19-2022/<day>`; `python registry/tools/on.py <day> ligji-19-2022`).
 
 ## Decisions made by hand
 

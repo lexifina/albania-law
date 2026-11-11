@@ -13,7 +13,7 @@ Furnizimin nga rafineritë dhe shoqëritë e tregtimit me shumicë të lëndës 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-0506-4489` (tags `udhezim-2010-0506-4489/<day>`; `python tools/on.py <day> udhezim-2010-0506-4489`).
+Act id: `udhezim-2010-0506-4489` (tags `udhezim-2010-0506-4489/<day>`; `python registry/tools/on.py <day> udhezim-2010-0506-4489`).
 
 ## Decisions made by hand
 

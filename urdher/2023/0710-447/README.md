@@ -11,7 +11,7 @@ Përcaktimin e numrit të përgjithshëm të përmbaruesve gjyqsorë të Shërbi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0710-447` (tags `urdher-2023-0710-447/<day>`; `python tools/on.py <day> urdher-2023-0710-447`).
+Act id: `urdher-2023-0710-447` (tags `urdher-2023-0710-447/<day>`; `python registry/tools/on.py <day> urdher-2023-0710-447`).
 
 ## Decisions made by hand
 

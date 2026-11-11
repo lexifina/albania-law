@@ -10,7 +10,7 @@ Lejimin për hyrje dhe qëndrim të përkohshëm, të një anijeje ushtarake fra
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2001-1` (tags `aktnormativ-2001-1/<day>`; `python tools/on.py <day> aktnormativ-2001-1`).
+Act id: `aktnormativ-2001-1` (tags `aktnormativ-2001-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2001-1`).
 
 ## Decisions made by hand
 

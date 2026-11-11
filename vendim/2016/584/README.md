@@ -28,7 +28,7 @@ Standardizimin e mënyrës së klasifikimit dhe kodifikimit të shërbimeve publ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-584` (tags `vendim-2016-584/<day>`; `python tools/on.py <day> vendim-2016-584`).
+Act id: `vendim-2016-584` (tags `vendim-2016-584/<day>`; `python registry/tools/on.py <day> vendim-2016-584`).
 
 ## Decisions made by hand
 

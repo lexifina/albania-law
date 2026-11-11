@@ -11,7 +11,7 @@ Mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndet�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2005-0118-4` (tags `udhezim-2005-0118-4/<day>`; `python tools/on.py <day> udhezim-2005-0118-4`).
+Act id: `udhezim-2005-0118-4` (tags `udhezim-2005-0118-4/<day>`; `python registry/tools/on.py <day> udhezim-2005-0118-4`).
 
 ## Decisions made by hand
 

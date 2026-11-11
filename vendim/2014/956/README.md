@@ -13,7 +13,7 @@ Përcaktimin e kurorës së gjelbër të tiranës dhe masat për mbrojtjen e saj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-956` (tags `vendim-2014-956/<day>`; `python tools/on.py <day> vendim-2014-956`).
+Act id: `vendim-2014-956` (tags `vendim-2014-956/<day>`; `python registry/tools/on.py <day> vendim-2014-956`).
 
 ## Decisions made by hand
 

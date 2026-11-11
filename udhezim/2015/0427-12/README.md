@@ -30,7 +30,16 @@ Mbledhjen, përpunimin dhe mbrojtjen e të dhënave personale të punonjësve ar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0427-12` (tags `udhezim-2015-0427-12/<day>`; `python tools/on.py <day> udhezim-2015-0427-12`).
+Act id: `udhezim-2015-0427-12` (tags `udhezim-2015-0427-12/<day>`; `python registry/tools/on.py <day> udhezim-2015-0427-12`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 28, datë 7.9.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 16140]: Për disa ndryshime në udhëzimin nr. 12, datë 27.4.2015 “për mbledhjen, përpunimin dhe mbrojtjen e të dhënave personale të punonjësve arsimorë të institucioneve arsimore parauniversitare dhe të nxënësve, si dhe për përmbajtjen e dosjeve të tyre personale”](https://qbz.gov.al/eli/udhezim/2018/09/07/28)
+- [Urdhri nr. 292, datë 28.5.2019 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 20365]: Për miratimin e rregullores për zbatimin e marrëveshjes së bashkëpunimit ndërmjet tri ministrive “Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor”](https://qbz.gov.al/eli/urdher/2019/05/28/292)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e formës dhe të përmbajtjes së lejes së qëndrimit për të huajt
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-441` (tags `vendim-2016-441/<day>`; `python tools/on.py <day> vendim-2016-441`).
+Act id: `vendim-2016-441` (tags `vendim-2016-441/<day>`; `python registry/tools/on.py <day> vendim-2016-441`).
 
 ## Decisions made by hand
 

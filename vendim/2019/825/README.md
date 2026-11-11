@@ -10,7 +10,7 @@ Subvencionimin e Dhomës Kombëtare të Zejtarisë · 1 versions, from 2019-12-1
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-825` (tags `vendim-2019-825/<day>`; `python tools/on.py <day> vendim-2019-825`).
+Act id: `vendim-2019-825` (tags `vendim-2019-825/<day>`; `python registry/tools/on.py <day> vendim-2019-825`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Pavlo Kozma Mihali · 1 vers
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-782` (tags `vendim-2023-782/<day>`; `python tools/on.py <day> vendim-2023-782`).
+Act id: `vendim-2023-782` (tags `vendim-2023-782/<day>`; `python registry/tools/on.py <day> vendim-2023-782`).
 
 ## Decisions made by hand
 

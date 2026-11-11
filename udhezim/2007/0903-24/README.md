@@ -5,7 +5,7 @@ Procedurat e njohjes së diplomave dhe certifikatave të fituara në shkollat e 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0903-24` (tags `udhezim-2007-0903-24/<day>`; `python tools/on.py <day> udhezim-2007-0903-24`).
+Act id: `udhezim-2007-0903-24` (tags `udhezim-2007-0903-24/<day>`; `python registry/tools/on.py <day> udhezim-2007-0903-24`).
 
 ## Decisions made by hand
 

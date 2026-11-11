@@ -17,7 +17,7 @@ Kalimin e mjediseve të ndërtesës “godina e inovacionit” në përgjegjësi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-10-30 |
 
-Act id: `vendim-2017-607` (tags `vendim-2017-607/<day>`; `python tools/on.py <day> vendim-2017-607`).
+Act id: `vendim-2017-607` (tags `vendim-2017-607/<day>`; `python registry/tools/on.py <day> vendim-2017-607`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Procedurat për kodifikimin e programeve të studimit të ofruara nga institucio
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-1115-31` (tags `udhezim-2022-1115-31/<day>`; `python tools/on.py <day> udhezim-2022-1115-31`).
+Act id: `udhezim-2022-1115-31` (tags `udhezim-2022-1115-31/<day>`; `python registry/tools/on.py <day> udhezim-2022-1115-31`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Mos ripërtëritjen e licencës së shqërisë ”Agjencia e mbrojtjes së produ
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0831-553` (tags `urdher-2021-0831-553/<day>`; `python tools/on.py <day> urdher-2021-0831-553`).
+Act id: `urdher-2021-0831-553` (tags `urdher-2021-0831-553/<day>`; `python registry/tools/on.py <day> urdher-2021-0831-553`).
 
 ## Decisions made by hand
 

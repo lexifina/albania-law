@@ -5,7 +5,7 @@ Kriteret e transferimit dhe të përdorimit të pyjeve nga njësitë e qeverisje
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-396` (tags `vendim-2006-396/<day>`; `python tools/on.py <day> vendim-2006-396`).
+Act id: `vendim-2006-396` (tags `vendim-2006-396/<day>`; `python registry/tools/on.py <day> vendim-2006-396`).
 
 ## Decisions made by hand
 

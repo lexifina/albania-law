@@ -16,7 +16,7 @@ Ndalimin e peshkimit në liqenin e Ohrit dhe grumbullimin e riprodhuesve të kra
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0418-296` (tags `urdher-2024-0418-296/<day>`; `python tools/on.py <day> urdher-2024-0418-296`).
+Act id: `urdher-2024-0418-296` (tags `urdher-2024-0418-296/<day>`; `python registry/tools/on.py <day> urdher-2024-0418-296`).
 
 ## Decisions made by hand
 

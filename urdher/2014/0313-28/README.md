@@ -16,7 +16,7 @@ Përcaktimin e shkeljeve të tjera të ligjit nr.9367, datë 7.4.2005 “për pa
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2014-0313-28` (tags `urdher-2014-0313-28/<day>`; `python tools/on.py <day> urdher-2014-0313-28`).
+Act id: `urdher-2014-0313-28` (tags `urdher-2014-0313-28/<day>`; `python registry/tools/on.py <day> urdher-2014-0313-28`).
 
 ## Decisions made by hand
 

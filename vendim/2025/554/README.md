@@ -22,7 +22,7 @@ Krijimin e shoqërisë aksionare “MobAl”, sh.a · 1 versions, from 2025-10-0
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-554` (tags `vendim-2025-554/<day>`; `python tools/on.py <day> vendim-2025-554`).
+Act id: `vendim-2025-554` (tags `vendim-2025-554/<day>`; `python registry/tools/on.py <day> vendim-2025-554`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e kritereve për përzgjedhjen, rekrutimin e trajnimin e personelit t�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-551` (tags `vendim-2012-551/<day>`; `python tools/on.py <day> vendim-2012-551`).
+Act id: `vendim-2012-551` (tags `vendim-2012-551/<day>`; `python registry/tools/on.py <day> vendim-2012-551`).
 
 ## Decisions made by hand
 

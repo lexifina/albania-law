@@ -13,7 +13,7 @@ Mbi zëvendësimin e lejedrejtimeve të automjeteve, të lëshuara në Republik�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2006-0509-41` (tags `urdher-2006-0509-41/<day>`; `python tools/on.py <day> urdher-2006-0509-41`).
+Act id: `urdher-2006-0509-41` (tags `urdher-2006-0509-41/<day>`; `python registry/tools/on.py <day> urdher-2006-0509-41`).
 
 ## Decisions made by hand
 

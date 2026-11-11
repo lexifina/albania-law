@@ -9,7 +9,7 @@ Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën simbolike
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-636` (tags `vendim-2014-636/<day>`; `python tools/on.py <day> vendim-2014-636`).
+Act id: `vendim-2014-636` (tags `vendim-2014-636/<day>`; `python registry/tools/on.py <day> vendim-2014-636`).
 
 ## Decisions made by hand
 

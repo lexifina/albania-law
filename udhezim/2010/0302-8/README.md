@@ -9,7 +9,7 @@ Disa shtesa e ndryshime në udhëzimin nr.26, datë 16.4.2009 “Për mbledhjen 
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0302-8` (tags `udhezim-2010-0302-8/<day>`; `python tools/on.py <day> udhezim-2010-0302-8`).
+Act id: `udhezim-2010-0302-8` (tags `udhezim-2010-0302-8/<day>`; `python registry/tools/on.py <day> udhezim-2010-0302-8`).
 
 ## Decisions made by hand
 

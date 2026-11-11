@@ -14,7 +14,7 @@ Përcaktimin e tarifave të shërbimit për aplikimin për fitimin , rifitimin d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0701-271` (tags `udhezim-2021-0701-271/<day>`; `python tools/on.py <day> udhezim-2021-0701-271`).
+Act id: `udhezim-2021-0701-271` (tags `udhezim-2021-0701-271/<day>`; `python registry/tools/on.py <day> udhezim-2021-0701-271`).
 
 ## Decisions made by hand
 

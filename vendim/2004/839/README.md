@@ -5,7 +5,7 @@ Miratimin e dokumentit “rregullorja e shërbimit të jashtëm të republikës 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-839` (tags `vendim-2004-839/<day>`; `python tools/on.py <day> vendim-2004-839`).
+Act id: `vendim-2004-839` (tags `vendim-2004-839/<day>`; `python registry/tools/on.py <day> vendim-2004-839`).
 
 ## Decisions made by hand
 

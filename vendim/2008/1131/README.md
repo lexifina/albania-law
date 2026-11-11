@@ -10,7 +10,7 @@ Miratimin e rregullores “kërkesat teknike dhe normat, që duhet të përmbush
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1131` (tags `vendim-2008-1131/<day>`; `python tools/on.py <day> vendim-2008-1131`).
+Act id: `vendim-2008-1131` (tags `vendim-2008-1131/<day>`; `python registry/tools/on.py <day> vendim-2008-1131`).
 
 ## Decisions made by hand
 

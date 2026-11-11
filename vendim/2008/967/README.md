@@ -9,7 +9,7 @@ Miratimin e kuotave kryesore të pranimit të studentëve në universitetin usht
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-967` (tags `vendim-2008-967/<day>`; `python tools/on.py <day> vendim-2008-967`).
+Act id: `vendim-2008-967` (tags `vendim-2008-967/<day>`; `python registry/tools/on.py <day> vendim-2008-967`).
 
 ## Decisions made by hand
 

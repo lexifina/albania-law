@@ -30,7 +30,15 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kuvendin �
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1206-671` (tags `udhezim-2016-1206-671/<day>`; `python tools/on.py <day> udhezim-2016-1206-671`).
+Act id: `udhezim-2016-1206-671` (tags `udhezim-2016-1206-671/<day>`; `python registry/tools/on.py <day> udhezim-2016-1206-671`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 295, datë 22.5.2017 (Ministria e Brendshme) [QBZ 56412]: Për disa shtesa dhe ndryshime në udhëzimin nr. 671, datë 6.12.2016 ” për procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kuvendin” dhe udhëzimin nr. 198, datë 27.3.2017 ”për procedurat e hartimit të listave të zgjedhësve për zgjedhjet e parakohshme për kryetar të bashkisë kavajë, qarku tiranë”](https://qbz.gov.al/eli/udhezim/2017/05/22/295)
 
 ## Decisions made by hand
 

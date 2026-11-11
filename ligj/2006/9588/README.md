@@ -15,7 +15,7 @@ Rillogaritjen e pensioneve · 1 versions, from 2006-08-24 (latest in force: 2006
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9588` (tags `ligj-2006-9588/<day>`; `python tools/on.py <day> ligj-2006-9588`).
+Act id: `ligj-2006-9588` (tags `ligj-2006-9588/<day>`; `python registry/tools/on.py <day> ligj-2006-9588`).
 
 ## Decisions made by hand
 

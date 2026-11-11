@@ -18,7 +18,7 @@ Përzgjedhjen e anëtarëve të Këshillit Kombëtar të Kontabilitetit · 1 ver
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-1004-354` (tags `urdher-2019-1004-354/<day>`; `python tools/on.py <day> urdher-2019-1004-354`).
+Act id: `urdher-2019-1004-354` (tags `urdher-2019-1004-354/<day>`; `python registry/tools/on.py <day> urdher-2019-1004-354`).
 
 ## Decisions made by hand
 

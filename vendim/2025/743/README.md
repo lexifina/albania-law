@@ -10,7 +10,7 @@ Miratimin e Strategjisë Afatmesme të Menaxhimit të Borxhit 2026-2030 · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-743` (tags `vendim-2025-743/<day>`; `python tools/on.py <day> vendim-2025-743`).
+Act id: `vendim-2025-743` (tags `vendim-2025-743/<day>`; `python registry/tools/on.py <day> vendim-2025-743`).
 
 ## Decisions made by hand
 

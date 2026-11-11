@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 25, datë 22.6.2021, të K�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-86` (tags `ligj-2021-86/<day>`; `python tools/on.py <day> ligj-2021-86`).
+Act id: `ligj-2021-86` (tags `ligj-2021-86/<day>`; `python registry/tools/on.py <day> ligj-2021-86`).
 
 ## Decisions made by hand
 

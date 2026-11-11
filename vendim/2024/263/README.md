@@ -9,7 +9,7 @@ Autorizimin e drejtorit të përgjithshëm të Agjencisë Kombëtare të Shoqër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-263` (tags `vendim-2024-263/<day>`; `python tools/on.py <day> vendim-2024-263`).
+Act id: `vendim-2024-263` (tags `vendim-2024-263/<day>`; `python registry/tools/on.py <day> vendim-2024-263`).
 
 ## Decisions made by hand
 

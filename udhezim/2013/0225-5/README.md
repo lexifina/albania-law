@@ -12,7 +12,7 @@ Standardet e përgjithshme të mësuesit · 1 versions, from 2013-03-28 (latest 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0225-5` (tags `udhezim-2013-0225-5/<day>`; `python tools/on.py <day> udhezim-2013-0225-5`).
+Act id: `udhezim-2013-0225-5` (tags `udhezim-2013-0225-5/<day>`; `python registry/tools/on.py <day> udhezim-2013-0225-5`).
 
 ## Decisions made by hand
 

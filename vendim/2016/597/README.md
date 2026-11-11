@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-597` (tags `vendim-2016-597/<day>`; `python tools/on.py <day> vendim-2016-597`).
+Act id: `vendim-2016-597` (tags `vendim-2016-597/<day>`; `python registry/tools/on.py <day> vendim-2016-597`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 39, datë 7.3.2017 (Këshilli i Ministrave): Korrigjim gabimi në vendimin nr. 597, datë 31.8.2016 të Këshillit të Ministrave “Për shpronësimin për interes publik të pronarëve të pasurive të paluajtshme pronë private që preken nga realizimi i projektit, “Rikonstruksion i rrugës “Mujo Ulqinaku” dhe rehabilitimi i fasadave”, Fier”, botuar në Fletoren Zyrtare nr.166, datë 31.8.2016 në faqet 20191 dhe 20192](https://qbz.gov.al/eli/vendim/2017/03/07/39-1)
 
 ## Decisions made by hand
 

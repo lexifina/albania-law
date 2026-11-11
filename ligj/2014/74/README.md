@@ -84,7 +84,7 @@ Armët · 3 versions, from 2014-08-26 (latest in force: 2023-10-25) · <https://
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-74` (tags `ligj-2014-74/<day>`; `python tools/on.py <day> ligj-2014-74`).
+Act id: `ligj-2014-74` (tags `ligj-2014-74/<day>`; `python registry/tools/on.py <day> ligj-2014-74`).
 
 ## Decisions made by hand
 

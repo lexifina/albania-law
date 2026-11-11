@@ -81,7 +81,7 @@ Policinë e Burgjeve · 2 versions, from 2020-08-07 (latest in force: 2023-07-12
 | Seksioni II | [seksioni-02.md](seksioni-02.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-80` (tags `ligj-2020-80/<day>`; `python tools/on.py <day> ligj-2020-80`).
+Act id: `ligj-2020-80` (tags `ligj-2020-80/<day>`; `python registry/tools/on.py <day> ligj-2020-80`).
 
 ## Decisions made by hand
 

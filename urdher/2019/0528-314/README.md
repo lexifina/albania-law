@@ -10,7 +10,7 @@ Autorizimin e nënshkrimit të kërkesave social-juridike të Drejtorisë së P�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0528-314` (tags `urdher-2019-0528-314/<day>`; `python tools/on.py <day> urdher-2019-0528-314`).
+Act id: `urdher-2019-0528-314` (tags `urdher-2019-0528-314/<day>`; `python registry/tools/on.py <day> urdher-2019-0528-314`).
 
 ## Decisions made by hand
 

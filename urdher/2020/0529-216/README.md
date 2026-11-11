@@ -5,7 +5,7 @@ Një plan menaxhimi shumëvjeçar për peshkimin fundor të qëndrueshëm në de
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0529-216` (tags `urdher-2020-0529-216/<day>`; `python tools/on.py <day> urdher-2020-0529-216`).
+Act id: `urdher-2020-0529-216` (tags `urdher-2020-0529-216/<day>`; `python registry/tools/on.py <day> urdher-2020-0529-216`).
 
 ## Decisions made by hand
 

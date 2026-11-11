@@ -27,7 +27,7 @@ Përcaktimin e kritereve dhe të procedurave, për shitjen e sipërfaqes së dom
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-757` (tags `vendim-2010-757/<day>`; `python tools/on.py <day> vendim-2010-757`).
+Act id: `vendim-2010-757` (tags `vendim-2010-757/<day>`; `python registry/tools/on.py <day> vendim-2010-757`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Procedurat e aplikimit dhe të regjistrimit në ciklin e parë të studimeve me 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2009-1125-38` (tags `udhezim-2009-1125-38/<day>`; `python tools/on.py <day> udhezim-2009-1125-38`).
+Act id: `udhezim-2009-1125-38` (tags `udhezim-2009-1125-38/<day>`; `python registry/tools/on.py <day> udhezim-2009-1125-38`).
 
 ## Decisions made by hand
 

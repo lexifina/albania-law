@@ -12,7 +12,7 @@ Miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-40` (tags `vendim-2020-40/<day>`; `python tools/on.py <day> vendim-2020-40`).
+Act id: `vendim-2020-40` (tags `vendim-2020-40/<day>`; `python registry/tools/on.py <day> vendim-2020-40`).
 
 ## Decisions made by hand
 

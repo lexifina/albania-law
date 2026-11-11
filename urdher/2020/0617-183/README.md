@@ -17,7 +17,7 @@ Përcaktimin e kushteve të operimit të mjeteve lundruese për qëllime turisti
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0617-183` (tags `urdher-2020-0617-183/<day>`; `python tools/on.py <day> urdher-2020-0617-183`).
+Act id: `urdher-2020-0617-183` (tags `urdher-2020-0617-183/<day>`; `python registry/tools/on.py <day> urdher-2020-0617-183`).
 
 ## Decisions made by hand
 

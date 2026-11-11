@@ -9,7 +9,7 @@ Miratimin e Marrëveshjes së Grantit, ndërmjet republikës së shqipërisë dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1202` (tags `vendim-2008-1202/<day>`; `python tools/on.py <day> vendim-2008-1202`).
+Act id: `vendim-2008-1202` (tags `vendim-2008-1202/<day>`; `python registry/tools/on.py <day> vendim-2008-1202`).
 
 ## Decisions made by hand
 

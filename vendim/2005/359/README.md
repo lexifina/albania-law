@@ -12,7 +12,7 @@ Miratimin e raportit të vlerësimit të ofertave dhe të fituesit, në tenderin
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-359` (tags `vendim-2005-359/<day>`; `python tools/on.py <day> vendim-2005-359`).
+Act id: `vendim-2005-359` (tags `vendim-2005-359/<day>`; `python registry/tools/on.py <day> vendim-2005-359`).
 
 ## Decisions made by hand
 

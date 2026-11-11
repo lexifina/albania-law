@@ -37,7 +37,7 @@ Garantimin e sigurisë së punës të pajisjeve dhe instalimeve nën presion · 
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-32-2016` (tags `ligji-32-2016/<day>`; `python tools/on.py <day> ligji-32-2016`).
+Act id: `ligji-32-2016` (tags `ligji-32-2016/<day>`; `python registry/tools/on.py <day> ligji-32-2016`).
 
 ## Decisions made by hand
 

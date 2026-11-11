@@ -13,7 +13,15 @@ Emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve, 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-173` (tags `vendim-2003-173/<day>`; `python tools/on.py <day> vendim-2003-173`).
+Act id: `vendim-2003-173` (tags `vendim-2003-173/<day>`; `python registry/tools/on.py <day> vendim-2003-173`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1190, datë 13.11.2009: Për mënyrën e organizimit dhe të funksionimit të agjencisë kombëtare të planifikimit të territorit](https://qbz.gov.al/eli/vendim/2009/11/13/1190)
 
 ## Decisions made by hand
 

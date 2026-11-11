@@ -43,7 +43,7 @@ Kujdesin paliativ në republikën e shqipërisë · 2 versions, from 2014-11-25 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 1 | 2025-05-13 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-05-13 |
 
-Act id: `ligj-2014-138` (tags `ligj-2014-138/<day>`; `python tools/on.py <day> ligj-2014-138`).
+Act id: `ligj-2014-138` (tags `ligj-2014-138/<day>`; `python registry/tools/on.py <day> ligj-2014-138`).
 
 ## Decisions made by hand
 

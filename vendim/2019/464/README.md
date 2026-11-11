@@ -17,7 +17,7 @@ Procedurat për shitjen e parë të produkteve të peshkimit · 1 versions, from
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-464` (tags `vendim-2019-464/<day>`; `python tools/on.py <day> vendim-2019-464`).
+Act id: `vendim-2019-464` (tags `vendim-2019-464/<day>`; `python registry/tools/on.py <day> vendim-2019-464`).
 
 ## Decisions made by hand
 

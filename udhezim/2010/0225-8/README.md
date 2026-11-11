@@ -16,7 +16,7 @@ Përfundimin e vitit shkollor 2009-2010 dhe për zhvillimin e provimeve përfund
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0225-8` (tags `udhezim-2010-0225-8/<day>`; `python tools/on.py <day> udhezim-2010-0225-8`).
+Act id: `udhezim-2010-0225-8` (tags `udhezim-2010-0225-8/<day>`; `python registry/tools/on.py <day> udhezim-2010-0225-8`).
 
 ## Decisions made by hand
 

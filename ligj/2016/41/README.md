@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në marrëveshjen për ngritjen e qendr�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-41` (tags `ligj-2016-41/<day>`; `python tools/on.py <day> ligj-2016-41`).
+Act id: `ligj-2016-41` (tags `ligj-2016-41/<day>`; `python registry/tools/on.py <day> ligj-2016-41`).
 
 ## Decisions made by hand
 

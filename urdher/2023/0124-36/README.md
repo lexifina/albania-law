@@ -10,7 +10,7 @@ Miratimin e rregullores për krijimin e regjistrit shtetëror të revistave shke
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-02-03 |
 
-Act id: `urdher-2023-0124-36` (tags `urdher-2023-0124-36/<day>`; `python tools/on.py <day> urdher-2023-0124-36`).
+Act id: `urdher-2023-0124-36` (tags `urdher-2023-0124-36/<day>`; `python registry/tools/on.py <day> urdher-2023-0124-36`).
 
 ## Decisions made by hand
 

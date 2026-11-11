@@ -28,7 +28,7 @@ Përcaktimin e rregullave dhe të procedurave të trajtimit të kërkesave për 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0721-2903` (tags `udhezim-2014-0721-2903/<day>`; `python tools/on.py <day> udhezim-2014-0721-2903`).
+Act id: `udhezim-2014-0721-2903` (tags `udhezim-2014-0721-2903/<day>`; `python registry/tools/on.py <day> udhezim-2014-0721-2903`).
 
 ## Decisions made by hand
 

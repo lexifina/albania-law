@@ -24,7 +24,7 @@ Krijimin dhe funksionimin e Këshillit Kombëtar për Shoqërinë Civile · 1 ve
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-119-2015` (tags `ligji-119-2015/<day>`; `python tools/on.py <day> ligji-119-2015`).
+Act id: `ligji-119-2015` (tags `ligji-119-2015/<day>`; `python registry/tools/on.py <day> ligji-119-2015`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Procedurat e hartimit të listave të zgjedhësve për organet e qeverisjes vend
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-1028-207` (tags `udhezim-2022-1028-207/<day>`; `python tools/on.py <day> udhezim-2022-1028-207`).
+Act id: `udhezim-2022-1028-207` (tags `udhezim-2022-1028-207/<day>`; `python registry/tools/on.py <day> udhezim-2022-1028-207`).
 
 ## Decisions made by hand
 

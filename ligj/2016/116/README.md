@@ -5,7 +5,7 @@ Performancën e energjisë së ndërtesave · 2 versions, from 2016-12-07 (lates
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2016-116` (tags `ligj-2016-116/<day>`; `python tools/on.py <day> ligj-2016-116`).
+Act id: `ligj-2016-116` (tags `ligj-2016-116/<day>`; `python registry/tools/on.py <day> ligj-2016-116`).
 
 ## Decisions made by hand
 

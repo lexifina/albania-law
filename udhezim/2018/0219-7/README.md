@@ -15,7 +15,7 @@ Miratimin e elementeve dhe formës së kontratës së shërbimit ndërmjet insti
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0219-7` (tags `udhezim-2018-0219-7/<day>`; `python tools/on.py <day> udhezim-2018-0219-7`).
+Act id: `udhezim-2018-0219-7` (tags `udhezim-2018-0219-7/<day>`; `python registry/tools/on.py <day> udhezim-2018-0219-7`).
 
 ## Decisions made by hand
 

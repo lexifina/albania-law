@@ -21,7 +21,7 @@ Zbatimin e vendimit të Këshillit të Ministrave nr.144 datë 8.3.2006 “Për 
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-0418-7` (tags `udhezim-2006-0418-7/<day>`; `python tools/on.py <day> udhezim-2006-0418-7`).
+Act id: `udhezim-2006-0418-7` (tags `udhezim-2006-0418-7/<day>`; `python registry/tools/on.py <day> udhezim-2006-0418-7`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ PëR MIRATIMIN E PROTOKOLLIT të MIRëKUPTIMIT DHE të MARRËVESHJES Së LIDHUR,
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-110` (tags `vendim-2011-110/<day>`; `python tools/on.py <day> vendim-2011-110`).
+Act id: `vendim-2011-110` (tags `vendim-2011-110/<day>`; `python registry/tools/on.py <day> vendim-2011-110`).
 
 ## Decisions made by hand
 

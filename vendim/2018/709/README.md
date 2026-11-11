@@ -12,7 +12,7 @@ Një shtesë fondesh, nga fondi rezervë i buxhetit të shtetit, miratuar për v
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-709` (tags `vendim-2018-709/<day>`; `python tools/on.py <day> vendim-2018-709`).
+Act id: `vendim-2018-709` (tags `vendim-2018-709/<day>`; `python registry/tools/on.py <day> vendim-2018-709`).
 
 ## Decisions made by hand
 

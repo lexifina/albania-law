@@ -14,7 +14,7 @@ Hapjen e programit të studimit, master i nivelit të parë në mësuesi, për a
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1373` (tags `vendim-2008-1373/<day>`; `python tools/on.py <day> vendim-2008-1373`).
+Act id: `vendim-2008-1373` (tags `vendim-2008-1373/<day>`; `python registry/tools/on.py <day> vendim-2008-1373`).
 
 ## Decisions made by hand
 

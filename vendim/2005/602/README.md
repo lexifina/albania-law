@@ -12,7 +12,7 @@ Sistemimin me mjedise të Ministrisë së Punëve Publike, Transportit dhe Telek
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-602` (tags `vendim-2005-602/<day>`; `python tools/on.py <day> vendim-2005-602`).
+Act id: `vendim-2005-602` (tags `vendim-2005-602/<day>`; `python registry/tools/on.py <day> vendim-2005-602`).
 
 ## Decisions made by hand
 

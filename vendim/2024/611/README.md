@@ -11,7 +11,7 @@ Miratimin e Udhërrëfyesit për Funksionimin e Institucioneve Demokratike · 1 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-611` (tags `vendim-2024-611/<day>`; `python tools/on.py <day> vendim-2024-611`).
+Act id: `vendim-2024-611` (tags `vendim-2024-611/<day>`; `python registry/tools/on.py <day> vendim-2024-611`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullave për pranimin në veprimtarinë e operatorit të transpor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-02-12 |
 
-Act id: `vendim-2008-325` (tags `vendim-2008-325/<day>`; `python tools/on.py <day> vendim-2008-325`).
+Act id: `vendim-2008-325` (tags `vendim-2008-325/<day>`; `python registry/tools/on.py <day> vendim-2008-325`).
 
 ## Decisions made by hand
 

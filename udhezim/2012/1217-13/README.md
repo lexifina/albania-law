@@ -19,7 +19,7 @@ Zbatimin e standardeve të shërbimeve të përkujdesjes shoqërore, për viktim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1217-13` (tags `udhezim-2012-1217-13/<day>`; `python tools/on.py <day> udhezim-2012-1217-13`).
+Act id: `udhezim-2012-1217-13` (tags `udhezim-2012-1217-13/<day>`; `python registry/tools/on.py <day> udhezim-2012-1217-13`).
 
 ## Decisions made by hand
 

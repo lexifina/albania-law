@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Uran Remzi Xhafa · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-838` (tags `vendim-2021-838/<day>`; `python tools/on.py <day> vendim-2021-838`).
+Act id: `vendim-2021-838` (tags `vendim-2021-838/<day>`; `python registry/tools/on.py <day> vendim-2021-838`).
 
 ## Decisions made by hand
 

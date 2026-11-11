@@ -11,7 +11,7 @@ Delegimin e kompetencave për miratimin, publikimin e programit të transparenc�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0630-75` (tags `urdher-2021-0630-75/<day>`; `python tools/on.py <day> urdher-2021-0630-75`).
+Act id: `urdher-2021-0630-75` (tags `urdher-2021-0630-75/<day>`; `python registry/tools/on.py <day> urdher-2021-0630-75`).
 
 ## Decisions made by hand
 

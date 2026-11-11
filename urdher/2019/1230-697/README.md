@@ -11,7 +11,7 @@ Miratimin e regjistrave të drejtorive të ujitjes dhe të kullimit, bashkive dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-1230-697` (tags `urdher-2019-1230-697/<day>`; `python tools/on.py <day> urdher-2019-1230-697`).
+Act id: `urdher-2019-1230-697` (tags `urdher-2019-1230-697/<day>`; `python registry/tools/on.py <day> urdher-2019-1230-697`).
 
 ## Decisions made by hand
 

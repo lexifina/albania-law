@@ -21,7 +21,7 @@ Mbi mënyrën e plotësimit elektronik të formularit të pagesës së parcelës
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-1007-811` (tags `udhezim-2026-1007-811/<day>`; `python tools/on.py <day> udhezim-2026-1007-811`).
+Act id: `udhezim-2026-1007-811` (tags `udhezim-2026-1007-811/<day>`; `python registry/tools/on.py <day> udhezim-2026-1007-811`).
 
 ## Decisions made by hand
 

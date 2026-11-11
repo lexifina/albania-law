@@ -5,7 +5,7 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-1005` (tags `vendim-2010-1005/<day>`; `python tools/on.py <day> vendim-2010-1005`).
+Act id: `vendim-2010-1005` (tags `vendim-2010-1005/<day>`; `python registry/tools/on.py <day> vendim-2010-1005`).
 
 ## Decisions made by hand
 

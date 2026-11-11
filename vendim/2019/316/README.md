@@ -14,7 +14,17 @@ Kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-316` (tags `vendim-2019-316/<day>`; `python tools/on.py <day> vendim-2019-316`).
+Act id: `vendim-2019-316` (tags `vendim-2019-316/<day>`; `python registry/tools/on.py <day> vendim-2019-316`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 2667, datë 22.5.2019 (Këshilli i Ministrave): Lista emërore e përfituesve të kalimit të së drejtës së pronësisë dhe masa dhe vlera e shpërblimit për subjektet që kompensohen e vendimit nr. 316, datë 15.5.2019 të Këshillit të Ministrave, “Për kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara dhe kompensimin financiar të pronarëve të pasurive të paluajtshme që preken prej tyre”, botuar në Fletoren Zyrtare nr.71, datë 17.5.2019](https://qbz.gov.al/eli/vendim/2019/05/23/2667)
+- [Vendimi i Këshillit të Ministrave nr. 922, datë 25.11.2020: Për disa ndryshime në vendimet e Këshillit të Ministrave nr. 389, datë 19.5.2010; nr. 230, datë 21.3.2017; nr. 841, datë 24.12.2019; nr. 316, datë 15.5.2019; nr. 125, datë 13.3.2019; nr. 294, datë 21.5.2018; nr. 369, datë 20.6.2018; nr. 65, datë 13.2.2019; nr. 254, datë 24.4.2019; nr. 699, datë 30.10.2019; nr. 737, datë 12.12.2018; nr. 574, datë 28.8.2019; nr. 182, datë 4.4.2019; nr. 15, datë 15.1.2020; nr. 355, datë 29.4.2020; nr. 204, datë 19.2.2009; nr. 450, datë 6.5.2009; nr. 1038, datë 14.10.2009; nr. 125, datë 17.2.2010; nr. 42, datë 21.1.2015; nr. 279, datë 1.4.2015, “Për kalimin e së drejtës së pronësisë mbi parcelat e objekteve të legalizuara dhe kompensimin e pronarëve të pasurive të paluajtshme, që preken prej tyre”](https://qbz.gov.al/eli/vendim/2020/11/25/922)
+- [Vendimi i Këshillit të Ministrave nr. 477, datë 17.6.2020: Për disa ndryshime në vendimet e Këshillit të Ministrave nr.1481, datë 12.11.2008, nr.286, datë 18.3.2009, nr.450, datë 6.5.2009, nr.611, datë 11.6.2009, nr.677, datë 18.6.2009, nr.706, datë 23.6.2009, nr.805, datë 22.7.2009, nr.1038, datë 14.10.2009, nr.1134, datë 18.11.2009, nr.1657, datë 24.12.2009, nr.125, datë 17.2.2010, nr.404, datë 26.5.2010, nr.549, datë 7.7.2010, nr.646, datë 28.7.2010, nr.118, datë 17.2.2011, nr.359, datë 4.5.2011, nr.512, datë 1.8.2012, nr.513, datë 1.8.2012, nr.472, datë 30.5.2013, nr.615, datë 7.7.2015, nr.850, datë 7.12.2016, nr.871, datë 14.12.2016, nr.89, datë 8.2.2017, nr.293, datë 21.5.2018, nr.316, datë 15.5.2019, nr.575, datë 28.8.2019, për miratimin e kalimit të pronësisë së disa parcelave ndërtimore, në favor të poseduesve të objekteve informale, të ndryshuara](https://qbz.gov.al/eli/vendim/2020/06/17/477)
 
 ## Decisions made by hand
 

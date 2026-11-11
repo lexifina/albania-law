@@ -5,7 +5,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Ekonom
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-1029-889` (tags `urdher-2024-1029-889/<day>`; `python tools/on.py <day> urdher-2024-1029-889`).
+Act id: `urdher-2024-1029-889` (tags `urdher-2024-1029-889/<day>`; `python registry/tools/on.py <day> urdher-2024-1029-889`).
 
 ## Decisions made by hand
 

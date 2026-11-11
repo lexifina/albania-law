@@ -13,7 +13,7 @@ Datat dhe organizimin e provimeve të maturës shtetërore 2017 · 1 versions, f
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0310-7` (tags `udhezim-2017-0310-7/<day>`; `python tools/on.py <day> udhezim-2017-0310-7`).
+Act id: `udhezim-2017-0310-7` (tags `udhezim-2017-0310-7/<day>`; `python registry/tools/on.py <day> udhezim-2017-0310-7`).
 
 ## Decisions made by hand
 

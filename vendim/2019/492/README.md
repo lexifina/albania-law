@@ -14,7 +14,7 @@ Miratimin e çmimeve dhe të kategorive që përfitojnë falas tekstet e botuara
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-11-13 |
 
-Act id: `vendim-2019-492` (tags `vendim-2019-492/<day>`; `python tools/on.py <day> vendim-2019-492`).
+Act id: `vendim-2019-492` (tags `vendim-2019-492/<day>`; `python registry/tools/on.py <day> vendim-2019-492`).
 
 ## Decisions made by hand
 

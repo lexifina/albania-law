@@ -11,7 +11,7 @@ Miratimin e metodologjisë, për kriteret dhe procedurat, për shpërndarjen dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0605-3` (tags `udhezim-2026-0605-3/<day>`; `python tools/on.py <day> udhezim-2026-0605-3`).
+Act id: `udhezim-2026-0605-3` (tags `udhezim-2026-0605-3/<day>`; `python registry/tools/on.py <day> udhezim-2026-0605-3`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e dokumentit udhëzues të politikave mbi zonat e përcaktuara për ak
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-113` (tags `vendim-2021-113/<day>`; `python tools/on.py <day> vendim-2021-113`).
+Act id: `vendim-2021-113` (tags `vendim-2021-113/<day>`; `python registry/tools/on.py <day> vendim-2021-113`).
 
 ## Decisions made by hand
 

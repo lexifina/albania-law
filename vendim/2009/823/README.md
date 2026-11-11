@@ -5,7 +5,7 @@ Disa ndryshime në vendimin nr.269, datë 5.3.2008 të këshillit të ministrave
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-823` (tags `vendim-2009-823/<day>`; `python tools/on.py <day> vendim-2009-823`).
+Act id: `vendim-2009-823` (tags `vendim-2009-823/<day>`; `python registry/tools/on.py <day> vendim-2009-823`).
 
 ## Decisions made by hand
 

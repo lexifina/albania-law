@@ -5,7 +5,7 @@ Produktet ushqimore dhe ingredientët ushqimorë të trajtuar me rrezatim jonizu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-0514-4` (tags `udhezim-2014-0514-4/<day>`; `python tools/on.py <day> udhezim-2014-0514-4`).
+Act id: `udhezim-2014-0514-4` (tags `udhezim-2014-0514-4/<day>`; `python registry/tools/on.py <day> udhezim-2014-0514-4`).
 
 ## Decisions made by hand
 

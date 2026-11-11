@@ -32,7 +32,7 @@ Rregullat e hollësishme për prodhimin organik të bimëve dhe produkteve bimor
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0414-7` (tags `udhezim-2026-0414-7/<day>`; `python tools/on.py <day> udhezim-2026-0414-7`).
+Act id: `udhezim-2026-0414-7` (tags `udhezim-2026-0414-7/<day>`; `python registry/tools/on.py <day> udhezim-2026-0414-7`).
 
 ## Decisions made by hand
 

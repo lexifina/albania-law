@@ -12,7 +12,7 @@ PËR TRANSFERIMIN NË PRONËSI, NGA Ministria e Mbrojtjes TE KOMUNA FARKË, TIRA
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-498` (tags `vendim-2012-498/<day>`; `python tools/on.py <day> vendim-2012-498`).
+Act id: `vendim-2012-498` (tags `vendim-2012-498/<day>`; `python registry/tools/on.py <day> vendim-2012-498`).
 
 ## Decisions made by hand
 

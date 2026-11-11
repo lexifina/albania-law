@@ -18,7 +18,7 @@ Caktimin e procedurës dhe afatet e dorëzimit të dokumentacionit nga përmbaru
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0717-12` (tags `udhezim-2020-0717-12/<day>`; `python tools/on.py <day> udhezim-2020-0717-12`).
+Act id: `udhezim-2020-0717-12` (tags `udhezim-2020-0717-12/<day>`; `python registry/tools/on.py <day> udhezim-2020-0717-12`).
 
 ## Decisions made by hand
 

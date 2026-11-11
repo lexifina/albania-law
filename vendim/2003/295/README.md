@@ -5,7 +5,7 @@ Përcaktimin e koeficientit të indeksimit të bazës mesatare të vlerësimit v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-295` (tags `vendim-2003-295/<day>`; `python tools/on.py <day> vendim-2003-295`).
+Act id: `vendim-2003-295` (tags `vendim-2003-295/<day>`; `python registry/tools/on.py <day> vendim-2003-295`).
 
 ## Decisions made by hand
 

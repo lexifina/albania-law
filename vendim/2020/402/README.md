@@ -11,7 +11,7 @@ Miratimin e dokumentit të politikave “Për qeverisjen e sektorit të informac
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-10-30 |
 
-Act id: `vendim-2020-402` (tags `vendim-2020-402/<day>`; `python tools/on.py <day> vendim-2020-402`).
+Act id: `vendim-2020-402` (tags `vendim-2020-402/<day>`; `python registry/tools/on.py <day> vendim-2020-402`).
 
 ## Decisions made by hand
 

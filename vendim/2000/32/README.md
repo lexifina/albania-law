@@ -8,7 +8,7 @@ Miratimin e protokollit të sesionit të parë të komisionit të përbashkët n
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-32` (tags `vendim-2000-32/<day>`; `python tools/on.py <day> vendim-2000-32`).
+Act id: `vendim-2000-32` (tags `vendim-2000-32/<day>`; `python registry/tools/on.py <day> vendim-2000-32`).
 
 ## Decisions made by hand
 

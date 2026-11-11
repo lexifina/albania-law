@@ -11,7 +11,7 @@ Përballimin e shpenzimeve të palës shqiptare, pjesëmarrëse në operacionin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-442` (tags `vendim-2008-442/<day>`; `python tools/on.py <day> vendim-2008-442`).
+Act id: `vendim-2008-442` (tags `vendim-2008-442/<day>`; `python registry/tools/on.py <day> vendim-2008-442`).
 
 ## Decisions made by hand
 

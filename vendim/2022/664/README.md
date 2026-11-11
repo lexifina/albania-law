@@ -39,7 +39,7 @@ Miratimin e rregullave procedurale të marrjes së autorizimit të tregtimit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-664` (tags `vendim-2022-664/<day>`; `python tools/on.py <day> vendim-2022-664`).
+Act id: `vendim-2022-664` (tags `vendim-2022-664/<day>`; `python registry/tools/on.py <day> vendim-2022-664`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ PëR KUOTAT E PRANIMIT Në INSTITUCIONET PUBLIKE Të ARSIMIT Të LARTë DHE TARI
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1549` (tags `vendim-2008-1549/<day>`; `python tools/on.py <day> vendim-2008-1549`).
+Act id: `vendim-2008-1549` (tags `vendim-2008-1549/<day>`; `python registry/tools/on.py <day> vendim-2008-1549`).
 
 ## Decisions made by hand
 

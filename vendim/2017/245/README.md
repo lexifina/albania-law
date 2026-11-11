@@ -11,7 +11,7 @@ Dhënien me qira, me tarifë të reduktuar, të sallës së koncerteve të palla
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-245` (tags `vendim-2017-245/<day>`; `python tools/on.py <day> vendim-2017-245`).
+Act id: `vendim-2017-245` (tags `vendim-2017-245/<day>`; `python registry/tools/on.py <day> vendim-2017-245`).
 
 ## Decisions made by hand
 

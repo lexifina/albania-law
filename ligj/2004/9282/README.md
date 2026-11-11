@@ -10,7 +10,7 @@ Ratifikimin e protokollit shtesë të “marrëveshjes ndërmjet shteteve palë 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9282` (tags `ligj-2004-9282/<day>`; `python tools/on.py <day> ligj-2004-9282`).
+Act id: `ligj-2004-9282` (tags `ligj-2004-9282/<day>`; `python registry/tools/on.py <day> ligj-2004-9282`).
 
 ## Decisions made by hand
 

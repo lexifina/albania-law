@@ -9,7 +9,7 @@ Dhënie fondi ndihmë disa partive politike të reja · 1 versions, from 2002-10
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-485` (tags `vendim-2002-485/<day>`; `python tools/on.py <day> vendim-2002-485`).
+Act id: `vendim-2002-485` (tags `vendim-2002-485/<day>`; `python registry/tools/on.py <day> vendim-2002-485`).
 
 ## Decisions made by hand
 

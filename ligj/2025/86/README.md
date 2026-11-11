@@ -22,7 +22,7 @@ Fshirjen, shuarjen dhe pagesën e detyrimeve tatimore ndaj administratës tatimo
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-86-2025` (tags `ligji-86-2025/<day>`; `python tools/on.py <day> ligji-86-2025`).
+Act id: `ligji-86-2025` (tags `ligji-86-2025/<day>`; `python registry/tools/on.py <day> ligji-86-2025`).
 
 ## Decisions made by hand
 

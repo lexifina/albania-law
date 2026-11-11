@@ -5,7 +5,7 @@ Kriteret e mësuesit ndihmës për nxënësit me aftësi të kufizuar në instit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-1007-38` (tags `udhezim-2014-1007-38/<day>`; `python tools/on.py <day> udhezim-2014-1007-38`).
+Act id: `udhezim-2014-1007-38` (tags `udhezim-2014-1007-38/<day>`; `python registry/tools/on.py <day> udhezim-2014-1007-38`).
 
 ## Decisions made by hand
 

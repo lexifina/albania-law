@@ -9,7 +9,15 @@ Miratimin e letërmarrëveshjes, ndërmjet republikës së shqipërisë dhe bank
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-251` (tags `vendim-2018-251/<day>`; `python tools/on.py <day> vendim-2018-251`).
+Act id: `vendim-2018-251` (tags `vendim-2018-251/<day>`; `python registry/tools/on.py <day> vendim-2018-251`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 133, datë 2.3.2022: Për miratimin e marrëveshjes ndryshuese me shkëmbim letrash, të letërmarrëveshjes, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant, të siguruara nga Sekretariati i Shtetit për Çështjet Ekonomike (SECO) të qeverisë zvicerane, nën fondin e besimit me shumë donatorë, për fuqizimin e kontabilitetit dhe mjedisit të mirëbesimit në Evropën Jugore dhe Azinë Qendrore, për projektin e zhvillimit të kontabilitetit në sektorin publik, miratuar me vendimin nr. 251, datë 9.5.2018, të Këshillit të Ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2022/03/02/133)
 
 ## Decisions made by hand
 

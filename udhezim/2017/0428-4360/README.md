@@ -16,7 +16,7 @@ Organizimin e vizitave turistike në ishullin e sazanit · 1 versions, from 2017
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0428-4360` (tags `udhezim-2017-0428-4360/<day>`; `python tools/on.py <day> udhezim-2017-0428-4360`).
+Act id: `udhezim-2017-0428-4360` (tags `udhezim-2017-0428-4360/<day>`; `python registry/tools/on.py <day> udhezim-2017-0428-4360`).
 
 ## Decisions made by hand
 

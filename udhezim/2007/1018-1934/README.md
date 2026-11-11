@@ -28,7 +28,7 @@ Udhëzim Nr.1934 Dt.18.10.2007 · 1 versions, from 2007-12-31 (latest in force: 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-1018-1934` (tags `udhezim-2007-1018-1934/<day>`; `python tools/on.py <day> udhezim-2007-1018-1934`).
+Act id: `udhezim-2007-1018-1934` (tags `udhezim-2007-1018-1934/<day>`; `python registry/tools/on.py <day> udhezim-2007-1018-1934`).
 
 ## Decisions made by hand
 

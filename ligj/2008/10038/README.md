@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën për taksimin e mjeteve r
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10038-2008` (tags `ligji-10038-2008/<day>`; `python tools/on.py <day> ligji-10038-2008`).
+Act id: `ligji-10038-2008` (tags `ligji-10038-2008/<day>`; `python registry/tools/on.py <day> ligji-10038-2008`).
 
 ## Decisions made by hand
 

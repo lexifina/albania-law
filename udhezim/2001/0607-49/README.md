@@ -13,7 +13,7 @@ PëR DETYRAT E POLICICSë Së SHTETIT Në FUSHATëN ZGJEDHORE · 1 versions, fro
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0607-49` (tags `udhezim-2001-0607-49/<day>`; `python tools/on.py <day> udhezim-2001-0607-49`).
+Act id: `udhezim-2001-0607-49` (tags `udhezim-2001-0607-49/<day>`; `python registry/tools/on.py <day> udhezim-2001-0607-49`).
 
 ## Decisions made by hand
 

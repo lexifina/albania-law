@@ -5,7 +5,7 @@ Krijimin dhe administrimin e regjistrit elektronik tё koncesionit∕partneritet
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-211` (tags `vendim-2016-211/<day>`; `python tools/on.py <day> vendim-2016-211`).
+Act id: `vendim-2016-211` (tags `vendim-2016-211/<day>`; `python registry/tools/on.py <day> vendim-2016-211`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Shpalljen e disa ndryshimeve të Standardit Kombëtar të Kontabilitetit nr. 3 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0514-175` (tags `urdher-2019-0514-175/<day>`; `python tools/on.py <day> urdher-2019-0514-175`).
+Act id: `urdher-2019-0514-175` (tags `urdher-2019-0514-175/<day>`; `python registry/tools/on.py <day> urdher-2019-0514-175`).
 
 ## Decisions made by hand
 

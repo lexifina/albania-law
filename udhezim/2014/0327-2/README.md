@@ -17,7 +17,7 @@ Ekzekutimin e detyrimeve mbi shumat e llogarive në bankë · 1 versions, from 2
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0327-2` (tags `udhezim-2014-0327-2/<day>`; `python tools/on.py <day> udhezim-2014-0327-2`).
+Act id: `udhezim-2014-0327-2` (tags `udhezim-2014-0327-2/<day>`; `python registry/tools/on.py <day> udhezim-2014-0327-2`).
 
 ## Decisions made by hand
 

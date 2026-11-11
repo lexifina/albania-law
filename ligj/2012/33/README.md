@@ -5,7 +5,7 @@ Regjistrimin e pasurive të paluajtshme · 3 versions, from 2012-04-28 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-33` (tags `ligj-2012-33/<day>`; `python tools/on.py <day> ligj-2012-33`).
+Act id: `ligj-2012-33` (tags `ligj-2012-33/<day>`; `python registry/tools/on.py <day> ligj-2012-33`).
 
 ## Decisions made by hand
 

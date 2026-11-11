@@ -10,7 +10,7 @@ Miratimin e rregullores “për mbrojtjen e sigurisë dhe shëndetit të punëma
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-522` (tags `vendim-2014-522/<day>`; `python tools/on.py <day> vendim-2014-522`).
+Act id: `vendim-2014-522` (tags `vendim-2014-522/<day>`; `python registry/tools/on.py <day> vendim-2014-522`).
 
 ## Decisions made by hand
 

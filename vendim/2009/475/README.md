@@ -11,7 +11,7 @@ Përcaktimin e autoritetit kontraktues, për dhënien me koncesion të hidrocent
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-475` (tags `vendim-2009-475/<day>`; `python tools/on.py <day> vendim-2009-475`).
+Act id: `vendim-2009-475` (tags `vendim-2009-475/<day>`; `python registry/tools/on.py <day> vendim-2009-475`).
 
 ## Decisions made by hand
 

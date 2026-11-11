@@ -8,7 +8,7 @@ PËR MIRATIMIN E DEKLARATËS SË QEVERISË SHQIPTARE “PËR PËRGJEGJËSITË E 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-373` (tags `vendim-2001-373/<day>`; `python tools/on.py <day> vendim-2001-373`).
+Act id: `vendim-2001-373` (tags `vendim-2001-373/<day>`; `python registry/tools/on.py <day> vendim-2001-373`).
 
 ## Decisions made by hand
 

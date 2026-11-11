@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr.313, datë 1.7.2002 të këshillit të ministrave
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-279` (tags `vendim-2005-279/<day>`; `python tools/on.py <day> vendim-2005-279`).
+Act id: `vendim-2005-279` (tags `vendim-2005-279/<day>`; `python registry/tools/on.py <day> vendim-2005-279`).
 
 ## Decisions made by hand
 

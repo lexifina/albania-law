@@ -5,7 +5,7 @@ Grupimin e njësive të vetëqeverisjes vendore, për efekt page, dhe caktimin e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-165` (tags `vendim-2016-165/<day>`; `python tools/on.py <day> vendim-2016-165`).
+Act id: `vendim-2016-165` (tags `vendim-2016-165/<day>`; `python registry/tools/on.py <day> vendim-2016-165`).
 
 ## Decisions made by hand
 

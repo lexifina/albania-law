@@ -5,7 +5,7 @@ Miratimin e strukturës, të organikës dhe të numrit të punonjësve të shër
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-21` (tags `vendim-2008-21/<day>`; `python tools/on.py <day> vendim-2008-21`).
+Act id: `vendim-2008-21` (tags `vendim-2008-21/<day>`; `python registry/tools/on.py <day> vendim-2008-21`).
 
 ## Decisions made by hand
 

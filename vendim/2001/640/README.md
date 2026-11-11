@@ -5,7 +5,7 @@ Pagat e avokaturës së shtetit · 2 versions, from 2001-12-04 (latest in force:
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-640` (tags `vendim-2001-640/<day>`; `python tools/on.py <day> vendim-2001-640`).
+Act id: `vendim-2001-640` (tags `vendim-2001-640/<day>`; `python registry/tools/on.py <day> vendim-2001-640`).
 
 ## Decisions made by hand
 

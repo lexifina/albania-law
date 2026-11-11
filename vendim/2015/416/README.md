@@ -15,7 +15,7 @@ Miratimin e kushteve të përgjithshme e të posaçme, dokumenteve shoqëruese, 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-416` (tags `vendim-2015-416/<day>`; `python tools/on.py <day> vendim-2015-416`).
+Act id: `vendim-2015-416` (tags `vendim-2015-416/<day>`; `python registry/tools/on.py <day> vendim-2015-416`).
 
 ## Decisions made by hand
 

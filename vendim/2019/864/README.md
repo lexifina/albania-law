@@ -10,7 +10,7 @@ Miratimin e dokumentit politik kombëtar për moshimin, 2020-2024, dhe të plani
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-864` (tags `vendim-2019-864/<day>`; `python tools/on.py <day> vendim-2019-864`).
+Act id: `vendim-2019-864` (tags `vendim-2019-864/<day>`; `python registry/tools/on.py <day> vendim-2019-864`).
 
 ## Decisions made by hand
 

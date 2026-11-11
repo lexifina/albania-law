@@ -19,7 +19,7 @@ Procedurat e bashkëpunimit të shërbimit të përmbarimit gjyqësor shtetëror
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0603-3880` (tags `udhezim-2011-0603-3880/<day>`; `python tools/on.py <day> udhezim-2011-0603-3880`).
+Act id: `udhezim-2011-0603-3880` (tags `udhezim-2011-0603-3880/<day>`; `python registry/tools/on.py <day> udhezim-2011-0603-3880`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e statutit të Agjencisë për mbështetjen e shoqërisë civile · 2 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-02-11 |
 
-Act id: `vendim-2009-769` (tags `vendim-2009-769/<day>`; `python tools/on.py <day> vendim-2009-769`).
+Act id: `vendim-2009-769` (tags `vendim-2009-769/<day>`; `python registry/tools/on.py <day> vendim-2009-769`).
 
 ## Decisions made by hand
 

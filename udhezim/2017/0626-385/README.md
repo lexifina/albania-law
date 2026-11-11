@@ -15,7 +15,15 @@ Përcaktimin e nivelit minimal dhe maksimal të zbatimit të vlerës së tarifë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0626-385` (tags `udhezim-2017-0626-385/<day>`; `python tools/on.py <day> udhezim-2017-0626-385`).
+Act id: `udhezim-2017-0626-385` (tags `udhezim-2017-0626-385/<day>`; `python registry/tools/on.py <day> udhezim-2017-0626-385`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 31, datë 30.8.2018 (Ministria e Drejtësisë) [QBZ 16134]: Për disa shtesa dhe ndryshime në udhëzimin e përbashkët nr. 385/6, datë 26.6.2017, “për përcaktimin e nivelit minimal dhe maksimal të zbatimit të vlerës së tarifës së suksesit për veprimet përmbarimore të ofruara nga shërbimi përmbarimor gjyqësor privat”](https://qbz.gov.al/eli/udhezim/2018/08/30/31)
 
 ## Decisions made by hand
 

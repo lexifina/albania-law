@@ -5,7 +5,7 @@ Prokurimin e prodhimeve/transmetimeve të reklamave dhe spoteve nga organet e ad
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-623` (tags `vendim-2007-623/<day>`; `python tools/on.py <day> vendim-2007-623`).
+Act id: `vendim-2007-623` (tags `vendim-2007-623/<day>`; `python registry/tools/on.py <day> vendim-2007-623`).
 
 ## Decisions made by hand
 

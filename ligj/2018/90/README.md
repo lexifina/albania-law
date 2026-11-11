@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në marrëveshjen e lisbonës për mbroj
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-90` (tags `ligj-2018-90/<day>`; `python tools/on.py <day> ligj-2018-90`).
+Act id: `ligj-2018-90` (tags `ligj-2018-90/<day>`; `python registry/tools/on.py <day> ligj-2018-90`).
 
 ## Decisions made by hand
 

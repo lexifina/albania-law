@@ -10,7 +10,7 @@ Miratimin e rregullores teknike “për projektimindhe ndërtimin e varrezave n�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-712` (tags `vendim-2014-712/<day>`; `python tools/on.py <day> vendim-2014-712`).
+Act id: `vendim-2014-712` (tags `vendim-2014-712/<day>`; `python registry/tools/on.py <day> vendim-2014-712`).
 
 ## Decisions made by hand
 

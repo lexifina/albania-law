@@ -11,7 +11,7 @@ Pë transferimin, në pronësi të Bashkisë Tiranë të njësisë administrativ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-218` (tags `vendim-2019-218/<day>`; `python tools/on.py <day> vendim-2019-218`).
+Act id: `vendim-2019-218` (tags `vendim-2019-218/<day>`; `python registry/tools/on.py <day> vendim-2019-218`).
 
 ## Decisions made by hand
 

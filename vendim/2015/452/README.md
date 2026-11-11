@@ -5,7 +5,7 @@ Ngritjen e varrezave private në njësinë administrative “Paskuqan”, qarku 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-452` (tags `vendim-2015-452/<day>`; `python tools/on.py <day> vendim-2015-452`).
+Act id: `vendim-2015-452` (tags `vendim-2015-452/<day>`; `python registry/tools/on.py <day> vendim-2015-452`).
 
 ## Decisions made by hand
 

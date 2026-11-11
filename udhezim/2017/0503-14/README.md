@@ -19,7 +19,7 @@ PËR ZBATIMIN E LIGJIT Nr.33/2017 “PËR PAGESËN DHE FSHIRJEN/ SHUARJEN E DETY
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0503-14` (tags `udhezim-2017-0503-14/<day>`; `python tools/on.py <day> udhezim-2017-0503-14`).
+Act id: `udhezim-2017-0503-14` (tags `udhezim-2017-0503-14/<day>`; `python registry/tools/on.py <day> udhezim-2017-0503-14`).
 
 ## Decisions made by hand
 

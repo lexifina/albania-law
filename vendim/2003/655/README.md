@@ -5,7 +5,7 @@ Krijimin e qendrës së trajnimit dhe të kualifikimt për arsimin (qtka) · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-655` (tags `vendim-2003-655/<day>`; `python tools/on.py <day> vendim-2003-655`).
+Act id: `vendim-2003-655` (tags `vendim-2003-655/<day>`; `python registry/tools/on.py <day> vendim-2003-655`).
 
 ## Decisions made by hand
 

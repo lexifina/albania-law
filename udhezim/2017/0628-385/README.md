@@ -20,7 +20,15 @@ Caktimin e tarifave për shërbimet e ofruara nga shërbimi përmbarimor gjyqës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0628-385` (tags `udhezim-2017-0628-385/<day>`; `python tools/on.py <day> udhezim-2017-0628-385`).
+Act id: `udhezim-2017-0628-385` (tags `udhezim-2017-0628-385/<day>`; `python registry/tools/on.py <day> udhezim-2017-0628-385`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 30, datë 30.8.2018 (Ministria e Drejtësisë) [QBZ 16133]: Për disa ndryshime në udhëzimin e përbashkët nr. 385/7, datë 28.6.2017, “për caktimin e tarifave për shërbimet e ofruara nga shërbimi përmbarimor gjyqësor privat”, të ministrit të drejtësisë dhe ministrit të financave](https://qbz.gov.al/eli/udhezim/2018/08/30/30)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Importin e kafshëve të llojit derra, produkteve, nënprodukteve të tyre, mate
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2023-0802-459` (tags `urdher-2023-0802-459/<day>`; `python tools/on.py <day> urdher-2023-0802-459`).
+Act id: `urdher-2023-0802-459` (tags `urdher-2023-0802-459/<day>`; `python registry/tools/on.py <day> urdher-2023-0802-459`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Përcaktimin e autoriteteve kontraktuese, përkatësisht Ministrinë e Mjedisit,
 | Pika 3 | [pika-003.md](pika-003.md) | 1 | 2014-08-04 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-394` (tags `vendim-2013-394/<day>`; `python tools/on.py <day> vendim-2013-394`).
+Act id: `vendim-2013-394` (tags `vendim-2013-394/<day>`; `python registry/tools/on.py <day> vendim-2013-394`).
 
 ## Decisions made by hand
 

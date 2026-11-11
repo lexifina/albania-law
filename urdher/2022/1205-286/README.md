@@ -11,7 +11,7 @@ Miratimin e Programit Kombëtar të Kontrollit të Cilësisë së Sigurisë së 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1205-286` (tags `urdher-2022-1205-286/<day>`; `python tools/on.py <day> urdher-2022-1205-286`).
+Act id: `urdher-2022-1205-286` (tags `urdher-2022-1205-286/<day>`; `python registry/tools/on.py <day> urdher-2022-1205-286`).
 
 ## Decisions made by hand
 

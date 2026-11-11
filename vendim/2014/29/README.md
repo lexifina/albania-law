@@ -10,7 +10,7 @@ Largimin dhe emërimin e anëtarëve, përfaqësues të këshillit të ministrav
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-29` (tags `vendim-2014-29/<day>`; `python tools/on.py <day> vendim-2014-29`).
+Act id: `vendim-2014-29` (tags `vendim-2014-29/<day>`; `python registry/tools/on.py <day> vendim-2014-29`).
 
 ## Decisions made by hand
 

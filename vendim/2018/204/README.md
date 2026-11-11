@@ -8,7 +8,7 @@ Emërimin në detyrë të drejtorit të teatrit kombëtar · 1 versions, from 20
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-204` (tags `vendim-2018-204/<day>`; `python tools/on.py <day> vendim-2018-204`).
+Act id: `vendim-2018-204` (tags `vendim-2018-204/<day>`; `python registry/tools/on.py <day> vendim-2018-204`).
 
 ## Decisions made by hand
 

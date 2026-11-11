@@ -5,7 +5,7 @@ Rregullimin e veprimtarisë me jashtë të administratës shtetërore · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-228` (tags `vendim-2004-228/<day>`; `python tools/on.py <day> vendim-2004-228`).
+Act id: `vendim-2004-228` (tags `vendim-2004-228/<day>`; `python registry/tools/on.py <day> vendim-2004-228`).
 
 ## Decisions made by hand
 

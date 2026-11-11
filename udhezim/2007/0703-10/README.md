@@ -5,7 +5,7 @@ PëR KRITERET E LICENCIMIT TË AGJENCIVE, PËR USHTRIMIN E VEPRIMTARISË SË TRA
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0703-10` (tags `udhezim-2007-0703-10/<day>`; `python tools/on.py <day> udhezim-2007-0703-10`).
+Act id: `udhezim-2007-0703-10` (tags `udhezim-2007-0703-10/<day>`; `python registry/tools/on.py <day> udhezim-2007-0703-10`).
 
 ## Decisions made by hand
 

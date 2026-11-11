@@ -32,7 +32,7 @@ Miratimin e rregullave në lidhje me kërkesat për krijimin dhe përdorimin e d
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0107-7` (tags `urdher-2021-0107-7/<day>`; `python tools/on.py <day> urdher-2021-0107-7`).
+Act id: `urdher-2021-0107-7` (tags `urdher-2021-0107-7/<day>`; `python registry/tools/on.py <day> urdher-2021-0107-7`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Përcaktimin e masës së financimit nga buxheti i vitit 2015 për bashkësitë 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-296` (tags `vendim-2015-296/<day>`; `python tools/on.py <day> vendim-2015-296`).
+Act id: `vendim-2015-296` (tags `vendim-2015-296/<day>`; `python registry/tools/on.py <day> vendim-2015-296`).
 
 ## Decisions made by hand
 

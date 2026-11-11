@@ -30,7 +30,7 @@ PËR PROCEDURAT E EMËRIMIT, REKRUTIMIT, MENAXHIMIT DHE PËRFUNDIMIT TË MARRËD
 | Pika 22 | [pika-022.md](pika-022.md) | 1 | 2015-05-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-118` (tags `vendim-2014-118/<day>`; `python tools/on.py <day> vendim-2014-118`).
+Act id: `vendim-2014-118` (tags `vendim-2014-118/<day>`; `python registry/tools/on.py <day> vendim-2014-118`).
 
 ## Decisions made by hand
 

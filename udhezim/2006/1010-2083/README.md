@@ -17,7 +17,7 @@ Organizimin dhe funksionimin e rrjetit shtetëror të ndërmjetësimit · 1 vers
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1010-2083` (tags `udhezim-2006-1010-2083/<day>`; `python tools/on.py <day> udhezim-2006-1010-2083`).
+Act id: `udhezim-2006-1010-2083` (tags `udhezim-2006-1010-2083/<day>`; `python registry/tools/on.py <day> udhezim-2006-1010-2083`).
 
 ## Decisions made by hand
 

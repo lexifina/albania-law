@@ -18,7 +18,7 @@ Miratimin e kushteve të negociimit të shoqërisë shtetërore “KAYO”, sh.a
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-322` (tags `vendim-2025-322/<day>`; `python tools/on.py <day> vendim-2025-322`).
+Act id: `vendim-2025-322` (tags `vendim-2025-322/<day>`; `python registry/tools/on.py <day> vendim-2025-322`).
 
 ## Decisions made by hand
 

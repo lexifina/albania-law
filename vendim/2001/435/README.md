@@ -10,7 +10,7 @@ Kalimin në pronësi të entit kombëtar të banesave të objekteve të kthyera 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-435` (tags `vendim-2001-435/<day>`; `python tools/on.py <day> vendim-2001-435`).
+Act id: `vendim-2001-435` (tags `vendim-2001-435/<day>`; `python registry/tools/on.py <day> vendim-2001-435`).
 
 ## Decisions made by hand
 

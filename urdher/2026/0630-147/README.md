@@ -10,7 +10,7 @@ Miratimin e Planit Kombëtar të Veprimit për adresimin e varfërisë energjiti
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0630-147` (tags `urdher-2026-0630-147/<day>`; `python tools/on.py <day> urdher-2026-0630-147`).
+Act id: `urdher-2026-0630-147` (tags `urdher-2026-0630-147/<day>`; `python registry/tools/on.py <day> urdher-2026-0630-147`).
 
 ## Decisions made by hand
 

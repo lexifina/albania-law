@@ -9,7 +9,7 @@ Miratimin në parim të ndryshimit të marrëveshjes së grantit holandez “TF 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-338` (tags `vendim-2010-338/<day>`; `python tools/on.py <day> vendim-2010-338`).
+Act id: `vendim-2010-338` (tags `vendim-2010-338/<day>`; `python registry/tools/on.py <day> vendim-2010-338`).
 
 ## Decisions made by hand
 

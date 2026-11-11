@@ -11,7 +11,7 @@ Dhënien e ndihmës financiare, nga qeveria shqiptare për qeverinë e Republik�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-697` (tags `vendim-2015-697/<day>`; `python tools/on.py <day> vendim-2015-697`).
+Act id: `vendim-2015-697` (tags `vendim-2015-697/<day>`; `python registry/tools/on.py <day> vendim-2015-697`).
 
 ## Decisions made by hand
 

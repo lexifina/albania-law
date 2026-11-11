@@ -13,7 +13,7 @@ Përcaktimin e procedurave për konfiskimin, magazinimin dhe shkatërrimin e mje
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-1113-46` (tags `udhezim-2009-1113-46/<day>`; `python tools/on.py <day> udhezim-2009-1113-46`).
+Act id: `udhezim-2009-1113-46` (tags `udhezim-2009-1113-46/<day>`; `python registry/tools/on.py <day> udhezim-2009-1113-46`).
 
 ## Decisions made by hand
 

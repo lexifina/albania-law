@@ -11,7 +11,7 @@ Delegimin e përfaqësimit të Kuvendit të Republikës së Shqipërisë pranë 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0224-8` (tags `urdher-2025-0224-8/<day>`; `python tools/on.py <day> urdher-2025-0224-8`).
+Act id: `urdher-2025-0224-8` (tags `urdher-2025-0224-8/<day>`; `python registry/tools/on.py <day> urdher-2025-0224-8`).
 
 ## Decisions made by hand
 

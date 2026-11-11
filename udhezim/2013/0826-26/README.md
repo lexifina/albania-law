@@ -22,7 +22,7 @@ Kushtet, kriteret dhe specifikimet teknike me të cilat do të operojnë organiz
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0826-26` (tags `udhezim-2013-0826-26/<day>`; `python tools/on.py <day> udhezim-2013-0826-26`).
+Act id: `udhezim-2013-0826-26` (tags `udhezim-2013-0826-26/<day>`; `python registry/tools/on.py <day> udhezim-2013-0826-26`).
 
 ## Decisions made by hand
 

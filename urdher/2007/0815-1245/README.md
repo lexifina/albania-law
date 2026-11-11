@@ -18,7 +18,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet e pjesshme për
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2007-0815-1245` (tags `urdher-2007-0815-1245/<day>`; `python tools/on.py <day> urdher-2007-0815-1245`).
+Act id: `urdher-2007-0815-1245` (tags `urdher-2007-0815-1245/<day>`; `python registry/tools/on.py <day> urdher-2007-0815-1245`).
 
 ## Decisions made by hand
 

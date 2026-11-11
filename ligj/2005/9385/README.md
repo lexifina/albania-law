@@ -5,7 +5,7 @@ Pyjet dhe shërbimin pyjor · 8 versions, from 2006-06-23 (latest in force: 2020
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2005-9385` (tags `ligj-2005-9385/<day>`; `python tools/on.py <day> ligj-2005-9385`).
+Act id: `ligj-2005-9385` (tags `ligj-2005-9385/<day>`; `python registry/tools/on.py <day> ligj-2005-9385`).
 
 ## Decisions made by hand
 

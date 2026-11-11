@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e sekretariatit teknik të këshillit kombëtar të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-524` (tags `vendim-2016-524/<day>`; `python tools/on.py <day> vendim-2016-524`).
+Act id: `vendim-2016-524` (tags `vendim-2016-524/<day>`; `python registry/tools/on.py <day> vendim-2016-524`).
 
 ## Decisions made by hand
 

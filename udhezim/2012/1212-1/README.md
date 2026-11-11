@@ -20,7 +20,7 @@ Mënyrën e ngritjes dhe caktimit të vendndodhjes së qendrave të votimit dhe 
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-1212-1` (tags `udhezim-2012-1212-1/<day>`; `python tools/on.py <day> udhezim-2012-1212-1`).
+Act id: `udhezim-2012-1212-1` (tags `udhezim-2012-1212-1/<day>`; `python registry/tools/on.py <day> udhezim-2012-1212-1`).
 
 ## Decisions made by hand
 

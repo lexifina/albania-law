@@ -10,7 +10,7 @@ Shpërblimin dhe kompensimin e disa kategorive të veçanta për festat e fundvi
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-754` (tags `vendim-2018-754/<day>`; `python tools/on.py <day> vendim-2018-754`).
+Act id: `vendim-2018-754` (tags `vendim-2018-754/<day>`; `python registry/tools/on.py <day> vendim-2018-754`).
 
 ## Decisions made by hand
 

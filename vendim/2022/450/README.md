@@ -13,7 +13,7 @@ Miratimin e formës dhe të përmbajtjes së lejeve të qëndrimit për të huaj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-04-03 |
 
-Act id: `vendim-2022-450` (tags `vendim-2022-450/<day>`; `python tools/on.py <day> vendim-2022-450`).
+Act id: `vendim-2022-450` (tags `vendim-2022-450/<day>`; `python registry/tools/on.py <day> vendim-2022-450`).
 
 ## Decisions made by hand
 

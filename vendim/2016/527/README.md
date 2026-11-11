@@ -10,7 +10,7 @@ Miratimin e strategjisë kombëtare për pronësinë intelektuale, 2016-2020 · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-527` (tags `vendim-2016-527/<day>`; `python tools/on.py <day> vendim-2016-527`).
+Act id: `vendim-2016-527` (tags `vendim-2016-527/<day>`; `python registry/tools/on.py <day> vendim-2016-527`).
 
 ## Decisions made by hand
 

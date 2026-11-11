@@ -10,7 +10,7 @@ Mënyrën e vetëkarantinimit të personave që riatdhesohen · 1 versions, from
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-0508-305` (tags `urdher-2020-0508-305/<day>`; `python tools/on.py <day> urdher-2020-0508-305`).
+Act id: `urdher-2020-0508-305` (tags `urdher-2020-0508-305/<day>`; `python registry/tools/on.py <day> urdher-2020-0508-305`).
 
 ## Decisions made by hand
 

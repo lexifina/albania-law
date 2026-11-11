@@ -5,7 +5,7 @@ Akreditimin e organizmave të vlerësimit të konformitetit në republikën e sh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9824` (tags `ligj-2007-9824/<day>`; `python tools/on.py <day> ligj-2007-9824`).
+Act id: `ligj-2007-9824` (tags `ligj-2007-9824/<day>`; `python registry/tools/on.py <day> ligj-2007-9824`).
 
 ## Decisions made by hand
 

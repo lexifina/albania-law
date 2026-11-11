@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të ministrisë së mbro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-501` (tags `vendim-2017-501/<day>`; `python tools/on.py <day> vendim-2017-501`).
+Act id: `vendim-2017-501` (tags `vendim-2017-501/<day>`; `python registry/tools/on.py <day> vendim-2017-501`).
 
 ## Decisions made by hand
 

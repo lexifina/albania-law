@@ -11,7 +11,7 @@ Miratimin e rregullores “Për mbrojtjen, përpunimin, ruajtjen dhe sigurinë e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0701-23` (tags `urdher-2019-0701-23/<day>`; `python tools/on.py <day> urdher-2019-0701-23`).
+Act id: `urdher-2019-0701-23` (tags `urdher-2019-0701-23/<day>`; `python registry/tools/on.py <day> urdher-2019-0701-23`).
 
 ## Decisions made by hand
 

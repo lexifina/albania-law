@@ -9,7 +9,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-81` (tags `vendim-2013-81/<day>`; `python tools/on.py <day> vendim-2013-81`).
+Act id: `vendim-2013-81` (tags `vendim-2013-81/<day>`; `python registry/tools/on.py <day> vendim-2013-81`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 751, datë 5.9.2013: Për një ndryshim në vendimin nr. 81, datë 30.1.2013 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Bradashesh të qarkut të Elbasanit”](https://qbz.gov.al/eli/vendim/2013/09/05/751)
 
 ## Decisions made by hand
 

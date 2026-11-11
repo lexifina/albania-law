@@ -9,7 +9,21 @@ Miratimin e zonave arkeologjike, brenda qendrave të banuara në shkodër, lezh�
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-6` (tags `vendim-2005-6/<day>`; `python tools/on.py <day> vendim-2005-6`).
+Act id: `vendim-2005-6` (tags `vendim-2005-6/<day>`; `python registry/tools/on.py <day> vendim-2005-6`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 428, datë 20.6.2012: Për shpalljen e zonave arkeologjike ”a” dhe ”b” të qytetit të sarandës dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2012/06/20/428)
+- [Vendimi i Këshillit të Ministrave nr. 237, datë 23.3.2011: Për miratimin e rregullores “për administrimin e zonës arkeologjike “a” dhe “b” të qytetit të durrësit”](https://qbz.gov.al/eli/vendim/2011/03/23/237)
+- [Vendimi i Këshillit të Ministrave nr. 429, datë 9.6.2010: Për shpalljen e zonës arkeologjike “A” dhe “B” të qytetit të Shkodrës dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2010/06/09/429)
+- [Vendimi i Këshillit të Ministrave nr. 445, datë 9.6.2010: Për shpalljen e zonës arkeologjike “A” të qytetit të Elbasanit dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2010/06/09/445)
+- [Vendimi i Këshillit të Ministrave nr. 728, datë 1.9.2010: Për shpalljen e zonave arkeologjike “a” e “b” të qytetit të lezhës dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2010/09/01/728)
+- [Vendimi i Këshillit të Ministrave nr. 729, datë 1.9.2010: Për shpalljen e zonave arkeologjike “a” dhe “b” të qytetit të vlorës dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2010/09/01/729)
+- [Vendimi i Këshillit të Ministrave nr. 427, datë 20.6.2012: Për shpalljen e zonave arkeologjike “a” dhe “b” të qytetit të krujës dhe miratimin e rregullores së administrimit](https://qbz.gov.al/eli/vendim/2012/06/20/427)
 
 ## Decisions made by hand
 

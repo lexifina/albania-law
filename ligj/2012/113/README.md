@@ -9,7 +9,7 @@ Aderimin e republikës së shqipërisë në protokollin e nagojës “për akses
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-113` (tags `ligj-2012-113/<day>`; `python tools/on.py <day> ligj-2012-113`).
+Act id: `ligj-2012-113` (tags `ligj-2012-113/<day>`; `python registry/tools/on.py <day> ligj-2012-113`).
 
 ## Decisions made by hand
 

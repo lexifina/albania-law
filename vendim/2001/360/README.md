@@ -5,7 +5,7 @@ PER PERCAKTIMIN E BAZëS Së VLERESIMIT VJETOR, INDIVIDUAL, PëR LLOGARITJEN FIL
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-360` (tags `vendim-2001-360/<day>`; `python tools/on.py <day> vendim-2001-360`).
+Act id: `vendim-2001-360` (tags `vendim-2001-360/<day>`; `python registry/tools/on.py <day> vendim-2001-360`).
 
 ## Decisions made by hand
 

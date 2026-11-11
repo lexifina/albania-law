@@ -9,7 +9,7 @@ Miratimin e marrëveshjes për njohjen e kualifikimeve të arsimit të lartë n�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-18` (tags `vendim-2023-18/<day>`; `python tools/on.py <day> vendim-2023-18`).
+Act id: `vendim-2023-18` (tags `vendim-2023-18/<day>`; `python registry/tools/on.py <day> vendim-2023-18`).
 
 ## Decisions made by hand
 

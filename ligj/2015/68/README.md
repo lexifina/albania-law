@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes së dëmshpërblimit ndërmjet Republikës së Shqip
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-68` (tags `ligj-2015-68/<day>`; `python tools/on.py <day> ligj-2015-68`).
+Act id: `ligj-2015-68` (tags `ligj-2015-68/<day>`; `python registry/tools/on.py <day> ligj-2015-68`).
 
 ## Decisions made by hand
 

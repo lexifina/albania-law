@@ -12,7 +12,7 @@ Organizimin e mësimit, vlerësimin e nxënësve, provimet përfundimtare dhe mb
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0508-18` (tags `udhezim-2020-0508-18/<day>`; `python tools/on.py <day> udhezim-2020-0508-18`).
+Act id: `udhezim-2020-0508-18` (tags `udhezim-2020-0508-18/<day>`; `python registry/tools/on.py <day> udhezim-2020-0508-18`).
 
 ## Decisions made by hand
 

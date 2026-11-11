@@ -10,7 +10,7 @@ Miratimin e listës së produkteve bujqësore dhe ushqimore për konsum njerëzo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0729-299` (tags `urdher-2020-0729-299/<day>`; `python tools/on.py <day> urdher-2020-0729-299`).
+Act id: `urdher-2020-0729-299` (tags `urdher-2020-0729-299/<day>`; `python registry/tools/on.py <day> urdher-2020-0729-299`).
 
 ## Decisions made by hand
 

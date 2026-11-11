@@ -5,7 +5,7 @@ Kriteret dhe nivelin e vlerësimit, si dhe detajimi i pikësimit për të gjitha
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0515-7` (tags `udhezim-2018-0515-7/<day>`; `python tools/on.py <day> udhezim-2018-0515-7`).
+Act id: `udhezim-2018-0515-7` (tags `udhezim-2018-0515-7/<day>`; `python registry/tools/on.py <day> udhezim-2018-0515-7`).
 
 ## Decisions made by hand
 

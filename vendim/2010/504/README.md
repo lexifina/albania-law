@@ -9,7 +9,7 @@ Rishpërndarje fondesh, për shpenzime korente, ndërmjet programeve, brenda bux
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-504` (tags `vendim-2010-504/<day>`; `python tools/on.py <day> vendim-2010-504`).
+Act id: `vendim-2010-504` (tags `vendim-2010-504/<day>`; `python registry/tools/on.py <day> vendim-2010-504`).
 
 ## Decisions made by hand
 

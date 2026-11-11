@@ -5,7 +5,7 @@ Ndryshimin e përgjegjësisë së administrimit të ndërtesës së ndërmarrjes
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-635` (tags `vendim-2007-635/<day>`; `python tools/on.py <day> vendim-2007-635`).
+Act id: `vendim-2007-635` (tags `vendim-2007-635/<day>`; `python registry/tools/on.py <day> vendim-2007-635`).
 
 ## Decisions made by hand
 

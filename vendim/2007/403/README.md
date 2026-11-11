@@ -8,7 +8,7 @@ Dhënien e emrit “gani strazimiri” institutit të monumenteve të kulturës 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-403` (tags `vendim-2007-403/<day>`; `python tools/on.py <day> vendim-2007-403`).
+Act id: `vendim-2007-403` (tags `vendim-2007-403/<day>`; `python registry/tools/on.py <day> vendim-2007-403`).
 
 ## Decisions made by hand
 

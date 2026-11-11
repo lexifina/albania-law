@@ -47,7 +47,7 @@ Vitin shkollor 2026-2027 në sistemin arsimor parauniversitar · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0818-15` (tags `udhezim-2026-0818-15/<day>`; `python tools/on.py <day> udhezim-2026-0818-15`).
+Act id: `udhezim-2026-0818-15` (tags `udhezim-2026-0818-15/<day>`; `python registry/tools/on.py <day> udhezim-2026-0818-15`).
 
 ## Decisions made by hand
 

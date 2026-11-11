@@ -10,7 +10,7 @@ Procedurat standarde operacionale të veprimtarisë së mbikëqyrjes së tregut,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0530-305` (tags `urdher-2014-0530-305/<day>`; `python tools/on.py <day> urdher-2014-0530-305`).
+Act id: `urdher-2014-0530-305` (tags `urdher-2014-0530-305/<day>`; `python registry/tools/on.py <day> urdher-2014-0530-305`).
 
 ## Decisions made by hand
 

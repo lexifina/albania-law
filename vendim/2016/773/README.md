@@ -10,7 +10,7 @@ Miratimin e strategjisë ndërsektoriale të drejtësisë 2017-2020 dhe të plan
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-773` (tags `vendim-2016-773/<day>`; `python tools/on.py <day> vendim-2016-773`).
+Act id: `vendim-2016-773` (tags `vendim-2016-773/<day>`; `python registry/tools/on.py <day> vendim-2016-773`).
 
 ## Decisions made by hand
 

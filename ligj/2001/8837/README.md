@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare kundë
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8837-2001` (tags `ligji-8837-2001/<day>`; `python tools/on.py <day> ligji-8837-2001`).
+Act id: `ligji-8837-2001` (tags `ligji-8837-2001/<day>`; `python registry/tools/on.py <day> ligji-8837-2001`).
 
 ## Decisions made by hand
 

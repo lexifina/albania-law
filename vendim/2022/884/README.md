@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve, për vitin 2023, të Entit Rregullator të S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-10-23 |
 
-Act id: `vendim-2022-884` (tags `vendim-2022-884/<day>`; `python tools/on.py <day> vendim-2022-884`).
+Act id: `vendim-2022-884` (tags `vendim-2022-884/<day>`; `python registry/tools/on.py <day> vendim-2022-884`).
 
 ## Decisions made by hand
 

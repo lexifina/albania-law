@@ -10,7 +10,7 @@ Miratimin e buxhetit për autoritetin e komunikimeve elektronike dhe postare, p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-86` (tags `vendim-2018-86/<day>`; `python tools/on.py <day> vendim-2018-86`).
+Act id: `vendim-2018-86` (tags `vendim-2018-86/<day>`; `python registry/tools/on.py <day> vendim-2018-86`).
 
 ## Decisions made by hand
 

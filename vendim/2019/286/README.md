@@ -27,7 +27,7 @@ Miratimin e procedurave të përzgjedhjes së kryetarit, nënkryetarit dhe anët
 | Pika 20 | [pika-020.md](pika-020.md) | 1 | 2025-10-07 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-286` (tags `vendim-2019-286/<day>`; `python tools/on.py <day> vendim-2019-286`).
+Act id: `vendim-2019-286` (tags `vendim-2019-286/<day>`; `python registry/tools/on.py <day> vendim-2019-286`).
 
 ## Decisions made by hand
 

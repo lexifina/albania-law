@@ -24,7 +24,7 @@ Përbërjen, funksionimin, kompetencat dhe mënyrën e shpërblimit të anëtar�
 | Pika 17 | [pika-017.md](pika-017.md) | 1 | 2014-01-27 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-725` (tags `vendim-2008-725/<day>`; `python tools/on.py <day> vendim-2008-725`).
+Act id: `vendim-2008-725` (tags `vendim-2008-725/<day>`; `python registry/tools/on.py <day> vendim-2008-725`).
 
 ## Decisions made by hand
 

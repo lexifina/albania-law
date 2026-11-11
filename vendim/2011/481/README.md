@@ -10,7 +10,7 @@ Miratimin e rregullores uniforme të instrumenteve të planifikimit · 2 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2013-05-02 |
 
-Act id: `vendim-2011-481` (tags `vendim-2011-481/<day>`; `python tools/on.py <day> vendim-2011-481`).
+Act id: `vendim-2011-481` (tags `vendim-2011-481/<day>`; `python registry/tools/on.py <day> vendim-2011-481`).
 
 ## Decisions made by hand
 

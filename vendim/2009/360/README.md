@@ -5,7 +5,7 @@ Dokumentacionin dhe procedurën, për përjashtim nga detyrimi për pajisjen me 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-360` (tags `vendim-2009-360/<day>`; `python tools/on.py <day> vendim-2009-360`).
+Act id: `vendim-2009-360` (tags `vendim-2009-360/<day>`; `python registry/tools/on.py <day> vendim-2009-360`).
 
 ## Decisions made by hand
 

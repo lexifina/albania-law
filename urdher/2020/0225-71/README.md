@@ -13,7 +13,15 @@ Miratimin e strukturës së vitit shkollor 2020-2021 në sistemin arsimor paraun
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0225-71` (tags `urdher-2020-0225-71/<day>`; `python tools/on.py <day> urdher-2020-0225-71`).
+Act id: `urdher-2020-0225-71` (tags `urdher-2020-0225-71/<day>`; `python registry/tools/on.py <day> urdher-2020-0225-71`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 357, datë 18.12.2020 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 22494]: Për disa ndryshime në urdhrin e përbashkët nr. 71, datë 25.2.2020, “Për miratimin e strukturës së vitit shkollor 2020-2021, në sistemin arsimor parauniversitar”](https://qbz.gov.al/eli/urdher/2020/12/18/357)
 
 ## Decisions made by hand
 

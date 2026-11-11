@@ -10,7 +10,7 @@ Miratimin e tekstit të marrëveshjes ndërmjet “Human Vaccine” LLC dhe Mini
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2021-16` (tags `aktnormativ-2021-16/<day>`; `python tools/on.py <day> aktnormativ-2021-16`).
+Act id: `aktnormativ-2021-16` (tags `aktnormativ-2021-16/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-16`).
 
 ## Decisions made by hand
 

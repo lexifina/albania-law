@@ -16,7 +16,7 @@ Ligj Nr.22 Dt.10.03.2014 · 1 versions, from 2015-08-22 (latest in force: 2015-0
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-22` (tags `ligj-2014-22/<day>`; `python tools/on.py <day> ligj-2014-22`).
+Act id: `ligj-2014-22` (tags `ligj-2014-22/<day>`; `python registry/tools/on.py <day> ligj-2014-22`).
 
 ## Decisions made by hand
 

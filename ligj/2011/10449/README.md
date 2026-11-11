@@ -15,7 +15,7 @@ Rregullat dhe procedurat e ndërtimit të kompleksit të ri parlamentar · 1 ver
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 
-Act id: `ligji-10449-2011` (tags `ligji-10449-2011/<day>`; `python tools/on.py <day> ligji-10449-2011`).
+Act id: `ligji-10449-2011` (tags `ligji-10449-2011/<day>`; `python registry/tools/on.py <day> ligji-10449-2011`).
 
 ## Decisions made by hand
 

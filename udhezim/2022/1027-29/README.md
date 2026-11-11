@@ -5,7 +5,7 @@ Përcaktimin e programeve të formimit profesional që përfitojnë nga mbështe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2022-1027-29` (tags `udhezim-2022-1027-29/<day>`; `python tools/on.py <day> udhezim-2022-1027-29`).
+Act id: `udhezim-2022-1027-29` (tags `udhezim-2022-1027-29/<day>`; `python registry/tools/on.py <day> udhezim-2022-1027-29`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e rregullave dhe procedurave të krijimit të sistemit të gjurmimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-776` (tags `vendim-2021-776/<day>`; `python tools/on.py <day> vendim-2021-776`).
+Act id: `vendim-2021-776` (tags `vendim-2021-776/<day>`; `python registry/tools/on.py <day> vendim-2021-776`).
 
 ## Decisions made by hand
 

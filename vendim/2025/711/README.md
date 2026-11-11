@@ -15,7 +15,7 @@ Shpërblimin e pensionistëve për festat e fundvitit 2025 · 1 versions, from 2
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-711` (tags `vendim-2025-711/<day>`; `python tools/on.py <day> vendim-2025-711`).
+Act id: `vendim-2025-711` (tags `vendim-2025-711/<day>`; `python registry/tools/on.py <day> vendim-2025-711`).
 
 ## Decisions made by hand
 

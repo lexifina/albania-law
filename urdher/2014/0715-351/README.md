@@ -5,7 +5,7 @@ Miratimin e rregullores “mbi masat e kontrollit të sëmundjes së aftës epiz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-0715-351` (tags `urdher-2014-0715-351/<day>`; `python tools/on.py <day> urdher-2014-0715-351`).
+Act id: `urdher-2014-0715-351` (tags `urdher-2014-0715-351/<day>`; `python registry/tools/on.py <day> urdher-2014-0715-351`).
 
 ## Decisions made by hand
 

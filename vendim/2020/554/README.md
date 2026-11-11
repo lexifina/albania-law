@@ -10,7 +10,7 @@ Miratimin e Strategjisë së Shërbimit për Çështjet e Brendshme dhe Ankesat 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-554` (tags `vendim-2020-554/<day>`; `python tools/on.py <day> vendim-2020-554`).
+Act id: `vendim-2020-554` (tags `vendim-2020-554/<day>`; `python registry/tools/on.py <day> vendim-2020-554`).
 
 ## Decisions made by hand
 

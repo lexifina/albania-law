@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. bujar kokonozi · 1 versions
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-781` (tags `vendim-2017-781/<day>`; `python tools/on.py <day> vendim-2017-781`).
+Act id: `vendim-2017-781` (tags `vendim-2017-781/<day>`; `python registry/tools/on.py <day> vendim-2017-781`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Mënyrën e organizimit e të funksionimit të Këshillit Kombëtar të Arsimit 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-297` (tags `vendim-2015-297/<day>`; `python tools/on.py <day> vendim-2015-297`).
+Act id: `vendim-2015-297` (tags `vendim-2015-297/<day>`; `python registry/tools/on.py <day> vendim-2015-297`).
 
 ## Decisions made by hand
 

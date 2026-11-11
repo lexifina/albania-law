@@ -104,7 +104,7 @@ Marrëdhëniet juridiksionale me autoritetet e huaja në çështjet penale · 1 
 | Seksioni II | [seksioni-02-03.md](seksioni-02-03.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10193` (tags `ligj-2009-10193/<day>`; `python tools/on.py <day> ligj-2009-10193`).
+Act id: `ligj-2009-10193` (tags `ligj-2009-10193/<day>`; `python registry/tools/on.py <day> ligj-2009-10193`).
 
 ## Decisions made by hand
 

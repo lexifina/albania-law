@@ -5,7 +5,7 @@ Bashkimin e disa instituteve dhe njësive kërkimore, organizimin e tyre në ins
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-561` (tags `vendim-2007-561/<day>`; `python tools/on.py <day> vendim-2007-561`).
+Act id: `vendim-2007-561` (tags `vendim-2007-561/<day>`; `python registry/tools/on.py <day> vendim-2007-561`).
 
 ## Decisions made by hand
 

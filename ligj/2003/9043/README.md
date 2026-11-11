@@ -26,7 +26,7 @@ Ratifikimin e “marrëveshjes së huasë, të financimit dhe të projektit “f
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Neni 9 | [neni-009-2.md](neni-009-2.md) | 0 |  |
 
-Act id: `ligji-9043-2003` (tags `ligji-9043-2003/<day>`; `python tools/on.py <day> ligji-9043-2003`).
+Act id: `ligji-9043-2003` (tags `ligji-9043-2003/<day>`; `python registry/tools/on.py <day> ligji-9043-2003`).
 
 ## Decisions made by hand
 

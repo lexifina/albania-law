@@ -5,7 +5,7 @@ Parandalimin dhe goditjen e krimit të organizuar · 2 versions, from 2004-11-23
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9284` (tags `ligj-2004-9284/<day>`; `python tools/on.py <day> ligj-2004-9284`).
+Act id: `ligj-2004-9284` (tags `ligj-2004-9284/<day>`; `python registry/tools/on.py <day> ligj-2004-9284`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të ministrisë për evr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-500` (tags `vendim-2017-500/<day>`; `python tools/on.py <day> vendim-2017-500`).
+Act id: `vendim-2017-500` (tags `vendim-2017-500/<day>`; `python registry/tools/on.py <day> vendim-2017-500`).
 
 ## Decisions made by hand
 

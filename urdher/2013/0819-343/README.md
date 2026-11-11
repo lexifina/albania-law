@@ -5,7 +5,7 @@ Miratimin e dispozitave normative për sistemin arsimor parauniversitar · 2 ver
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2013-0819-343` (tags `urdher-2013-0819-343/<day>`; `python tools/on.py <day> urdher-2013-0819-343`).
+Act id: `urdher-2013-0819-343` (tags `urdher-2013-0819-343/<day>`; `python registry/tools/on.py <day> urdher-2013-0819-343`).
 
 ## Decisions made by hand
 

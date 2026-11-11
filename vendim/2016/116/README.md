@@ -23,7 +23,7 @@ Mënyrën e organizimit, funksionimit dhe përbërjen e komisionit të kualifiki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-116` (tags `vendim-2016-116/<day>`; `python tools/on.py <day> vendim-2016-116`).
+Act id: `vendim-2016-116` (tags `vendim-2016-116/<day>`; `python registry/tools/on.py <day> vendim-2016-116`).
 
 ## Decisions made by hand
 

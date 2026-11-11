@@ -9,7 +9,7 @@ Miratimin e ndryshimit të marrëveshjes së huas, ndërmjet Këshillit të Mini
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-224` (tags `vendim-2019-224/<day>`; `python tools/on.py <day> vendim-2019-224`).
+Act id: `vendim-2019-224` (tags `vendim-2019-224/<day>`; `python registry/tools/on.py <day> vendim-2019-224`).
 
 ## Decisions made by hand
 

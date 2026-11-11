@@ -11,7 +11,7 @@ Krijimin e disa njësive kryesore, fakultete në universitetin politeknik të ti
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-824` (tags `vendim-2007-824/<day>`; `python tools/on.py <day> vendim-2007-824`).
+Act id: `vendim-2007-824` (tags `vendim-2007-824/<day>`; `python registry/tools/on.py <day> vendim-2007-824`).
 
 ## Decisions made by hand
 

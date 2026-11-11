@@ -10,7 +10,7 @@ Lejimin e botimit të njoftimit të KONTRATËS së NËNSHKRUAR të drejtorisë s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2011-853` (tags `vendim-2011-853/<day>`; `python tools/on.py <day> vendim-2011-853`).
+Act id: `vendim-2011-853` (tags `vendim-2011-853/<day>`; `python registry/tools/on.py <day> vendim-2011-853`).
 
 ## Decisions made by hand
 

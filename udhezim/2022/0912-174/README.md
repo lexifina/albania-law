@@ -22,7 +22,7 @@ Mbi procedurat e trajtimit të të huajve me qëndrim të parregullt në territo
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0912-174` (tags `udhezim-2022-0912-174/<day>`; `python tools/on.py <day> udhezim-2022-0912-174`).
+Act id: `udhezim-2022-0912-174` (tags `udhezim-2022-0912-174/<day>`; `python registry/tools/on.py <day> udhezim-2022-0912-174`).
 
 ## Decisions made by hand
 

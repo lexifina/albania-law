@@ -20,7 +20,7 @@ Ratifikimin e ”marrëveshjes ndërmjet ministrisë së mbrojtjes të republik�
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 
-Act id: `ligji-9027-2003` (tags `ligji-9027-2003/<day>`; `python tools/on.py <day> ligji-9027-2003`).
+Act id: `ligji-9027-2003` (tags `ligji-9027-2003/<day>`; `python registry/tools/on.py <day> ligji-9027-2003`).
 
 ## Decisions made by hand
 

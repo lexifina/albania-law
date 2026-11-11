@@ -10,7 +10,7 @@ Shpalljen e ndryshimeve të Standardit Kombëtar të Kontabilitetit nr. 15, ”P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1230-291` (tags `urdher-2022-1230-291/<day>`; `python tools/on.py <day> urdher-2022-1230-291`).
+Act id: `urdher-2022-1230-291` (tags `urdher-2022-1230-291/<day>`; `python registry/tools/on.py <day> urdher-2022-1230-291`).
 
 ## Decisions made by hand
 

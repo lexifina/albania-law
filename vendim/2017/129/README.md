@@ -5,7 +5,7 @@ Caktimin e anëtarëve të komisionit të përzgjedhjes së projekteve në turiz
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-129` (tags `vendim-2017-129/<day>`; `python tools/on.py <day> vendim-2017-129`).
+Act id: `vendim-2017-129` (tags `vendim-2017-129/<day>`; `python registry/tools/on.py <day> vendim-2017-129`).
 
 ## Decisions made by hand
 

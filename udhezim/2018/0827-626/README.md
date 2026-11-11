@@ -5,7 +5,7 @@ Mbi zbatimin e vendimit nr. 618, datë 7.9.2006, të këshillit të ministrave p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0827-626` (tags `udhezim-2018-0827-626/<day>`; `python tools/on.py <day> udhezim-2018-0827-626`).
+Act id: `udhezim-2018-0827-626` (tags `udhezim-2018-0827-626/<day>`; `python registry/tools/on.py <day> udhezim-2018-0827-626`).
 
 ## Decisions made by hand
 

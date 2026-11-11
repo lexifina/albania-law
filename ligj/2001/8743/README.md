@@ -33,7 +33,7 @@ Pronat e paluajtshme të shtetit · 1 versions, from 2020-10-14 (latest in force
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8743` (tags `ligj-2001-8743/<day>`; `python tools/on.py <day> ligj-2001-8743`).
+Act id: `ligj-2001-8743` (tags `ligj-2001-8743/<day>`; `python registry/tools/on.py <day> ligj-2001-8743`).
 
 ## Decisions made by hand
 

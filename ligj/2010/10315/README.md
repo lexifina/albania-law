@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 25.8.2010, të kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10315` (tags `ligj-2010-10315/<day>`; `python tools/on.py <day> ligj-2010-10315`).
+Act id: `ligj-2010-10315` (tags `ligj-2010-10315/<day>`; `python registry/tools/on.py <day> ligj-2010-10315`).
 
 ## Decisions made by hand
 

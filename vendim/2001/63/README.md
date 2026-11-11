@@ -5,7 +5,7 @@ Procedurat e kërkimit, të shqyrtimit dhe të dhënies së autorizimeve, të le
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-63` (tags `vendim-2001-63/<day>`; `python tools/on.py <day> vendim-2001-63`).
+Act id: `vendim-2001-63` (tags `vendim-2001-63/<day>`; `python registry/tools/on.py <day> vendim-2001-63`).
 
 ## Decisions made by hand
 

@@ -91,7 +91,7 @@ Krijimin e kushteve për Inspektorin e Lartë të Drejtësisë për verifikimin 
 | Pika 83 | [pika-083.md](pika-083.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-536` (tags `vendim-2019-536/<day>`; `python tools/on.py <day> vendim-2019-536`).
+Act id: `vendim-2019-536` (tags `vendim-2019-536/<day>`; `python registry/tools/on.py <day> vendim-2019-536`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Zëvendësimin e aneksit i, të urdhrit nr. 234, datë 20.5.2014, “për mirati
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2016-1223-645` (tags `urdher-2016-1223-645/<day>`; `python tools/on.py <day> urdher-2016-1223-645`).
+Act id: `urdher-2016-1223-645` (tags `urdher-2016-1223-645/<day>`; `python registry/tools/on.py <day> urdher-2016-1223-645`).
 
 ## Decisions made by hand
 

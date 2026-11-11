@@ -11,7 +11,7 @@ Miratimin e strukturës së çmimeve të barnave, të përfshira në listën e b
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-56` (tags `vendim-2001-56/<day>`; `python tools/on.py <day> vendim-2001-56`).
+Act id: `vendim-2001-56` (tags `vendim-2001-56/<day>`; `python registry/tools/on.py <day> vendim-2001-56`).
 
 ## Decisions made by hand
 

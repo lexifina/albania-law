@@ -12,7 +12,7 @@ Dorëzimin e dokumentacionit të pronësisë, në zyrat e regjistrimit të pasur
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-556` (tags `vendim-2000-556/<day>`; `python tools/on.py <day> vendim-2000-556`).
+Act id: `vendim-2000-556` (tags `vendim-2000-556/<day>`; `python registry/tools/on.py <day> vendim-2000-556`).
 
 ## Decisions made by hand
 

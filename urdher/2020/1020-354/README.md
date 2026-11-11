@@ -11,7 +11,7 @@ Miratimin e rregullores për mënyrën e organizimit të provimit të pranimit n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1020-354` (tags `urdher-2020-1020-354/<day>`; `python tools/on.py <day> urdher-2020-1020-354`).
+Act id: `urdher-2020-1020-354` (tags `urdher-2020-1020-354/<day>`; `python registry/tools/on.py <day> urdher-2020-1020-354`).
 
 ## Decisions made by hand
 

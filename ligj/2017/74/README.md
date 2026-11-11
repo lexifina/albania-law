@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së financimit ndërmjet republikës së shqipëris�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-74-2017` (tags `ligji-74-2017/<day>`; `python tools/on.py <day> ligji-74-2017`).
+Act id: `ligji-74-2017` (tags `ligji-74-2017/<day>`; `python registry/tools/on.py <day> ligji-74-2017`).
 
 ## Decisions made by hand
 

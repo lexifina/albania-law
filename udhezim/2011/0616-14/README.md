@@ -15,7 +15,7 @@ Pagesën e detyrimeve ndaj të tretëve të ndërmarrjeve dhe sha-ve në pronës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0616-14` (tags `udhezim-2011-0616-14/<day>`; `python tools/on.py <day> udhezim-2011-0616-14`).
+Act id: `udhezim-2011-0616-14` (tags `udhezim-2011-0616-14/<day>`; `python registry/tools/on.py <day> udhezim-2011-0616-14`).
 
 ## Decisions made by hand
 

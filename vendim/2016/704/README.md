@@ -16,7 +16,7 @@ Zbatimin e ligjit nr.46/2016, “PËR FALJEN E DETYRIMEVE QË KANË ISH-USHTARAK
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-704` (tags `vendim-2016-704/<day>`; `python tools/on.py <day> vendim-2016-704`).
+Act id: `vendim-2016-704` (tags `vendim-2016-704/<day>`; `python registry/tools/on.py <day> vendim-2016-704`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,16 @@ Përcaktimin e kritereve dhe të procedurave të vlerësimit për dëmshpërblim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1253` (tags `vendim-2008-1253/<day>`; `python tools/on.py <day> vendim-2008-1253`).
+Act id: `vendim-2008-1253` (tags `vendim-2008-1253/<day>`; `python registry/tools/on.py <day> vendim-2008-1253`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 30, datë 7.12.2023 (Ministria e Financave) [QBZ 27113]: Për procedurat e përllogaritjes së përfitimeve nga ligjet e mëparshme dhe të pagesave të dëmshpërblimit për ish-të dënuarit politik të regjimit komunist](https://qbz.gov.al/eli/udhezim/2023/12/07/30)
+- [Vendimi i Këshillit të Ministrave nr. 1305, datë 29.12.2009: Për disa shtesa në vendimin nr.1253, datë 2.7.2008 të Këshillit të Ministrave “Për përcaktimin e kritereve e të procedurave të vlerësimit për dëmshpërblimin e përfituar nga ish-të dënuarit politikë të regjimit komunist”](https://qbz.gov.al/eli/vendim/2009/12/29/1305)
 
 ## Decisions made by hand
 

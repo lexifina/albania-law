@@ -26,7 +26,7 @@ PëR HAPJEN dhe organizimin E PROGRAMEVE Të STUDIMIT Të CIKLIT Të DYTë në i
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0403-14` (tags `udhezim-2008-0403-14/<day>`; `python tools/on.py <day> udhezim-2008-0403-14`).
+Act id: `udhezim-2008-0403-14` (tags `udhezim-2008-0403-14/<day>`; `python registry/tools/on.py <day> udhezim-2008-0403-14`).
 
 ## Decisions made by hand
 

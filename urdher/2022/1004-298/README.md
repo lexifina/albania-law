@@ -10,7 +10,7 @@ Ushtrimin e detyrave të drejtorit të Prokurimeve dhe Partneriteteve në Minist
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-1004-298` (tags `urdher-2022-1004-298/<day>`; `python tools/on.py <day> urdher-2022-1004-298`).
+Act id: `urdher-2022-1004-298` (tags `urdher-2022-1004-298/<day>`; `python registry/tools/on.py <day> urdher-2022-1004-298`).
 
 ## Decisions made by hand
 

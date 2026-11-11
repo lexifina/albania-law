@@ -45,7 +45,7 @@ Ndërmarrjet sociale në republikën e shqipërisë · 1 versions, from 2016-07-
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-65-2016` (tags `ligji-65-2016/<day>`; `python tools/on.py <day> ligji-65-2016`).
+Act id: `ligji-65-2016` (tags `ligji-65-2016/<day>`; `python registry/tools/on.py <day> ligji-65-2016`).
 
 ## Decisions made by hand
 

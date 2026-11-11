@@ -11,7 +11,7 @@ Ngarkimin e Fondit Shqiptar të Zhvillimit, si autoritet kontraktor, për realiz
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-344` (tags `vendim-2026-344/<day>`; `python tools/on.py <day> vendim-2026-344`).
+Act id: `vendim-2026-344` (tags `vendim-2026-344/<day>`; `python registry/tools/on.py <day> vendim-2026-344`).
 
 ## Decisions made by hand
 

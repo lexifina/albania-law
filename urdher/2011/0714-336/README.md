@@ -5,7 +5,7 @@ Miratimin e rregullores “për organizimin dhe zhvillimin e praktikave profesio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-0714-336` (tags `urdher-2011-0714-336/<day>`; `python tools/on.py <day> urdher-2011-0714-336`).
+Act id: `urdher-2011-0714-336` (tags `urdher-2011-0714-336/<day>`; `python registry/tools/on.py <day> urdher-2011-0714-336`).
 
 ## Decisions made by hand
 

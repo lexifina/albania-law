@@ -15,7 +15,7 @@ Mënyrën e ngritjes dhe caktimit të vendndodhjes së qendrave të votimit · 2
 | Neni 7/1 | [neni-007-01.md](neni-007-01.md) | 1 | 2005-08-23 |
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 
-Act id: `udhezim-2005-0421-6` (tags `udhezim-2005-0421-6/<day>`; `python tools/on.py <day> udhezim-2005-0421-6`).
+Act id: `udhezim-2005-0421-6` (tags `udhezim-2005-0421-6/<day>`; `python registry/tools/on.py <day> udhezim-2005-0421-6`).
 
 ## Decisions made by hand
 

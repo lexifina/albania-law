@@ -16,7 +16,7 @@ Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-650` (tags `vendim-2015-650/<day>`; `python tools/on.py <day> vendim-2015-650`).
+Act id: `vendim-2015-650` (tags `vendim-2015-650/<day>`; `python registry/tools/on.py <day> vendim-2015-650`).
 
 ## Decisions made by hand
 

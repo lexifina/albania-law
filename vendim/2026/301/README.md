@@ -10,7 +10,7 @@ Shpërndarjen dhe detajimin e fondit për financimin e projekteve të bashkive n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-09-08 |
 
-Act id: `vendim-2026-301` (tags `vendim-2026-301/<day>`; `python tools/on.py <day> vendim-2026-301`).
+Act id: `vendim-2026-301` (tags `vendim-2026-301/<day>`; `python registry/tools/on.py <day> vendim-2026-301`).
 
 ## Decisions made by hand
 

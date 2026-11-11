@@ -10,7 +10,7 @@ Caktimin e afateve kur subjektet zgjedhore duhet të paraqesin përfaqësuesit e
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0505-31` (tags `udhezim-2001-0505-31/<day>`; `python tools/on.py <day> udhezim-2001-0505-31`).
+Act id: `udhezim-2001-0505-31` (tags `udhezim-2001-0505-31/<day>`; `python registry/tools/on.py <day> udhezim-2001-0505-31`).
 
 ## Decisions made by hand
 

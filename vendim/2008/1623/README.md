@@ -11,7 +11,7 @@ Dhënie asistence ekonomike të menjëhershme personave, që përfitojnë pensio
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1623` (tags `vendim-2008-1623/<day>`; `python tools/on.py <day> vendim-2008-1623`).
+Act id: `vendim-2008-1623` (tags `vendim-2008-1623/<day>`; `python registry/tools/on.py <day> vendim-2008-1623`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Procedurën e pranimit në programet e studimit të ciklit të dytë me kohë t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-1031-50` (tags `udhezim-2014-1031-50/<day>`; `python tools/on.py <day> udhezim-2014-1031-50`).
+Act id: `udhezim-2014-1031-50` (tags `udhezim-2014-1031-50/<day>`; `python registry/tools/on.py <day> udhezim-2014-1031-50`).
 
 ## Decisions made by hand
 

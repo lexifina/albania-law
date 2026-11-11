@@ -12,7 +12,7 @@ Hapjen e thirrjes së tretë për aplikime për Programin IPARD II · 1 versions
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2020-1023-422` (tags `urdher-2020-1023-422/<day>`; `python tools/on.py <day> urdher-2020-1023-422`).
+Act id: `urdher-2020-1023-422` (tags `urdher-2020-1023-422/<day>`; `python registry/tools/on.py <day> urdher-2020-1023-422`).
 
 ## Decisions made by hand
 

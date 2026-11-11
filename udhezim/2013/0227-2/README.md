@@ -25,7 +25,15 @@ Kriteret dhe procedurat e shpërndarjes së fondit të mbrojtjes sociale për vi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0227-2` (tags `udhezim-2013-0227-2/<day>`; `python tools/on.py <day> udhezim-2013-0227-2`).
+Act id: `udhezim-2013-0227-2` (tags `udhezim-2013-0227-2/<day>`; `python registry/tools/on.py <day> udhezim-2013-0227-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 2-1, datë 29.3.2013 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 9380]: Për disa ndryshime në udhëzimin e Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta nr. 2, datë 27.2.2013 “Për kriteret dhe procedurat e shpërndarjes së fondit të mbrojtjes sociale për vitin 2013”](https://qbz.gov.al/eli/udhezim/2013/03/29/2-1)
 
 ## Decisions made by hand
 

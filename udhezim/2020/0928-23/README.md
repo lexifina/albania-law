@@ -9,7 +9,7 @@ Një shtesë në udhëzimin nr. 1, datë 14.1.2020 “Për dokumentacionin dhe p
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0928-23` (tags `udhezim-2020-0928-23/<day>`; `python tools/on.py <day> udhezim-2020-0928-23`).
+Act id: `udhezim-2020-0928-23` (tags `udhezim-2020-0928-23/<day>`; `python registry/tools/on.py <day> udhezim-2020-0928-23`).
 
 ## Decisions made by hand
 

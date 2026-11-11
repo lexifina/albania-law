@@ -12,7 +12,7 @@ Autorizimin e Agjencisë Shtetërore për Shpronësimin për Negociimin e afatit
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2021-2` (tags `aktnormativ-2021-2/<day>`; `python tools/on.py <day> aktnormativ-2021-2`).
+Act id: `aktnormativ-2021-2` (tags `aktnormativ-2021-2/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-2`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Shpronësimin për interes publik të pasurisë së paluajtshme, e cila preket n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-106` (tags `vendim-2002-106/<day>`; `python tools/on.py <day> vendim-2002-106`).
+Act id: `vendim-2002-106` (tags `vendim-2002-106/<day>`; `python registry/tools/on.py <day> vendim-2002-106`).
 
 ## Decisions made by hand
 

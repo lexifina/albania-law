@@ -10,7 +10,7 @@ Pёrcaktimin e rajoneve tё zhvillimit dhe kufijve të tyre · 2 versions, from 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-05-25 |
 
-Act id: `vendim-2021-459` (tags `vendim-2021-459/<day>`; `python tools/on.py <day> vendim-2021-459`).
+Act id: `vendim-2021-459` (tags `vendim-2021-459/<day>`; `python registry/tools/on.py <day> vendim-2021-459`).
 
 ## Decisions made by hand
 

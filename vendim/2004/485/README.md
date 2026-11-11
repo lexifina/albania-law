@@ -10,7 +10,7 @@ Transferimin e fondeve buxhetore bashkisë së elbasanit, për mbulimin e shpenz
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-485` (tags `vendim-2004-485/<day>`; `python tools/on.py <day> vendim-2004-485`).
+Act id: `vendim-2004-485` (tags `vendim-2004-485/<day>`; `python registry/tools/on.py <day> vendim-2004-485`).
 
 ## Decisions made by hand
 

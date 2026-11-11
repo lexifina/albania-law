@@ -21,7 +21,7 @@ Miratimin e vlerave për secilin element përbërës të pagës bruto mujore, t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-02-09 |
 
-Act id: `vendim-2024-423` (tags `vendim-2024-423/<day>`; `python tools/on.py <day> vendim-2024-423`).
+Act id: `vendim-2024-423` (tags `vendim-2024-423/<day>`; `python registry/tools/on.py <day> vendim-2024-423`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,11 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-05-05 |
 
-Act id: `vendim-2013-1056` (tags `vendim-2013-1056/<day>`; `python tools/on.py <day> vendim-2013-1056`).
+Act id: `vendim-2013-1056` (tags `vendim-2013-1056/<day>`; `python registry/tools/on.py <day> vendim-2013-1056`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

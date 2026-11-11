@@ -8,7 +8,7 @@ Miratimin e aktit normativ me fuqinë e ligjit nr.3, datë 23.11.2005 të Këshi
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9450-2005` (tags `ligji-9450-2005/<day>`; `python tools/on.py <day> ligji-9450-2005`).
+Act id: `ligji-9450-2005` (tags `ligji-9450-2005/<day>`; `python registry/tools/on.py <day> ligji-9450-2005`).
 
 ## Decisions made by hand
 

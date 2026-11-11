@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror dom ernest simoni troshani · 1
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-912` (tags `vendim-2016-912/<day>`; `python tools/on.py <day> vendim-2016-912`).
+Act id: `vendim-2016-912` (tags `vendim-2016-912/<day>`; `python registry/tools/on.py <day> vendim-2016-912`).
 
 ## Decisions made by hand
 

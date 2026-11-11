@@ -14,7 +14,7 @@ Miratimin e mënyrës së administrimit të formatit të Regjistrit të Transfer
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0416-135` (tags `urdher-2015-0416-135/<day>`; `python tools/on.py <day> urdher-2015-0416-135`).
+Act id: `urdher-2015-0416-135` (tags `urdher-2015-0416-135/<day>`; `python registry/tools/on.py <day> urdher-2015-0416-135`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Kriteret e licencimit për të kryer kontrollin dhe provën e mjeteve me motor d
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1121-5630` (tags `udhezim-2016-1121-5630/<day>`; `python tools/on.py <day> udhezim-2016-1121-5630`).
+Act id: `udhezim-2016-1121-5630` (tags `udhezim-2016-1121-5630/<day>`; `python registry/tools/on.py <day> udhezim-2016-1121-5630`).
 
 ## Decisions made by hand
 

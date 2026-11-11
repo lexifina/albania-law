@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit në “Marrëveshjen e rishitjes së aksioneve të INSI
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9651` (tags `ligj-2006-9651/<day>`; `python tools/on.py <day> ligj-2006-9651`).
+Act id: `ligj-2006-9651` (tags `ligj-2006-9651/<day>`; `python registry/tools/on.py <day> ligj-2006-9651`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e Strategjisë Ndërsektoriale Kundër Korrupsionit 2024-2030, planit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-859` (tags `vendim-2024-859/<day>`; `python tools/on.py <day> vendim-2024-859`).
+Act id: `vendim-2024-859` (tags `vendim-2024-859/<day>`; `python registry/tools/on.py <day> vendim-2024-859`).
 
 ## Decisions made by hand
 

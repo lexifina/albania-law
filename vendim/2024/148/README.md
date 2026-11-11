@@ -17,7 +17,7 @@ Kriteret dhe procedurat për hapjen, mbylljen dhe riorganizimin e institucioneve
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-148` (tags `vendim-2024-148/<day>`; `python tools/on.py <day> vendim-2024-148`).
+Act id: `vendim-2024-148` (tags `vendim-2024-148/<day>`; `python registry/tools/on.py <day> vendim-2024-148`).
 
 ## Decisions made by hand
 

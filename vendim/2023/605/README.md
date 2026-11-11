@@ -12,7 +12,7 @@ Miratimin e trajtimit financiar të personave përgjegjës për menaxhimin dhe p
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-605` (tags `vendim-2023-605/<day>`; `python tools/on.py <day> vendim-2023-605`).
+Act id: `vendim-2023-605` (tags `vendim-2023-605/<day>`; `python registry/tools/on.py <day> vendim-2023-605`).
 
 ## Decisions made by hand
 

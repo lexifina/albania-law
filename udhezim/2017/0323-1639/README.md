@@ -16,7 +16,7 @@ Përcaktimin e rregullave dhe procedurave të aplikimit/hartimit/ administrimit 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0323-1639` (tags `udhezim-2017-0323-1639/<day>`; `python tools/on.py <day> udhezim-2017-0323-1639`).
+Act id: `udhezim-2017-0323-1639` (tags `udhezim-2017-0323-1639/<day>`; `python registry/tools/on.py <day> udhezim-2017-0323-1639`).
 
 ## Decisions made by hand
 

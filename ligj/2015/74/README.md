@@ -12,7 +12,17 @@ Miratimin e marrëveshjeve ndërmjet Ministrisë së Financave, si autoritet kon
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-74` (tags `ligj-2015-74/<day>`; `python tools/on.py <day> ligj-2015-74`).
+Act id: `ligj-2015-74` (tags `ligj-2015-74/<day>`; `python registry/tools/on.py <day> ligj-2015-74`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 118/2015: Për një shtesë në ligjin nr. 74/2015, “Për miratimin e marrëveshjeve ndërmjet Ministrisë së Financave, si autoritet kontraktues, dhe shoqërive “S2 Albania”, sh.p.k. dhe “Rapiscan systems”, INC, “Për zgjidhjen me mirëkuptim të mosmarrëveshjeve” dhe “Për ndryshimin e marrëveshjes së koncesionit për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë, miratuar me ligjin nr. 123/2013”, si dhe të tarifës së shërbimit të skanimit”](https://qbz.gov.al/eli/ligj/2015/10/29/118)
+- [Ligji nr. 27/2021: Për miratimin e marrëveshjes ndërmjet Ministrisë së Financave dhe Ekonomisë, si autoritet kontraktues, dhe shoqërive “S2 Albania”, sh.p.k., dhe “Rapiscan Systems”, INC, “Për një ndryshim në marrëveshjen e koncesionit për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë, miratuar me ligjin nr.123/2013”, të ndryshuar](https://qbz.gov.al/eli/ligj/2021/03/01/27)
+- [Vendimi i Këshillit të Ministrave nr. 74, datë 27.1.2016: Për miratimin e planit kombëtar për integrimin evropian 2016-2020](https://qbz.gov.al/eli/vendim/2016/01/27/74)
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e tarifës së biletave të Teatrit Kombëtar të Operës, Baletit dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-627` (tags `vendim-2020-627/<day>`; `python tools/on.py <day> vendim-2020-627`).
+Act id: `vendim-2020-627` (tags `vendim-2020-627/<day>`; `python registry/tools/on.py <day> vendim-2020-627`).
 
 ## Decisions made by hand
 

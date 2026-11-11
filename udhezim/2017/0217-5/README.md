@@ -21,7 +21,15 @@ Mbi përdorimin e fondit të kushtëzuar për bllok-ndihmën ekonomike deri në 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0217-5` (tags `udhezim-2017-0217-5/<day>`; `python tools/on.py <day> udhezim-2017-0217-5`).
+Act id: `udhezim-2017-0217-5` (tags `udhezim-2017-0217-5/<day>`; `python registry/tools/on.py <day> udhezim-2017-0217-5`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 10, datë 8.5.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 64489]: Për një ndryshim në udhëzimin nr. 5, datë 17.2.2017 “mbi përdorimin e fondit të kushtëzuar për bllok-ndihmën ekonomike deri në 6 për qind”](https://qbz.gov.al/eli/udhezim/2017/05/08/10)
 
 ## Decisions made by hand
 

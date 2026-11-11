@@ -10,7 +10,7 @@ Ratifikimin e “Marrëveshjes për sigurimin e informacionit të klasifikuar �
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8922` (tags `ligj-2002-8922/<day>`; `python tools/on.py <day> ligj-2002-8922`).
+Act id: `ligj-2002-8922` (tags `ligj-2002-8922/<day>`; `python registry/tools/on.py <day> ligj-2002-8922`).
 
 ## Decisions made by hand
 

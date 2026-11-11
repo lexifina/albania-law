@@ -12,7 +12,7 @@ Objektet e korporatës elektroenergjetike shqiptare (kesh) sha, që nuk do të k
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-84` (tags `vendim-2007-84/<day>`; `python tools/on.py <day> vendim-2007-84`).
+Act id: `vendim-2007-84` (tags `vendim-2007-84/<day>`; `python registry/tools/on.py <day> vendim-2007-84`).
 
 ## Decisions made by hand
 

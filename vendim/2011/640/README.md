@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike ndërmjet republikës së shqipërisë d
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-640` (tags `vendim-2011-640/<day>`; `python tools/on.py <day> vendim-2011-640`).
+Act id: `vendim-2011-640` (tags `vendim-2011-640/<day>`; `python registry/tools/on.py <day> vendim-2011-640`).
 
 ## Decisions made by hand
 

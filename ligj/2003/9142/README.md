@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën ”për shenjat dhe sinja
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9142` (tags `ligj-2003-9142/<day>`; `python tools/on.py <day> ligj-2003-9142`).
+Act id: `ligj-2003-9142` (tags `ligj-2003-9142/<day>`; `python registry/tools/on.py <day> ligj-2003-9142`).
 
 ## Decisions made by hand
 

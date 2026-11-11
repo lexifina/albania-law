@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes së grantit nr. TF0B2002, për financimin shtes�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-882` (tags `vendim-2020-882/<day>`; `python tools/on.py <day> vendim-2020-882`).
+Act id: `vendim-2020-882` (tags `vendim-2020-882/<day>`; `python registry/tools/on.py <day> vendim-2020-882`).
 
 ## Decisions made by hand
 

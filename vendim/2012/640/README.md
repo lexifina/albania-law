@@ -10,7 +10,7 @@ Dhënie ndihme financiare familjes të të ndjerit, adem haxhi tahiraj, ish-puno
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-640` (tags `vendim-2012-640/<day>`; `python tools/on.py <day> vendim-2012-640`).
+Act id: `vendim-2012-640` (tags `vendim-2012-640/<day>`; `python registry/tools/on.py <day> vendim-2012-640`).
 
 ## Decisions made by hand
 

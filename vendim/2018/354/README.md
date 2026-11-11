@@ -14,7 +14,7 @@ Zgjerimin dhe kthimin e parkut rajonal “zagori” në park natyror · 1 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-354` (tags `vendim-2018-354/<day>`; `python tools/on.py <day> vendim-2018-354`).
+Act id: `vendim-2018-354` (tags `vendim-2018-354/<day>`; `python registry/tools/on.py <day> vendim-2018-354`).
 
 ## Decisions made by hand
 

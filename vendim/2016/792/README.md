@@ -10,7 +10,7 @@ Dhënien e miratimit për ndërtimin dhe shfrytëzimin e impiantit me rikuperim 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-792` (tags `vendim-2016-792/<day>`; `python tools/on.py <day> vendim-2016-792`).
+Act id: `vendim-2016-792` (tags `vendim-2016-792/<day>`; `python registry/tools/on.py <day> vendim-2016-792`).
 
 ## Decisions made by hand
 

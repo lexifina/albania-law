@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 8, datë 28.12.2023, “Pë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2024-5` (tags `ligj-2024-5/<day>`; `python tools/on.py <day> ligj-2024-5`).
+Act id: `ligj-2024-5` (tags `ligj-2024-5/<day>`; `python registry/tools/on.py <day> ligj-2024-5`).
 
 ## Decisions made by hand
 

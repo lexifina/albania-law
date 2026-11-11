@@ -5,7 +5,7 @@ Krijimin e komitetit shtetëror të minoriteteve · 2 versions, from 2004-03-16 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-127` (tags `vendim-2004-127/<day>`; `python tools/on.py <day> vendim-2004-127`).
+Act id: `vendim-2004-127` (tags `vendim-2004-127/<day>`; `python registry/tools/on.py <day> vendim-2004-127`).
 
 ## Decisions made by hand
 

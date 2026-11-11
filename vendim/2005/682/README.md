@@ -5,7 +5,7 @@ Shpalljen e lumit Buna dhe të territoreve ligatinore përreth tij “Peizazh uj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-682` (tags `vendim-2005-682/<day>`; `python tools/on.py <day> vendim-2005-682`).
+Act id: `vendim-2005-682` (tags `vendim-2005-682/<day>`; `python registry/tools/on.py <day> vendim-2005-682`).
 
 ## Decisions made by hand
 

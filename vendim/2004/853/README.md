@@ -5,7 +5,7 @@ PëR PROCEDURëN E DHëNIES Së LEJES Së IMPORTIT, EKSPORTIT DHE PRODHIMIT Të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-853` (tags `vendim-2004-853/<day>`; `python tools/on.py <day> vendim-2004-853`).
+Act id: `vendim-2004-853` (tags `vendim-2004-853/<day>`; `python registry/tools/on.py <day> vendim-2004-853`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Rregullat, procedurat dhe mënyrat e vënies në dispozicion të pasurive të pa
 | Pika 5 | [pika-005.md](pika-005.md) | 1 | 2021-11-23 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-162` (tags `vendim-2016-162/<day>`; `python tools/on.py <day> vendim-2016-162`).
+Act id: `vendim-2016-162` (tags `vendim-2016-162/<day>`; `python registry/tools/on.py <day> vendim-2016-162`).
 
 ## Decisions made by hand
 

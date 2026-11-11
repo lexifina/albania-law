@@ -10,7 +10,7 @@ Shpërndarjen e kuotave të pranimit në programet e studimit të ciklit të par
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2015-0817-294` (tags `urdher-2015-0817-294/<day>`; `python tools/on.py <day> urdher-2015-0817-294`).
+Act id: `urdher-2015-0817-294` (tags `urdher-2015-0817-294/<day>`; `python registry/tools/on.py <day> urdher-2015-0817-294`).
 
 ## Decisions made by hand
 

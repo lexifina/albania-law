@@ -10,7 +10,18 @@ Emërimin e kryetarit dhe të anëtarëve të këshillit drejtues të fondit shq
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-594` (tags `vendim-2018-594/<day>`; `python tools/on.py <day> vendim-2018-594`).
+Act id: `vendim-2018-594` (tags `vendim-2018-594/<day>`; `python registry/tools/on.py <day> vendim-2018-594`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 648, datë 2.10.2019: Për disa ndryshime në vendimin nr. 594, datë 9.10.2018, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe të anëtarëve të Këshillit Drejtues të Fondit Shqiptar për Zhvillimin e Diasporës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2019/10/02/648)
+- [Vendimi i Këshillit të Ministrave nr. 773, datë 30.9.2020: Për një ndryshim në vendimin nr. 594, datë 9.10.2018, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe të anëtarëve të Këshillit Drejtues të Fondit Shqiptar për Zhvillimin e Diasporës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2020/09/30/773)
+- [Vendimi i Këshillit të Ministrave nr. 371, datë 29.5.2019: Për disa ndryshime dhe shtesa në vendimin nr. 594, datë 9.10.2018, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe të anëtarëve të Këshillit Drejtues të Fondit Shqiptar për Zhvillimin e Diasporës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2019/05/29/371)
+- [Vendimi i Këshillit të Ministrave nr. 23, datë 15.1.2019: Për një ndryshim në vendimin nr. 594, datë 9.10.2018, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe të anëtarëve të Këshillit Drejtues të Fondit Shqiptar për Zhvillimin e Diasporës”](https://qbz.gov.al/eli/vendim/2019/01/16/23)
 
 ## Decisions made by hand
 

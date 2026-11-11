@@ -12,7 +12,7 @@ Disa shtesa dhe ndryshime në vendimin nr. 781, datë 14.11.2007, të këshillit
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-651` (tags `vendim-2018-651/<day>`; `python tools/on.py <day> vendim-2018-651`).
+Act id: `vendim-2018-651` (tags `vendim-2018-651/<day>`; `python registry/tools/on.py <day> vendim-2018-651`).
 
 ## Decisions made by hand
 

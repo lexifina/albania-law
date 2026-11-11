@@ -5,7 +5,7 @@ Mbi procedurat e pajisjes me pasaportë biometrike të shtetasve shqiptarë · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2011-1103-394` (tags `udhezim-2011-1103-394/<day>`; `python tools/on.py <day> udhezim-2011-1103-394`).
+Act id: `udhezim-2011-1103-394` (tags `udhezim-2011-1103-394/<day>`; `python registry/tools/on.py <day> udhezim-2011-1103-394`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullores për njohjen e personelit të shërbimit të informacion
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0111-5` (tags `urdher-2022-0111-5/<day>`; `python tools/on.py <day> urdher-2022-0111-5`).
+Act id: `urdher-2022-0111-5` (tags `urdher-2022-0111-5/<day>`; `python registry/tools/on.py <day> urdher-2022-0111-5`).
 
 ## Decisions made by hand
 

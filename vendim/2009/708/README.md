@@ -10,7 +10,15 @@ Kalimin e përgjegjësisë së administrimit, nga MINISTRIa e arsimit dhe shkenc
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-708` (tags `vendim-2009-708/<day>`; `python tools/on.py <day> vendim-2009-708`).
+Act id: `vendim-2009-708` (tags `vendim-2009-708/<day>`; `python registry/tools/on.py <day> vendim-2009-708`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 9, datë 2.5.2011 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 13237]: Për një ndryshim në udhëzimin nr.22, datë 12.10.2010 “për procedurat e shitjes së objekteve të miratuara për privatizim sipas vendimit nr.676, datë 18.6.2009 të këshillit të ministrave “për kalimin e përgjegjësisë së administrimit, nga ministria e arsimit dhe shkencës ministrisë së punëve publike, transportit dhe telekomunikacionit, për entin kombëtar të banesave, të objekteve të ish-qytetit të nxënësve, pranë shkollës së mesme teknologjike, tiranë”, vendimit nr.678, datë 18.6.2009 të këshillit të ministrave “për kthimin në fond banesash të disa objekteve të ish-kombinatit të tekstileve të pambukta, në tiranë, të ndërmarrjes mekanike-tekstili, tiranë, dhe të ish-shkollës së partisë, tiranë”, vendimit nr.708, datë 23.6.2009 të këshillit të ministrave “për kalimin e përgjegjësisë së administrimit, nga ministria e arsimit dhe shkencës ministrisë së punëve publike, transportit dhe telekomunikacionit për entin kombëtar të banesave, të objekteve të ish-konviktit dhe të shkollës komunale, tiranë, me qëllim privatizimi”, vendimit nr.1285, datë 23.12.2009 të këshillit të ministrave “për kalimin e ish-objektit të kursit të ndërlidhjes së ptt-së, tiranë, nga ish-ministria e ekonomisë dhe privatizimit, sot ministria e ekonomisë, tregtisë dhe energjetikës, në përgjegjësi administrimi të ministrisë së punëve publike, transportit dhe telekomunikacionit, për entin kombëtar të banesave, për qëllim privatizimi”, vendimit nr.601, datë 23.7.2010 të këshillit të ministrave “për kalim objektesh në përgjegjësi administrimi të ministrisë së punëve publike dhe transportit për entin kombëtar të banesave, të objektit ish-kopshti nr.26, në tiranë, me qëllim privatizimi””](https://qbz.gov.al/eli/udhezim/2011/05/02/9)
 
 ## Decisions made by hand
 

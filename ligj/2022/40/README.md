@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 6, datë 18.3.2022 “Për 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-40` (tags `ligj-2022-40/<day>`; `python tools/on.py <day> ligj-2022-40`).
+Act id: `ligj-2022-40` (tags `ligj-2022-40/<day>`; `python registry/tools/on.py <day> ligj-2022-40`).
 
 ## Decisions made by hand
 

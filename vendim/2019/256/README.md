@@ -5,7 +5,7 @@ Përcaktimin e rregullave për grumbullimin, menaxhimin e përdorimin e të dhë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2019-256` (tags `vendim-2019-256/<day>`; `python tools/on.py <day> vendim-2019-256`).
+Act id: `vendim-2019-256` (tags `vendim-2019-256/<day>`; `python registry/tools/on.py <day> vendim-2019-256`).
 
 ## Decisions made by hand
 

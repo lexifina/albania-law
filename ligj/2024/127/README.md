@@ -11,7 +11,7 @@ Shfuqizimin e masave administrative të vendosura nga data 1 janar 2015 deri më
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-127-2024` (tags `ligji-127-2024/<day>`; `python tools/on.py <day> ligji-127-2024`).
+Act id: `ligji-127-2024` (tags `ligji-127-2024/<day>`; `python registry/tools/on.py <day> ligji-127-2024`).
 
 ## Decisions made by hand
 

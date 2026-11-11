@@ -5,7 +5,7 @@ Zbatimin e programit të shkëmbimit të studimeve universitare në evropën qen
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0216-4` (tags `udhezim-2018-0216-4/<day>`; `python tools/on.py <day> udhezim-2018-0216-4`).
+Act id: `udhezim-2018-0216-4` (tags `udhezim-2018-0216-4/<day>`; `python registry/tools/on.py <day> udhezim-2018-0216-4`).
 
 ## Decisions made by hand
 

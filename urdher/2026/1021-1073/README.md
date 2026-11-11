@@ -10,7 +10,7 @@ Mbi rregullat për stabilimentet e akuakulturës dhe transportuesve të kafshëv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1021-1073` (tags `urdher-2026-1021-1073/<day>`; `python tools/on.py <day> urdher-2026-1021-1073`).
+Act id: `urdher-2026-1021-1073` (tags `urdher-2026-1021-1073/<day>`; `python registry/tools/on.py <day> urdher-2026-1021-1073`).
 
 ## Decisions made by hand
 

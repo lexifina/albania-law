@@ -28,7 +28,7 @@ Zhvillimin e konkurseve të pranimit, tarifën e regjistrimit për konkurrim në
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0706-22` (tags `udhezim-2011-0706-22/<day>`; `python tools/on.py <day> udhezim-2011-0706-22`).
+Act id: `udhezim-2011-0706-22` (tags `udhezim-2011-0706-22/<day>`; `python registry/tools/on.py <day> udhezim-2011-0706-22`).
 
 ## Decisions made by hand
 

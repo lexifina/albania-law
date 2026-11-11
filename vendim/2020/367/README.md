@@ -9,7 +9,7 @@ Shembjen e tetë objekteve të dhëna me qira me kontratën e qirasë nr.1823 Re
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-367` (tags `vendim-2020-367/<day>`; `python tools/on.py <day> vendim-2020-367`).
+Act id: `vendim-2020-367` (tags `vendim-2020-367/<day>`; `python registry/tools/on.py <day> vendim-2020-367`).
 
 ## Decisions made by hand
 

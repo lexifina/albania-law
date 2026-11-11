@@ -5,7 +5,7 @@ Miratimin e rregullave për identifikimin, vlerësimin dhe dhënien e koncesione
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-576` (tags `vendim-2013-576/<day>`; `python tools/on.py <day> vendim-2013-576`).
+Act id: `vendim-2013-576` (tags `vendim-2013-576/<day>`; `python registry/tools/on.py <day> vendim-2013-576`).
 
 ## Decisions made by hand
 

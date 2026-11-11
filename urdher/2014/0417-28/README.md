@@ -12,7 +12,7 @@ Miratimin e kodit të etikës për punonjësit e inspektorateve shtetërore në 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-0417-28` (tags `urdher-2014-0417-28/<day>`; `python tools/on.py <day> urdher-2014-0417-28`).
+Act id: `urdher-2014-0417-28` (tags `urdher-2014-0417-28/<day>`; `python registry/tools/on.py <day> urdher-2014-0417-28`).
 
 ## Decisions made by hand
 

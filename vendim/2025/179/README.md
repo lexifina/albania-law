@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndryshuese të marrëveshjes së grantit ndërmjet Kë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-179` (tags `vendim-2025-179/<day>`; `python tools/on.py <day> vendim-2025-179`).
+Act id: `vendim-2025-179` (tags `vendim-2025-179/<day>`; `python registry/tools/on.py <day> vendim-2025-179`).
 
 ## Decisions made by hand
 

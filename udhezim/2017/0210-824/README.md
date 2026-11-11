@@ -12,7 +12,7 @@ Miratimin e marrëveshjes së performancës, kontratës së performancës (model
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0210-824` (tags `udhezim-2017-0210-824/<day>`; `python tools/on.py <day> udhezim-2017-0210-824`).
+Act id: `udhezim-2017-0210-824` (tags `udhezim-2017-0210-824/<day>`; `python registry/tools/on.py <day> udhezim-2017-0210-824`).
 
 ## Decisions made by hand
 

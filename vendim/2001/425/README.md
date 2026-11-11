@@ -5,7 +5,7 @@ Rritjen e pagave të gjyqtarëve dhe të prokurorëve · 2 versions, from 2001-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-425` (tags `vendim-2001-425/<day>`; `python tools/on.py <day> vendim-2001-425`).
+Act id: `vendim-2001-425` (tags `vendim-2001-425/<day>`; `python registry/tools/on.py <day> vendim-2001-425`).
 
 ## Decisions made by hand
 

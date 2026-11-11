@@ -11,7 +11,7 @@ Përdorimin e fondit të rindërtimit nga Bashkia Durrës, miratuar në buxhetin
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-775` (tags `vendim-2020-775/<day>`; `python tools/on.py <day> vendim-2020-775`).
+Act id: `vendim-2020-775` (tags `vendim-2020-775/<day>`; `python registry/tools/on.py <day> vendim-2020-775`).
 
 ## Decisions made by hand
 

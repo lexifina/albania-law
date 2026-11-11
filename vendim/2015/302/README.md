@@ -19,7 +19,7 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2015-05-21 |
 
-Act id: `vendim-2015-302` (tags `vendim-2015-302/<day>`; `python tools/on.py <day> vendim-2015-302`).
+Act id: `vendim-2015-302` (tags `vendim-2015-302/<day>`; `python registry/tools/on.py <day> vendim-2015-302`).
 
 ## Decisions made by hand
 

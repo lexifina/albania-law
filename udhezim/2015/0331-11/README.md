@@ -5,7 +5,7 @@ Përcaktimin e rregullave dhe procedurave për financimin e projekteve nga fondi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-0331-11` (tags `udhezim-2015-0331-11/<day>`; `python tools/on.py <day> udhezim-2015-0331-11`).
+Act id: `udhezim-2015-0331-11` (tags `udhezim-2015-0331-11/<day>`; `python registry/tools/on.py <day> udhezim-2015-0331-11`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për shërbimet e radiokomunikacionit · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1006-28` (tags `udhezim-2008-1006-28/<day>`; `python tools/on.py <day> udhezim-2008-1006-28`).
+Act id: `udhezim-2008-1006-28` (tags `udhezim-2008-1006-28/<day>`; `python registry/tools/on.py <day> udhezim-2008-1006-28`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Shtesë fondfi për hidrovoret · 1 versions, from 2004-04-02 (latest in force: 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-1999-633` (tags `vendim-1999-633/<day>`; `python tools/on.py <day> vendim-1999-633`).
+Act id: `vendim-1999-633` (tags `vendim-1999-633/<day>`; `python registry/tools/on.py <day> vendim-1999-633`).
 
 ## Decisions made by hand
 

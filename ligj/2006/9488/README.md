@@ -10,7 +10,7 @@ Ratifikimin e protokollit shtesë të Konventës Europiane “Për informimin p�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2006-9488` (tags `ligj-2006-9488/<day>`; `python tools/on.py <day> ligj-2006-9488`).
+Act id: `ligj-2006-9488` (tags `ligj-2006-9488/<day>`; `python registry/tools/on.py <day> ligj-2006-9488`).
 
 ## Decisions made by hand
 

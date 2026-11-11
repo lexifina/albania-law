@@ -9,7 +9,7 @@ Plotësimin dhe shpërndarjen e tabelave të rezultateve në qendrat e votimit p
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 
-Act id: `udhezim-2002-0618-6` (tags `udhezim-2002-0618-6/<day>`; `python tools/on.py <day> udhezim-2002-0618-6`).
+Act id: `udhezim-2002-0618-6` (tags `udhezim-2002-0618-6/<day>`; `python registry/tools/on.py <day> udhezim-2002-0618-6`).
 
 ## Decisions made by hand
 

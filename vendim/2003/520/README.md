@@ -5,7 +5,7 @@ Miratimin e ndryshimit të formës së organizimit dhe të statutit të qendrës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-520` (tags `vendim-2003-520/<day>`; `python tools/on.py <day> vendim-2003-520`).
+Act id: `vendim-2003-520` (tags `vendim-2003-520/<day>`; `python registry/tools/on.py <day> vendim-2003-520`).
 
 ## Decisions made by hand
 

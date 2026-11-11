@@ -10,7 +10,7 @@ Miratimin e rregullores për ekspertët e objekteve të pronësisë industriale 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-07-15 |
 
-Act id: `vendim-2018-501` (tags `vendim-2018-501/<day>`; `python tools/on.py <day> vendim-2018-501`).
+Act id: `vendim-2018-501` (tags `vendim-2018-501/<day>`; `python registry/tools/on.py <day> vendim-2018-501`).
 
 ## Decisions made by hand
 

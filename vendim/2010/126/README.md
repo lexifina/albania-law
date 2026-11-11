@@ -61,7 +61,7 @@ Përcaktimin e strukturës së komisionit të shqyrtimit të aplikimit, të krit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-126` (tags `vendim-2010-126/<day>`; `python tools/on.py <day> vendim-2010-126`).
+Act id: `vendim-2010-126` (tags `vendim-2010-126/<day>`; `python registry/tools/on.py <day> vendim-2010-126`).
 
 ## Decisions made by hand
 

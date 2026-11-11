@@ -5,7 +5,7 @@ Krijimin e bordit të kullimit të rrethit Kavajë · 2 versions, from 2002-10-3
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-490` (tags `vendim-2002-490/<day>`; `python tools/on.py <day> vendim-2002-490`).
+Act id: `vendim-2002-490` (tags `vendim-2002-490/<day>`; `python registry/tools/on.py <day> vendim-2002-490`).
 
 ## Decisions made by hand
 

@@ -52,7 +52,7 @@ Aderimin e republikës së shqipërisë në “konventën doganore mbi importimi
 | Neni 43 | [neni-043.md](neni-043.md) | 0 |  |
 | Neni 44 | [neni-044.md](neni-044.md) | 0 |  |
 
-Act id: `ligji-9088-2003` (tags `ligji-9088-2003/<day>`; `python tools/on.py <day> ligji-9088-2003`).
+Act id: `ligji-9088-2003` (tags `ligji-9088-2003/<day>`; `python registry/tools/on.py <day> ligji-9088-2003`).
 
 ## Decisions made by hand
 

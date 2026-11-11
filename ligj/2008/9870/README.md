@@ -32,7 +32,7 @@ Standardizimin · 1 versions, from 2020-05-20 (latest in force: 2020-05-20) · <
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9870` (tags `ligj-2008-9870/<day>`; `python tools/on.py <day> ligj-2008-9870`).
+Act id: `ligj-2008-9870` (tags `ligj-2008-9870/<day>`; `python registry/tools/on.py <day> ligj-2008-9870`).
 
 ## Decisions made by hand
 

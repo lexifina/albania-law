@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Andrea Lluka Marko · 1 vers
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-808` (tags `vendim-2024-808/<day>`; `python tools/on.py <day> vendim-2024-808`).
+Act id: `vendim-2024-808` (tags `vendim-2024-808/<day>`; `python registry/tools/on.py <day> vendim-2024-808`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Ndarjen e shoqërisë “Hekurudha Shqiptare”, sh.a · 2 versions, from 2021-0
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-90` (tags `ligj-2021-90/<day>`; `python tools/on.py <day> ligj-2021-90`).
+Act id: `ligj-2021-90` (tags `ligj-2021-90/<day>`; `python registry/tools/on.py <day> ligj-2021-90`).
 
 ## Decisions made by hand
 

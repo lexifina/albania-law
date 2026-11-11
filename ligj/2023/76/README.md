@@ -246,7 +246,7 @@ Fondet e pensionit privat · 1 versions, from 2023-09-21 (latest in force: 2023-
 | Seksioni V | [seksioni-05.md](seksioni-05.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-76-2023` (tags `ligji-76-2023/<day>`; `python tools/on.py <day> ligji-76-2023`).
+Act id: `ligji-76-2023` (tags `ligji-76-2023/<day>`; `python registry/tools/on.py <day> ligji-76-2023`).
 
 ## Decisions made by hand
 

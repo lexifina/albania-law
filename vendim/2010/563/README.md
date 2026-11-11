@@ -13,7 +13,15 @@ Përcaktimin e rregullave dhe të procedurave të hollësishme të bashkëpunimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-563` (tags `vendim-2010-563/<day>`; `python tools/on.py <day> vendim-2010-563`).
+Act id: `vendim-2010-563` (tags `vendim-2010-563/<day>`; `python registry/tools/on.py <day> vendim-2010-563`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 626, datë 7.9.2011: PëR DISA ShTESA DhE NDRYSHIME në VENDIMIN NR.563, datë 14.7.2010 të KëSHILLIT të MINISTRAVE “PëR PëRCAKTIMIN E RREGULLAVE DHE të PROCEDURAVE të HOLLëSISHME të BASHKëpuniMIT të SHëRBIMIT PëRMBARIMOR ME AGJENCINë E ADMINISTRIMIT Të PASURIVE të SEKUESTRUARA DHE të KONFISKUARA, SI DHE PAGESëN PëRKATëSE për SHëRBIMIN E PëRMBARIMIT”](https://qbz.gov.al/eli/vendim/2011/09/07/626)
 
 ## Decisions made by hand
 

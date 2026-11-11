@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit të investimit ndërmjet Republikës së S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-28` (tags `vendim-2021-28/<day>`; `python tools/on.py <day> vendim-2021-28`).
+Act id: `vendim-2021-28` (tags `vendim-2021-28/<day>`; `python registry/tools/on.py <day> vendim-2021-28`).
 
 ## Decisions made by hand
 

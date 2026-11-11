@@ -39,7 +39,7 @@ Shërbimin e urgjencës mjekësore · 1 versions, from 2014-12-09 (latest in for
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-147` (tags `ligj-2014-147/<day>`; `python tools/on.py <day> ligj-2014-147`).
+Act id: `ligj-2014-147` (tags `ligj-2014-147/<day>`; `python registry/tools/on.py <day> ligj-2014-147`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Miratimin e masave të nevojshme për mbajtjen e përgjegjësive të zgjeruara t
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-540` (tags `vendim-2019-540/<day>`; `python tools/on.py <day> vendim-2019-540`).
+Act id: `vendim-2019-540` (tags `vendim-2019-540/<day>`; `python registry/tools/on.py <day> vendim-2019-540`).
 
 ## Decisions made by hand
 

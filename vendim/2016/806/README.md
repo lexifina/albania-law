@@ -5,7 +5,7 @@ Përcaktimin e rregullave të verifikimit kufitar që zbatohen për kategori të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-806` (tags `vendim-2016-806/<day>`; `python tools/on.py <day> vendim-2016-806`).
+Act id: `vendim-2016-806` (tags `vendim-2016-806/<day>`; `python registry/tools/on.py <day> vendim-2016-806`).
 
 ## Decisions made by hand
 

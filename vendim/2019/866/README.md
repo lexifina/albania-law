@@ -11,7 +11,7 @@ Miratimin e Strategjisë Kombëtare të Mbrojtjes Sociale, 2020-2023, dhe të Pl
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-866` (tags `vendim-2019-866/<day>`; `python tools/on.py <day> vendim-2019-866`).
+Act id: `vendim-2019-866` (tags `vendim-2019-866/<day>`; `python registry/tools/on.py <day> vendim-2019-866`).
 
 ## Decisions made by hand
 

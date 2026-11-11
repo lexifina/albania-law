@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit nr. 3 të kontratës financiare ndërmjet republikës s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-104` (tags `ligj-2016-104/<day>`; `python tools/on.py <day> ligj-2016-104`).
+Act id: `ligj-2016-104` (tags `ligj-2016-104/<day>`; `python registry/tools/on.py <day> ligj-2016-104`).
 
 ## Decisions made by hand
 

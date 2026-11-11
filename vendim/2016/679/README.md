@@ -9,7 +9,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2016 për ministrinë e arsimit dhe 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-679` (tags `vendim-2016-679/<day>`; `python tools/on.py <day> vendim-2016-679`).
+Act id: `vendim-2016-679` (tags `vendim-2016-679/<day>`; `python registry/tools/on.py <day> vendim-2016-679`).
 
 ## Decisions made by hand
 

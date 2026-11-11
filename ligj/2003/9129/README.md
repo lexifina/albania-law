@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në ”konventën universale për të dr
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9129` (tags `ligj-2003-9129/<day>`; `python tools/on.py <day> ligj-2003-9129`).
+Act id: `ligj-2003-9129` (tags `ligj-2003-9129/<day>`; `python registry/tools/on.py <day> ligj-2003-9129`).
 
 ## Decisions made by hand
 

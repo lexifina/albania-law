@@ -21,7 +21,7 @@ Detyrat e policisë së shtetit dhe forcave të ushtrisë për zgjedhjet për ku
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 1 | 2005-06-13 |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2005-09-05 |
 
-Act id: `udhezim-2005-0405-5` (tags `udhezim-2005-0405-5/<day>`; `python tools/on.py <day> udhezim-2005-0405-5`).
+Act id: `udhezim-2005-0405-5` (tags `udhezim-2005-0405-5/<day>`; `python registry/tools/on.py <day> udhezim-2005-0405-5`).
 
 ## Decisions made by hand
 

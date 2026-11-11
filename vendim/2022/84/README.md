@@ -11,7 +11,7 @@ Kalimin te bashkia Kurbin dhe Fondi Shqiptar i Zhvillimit të njësive të banim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-84` (tags `vendim-2022-84/<day>`; `python tools/on.py <day> vendim-2022-84`).
+Act id: `vendim-2022-84` (tags `vendim-2022-84/<day>`; `python registry/tools/on.py <day> vendim-2022-84`).
 
 ## Decisions made by hand
 

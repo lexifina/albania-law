@@ -16,7 +16,7 @@ Përcaktimin e standardeve të planit të sigurisë e të elementeve të mbrojtj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-8` (tags `vendim-2025-8/<day>`; `python tools/on.py <day> vendim-2025-8`).
+Act id: `vendim-2025-8` (tags `vendim-2025-8/<day>`; `python registry/tools/on.py <day> vendim-2025-8`).
 
 ## Decisions made by hand
 

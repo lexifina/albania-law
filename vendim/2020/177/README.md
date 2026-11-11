@@ -18,7 +18,7 @@ Përbërjen, kriteret dhe detyrat e Bordit të Administrimit të Fondit Social t
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-177` (tags `vendim-2020-177/<day>`; `python tools/on.py <day> vendim-2020-177`).
+Act id: `vendim-2020-177` (tags `vendim-2020-177/<day>`; `python registry/tools/on.py <day> vendim-2020-177`).
 
 ## Decisions made by hand
 

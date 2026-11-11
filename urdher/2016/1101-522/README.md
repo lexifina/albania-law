@@ -13,7 +13,7 @@ Mbylljen e veprimtarisë së shkollës së mesme jopublike, arsimi i mesëm i p�
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-1101-522` (tags `urdher-2016-1101-522/<day>`; `python tools/on.py <day> urdher-2016-1101-522`).
+Act id: `urdher-2016-1101-522` (tags `urdher-2016-1101-522/<day>`; `python registry/tools/on.py <day> urdher-2016-1101-522`).
 
 ## Decisions made by hand
 

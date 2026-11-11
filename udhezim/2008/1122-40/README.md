@@ -19,7 +19,7 @@ Plotësimin e kuotave të parealizuara të pranimeve në ciklin e parë të stud
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-1122-40` (tags `udhezim-2008-1122-40/<day>`; `python tools/on.py <day> udhezim-2008-1122-40`).
+Act id: `udhezim-2008-1122-40` (tags `udhezim-2008-1122-40/<day>`; `python registry/tools/on.py <day> udhezim-2008-1122-40`).
 
 ## Decisions made by hand
 

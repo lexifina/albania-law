@@ -12,7 +12,7 @@ Lejimin e lëvizjes, jashtë territorit të Republikës së Shqipërisë, të 43
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-913` (tags `vendim-2015-913/<day>`; `python tools/on.py <day> vendim-2015-913`).
+Act id: `vendim-2015-913` (tags `vendim-2015-913/<day>`; `python registry/tools/on.py <day> vendim-2015-913`).
 
 ## Decisions made by hand
 

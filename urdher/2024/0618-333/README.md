@@ -10,7 +10,7 @@ Miratimin e Programit të Formimit Vazhdues për Përmbaruesit Gjyqësorë Shtet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0618-333` (tags `urdher-2024-0618-333/<day>`; `python tools/on.py <day> urdher-2024-0618-333`).
+Act id: `urdher-2024-0618-333` (tags `urdher-2024-0618-333/<day>`; `python registry/tools/on.py <day> urdher-2024-0618-333`).
 
 ## Decisions made by hand
 

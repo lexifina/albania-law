@@ -16,7 +16,7 @@ Përcaktimin e kushteve dhe të kërkesave teknike që duhet të plotësojë sub
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-684` (tags `vendim-2017-684/<day>`; `python tools/on.py <day> vendim-2017-684`).
+Act id: `vendim-2017-684` (tags `vendim-2017-684/<day>`; `python registry/tools/on.py <day> vendim-2017-684`).
 
 ## Decisions made by hand
 

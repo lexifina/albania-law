@@ -21,7 +21,7 @@ Vlerësimin me notë të nxënësve që nuk do t’u nënshtrohen provimeve komb
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0518-13` (tags `udhezim-2020-0518-13/<day>`; `python tools/on.py <day> udhezim-2020-0518-13`).
+Act id: `udhezim-2020-0518-13` (tags `udhezim-2020-0518-13/<day>`; `python registry/tools/on.py <day> udhezim-2020-0518-13`).
 
 ## Decisions made by hand
 

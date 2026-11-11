@@ -9,7 +9,7 @@ Miratimin e raportit të monitorimit të ndihmës shtetërore për vitin 2014 ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-472` (tags `vendim-2015-472/<day>`; `python tools/on.py <day> vendim-2015-472`).
+Act id: `vendim-2015-472` (tags `vendim-2015-472/<day>`; `python registry/tools/on.py <day> vendim-2015-472`).
 
 ## Decisions made by hand
 

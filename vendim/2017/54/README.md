@@ -11,7 +11,7 @@ Shpalljen e qendrës historike të fshatit rehovë, ersekë dhe miratimin e rreg
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-54` (tags `vendim-2017-54/<day>`; `python tools/on.py <day> vendim-2017-54`).
+Act id: `vendim-2017-54` (tags `vendim-2017-54/<day>`; `python registry/tools/on.py <day> vendim-2017-54`).
 
 ## Decisions made by hand
 

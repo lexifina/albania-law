@@ -10,7 +10,7 @@ Miratimin e Kodit të Etikës së Vullnetarit · 1 versions, from 2026-06-01 (la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-391` (tags `vendim-2026-391/<day>`; `python tools/on.py <day> vendim-2026-391`).
+Act id: `vendim-2026-391` (tags `vendim-2026-391/<day>`; `python registry/tools/on.py <day> vendim-2026-391`).
 
 ## Decisions made by hand
 

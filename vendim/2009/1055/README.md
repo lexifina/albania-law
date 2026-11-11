@@ -15,7 +15,7 @@ Licencimin e shkollës së lartë private “logos” · 1 versions, from 2009-1
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1055` (tags `vendim-2009-1055/<day>`; `python tools/on.py <day> vendim-2009-1055`).
+Act id: `vendim-2009-1055` (tags `vendim-2009-1055/<day>`; `python registry/tools/on.py <day> vendim-2009-1055`).
 
 ## Decisions made by hand
 

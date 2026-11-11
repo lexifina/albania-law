@@ -14,7 +14,15 @@ Kompensimin financiar të pronarëve të pasurive të paluajtshme që preken nga
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-861` (tags `vendim-2022-861/<day>`; `python tools/on.py <day> vendim-2022-861`).
+Act id: `vendim-2022-861` (tags `vendim-2022-861/<day>`; `python registry/tools/on.py <day> vendim-2022-861`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 562, datë 4.10.2023: Për disa ndryshime në vendimet e Këshillit të Ministrave nr. 900, datë 6.12.2012, nr. 543, datë 29.9.2021, nr.50, datë 26.1.2022, nr. 522, datë 29.7.2022, nr. 861, datë 27.12.2022, për kompensimin financiar të pronarëve të pasurive të paluajtshme, që preken nga ndërtimet e legalizuara](https://qbz.gov.al/eli/vendim/2023/10/04/562)
 
 ## Decisions made by hand
 

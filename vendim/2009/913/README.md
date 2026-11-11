@@ -25,7 +25,15 @@ Krijimin e qendrës kombëtare për aplikimet energjetike · 1 versions, from 20
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-913` (tags `vendim-2009-913/<day>`; `python tools/on.py <day> vendim-2009-913`).
+Act id: `vendim-2009-913` (tags `vendim-2009-913/<day>`; `python registry/tools/on.py <day> vendim-2009-913`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 385, datë 19.5.2010: Për një shtesë në vendimin nr.538, datë 26.5.2009 të Këshillit të Ministrave “Për licencat dhe lejet që trajtohen nga apo nëpërmjet Qendrës Kombëtare të Licencimit (QKL) dhe disa rregullime të tjera nënligjore të përbashkëta”, të ndryshuar](https://qbz.gov.al/eli/vendim/2010/05/19/385)
 
 ## Decisions made by hand
 

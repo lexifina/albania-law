@@ -51,7 +51,7 @@ Përcaktimin e rregullave dhe kritereve të detajuara për kushtet teknike, sigu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-280` (tags `vendim-2022-280/<day>`; `python tools/on.py <day> vendim-2022-280`).
+Act id: `vendim-2022-280` (tags `vendim-2022-280/<day>`; `python registry/tools/on.py <day> vendim-2022-280`).
 
 ## Decisions made by hand
 

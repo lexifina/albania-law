@@ -9,7 +9,7 @@ Miratimin e strategjisë ndërsektoriale të luftës kundër terrorizmit, 2011-2
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-675` (tags `vendim-2011-675/<day>`; `python tools/on.py <day> vendim-2011-675`).
+Act id: `vendim-2011-675` (tags `vendim-2011-675/<day>`; `python registry/tools/on.py <day> vendim-2011-675`).
 
 ## Decisions made by hand
 

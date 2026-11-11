@@ -10,7 +10,7 @@ Ngarkimin e përkohshëm në detyrë · 1 versions, from 2020-10-09 (latest in f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1001-299` (tags `urdher-2020-1001-299/<day>`; `python tools/on.py <day> urdher-2020-1001-299`).
+Act id: `urdher-2020-1001-299` (tags `urdher-2020-1001-299/<day>`; `python registry/tools/on.py <day> urdher-2020-1001-299`).
 
 ## Decisions made by hand
 

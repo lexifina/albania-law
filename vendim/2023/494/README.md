@@ -12,7 +12,7 @@ Miratimin e uniformës, shenjave dalluese dhe modelit të dokumentit individual 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-06-24 |
 
-Act id: `vendim-2023-494` (tags `vendim-2023-494/<day>`; `python tools/on.py <day> vendim-2023-494`).
+Act id: `vendim-2023-494` (tags `vendim-2023-494/<day>`; `python registry/tools/on.py <day> vendim-2023-494`).
 
 ## Decisions made by hand
 

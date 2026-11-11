@@ -10,7 +10,7 @@ Ratifikimin e konventës ndërmjet këshillit të ministrave të republikës së
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9938` (tags `ligj-2008-9938/<day>`; `python tools/on.py <day> ligj-2008-9938`).
+Act id: `ligj-2008-9938` (tags `ligj-2008-9938/<day>`; `python registry/tools/on.py <day> ligj-2008-9938`).
 
 ## Decisions made by hand
 

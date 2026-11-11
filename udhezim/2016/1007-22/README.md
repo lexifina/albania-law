@@ -5,7 +5,7 @@ Mbi përcaktimin e masës për përfitimin e pagesës së aftësisë së kufizua
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-1007-22` (tags `udhezim-2016-1007-22/<day>`; `python tools/on.py <day> udhezim-2016-1007-22`).
+Act id: `udhezim-2016-1007-22` (tags `udhezim-2016-1007-22/<day>`; `python registry/tools/on.py <day> udhezim-2016-1007-22`).
 
 ## Decisions made by hand
 

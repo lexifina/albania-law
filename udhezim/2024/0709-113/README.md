@@ -31,7 +31,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kryetar t�
 | Pika 24 | [pika-024.md](pika-024.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0709-113` (tags `udhezim-2024-0709-113/<day>`; `python tools/on.py <day> udhezim-2024-0709-113`).
+Act id: `udhezim-2024-0709-113` (tags `udhezim-2024-0709-113/<day>`; `python registry/tools/on.py <day> udhezim-2024-0709-113`).
 
 ## Decisions made by hand
 

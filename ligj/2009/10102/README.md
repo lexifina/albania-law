@@ -35,7 +35,7 @@ Ratifikimin e “marrëveshjes për statusin e organizatës së traktatit të at
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 
-Act id: `ligji-10102-2009` (tags `ligji-10102-2009/<day>`; `python tools/on.py <day> ligji-10102-2009`).
+Act id: `ligji-10102-2009` (tags `ligji-10102-2009/<day>`; `python registry/tools/on.py <day> ligji-10102-2009`).
 
 ## Decisions made by hand
 

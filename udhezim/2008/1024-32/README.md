@@ -13,7 +13,7 @@ Procedurat e rimbursimit të akcizës së lëndëve djegëse të konsumuara në 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-1024-32` (tags `udhezim-2008-1024-32/<day>`; `python tools/on.py <day> udhezim-2008-1024-32`).
+Act id: `udhezim-2008-1024-32` (tags `udhezim-2008-1024-32/<day>`; `python registry/tools/on.py <day> udhezim-2008-1024-32`).
 
 ## Decisions made by hand
 

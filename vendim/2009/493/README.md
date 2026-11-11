@@ -5,7 +5,7 @@ Miratimin e formës, të përmbajtjes dhe të elementeve të sigurisë së vizë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-493` (tags `vendim-2009-493/<day>`; `python tools/on.py <day> vendim-2009-493`).
+Act id: `vendim-2009-493` (tags `vendim-2009-493/<day>`; `python registry/tools/on.py <day> vendim-2009-493`).
 
 ## Decisions made by hand
 

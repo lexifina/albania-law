@@ -18,7 +18,7 @@ Zbatimin e konventës “Për ndalimin e përdorimit, të magazinimit, të prodh
 | Neni 11 | [neni-011.md](neni-011.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9515` (tags `ligj-2006-9515/<day>`; `python tools/on.py <day> ligj-2006-9515`).
+Act id: `ligj-2006-9515` (tags `ligj-2006-9515/<day>`; `python registry/tools/on.py <day> ligj-2006-9515`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Miratimin e strukturës së vitit shkollor 2023-2024 në sistemin arsimor paraun
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0420-191` (tags `urdher-2023-0420-191/<day>`; `python tools/on.py <day> urdher-2023-0420-191`).
+Act id: `urdher-2023-0420-191` (tags `urdher-2023-0420-191/<day>`; `python registry/tools/on.py <day> urdher-2023-0420-191`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Kalimin në përgjegjësi administrimi, nga ish-Inspektorati i Këshillit të La
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-506` (tags `vendim-2020-506/<day>`; `python tools/on.py <day> vendim-2020-506`).
+Act id: `vendim-2020-506` (tags `vendim-2020-506/<day>`; `python registry/tools/on.py <day> vendim-2020-506`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Organizimin dhe zhvillimin e provimeve kombëtare të maturës shtetërore 2019 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0214-3` (tags `udhezim-2018-0214-3/<day>`; `python tools/on.py <day> udhezim-2018-0214-3`).
+Act id: `udhezim-2018-0214-3` (tags `udhezim-2018-0214-3/<day>`; `python registry/tools/on.py <day> udhezim-2018-0214-3`).
 
 ## Decisions made by hand
 

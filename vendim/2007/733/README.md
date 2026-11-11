@@ -9,7 +9,7 @@ Miratimin e marrëveshjes, ndërmjet këshillit të ministrave të republikës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-733` (tags `vendim-2007-733/<day>`; `python tools/on.py <day> vendim-2007-733`).
+Act id: `vendim-2007-733` (tags `vendim-2007-733/<day>`; `python registry/tools/on.py <day> vendim-2007-733`).
 
 ## Decisions made by hand
 

@@ -49,7 +49,7 @@ Kriteret dhe procedurat e kualifikimit të punojësve arsimor · 3 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2025-02-28 |
 
-Act id: `udhezim-2024-0722-17` (tags `udhezim-2024-0722-17/<day>`; `python tools/on.py <day> udhezim-2024-0722-17`).
+Act id: `udhezim-2024-0722-17` (tags `udhezim-2024-0722-17/<day>`; `python registry/tools/on.py <day> udhezim-2024-0722-17`).
 
 ## Decisions made by hand
 

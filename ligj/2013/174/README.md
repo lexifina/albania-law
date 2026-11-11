@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes së ndihmës për objektiva zhvillimi ndërmjet Kës
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2013-174` (tags `ligj-2013-174/<day>`; `python tools/on.py <day> ligj-2013-174`).
+Act id: `ligj-2013-174` (tags `ligj-2013-174/<day>`; `python registry/tools/on.py <day> ligj-2013-174`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 63/2017: Për ratifikimin e ndryshimit nr. 7, të marrëveshjes së ndihmës për objektiva zhvillimi, ndërmjet këshillit të ministrave të republikës së shqipërisë dhe qeverisë së shteteve të bashkuara të amerikës për forcimin e shtetit të së drejtës, qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë, të qëndrueshme dhe gjithëpërfshirëse, ratifikuar me ligjin nr. 174/2013](https://qbz.gov.al/eli/ligj/2017/04/20/63-2017)
 
 ## Decisions made by hand
 

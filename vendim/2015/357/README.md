@@ -5,7 +5,7 @@ Kalimin në përdorim, pa shpërblim, Drejtorisë së Përgjithshme të arkivave
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-357` (tags `vendim-2015-357/<day>`; `python tools/on.py <day> vendim-2015-357`).
+Act id: `vendim-2015-357` (tags `vendim-2015-357/<day>`; `python registry/tools/on.py <day> vendim-2015-357`).
 
 ## Decisions made by hand
 

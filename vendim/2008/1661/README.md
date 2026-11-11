@@ -35,7 +35,15 @@ Financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1661` (tags `vendim-2008-1661/<day>`; `python tools/on.py <day> vendim-2008-1661`).
+Act id: `vendim-2008-1661` (tags `vendim-2008-1661/<day>`; `python registry/tools/on.py <day> vendim-2008-1661`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 210, datë 25.2.2009: Për një ndryshim në vendimin nr.1661, datë 29.12.2008 të këshillit të ministrave “për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor”](https://qbz.gov.al/eli/vendim/2009/02/25/210)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Dhënie pensioni të posaçëm familjarëve në ngarkim të të ndjerit andrea s
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-377` (tags `vendim-2017-377/<day>`; `python tools/on.py <day> vendim-2017-377`).
+Act id: `vendim-2017-377` (tags `vendim-2017-377/<day>`; `python registry/tools/on.py <day> vendim-2017-377`).
 
 ## Decisions made by hand
 

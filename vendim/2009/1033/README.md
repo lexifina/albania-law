@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr.151, datë 25.4.2002 të këshillit të ministrav
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1033` (tags `vendim-2009-1033/<day>`; `python tools/on.py <day> vendim-2009-1033`).
+Act id: `vendim-2009-1033` (tags `vendim-2009-1033/<day>`; `python registry/tools/on.py <day> vendim-2009-1033`).
 
 ## Decisions made by hand
 

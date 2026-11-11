@@ -28,7 +28,7 @@ Rregullat për masat e veçanta të kontrollit për çrrënjosjen dhe parandalim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-03-03 |
 
-Act id: `udhezim-2024-0718-21` (tags `udhezim-2024-0718-21/<day>`; `python tools/on.py <day> udhezim-2024-0718-21`).
+Act id: `udhezim-2024-0718-21` (tags `udhezim-2024-0718-21/<day>`; `python registry/tools/on.py <day> udhezim-2024-0718-21`).
 
 ## Decisions made by hand
 

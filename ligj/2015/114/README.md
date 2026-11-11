@@ -45,7 +45,7 @@ Auditimin e brendshëm në sektorin publik · 2 versions, from 2015-11-28 (lates
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-114` (tags `ligj-2015-114/<day>`; `python tools/on.py <day> ligj-2015-114`).
+Act id: `ligj-2015-114` (tags `ligj-2015-114/<day>`; `python registry/tools/on.py <day> ligj-2015-114`).
 
 ## Decisions made by hand
 

@@ -20,7 +20,7 @@ Mbi ushqimin për foshnjat dhe fëmijet e vegjel, ushqimin për qëllime të ve�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-1122-20` (tags `udhezim-2021-1122-20/<day>`; `python tools/on.py <day> udhezim-2021-1122-20`).
+Act id: `udhezim-2021-1122-20` (tags `udhezim-2021-1122-20/<day>`; `python registry/tools/on.py <day> udhezim-2021-1122-20`).
 
 ## Decisions made by hand
 

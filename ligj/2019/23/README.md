@@ -8,7 +8,16 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 1, datë 20.3.2019, të Kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-23` (tags `ligj-2019-23/<day>`; `python tools/on.py <day> ligj-2019-23`).
+Act id: `ligj-2019-23` (tags `ligj-2019-23/<day>`; `python registry/tools/on.py <day> ligj-2019-23`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Akti normativ nr. 3, datë 21.6.2023: Për disa ndryshime në aktin normativ nr. 1, datë 20.3.2019, të Këshillit të Ministrave, “Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në misionin e Kombeve të Bashkuara në Sudanin e Jugut (UNMISS)”, miratuar me ligjin nr. 23/2019](https://qbz.gov.al/eli/akt-normativ/2023/06/21/3)
+- [Ligji nr. 58/2023: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 3, datë 21.6.2023, ”Për disa ndryshime në aktin normativ nr. 1, datë 20.3.2019, të Këshillit të Ministrave ”Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në misionin e Kombeve të Bashkuara në Sudanin e Jugut (UNMISS)”, miratuar me ligjin nr. 23/2019””](https://qbz.gov.al/eli/ligj/2023/07/21/58-2023)
 
 ## Decisions made by hand
 

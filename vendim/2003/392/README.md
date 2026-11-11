@@ -5,7 +5,7 @@ Miratimin e statutit të agjencisë së nxitjes së eksporteve (ane) · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-392` (tags `vendim-2003-392/<day>`; `python tools/on.py <day> vendim-2003-392`).
+Act id: `vendim-2003-392` (tags `vendim-2003-392/<day>`; `python registry/tools/on.py <day> vendim-2003-392`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Marrjen e masave për ngritjen e infrastrukturës për shërbimin e karantinës 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-204` (tags `vendim-2020-204/<day>`; `python tools/on.py <day> vendim-2020-204`).
+Act id: `vendim-2020-204` (tags `vendim-2020-204/<day>`; `python registry/tools/on.py <day> vendim-2020-204`).
 
 ## Decisions made by hand
 

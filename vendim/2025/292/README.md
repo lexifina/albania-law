@@ -16,7 +16,7 @@ Përcaktimin e procedurave, të mënyrës dhe të rregullave për rikthimin e us
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-292` (tags `vendim-2025-292/<day>`; `python tools/on.py <day> vendim-2025-292`).
+Act id: `vendim-2025-292` (tags `vendim-2025-292/<day>`; `python registry/tools/on.py <day> vendim-2025-292`).
 
 ## Decisions made by hand
 

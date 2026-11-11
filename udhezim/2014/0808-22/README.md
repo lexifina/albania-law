@@ -11,7 +11,7 @@ Strukturën e vitit akademik 2014-2015 në institucionet publike dhe private të
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0808-22` (tags `udhezim-2014-0808-22/<day>`; `python tools/on.py <day> udhezim-2014-0808-22`).
+Act id: `udhezim-2014-0808-22` (tags `udhezim-2014-0808-22/<day>`; `python registry/tools/on.py <day> udhezim-2014-0808-22`).
 
 ## Decisions made by hand
 

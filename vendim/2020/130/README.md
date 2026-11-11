@@ -5,7 +5,7 @@ Shpalljen e zonës së re për zhvillim, në Njësinë Administrative Durrës, B
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-130` (tags `vendim-2020-130/<day>`; `python tools/on.py <day> vendim-2020-130`).
+Act id: `vendim-2020-130` (tags `vendim-2020-130/<day>`; `python registry/tools/on.py <day> vendim-2020-130`).
 
 ## Decisions made by hand
 

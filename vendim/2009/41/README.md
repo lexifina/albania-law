@@ -9,7 +9,7 @@ Miratimin e dhënies së lejes së koncesionit “Armo” sha, Tiranë, për pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2010-07-28 |
 
-Act id: `vendim-2009-41` (tags `vendim-2009-41/<day>`; `python tools/on.py <day> vendim-2009-41`).
+Act id: `vendim-2009-41` (tags `vendim-2009-41/<day>`; `python registry/tools/on.py <day> vendim-2009-41`).
 
 ## Decisions made by hand
 

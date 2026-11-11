@@ -130,7 +130,7 @@ Shoqëritë e kursim-kreditit dhe unionet e tyre · 1 versions, from 2016-05-19 
 | Neni 111 | [neni-111.md](neni-111.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-52-2016` (tags `ligji-52-2016/<day>`; `python tools/on.py <day> ligji-52-2016`).
+Act id: `ligji-52-2016` (tags `ligji-52-2016/<day>`; `python registry/tools/on.py <day> ligji-52-2016`).
 
 ## Decisions made by hand
 

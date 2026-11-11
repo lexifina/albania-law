@@ -24,7 +24,7 @@ Ngritjen e autoritetit përgjegjës për identifikimin, referimin, mbrojtjen dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0908-132` (tags `udhezim-2023-0908-132/<day>`; `python tools/on.py <day> udhezim-2023-0908-132`).
+Act id: `udhezim-2023-0908-132` (tags `udhezim-2023-0908-132/<day>`; `python registry/tools/on.py <day> udhezim-2023-0908-132`).
 
 ## Decisions made by hand
 

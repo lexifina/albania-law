@@ -10,7 +10,7 @@ Miratimin e formatit të dokumentit të identifikimit të detarit (pasaportë de
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0913-171` (tags `urdher-2022-0913-171/<day>`; `python tools/on.py <day> urdher-2022-0913-171`).
+Act id: `urdher-2022-0913-171` (tags `urdher-2022-0913-171/<day>`; `python registry/tools/on.py <day> urdher-2022-0913-171`).
 
 ## Decisions made by hand
 

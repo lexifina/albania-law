@@ -25,7 +25,7 @@ Përcaktimin e rregullave të hollësishme për të dhënat që përmban Regjist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0504-183` (tags `urdher-2022-0504-183/<day>`; `python tools/on.py <day> urdher-2022-0504-183`).
+Act id: `urdher-2022-0504-183` (tags `urdher-2022-0504-183/<day>`; `python registry/tools/on.py <day> urdher-2022-0504-183`).
 
 ## Decisions made by hand
 

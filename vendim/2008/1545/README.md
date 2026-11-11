@@ -10,7 +10,7 @@ Shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të k
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1545` (tags `vendim-2008-1545/<day>`; `python tools/on.py <day> vendim-2008-1545`).
+Act id: `vendim-2008-1545` (tags `vendim-2008-1545/<day>`; `python registry/tools/on.py <day> vendim-2008-1545`).
 
 ## Decisions made by hand
 

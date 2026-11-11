@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e Akademisë së Sigurisë · 2 versions, from 2015
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-185` (tags `vendim-2015-185/<day>`; `python tools/on.py <day> vendim-2015-185`).
+Act id: `vendim-2015-185` (tags `vendim-2015-185/<day>`; `python registry/tools/on.py <day> vendim-2015-185`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr. 2365, datë 26.11.2008, “mbi zbat
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0111-47` (tags `udhezim-2018-0111-47/<day>`; `python tools/on.py <day> udhezim-2018-0111-47`).
+Act id: `udhezim-2018-0111-47` (tags `udhezim-2018-0111-47/<day>`; `python registry/tools/on.py <day> udhezim-2018-0111-47`).
 
 ## Decisions made by hand
 

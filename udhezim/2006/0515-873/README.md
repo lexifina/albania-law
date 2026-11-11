@@ -21,7 +21,7 @@ Procedurat e pastrimit të dublimeve në regjistrat themeltarë të identifikuar
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2006-0515-873` (tags `udhezim-2006-0515-873/<day>`; `python tools/on.py <day> udhezim-2006-0515-873`).
+Act id: `udhezim-2006-0515-873` (tags `udhezim-2006-0515-873/<day>`; `python registry/tools/on.py <day> udhezim-2006-0515-873`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores “për procedurat dhe kriteret që do të zbatohen për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2005-0204-39` (tags `urdher-2005-0204-39/<day>`; `python tools/on.py <day> urdher-2005-0204-39`).
+Act id: `urdher-2005-0204-39` (tags `urdher-2005-0204-39/<day>`; `python registry/tools/on.py <day> urdher-2005-0204-39`).
 
 ## Decisions made by hand
 

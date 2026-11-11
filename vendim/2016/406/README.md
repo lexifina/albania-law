@@ -19,7 +19,7 @@ Marrjen në përdorim të përkohshëm dhe vendosjen e servitutit për interes p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-12-15 |
 
-Act id: `vendim-2016-406` (tags `vendim-2016-406/<day>`; `python tools/on.py <day> vendim-2016-406`).
+Act id: `vendim-2016-406` (tags `vendim-2016-406/<day>`; `python registry/tools/on.py <day> vendim-2016-406`).
 
 ## Decisions made by hand
 

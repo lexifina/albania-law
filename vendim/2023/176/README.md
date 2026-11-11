@@ -11,7 +11,7 @@ Mbulimin e pjesshëm të shpenzimeve të mjekimit të z. Klement Zguri · 1 vers
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-176` (tags `vendim-2023-176/<day>`; `python tools/on.py <day> vendim-2023-176`).
+Act id: `vendim-2023-176` (tags `vendim-2023-176/<day>`; `python registry/tools/on.py <day> vendim-2023-176`).
 
 ## Decisions made by hand
 

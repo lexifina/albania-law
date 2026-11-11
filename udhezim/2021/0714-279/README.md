@@ -23,7 +23,7 @@ Rregullat dhe mënyrat e zbatimit të sanksioneve administrative për mjetet lin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0714-279` (tags `udhezim-2021-0714-279/<day>`; `python tools/on.py <day> udhezim-2021-0714-279`).
+Act id: `udhezim-2021-0714-279` (tags `udhezim-2021-0714-279/<day>`; `python registry/tools/on.py <day> udhezim-2021-0714-279`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Ndryshime të kushteve të lidhjes së kontratave të shitjes, për apartamentet
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-246` (tags `vendim-2000-246/<day>`; `python tools/on.py <day> vendim-2000-246`).
+Act id: `vendim-2000-246` (tags `vendim-2000-246/<day>`; `python registry/tools/on.py <day> vendim-2000-246`).
 
 ## Decisions made by hand
 

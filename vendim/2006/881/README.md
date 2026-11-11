@@ -5,7 +5,7 @@ Përcaktimin e kritereve për funksionet drejtuese dhe për strukturën e nivele
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-881` (tags `vendim-2006-881/<day>`; `python tools/on.py <day> vendim-2006-881`).
+Act id: `vendim-2006-881` (tags `vendim-2006-881/<day>`; `python registry/tools/on.py <day> vendim-2006-881`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,11 @@ Kalimin në përgjegjësi administrimi, nga Ministria e Mbrojtjes te Ministria e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-670` (tags `vendim-2013-670/<day>`; `python tools/on.py <day> vendim-2013-670`).
+Act id: `vendim-2013-670` (tags `vendim-2013-670/<day>`; `python registry/tools/on.py <day> vendim-2013-670`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

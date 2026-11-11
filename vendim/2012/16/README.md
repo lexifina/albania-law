@@ -15,7 +15,7 @@ Të drejtën e publikut për të pasur informacion mjedisor · 1 versions, from 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-16` (tags `vendim-2012-16/<day>`; `python tools/on.py <day> vendim-2012-16`).
+Act id: `vendim-2012-16` (tags `vendim-2012-16/<day>`; `python registry/tools/on.py <day> vendim-2012-16`).
 
 ## Decisions made by hand
 

@@ -43,7 +43,7 @@ Sigurinë në tunelet rrugore · 1 versions, from 2013-11-13 (latest in force: 2
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-158-2013` (tags `ligji-158-2013/<day>`; `python tools/on.py <day> ligji-158-2013`).
+Act id: `ligji-158-2013` (tags `ligji-158-2013/<day>`; `python registry/tools/on.py <day> ligji-158-2013`).
 
 ## Decisions made by hand
 

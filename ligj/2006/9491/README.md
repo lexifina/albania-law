@@ -10,7 +10,7 @@ Një ndryshim në ligjin nr.7512, datë 10.8.1991 “Për sanksionimin dhe mbroj
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9491` (tags `ligj-2006-9491/<day>`; `python tools/on.py <day> ligj-2006-9491`).
+Act id: `ligj-2006-9491` (tags `ligj-2006-9491/<day>`; `python registry/tools/on.py <day> ligj-2006-9491`).
 
 ## Decisions made by hand
 

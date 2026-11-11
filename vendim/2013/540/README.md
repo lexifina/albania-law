@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-540` (tags `vendim-2013-540/<day>`; `python tools/on.py <day> vendim-2013-540`).
+Act id: `vendim-2013-540` (tags `vendim-2013-540/<day>`; `python registry/tools/on.py <day> vendim-2013-540`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendim nr. 461, datë 25.10.2022 (Ministria e Infrastrukturës dhe Energjisë): Për disa shtesa në vendimin nr. 540, datë 13.6.2013 të Këshillit të Ministrave, “Për Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, kultura bujqësore, drurë frutorë dhe drurë dekorativë, që preken nga realizimi i projektit “Ndërtimi i segmentit rrugor Tiranë-Elbasan (loti I + loti III)”](https://qbz.gov.al/eli/vendim/2022/10/25/461-7)
 
 ## Decisions made by hand
 

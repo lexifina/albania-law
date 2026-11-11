@@ -11,7 +11,7 @@ Mbulimin e detyrimeve të shtetit ndaj bankës së kursimeve sh.a. dhe rikapital
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8726` (tags `ligj-2000-8726/<day>`; `python tools/on.py <day> ligj-2000-8726`).
+Act id: `ligj-2000-8726` (tags `ligj-2000-8726/<day>`; `python registry/tools/on.py <day> ligj-2000-8726`).
 
 ## Decisions made by hand
 

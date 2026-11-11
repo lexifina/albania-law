@@ -9,7 +9,7 @@ PËR MIRATIMIN E PROCEDURAVE TË PRIVATIZIMIT DHE Të TERMAVE TË KONTRATËS SË
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2003-10-03 |
 
-Act id: `vendim-2001-452` (tags `vendim-2001-452/<day>`; `python tools/on.py <day> vendim-2001-452`).
+Act id: `vendim-2001-452` (tags `vendim-2001-452/<day>`; `python registry/tools/on.py <day> vendim-2001-452`).
 
 ## Decisions made by hand
 

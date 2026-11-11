@@ -14,7 +14,7 @@ Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, “Ud
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0224-66` (tags `urdher-2020-0224-66/<day>`; `python tools/on.py <day> urdher-2020-0224-66`).
+Act id: `urdher-2020-0224-66` (tags `urdher-2020-0224-66/<day>`; `python registry/tools/on.py <day> urdher-2020-0224-66`).
 
 ## Decisions made by hand
 

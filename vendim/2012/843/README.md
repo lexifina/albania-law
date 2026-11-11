@@ -5,7 +5,7 @@ Krijimin e shtëpisë botuese të teksteve mësimore (botem) · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-843` (tags `vendim-2012-843/<day>`; `python tools/on.py <day> vendim-2012-843`).
+Act id: `vendim-2012-843` (tags `vendim-2012-843/<day>`; `python registry/tools/on.py <day> vendim-2012-843`).
 
 ## Decisions made by hand
 

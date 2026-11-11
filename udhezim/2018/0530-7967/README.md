@@ -5,7 +5,7 @@ Mbi kufizimet në qarkullimin e mjeteve të rënda për transportin rrugor të m
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2018-0530-7967` (tags `udhezim-2018-0530-7967/<day>`; `python tools/on.py <day> udhezim-2018-0530-7967`).
+Act id: `udhezim-2018-0530-7967` (tags `udhezim-2018-0530-7967/<day>`; `python registry/tools/on.py <day> udhezim-2018-0530-7967`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Hapjen e kutive të votimit dhe administrimin e dokumentacionit të saj · 1 ver
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2002-0207-2` (tags `udhezim-2002-0207-2/<day>`; `python tools/on.py <day> udhezim-2002-0207-2`).
+Act id: `udhezim-2002-0207-2` (tags `udhezim-2002-0207-2/<day>`; `python registry/tools/on.py <day> udhezim-2002-0207-2`).
 
 ## Decisions made by hand
 

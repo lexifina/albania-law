@@ -17,7 +17,7 @@ Miratimin e formës dhe të përmbajtjes së kartës së identifikimit, për ins
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0608-170` (tags `urdher-2020-0608-170/<day>`; `python tools/on.py <day> urdher-2020-0608-170`).
+Act id: `urdher-2020-0608-170` (tags `urdher-2020-0608-170/<day>`; `python registry/tools/on.py <day> urdher-2020-0608-170`).
 
 ## Decisions made by hand
 

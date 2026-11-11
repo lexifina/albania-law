@@ -11,7 +11,7 @@ Miratimin e dokumentit ”Standardet shtetërore të GIS-it kombëtar” · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-547` (tags `vendim-2023-547/<day>`; `python tools/on.py <day> vendim-2023-547`).
+Act id: `vendim-2023-547` (tags `vendim-2023-547/<day>`; `python registry/tools/on.py <day> vendim-2023-547`).
 
 ## Decisions made by hand
 

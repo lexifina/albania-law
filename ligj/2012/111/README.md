@@ -5,7 +5,7 @@ Menaxhimin e integruar të burimeve ujore · 2 versions, from 2018-03-22 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-111` (tags `ligj-2012-111/<day>`; `python tools/on.py <day> ligj-2012-111`).
+Act id: `ligj-2012-111` (tags `ligj-2012-111/<day>`; `python registry/tools/on.py <day> ligj-2012-111`).
 
 ## Decisions made by hand
 

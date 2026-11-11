@@ -9,7 +9,7 @@ Miratimin e formatit për mbledhjen dhe përpunimin e të dhënave statistikore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-1031-8707` (tags `urdher-2016-1031-8707/<day>`; `python tools/on.py <day> urdher-2016-1031-8707`).
+Act id: `urdher-2016-1031-8707` (tags `urdher-2016-1031-8707/<day>`; `python registry/tools/on.py <day> urdher-2016-1031-8707`).
 
 ## Decisions made by hand
 

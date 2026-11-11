@@ -5,7 +5,7 @@ Miratimin e rregullave të inspektimit karantinor fitosanitar · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-72` (tags `vendim-2003-72/<day>`; `python tools/on.py <day> vendim-2003-72`).
+Act id: `vendim-2003-72` (tags `vendim-2003-72/<day>`; `python registry/tools/on.py <day> vendim-2003-72`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e Konvetës Ndërkombëtare për Shtypjen e Akteve të Terrorizmit B
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-53-2023` (tags `ligji-53-2023/<day>`; `python tools/on.py <day> ligji-53-2023`).
+Act id: `ligji-53-2023` (tags `ligji-53-2023/<day>`; `python registry/tools/on.py <day> ligji-53-2023`).
 
 ## Decisions made by hand
 

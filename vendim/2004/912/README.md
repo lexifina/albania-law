@@ -11,7 +11,7 @@ Një shtesë në buxhetin e vitit 2004, miratuar për ministrinë e mbrojtjes ·
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-912` (tags `vendim-2004-912/<day>`; `python tools/on.py <day> vendim-2004-912`).
+Act id: `vendim-2004-912` (tags `vendim-2004-912/<day>`; `python registry/tools/on.py <day> vendim-2004-912`).
 
 ## Decisions made by hand
 

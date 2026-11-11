@@ -5,7 +5,7 @@ Përcaktimin e kritereve të vlerësimit, të mënyrave dhe të procedurave të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-632` (tags `vendim-2010-632/<day>`; `python tools/on.py <day> vendim-2010-632`).
+Act id: `vendim-2010-632` (tags `vendim-2010-632/<day>`; `python registry/tools/on.py <day> vendim-2010-632`).
 
 ## Decisions made by hand
 

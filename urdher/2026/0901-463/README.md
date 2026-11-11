@@ -11,7 +11,7 @@ Miratimin e formatit të aplikimit për akses dhe informacion në burimet gjenet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0901-463` (tags `urdher-2026-0901-463/<day>`; `python tools/on.py <day> urdher-2026-0901-463`).
+Act id: `urdher-2026-0901-463` (tags `urdher-2026-0901-463/<day>`; `python registry/tools/on.py <day> urdher-2026-0901-463`).
 
 ## Decisions made by hand
 

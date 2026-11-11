@@ -10,7 +10,7 @@ Përcaktimin e masës së pagesës për anëtarët e Komisionit të Licencave p�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-310` (tags `vendim-2024-310/<day>`; `python tools/on.py <day> vendim-2024-310`).
+Act id: `vendim-2024-310` (tags `vendim-2024-310/<day>`; `python registry/tools/on.py <day> vendim-2024-310`).
 
 ## Decisions made by hand
 

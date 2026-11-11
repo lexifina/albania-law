@@ -12,7 +12,15 @@ Delegim kompetencash · 1 versions, from 2021-01-28 (latest in force: 2021-01-28
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0121-2` (tags `urdher-2021-0121-2/<day>`; `python tools/on.py <day> urdher-2021-0121-2`).
+Act id: `urdher-2021-0121-2` (tags `urdher-2021-0121-2/<day>`; `python registry/tools/on.py <day> urdher-2021-0121-2`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 311, datë 29.6.2022 (Kryeministri) [QBZ 61867]: Për shfuqizim të urdhrit nr. 2, datë 21.1.2021 “Për delegim kompetencash”](https://qbz.gov.al/eli/urdher/2022/06/29/311)
 
 ## Decisions made by hand
 

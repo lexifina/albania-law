@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes financiare ndërmjet këshillit të të republik�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10333-2010` (tags `ligji-10333-2010/<day>`; `python tools/on.py <day> ligji-10333-2010`).
+Act id: `ligji-10333-2010` (tags `ligji-10333-2010/<day>`; `python registry/tools/on.py <day> ligji-10333-2010`).
 
 ## Decisions made by hand
 

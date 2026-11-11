@@ -11,7 +11,7 @@ Përfundimin e vitit shkollor 2010-2011 dhe për zhvillimin e provimeve të liri
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0201-6` (tags `udhezim-2011-0201-6/<day>`; `python tools/on.py <day> udhezim-2011-0201-6`).
+Act id: `udhezim-2011-0201-6` (tags `udhezim-2011-0201-6/<day>`; `python registry/tools/on.py <day> udhezim-2011-0201-6`).
 
 ## Decisions made by hand
 

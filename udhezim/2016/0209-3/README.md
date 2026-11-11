@@ -15,7 +15,7 @@ Mbi mënyrën e organizmit dhe realizimit të procedurave të përqendruara të 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0209-3` (tags `udhezim-2016-0209-3/<day>`; `python tools/on.py <day> udhezim-2016-0209-3`).
+Act id: `udhezim-2016-0209-3` (tags `udhezim-2016-0209-3/<day>`; `python registry/tools/on.py <day> udhezim-2016-0209-3`).
 
 ## Decisions made by hand
 

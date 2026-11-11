@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. Mark Marku · 1 versions, from 2022-0
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-282` (tags `vendim-2022-282/<day>`; `python tools/on.py <day> vendim-2022-282`).
+Act id: `vendim-2022-282` (tags `vendim-2022-282/<day>`; `python registry/tools/on.py <day> vendim-2022-282`).
 
 ## Decisions made by hand
 

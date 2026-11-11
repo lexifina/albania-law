@@ -18,7 +18,7 @@ Përcaktimin e detyrave të zëvendësministrit të Drejtësisë z.Tedi Dobi · 
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0330-183` (tags `urdher-2026-0330-183/<day>`; `python tools/on.py <day> urdher-2026-0330-183`).
+Act id: `urdher-2026-0330-183` (tags `urdher-2026-0330-183/<day>`; `python registry/tools/on.py <day> urdher-2026-0330-183`).
 
 ## Decisions made by hand
 

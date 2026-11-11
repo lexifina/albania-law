@@ -9,7 +9,7 @@ Miratimin e procedurave e të rregullave për kandidimin dhe përzgjedhjen e an�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-768` (tags `vendim-2009-768/<day>`; `python tools/on.py <day> vendim-2009-768`).
+Act id: `vendim-2009-768` (tags `vendim-2009-768/<day>`; `python registry/tools/on.py <day> vendim-2009-768`).
 
 ## Decisions made by hand
 

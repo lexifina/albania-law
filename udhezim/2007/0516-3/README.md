@@ -5,7 +5,7 @@ Procedurat e dhënies me qira të tokave bujqësore, të pandara · 2 versions, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0516-3` (tags `udhezim-2007-0516-3/<day>`; `python tools/on.py <day> udhezim-2007-0516-3`).
+Act id: `udhezim-2007-0516-3` (tags `udhezim-2007-0516-3/<day>`; `python registry/tools/on.py <day> udhezim-2007-0516-3`).
 
 ## Decisions made by hand
 

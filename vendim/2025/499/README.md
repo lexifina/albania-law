@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes së grantit, ndërmjet Republikës së Shqipëri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-499` (tags `vendim-2025-499/<day>`; `python tools/on.py <day> vendim-2025-499`).
+Act id: `vendim-2025-499` (tags `vendim-2025-499/<day>`; `python registry/tools/on.py <day> vendim-2025-499`).
 
 ## Decisions made by hand
 

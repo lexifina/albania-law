@@ -16,7 +16,7 @@ Lejimin e kalimit tranzit të pesë autokolonave ushtarake italiane, përmes ter
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-372` (tags `vendim-2009-372/<day>`; `python tools/on.py <day> vendim-2009-372`).
+Act id: `vendim-2009-372` (tags `vendim-2009-372/<day>`; `python registry/tools/on.py <day> vendim-2009-372`).
 
 ## Decisions made by hand
 

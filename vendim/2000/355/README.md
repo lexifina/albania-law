@@ -16,7 +16,7 @@ Organizimin e dosjes së regjistrit të personelit · 1 versions, from 2000-09-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-355` (tags `vendim-2000-355/<day>`; `python tools/on.py <day> vendim-2000-355`).
+Act id: `vendim-2000-355` (tags `vendim-2000-355/<day>`; `python registry/tools/on.py <day> vendim-2000-355`).
 
 ## Decisions made by hand
 

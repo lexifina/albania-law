@@ -12,7 +12,7 @@ Heqjen nga fondi pyjor dhe kullosor të sipërfaqeve të disa ngastrave të ekon
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-505` (tags `vendim-2009-505/<day>`; `python tools/on.py <day> vendim-2009-505`).
+Act id: `vendim-2009-505` (tags `vendim-2009-505/<day>`; `python registry/tools/on.py <day> vendim-2009-505`).
 
 ## Decisions made by hand
 

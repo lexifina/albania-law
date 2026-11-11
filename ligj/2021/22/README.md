@@ -10,7 +10,7 @@ Miratimin e shtesës së kontratës ’’Për prodhimin dhe shpërndarjen e kar
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2021-22` (tags `ligj-2021-22/<day>`; `python tools/on.py <day> ligj-2021-22`).
+Act id: `ligj-2021-22` (tags `ligj-2021-22/<day>`; `python registry/tools/on.py <day> ligj-2021-22`).
 
 ## Decisions made by hand
 

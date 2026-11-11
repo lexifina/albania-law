@@ -5,7 +5,7 @@ Prodhimin, transportimin dhe tregtimin e biokarburanteve dhe të lëndëve të t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9876` (tags `ligj-2008-9876/<day>`; `python tools/on.py <day> ligj-2008-9876`).
+Act id: `ligj-2008-9876` (tags `ligj-2008-9876/<day>`; `python registry/tools/on.py <day> ligj-2008-9876`).
 
 ## Decisions made by hand
 

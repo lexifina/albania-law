@@ -5,7 +5,7 @@ Medaljet në Forcat e Armatosura të Republikës së Shqipërisë · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2015-9` (tags `ligj-2015-9/<day>`; `python tools/on.py <day> ligj-2015-9`).
+Act id: `ligj-2015-9` (tags `ligj-2015-9/<day>`; `python registry/tools/on.py <day> ligj-2015-9`).
 
 ## Decisions made by hand
 

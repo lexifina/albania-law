@@ -62,7 +62,7 @@ Bujqësinë dhe zhvillimin rural · 1 versions, from 2007-11-21 (latest in force
 | Neni 44 | [neni-044.md](neni-044.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9817-2007` (tags `ligji-9817-2007/<day>`; `python tools/on.py <day> ligji-9817-2007`).
+Act id: `ligji-9817-2007` (tags `ligji-9817-2007/<day>`; `python registry/tools/on.py <day> ligji-9817-2007`).
 
 ## Decisions made by hand
 

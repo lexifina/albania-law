@@ -5,7 +5,7 @@ Procedurat dhe çmimet e dhënies me qira të sipërfaqeve ujore, për ushtrimin
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-135` (tags `vendim-2006-135/<day>`; `python tools/on.py <day> vendim-2006-135`).
+Act id: `vendim-2006-135` (tags `vendim-2006-135/<day>`; `python registry/tools/on.py <day> vendim-2006-135`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Mënyrën e funksionimit të komisioneve këshillimore për vlerësimin dhe iden
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2023-1023-666` (tags `udhezim-2023-1023-666/<day>`; `python tools/on.py <day> udhezim-2023-1023-666`).
+Act id: `udhezim-2023-1023-666` (tags `udhezim-2023-1023-666/<day>`; `python registry/tools/on.py <day> udhezim-2023-1023-666`).
 
 ## Decisions made by hand
 

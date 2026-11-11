@@ -5,7 +5,7 @@ Dhënien në përdorim Agjencisë për Mbështetjen e Shoqërisë Civile të dis
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-223` (tags `vendim-2010-223/<day>`; `python tools/on.py <day> vendim-2010-223`).
+Act id: `vendim-2010-223` (tags `vendim-2010-223/<day>`; `python registry/tools/on.py <day> vendim-2010-223`).
 
 ## Decisions made by hand
 

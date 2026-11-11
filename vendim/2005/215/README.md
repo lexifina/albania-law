@@ -12,7 +12,7 @@ Një shtesë në numrin e punonjësve të ministrisë së drejtësisë dhe për 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-215` (tags `vendim-2005-215/<day>`; `python tools/on.py <day> vendim-2005-215`).
+Act id: `vendim-2005-215` (tags `vendim-2005-215/<day>`; `python registry/tools/on.py <day> vendim-2005-215`).
 
 ## Decisions made by hand
 

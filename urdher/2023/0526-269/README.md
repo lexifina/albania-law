@@ -11,7 +11,7 @@ Delegimin e kompetencave të Drejtorit të Përgjithshëm · 1 versions, from 20
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0526-269` (tags `urdher-2023-0526-269/<day>`; `python tools/on.py <day> urdher-2023-0526-269`).
+Act id: `urdher-2023-0526-269` (tags `urdher-2023-0526-269/<day>`; `python registry/tools/on.py <day> urdher-2023-0526-269`).
 
 ## Decisions made by hand
 

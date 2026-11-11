@@ -17,7 +17,15 @@ Miratimin e procedurave, tarifave dhe masën e mbulimit të shërbimeve ekzaminu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-383` (tags `vendim-2004-383/<day>`; `python tools/on.py <day> vendim-2004-383`).
+Act id: `vendim-2004-383` (tags `vendim-2004-383/<day>`; `python registry/tools/on.py <day> vendim-2004-383`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 592, datë 18.8.2011: Për disa shtesa dhe ndryshime në vendimin nr.383, datë 19.6.2004 të Këshillit të Ministrave “Për miratimin e procedurave, tarifave dhe masën e mbulimit të shërbimeve ekzaminuese unikale, terciare, të përfshira në sigurimin shëndetësor”](https://qbz.gov.al/eli/vendim/2011/08/18/592)
 
 ## Decisions made by hand
 

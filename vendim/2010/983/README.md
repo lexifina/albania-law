@@ -5,7 +5,7 @@ Përcaktimin e kompetencave të institutit të monumenteve të kulturës ”gani
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-983` (tags `vendim-2010-983/<day>`; `python tools/on.py <day> vendim-2010-983`).
+Act id: `vendim-2010-983` (tags `vendim-2010-983/<day>`; `python registry/tools/on.py <day> vendim-2010-983`).
 
 ## Decisions made by hand
 

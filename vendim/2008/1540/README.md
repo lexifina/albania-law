@@ -9,7 +9,7 @@ Shtyrjen e afatit të kryerjes së procedurave të prokurimit për zyrën e prok
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1540` (tags `vendim-2008-1540/<day>`; `python tools/on.py <day> vendim-2008-1540`).
+Act id: `vendim-2008-1540` (tags `vendim-2008-1540/<day>`; `python registry/tools/on.py <day> vendim-2008-1540`).
 
 ## Decisions made by hand
 

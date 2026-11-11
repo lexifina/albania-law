@@ -19,7 +19,7 @@ Afatet dhe procedurat e mbylljes së procesit të kontrollit financiar të perso
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2012-41` (tags `ligj-2012-41/<day>`; `python tools/on.py <day> ligj-2012-41`).
+Act id: `ligj-2012-41` (tags `ligj-2012-41/<day>`; `python registry/tools/on.py <day> ligj-2012-41`).
 
 ## Decisions made by hand
 

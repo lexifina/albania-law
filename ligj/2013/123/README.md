@@ -11,7 +11,7 @@ Miratimin e kontratës së koncesionit ndërmjet Ministrisë së Financave, si a
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-123-2013` (tags `ligji-123-2013/<day>`; `python tools/on.py <day> ligji-123-2013`).
+Act id: `ligji-123-2013` (tags `ligji-123-2013/<day>`; `python registry/tools/on.py <day> ligji-123-2013`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 35, datë 16.12.2020, të K
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-5` (tags `ligj-2021-5/<day>`; `python tools/on.py <day> ligj-2021-5`).
+Act id: `ligj-2021-5` (tags `ligj-2021-5/<day>`; `python registry/tools/on.py <day> ligj-2021-5`).
 
 ## Decisions made by hand
 

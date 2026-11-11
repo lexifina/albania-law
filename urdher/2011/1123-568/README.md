@@ -15,7 +15,7 @@ Hapjen e programeve të studimeve të ciklit të dytë “Master profesional” 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1123-568` (tags `urdher-2011-1123-568/<day>`; `python tools/on.py <day> urdher-2011-1123-568`).
+Act id: `urdher-2011-1123-568` (tags `urdher-2011-1123-568/<day>`; `python registry/tools/on.py <day> urdher-2011-1123-568`).
 
 ## Decisions made by hand
 

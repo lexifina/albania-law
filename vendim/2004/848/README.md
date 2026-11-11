@@ -15,7 +15,7 @@ PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSH
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-848` (tags `vendim-2004-848/<day>`; `python tools/on.py <day> vendim-2004-848`).
+Act id: `vendim-2004-848` (tags `vendim-2004-848/<day>`; `python registry/tools/on.py <day> vendim-2004-848`).
 
 ## Decisions made by hand
 

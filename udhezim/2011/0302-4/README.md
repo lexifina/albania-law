@@ -30,7 +30,7 @@ PËR KRITERET E PËRDORIMIT TË FONDIT TË PASHPËRNDARË TË MBROJTJES SOCIALE 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2011-0302-4` (tags `udhezim-2011-0302-4/<day>`; `python tools/on.py <day> udhezim-2011-0302-4`).
+Act id: `udhezim-2011-0302-4` (tags `udhezim-2011-0302-4/<day>`; `python registry/tools/on.py <day> udhezim-2011-0302-4`).
 
 ## Decisions made by hand
 

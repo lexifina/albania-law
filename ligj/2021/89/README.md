@@ -38,7 +38,7 @@ Krijimin e Autoritetit Rregullator Hekurudhor · 1 versions, from 2021-08-21 (la
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-89` (tags `ligj-2021-89/<day>`; `python tools/on.py <day> ligj-2021-89`).
+Act id: `ligj-2021-89` (tags `ligj-2021-89/<day>`; `python registry/tools/on.py <day> ligj-2021-89`).
 
 ## Decisions made by hand
 

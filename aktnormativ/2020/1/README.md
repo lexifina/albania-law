@@ -53,7 +53,7 @@ Masat parandaluese në kuadër të forcimit të luftës kundër terrorizmit, kri
 | Neni 39 | [neni-039.md](neni-039.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-1` (tags `aktnormativ-2020-1/<day>`; `python tools/on.py <day> aktnormativ-2020-1`).
+Act id: `aktnormativ-2020-1` (tags `aktnormativ-2020-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-1`).
 
 ## Decisions made by hand
 

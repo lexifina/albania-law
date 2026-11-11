@@ -11,7 +11,7 @@ Miratimin e dokumentit të kontributit kombëtar të përcaktuar · 2 versions, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-09-02 |
 
-Act id: `vendim-2021-581` (tags `vendim-2021-581/<day>`; `python tools/on.py <day> vendim-2021-581`).
+Act id: `vendim-2021-581` (tags `vendim-2021-581/<day>`; `python registry/tools/on.py <day> vendim-2021-581`).
 
 ## Decisions made by hand
 

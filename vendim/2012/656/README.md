@@ -17,7 +17,15 @@ PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSH
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-656` (tags `vendim-2012-656/<day>`; `python tools/on.py <day> vendim-2012-656`).
+Act id: `vendim-2012-656` (tags `vendim-2012-656/<day>`; `python registry/tools/on.py <day> vendim-2012-656`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 860, datë 21.10.2015: Për disa ndryshime dhe shtesa në vendimin nr. 656, datë 26.9.2012, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, pronësia, shfrytëzimi, mirëmbajtja dhe transferimi në favor të shtetit, të projektit të hidrocentraleve mbi lumin Devoll”](https://qbz.gov.al/eli/vendim/2015/10/21/860)
 
 ## Decisions made by hand
 

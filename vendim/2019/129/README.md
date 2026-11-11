@@ -20,7 +20,7 @@ Procedurat për identifikimin, ndihmën e menjëhershme dhe referimin e fëmijë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-129` (tags `vendim-2019-129/<day>`; `python tools/on.py <day> vendim-2019-129`).
+Act id: `vendim-2019-129` (tags `vendim-2019-129/<day>`; `python registry/tools/on.py <day> vendim-2019-129`).
 
 ## Decisions made by hand
 

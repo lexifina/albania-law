@@ -9,7 +9,7 @@ Miratimin e studimit tË sistemit të integruar të vëzhgimit kombëtar · 1 ve
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-100` (tags `vendim-2004-100/<day>`; `python tools/on.py <day> vendim-2004-100`).
+Act id: `vendim-2004-100` (tags `vendim-2004-100/<day>`; `python registry/tools/on.py <day> vendim-2004-100`).
 
 ## Decisions made by hand
 

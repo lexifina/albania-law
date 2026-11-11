@@ -11,7 +11,7 @@ Miratimin e tarifës së mirëmbajtjes së sistemit qendror të monitorimit on-l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-08-17 |
 
-Act id: `vendim-2017-331` (tags `vendim-2017-331/<day>`; `python tools/on.py <day> vendim-2017-331`).
+Act id: `vendim-2017-331` (tags `vendim-2017-331/<day>`; `python registry/tools/on.py <day> vendim-2017-331`).
 
 ## Decisions made by hand
 

@@ -24,7 +24,15 @@ Përcaktimin e numrit të autoveturave taksi, shtypjen dhe emetimin e licencave,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0719-12` (tags `udhezim-2007-0719-12/<day>`; `python tools/on.py <day> udhezim-2007-0719-12`).
+Act id: `udhezim-2007-0719-12` (tags `udhezim-2007-0719-12/<day>`; `python registry/tools/on.py <day> udhezim-2007-0719-12`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 4, datë 25.4.2008 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 6583]: Për disa shtesa dhe ndryshime në udhëzimin nr.12, datë 19.7.2007 “për përcaktimin e numrit të autoveturave taksi, shtypjen dhe emetimin e bllokut të udhëtimit dhe regjistrit të shërbimit taksi”](https://qbz.gov.al/eli/udhezim/2008/04/25/4)
 
 ## Decisions made by hand
 

@@ -42,7 +42,7 @@ Përcaktimin e rregullave dhe të procedurave të monitorimit të situatës së 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-744` (tags `vendim-2026-744/<day>`; `python tools/on.py <day> vendim-2026-744`).
+Act id: `vendim-2026-744` (tags `vendim-2026-744/<day>`; `python registry/tools/on.py <day> vendim-2026-744`).
 
 ## Decisions made by hand
 

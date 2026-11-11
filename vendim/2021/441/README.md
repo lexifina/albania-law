@@ -22,7 +22,7 @@ Procedurat e përzgjedhjes, mënyrat e kontraktimit, format dhe kushtet e përgj
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-441` (tags `vendim-2021-441/<day>`; `python tools/on.py <day> vendim-2021-441`).
+Act id: `vendim-2021-441` (tags `vendim-2021-441/<day>`; `python registry/tools/on.py <day> vendim-2021-441`).
 
 ## Decisions made by hand
 

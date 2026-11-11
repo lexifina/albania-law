@@ -5,7 +5,7 @@ Programin e nxitjes së punësimit të punëkërkuesve të papunë, femra · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-632` (tags `vendim-2003-632/<day>`; `python tools/on.py <day> vendim-2003-632`).
+Act id: `vendim-2003-632` (tags `vendim-2003-632/<day>`; `python registry/tools/on.py <day> vendim-2003-632`).
 
 ## Decisions made by hand
 

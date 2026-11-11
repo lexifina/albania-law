@@ -10,7 +10,7 @@ Miratimin e marrëveshjes shtesë të koncesionit “për disa shtesa dhe ndrysh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-123` (tags `vendim-2007-123/<day>`; `python tools/on.py <day> vendim-2007-123`).
+Act id: `vendim-2007-123` (tags `vendim-2007-123/<day>`; `python registry/tools/on.py <day> vendim-2007-123`).
 
 ## Decisions made by hand
 

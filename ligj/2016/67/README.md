@@ -10,7 +10,7 @@ Ratifikimin e protokollit të traktatit të atlantikut verior për aderimin e ma
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-67` (tags `ligj-2016-67/<day>`; `python tools/on.py <day> ligj-2016-67`).
+Act id: `ligj-2016-67` (tags `ligj-2016-67/<day>`; `python registry/tools/on.py <day> ligj-2016-67`).
 
 ## Decisions made by hand
 

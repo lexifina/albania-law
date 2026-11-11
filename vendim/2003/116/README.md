@@ -9,7 +9,7 @@ Limitin e përgjithshëm të organikës në policinë e shtetit · 1 versions, f
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-116` (tags `vendim-2003-116/<day>`; `python tools/on.py <day> vendim-2003-116`).
+Act id: `vendim-2003-116` (tags `vendim-2003-116/<day>`; `python registry/tools/on.py <day> vendim-2003-116`).
 
 ## Decisions made by hand
 

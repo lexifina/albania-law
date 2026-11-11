@@ -10,7 +10,7 @@ Miratimin e projektit “ndërtimi i kapaciteteve kombëtare për institutin e s
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-117` (tags `vendim-2000-117/<day>`; `python tools/on.py <day> vendim-2000-117`).
+Act id: `vendim-2000-117` (tags `vendim-2000-117/<day>`; `python registry/tools/on.py <day> vendim-2000-117`).
 
 ## Decisions made by hand
 

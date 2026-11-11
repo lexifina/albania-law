@@ -10,7 +10,7 @@ Dhënie fond ndihme partisë demokrate · 1 versions, from 2001-05-18 (latest in
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0508-277` (tags `udhezim-2001-0508-277/<day>`; `python tools/on.py <day> udhezim-2001-0508-277`).
+Act id: `udhezim-2001-0508-277` (tags `udhezim-2001-0508-277/<day>`; `python registry/tools/on.py <day> udhezim-2001-0508-277`).
 
 ## Decisions made by hand
 

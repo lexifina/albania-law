@@ -52,7 +52,7 @@ Përshkrimin dhe klasifikimin e pozicioneve të punës në institucionet e admin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-142` (tags `vendim-2014-142/<day>`; `python tools/on.py <day> vendim-2014-142`).
+Act id: `vendim-2014-142` (tags `vendim-2014-142/<day>`; `python registry/tools/on.py <day> vendim-2014-142`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Caktimin e datës së fillimit të vitit akademik 2015-2016 në institucionet e 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0819-298` (tags `urdher-2015-0819-298/<day>`; `python tools/on.py <day> urdher-2015-0819-298`).
+Act id: `urdher-2015-0819-298` (tags `urdher-2015-0819-298/<day>`; `python registry/tools/on.py <day> urdher-2015-0819-298`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.95 “mbrojtja e pagave, 1949”,të organizatës
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8787` (tags `ligj-2001-8787/<day>`; `python tools/on.py <day> ligj-2001-8787`).
+Act id: `ligj-2001-8787` (tags `ligj-2001-8787/<day>`; `python registry/tools/on.py <day> ligj-2001-8787`).
 
 ## Decisions made by hand
 

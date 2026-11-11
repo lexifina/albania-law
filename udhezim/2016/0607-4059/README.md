@@ -15,7 +15,7 @@ Anonimizimin e të dhënave personale në vendimet gjyqësore që publikohen në
 | Neni 8 | [neni-008.md](neni-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0607-4059` (tags `udhezim-2016-0607-4059/<day>`; `python tools/on.py <day> udhezim-2016-0607-4059`).
+Act id: `udhezim-2016-0607-4059` (tags `udhezim-2016-0607-4059/<day>`; `python registry/tools/on.py <day> udhezim-2016-0607-4059`).
 
 ## Decisions made by hand
 

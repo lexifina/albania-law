@@ -5,7 +5,7 @@ Miratimin e formularëve të deklarimit të interesave private · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2017-0509-223` (tags `urdher-2017-0509-223/<day>`; `python tools/on.py <day> urdher-2017-0509-223`).
+Act id: `urdher-2017-0509-223` (tags `urdher-2017-0509-223/<day>`; `python registry/tools/on.py <day> urdher-2017-0509-223`).
 
 ## Decisions made by hand
 

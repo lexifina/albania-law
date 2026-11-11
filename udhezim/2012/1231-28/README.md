@@ -5,7 +5,7 @@ Metodat dhe procedurat e raportimit dhe marrjes së masave parandaluese nga subj
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-1231-28` (tags `udhezim-2012-1231-28/<day>`; `python tools/on.py <day> udhezim-2012-1231-28`).
+Act id: `udhezim-2012-1231-28` (tags `udhezim-2012-1231-28/<day>`; `python registry/tools/on.py <day> udhezim-2012-1231-28`).
 
 ## Decisions made by hand
 

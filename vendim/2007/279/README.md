@@ -5,7 +5,7 @@ PëR MIRATIMIN E LISTëS Së PRODUKTEVE Të NDëRTIMIT, PëR Të CILAT KëRKOHET
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-279` (tags `vendim-2007-279/<day>`; `python tools/on.py <day> vendim-2007-279`).
+Act id: `vendim-2007-279` (tags `vendim-2007-279/<day>`; `python registry/tools/on.py <day> vendim-2007-279`).
 
 ## Decisions made by hand
 

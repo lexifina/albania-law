@@ -5,7 +5,7 @@ Përcaktimin e përbërjes strukturore dhe shpërblimin e Këshillit Kombëtar t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-88` (tags `vendim-2006-88/<day>`; `python tools/on.py <day> vendim-2006-88`).
+Act id: `vendim-2006-88` (tags `vendim-2006-88/<day>`; `python registry/tools/on.py <day> vendim-2006-88`).
 
 ## Decisions made by hand
 

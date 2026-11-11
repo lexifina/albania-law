@@ -5,7 +5,7 @@ Miratimin e rregullores për normat dhe standardet minimale urbanistike, për ur
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-259` (tags `vendim-2007-259/<day>`; `python tools/on.py <day> vendim-2007-259`).
+Act id: `vendim-2007-259` (tags `vendim-2007-259/<day>`; `python registry/tools/on.py <day> vendim-2007-259`).
 
 ## Decisions made by hand
 

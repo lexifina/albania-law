@@ -19,7 +19,7 @@ Pёr pёrcaktimin e rregullave pёr krijimin e njё baze tё dhёnash tё posaҫ
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-07-06 |
 
-Act id: `udhezim-2020-0617-9` (tags `udhezim-2020-0617-9/<day>`; `python tools/on.py <day> udhezim-2020-0617-9`).
+Act id: `udhezim-2020-0617-9` (tags `udhezim-2020-0617-9/<day>`; `python registry/tools/on.py <day> udhezim-2020-0617-9`).
 
 ## Decisions made by hand
 

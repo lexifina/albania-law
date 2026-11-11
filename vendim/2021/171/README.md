@@ -18,7 +18,7 @@ Mbulimin e shpenzimeve financiare të prokurorit të sistemit të prokurorisë, 
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-171` (tags `vendim-2021-171/<day>`; `python tools/on.py <day> vendim-2021-171`).
+Act id: `vendim-2021-171` (tags `vendim-2021-171/<day>`; `python registry/tools/on.py <day> vendim-2021-171`).
 
 ## Decisions made by hand
 

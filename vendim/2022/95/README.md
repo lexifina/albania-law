@@ -10,7 +10,7 @@ Miratimin e Programit Shtetëror të Sigurisë në Operim në Aviacionin Civil �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-95` (tags `vendim-2022-95/<day>`; `python tools/on.py <day> vendim-2022-95`).
+Act id: `vendim-2022-95` (tags `vendim-2022-95/<day>`; `python registry/tools/on.py <day> vendim-2022-95`).
 
 ## Decisions made by hand
 

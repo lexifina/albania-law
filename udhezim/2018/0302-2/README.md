@@ -8,7 +8,7 @@ PËR ZHVILLIMIN E PROCEDURËS SË PROKURIMIT TË PËRBASHKËT PËR SHËRBIMIN PR
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2018-0302-2` (tags `udhezim-2018-0302-2/<day>`; `python tools/on.py <day> udhezim-2018-0302-2`).
+Act id: `udhezim-2018-0302-2` (tags `udhezim-2018-0302-2/<day>`; `python registry/tools/on.py <day> udhezim-2018-0302-2`).
 
 ## Decisions made by hand
 

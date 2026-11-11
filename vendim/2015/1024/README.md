@@ -26,7 +26,7 @@ Miratimin e projekteve me statusin “Projekt me potencial strategjik” · 1 ve
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1024` (tags `vendim-2015-1024/<day>`; `python tools/on.py <day> vendim-2015-1024`).
+Act id: `vendim-2015-1024` (tags `vendim-2015-1024/<day>`; `python registry/tools/on.py <day> vendim-2015-1024`).
 
 ## Decisions made by hand
 

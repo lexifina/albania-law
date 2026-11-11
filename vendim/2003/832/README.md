@@ -5,7 +5,7 @@ PËR MIRATIMIN E RREGULLORES SË ADMINISTRIMIT TË QYTETIT-MUZE Të GJIROKASTRË
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-832` (tags `vendim-2003-832/<day>`; `python tools/on.py <day> vendim-2003-832`).
+Act id: `vendim-2003-832` (tags `vendim-2003-832/<day>`; `python registry/tools/on.py <day> vendim-2003-832`).
 
 ## Decisions made by hand
 

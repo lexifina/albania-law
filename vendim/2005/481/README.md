@@ -13,7 +13,7 @@ Miratimin e tarifave dhe të masës së mbulimit të disa shërbimeve të trajti
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-481` (tags `vendim-2005-481/<day>`; `python tools/on.py <day> vendim-2005-481`).
+Act id: `vendim-2005-481` (tags `vendim-2005-481/<day>`; `python registry/tools/on.py <day> vendim-2005-481`).
 
 ## Decisions made by hand
 

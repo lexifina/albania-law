@@ -24,7 +24,7 @@ Procedurën e korrigjimit si gabim material të emrit, mbiemrit, emrit të babai
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0919-181` (tags `urdher-2024-0919-181/<day>`; `python tools/on.py <day> urdher-2024-0919-181`).
+Act id: `urdher-2024-0919-181` (tags `urdher-2024-0919-181/<day>`; `python registry/tools/on.py <day> urdher-2024-0919-181`).
 
 ## Decisions made by hand
 

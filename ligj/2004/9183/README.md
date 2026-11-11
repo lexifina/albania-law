@@ -5,7 +5,7 @@ Disiplinën ushtarake në forcat e armatosura të republikës së shqipërisë �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9183` (tags `ligj-2004-9183/<day>`; `python tools/on.py <day> ligj-2004-9183`).
+Act id: `ligj-2004-9183` (tags `ligj-2004-9183/<day>`; `python registry/tools/on.py <day> ligj-2004-9183`).
 
 ## Decisions made by hand
 

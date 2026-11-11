@@ -14,7 +14,11 @@ Miratimin e listës së materialeve dhe pajisjeve sportive, që përjashtohen ng
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-450` (tags `vendim-2021-450/<day>`; `python tools/on.py <day> vendim-2021-450`).
+Act id: `vendim-2021-450` (tags `vendim-2021-450/<day>`; `python registry/tools/on.py <day> vendim-2021-450`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

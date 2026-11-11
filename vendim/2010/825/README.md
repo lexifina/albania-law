@@ -17,7 +17,24 @@ PËR MIRATIMIN E LISTAVE TË MBETJEVE QË LEJOHEN TË IMPORTOHEN PËR QëLLIME P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-825` (tags `vendim-2010-825/<day>`; `python tools/on.py <day> vendim-2010-825`).
+Act id: `vendim-2010-825` (tags `vendim-2010-825/<day>`; `python registry/tools/on.py <day> vendim-2010-825`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 550, datë 22.8.2012: Për disa ndryshime në vendimin nr. 825, datë 13.10.2010 të këshillit të ministrave “për miratimin e listave të mbetjeve që lejohen të importohen për qëllime përdorimi, riciklimi dhe përpunimi”](https://qbz.gov.al/eli/vendim/2012/08/22/550)
+- [Vendimi i Këshillit të Ministrave nr. 672, datë 3.10.2012: Për autorizimin e “zodiac” shpk për importin e mbetjeve metalike të aluminit, bakrit, bronzit, tunxhit dhe zinkut për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2012/10/03/672)
+- [Vendimi i Këshillit të Ministrave nr. 350, datë 20.3.2013: Për autorizimin e shoqërisë “Brecycle” sh.p.k., për importin e mbetjeve të plastikës për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/03/20/350)
+- [Vendimi i Këshillit të Ministrave nr. 331, datë 18.4.2013: Për autorizimin e shoqërisë “ANSA” sh.p.k., për importin e mbetjeve të polietilenit, për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/04/18/331)
+- [Vendimi i Këshillit të Ministrave nr. 351, datë 20.3.2013: Për autorizimin e “Etna Polimer” sh.p.k., për importin e mbetjeve të plastikës për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/03/20/351)
+- [Vendimi i Këshillit të Ministrave nr. 449, datë 22.5.2013: Për autorizimin e “General Polymeren Recycling Albania” sh.p.k., për importin e mbetjeve të plastikës për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/05/22/449)
+- [Vendimi i Këshillit të Ministrave nr. 706, datë 21.8.2013: Për autorizimin e shoqërisë “Everest IE” sh.p.k., për importin e mbetjeve të polietilenit për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/08/21/706)
+- [Vendimi i Këshillit të Ministrave nr. 673, datë 7.8.2013: Për autorizimin e shoqërisë “Plastika-Albania” sh.p.k., për importin e mbetjeve të polietilenit për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/08/07/673)
+- [Vendimi i Këshillit të Ministrave nr. 912, datë 19.12.2012: Për autorizimin e “ekssi” shpk, për importin e mbetjeve të plastikës për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2012/12/19/912)
+- [Vendimi i Këshillit të Ministrave nr. 653, datë 7.8.2013: Për autorizimin e shoqërisë “V.A.L.E. Recycling” sh.p.k., për importin e mbetjeve për qëllime riciklimi](https://qbz.gov.al/eli/vendim/2013/08/07/653)
 
 ## Decisions made by hand
 

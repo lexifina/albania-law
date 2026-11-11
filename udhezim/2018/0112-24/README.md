@@ -8,7 +8,7 @@ Një ndryshim në udhëzimin nr. 5166, datë 20.10.2016, “për përcaktimin e 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2018-0112-24` (tags `udhezim-2018-0112-24/<day>`; `python tools/on.py <day> udhezim-2018-0112-24`).
+Act id: `udhezim-2018-0112-24` (tags `udhezim-2018-0112-24/<day>`; `python registry/tools/on.py <day> udhezim-2018-0112-24`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Shpalljen e disa zonave me përparësi zhvillimin e ekonomisë malore në Bashki
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-781` (tags `vendim-2025-781/<day>`; `python tools/on.py <day> vendim-2025-781`).
+Act id: `vendim-2025-781` (tags `vendim-2025-781/<day>`; `python registry/tools/on.py <day> vendim-2025-781`).
 
 ## Decisions made by hand
 

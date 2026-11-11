@@ -5,7 +5,7 @@ Barazinë gjinore në shoqëri · 2 versions, from 2008-08-16 (latest in force: 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9970` (tags `ligj-2008-9970/<day>`; `python tools/on.py <day> ligj-2008-9970`).
+Act id: `ligj-2008-9970` (tags `ligj-2008-9970/<day>`; `python registry/tools/on.py <day> ligj-2008-9970`).
 
 ## Decisions made by hand
 

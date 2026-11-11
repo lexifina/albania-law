@@ -9,7 +9,7 @@ Miratimin e Strategjisë Kombëtare për Barazinë Gjinore 2021-2030 dhe të pla
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-400` (tags `vendim-2021-400/<day>`; `python tools/on.py <day> vendim-2021-400`).
+Act id: `vendim-2021-400` (tags `vendim-2021-400/<day>`; `python registry/tools/on.py <day> vendim-2021-400`).
 
 ## Decisions made by hand
 

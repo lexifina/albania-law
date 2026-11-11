@@ -23,7 +23,17 @@ Përzgjedhjen dhe shitjen e teksteve shkollore për vitin shkollor 2014-2015 · 
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0324-8` (tags `udhezim-2014-0324-8/<day>`; `python tools/on.py <day> udhezim-2014-0324-8`).
+Act id: `udhezim-2014-0324-8` (tags `udhezim-2014-0324-8/<day>`; `python registry/tools/on.py <day> udhezim-2014-0324-8`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 8-1, datë 2.4.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 10947]: Per ndryshimin e udhëzimit nr. 8, datë 24.3.2014, “për zgjedhjen, shpërndarjen dhe shitjen e teksteve shkollore për vitin shkollor 2014-2015”](https://qbz.gov.al/eli/udhezim/2014/04/02/8-1)
+- [Udhëzimi nr. 19, datë 1.8.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 59590]: Për procedurat e procesit të konkurrimit për tekste të botuesve të huaj për gjuhën frënge, përzgjedhjen dhe shitjen e tyre për vitin shkollor 2014-2015](https://qbz.gov.al/eli/udhezim/2014/08/01/19)
+- [Udhëzimi nr. 23, datë 8.8.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 59594]: Për vitin shkollor 2014-2015 në sistemin arsimor parauniversitar](https://qbz.gov.al/eli/udhezim/2014/08/08/23)
 
 ## Decisions made by hand
 

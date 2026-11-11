@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.182 “format më të këqia të punës së fëmi
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8774` (tags `ligj-2001-8774/<day>`; `python tools/on.py <day> ligj-2001-8774`).
+Act id: `ligj-2001-8774` (tags `ligj-2001-8774/<day>`; `python registry/tools/on.py <day> ligj-2001-8774`).
 
 ## Decisions made by hand
 

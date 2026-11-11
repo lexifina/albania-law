@@ -5,7 +5,7 @@ Përdorimin e aditivit ushqimor “e 960 steviol glycoside” në produktet ushq
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0319-7` (tags `udhezim-2012-0319-7/<day>`; `python tools/on.py <day> udhezim-2012-0319-7`).
+Act id: `udhezim-2012-0319-7` (tags `udhezim-2012-0319-7/<day>`; `python registry/tools/on.py <day> udhezim-2012-0319-7`).
 
 ## Decisions made by hand
 

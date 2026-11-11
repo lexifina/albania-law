@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-175` (tags `vendim-2008-175/<day>`; `python tools/on.py <day> vendim-2008-175`).
+Act id: `vendim-2008-175` (tags `vendim-2008-175/<day>`; `python registry/tools/on.py <day> vendim-2008-175`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 227, datë 23.3.2011: PËR NJË SHTESË NË VENDIMIN NR. 175, DATË 13.2.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE, PYJE DHE KULLOTA, QË TRANSFEROHEN NË PRONËSI TË KOMUNËS HORË-VRANISHT TË QARKUT tË VLORËs”](https://qbz.gov.al/eli/vendim/2011/03/23/227)
 
 ## Decisions made by hand
 

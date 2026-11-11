@@ -9,7 +9,7 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të m
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-347` (tags `vendim-2004-347/<day>`; `python tools/on.py <day> vendim-2004-347`).
+Act id: `vendim-2004-347` (tags `vendim-2004-347/<day>`; `python registry/tools/on.py <day> vendim-2004-347`).
 
 ## Decisions made by hand
 

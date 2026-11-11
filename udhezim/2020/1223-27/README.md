@@ -10,7 +10,7 @@ Një shtesë në udhëzimin nr. 1, datë 14.1.2020, “Për dokumentacionin dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-1223-27` (tags `udhezim-2020-1223-27/<day>`; `python tools/on.py <day> udhezim-2020-1223-27`).
+Act id: `udhezim-2020-1223-27` (tags `udhezim-2020-1223-27/<day>`; `python registry/tools/on.py <day> udhezim-2020-1223-27`).
 
 ## Decisions made by hand
 

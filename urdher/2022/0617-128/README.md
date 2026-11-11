@@ -9,7 +9,7 @@ Miratimin e formularëve të aplikimit për shërbimin e pilotimit dhe dokumenta
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0617-128` (tags `urdher-2022-0617-128/<day>`; `python tools/on.py <day> urdher-2022-0617-128`).
+Act id: `urdher-2022-0617-128` (tags `urdher-2022-0617-128/<day>`; `python registry/tools/on.py <day> urdher-2022-0617-128`).
 
 ## Decisions made by hand
 

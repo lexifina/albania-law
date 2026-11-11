@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. mirush musa kabashi · 1 ver
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-819` (tags `vendim-2017-819/<day>`; `python tools/on.py <day> vendim-2017-819`).
+Act id: `vendim-2017-819` (tags `vendim-2017-819/<day>`; `python registry/tools/on.py <day> vendim-2017-819`).
 
 ## Decisions made by hand
 

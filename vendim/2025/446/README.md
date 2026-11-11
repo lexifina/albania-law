@@ -9,7 +9,7 @@ Kalimin te Bashkia Krujë të njësive individuale të banimit · 1 versions, fr
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-446` (tags `vendim-2025-446/<day>`; `python tools/on.py <day> vendim-2025-446`).
+Act id: `vendim-2025-446` (tags `vendim-2025-446/<day>`; `python registry/tools/on.py <day> vendim-2025-446`).
 
 ## Decisions made by hand
 

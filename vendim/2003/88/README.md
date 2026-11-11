@@ -5,7 +5,7 @@ Miratimin e statutit të institutit të sigurimeve · 2 versions, from 2003-03-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-88` (tags `vendim-2003-88/<day>`; `python tools/on.py <day> vendim-2003-88`).
+Act id: `vendim-2003-88` (tags `vendim-2003-88/<day>`; `python registry/tools/on.py <day> vendim-2003-88`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Dhënien në përdorim të përkohshëm, pa shpërblim, nga ministria e mbrojtje
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-524` (tags `vendim-2014-524/<day>`; `python tools/on.py <day> vendim-2014-524`).
+Act id: `vendim-2014-524` (tags `vendim-2014-524/<day>`; `python registry/tools/on.py <day> vendim-2014-524`).
 
 ## Decisions made by hand
 

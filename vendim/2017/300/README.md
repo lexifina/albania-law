@@ -14,7 +14,7 @@ Procedurën e njoftimit dhe formën e vlerësimit të përputhshmërisë së pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-300` (tags `vendim-2017-300/<day>`; `python tools/on.py <day> vendim-2017-300`).
+Act id: `vendim-2017-300` (tags `vendim-2017-300/<day>`; `python registry/tools/on.py <day> vendim-2017-300`).
 
 ## Decisions made by hand
 

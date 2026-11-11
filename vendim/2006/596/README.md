@@ -5,7 +5,7 @@ Përdorimin, ruajtjen dhe administrimin e dokumenteve të identitetit të shteta
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-596` (tags `vendim-2006-596/<day>`; `python tools/on.py <day> vendim-2006-596`).
+Act id: `vendim-2006-596` (tags `vendim-2006-596/<day>`; `python registry/tools/on.py <day> vendim-2006-596`).
 
 ## Decisions made by hand
 

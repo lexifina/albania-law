@@ -11,7 +11,7 @@ Miratimin e rregullores mbi kriteret e përbashkëta për përcaktimin e një li
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0717-77` (tags `urdher-2012-0717-77/<day>`; `python tools/on.py <day> urdher-2012-0717-77`).
+Act id: `urdher-2012-0717-77` (tags `urdher-2012-0717-77/<day>`; `python registry/tools/on.py <day> urdher-2012-0717-77`).
 
 ## Decisions made by hand
 

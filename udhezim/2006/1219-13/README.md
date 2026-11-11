@@ -25,7 +25,7 @@ Caktimin dhe përgatitjen e vendit të numërimit të votave, dhe mënyrën e ng
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1219-13` (tags `udhezim-2006-1219-13/<day>`; `python tools/on.py <day> udhezim-2006-1219-13`).
+Act id: `udhezim-2006-1219-13` (tags `udhezim-2006-1219-13/<day>`; `python registry/tools/on.py <day> udhezim-2006-1219-13`).
 
 ## Decisions made by hand
 

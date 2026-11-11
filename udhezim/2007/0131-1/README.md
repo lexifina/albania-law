@@ -5,7 +5,7 @@ Procedurat e regjistrimit në zyrat e regjistrimit të pasurive të paluajtshme 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0131-1` (tags `udhezim-2007-0131-1/<day>`; `python tools/on.py <day> udhezim-2007-0131-1`).
+Act id: `udhezim-2007-0131-1` (tags `udhezim-2007-0131-1/<day>`; `python registry/tools/on.py <day> udhezim-2007-0131-1`).
 
 ## Decisions made by hand
 

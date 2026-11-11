@@ -11,7 +11,7 @@ Miratimin e Udhërrëfyesit për Shtetin e së Drejtës · 1 versions, from 2023
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-736` (tags `vendim-2023-736/<day>`; `python tools/on.py <day> vendim-2023-736`).
+Act id: `vendim-2023-736` (tags `vendim-2023-736/<day>`; `python registry/tools/on.py <day> vendim-2023-736`).
 
 ## Decisions made by hand
 

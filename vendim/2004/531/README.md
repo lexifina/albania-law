@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e miratuar për vitin 2004, për ministrinë e d
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-531` (tags `vendim-2004-531/<day>`; `python tools/on.py <day> vendim-2004-531`).
+Act id: `vendim-2004-531` (tags `vendim-2004-531/<day>`; `python registry/tools/on.py <day> vendim-2004-531`).
 
 ## Decisions made by hand
 

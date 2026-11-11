@@ -14,7 +14,7 @@ Përcaktimin e dokumentacionit, shumës vjetore të transfertës nga buxheti i s
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-721` (tags `vendim-2019-721/<day>`; `python tools/on.py <day> vendim-2019-721`).
+Act id: `vendim-2019-721` (tags `vendim-2019-721/<day>`; `python registry/tools/on.py <day> vendim-2019-721`).
 
 ## Decisions made by hand
 

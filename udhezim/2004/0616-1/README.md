@@ -12,7 +12,7 @@ PËR MONITORIMIN E KONTRATAVE TË QIRAVE DHE ENFITEOZËS, VLERËSIMIN E INVESTIM
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-0616-1` (tags `udhezim-2004-0616-1/<day>`; `python tools/on.py <day> udhezim-2004-0616-1`).
+Act id: `udhezim-2004-0616-1` (tags `udhezim-2004-0616-1/<day>`; `python registry/tools/on.py <day> udhezim-2004-0616-1`).
 
 ## Decisions made by hand
 

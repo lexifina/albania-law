@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e vitit 2011, miratuar për Institutin e Statist
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-588` (tags `vendim-2011-588/<day>`; `python tools/on.py <day> vendim-2011-588`).
+Act id: `vendim-2011-588` (tags `vendim-2011-588/<day>`; `python registry/tools/on.py <day> vendim-2011-588`).
 
 ## Decisions made by hand
 

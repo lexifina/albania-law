@@ -15,7 +15,7 @@ Miratimin e skemës mbështetëse për arritjen e objektivit kombëtar për buri
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-733` (tags `vendim-2024-733/<day>`; `python tools/on.py <day> vendim-2024-733`).
+Act id: `vendim-2024-733` (tags `vendim-2024-733/<day>`; `python registry/tools/on.py <day> vendim-2024-733`).
 
 ## Decisions made by hand
 

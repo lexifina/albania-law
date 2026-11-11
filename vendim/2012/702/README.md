@@ -21,7 +21,7 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-702` (tags `vendim-2012-702/<day>`; `python tools/on.py <day> vendim-2012-702`).
+Act id: `vendim-2012-702` (tags `vendim-2012-702/<day>`; `python registry/tools/on.py <day> vendim-2012-702`).
 
 ## Decisions made by hand
 

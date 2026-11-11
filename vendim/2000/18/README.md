@@ -8,7 +8,7 @@ Zotërimin e aksioneve të shoqërisë ”banka kombëtare tregtare” · 1 vers
 | Pika 1 | [pika-001.md](pika-001.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-18` (tags `vendim-2000-18/<day>`; `python tools/on.py <day> vendim-2000-18`).
+Act id: `vendim-2000-18` (tags `vendim-2000-18/<day>`; `python registry/tools/on.py <day> vendim-2000-18`).
 
 ## Decisions made by hand
 

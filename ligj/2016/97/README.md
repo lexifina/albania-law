@@ -147,7 +147,7 @@ Organizimin dhe funksionimin e prokurorisë në republikën e shqipërisë · 3 
 | Seksioni VII | [seksioni-07.md](seksioni-07.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-97` (tags `ligj-2016-97/<day>`; `python tools/on.py <day> ligj-2016-97`).
+Act id: `ligj-2016-97` (tags `ligj-2016-97/<day>`; `python registry/tools/on.py <day> ligj-2016-97`).
 
 ## Decisions made by hand
 

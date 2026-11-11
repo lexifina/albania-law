@@ -5,7 +5,7 @@ Metodologjinë e rregullimit të tarifave të operatorit publik të telekomunika
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-465` (tags `vendim-2001-465/<day>`; `python tools/on.py <day> vendim-2001-465`).
+Act id: `vendim-2001-465` (tags `vendim-2001-465/<day>`; `python registry/tools/on.py <day> vendim-2001-465`).
 
 ## Decisions made by hand
 

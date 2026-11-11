@@ -9,7 +9,7 @@ Miratimin e marrëveshjes për shitjen e aksioneve të mbetura shtetërore në s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-308` (tags `vendim-2009-308/<day>`; `python tools/on.py <day> vendim-2009-308`).
+Act id: `vendim-2009-308` (tags `vendim-2009-308/<day>`; `python registry/tools/on.py <day> vendim-2009-308`).
 
 ## Decisions made by hand
 

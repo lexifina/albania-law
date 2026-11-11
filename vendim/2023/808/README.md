@@ -10,7 +10,7 @@ Miratimin e numrit të përgjithshëm të punonjësve të Gardës së Republikë
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-808` (tags `vendim-2023-808/<day>`; `python tools/on.py <day> vendim-2023-808`).
+Act id: `vendim-2023-808` (tags `vendim-2023-808/<day>`; `python registry/tools/on.py <day> vendim-2023-808`).
 
 ## Decisions made by hand
 

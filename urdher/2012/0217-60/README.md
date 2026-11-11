@@ -14,7 +14,7 @@ Lejimin e fillimit të veprimtarisë akademike të programeve të studimit, akad
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0217-60` (tags `urdher-2012-0217-60/<day>`; `python tools/on.py <day> urdher-2012-0217-60`).
+Act id: `urdher-2012-0217-60` (tags `urdher-2012-0217-60/<day>`; `python registry/tools/on.py <day> urdher-2012-0217-60`).
 
 ## Decisions made by hand
 

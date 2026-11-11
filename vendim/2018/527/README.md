@@ -10,7 +10,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2018, ndërmjet ministrisë së bren
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-527` (tags `vendim-2018-527/<day>`; `python tools/on.py <day> vendim-2018-527`).
+Act id: `vendim-2018-527` (tags `vendim-2018-527/<day>`; `python registry/tools/on.py <day> vendim-2018-527`).
 
 ## Decisions made by hand
 

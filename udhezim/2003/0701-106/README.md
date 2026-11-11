@@ -25,7 +25,7 @@ Zbatimin e vendimit të këshillit të ministrave nr.230, datë 4.4.1998 “për
 | Pika 18 | [pika-018.md](pika-018.md) | 1 | 2006-12-31 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2003-0701-106` (tags `udhezim-2003-0701-106/<day>`; `python tools/on.py <day> udhezim-2003-0701-106`).
+Act id: `udhezim-2003-0701-106` (tags `udhezim-2003-0701-106/<day>`; `python registry/tools/on.py <day> udhezim-2003-0701-106`).
 
 ## Decisions made by hand
 

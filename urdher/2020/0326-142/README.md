@@ -10,7 +10,7 @@ Miratimin e përmbajtjes të të dhënave teknike të produkteve plehëruese · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0326-142` (tags `urdher-2020-0326-142/<day>`; `python tools/on.py <day> urdher-2020-0326-142`).
+Act id: `urdher-2020-0326-142` (tags `urdher-2020-0326-142/<day>`; `python registry/tools/on.py <day> urdher-2020-0326-142`).
 
 ## Decisions made by hand
 

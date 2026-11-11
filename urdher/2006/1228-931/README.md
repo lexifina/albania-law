@@ -13,7 +13,7 @@ Përcaktimin e fondit të ngurtësimit për garancinë e fituesit/fituesve në l
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2006-1228-931` (tags `urdher-2006-1228-931/<day>`; `python tools/on.py <day> urdher-2006-1228-931`).
+Act id: `urdher-2006-1228-931` (tags `urdher-2006-1228-931/<day>`; `python registry/tools/on.py <day> urdher-2006-1228-931`).
 
 ## Decisions made by hand
 

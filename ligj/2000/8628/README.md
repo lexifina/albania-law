@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së huasë, të financimit dhe projektit ndërmje
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8628` (tags `ligj-2000-8628/<day>`; `python tools/on.py <day> ligj-2000-8628`).
+Act id: `ligj-2000-8628` (tags `ligj-2000-8628/<day>`; `python registry/tools/on.py <day> ligj-2000-8628`).
 
 ## Decisions made by hand
 

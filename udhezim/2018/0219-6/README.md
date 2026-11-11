@@ -19,7 +19,7 @@ Gjenerimin dhe dhënien e numrave të matrikullimit · 3 versions, from 2018-05-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-06-28 |
 
-Act id: `udhezim-2018-0219-6` (tags `udhezim-2018-0219-6/<day>`; `python tools/on.py <day> udhezim-2018-0219-6`).
+Act id: `udhezim-2018-0219-6` (tags `udhezim-2018-0219-6/<day>`; `python registry/tools/on.py <day> udhezim-2018-0219-6`).
 
 ## Decisions made by hand
 

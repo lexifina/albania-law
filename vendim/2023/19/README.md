@@ -12,7 +12,7 @@ Miratimin e ndryshimit nga kategoria e resursit “tokë bujqësore” vresht n�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-19` (tags `vendim-2023-19/<day>`; `python tools/on.py <day> vendim-2023-19`).
+Act id: `vendim-2023-19` (tags `vendim-2023-19/<day>`; `python registry/tools/on.py <day> vendim-2023-19`).
 
 ## Decisions made by hand
 

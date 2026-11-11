@@ -10,7 +10,7 @@ Miratimin e Strategjisë Kombëtare të Specializimit Inteligjent (S3) 2025-2030
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-824` (tags `vendim-2024-824/<day>`; `python tools/on.py <day> vendim-2024-824`).
+Act id: `vendim-2024-824` (tags `vendim-2024-824/<day>`; `python registry/tools/on.py <day> vendim-2024-824`).
 
 ## Decisions made by hand
 

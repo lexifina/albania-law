@@ -12,7 +12,7 @@ Miratimin e rregullores për përcaktimin e rregullave zbatuese të vlefshmëris
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0313-57` (tags `urdher-2024-0313-57/<day>`; `python tools/on.py <day> urdher-2024-0313-57`).
+Act id: `urdher-2024-0313-57` (tags `urdher-2024-0313-57/<day>`; `python registry/tools/on.py <day> urdher-2024-0313-57`).
 
 ## Decisions made by hand
 

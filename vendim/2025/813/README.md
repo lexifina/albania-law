@@ -68,7 +68,7 @@ Miratimin e skemës kombëtare të certifikimit të sigurisë kibernetike, si dh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-813` (tags `vendim-2025-813/<day>`; `python tools/on.py <day> vendim-2025-813`).
+Act id: `vendim-2025-813` (tags `vendim-2025-813/<day>`; `python registry/tools/on.py <day> vendim-2025-813`).
 
 ## Decisions made by hand
 

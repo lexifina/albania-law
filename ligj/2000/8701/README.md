@@ -5,7 +5,7 @@ Lojërat e fatit, kazinotë dhe hipodromet · 2 versions, from 2001-01-15 (lates
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8701` (tags `ligj-2000-8701/<day>`; `python tools/on.py <day> ligj-2000-8701`).
+Act id: `ligj-2000-8701` (tags `ligj-2000-8701/<day>`; `python registry/tools/on.py <day> ligj-2000-8701`).
 
 ## Decisions made by hand
 

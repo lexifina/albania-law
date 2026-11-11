@@ -15,7 +15,7 @@ Lehtësimin e posaçëm të lëvizjes në ”zonat e gjelbërta” · 4 versions
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0425-279` (tags `urdher-2020-0425-279/<day>`; `python tools/on.py <day> urdher-2020-0425-279`).
+Act id: `urdher-2020-0425-279` (tags `urdher-2020-0425-279/<day>`; `python registry/tools/on.py <day> urdher-2020-0425-279`).
 
 ## Decisions made by hand
 

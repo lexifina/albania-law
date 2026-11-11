@@ -61,7 +61,7 @@ Kontabilitetin dhe pasqyrat financiare · 2 versions, from 2019-01-01 (latest in
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-08-22 |
 
-Act id: `ligj-2018-25` (tags `ligj-2018-25/<day>`; `python tools/on.py <day> ligj-2018-25`).
+Act id: `ligj-2018-25` (tags `ligj-2018-25/<day>`; `python registry/tools/on.py <day> ligj-2018-25`).
 
 ## Decisions made by hand
 

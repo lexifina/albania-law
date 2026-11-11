@@ -28,7 +28,15 @@ Procedurat e pranimit dhe të regjistrimit në ciklin e parë, të studimeve me 
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1105-35` (tags `udhezim-2010-1105-35/<day>`; `python tools/on.py <day> udhezim-2010-1105-35`).
+Act id: `udhezim-2010-1105-35` (tags `udhezim-2010-1105-35/<day>`; `python registry/tools/on.py <day> udhezim-2010-1105-35`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 38, datë 2.12.2010 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 16721]: Për një ndryshim në udhëzimin nr.35, datë 5.11.2010 ”për procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me kohë të pjesshme dhe edukimin në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2010-2011”](https://qbz.gov.al/eli/udhezim/2010/12/02/38)
 
 ## Decisions made by hand
 

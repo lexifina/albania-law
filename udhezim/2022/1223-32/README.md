@@ -27,7 +27,7 @@ Organizimin dhe zhvillimin e provimeve të maturës shtetërore dhe të maturës
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1223-32` (tags `udhezim-2022-1223-32/<day>`; `python tools/on.py <day> udhezim-2022-1223-32`).
+Act id: `udhezim-2022-1223-32` (tags `udhezim-2022-1223-32/<day>`; `python registry/tools/on.py <day> udhezim-2022-1223-32`).
 
 ## Decisions made by hand
 

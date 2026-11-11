@@ -26,7 +26,7 @@ Procedurat dhe format e shitjes së truallit, të pajisur me infrastrukturë, p�
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-35` (tags `vendim-2007-35/<day>`; `python tools/on.py <day> vendim-2007-35`).
+Act id: `vendim-2007-35` (tags `vendim-2007-35/<day>`; `python registry/tools/on.py <day> vendim-2007-35`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores “Për shfrytëzimin e hapësirave nga ana e personave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1503` (tags `vendim-2008-1503/<day>`; `python tools/on.py <day> vendim-2008-1503`).
+Act id: `vendim-2008-1503` (tags `vendim-2008-1503/<day>`; `python registry/tools/on.py <day> vendim-2008-1503`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2010, për Autoritetin e Komuniki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-104` (tags `vendim-2010-104/<day>`; `python tools/on.py <day> vendim-2010-104`).
+Act id: `vendim-2010-104` (tags `vendim-2010-104/<day>`; `python registry/tools/on.py <day> vendim-2010-104`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,15 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-413` (tags `vendim-2016-413/<day>`; `python tools/on.py <day> vendim-2016-413`).
+Act id: `vendim-2016-413` (tags `vendim-2016-413/<day>`; `python registry/tools/on.py <day> vendim-2016-413`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 72-1, datë 10.4.2017: Korrigjim gabimi në vendimin nr.413, datë 1.6.2016, të Këshillit të Ministrave, “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i Parkut Sportiv”, Korçë”, botuar në “Fletoren Zyrtare”, nr.101, viti 2016](https://qbz.gov.al/eli/vendim/2017/04/10/72-1)
 
 ## Decisions made by hand
 

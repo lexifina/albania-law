@@ -13,7 +13,7 @@ Hapjen e programit të studimit specializues afatgjatë, për mjekësi interne, 
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1081` (tags `vendim-2008-1081/<day>`; `python tools/on.py <day> vendim-2008-1081`).
+Act id: `vendim-2008-1081` (tags `vendim-2008-1081/<day>`; `python registry/tools/on.py <day> vendim-2008-1081`).
 
 ## Decisions made by hand
 

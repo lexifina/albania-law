@@ -25,7 +25,7 @@ Krijimin e Qendrës Shumëfunksionale të Arsimit dhe Formimit Profesional në K
 | Pika 18 | [pika-018.md](pika-018.md) | 1 | 2015-06-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-745` (tags `vendim-2013-745/<day>`; `python tools/on.py <day> vendim-2013-745`).
+Act id: `vendim-2013-745` (tags `vendim-2013-745/<day>`; `python registry/tools/on.py <day> vendim-2013-745`).
 
 ## Decisions made by hand
 

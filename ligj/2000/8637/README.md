@@ -5,7 +5,7 @@ Policinë elektrike · 2 versions, from 2000-08-03 (latest in force: 2007-07-04)
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8637` (tags `ligj-2000-8637/<day>`; `python tools/on.py <day> ligj-2000-8637`).
+Act id: `ligj-2000-8637` (tags `ligj-2000-8637/<day>`; `python registry/tools/on.py <day> ligj-2000-8637`).
 
 ## Decisions made by hand
 

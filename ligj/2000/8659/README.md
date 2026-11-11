@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit nr.3, datë 4.8.2000, “për nj
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8659` (tags `ligj-2000-8659/<day>`; `python tools/on.py <day> ligj-2000-8659`).
+Act id: `ligj-2000-8659` (tags `ligj-2000-8659/<day>`; `python registry/tools/on.py <day> ligj-2000-8659`).
 
 ## Decisions made by hand
 

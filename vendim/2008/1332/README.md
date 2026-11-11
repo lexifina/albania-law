@@ -12,7 +12,7 @@ R hapjen e programit të studimit, master i nivelit të parë në mësuesi, për
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1332` (tags `vendim-2008-1332/<day>`; `python tools/on.py <day> vendim-2008-1332`).
+Act id: `vendim-2008-1332` (tags `vendim-2008-1332/<day>`; `python registry/tools/on.py <day> vendim-2008-1332`).
 
 ## Decisions made by hand
 

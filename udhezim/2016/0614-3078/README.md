@@ -10,7 +10,7 @@ Ndryshimin e udhëzimit të përbashkët nr. 1568/3, datë 14.4.2015, “për p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0614-3078` (tags `udhezim-2016-0614-3078/<day>`; `python tools/on.py <day> udhezim-2016-0614-3078`).
+Act id: `udhezim-2016-0614-3078` (tags `udhezim-2016-0614-3078/<day>`; `python registry/tools/on.py <day> udhezim-2016-0614-3078`).
 
 ## Decisions made by hand
 

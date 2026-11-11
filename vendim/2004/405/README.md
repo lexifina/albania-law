@@ -5,7 +5,7 @@ PagëN minimale NË shkallë vendi · 2 versions, from 2004-07-07 (latest in for
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-405` (tags `vendim-2004-405/<day>`; `python tools/on.py <day> vendim-2004-405`).
+Act id: `vendim-2004-405` (tags `vendim-2004-405/<day>`; `python registry/tools/on.py <day> vendim-2004-405`).
 
 ## Decisions made by hand
 

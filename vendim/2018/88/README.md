@@ -18,7 +18,7 @@ Krijimin e qendrës ndërinstitucionale të rrjetit akademik shqiptar (rash) · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-88` (tags `vendim-2018-88/<day>`; `python tools/on.py <day> vendim-2018-88`).
+Act id: `vendim-2018-88` (tags `vendim-2018-88/<day>`; `python registry/tools/on.py <day> vendim-2018-88`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Ratifikimin e konventës nr.147 të organizatës ndërkombëtare të punës (ilo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9809` (tags `ligj-2007-9809/<day>`; `python tools/on.py <day> ligj-2007-9809`).
+Act id: `ligj-2007-9809` (tags `ligj-2007-9809/<day>`; `python registry/tools/on.py <day> ligj-2007-9809`).
 
 ## Decisions made by hand
 

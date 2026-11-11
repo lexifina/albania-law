@@ -12,7 +12,7 @@ Kalimin e shërbimit të buxhetit bankave tregtare, me seli në republikën e sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-310` (tags `vendim-2001-310/<day>`; `python tools/on.py <day> vendim-2001-310`).
+Act id: `vendim-2001-310` (tags `vendim-2001-310/<day>`; `python registry/tools/on.py <day> vendim-2001-310`).
 
 ## Decisions made by hand
 

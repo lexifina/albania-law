@@ -11,7 +11,7 @@ Miratimin e përkthimit në gjuhën shqipe të ndryshimeve në Standardin Ndërk
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-1230-290` (tags `urdher-2022-1230-290/<day>`; `python tools/on.py <day> urdher-2022-1230-290`).
+Act id: `urdher-2022-1230-290` (tags `urdher-2022-1230-290/<day>`; `python registry/tools/on.py <day> urdher-2022-1230-290`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ MBi PËRCAKTIMIN E NORMAVE TEKNIKE PËR PROJEKTIMIN DHE NDËRTIMIN E VARREZAVE P
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-1216-7` (tags `udhezim-2004-1216-7/<day>`; `python tools/on.py <day> udhezim-2004-1216-7`).
+Act id: `udhezim-2004-1216-7` (tags `udhezim-2004-1216-7/<day>`; `python registry/tools/on.py <day> udhezim-2004-1216-7`).
 
 ## Decisions made by hand
 

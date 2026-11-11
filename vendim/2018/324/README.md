@@ -9,7 +9,7 @@ Miratimin e dokumentit të ndryshimit nr. 2 të marrëveshjes së grantit suedez
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-324` (tags `vendim-2018-324/<day>`; `python tools/on.py <day> vendim-2018-324`).
+Act id: `vendim-2018-324` (tags `vendim-2018-324/<day>`; `python registry/tools/on.py <day> vendim-2018-324`).
 
 ## Decisions made by hand
 

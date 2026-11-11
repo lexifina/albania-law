@@ -12,7 +12,7 @@ Trajtimin financiar të ushtarakëve dhe punonjësve civilë në Forcat e Armato
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-28` (tags `vendim-2002-28/<day>`; `python tools/on.py <day> vendim-2002-28`).
+Act id: `vendim-2002-28` (tags `vendim-2002-28/<day>`; `python registry/tools/on.py <day> vendim-2002-28`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ PËR LEJIMIN E LËVIZJES JASHTË TERRITORIT TË REPUBLIKËS SË SHQIPËRISË SË
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-635` (tags `vendim-2016-635/<day>`; `python tools/on.py <day> vendim-2016-635`).
+Act id: `vendim-2016-635` (tags `vendim-2016-635/<day>`; `python registry/tools/on.py <day> vendim-2016-635`).
 
 ## Decisions made by hand
 

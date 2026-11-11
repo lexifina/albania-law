@@ -5,7 +5,7 @@ Punën e kuvendit në procesin e integrimit të shqipërisë në bashkimin europ
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9252` (tags `ligj-2004-9252/<day>`; `python tools/on.py <day> ligj-2004-9252`).
+Act id: `ligj-2004-9252` (tags `ligj-2004-9252/<day>`; `python registry/tools/on.py <day> ligj-2004-9252`).
 
 ## Decisions made by hand
 

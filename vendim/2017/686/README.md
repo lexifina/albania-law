@@ -10,7 +10,7 @@ Miratimin e rregullores së planifikimit të territorit · 5 versions, from 2017
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2026-10-30 |
 
-Act id: `vendim-2017-686` (tags `vendim-2017-686/<day>`; `python tools/on.py <day> vendim-2017-686`).
+Act id: `vendim-2017-686` (tags `vendim-2017-686/<day>`; `python registry/tools/on.py <day> vendim-2017-686`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e rregullave mbi detyrimin për vetëdeklarim të adresës nga shtetas
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-405` (tags `vendim-2018-405/<day>`; `python tools/on.py <day> vendim-2018-405`).
+Act id: `vendim-2018-405` (tags `vendim-2018-405/<day>`; `python registry/tools/on.py <day> vendim-2018-405`).
 
 ## Decisions made by hand
 

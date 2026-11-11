@@ -13,7 +13,7 @@ Hapjen e procedurës së pranimit të drejtpërdrejtë në TND edhe për kandida
 | Pika 6 | [pika-006.md](pika-006.md) | 1 | 2022-03-08 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-730` (tags `vendim-2021-730/<day>`; `python tools/on.py <day> vendim-2021-730`).
+Act id: `vendim-2021-730` (tags `vendim-2021-730/<day>`; `python registry/tools/on.py <day> vendim-2021-730`).
 
 ## Decisions made by hand
 

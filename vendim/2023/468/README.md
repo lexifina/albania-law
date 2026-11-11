@@ -21,7 +21,7 @@ Trajtimin me kredi të lehtësuar të të punësuarve në administratën publike
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-468` (tags `vendim-2023-468/<day>`; `python tools/on.py <day> vendim-2023-468`).
+Act id: `vendim-2023-468` (tags `vendim-2023-468/<day>`; `python registry/tools/on.py <day> vendim-2023-468`).
 
 ## Decisions made by hand
 

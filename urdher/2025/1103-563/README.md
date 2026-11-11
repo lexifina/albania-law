@@ -15,7 +15,7 @@ Raportimin e të dhënave dhe ecurisë së çështjeve gjyqësore · 1 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1103-563` (tags `urdher-2025-1103-563/<day>`; `python tools/on.py <day> urdher-2025-1103-563`).
+Act id: `urdher-2025-1103-563` (tags `urdher-2025-1103-563/<day>`; `python registry/tools/on.py <day> urdher-2025-1103-563`).
 
 ## Decisions made by hand
 

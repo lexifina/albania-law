@@ -8,7 +8,7 @@ Lirimin nga detyra të anëtarëve të Komisionit të Prokurimit Publik, të em�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-991` (tags `vendim-2013-991/<day>`; `python tools/on.py <day> vendim-2013-991`).
+Act id: `vendim-2013-991` (tags `vendim-2013-991/<day>`; `python registry/tools/on.py <day> vendim-2013-991`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Krijimin e bazës së të dhënave shtetërore të studentëve, të cilët studi
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-504` (tags `vendim-2020-504/<day>`; `python tools/on.py <day> vendim-2020-504`).
+Act id: `vendim-2020-504` (tags `vendim-2020-504/<day>`; `python registry/tools/on.py <day> vendim-2020-504`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Ndalimin e menjëhershëm të veprimtarisë së shfrytëzimit të rërës dhe zh
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-441` (tags `vendim-2002-441/<day>`; `python tools/on.py <day> vendim-2002-441`).
+Act id: `vendim-2002-441` (tags `vendim-2002-441/<day>`; `python registry/tools/on.py <day> vendim-2002-441`).
 
 ## Decisions made by hand
 

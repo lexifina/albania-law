@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-44` (tags `vendim-2010-44/<day>`; `python tools/on.py <day> vendim-2010-44`).
+Act id: `vendim-2010-44` (tags `vendim-2010-44/<day>`; `python registry/tools/on.py <day> vendim-2010-44`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 559, datë 27.7.2016: Për disa ndryshime në vendimin nr. 44, datë 27.1.2010, të këshillit të ministrave, “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës kushovë, të qarkut të elbasanit”](https://qbz.gov.al/eli/vendim/2016/07/27/559)
 
 ## Decisions made by hand
 

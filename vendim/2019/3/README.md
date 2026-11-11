@@ -10,7 +10,7 @@ Miratimin e planit të shpenzimeve, për vitin 2019, të Entit Rregullator të S
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-05-27 |
 
-Act id: `vendim-2019-3` (tags `vendim-2019-3/<day>`; `python tools/on.py <day> vendim-2019-3`).
+Act id: `vendim-2019-3` (tags `vendim-2019-3/<day>`; `python registry/tools/on.py <day> vendim-2019-3`).
 
 ## Decisions made by hand
 

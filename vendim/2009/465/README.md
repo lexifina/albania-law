@@ -10,7 +10,7 @@ Miratimin e fondit të shpenzimeve, për vitin 2009, për autoritetin e komuniki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-465` (tags `vendim-2009-465/<day>`; `python tools/on.py <day> vendim-2009-465`).
+Act id: `vendim-2009-465` (tags `vendim-2009-465/<day>`; `python registry/tools/on.py <day> vendim-2009-465`).
 
 ## Decisions made by hand
 

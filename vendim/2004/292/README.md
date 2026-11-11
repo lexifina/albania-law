@@ -10,7 +10,7 @@ Miratimin e strategjisë Kombëtare antidrogë 2004-2010 · 1 versions, from 200
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-292` (tags `vendim-2004-292/<day>`; `python tools/on.py <day> vendim-2004-292`).
+Act id: `vendim-2004-292` (tags `vendim-2004-292/<day>`; `python registry/tools/on.py <day> vendim-2004-292`).
 
 ## Decisions made by hand
 

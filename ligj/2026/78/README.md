@@ -69,7 +69,7 @@ Statutin e shoqërisë evropiane (SE) · 1 versions, from 2026-08-21 (latest in 
 | Neni 55 | [neni-055.md](neni-055.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-78-2026` (tags `ligji-78-2026/<day>`; `python tools/on.py <day> ligji-78-2026`).
+Act id: `ligji-78-2026` (tags `ligji-78-2026/<day>`; `python registry/tools/on.py <day> ligji-78-2026`).
 
 ## Decisions made by hand
 

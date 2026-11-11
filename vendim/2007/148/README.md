@@ -11,7 +11,15 @@ Disa shtesa dhe ndryshime në marrëveshjen e koncesionit të formës “rot”,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-148` (tags `vendim-2007-148/<day>`; `python tools/on.py <day> vendim-2007-148`).
+Act id: `vendim-2007-148` (tags `vendim-2007-148/<day>`; `python registry/tools/on.py <day> vendim-2007-148`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 930, datë 2.9.2009: Për miratimin e marrëveshjes “Për disa shtesa dhe ndryshime në marrëveshjen shtesë të koncesionit për 25 hidrocentralet vendore, të lidhur ndërmjet ministrisë së ekonomisë, tregtisë dhe energjetikës dhe shoqërisë italiane “ESSEGEI”, s.p.a, miratuar me vendimin nr.148, datë 22.3.2007 të këshillit të ministrave”](https://qbz.gov.al/eli/vendim/2009/09/02/930)
 
 ## Decisions made by hand
 

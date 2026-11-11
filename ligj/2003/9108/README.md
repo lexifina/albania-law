@@ -5,7 +5,7 @@ Substancat dhe preparatet kimike · 4 versions, from 2003-08-19 (latest in force
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2003-9108` (tags `ligj-2003-9108/<day>`; `python tools/on.py <day> ligj-2003-9108`).
+Act id: `ligj-2003-9108` (tags `ligj-2003-9108/<day>`; `python registry/tools/on.py <day> ligj-2003-9108`).
 
 ## Decisions made by hand
 

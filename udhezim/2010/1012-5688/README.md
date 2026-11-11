@@ -14,7 +14,7 @@ Zbatimin e masave të përbashkëta në disiplinimin e shërbimit taksi të tran
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2010-1012-5688` (tags `udhezim-2010-1012-5688/<day>`; `python tools/on.py <day> udhezim-2010-1012-5688`).
+Act id: `udhezim-2010-1012-5688` (tags `udhezim-2010-1012-5688/<day>`; `python registry/tools/on.py <day> udhezim-2010-1012-5688`).
 
 ## Decisions made by hand
 

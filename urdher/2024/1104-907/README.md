@@ -5,7 +5,7 @@ Disa mbrojtëse ndaj sëmundjes së lisë së dhenve dhe dhive të shfaqur në s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-1104-907` (tags `urdher-2024-1104-907/<day>`; `python tools/on.py <day> urdher-2024-1104-907`).
+Act id: `urdher-2024-1104-907` (tags `urdher-2024-1104-907/<day>`; `python registry/tools/on.py <day> urdher-2024-1104-907`).
 
 ## Decisions made by hand
 

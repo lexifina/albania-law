@@ -85,7 +85,7 @@ Agjencinë e inteligjencës dhe sigurisë së mbrojtjes · 2 versions, from 2014
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-65` (tags `ligj-2014-65/<day>`; `python tools/on.py <day> ligj-2014-65`).
+Act id: `ligj-2014-65` (tags `ligj-2014-65/<day>`; `python registry/tools/on.py <day> ligj-2014-65`).
 
 ## Decisions made by hand
 

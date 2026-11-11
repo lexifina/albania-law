@@ -9,7 +9,7 @@ Miratimin e Buxhetit Faktik të Shtetit të vitit 2006 · 1 versions, from 2007-
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9818` (tags `ligj-2007-9818/<day>`; `python tools/on.py <day> ligj-2007-9818`).
+Act id: `ligj-2007-9818` (tags `ligj-2007-9818/<day>`; `python registry/tools/on.py <day> ligj-2007-9818`).
 
 ## Decisions made by hand
 

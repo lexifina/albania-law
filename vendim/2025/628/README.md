@@ -17,7 +17,7 @@ Shpalljen ditë zie kombëtare në nderim të të ndjerit, Fatos Nano, ish-Kryem
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-628` (tags `vendim-2025-628/<day>`; `python tools/on.py <day> vendim-2025-628`).
+Act id: `vendim-2025-628` (tags `vendim-2025-628/<day>`; `python registry/tools/on.py <day> vendim-2025-628`).
 
 ## Decisions made by hand
 

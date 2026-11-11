@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes për bashkëpunimin ekonomik ndërmjet Këshillit t�
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-51-2024` (tags `ligji-51-2024/<day>`; `python tools/on.py <day> ligji-51-2024`).
+Act id: `ligji-51-2024` (tags `ligji-51-2024/<day>`; `python registry/tools/on.py <day> ligji-51-2024`).
 
 ## Decisions made by hand
 

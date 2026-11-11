@@ -5,7 +5,7 @@ Përcaktimin e tarifave të vlerësimit dhe akreditimit për shkollat e larta jo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2006-0228-4` (tags `udhezim-2006-0228-4/<day>`; `python tools/on.py <day> udhezim-2006-0228-4`).
+Act id: `udhezim-2006-0228-4` (tags `udhezim-2006-0228-4/<day>`; `python registry/tools/on.py <day> udhezim-2006-0228-4`).
 
 ## Decisions made by hand
 

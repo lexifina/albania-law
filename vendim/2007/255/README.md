@@ -5,7 +5,7 @@ Fondin e ekselencës, për mbështetje financiare të studentëve e shkencëtar�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-255` (tags `vendim-2007-255/<day>`; `python tools/on.py <day> vendim-2007-255`).
+Act id: `vendim-2007-255` (tags `vendim-2007-255/<day>`; `python registry/tools/on.py <day> vendim-2007-255`).
 
 ## Decisions made by hand
 

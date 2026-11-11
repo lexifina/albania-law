@@ -10,7 +10,7 @@ Miratimin e rregullores “Për një plan shumëvjeçar rehabilitimi për peshku
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0520-230` (tags `urdher-2022-0520-230/<day>`; `python tools/on.py <day> urdher-2022-0520-230`).
+Act id: `urdher-2022-0520-230` (tags `urdher-2022-0520-230/<day>`; `python registry/tools/on.py <day> urdher-2022-0520-230`).
 
 ## Decisions made by hand
 

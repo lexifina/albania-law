@@ -5,7 +5,7 @@ Kompensimin për privacionet dhe humbjet që i shkaktohen punonjësit të polici
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-183` (tags `vendim-2011-183/<day>`; `python tools/on.py <day> vendim-2011-183`).
+Act id: `vendim-2011-183` (tags `vendim-2011-183/<day>`; `python registry/tools/on.py <day> vendim-2011-183`).
 
 ## Decisions made by hand
 

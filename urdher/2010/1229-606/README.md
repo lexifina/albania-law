@@ -11,7 +11,7 @@ Hapjen e programeve të ciklit të tretë, të studimeve specializuese afatgjata
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1229-606` (tags `urdher-2010-1229-606/<day>`; `python tools/on.py <day> urdher-2010-1229-606`).
+Act id: `urdher-2010-1229-606` (tags `urdher-2010-1229-606/<day>`; `python registry/tools/on.py <day> urdher-2010-1229-606`).
 
 ## Decisions made by hand
 

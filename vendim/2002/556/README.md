@@ -11,7 +11,7 @@ Shkëmbimin e vilës nr. 55, pronë e Shtetit Shqiptar, me vilën nr. 6, pronë 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-556` (tags `vendim-2002-556/<day>`; `python tools/on.py <day> vendim-2002-556`).
+Act id: `vendim-2002-556` (tags `vendim-2002-556/<day>`; `python registry/tools/on.py <day> vendim-2002-556`).
 
 ## Decisions made by hand
 

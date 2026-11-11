@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për kushtet dhe kriteret e ushtrimit të veprimtaris
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2026-05-15 |
 
-Act id: `vendim-2024-649` (tags `vendim-2024-649/<day>`; `python tools/on.py <day> vendim-2024-649`).
+Act id: `vendim-2024-649` (tags `vendim-2024-649/<day>`; `python registry/tools/on.py <day> vendim-2024-649`).
 
 ## Decisions made by hand
 

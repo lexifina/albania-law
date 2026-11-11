@@ -39,7 +39,7 @@ Kontrollin e zbatimit të rregullave nga subjektet që kryejnë veprimtarinë p�
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0619-106` (tags `udhezim-2012-0619-106/<day>`; `python tools/on.py <day> udhezim-2012-0619-106`).
+Act id: `udhezim-2012-0619-106` (tags `udhezim-2012-0619-106/<day>`; `python registry/tools/on.py <day> udhezim-2012-0619-106`).
 
 ## Decisions made by hand
 

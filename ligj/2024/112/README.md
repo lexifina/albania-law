@@ -9,7 +9,7 @@ Miratimin e buxhetit faktik të vitit 2023 · 1 versions, from 2024-12-06 (lates
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-112-2024` (tags `ligji-112-2024/<day>`; `python tools/on.py <day> ligji-112-2024`).
+Act id: `ligji-112-2024` (tags `ligji-112-2024/<day>`; `python registry/tools/on.py <day> ligji-112-2024`).
 
 ## Decisions made by hand
 

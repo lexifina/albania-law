@@ -10,7 +10,7 @@ Miratimin e rregullores mbi harmonizimin e kërkesave teknike dhe procedurave ad
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0928-92` (tags `urdher-2011-0928-92/<day>`; `python tools/on.py <day> urdher-2011-0928-92`).
+Act id: `urdher-2011-0928-92` (tags `urdher-2011-0928-92/<day>`; `python registry/tools/on.py <day> urdher-2011-0928-92`).
 
 ## Decisions made by hand
 

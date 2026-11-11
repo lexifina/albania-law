@@ -5,7 +5,7 @@ Nxitjen e përdorimit të energjisë nga burimet e rinovueshme · 2 versions, fr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2017-7` (tags `ligj-2017-7/<day>`; `python tools/on.py <day> ligj-2017-7`).
+Act id: `ligj-2017-7` (tags `ligj-2017-7/<day>`; `python registry/tools/on.py <day> ligj-2017-7`).
 
 ## Decisions made by hand
 

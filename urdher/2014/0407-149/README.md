@@ -5,7 +5,7 @@ Miratimin e rregullores për përcaktimin e rregullave të zbatimit të vlefshm�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2014-0407-149` (tags `urdher-2014-0407-149/<day>`; `python tools/on.py <day> urdher-2014-0407-149`).
+Act id: `urdher-2014-0407-149` (tags `urdher-2014-0407-149/<day>`; `python registry/tools/on.py <day> urdher-2014-0407-149`).
 
 ## Decisions made by hand
 

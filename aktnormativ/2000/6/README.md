@@ -14,7 +14,7 @@ Akt normativ Nr.6 Dt.31.01.2000 · 1 versions, from 2000-11-10 (latest in force:
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2000-6` (tags `aktnormativ-2000-6/<day>`; `python tools/on.py <day> aktnormativ-2000-6`).
+Act id: `aktnormativ-2000-6` (tags `aktnormativ-2000-6/<day>`; `python registry/tools/on.py <day> aktnormativ-2000-6`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,16 @@ Miratimin e autorizimit për ndërtimin e centralit elektrik me erë (parqe eoli
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-512` (tags `vendim-2009-512/<day>`; `python tools/on.py <day> vendim-2009-512`).
+Act id: `vendim-2009-512` (tags `vendim-2009-512/<day>`; `python registry/tools/on.py <day> vendim-2009-512`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 538, datë 27.7.2011: Për miratimin e disa ndryshimeve në autorizimin dhënë “Enpower Albania” shpk për ndërtimin e centralit elektrik me erë (Parqe eolike) Të miratuar me vendimin nr.512, datë 13.5.2009 të këshillit të ministrave, të ndryshuar](https://qbz.gov.al/eli/vendim/2011/07/27/538)
+- [Vendimi i Këshillit të Ministrave nr. 636, datë 11.6.2009: PËR MIRATIMIN E DISA SHTESAVE DHE NDRYSHIMEVE NË AUTORIZIMIN DHËNË “ENPOWeR ALBANIA”, SHPK-SË, PËR NDËRTIMIN E CENTRALIT ELEKTRIK ME ERË (PARQE EOLIKE), TË MIRATUAR ME VENDIMIN NR.512, DATË 13.5.2009 TË KËSHILLIT TË MINISTRAVE](https://qbz.gov.al/eli/vendim/2009/06/11/636)
 
 ## Decisions made by hand
 

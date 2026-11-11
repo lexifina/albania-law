@@ -9,7 +9,7 @@ Formën dhe përmbajtjen e Librezës së Vullnetarit · 1 versions, from 2026-06
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0602-252` (tags `urdher-2026-0602-252/<day>`; `python tools/on.py <day> urdher-2026-0602-252`).
+Act id: `urdher-2026-0602-252` (tags `urdher-2026-0602-252/<day>`; `python registry/tools/on.py <day> urdher-2026-0602-252`).
 
 ## Decisions made by hand
 

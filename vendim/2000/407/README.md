@@ -10,7 +10,7 @@ Miratimin e strategjisë së ristrukturimit të bankës së kursimeve, sh.a · 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2001-06-09 |
 
-Act id: `vendim-2000-407` (tags `vendim-2000-407/<day>`; `python tools/on.py <day> vendim-2000-407`).
+Act id: `vendim-2000-407` (tags `vendim-2000-407/<day>`; `python registry/tools/on.py <day> vendim-2000-407`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e dokumentit të ndryshimit nr. 1 të kontratës financiare ndërmjet 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-94` (tags `vendim-2020-94/<day>`; `python tools/on.py <day> vendim-2020-94`).
+Act id: `vendim-2020-94` (tags `vendim-2020-94/<day>`; `python registry/tools/on.py <day> vendim-2020-94`).
 
 ## Decisions made by hand
 

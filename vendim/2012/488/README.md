@@ -14,7 +14,7 @@ Autorizimin e “rametal” shpk për importin e mbetjeve metalike të aluminit 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-488` (tags `vendim-2012-488/<day>`; `python tools/on.py <day> vendim-2012-488`).
+Act id: `vendim-2012-488` (tags `vendim-2012-488/<day>`; `python registry/tools/on.py <day> vendim-2012-488`).
 
 ## Decisions made by hand
 

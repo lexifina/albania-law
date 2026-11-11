@@ -13,7 +13,7 @@ Mbarëvajtjen e punës mësimore-edukative në sistemin e arsimit parauniversita
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-0810-26` (tags `udhezim-2010-0810-26/<day>`; `python tools/on.py <day> udhezim-2010-0810-26`).
+Act id: `udhezim-2010-0810-26` (tags `udhezim-2010-0810-26/<day>`; `python registry/tools/on.py <day> udhezim-2010-0810-26`).
 
 ## Decisions made by hand
 

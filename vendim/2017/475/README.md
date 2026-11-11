@@ -17,7 +17,7 @@ Pjesëmarrjen e një toge të forcave të armatosura të republikës së shqipë
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-475` (tags `vendim-2017-475/<day>`; `python tools/on.py <day> vendim-2017-475`).
+Act id: `vendim-2017-475` (tags `vendim-2017-475/<day>`; `python registry/tools/on.py <day> vendim-2017-475`).
 
 ## Decisions made by hand
 

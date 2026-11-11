@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e Agjencisë Kombëtare për Zhvillimin R
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-961` (tags `vendim-2015-961/<day>`; `python tools/on.py <day> vendim-2015-961`).
+Act id: `vendim-2015-961` (tags `vendim-2015-961/<day>`; `python registry/tools/on.py <day> vendim-2015-961`).
 
 ## Decisions made by hand
 

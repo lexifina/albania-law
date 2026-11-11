@@ -5,7 +5,7 @@ Krijimin e arkivit shtetëror të sistemit gjyqësor · 2 versions, from 2015-01
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-903` (tags `vendim-2014-903/<day>`; `python tools/on.py <day> vendim-2014-903`).
+Act id: `vendim-2014-903` (tags `vendim-2014-903/<day>`; `python registry/tools/on.py <day> vendim-2014-903`).
 
 ## Decisions made by hand
 

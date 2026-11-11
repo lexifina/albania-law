@@ -10,7 +10,7 @@ Ratifikimin e “konventës nr.183 “mbrojtja e amësisë, 2000””, të orga
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8829` (tags `ligj-2001-8829/<day>`; `python tools/on.py <day> ligj-2001-8829`).
+Act id: `ligj-2001-8829` (tags `ligj-2001-8829/<day>`; `python registry/tools/on.py <day> ligj-2001-8829`).
 
 ## Decisions made by hand
 

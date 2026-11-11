@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-275` (tags `vendim-2009-275/<day>`; `python tools/on.py <day> vendim-2009-275`).
+Act id: `vendim-2009-275` (tags `vendim-2009-275/<day>`; `python registry/tools/on.py <day> vendim-2009-275`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 709, datë 16.8.2013: Për disa ndryshime në vendimin nr. 275, datë 18.3.2009 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Mollas të qarkut të Elbasanit”](https://qbz.gov.al/eli/vendim/2013/08/16/709)
 
 ## Decisions made by hand
 

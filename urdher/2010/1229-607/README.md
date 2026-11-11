@@ -11,7 +11,7 @@ Hapjen e programeve të ciklit të tretë, të doktoratës, në fakultetin ekono
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1229-607` (tags `urdher-2010-1229-607/<day>`; `python tools/on.py <day> urdher-2010-1229-607`).
+Act id: `urdher-2010-1229-607` (tags `urdher-2010-1229-607/<day>`; `python registry/tools/on.py <day> urdher-2010-1229-607`).
 
 ## Decisions made by hand
 

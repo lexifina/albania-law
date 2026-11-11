@@ -10,7 +10,7 @@ Aderimin e Republikës së Shqipërisë në aktin e Hagës të Marrëveshjes së
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9648-2006` (tags `ligji-9648-2006/<day>`; `python tools/on.py <day> ligji-9648-2006`).
+Act id: `ligji-9648-2006` (tags `ligji-9648-2006/<day>`; `python registry/tools/on.py <day> ligji-9648-2006`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Hapjen e programeve të studimit të ciklit të parë “Juridik”, “Shkenca 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-350` (tags `vendim-2010-350/<day>`; `python tools/on.py <day> vendim-2010-350`).
+Act id: `vendim-2010-350` (tags `vendim-2010-350/<day>`; `python registry/tools/on.py <day> vendim-2010-350`).
 
 ## Decisions made by hand
 

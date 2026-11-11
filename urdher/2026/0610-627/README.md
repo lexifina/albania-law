@@ -12,7 +12,7 @@ Delegimin/autorizimin e kompetencave të ministrit të Bujqësisë dhe Zhvillimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0610-627` (tags `urdher-2026-0610-627/<day>`; `python tools/on.py <day> urdher-2026-0610-627`).
+Act id: `urdher-2026-0610-627` (tags `urdher-2026-0610-627/<day>`; `python registry/tools/on.py <day> urdher-2026-0610-627`).
 
 ## Decisions made by hand
 

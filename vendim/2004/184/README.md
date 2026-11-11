@@ -12,7 +12,7 @@ Masën e indeksimit të pagave për vitin 2004 · 1 versions, from 2004-04-16 (l
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-184` (tags `vendim-2004-184/<day>`; `python tools/on.py <day> vendim-2004-184`).
+Act id: `vendim-2004-184` (tags `vendim-2004-184/<day>`; `python registry/tools/on.py <day> vendim-2004-184`).
 
 ## Decisions made by hand
 

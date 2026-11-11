@@ -5,7 +5,7 @@ Dokumentacionin e domosdoshëm për të kërkuar leje mjedisore · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-0107-1` (tags `udhezim-2008-0107-1/<day>`; `python tools/on.py <day> udhezim-2008-0107-1`).
+Act id: `udhezim-2008-0107-1` (tags `udhezim-2008-0107-1/<day>`; `python registry/tools/on.py <day> udhezim-2008-0107-1`).
 
 ## Decisions made by hand
 

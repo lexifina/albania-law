@@ -5,7 +5,7 @@ Shpalljen e zonës arkeologjike “A” dhe “B” të qytetit të Shkodrës dh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-429` (tags `vendim-2010-429/<day>`; `python tools/on.py <day> vendim-2010-429`).
+Act id: `vendim-2010-429` (tags `vendim-2010-429/<day>`; `python registry/tools/on.py <day> vendim-2010-429`).
 
 ## Decisions made by hand
 

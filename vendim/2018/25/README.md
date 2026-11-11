@@ -10,7 +10,7 @@ Miratimin e kuadrit makroekonomik dhe fiskal për periudhën 2019-2021 · 1 vers
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-25` (tags `vendim-2018-25/<day>`; `python tools/on.py <day> vendim-2018-25`).
+Act id: `vendim-2018-25` (tags `vendim-2018-25/<day>`; `python registry/tools/on.py <day> vendim-2018-25`).
 
 ## Decisions made by hand
 

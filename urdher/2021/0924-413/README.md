@@ -16,7 +16,7 @@ Marrjen e masave për parandalimin e infeksionit COVID-19 për personelin e inst
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2021-0924-413` (tags `urdher-2021-0924-413/<day>`; `python tools/on.py <day> urdher-2021-0924-413`).
+Act id: `urdher-2021-0924-413` (tags `urdher-2021-0924-413/<day>`; `python registry/tools/on.py <day> urdher-2021-0924-413`).
 
 ## Decisions made by hand
 

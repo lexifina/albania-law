@@ -15,7 +15,7 @@ Delegim kompetencash · 1 versions, from 2012-11-01 (latest in force: 2012-11-01
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-1029-4013` (tags `urdher-2012-1029-4013/<day>`; `python tools/on.py <day> urdher-2012-1029-4013`).
+Act id: `urdher-2012-1029-4013` (tags `urdher-2012-1029-4013/<day>`; `python registry/tools/on.py <day> urdher-2012-1029-4013`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e procedurave të shënjimit të naftës bruto dhe nënprodukteve t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-498` (tags `vendim-2013-498/<day>`; `python tools/on.py <day> vendim-2013-498`).
+Act id: `vendim-2013-498` (tags `vendim-2013-498/<day>`; `python registry/tools/on.py <day> vendim-2013-498`).
 
 ## Decisions made by hand
 

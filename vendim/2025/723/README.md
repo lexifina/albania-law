@@ -20,7 +20,7 @@ Ngritjen, mënyrën e organizimit dhe të funksionimit të Ekipit të Përgjigje
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-723` (tags `vendim-2025-723/<day>`; `python tools/on.py <day> vendim-2025-723`).
+Act id: `vendim-2025-723` (tags `vendim-2025-723/<day>`; `python registry/tools/on.py <day> vendim-2025-723`).
 
 ## Decisions made by hand
 

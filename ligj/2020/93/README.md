@@ -11,7 +11,7 @@ Ratifikimin e konventës shumëpalëshe (MLI) për zbatimin e masave që lidhen 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-93` (tags `ligj-2020-93/<day>`; `python tools/on.py <day> ligj-2020-93`).
+Act id: `ligj-2020-93` (tags `ligj-2020-93/<day>`; `python registry/tools/on.py <day> ligj-2020-93`).
 
 ## Decisions made by hand
 

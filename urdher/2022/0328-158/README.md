@@ -10,7 +10,7 @@ Miratimin e standardeve profesionale për drejtuesit e institucioneve arsimore p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2022-0328-158` (tags `urdher-2022-0328-158/<day>`; `python tools/on.py <day> urdher-2022-0328-158`).
+Act id: `urdher-2022-0328-158` (tags `urdher-2022-0328-158/<day>`; `python registry/tools/on.py <day> urdher-2022-0328-158`).
 
 ## Decisions made by hand
 

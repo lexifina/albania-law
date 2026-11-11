@@ -5,7 +5,7 @@ Përballimin e shpenzimeve të atasheve ushtarakë, të ushtarakëve të forcave
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-305` (tags `vendim-2008-305/<day>`; `python tools/on.py <day> vendim-2008-305`).
+Act id: `vendim-2008-305` (tags `vendim-2008-305/<day>`; `python registry/tools/on.py <day> vendim-2008-305`).
 
 ## Decisions made by hand
 

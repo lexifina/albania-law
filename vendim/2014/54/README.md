@@ -25,7 +25,7 @@ Përcaktimin e kritereve, të procedurës e të mënyrës së dhënies me qira, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-07-24 |
 
-Act id: `vendim-2014-54` (tags `vendim-2014-54/<day>`; `python tools/on.py <day> vendim-2014-54`).
+Act id: `vendim-2014-54` (tags `vendim-2014-54/<day>`; `python registry/tools/on.py <day> vendim-2014-54`).
 
 ## Decisions made by hand
 

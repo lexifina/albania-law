@@ -9,7 +9,7 @@ Miratimin e statutit të shoqërisë “Nxitja e biznesit social” sha · 2 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-09-14 |
 
-Act id: `vendim-2011-391` (tags `vendim-2011-391/<day>`; `python tools/on.py <day> vendim-2011-391`).
+Act id: `vendim-2011-391` (tags `vendim-2011-391/<day>`; `python registry/tools/on.py <day> vendim-2011-391`).
 
 ## Decisions made by hand
 

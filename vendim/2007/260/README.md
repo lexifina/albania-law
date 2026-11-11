@@ -5,7 +5,7 @@ PëR BOTIMIN, SHTYPJEN DHE SHPËRNDARJEN E TEKSTEVE SHKOLLORE, Të SISTEMIT Të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-260` (tags `vendim-2007-260/<day>`; `python tools/on.py <day> vendim-2007-260`).
+Act id: `vendim-2007-260` (tags `vendim-2007-260/<day>`; `python registry/tools/on.py <day> vendim-2007-260`).
 
 ## Decisions made by hand
 

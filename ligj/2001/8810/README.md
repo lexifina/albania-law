@@ -14,7 +14,7 @@ Përcaktimin e formës dhe të strukturës së formulës të privatizimit të sh
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8810` (tags `ligj-2001-8810/<day>`; `python tools/on.py <day> ligj-2001-8810`).
+Act id: `ligj-2001-8810` (tags `ligj-2001-8810/<day>`; `python registry/tools/on.py <day> ligj-2001-8810`).
 
 ## Decisions made by hand
 

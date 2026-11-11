@@ -22,7 +22,7 @@ Përcaktimin e skemës së kreditimit studentor · 3 versions, from 2023-07-25 (
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-440` (tags `vendim-2023-440/<day>`; `python tools/on.py <day> vendim-2023-440`).
+Act id: `vendim-2023-440` (tags `vendim-2023-440/<day>`; `python registry/tools/on.py <day> vendim-2023-440`).
 
 ## Decisions made by hand
 

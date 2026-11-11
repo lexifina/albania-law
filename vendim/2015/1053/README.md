@@ -5,7 +5,7 @@ Miratimin e rregullit teknik “Për pajisjet e mbrojtjes personale (PMP)” dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1053` (tags `vendim-2015-1053/<day>`; `python tools/on.py <day> vendim-2015-1053`).
+Act id: `vendim-2015-1053` (tags `vendim-2015-1053/<day>`; `python registry/tools/on.py <day> vendim-2015-1053`).
 
 ## Decisions made by hand
 

@@ -28,7 +28,7 @@ Përcaktimin e modelit të financimit të buxhetit për shkencën dhe kërkimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-230` (tags `vendim-2026-230/<day>`; `python tools/on.py <day> vendim-2026-230`).
+Act id: `vendim-2026-230` (tags `vendim-2026-230/<day>`; `python registry/tools/on.py <day> vendim-2026-230`).
 
 ## Decisions made by hand
 

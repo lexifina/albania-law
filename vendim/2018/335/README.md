@@ -18,7 +18,7 @@ Miratimin e rregullave për regjistrimin, të procedurës dhe kritereve të vler
 | Pika 10 | [pika-010.md](pika-010.md) | 2 | 2026-05-26 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-335` (tags `vendim-2018-335/<day>`; `python tools/on.py <day> vendim-2018-335`).
+Act id: `vendim-2018-335` (tags `vendim-2018-335/<day>`; `python registry/tools/on.py <day> vendim-2018-335`).
 
 ## Decisions made by hand
 

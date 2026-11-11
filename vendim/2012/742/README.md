@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e qendrës kombëtare të kërkim-shpëtimit · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-742` (tags `vendim-2012-742/<day>`; `python tools/on.py <day> vendim-2012-742`).
+Act id: `vendim-2012-742` (tags `vendim-2012-742/<day>`; `python registry/tools/on.py <day> vendim-2012-742`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Shpërndarjen e kuotave të pranimit për programet e studimit të ciklit dytë,
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1006-493` (tags `urdher-2011-1006-493/<day>`; `python tools/on.py <day> urdher-2011-1006-493`).
+Act id: `urdher-2011-1006-493` (tags `urdher-2011-1006-493/<day>`; `python registry/tools/on.py <day> urdher-2011-1006-493`).
 
 ## Decisions made by hand
 

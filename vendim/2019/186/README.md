@@ -17,7 +17,7 @@ Kriteret për punësimin e punonjësve të strukturave për mbrojtjen e fëmijë
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-186` (tags `vendim-2019-186/<day>`; `python tools/on.py <day> vendim-2019-186`).
+Act id: `vendim-2019-186` (tags `vendim-2019-186/<day>`; `python registry/tools/on.py <day> vendim-2019-186`).
 
 ## Decisions made by hand
 

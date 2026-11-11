@@ -5,7 +5,7 @@ Kriteret e përgjithshme dhe procedurat për marrjen në punë, të personelit t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2015-0224-6` (tags `udhezim-2015-0224-6/<day>`; `python tools/on.py <day> udhezim-2015-0224-6`).
+Act id: `udhezim-2015-0224-6` (tags `udhezim-2015-0224-6/<day>`; `python registry/tools/on.py <day> udhezim-2015-0224-6`).
 
 ## Decisions made by hand
 

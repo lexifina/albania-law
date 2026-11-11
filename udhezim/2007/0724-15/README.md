@@ -55,7 +55,29 @@ Kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0724-15` (tags `udhezim-2007-0724-15/<day>`; `python tools/on.py <day> udhezim-2007-0724-15`).
+Act id: `udhezim-2007-0724-15` (tags `udhezim-2007-0724-15/<day>`; `python registry/tools/on.py <day> udhezim-2007-0724-15`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 5, datë 29.5.2008 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 6575]: Për disa shtesa e ndryshime në udhëzimin nr.15, datë 24.7.2007 “Për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”](https://qbz.gov.al/eli/udhezim/2008/05/29/5)
+- [Udhëzimi nr. 9, datë 23.6.2008 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 6833]: Për një ndryshim në udhëzimin nr.15, datë 24.7.2007 “për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”, i ndryshuar](https://qbz.gov.al/eli/udhezim/2008/06/23/9)
+- [Udhëzimi nr. 5627, datë 18.11.2016 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 15976]: Pёr përcaktimin e kritereve, rregullave dhe dokumentacionit për lëshimin e licencave dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor të udhëtarëve brenda vendit](https://qbz.gov.al/eli/udhezim/2016/11/18/5627)
+- [Udhëzimi nr. 2, datë 28.1.2009 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 16844]: Mbi modelet dhe emetimin e autorizimeve për mjetet dhe transportet jashtë norme](https://qbz.gov.al/eli/udhezim/2009/01/28/2)
+- [Udhëzimi nr. 8, datë 16.11.2009 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 17883]: Për një ndryshim në udhëzimin nr.15, datë 24.7.2007 “Për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2009/11/16/8)
+- [Rregullore nr. 8, datë 11.11.2009 (Ministria e Turizmit dhe Mjedisit): Për një ndryshim në udhëzimin nr.15, datë 24.7.2007 “Për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”, të ndryshuar](https://qbz.gov.al/eli/rregullore/2009/11/11/8)
+- [Udhëzimi nr. 11, datë 18.12.2009 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 17964]: PËR DISA SHTESA E NDRYSHIME NË UDHËZIMIN NR. 15, DATË 24.07.2007 “PËR KRITERET DHE PROcEDURAT e LËSHImit tË Licencave, Autorizimeve dhe certifikatave PËR USHTRIMIN E VEPRIMTARISË NË TRANSPORTIN RRUGOR”, TË NDRYSHUAR](https://qbz.gov.al/eli/udhezim/2009/12/18/11)
+- [Udhëzimi nr. 4, datë 23.4.2010 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 18350]: Për disa shtesa e ndryshime në udhëzimin nr.15, datë 24.7.2007 “Për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2010/04/23/4)
+- [Udhëzimi nr. 8, datë 19.12.2019 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 20957]: Për kriteret, rregullat dhe dokumentacionin për lëshimin e licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin ndërkombëtar rrugor të udhëtarëve](https://qbz.gov.al/eli/udhezim/2019/12/19/8)
+- [Udhëzimi nr. 8, datë 31.12.2020 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22550]: Për kriteret, rregullat dhe dokumentacionin për lëshimin e licencave dhe të certifikatave për ushtrimin e veprimtarisë në transportin ndërkombëtar rrugor të mallrave](https://qbz.gov.al/eli/udhezim/2020/12/31/8)
+- [Udhëzimi nr. 421, datë 22.1.2016 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 61469]: Për disa ndryshime në udhëzimin nr. 15, datë 24.7.2007, “për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2016/01/22/421)
+- [Urdhri nr. 667, datë 4.10.2018 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 63615]: Për delegim kompetence](https://qbz.gov.al/eli/urdher/2018/10/04/667)
+- [Udhëzimi nr. 5, datë 17.2.2011 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 64871]: Për disa shtesa e ndryshime në udhëzimin nr.15, datë 24.7.2007 “Për kriteret dhe procedurat e lëshimit të licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin rrugor”](https://qbz.gov.al/eli/udhezim/2011/02/17/5)
+- [Urdhri nr. 318, datë 2.11.2020 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 66984]: Për delegim kompetence](https://qbz.gov.al/eli/urdher/2020/11/02/318)
+- [Vendimi i Këshillit të Ministrave nr. 201, datë 10.4.2019: Për miratimin e Planit Kombëtar për Integrimin Evropian 2019 - 2021](https://qbz.gov.al/eli/vendim/2019/04/10/201)
 
 ## Decisions made by hand
 

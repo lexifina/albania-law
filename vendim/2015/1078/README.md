@@ -9,7 +9,7 @@ Miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të i
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-1078` (tags `vendim-2015-1078/<day>`; `python tools/on.py <day> vendim-2015-1078`).
+Act id: `vendim-2015-1078` (tags `vendim-2015-1078/<day>`; `python registry/tools/on.py <day> vendim-2015-1078`).
 
 ## Decisions made by hand
 

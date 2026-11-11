@@ -5,7 +5,7 @@ Pagat e punonjësve mbështetës dhe punonjësve të tjerë të specialiteteve t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-234` (tags `vendim-2022-234/<day>`; `python tools/on.py <day> vendim-2022-234`).
+Act id: `vendim-2022-234` (tags `vendim-2022-234/<day>`; `python registry/tools/on.py <day> vendim-2022-234`).
 
 ## Decisions made by hand
 

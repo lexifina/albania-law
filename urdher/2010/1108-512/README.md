@@ -13,7 +13,7 @@ Hapjen e programeve të studimit ”master i shkencave” në universitetin ”i
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2010-1108-512` (tags `urdher-2010-1108-512/<day>`; `python tools/on.py <day> urdher-2010-1108-512`).
+Act id: `urdher-2010-1108-512` (tags `urdher-2010-1108-512/<day>`; `python registry/tools/on.py <day> urdher-2010-1108-512`).
 
 ## Decisions made by hand
 

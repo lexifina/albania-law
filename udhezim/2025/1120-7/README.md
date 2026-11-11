@@ -27,7 +27,7 @@ Mbrojtjen e të dhënave personale në median e shkruar, elektronike dhe/ose aud
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-1120-7` (tags `udhezim-2025-1120-7/<day>`; `python tools/on.py <day> udhezim-2025-1120-7`).
+Act id: `udhezim-2025-1120-7` (tags `udhezim-2025-1120-7/<day>`; `python registry/tools/on.py <day> udhezim-2025-1120-7`).
 
 ## Decisions made by hand
 

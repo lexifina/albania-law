@@ -10,7 +10,7 @@ Miratimin e rregullores së brendshme “Për organizimin dhe funksionimin e Dre
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-01-05 |
 
-Act id: `urdher-2019-1218-446` (tags `urdher-2019-1218-446/<day>`; `python tools/on.py <day> urdher-2019-1218-446`).
+Act id: `urdher-2019-1218-446` (tags `urdher-2019-1218-446/<day>`; `python registry/tools/on.py <day> urdher-2019-1218-446`).
 
 ## Decisions made by hand
 

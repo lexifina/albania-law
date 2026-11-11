@@ -9,7 +9,7 @@ Miratimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-838` (tags `vendim-2015-838/<day>`; `python tools/on.py <day> vendim-2015-838`).
+Act id: `vendim-2015-838` (tags `vendim-2015-838/<day>`; `python registry/tools/on.py <day> vendim-2015-838`).
 
 ## Decisions made by hand
 

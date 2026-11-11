@@ -17,7 +17,7 @@ Hapjen e programit të studimeve të ciklit të tretë “Master i nivelit të d
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-199` (tags `vendim-2010-199/<day>`; `python tools/on.py <day> vendim-2010-199`).
+Act id: `vendim-2010-199` (tags `vendim-2010-199/<day>`; `python registry/tools/on.py <day> vendim-2010-199`).
 
 ## Decisions made by hand
 

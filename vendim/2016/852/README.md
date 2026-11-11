@@ -14,7 +14,7 @@ Krijimin dhe mënyrën e organizimit e të funksionimit të agjencisë për efi�
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-852` (tags `vendim-2016-852/<day>`; `python tools/on.py <day> vendim-2016-852`).
+Act id: `vendim-2016-852` (tags `vendim-2016-852/<day>`; `python registry/tools/on.py <day> vendim-2016-852`).
 
 ## Decisions made by hand
 

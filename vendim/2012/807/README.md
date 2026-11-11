@@ -10,7 +10,7 @@ Shtyrjen e afatit të kryerjes së procedurave të prokurimit dhe botimit të nj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2012-807` (tags `vendim-2012-807/<day>`; `python tools/on.py <day> vendim-2012-807`).
+Act id: `vendim-2012-807` (tags `vendim-2012-807/<day>`; `python registry/tools/on.py <day> vendim-2012-807`).
 
 ## Decisions made by hand
 

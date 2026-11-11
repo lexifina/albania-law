@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipëris�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-158` (tags `ligj-2020-158/<day>`; `python tools/on.py <day> ligj-2020-158`).
+Act id: `ligj-2020-158` (tags `ligj-2020-158/<day>`; `python registry/tools/on.py <day> ligj-2020-158`).
 
 ## Decisions made by hand
 

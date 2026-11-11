@@ -20,7 +20,7 @@ Autoriparimi i mjeteve rrugore me motor dhe rimorkiove · 1 versions, from 2016-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0329-1546` (tags `udhezim-2016-0329-1546/<day>`; `python tools/on.py <day> udhezim-2016-0329-1546`).
+Act id: `udhezim-2016-0329-1546` (tags `udhezim-2016-0329-1546/<day>`; `python registry/tools/on.py <day> udhezim-2016-0329-1546`).
 
 ## Decisions made by hand
 

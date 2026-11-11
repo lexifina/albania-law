@@ -21,7 +21,7 @@ Ngritjen, përbërjen dhe mënyrën e organizimit, të funksionimit e të shpër
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-123` (tags `vendim-2014-123/<day>`; `python tools/on.py <day> vendim-2014-123`).
+Act id: `vendim-2014-123` (tags `vendim-2014-123/<day>`; `python registry/tools/on.py <day> vendim-2014-123`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Pagat e ushtarakëve aktivë të forcave të armatosura · 2 versions, from 2003
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-839` (tags `vendim-2003-839/<day>`; `python tools/on.py <day> vendim-2003-839`).
+Act id: `vendim-2003-839` (tags `vendim-2003-839/<day>`; `python registry/tools/on.py <day> vendim-2003-839`).
 
 ## Decisions made by hand
 

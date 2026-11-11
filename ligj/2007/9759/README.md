@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së financimit ndërmjet këshillit të ministrav
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2007-9759` (tags `ligj-2007-9759/<day>`; `python tools/on.py <day> ligj-2007-9759`).
+Act id: `ligj-2007-9759` (tags `ligj-2007-9759/<day>`; `python registry/tools/on.py <day> ligj-2007-9759`).
 
 ## Decisions made by hand
 

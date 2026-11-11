@@ -5,7 +5,7 @@ Shpalljen e qendrës historike të fshatit vuno dhe miratimin e rregullores për
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-30` (tags `vendim-2016-30/<day>`; `python tools/on.py <day> vendim-2016-30`).
+Act id: `vendim-2016-30` (tags `vendim-2016-30/<day>`; `python registry/tools/on.py <day> vendim-2016-30`).
 
 ## Decisions made by hand
 

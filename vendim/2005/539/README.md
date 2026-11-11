@@ -9,7 +9,7 @@ Miratimin e protokollit të sesionit të 9-të të Komitetit të Përbashkët Nd
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-539` (tags `vendim-2005-539/<day>`; `python tools/on.py <day> vendim-2005-539`).
+Act id: `vendim-2005-539` (tags `vendim-2005-539/<day>`; `python registry/tools/on.py <day> vendim-2005-539`).
 
 ## Decisions made by hand
 

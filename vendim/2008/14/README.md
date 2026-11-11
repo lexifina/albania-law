@@ -10,7 +10,7 @@ Miratimin e strategjisë sektoriale të rendit publik · 1 versions, from 2008-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-14` (tags `vendim-2008-14/<day>`; `python tools/on.py <day> vendim-2008-14`).
+Act id: `vendim-2008-14` (tags `vendim-2008-14/<day>`; `python registry/tools/on.py <day> vendim-2008-14`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Dhënien e lejes së hyrjes dhe të qëndrimit të përkohshëm në territorin e
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-275` (tags `vendim-2012-275/<day>`; `python tools/on.py <day> vendim-2012-275`).
+Act id: `vendim-2012-275` (tags `vendim-2012-275/<day>`; `python registry/tools/on.py <day> vendim-2012-275`).
 
 ## Decisions made by hand
 

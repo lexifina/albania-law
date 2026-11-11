@@ -5,7 +5,7 @@ Krijimin e Task-Forcës për kërkimin, gjetjen dhe identifikimin e personave t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-133` (tags `vendim-2010-133/<day>`; `python tools/on.py <day> vendim-2010-133`).
+Act id: `vendim-2010-133` (tags `vendim-2010-133/<day>`; `python registry/tools/on.py <day> vendim-2010-133`).
 
 ## Decisions made by hand
 

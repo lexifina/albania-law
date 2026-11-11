@@ -9,7 +9,7 @@ Kalimin në përgjegjësi administrimi të prefektit të qarkut të Tiranës së
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-773` (tags `vendim-2004-773/<day>`; `python tools/on.py <day> vendim-2004-773`).
+Act id: `vendim-2004-773` (tags `vendim-2004-773/<day>`; `python registry/tools/on.py <day> vendim-2004-773`).
 
 ## Decisions made by hand
 

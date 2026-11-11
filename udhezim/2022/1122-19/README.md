@@ -13,7 +13,7 @@ Tarifat e të ardhurave dytësore të aplikueshme nga institucionet vartëse të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1122-19` (tags `udhezim-2022-1122-19/<day>`; `python tools/on.py <day> udhezim-2022-1122-19`).
+Act id: `udhezim-2022-1122-19` (tags `udhezim-2022-1122-19/<day>`; `python registry/tools/on.py <day> udhezim-2022-1122-19`).
 
 ## Decisions made by hand
 

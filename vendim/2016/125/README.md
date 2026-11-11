@@ -43,7 +43,16 @@ Transferimin e përkohshëm dhe të përhershëm të nëpunësve civilë · 1 ve
 | Pika 36 | [pika-036.md](pika-036.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-125` (tags `vendim-2016-125/<day>`; `python tools/on.py <day> vendim-2016-125`).
+Act id: `vendim-2016-125` (tags `vendim-2016-125/<day>`; `python registry/tools/on.py <day> vendim-2016-125`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 145, datë 11.3.2026: Për miratimin e Dokumentit të Politikave Prioritare 2027-2029](https://qbz.gov.al/eli/vendim/2026/03/11/145)
+- [Vendimi i Këshillit të Ministrave nr. 812, datë 30.12.2025: Për miratimin e programit të përgjithshëm analitik të projektakteve, që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2026](https://qbz.gov.al/eli/vendim/2025/12/30/812)
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Përcaktimin e procedurës dhe rregullave të hedhjes së shortit për zgjedhjen
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-1203-2` (tags `urdher-2018-1203-2/<day>`; `python tools/on.py <day> urdher-2018-1203-2`).
+Act id: `urdher-2018-1203-2` (tags `urdher-2018-1203-2/<day>`; `python registry/tools/on.py <day> urdher-2018-1203-2`).
 
 ## Decisions made by hand
 

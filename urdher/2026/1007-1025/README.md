@@ -10,7 +10,7 @@ Miratimin e kërkesave të shëndetit të kafshëve dhe certifikimit për lëviz
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1007-1025` (tags `urdher-2026-1007-1025/<day>`; `python tools/on.py <day> urdher-2026-1007-1025`).
+Act id: `urdher-2026-1007-1025` (tags `urdher-2026-1007-1025/<day>`; `python registry/tools/on.py <day> urdher-2026-1007-1025`).
 
 ## Decisions made by hand
 

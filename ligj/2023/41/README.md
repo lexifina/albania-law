@@ -9,7 +9,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë (hua
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-41-2023` (tags `ligji-41-2023/<day>`; `python tools/on.py <day> ligji-41-2023`).
+Act id: `ligji-41-2023` (tags `ligji-41-2023/<day>`; `python registry/tools/on.py <day> ligji-41-2023`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Vlerësimin e teksteve të reja shkollore të klasës së parë dhe të gjashtë
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0419-7` (tags `udhezim-2016-0419-7/<day>`; `python tools/on.py <day> udhezim-2016-0419-7`).
+Act id: `udhezim-2016-0419-7` (tags `udhezim-2016-0419-7/<day>`; `python registry/tools/on.py <day> udhezim-2016-0419-7`).
 
 ## Decisions made by hand
 

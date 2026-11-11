@@ -12,7 +12,7 @@ Miratimin e llojeve të armatimit, të lëndëve neuroparalizuese, të mjeteve d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-549` (tags `vendim-2021-549/<day>`; `python tools/on.py <day> vendim-2021-549`).
+Act id: `vendim-2021-549` (tags `vendim-2021-549/<day>`; `python registry/tools/on.py <day> vendim-2021-549`).
 
 ## Decisions made by hand
 

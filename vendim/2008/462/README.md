@@ -16,7 +16,7 @@ Krijimin dhe mënyrën e funksionimit të njësisë së mbikëqyrjes së lojëra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-462` (tags `vendim-2008-462/<day>`; `python tools/on.py <day> vendim-2008-462`).
+Act id: `vendim-2008-462` (tags `vendim-2008-462/<day>`; `python registry/tools/on.py <day> vendim-2008-462`).
 
 ## Decisions made by hand
 

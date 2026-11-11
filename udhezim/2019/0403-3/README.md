@@ -13,7 +13,7 @@ Informimin e Ministrisë së Mbrojtjes nga strukturat dhe sh.a. - të në vartë
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0403-3` (tags `udhezim-2019-0403-3/<day>`; `python tools/on.py <day> udhezim-2019-0403-3`).
+Act id: `udhezim-2019-0403-3` (tags `udhezim-2019-0403-3/<day>`; `python registry/tools/on.py <day> udhezim-2019-0403-3`).
 
 ## Decisions made by hand
 

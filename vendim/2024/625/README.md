@@ -25,7 +25,7 @@ Përcaktimin e kushteve për mbajtjen e armës në përdorim personal, edhe jash
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-625` (tags `vendim-2024-625/<day>`; `python tools/on.py <day> vendim-2024-625`).
+Act id: `vendim-2024-625` (tags `vendim-2024-625/<day>`; `python registry/tools/on.py <day> vendim-2024-625`).
 
 ## Decisions made by hand
 

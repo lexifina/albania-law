@@ -39,7 +39,7 @@ Krijimin e bazës së të dhënave shtetërore “Portali unik qeveritar e-Alban
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1147` (tags `vendim-2020-1147/<day>`; `python tools/on.py <day> vendim-2020-1147`).
+Act id: `vendim-2020-1147` (tags `vendim-2020-1147/<day>`; `python registry/tools/on.py <day> vendim-2020-1147`).
 
 ## Decisions made by hand
 

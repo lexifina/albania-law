@@ -16,7 +16,7 @@ Mbylljen e veprimtarisë së shkollës së lartë universitare jopublike “just
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-70` (tags `vendim-2018-70/<day>`; `python tools/on.py <day> vendim-2018-70`).
+Act id: `vendim-2018-70` (tags `vendim-2018-70/<day>`; `python registry/tools/on.py <day> vendim-2018-70`).
 
 ## Decisions made by hand
 

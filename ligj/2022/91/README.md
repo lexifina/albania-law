@@ -9,7 +9,7 @@ Aderimin në iniciativën e përbashkët për rregulloren e brendshme për shër
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-91` (tags `ligj-2022-91/<day>`; `python tools/on.py <day> ligj-2022-91`).
+Act id: `ligj-2022-91` (tags `ligj-2022-91/<day>`; `python registry/tools/on.py <day> ligj-2022-91`).
 
 ## Decisions made by hand
 

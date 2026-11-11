@@ -9,7 +9,7 @@ Lirimin nga detyra të drejtorit të Galerisë Kombëtare të Arteve · 1 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-62` (tags `vendim-2022-62/<day>`; `python tools/on.py <day> vendim-2022-62`).
+Act id: `vendim-2022-62` (tags `vendim-2022-62/<day>`; `python registry/tools/on.py <day> vendim-2022-62`).
 
 ## Decisions made by hand
 

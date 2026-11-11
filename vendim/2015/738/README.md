@@ -10,7 +10,7 @@ Shpërblimet e anëtarëve të bordit të akreditimit dhe grupeve teknike të pu
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-738` (tags `vendim-2015-738/<day>`; `python tools/on.py <day> vendim-2015-738`).
+Act id: `vendim-2015-738` (tags `vendim-2015-738/<day>`; `python registry/tools/on.py <day> vendim-2015-738`).
 
 ## Decisions made by hand
 

@@ -56,7 +56,7 @@ Shkencën dhe kërkimin shkencor në Republikën e Shqipërisë · 1 versions, f
 | Neni 41 | [neni-041.md](neni-041.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-109-2024` (tags `ligji-109-2024/<day>`; `python tools/on.py <day> ligji-109-2024`).
+Act id: `ligji-109-2024` (tags `ligji-109-2024/<day>`; `python registry/tools/on.py <day> ligji-109-2024`).
 
 ## Decisions made by hand
 

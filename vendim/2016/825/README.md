@@ -10,7 +10,7 @@ Rishpërndarjen e fondeve, brenda programeve, në buxhetin e vitit 2016, miratua
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-825` (tags `vendim-2016-825/<day>`; `python tools/on.py <day> vendim-2016-825`).
+Act id: `vendim-2016-825` (tags `vendim-2016-825/<day>`; `python registry/tools/on.py <day> vendim-2016-825`).
 
 ## Decisions made by hand
 

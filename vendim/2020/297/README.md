@@ -9,7 +9,7 @@ Ndryshimin e përgjegjësisë së administrimit, nga Ministria e Drejtësisë te
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-297` (tags `vendim-2020-297/<day>`; `python tools/on.py <day> vendim-2020-297`).
+Act id: `vendim-2020-297` (tags `vendim-2020-297/<day>`; `python registry/tools/on.py <day> vendim-2020-297`).
 
 ## Decisions made by hand
 

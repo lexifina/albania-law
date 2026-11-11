@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet republikës së shqipërisë dhe shtabit s
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-174` (tags `ligj-2014-174/<day>`; `python tools/on.py <day> ligj-2014-174`).
+Act id: `ligj-2014-174` (tags `ligj-2014-174/<day>`; `python registry/tools/on.py <day> ligj-2014-174`).
 
 ## Decisions made by hand
 

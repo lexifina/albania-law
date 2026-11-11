@@ -10,7 +10,7 @@ Denoncimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe F
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-117` (tags `ligj-2020-117/<day>`; `python tools/on.py <day> ligj-2020-117`).
+Act id: `ligj-2020-117` (tags `ligj-2020-117/<day>`; `python registry/tools/on.py <day> ligj-2020-117`).
 
 ## Decisions made by hand
 

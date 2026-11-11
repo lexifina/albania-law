@@ -10,7 +10,7 @@ Miratimin e rregullave për përcaktimin e ofruesit të shërbimit universal pos
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-239` (tags `vendim-2018-239/<day>`; `python tools/on.py <day> vendim-2018-239`).
+Act id: `vendim-2018-239` (tags `vendim-2018-239/<day>`; `python registry/tools/on.py <day> vendim-2018-239`).
 
 ## Decisions made by hand
 

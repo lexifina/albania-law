@@ -10,7 +10,7 @@ Miratimin e rregullit teknik për kërkesat thelbësore dhe vlerësimin e konfor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-430` (tags `vendim-2019-430/<day>`; `python tools/on.py <day> vendim-2019-430`).
+Act id: `vendim-2019-430` (tags `vendim-2019-430/<day>`; `python registry/tools/on.py <day> vendim-2019-430`).
 
 ## Decisions made by hand
 

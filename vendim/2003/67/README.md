@@ -8,7 +8,7 @@ Miratimin e strategjisë së punësimit dhe të formimit profesional · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-67` (tags `vendim-2003-67/<day>`; `python tools/on.py <day> vendim-2003-67`).
+Act id: `vendim-2003-67` (tags `vendim-2003-67/<day>`; `python registry/tools/on.py <day> vendim-2003-67`).
 
 ## Decisions made by hand
 

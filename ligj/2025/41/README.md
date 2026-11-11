@@ -331,7 +331,7 @@ Shëndetin e kafshëve · 1 versions, from 2025-07-25 (latest in force: 2025-07-
 | Titulli III | [titulli-03.md](titulli-03.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-41-2025` (tags `ligji-41-2025/<day>`; `python tools/on.py <day> ligji-41-2025`).
+Act id: `ligji-41-2025` (tags `ligji-41-2025/<day>`; `python registry/tools/on.py <day> ligji-41-2025`).
 
 ## Decisions made by hand
 

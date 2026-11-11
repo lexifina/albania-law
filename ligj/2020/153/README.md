@@ -44,7 +44,7 @@ Regjimin fiskal në sektorin hidrokarbur · 1 versions, from 2021-02-02 (latest 
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-153` (tags `ligj-2020-153/<day>`; `python tools/on.py <day> ligj-2020-153`).
+Act id: `ligj-2020-153` (tags `ligj-2020-153/<day>`; `python registry/tools/on.py <day> ligj-2020-153`).
 
 ## Decisions made by hand
 

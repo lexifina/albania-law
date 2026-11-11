@@ -15,7 +15,7 @@ Mënyrën e gjenerimit dhe të përdorimit të të ardhurave të siguruara nga o
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2023-0802-23` (tags `udhezim-2023-0802-23/<day>`; `python tools/on.py <day> udhezim-2023-0802-23`).
+Act id: `udhezim-2023-0802-23` (tags `udhezim-2023-0802-23/<day>`; `python registry/tools/on.py <day> udhezim-2023-0802-23`).
 
 ## Decisions made by hand
 

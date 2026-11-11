@@ -19,7 +19,7 @@ Organizimin, funksionimin, kohëzgjatjen e qëndrimit në detyrë dhe shpërblim
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-989` (tags `vendim-2015-989/<day>`; `python tools/on.py <day> vendim-2015-989`).
+Act id: `vendim-2015-989` (tags `vendim-2015-989/<day>`; `python registry/tools/on.py <day> vendim-2015-989`).
 
 ## Decisions made by hand
 

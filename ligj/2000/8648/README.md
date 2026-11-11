@@ -10,7 +10,15 @@ Ratifikimin e “protokollit të anëtarësimit të republikës së shqipërisë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8648` (tags `ligj-2000-8648/<day>`; `python tools/on.py <day> ligj-2000-8648`).
+Act id: `ligj-2000-8648` (tags `ligj-2000-8648/<day>`; `python registry/tools/on.py <day> ligj-2000-8648`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 9521: Për ratifikimin e një ndryshimi në protokollin e anëtarësimit të Republikës së Shqipërisë në marrëveshjen e Marrakeshit, që themeloi Organizatën Botërore të Tregtisë](https://qbz.gov.al/eli/ligj/2006/04/25/9521)
 
 ## Decisions made by hand
 

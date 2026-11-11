@@ -8,7 +8,7 @@ Miratimin e programit kombëtar të sigurisë së aviacionit civil · 1 versions
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-91` (tags `vendim-2004-91/<day>`; `python tools/on.py <day> vendim-2004-91`).
+Act id: `vendim-2004-91` (tags `vendim-2004-91/<day>`; `python registry/tools/on.py <day> vendim-2004-91`).
 
 ## Decisions made by hand
 

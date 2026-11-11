@@ -10,7 +10,7 @@ Mosripërtëritjen e licencës agjencisë amp si agjenci e administrimit kolekti
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0706-435` (tags `urdher-2018-0706-435/<day>`; `python tools/on.py <day> urdher-2018-0706-435`).
+Act id: `urdher-2018-0706-435` (tags `urdher-2018-0706-435/<day>`; `python registry/tools/on.py <day> urdher-2018-0706-435`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,15 @@ Procedurat e zgjedhjes së organeve të dhomave të tregtisë dhe industrisë dh
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0312-2008` (tags `udhezim-2015-0312-2008/<day>`; `python tools/on.py <day> udhezim-2015-0312-2008`).
+Act id: `udhezim-2015-0312-2008` (tags `udhezim-2015-0312-2008/<day>`; `python registry/tools/on.py <day> udhezim-2015-0312-2008`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 2008-4, datë 18.5.2015 (Ministri i Shteti për  Sipërmarrjen dhe Klimën e Biznesit) [QBZ 66318]: Për një ndryshim në udhëzimin nr. 2008, datë 12.3.2015 “Për procedurat e zgjedhjes së organeve të dhomave të tregtisë dhe industrisë dhe Bashkimit të Dhomave të Tregtisë dhe Industrisë”](https://qbz.gov.al/eli/udhezim/2015/05/18/2008-4)
 
 ## Decisions made by hand
 

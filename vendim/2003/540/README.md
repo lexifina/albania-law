@@ -8,7 +8,7 @@ Kuotën e pranimit në akademinë ushtarake “skënderbej”, për vitin akadem
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-540` (tags `vendim-2003-540/<day>`; `python tools/on.py <day> vendim-2003-540`).
+Act id: `vendim-2003-540` (tags `vendim-2003-540/<day>`; `python registry/tools/on.py <day> vendim-2003-540`).
 
 ## Decisions made by hand
 

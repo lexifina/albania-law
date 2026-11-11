@@ -13,7 +13,7 @@ Disa masa mbrojtëse ndaj sëmundjes së lisë së dhenve dhe të dhive, të shf
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0416-405` (tags `urdher-2026-0416-405/<day>`; `python tools/on.py <day> urdher-2026-0416-405`).
+Act id: `urdher-2026-0416-405` (tags `urdher-2026-0416-405/<day>`; `python registry/tools/on.py <day> urdher-2026-0416-405`).
 
 ## Decisions made by hand
 

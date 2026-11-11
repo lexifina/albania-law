@@ -14,7 +14,7 @@ Agjencitë që trajtojnë praktikat e qarkullimit të mjeteve rrugore me motor d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0329-1547` (tags `udhezim-2016-0329-1547/<day>`; `python tools/on.py <day> udhezim-2016-0329-1547`).
+Act id: `udhezim-2016-0329-1547` (tags `udhezim-2016-0329-1547/<day>`; `python registry/tools/on.py <day> udhezim-2016-0329-1547`).
 
 ## Decisions made by hand
 

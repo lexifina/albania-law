@@ -8,7 +8,7 @@ Miratimin e projektdokumentit të Programit Buxhetor Afatmesëm 2024-2026 · 1 v
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-435` (tags `vendim-2023-435/<day>`; `python tools/on.py <day> vendim-2023-435`).
+Act id: `vendim-2023-435` (tags `vendim-2023-435/<day>`; `python registry/tools/on.py <day> vendim-2023-435`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Përcaktimin e nivelit minimal dhe maksimal të zbatimit të vlerës së tarifë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0715-4` (tags `udhezim-2025-0715-4/<day>`; `python tools/on.py <day> udhezim-2025-0715-4`).
+Act id: `udhezim-2025-0715-4` (tags `udhezim-2025-0715-4/<day>`; `python registry/tools/on.py <day> udhezim-2025-0715-4`).
 
 ## Decisions made by hand
 

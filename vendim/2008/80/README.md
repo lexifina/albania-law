@@ -10,7 +10,16 @@ Miratimin e strategjisë sektoriale të mbrojtjes sociale dhe të planit të vep
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-80` (tags `vendim-2008-80/<day>`; `python tools/on.py <day> vendim-2008-80`).
+Act id: `vendim-2008-80` (tags `vendim-2008-80/<day>`; `python registry/tools/on.py <day> vendim-2008-80`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1104, datë 30.7.2008: Për disa shtesa në vendimin nr.80, datë 28.1.2008 të Këshillit të Ministrave “Për miratimin e strategjisë sektoriale të mbrojtjes sociale dhe të planit të veprimit për zbatimin e saj](https://qbz.gov.al/eli/vendim/2008/07/30/1104)
+- [Vendimi i Këshillit të Ministrave nr. 763, datë 11.6.2009: Për disa shtesa në vendimin nr.80, datë 28.1.2008 të këshillit të Ministrave “Për miratimin e strategjisë sektoriale të mbrojtjes sociale dhe të planit të veprimit, për zbatimin e saj”, të ndryshuar](https://qbz.gov.al/eli/vendim/2009/06/11/763)
 
 ## Decisions made by hand
 

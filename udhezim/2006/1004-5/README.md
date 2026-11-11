@@ -18,7 +18,7 @@ Rregullat që duhen respektuar për afishimin e materialeve propagandistike në 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1004-5` (tags `udhezim-2006-1004-5/<day>`; `python tools/on.py <day> udhezim-2006-1004-5`).
+Act id: `udhezim-2006-1004-5` (tags `udhezim-2006-1004-5/<day>`; `python registry/tools/on.py <day> udhezim-2006-1004-5`).
 
 ## Decisions made by hand
 

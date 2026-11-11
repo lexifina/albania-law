@@ -21,7 +21,7 @@ Datat dhe organizimin e provimeve të maturës shtetërore 2019, sesioni i dytë
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0426-8` (tags `udhezim-2019-0426-8/<day>`; `python tools/on.py <day> udhezim-2019-0426-8`).
+Act id: `udhezim-2019-0426-8` (tags `udhezim-2019-0426-8/<day>`; `python registry/tools/on.py <day> udhezim-2019-0426-8`).
 
 ## Decisions made by hand
 

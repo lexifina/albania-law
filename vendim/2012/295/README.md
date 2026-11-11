@@ -9,7 +9,7 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-02-09 |
 
-Act id: `vendim-2012-295` (tags `vendim-2012-295/<day>`; `python tools/on.py <day> vendim-2012-295`).
+Act id: `vendim-2012-295` (tags `vendim-2012-295/<day>`; `python registry/tools/on.py <day> vendim-2012-295`).
 
 ## Decisions made by hand
 

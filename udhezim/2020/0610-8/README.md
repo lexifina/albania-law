@@ -19,7 +19,7 @@ Garantimin e infrastrukturës për ushtrimin e veprimtarisë së noterëve që o
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0610-8` (tags `udhezim-2020-0610-8/<day>`; `python tools/on.py <day> udhezim-2020-0610-8`).
+Act id: `udhezim-2020-0610-8` (tags `udhezim-2020-0610-8/<day>`; `python registry/tools/on.py <day> udhezim-2020-0610-8`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Përjashtimin nga shërbimi i detyrueshëm ushtarak të shtetasve shqiptarë - u
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8617` (tags `ligj-2000-8617/<day>`; `python tools/on.py <day> ligj-2000-8617`).
+Act id: `ligj-2000-8617` (tags `ligj-2000-8617/<day>`; `python registry/tools/on.py <day> ligj-2000-8617`).
 
 ## Decisions made by hand
 

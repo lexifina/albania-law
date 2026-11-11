@@ -33,7 +33,7 @@ Administrimin e financimeve të huaja në republikën e shqipërisë · 2 versio
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-775` (tags `vendim-2010-775/<day>`; `python tools/on.py <day> vendim-2010-775`).
+Act id: `vendim-2010-775` (tags `vendim-2010-775/<day>`; `python registry/tools/on.py <day> vendim-2010-775`).
 
 ## Decisions made by hand
 

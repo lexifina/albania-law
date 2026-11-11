@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së influencës aviare me patogjenitet të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2025-1017-1037` (tags `urdher-2025-1017-1037/<day>`; `python tools/on.py <day> urdher-2025-1017-1037`).
+Act id: `urdher-2025-1017-1037` (tags `urdher-2025-1017-1037/<day>`; `python registry/tools/on.py <day> urdher-2025-1017-1037`).
 
 ## Decisions made by hand
 

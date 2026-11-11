@@ -11,7 +11,7 @@ Miratimin e rregullores ”Për miratimin e listës së parametrave për klasifi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0918-204` (tags `urdher-2026-0918-204/<day>`; `python tools/on.py <day> urdher-2026-0918-204`).
+Act id: `urdher-2026-0918-204` (tags `urdher-2026-0918-204/<day>`; `python registry/tools/on.py <day> urdher-2026-0918-204`).
 
 ## Decisions made by hand
 

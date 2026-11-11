@@ -15,7 +15,15 @@ Zhvillimin e konkurseve të pranimit dhe tarifën e regjistrimit për konkurrim 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2015-0731-24` (tags `udhezim-2015-0731-24/<day>`; `python tools/on.py <day> udhezim-2015-0731-24`).
+Act id: `udhezim-2015-0731-24` (tags `udhezim-2015-0731-24/<day>`; `python registry/tools/on.py <day> udhezim-2015-0731-24`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 30, datë 24.8.2015 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 61289]: Për një ndryshim në udhëzimin nr. 24, datë 31.7.2015, “Për zhvillimin e konkurseve të pranimit dhe tarifën e regjistrimit për konkurrim në disa programe studimi të ciklit të parë me kohë të plotë, në institucionet publike të arsimit të lartë, për vitin akademik 2015-2016”](https://qbz.gov.al/eli/udhezim/2015/08/24/30)
 
 ## Decisions made by hand
 

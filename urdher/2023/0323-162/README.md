@@ -10,7 +10,7 @@ Miratimin e kërkesave për Planin e Kontrollit të Substancave Farmakologjikish
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0323-162` (tags `urdher-2023-0323-162/<day>`; `python tools/on.py <day> urdher-2023-0323-162`).
+Act id: `urdher-2023-0323-162` (tags `urdher-2023-0323-162/<day>`; `python registry/tools/on.py <day> urdher-2023-0323-162`).
 
 ## Decisions made by hand
 

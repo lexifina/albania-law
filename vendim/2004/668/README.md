@@ -15,7 +15,7 @@ PËR Shpronësimin për interes publik të pasurive të paluajtshme, që prekEn 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-668` (tags `vendim-2004-668/<day>`; `python tools/on.py <day> vendim-2004-668`).
+Act id: `vendim-2004-668` (tags `vendim-2004-668/<day>`; `python registry/tools/on.py <day> vendim-2004-668`).
 
 ## Decisions made by hand
 

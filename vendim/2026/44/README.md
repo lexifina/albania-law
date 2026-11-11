@@ -10,7 +10,7 @@ Miratimin e planit të veprimit Schengen 2026-2030 · 1 versions, from 2026-01-2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-44` (tags `vendim-2026-44/<day>`; `python tools/on.py <day> vendim-2026-44`).
+Act id: `vendim-2026-44` (tags `vendim-2026-44/<day>`; `python registry/tools/on.py <day> vendim-2026-44`).
 
 ## Decisions made by hand
 

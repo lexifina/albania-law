@@ -17,7 +17,7 @@ RRitjen e pensioneve · 1 versions, from 2004-07-13 (latest in force: 2004-07-13
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-422` (tags `vendim-2004-422/<day>`; `python tools/on.py <day> vendim-2004-422`).
+Act id: `vendim-2004-422` (tags `vendim-2004-422/<day>`; `python registry/tools/on.py <day> vendim-2004-422`).
 
 ## Decisions made by hand
 

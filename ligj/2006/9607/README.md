@@ -5,7 +5,7 @@ Këshillin Konsultativ të Biznesit · 2 versions, from 2006-10-31 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2006-9607` (tags `ligj-2006-9607/<day>`; `python tools/on.py <day> ligj-2006-9607`).
+Act id: `ligj-2006-9607` (tags `ligj-2006-9607/<day>`; `python registry/tools/on.py <day> ligj-2006-9607`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,11 @@ Miratimin e marrëveshjes së grantit për asistencë teknike, ndërmjet këshil
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-500` (tags `vendim-2018-500/<day>`; `python tools/on.py <day> vendim-2018-500`).
+Act id: `vendim-2018-500` (tags `vendim-2018-500/<day>`; `python registry/tools/on.py <day> vendim-2018-500`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

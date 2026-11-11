@@ -10,7 +10,7 @@ Miratimin e rregullores për organizimin dhe funksionimin e emergjencave dhe shp
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-341` (tags `vendim-2019-341/<day>`; `python tools/on.py <day> vendim-2019-341`).
+Act id: `vendim-2019-341` (tags `vendim-2019-341/<day>`; `python registry/tools/on.py <day> vendim-2019-341`).
 
 ## Decisions made by hand
 

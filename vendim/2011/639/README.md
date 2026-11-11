@@ -17,7 +17,7 @@ Riorganizimin e zyrës kombëtare tempus · 2 versions, from 2011-10-17 (latest 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2014-12-12 |
 
-Act id: `vendim-2011-639` (tags `vendim-2011-639/<day>`; `python tools/on.py <day> vendim-2011-639`).
+Act id: `vendim-2011-639` (tags `vendim-2011-639/<day>`; `python registry/tools/on.py <day> vendim-2011-639`).
 
 ## Decisions made by hand
 

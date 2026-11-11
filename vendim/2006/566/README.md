@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e Agjencisë së Kthimit dhe Kompensimit të Pronav
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-566` (tags `vendim-2006-566/<day>`; `python tools/on.py <day> vendim-2006-566`).
+Act id: `vendim-2006-566` (tags `vendim-2006-566/<day>`; `python registry/tools/on.py <day> vendim-2006-566`).
 
 ## Decisions made by hand
 

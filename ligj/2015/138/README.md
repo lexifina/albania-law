@@ -24,7 +24,7 @@ Garantimin e integritet të personave që zgjidhen, emërohen ose ushtrojnë fun
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-138` (tags `ligj-2015-138/<day>`; `python tools/on.py <day> ligj-2015-138`).
+Act id: `ligj-2015-138` (tags `ligj-2015-138/<day>`; `python registry/tools/on.py <day> ligj-2015-138`).
 
 ## Decisions made by hand
 

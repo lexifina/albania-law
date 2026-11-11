@@ -25,7 +25,7 @@ Procedurat që përdoren për lidhjen e kontratave që diktohen nga interesa the
 | Pika 17 | [pika-017.md](pika-017.md) | 1 | 2023-05-25 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-622` (tags `vendim-2021-622/<day>`; `python tools/on.py <day> vendim-2021-622`).
+Act id: `vendim-2021-622` (tags `vendim-2021-622/<day>`; `python registry/tools/on.py <day> vendim-2021-622`).
 
 ## Decisions made by hand
 

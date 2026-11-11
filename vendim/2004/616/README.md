@@ -11,7 +11,7 @@ Fillimin e procedurës së dhënies me koncesion të formës “boo”, për nd�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-616` (tags `vendim-2004-616/<day>`; `python tools/on.py <day> vendim-2004-616`).
+Act id: `vendim-2004-616` (tags `vendim-2004-616/<day>`; `python registry/tools/on.py <day> vendim-2004-616`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e dokumentit të politikave për pyjet në shqipëri, 2019-2030 · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-814` (tags `vendim-2018-814/<day>`; `python tools/on.py <day> vendim-2018-814`).
+Act id: `vendim-2018-814` (tags `vendim-2018-814/<day>`; `python registry/tools/on.py <day> vendim-2018-814`).
 
 ## Decisions made by hand
 

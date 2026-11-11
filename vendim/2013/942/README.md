@@ -34,7 +34,15 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Pun�
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-942` (tags `vendim-2013-942/<day>`; `python tools/on.py <day> vendim-2013-942`).
+Act id: `vendim-2013-942` (tags `vendim-2013-942/<day>`; `python registry/tools/on.py <day> vendim-2013-942`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 312, datë 15.4.2015: Për një shtesë në vendimin nr.942, datë 9.10.2013, të Këshillit të Ministrave, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Punëve të Brendshme”](https://qbz.gov.al/eli/vendim/2015/04/15/312)
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Kthimin në fond banesash të disa objekteve të ish-kombinatit të tekstileve t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-678` (tags `vendim-2009-678/<day>`; `python tools/on.py <day> vendim-2009-678`).
+Act id: `vendim-2009-678` (tags `vendim-2009-678/<day>`; `python registry/tools/on.py <day> vendim-2009-678`).
 
 ## Decisions made by hand
 

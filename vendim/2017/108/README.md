@@ -11,7 +11,7 @@ Miratimin e rregullores “për mbrojtjen e fëmijëve në punë” · 2 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2020-06-22 |
 
-Act id: `vendim-2017-108` (tags `vendim-2017-108/<day>`; `python tools/on.py <day> vendim-2017-108`).
+Act id: `vendim-2017-108` (tags `vendim-2017-108/<day>`; `python registry/tools/on.py <day> vendim-2017-108`).
 
 ## Decisions made by hand
 

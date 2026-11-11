@@ -10,7 +10,7 @@ Masat për uljen e prevalencës së disa serotipave të salmonella në pulat pë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1008-406` (tags `urdher-2020-1008-406/<day>`; `python tools/on.py <day> urdher-2020-1008-406`).
+Act id: `urdher-2020-1008-406` (tags `urdher-2020-1008-406/<day>`; `python registry/tools/on.py <day> urdher-2020-1008-406`).
 
 ## Decisions made by hand
 

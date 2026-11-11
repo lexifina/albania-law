@@ -11,7 +11,7 @@ Miratimin e listës së standardeve të harmonizuara shqiptare me karakter refer
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-383` (tags `vendim-2020-383/<day>`; `python tools/on.py <day> vendim-2020-383`).
+Act id: `vendim-2020-383` (tags `vendim-2020-383/<day>`; `python registry/tools/on.py <day> vendim-2020-383`).
 
 ## Decisions made by hand
 

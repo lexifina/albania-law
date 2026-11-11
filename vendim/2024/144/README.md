@@ -27,7 +27,7 @@ Përcaktimin e kushteve dhe procedurave për dhënien e miratimit për ndërtimi
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-144` (tags `vendim-2024-144/<day>`; `python tools/on.py <day> vendim-2024-144`).
+Act id: `vendim-2024-144` (tags `vendim-2024-144/<day>`; `python registry/tools/on.py <day> vendim-2024-144`).
 
 ## Decisions made by hand
 

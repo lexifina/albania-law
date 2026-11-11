@@ -5,7 +5,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. ilir pernaska · 2 versions,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-923` (tags `vendim-2016-923/<day>`; `python tools/on.py <day> vendim-2016-923`).
+Act id: `vendim-2016-923` (tags `vendim-2016-923/<day>`; `python registry/tools/on.py <day> vendim-2016-923`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e Organit të Ndërmjetëm për Menaxhimin e Politikave (ONMP), të
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0228-46` (tags `urdher-2024-0228-46/<day>`; `python tools/on.py <day> urdher-2024-0228-46`).
+Act id: `urdher-2024-0228-46` (tags `urdher-2024-0228-46/<day>`; `python registry/tools/on.py <day> urdher-2024-0228-46`).
 
 ## Decisions made by hand
 

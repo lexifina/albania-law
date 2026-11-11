@@ -18,7 +18,7 @@ Marrjen e masave kufizuese, për parandalimin dhe kontrollin e sëmundjes së mu
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0520-557` (tags `urdher-2026-0520-557/<day>`; `python tools/on.py <day> urdher-2026-0520-557`).
+Act id: `urdher-2026-0520-557` (tags `urdher-2026-0520-557/<day>`; `python registry/tools/on.py <day> urdher-2026-0520-557`).
 
 ## Decisions made by hand
 

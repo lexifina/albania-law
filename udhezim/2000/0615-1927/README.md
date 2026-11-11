@@ -5,7 +5,7 @@ Pajisjen me targa të mjeteve të trupit diplomatik · 2 versions, from 2000-07-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2000-0615-1927` (tags `udhezim-2000-0615-1927/<day>`; `python tools/on.py <day> udhezim-2000-0615-1927`).
+Act id: `udhezim-2000-0615-1927` (tags `udhezim-2000-0615-1927/<day>`; `python registry/tools/on.py <day> udhezim-2000-0615-1927`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Krijimin e Organit Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-686` (tags `vendim-2010-686/<day>`; `python tools/on.py <day> vendim-2010-686`).
+Act id: `vendim-2010-686` (tags `vendim-2010-686/<day>`; `python registry/tools/on.py <day> vendim-2010-686`).
 
 ## Decisions made by hand
 

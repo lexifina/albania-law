@@ -14,7 +14,7 @@ Caktimin e fushës së veprimtarisë dhe detyrave të zëvendësministrit në Mi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0228-118` (tags `urdher-2019-0228-118/<day>`; `python tools/on.py <day> urdher-2019-0228-118`).
+Act id: `urdher-2019-0228-118` (tags `urdher-2019-0228-118/<day>`; `python registry/tools/on.py <day> urdher-2019-0228-118`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores “për përfaqësuesit e autorizuar në drejtorinë e p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-07-01 |
 
-Act id: `vendim-2018-317` (tags `vendim-2018-317/<day>`; `python tools/on.py <day> vendim-2018-317`).
+Act id: `vendim-2018-317` (tags `vendim-2018-317/<day>`; `python registry/tools/on.py <day> vendim-2018-317`).
 
 ## Decisions made by hand
 

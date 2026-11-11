@@ -9,7 +9,7 @@ Emërimin e anëtarëve të Këshillit Kombëtar të Kontabilitetit (KKK) · 1 v
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-1126-397` (tags `urdher-2019-1126-397/<day>`; `python tools/on.py <day> urdher-2019-1126-397`).
+Act id: `urdher-2019-1126-397` (tags `urdher-2019-1126-397/<day>`; `python registry/tools/on.py <day> urdher-2019-1126-397`).
 
 ## Decisions made by hand
 

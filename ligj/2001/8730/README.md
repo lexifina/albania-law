@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e shërbimit të përmbarimit gjyqësor · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2001-8730` (tags `ligj-2001-8730/<day>`; `python tools/on.py <day> ligj-2001-8730`).
+Act id: `ligj-2001-8730` (tags `ligj-2001-8730/<day>`; `python registry/tools/on.py <day> ligj-2001-8730`).
 
 ## Decisions made by hand
 

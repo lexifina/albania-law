@@ -10,7 +10,7 @@ Transferimin e kuotave të kapitalit, që zotërohen nga shoqëria ”Albcontrol
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-15` (tags `vendim-2026-15/<day>`; `python tools/on.py <day> vendim-2026-15`).
+Act id: `vendim-2026-15` (tags `vendim-2026-15/<day>`; `python registry/tools/on.py <day> vendim-2026-15`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-894` (tags `vendim-2008-894/<day>`; `python tools/on.py <day> vendim-2008-894`).
+Act id: `vendim-2008-894` (tags `vendim-2008-894/<day>`; `python registry/tools/on.py <day> vendim-2008-894`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 17, datë 4.1.2012: Për një ndryshim në vendimin nr.662, datë 11.6.2009 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme publike, të shtetit, në bashkinë konispol” dhe “për një ndryshim në vendimin nr.894, datë 11.6.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që transferohen në pronësi të bashkisë konispol, të qarkut të vlorës””](https://qbz.gov.al/eli/vendim/2012/01/04/17)
 
 ## Decisions made by hand
 

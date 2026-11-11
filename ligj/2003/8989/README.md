@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “konventën ndërkombëtare për m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-8989` (tags `ligj-2003-8989/<day>`; `python tools/on.py <day> ligj-2003-8989`).
+Act id: `ligj-2003-8989` (tags `ligj-2003-8989/<day>`; `python registry/tools/on.py <day> ligj-2003-8989`).
 
 ## Decisions made by hand
 

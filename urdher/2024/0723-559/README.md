@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së lisë së dhenve dhe dhive të shfaqur 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0723-559` (tags `urdher-2024-0723-559/<day>`; `python tools/on.py <day> urdher-2024-0723-559`).
+Act id: `urdher-2024-0723-559` (tags `urdher-2024-0723-559/<day>`; `python registry/tools/on.py <day> urdher-2024-0723-559`).
 
 ## Decisions made by hand
 

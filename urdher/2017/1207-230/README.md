@@ -8,7 +8,7 @@ Dhënie medaljeje · 1 versions, from 2017-12-14 (latest in force: 2017-12-14) �
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-1207-230` (tags `urdher-2017-1207-230/<day>`; `python tools/on.py <day> urdher-2017-1207-230`).
+Act id: `urdher-2017-1207-230` (tags `urdher-2017-1207-230/<day>`; `python registry/tools/on.py <day> urdher-2017-1207-230`).
 
 ## Decisions made by hand
 

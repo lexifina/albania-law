@@ -5,7 +5,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë në Republikën e Shqipëris
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2020-0225-3` (tags `udhezim-2020-0225-3/<day>`; `python tools/on.py <day> udhezim-2020-0225-3`).
+Act id: `udhezim-2020-0225-3` (tags `udhezim-2020-0225-3/<day>`; `python registry/tools/on.py <day> udhezim-2020-0225-3`).
 
 ## Decisions made by hand
 

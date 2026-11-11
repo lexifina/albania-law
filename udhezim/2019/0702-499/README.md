@@ -25,7 +25,15 @@ Procedurat e pranimit dhe emërimit të mjekëve në institucionet shëndetësor
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2019-0702-499` (tags `udhezim-2019-0702-499/<day>`; `python tools/on.py <day> udhezim-2019-0702-499`).
+Act id: `udhezim-2019-0702-499` (tags `udhezim-2019-0702-499/<day>`; `python registry/tools/on.py <day> udhezim-2019-0702-499`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 3507, datë 1.8.2019 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale): Korrigjim gabimi material në udhëzimin nr. 499, datë 2.7.2019, “Për procedurat e pranimit dhe emërimit të mjekëve në institucionet shëndetësore publike në Republikën e Shqipërisë nëpërmjet platformës elektronike” botuar në Fletoren Zyrtare nr. 109, datë 26.7.2019](https://qbz.gov.al/eli/udhezim/2019/08/01/3507-2)
 
 ## Decisions made by hand
 

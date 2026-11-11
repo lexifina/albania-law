@@ -10,7 +10,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-127` (tags `vendim-2009-127/<day>`; `python tools/on.py <day> vendim-2009-127`).
+Act id: `vendim-2009-127` (tags `vendim-2009-127/<day>`; `python registry/tools/on.py <day> vendim-2009-127`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 590, datë 1.7.2015: Për një ndryshim në vendimin nr. 41, datë 21.1.2015, të Këshillit të Ministrave, “Për një ndryshim në vendimin nr. 378, datë 12.8.1999, të Këshillit të Ministrave, “Për kalimin e së drejtës së përfaqësuesit të pronarit për disa objekte, pronë publike, organeve të qeverisjes vendore”, të ndryshuar, dhe një ndryshim në vendimin nr. 127, datë 2.2.2009, të Këshillit të Ministrave, “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Maliq, të qarkut të Korçës”](https://qbz.gov.al/eli/vendim/2015/07/01/590)
 
 ## Decisions made by hand
 

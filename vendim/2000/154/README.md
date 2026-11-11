@@ -5,7 +5,7 @@ Licensimin e veprimtarive prodhuese në industrinë joushqimore · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-154` (tags `vendim-2000-154/<day>`; `python tools/on.py <day> vendim-2000-154`).
+Act id: `vendim-2000-154` (tags `vendim-2000-154/<day>`; `python registry/tools/on.py <day> vendim-2000-154`).
 
 ## Decisions made by hand
 

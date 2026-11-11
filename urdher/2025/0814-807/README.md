@@ -17,7 +17,7 @@ Përcaktimin e formës së certifikatës për eksport për produkete e verës ·
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0814-807` (tags `urdher-2025-0814-807/<day>`; `python tools/on.py <day> urdher-2025-0814-807`).
+Act id: `urdher-2025-0814-807` (tags `urdher-2025-0814-807/<day>`; `python registry/tools/on.py <day> urdher-2025-0814-807`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Caktimin e tarifave të shërbimit të rimorkimit në portet detare të republik
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0405-5946` (tags `urdher-2018-0405-5946/<day>`; `python tools/on.py <day> urdher-2018-0405-5946`).
+Act id: `urdher-2018-0405-5946` (tags `urdher-2018-0405-5946/<day>`; `python registry/tools/on.py <day> urdher-2018-0405-5946`).
 
 ## Decisions made by hand
 

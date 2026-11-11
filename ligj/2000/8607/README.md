@@ -5,7 +5,7 @@ Statusi i dëshmorit të atdheut · 2 versions, from 2000-06-03 (latest in force
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8607` (tags `ligj-2000-8607/<day>`; `python tools/on.py <day> ligj-2000-8607`).
+Act id: `ligj-2000-8607` (tags `ligj-2000-8607/<day>`; `python registry/tools/on.py <day> ligj-2000-8607`).
 
 ## Decisions made by hand
 

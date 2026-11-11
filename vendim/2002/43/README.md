@@ -5,7 +5,7 @@ Pagesën e kandidatëve që punësohen në Shërbimin Informativ Shtetëror · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-43` (tags `vendim-2002-43/<day>`; `python tools/on.py <day> vendim-2002-43`).
+Act id: `vendim-2002-43` (tags `vendim-2002-43/<day>`; `python registry/tools/on.py <day> vendim-2002-43`).
 
 ## Decisions made by hand
 

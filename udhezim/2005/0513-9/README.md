@@ -28,7 +28,7 @@ Rregullat e vëzhgimit dhe procedurat e akreditimit të organizatave jofitimprur
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2005-0513-9` (tags `udhezim-2005-0513-9/<day>`; `python tools/on.py <day> udhezim-2005-0513-9`).
+Act id: `udhezim-2005-0513-9` (tags `udhezim-2005-0513-9/<day>`; `python registry/tools/on.py <day> udhezim-2005-0513-9`).
 
 ## Decisions made by hand
 

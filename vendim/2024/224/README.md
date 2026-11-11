@@ -42,7 +42,7 @@ Metodologjinë e llogaritjes së fondeve për financimin e shërbimeve të kujde
 | Pika 34 | [pika-034.md](pika-034.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-224` (tags `vendim-2024-224/<day>`; `python tools/on.py <day> vendim-2024-224`).
+Act id: `vendim-2024-224` (tags `vendim-2024-224/<day>`; `python registry/tools/on.py <day> vendim-2024-224`).
 
 ## Decisions made by hand
 

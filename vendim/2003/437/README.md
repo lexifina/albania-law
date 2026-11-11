@@ -10,7 +10,7 @@ Rritjen e shtesave mujore të pensioneve të invaliditetit, dhënë sipas vendim
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-437` (tags `vendim-2003-437/<day>`; `python tools/on.py <day> vendim-2003-437`).
+Act id: `vendim-2003-437` (tags `vendim-2003-437/<day>`; `python registry/tools/on.py <day> vendim-2003-437`).
 
 ## Decisions made by hand
 

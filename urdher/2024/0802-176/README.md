@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për përcaktimin për shpalljen dhe përzgjedhjen e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0802-176` (tags `urdher-2024-0802-176/<day>`; `python tools/on.py <day> urdher-2024-0802-176`).
+Act id: `urdher-2024-0802-176` (tags `urdher-2024-0802-176/<day>`; `python registry/tools/on.py <day> urdher-2024-0802-176`).
 
 ## Decisions made by hand
 

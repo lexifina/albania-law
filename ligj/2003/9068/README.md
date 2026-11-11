@@ -78,7 +78,7 @@ Ratifikimin e “konventës europiane për vlefshmërinë ndërkombëtare të gj
 | Neni 67 | [neni-067.md](neni-067.md) | 0 |  |
 | Neni 68 | [neni-068.md](neni-068.md) | 0 |  |
 
-Act id: `ligji-9068-2003` (tags `ligji-9068-2003/<day>`; `python tools/on.py <day> ligji-9068-2003`).
+Act id: `ligji-9068-2003` (tags `ligji-9068-2003/<day>`; `python registry/tools/on.py <day> ligji-9068-2003`).
 
 ## Decisions made by hand
 

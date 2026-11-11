@@ -16,7 +16,16 @@ Miratimin e strukturës e të organikës, si dhe të strukturës e të niveleve 
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-791` (tags `vendim-2012-791/<day>`; `python tools/on.py <day> vendim-2012-791`).
+Act id: `vendim-2012-791` (tags `vendim-2012-791/<day>`; `python registry/tools/on.py <day> vendim-2012-791`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 590, datë 17.7.2013: Për disa ndryshime në vendimin nr. 791, datë 14.11.2012 të Këshillit të Ministrave “Për miratimin e strukturës e të organikës, si dhe të strukturës e të niveleve të pagave të Autoritetit të Aviacionit Civil”](https://qbz.gov.al/eli/vendim/2013/07/17/590)
+- [Vendimi i Këshillit të Ministrave nr. 100, datë 26.2.2014: Për disa ndryshime në vendimin nr. 791, datë 14.11.2012 të këshillit të ministrave “për miratimin e strukturës e të organikës, si dhe të strukturës e të niveleve të pagave të autoritetit të aviacionit civil”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/02/26/100)
 
 ## Decisions made by hand
 

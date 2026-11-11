@@ -10,7 +10,15 @@ Vendim Nr.67 Dt.28.01.2008 · 1 versions, from 2008-02-15 (latest in force: 2008
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-67` (tags `vendim-2008-67/<day>`; `python tools/on.py <day> vendim-2008-67`).
+Act id: `vendim-2008-67` (tags `vendim-2008-67/<day>`; `python registry/tools/on.py <day> vendim-2008-67`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 463, datë 16.4.2008: Për kalimin në përgjegjësi administrimi të ministrisë së drejtësisë, të pronës së paluajtshme, truall, në parcelat nr.39, 14, dhe 24, në zonën kadastrale 2932, dhe indeks të hartës k-34-77 (254-d) dhe (254-c), me sipërfaqen 58.625 m2, aktualisht truall në përdorim të bashkisë peshkopi, dhe për një ndryshim në vendimin nr.67, datë 28.1.2008 të këshillit të ministrave ”për miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që i transferohen, në pronësi ose në përdorim, të bashkisë peshkopi, të qarkut të dibrës”](https://qbz.gov.al/eli/vendim/2008/04/16/463)
 
 ## Decisions made by hand
 

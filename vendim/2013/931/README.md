@@ -14,7 +14,7 @@ Krijimin e Task - Forcës për marrjen e masave të ndërhyrjes emergjente për 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-931` (tags `vendim-2013-931/<day>`; `python tools/on.py <day> vendim-2013-931`).
+Act id: `vendim-2013-931` (tags `vendim-2013-931/<day>`; `python registry/tools/on.py <day> vendim-2013-931`).
 
 ## Decisions made by hand
 

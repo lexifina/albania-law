@@ -5,7 +5,7 @@ Miratimin e llojeve të deklaratës së interesave privatë · 2 versions, from 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-1122-620` (tags `urdher-2012-1122-620/<day>`; `python tools/on.py <day> urdher-2012-1122-620`).
+Act id: `urdher-2012-1122-620` (tags `urdher-2012-1122-620/<day>`; `python registry/tools/on.py <day> urdher-2012-1122-620`).
 
 ## Decisions made by hand
 

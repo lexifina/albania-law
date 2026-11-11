@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit phrd, no.tf 093096, ndërmjet këshillit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-1011` (tags `vendim-2009-1011/<day>`; `python tools/on.py <day> vendim-2009-1011`).
+Act id: `vendim-2009-1011` (tags `vendim-2009-1011/<day>`; `python registry/tools/on.py <day> vendim-2009-1011`).
 
 ## Decisions made by hand
 

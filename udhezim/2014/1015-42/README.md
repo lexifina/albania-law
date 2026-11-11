@@ -16,7 +16,7 @@ Arsimimin e individëve të moshës shkollore në institucionet e paraburgimit, 
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-1015-42` (tags `udhezim-2014-1015-42/<day>`; `python tools/on.py <day> udhezim-2014-1015-42`).
+Act id: `udhezim-2014-1015-42` (tags `udhezim-2014-1015-42/<day>`; `python registry/tools/on.py <day> udhezim-2014-1015-42`).
 
 ## Decisions made by hand
 

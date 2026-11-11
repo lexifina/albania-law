@@ -9,7 +9,7 @@ Delegimin e autoritetit, për miratimin e përdorimit të fondit të veçantë p
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1122-405` (tags `urdher-2011-1122-405/<day>`; `python tools/on.py <day> urdher-2011-1122-405`).
+Act id: `urdher-2011-1122-405` (tags `urdher-2011-1122-405/<day>`; `python registry/tools/on.py <day> urdher-2011-1122-405`).
 
 ## Decisions made by hand
 

@@ -16,7 +16,7 @@ Sigurimin e jetës së punonjësve të shërbimit të mbrojtjes nga zjarri dhe s
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-382` (tags `vendim-2020-382/<day>`; `python tools/on.py <day> vendim-2020-382`).
+Act id: `vendim-2020-382` (tags `vendim-2020-382/<day>`; `python registry/tools/on.py <day> vendim-2020-382`).
 
 ## Decisions made by hand
 

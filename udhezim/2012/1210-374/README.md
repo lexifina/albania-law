@@ -28,7 +28,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet për kuvendin �
 | Pika 21 | [pika-021.md](pika-021.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-1210-374` (tags `udhezim-2012-1210-374/<day>`; `python tools/on.py <day> udhezim-2012-1210-374`).
+Act id: `udhezim-2012-1210-374` (tags `udhezim-2012-1210-374/<day>`; `python registry/tools/on.py <day> udhezim-2012-1210-374`).
 
 ## Decisions made by hand
 

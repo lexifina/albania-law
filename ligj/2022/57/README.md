@@ -10,7 +10,7 @@ Ratifikimin e protokollit të Traktatit të Atlantikut të Veriut për aderimin 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2022-57` (tags `ligj-2022-57/<day>`; `python tools/on.py <day> ligj-2022-57`).
+Act id: `ligj-2022-57` (tags `ligj-2022-57/<day>`; `python registry/tools/on.py <day> ligj-2022-57`).
 
 ## Decisions made by hand
 

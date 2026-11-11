@@ -13,7 +13,7 @@ Mbi marrjen e masave për zbatimin e planit të mobilizimit për një periudhë 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0521-257` (tags `urdher-2021-0521-257/<day>`; `python tools/on.py <day> urdher-2021-0521-257`).
+Act id: `urdher-2021-0521-257` (tags `urdher-2021-0521-257/<day>`; `python registry/tools/on.py <day> urdher-2021-0521-257`).
 
 ## Decisions made by hand
 

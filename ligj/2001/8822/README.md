@@ -8,7 +8,7 @@ PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR.5, DATË 31.8.2001 TË 
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8822-2001` (tags `ligji-8822-2001/<day>`; `python tools/on.py <day> ligji-8822-2001`).
+Act id: `ligji-8822-2001` (tags `ligji-8822-2001/<day>`; `python registry/tools/on.py <day> ligji-8822-2001`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Miratimin e rregullave në lidhje me kushtet e përgjithshme për statusin e zë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0730-260` (tags `urdher-2020-0730-260/<day>`; `python tools/on.py <day> urdher-2020-0730-260`).
+Act id: `urdher-2020-0730-260` (tags `urdher-2020-0730-260/<day>`; `python registry/tools/on.py <day> urdher-2020-0730-260`).
 
 ## Decisions made by hand
 

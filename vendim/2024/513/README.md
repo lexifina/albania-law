@@ -15,7 +15,7 @@ Përcaktimin e procedurave dhe të informacionit të detajuar, që përmban rapo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2024-513` (tags `vendim-2024-513/<day>`; `python tools/on.py <day> vendim-2024-513`).
+Act id: `vendim-2024-513` (tags `vendim-2024-513/<day>`; `python registry/tools/on.py <day> vendim-2024-513`).
 
 ## Decisions made by hand
 

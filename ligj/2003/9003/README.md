@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9003-2003` (tags `ligji-9003-2003/<day>`; `python tools/on.py <day> ligji-9003-2003`).
+Act id: `ligji-9003-2003` (tags `ligji-9003-2003/<day>`; `python registry/tools/on.py <day> ligji-9003-2003`).
 
 ## Decisions made by hand
 

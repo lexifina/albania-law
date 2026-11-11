@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të drejtorit ekzekutiv të autoritetit të av
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-778` (tags `vendim-2016-778/<day>`; `python tools/on.py <day> vendim-2016-778`).
+Act id: `vendim-2016-778` (tags `vendim-2016-778/<day>`; `python registry/tools/on.py <day> vendim-2016-778`).
 
 ## Decisions made by hand
 

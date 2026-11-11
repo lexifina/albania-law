@@ -8,7 +8,7 @@ Emërimin në detyrë të prefektit të qarkut të Vlorës · 1 versions, from 2
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-7` (tags `vendim-2025-7/<day>`; `python tools/on.py <day> vendim-2025-7`).
+Act id: `vendim-2025-7` (tags `vendim-2025-7/<day>`; `python registry/tools/on.py <day> vendim-2025-7`).
 
 ## Decisions made by hand
 

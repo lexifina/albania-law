@@ -5,7 +5,7 @@ Përcaktimin e Zyrës për Mbrojtjen e Konsumatorit, si përfaqësuese në Kësh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-379` (tags `vendim-2013-379/<day>`; `python tools/on.py <day> vendim-2013-379`).
+Act id: `vendim-2013-379` (tags `vendim-2013-379/<day>`; `python registry/tools/on.py <day> vendim-2013-379`).
 
 ## Decisions made by hand
 

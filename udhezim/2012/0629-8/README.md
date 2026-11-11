@@ -14,7 +14,7 @@ Kriteret bazë për njohjen e licencave të huaja të personelit të mirëmbajtj
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0629-8` (tags `udhezim-2012-0629-8/<day>`; `python tools/on.py <day> udhezim-2012-0629-8`).
+Act id: `udhezim-2012-0629-8` (tags `udhezim-2012-0629-8/<day>`; `python registry/tools/on.py <day> udhezim-2012-0629-8`).
 
 ## Decisions made by hand
 

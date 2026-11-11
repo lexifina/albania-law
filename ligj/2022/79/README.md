@@ -13,7 +13,7 @@ Miratimin e marrëveshjes kuadër ndërmjet Këshillit të Ministrave të Republ
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-79-2022` (tags `ligji-79-2022/<day>`; `python tools/on.py <day> ligji-79-2022`).
+Act id: `ligji-79-2022` (tags `ligji-79-2022/<day>`; `python registry/tools/on.py <day> ligji-79-2022`).
 
 ## Decisions made by hand
 

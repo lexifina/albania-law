@@ -15,7 +15,7 @@ Përcaktimin e metodologjisë së kostos së studimeve për programin e integrua
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-527` (tags `vendim-2023-527/<day>`; `python tools/on.py <day> vendim-2023-527`).
+Act id: `vendim-2023-527` (tags `vendim-2023-527/<day>`; `python registry/tools/on.py <day> vendim-2023-527`).
 
 ## Decisions made by hand
 

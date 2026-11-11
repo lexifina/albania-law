@@ -13,7 +13,7 @@ Miratimin e deklaratës për pjesëmarrjen e këshillit të ministrave të repub
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-508` (tags `vendim-2018-508/<day>`; `python tools/on.py <day> vendim-2018-508`).
+Act id: `vendim-2018-508` (tags `vendim-2018-508/<day>`; `python registry/tools/on.py <day> vendim-2018-508`).
 
 ## Decisions made by hand
 

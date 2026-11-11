@@ -33,7 +33,7 @@ Pёr procedurat e pёrzgjedhjes sё subjekteve tё pajisura me licencё pёr pro
 | Pika 25 | [pika-025.md](pika-025.md) | 3 | 2023-10-12 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-425` (tags `vendim-2020-425/<day>`; `python tools/on.py <day> vendim-2020-425`).
+Act id: `vendim-2020-425` (tags `vendim-2020-425/<day>`; `python registry/tools/on.py <day> vendim-2020-425`).
 
 ## Decisions made by hand
 

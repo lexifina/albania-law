@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së financimit ndërmjet Këshillit të Ministrave të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-50` (tags `vendim-2020-50/<day>`; `python tools/on.py <day> vendim-2020-50`).
+Act id: `vendim-2020-50` (tags `vendim-2020-50/<day>`; `python registry/tools/on.py <day> vendim-2020-50`).
 
 ## Decisions made by hand
 

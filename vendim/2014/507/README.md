@@ -11,7 +11,7 @@ Kalimin në përgjegjësi administrimi të objektit me emërtim “konvikti i gj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-507` (tags `vendim-2014-507/<day>`; `python tools/on.py <day> vendim-2014-507`).
+Act id: `vendim-2014-507` (tags `vendim-2014-507/<day>`; `python registry/tools/on.py <day> vendim-2014-507`).
 
 ## Decisions made by hand
 

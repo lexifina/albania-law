@@ -41,7 +41,7 @@ Përgjegjësitë e zgjeruara të subjekteve prodhuese të produkteve që gjenero
 | Neni 27 | [neni-027.md](neni-027.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-74-2025` (tags `ligji-74-2025/<day>`; `python tools/on.py <day> ligji-74-2025`).
+Act id: `ligji-74-2025` (tags `ligji-74-2025/<day>`; `python registry/tools/on.py <day> ligji-74-2025`).
 
 ## Decisions made by hand
 

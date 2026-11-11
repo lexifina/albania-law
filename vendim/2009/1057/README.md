@@ -8,7 +8,7 @@ Përcaktimin e kompetencave të ministrit të shtetit për reformat dhe marrëdh
 | Vendimi | [pika-000.md](pika-000.md) | 1 | 2010-02-17 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1057` (tags `vendim-2009-1057/<day>`; `python tools/on.py <day> vendim-2009-1057`).
+Act id: `vendim-2009-1057` (tags `vendim-2009-1057/<day>`; `python registry/tools/on.py <day> vendim-2009-1057`).
 
 ## Decisions made by hand
 

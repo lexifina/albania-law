@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.1, datë 5.5.2010, të Kësh
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10281` (tags `ligj-2010-10281/<day>`; `python tools/on.py <day> ligj-2010-10281`).
+Act id: `ligj-2010-10281` (tags `ligj-2010-10281/<day>`; `python registry/tools/on.py <day> ligj-2010-10281`).
 
 ## Decisions made by hand
 

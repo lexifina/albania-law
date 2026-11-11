@@ -48,7 +48,7 @@ PËR KONTRATAT E TREGTIMIT në LARGëSI të SHëRBIMEVE FINANCIARE për KONSUMAT
 | Pika 41 | [pika-041.md](pika-041.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-615` (tags `vendim-2011-615/<day>`; `python tools/on.py <day> vendim-2011-615`).
+Act id: `vendim-2011-615` (tags `vendim-2011-615/<day>`; `python registry/tools/on.py <day> vendim-2011-615`).
 
 ## Decisions made by hand
 

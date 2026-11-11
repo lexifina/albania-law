@@ -32,7 +32,7 @@ Procedurat e paraqitjes së kërkesës, caktimit të asistentit pranë një note
 | Pika 25 | [pika-025.md](pika-025.md) | 1 | 2005-09-05 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-1202-8044` (tags `udhezim-2004-1202-8044/<day>`; `python tools/on.py <day> udhezim-2004-1202-8044`).
+Act id: `udhezim-2004-1202-8044` (tags `udhezim-2004-1202-8044/<day>`; `python registry/tools/on.py <day> udhezim-2004-1202-8044`).
 
 ## Decisions made by hand
 

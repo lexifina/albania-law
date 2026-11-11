@@ -9,7 +9,15 @@ Miratimin e marrëveshjes së grantit ndërmjet Këshillit të Ministrave të Re
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-774` (tags `vendim-2020-774/<day>`; `python tools/on.py <day> vendim-2020-774`).
+Act id: `vendim-2020-774` (tags `vendim-2020-774/<day>`; `python registry/tools/on.py <day> vendim-2020-774`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 445, datë 29.6.2022: Për përdorimin e fondit të rindërtimit për financimin e tri objekteve arsimore në Bashkinë Tiranë](https://qbz.gov.al/eli/vendim/2022/06/29/445)
 
 ## Decisions made by hand
 

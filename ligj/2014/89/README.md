@@ -52,7 +52,7 @@ Pajisjet mjekësore · 3 versions, from 2014-08-26 (latest in force: 2025-05-13)
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-89` (tags `ligj-2014-89/<day>`; `python tools/on.py <day> ligj-2014-89`).
+Act id: `ligj-2014-89` (tags `ligj-2014-89/<day>`; `python registry/tools/on.py <day> ligj-2014-89`).
 
 ## Decisions made by hand
 

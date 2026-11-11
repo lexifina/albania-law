@@ -10,7 +10,7 @@ Miratimin e dokumentit politik të përfshirjes sociale 2016-2020 · 2 versions,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-06-03 |
 
-Act id: `vendim-2016-87` (tags `vendim-2016-87/<day>`; `python tools/on.py <day> vendim-2016-87`).
+Act id: `vendim-2016-87` (tags `vendim-2016-87/<day>`; `python registry/tools/on.py <day> vendim-2016-87`).
 
 ## Decisions made by hand
 

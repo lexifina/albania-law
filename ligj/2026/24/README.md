@@ -86,7 +86,7 @@ Shërbimin e jashtëm në Republikën e Shqipërisë · 1 versions, from 2026-04
 | Neni 70 | [neni-070.md](neni-070.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-24-2026` (tags `ligji-24-2026/<day>`; `python tools/on.py <day> ligji-24-2026`).
+Act id: `ligji-24-2026` (tags `ligji-24-2026/<day>`; `python registry/tools/on.py <day> ligji-24-2026`).
 
 ## Decisions made by hand
 

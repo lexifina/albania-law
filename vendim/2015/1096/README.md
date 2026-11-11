@@ -5,7 +5,7 @@ Miratimin e rregullave, kushteve e procedurave për përdorimin dhe menaxhimin e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-1096` (tags `vendim-2015-1096/<day>`; `python tools/on.py <day> vendim-2015-1096`).
+Act id: `vendim-2015-1096` (tags `vendim-2015-1096/<day>`; `python registry/tools/on.py <day> vendim-2015-1096`).
 
 ## Decisions made by hand
 

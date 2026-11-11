@@ -65,7 +65,7 @@ Arbitrazhin në Republikën e Shqipërisë · 1 versions, from 2023-08-11 (lates
 | Neni 49 | [neni-049.md](neni-049.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-52-2023` (tags `ligji-52-2023/<day>`; `python tools/on.py <day> ligji-52-2023`).
+Act id: `ligji-52-2023` (tags `ligji-52-2023/<day>`; `python registry/tools/on.py <day> ligji-52-2023`).
 
 ## Decisions made by hand
 

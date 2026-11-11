@@ -12,7 +12,7 @@ Adoptimin e eurokodeve të ndërtimit · 1 versions, from 2011-08-25 (latest in 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-511` (tags `vendim-2011-511/<day>`; `python tools/on.py <day> vendim-2011-511`).
+Act id: `vendim-2011-511` (tags `vendim-2011-511/<day>`; `python registry/tools/on.py <day> vendim-2011-511`).
 
 ## Decisions made by hand
 

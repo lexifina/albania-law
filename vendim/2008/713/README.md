@@ -9,7 +9,15 @@ Miratimin e kontratës së koncesionit të formës “BOT”, të lidhur ndërmj
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-713` (tags `vendim-2008-713/<day>`; `python tools/on.py <day> vendim-2008-713`).
+Act id: `vendim-2008-713` (tags `vendim-2008-713/<day>`; `python registry/tools/on.py <day> vendim-2008-713`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 687, datë 16.8.2013: Për miratimin e marrëveshjes “Për disa ndryshime dhe shtesa në kontratën e koncesionit të formës “BOT”, të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Aurora Konstruksion” sh.p.k., për ndërtimin e hidrocentralit Vlushë, miratuar me vendimin nr. 713, datë 21.5.2008 të Këshillit të Ministrave, të ndryshuar”](https://qbz.gov.al/eli/vendim/2013/08/16/687)
 
 ## Decisions made by hand
 

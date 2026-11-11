@@ -5,7 +5,7 @@ Përcaktimin e kushteve për vendosjen e kontrolleve të veçanta shëndetësore
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2025-0829-26` (tags `udhezim-2025-0829-26/<day>`; `python tools/on.py <day> udhezim-2025-0829-26`).
+Act id: `udhezim-2025-0829-26` (tags `udhezim-2025-0829-26/<day>`; `python registry/tools/on.py <day> udhezim-2025-0829-26`).
 
 ## Decisions made by hand
 

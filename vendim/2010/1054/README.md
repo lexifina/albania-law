@@ -12,7 +12,7 @@ Miratimin e rregullores ”për pajisjet e regjistrimit në transportin rrugor�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1054` (tags `vendim-2010-1054/<day>`; `python tools/on.py <day> vendim-2010-1054`).
+Act id: `vendim-2010-1054` (tags `vendim-2010-1054/<day>`; `python registry/tools/on.py <day> vendim-2010-1054`).
 
 ## Decisions made by hand
 

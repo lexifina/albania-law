@@ -10,7 +10,7 @@ Rritjen e ndjekjes së arsimit parashkollor nga fëmijët romë · 1 versions, f
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0808-21` (tags `udhezim-2014-0808-21/<day>`; `python tools/on.py <day> udhezim-2014-0808-21`).
+Act id: `udhezim-2014-0808-21` (tags `udhezim-2014-0808-21/<day>`; `python registry/tools/on.py <day> udhezim-2014-0808-21`).
 
 ## Decisions made by hand
 

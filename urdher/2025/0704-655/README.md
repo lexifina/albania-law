@@ -12,7 +12,7 @@ Disa masa mbrojtëse ndaj sëmundjes së pestës së ruminantëve të vegjël t�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0704-655` (tags `urdher-2025-0704-655/<day>`; `python tools/on.py <day> urdher-2025-0704-655`).
+Act id: `urdher-2025-0704-655` (tags `urdher-2025-0704-655/<day>`; `python registry/tools/on.py <day> urdher-2025-0704-655`).
 
 ## Decisions made by hand
 

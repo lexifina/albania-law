@@ -67,7 +67,7 @@ Vullnetarizmin · 1 versions, from 2026-02-05 (latest in force: 2026-02-05) · <
 | Neni 51 | [neni-051.md](neni-051.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-94-2025` (tags `ligji-94-2025/<day>`; `python tools/on.py <day> ligji-94-2025`).
+Act id: `ligji-94-2025` (tags `ligji-94-2025/<day>`; `python registry/tools/on.py <day> ligji-94-2025`).
 
 ## Decisions made by hand
 

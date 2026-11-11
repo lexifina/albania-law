@@ -11,7 +11,7 @@ Miratimin e procedurave dhe të kritereve që ndiqen për finacimin e projekteve
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-648` (tags `vendim-2024-648/<day>`; `python tools/on.py <day> vendim-2024-648`).
+Act id: `vendim-2024-648` (tags `vendim-2024-648/<day>`; `python registry/tools/on.py <day> vendim-2024-648`).
 
 ## Decisions made by hand
 

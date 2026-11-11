@@ -12,7 +12,7 @@ Caktimin e fushës së përgjegjësisë dhe detyrave të zëvendësministrit në
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-0216-117` (tags `urdher-2018-0216-117/<day>`; `python tools/on.py <day> urdher-2018-0216-117`).
+Act id: `urdher-2018-0216-117` (tags `urdher-2018-0216-117/<day>`; `python registry/tools/on.py <day> urdher-2018-0216-117`).
 
 ## Decisions made by hand
 

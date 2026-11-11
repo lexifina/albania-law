@@ -12,7 +12,7 @@ Një shtesë fondi në buxhetin e vitit 2017, miratuar për komisionin qendror t
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-388` (tags `vendim-2017-388/<day>`; `python tools/on.py <day> vendim-2017-388`).
+Act id: `vendim-2017-388` (tags `vendim-2017-388/<day>`; `python registry/tools/on.py <day> vendim-2017-388`).
 
 ## Decisions made by hand
 

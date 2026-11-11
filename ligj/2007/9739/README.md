@@ -48,7 +48,7 @@ Shërbimin e transfuzionit të gjakut në republikën e shqipërisë · 5 versio
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9739` (tags `ligj-2007-9739/<day>`; `python tools/on.py <day> ligj-2007-9739`).
+Act id: `ligj-2007-9739` (tags `ligj-2007-9739/<day>`; `python registry/tools/on.py <day> ligj-2007-9739`).
 
 ## Decisions made by hand
 

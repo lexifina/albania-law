@@ -10,7 +10,7 @@ PëR MIRATIMIN E FONDIT TË SHPENZIMEVE, PËR VITIN 2008, PËR ENTIN RREGULLATOR
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-304` (tags `vendim-2008-304/<day>`; `python tools/on.py <day> vendim-2008-304`).
+Act id: `vendim-2008-304` (tags `vendim-2008-304/<day>`; `python registry/tools/on.py <day> vendim-2008-304`).
 
 ## Decisions made by hand
 

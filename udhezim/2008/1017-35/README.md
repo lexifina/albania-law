@@ -30,7 +30,7 @@ Regjistrimin e pranimeve për plotësimin e kuotave të rishpërndara në ciklin
 | Pika 23 | [pika-023.md](pika-023.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1017-35` (tags `udhezim-2008-1017-35/<day>`; `python tools/on.py <day> udhezim-2008-1017-35`).
+Act id: `udhezim-2008-1017-35` (tags `udhezim-2008-1017-35/<day>`; `python registry/tools/on.py <day> udhezim-2008-1017-35`).
 
 ## Decisions made by hand
 

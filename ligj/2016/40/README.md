@@ -40,7 +40,7 @@ Urdhrin e psikologut në republikën e shqipërisë · 1 versions, from 2016-05-
 | Neni 24 | [neni-024.md](neni-024.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-40-2016` (tags `ligji-40-2016/<day>`; `python tools/on.py <day> ligji-40-2016`).
+Act id: `ligji-40-2016` (tags `ligji-40-2016/<day>`; `python registry/tools/on.py <day> ligji-40-2016`).
 
 ## Decisions made by hand
 

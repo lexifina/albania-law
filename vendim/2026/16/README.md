@@ -11,7 +11,7 @@ Miratimin e listës së mallrave të përjashtuara nga taksat doganore, të cila
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-16` (tags `vendim-2026-16/<day>`; `python tools/on.py <day> vendim-2026-16`).
+Act id: `vendim-2026-16` (tags `vendim-2026-16/<day>`; `python registry/tools/on.py <day> vendim-2026-16`).
 
 ## Decisions made by hand
 

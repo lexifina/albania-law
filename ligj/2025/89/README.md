@@ -70,7 +70,7 @@ Gjuetinë · 1 versions, from 2026-01-22 (latest in force: 2026-01-22) · <https
 | Neni 53 | [neni-053.md](neni-053.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-89-2025` (tags `ligji-89-2025/<day>`; `python tools/on.py <day> ligji-89-2025`).
+Act id: `ligji-89-2025` (tags `ligji-89-2025/<day>`; `python registry/tools/on.py <day> ligji-89-2025`).
 
 ## Decisions made by hand
 

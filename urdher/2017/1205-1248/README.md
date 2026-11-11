@@ -9,7 +9,7 @@ Delegimin e kompetencave · 1 versions, from 2017-12-15 (latest in force: 2017-1
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-1205-1248` (tags `urdher-2017-1205-1248/<day>`; `python tools/on.py <day> urdher-2017-1205-1248`).
+Act id: `urdher-2017-1205-1248` (tags `urdher-2017-1205-1248/<day>`; `python registry/tools/on.py <day> urdher-2017-1205-1248`).
 
 ## Decisions made by hand
 

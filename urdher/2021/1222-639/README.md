@@ -5,7 +5,7 @@ Vendosjen e një regjimi sforco të peshkimit për speciet kryesore fundore në 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-1222-639` (tags `urdher-2021-1222-639/<day>`; `python tools/on.py <day> urdher-2021-1222-639`).
+Act id: `urdher-2021-1222-639` (tags `urdher-2021-1222-639/<day>`; `python registry/tools/on.py <day> urdher-2021-1222-639`).
 
 ## Decisions made by hand
 

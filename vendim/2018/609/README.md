@@ -11,7 +11,7 @@ Miratimin e marrëveshjes së ndërmarrjes së përbashkët, nga dhe ndërmjet s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-609` (tags `vendim-2018-609/<day>`; `python tools/on.py <day> vendim-2018-609`).
+Act id: `vendim-2018-609` (tags `vendim-2018-609/<day>`; `python registry/tools/on.py <day> vendim-2018-609`).
 
 ## Decisions made by hand
 

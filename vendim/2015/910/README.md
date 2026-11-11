@@ -11,7 +11,16 @@ Shpërblimin e pronarëve për sipërfaqet takuese të pasurive të paluajtshme,
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-910` (tags `vendim-2015-910/<day>`; `python tools/on.py <day> vendim-2015-910`).
+Act id: `vendim-2015-910` (tags `vendim-2015-910/<day>`; `python registry/tools/on.py <day> vendim-2015-910`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 296, datë 15.4.2020: Për disa ndryshime në vendimet e Këshillit të Ministrave nr.1039, datë 14.10.2009; nr.616, datë 11.6.2009; nr.514, datë 1.8.2012; nr.435, datë 24.4.2013; nr.910, datë 11.11.2015; nr.258, datë 23.3.2015; nr.293, datë 21.5.2018; nr.294, datë 21.5.2018; nr.737, datë 12.12.2018; nr.65, datë 13.2.2019; nr.254, datë 24.4.2019; nr.182, datë 4.4.2019, “Për shpërblimin e pronarëve, për sipërfaqet takuese, të pasurive të paluajtshme, pronë private, të cilat preken nga ndërtimet informale”](https://qbz.gov.al/eli/vendim/2020/04/15/296)
+- [Vendimi i Këshillit të Ministrave nr. 90, datë 8.2.2017: Për disa ndryshime në vendimet e Këshillit të Ministrave nr. 204, datë 19.2.2009, nr. 616, datë 11.6.2009, nr. 1039, datë 14.10.2009, nr. 389, datë 19.5.2010, nr. 435, datë 24.4.2013, nr. 494, datë 19.6.2013, nr. 685, datë 16.8.2013, nr. 760, datë5.9.2013, nr. 869, datë 10.12.2014, nr. 258, datë 25.3.2015, nr. 449, datë 27.5.2015, nr. 616, datë 7.7.2015, nr. 801, datë 30.9.2015, nr. 910, datë 11.11.2015, nr. 220, datë 23.3.2016, nr. 378, datë 25.5.2016, nr. 529, datë 20.7.2016 dhe nr. 563, datë 29.7.2016 “Për shpërblimin e pronarëve për sipërfaqet takuese të pasurive të paluajtshme, pronë private, që preken nga ndërtimet informale”](https://qbz.gov.al/eli/vendim/2017/02/08/90)
 
 ## Decisions made by hand
 

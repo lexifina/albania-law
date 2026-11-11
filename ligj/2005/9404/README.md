@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes kuadër ndërmjet republikës së shqipërisë dh
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9404` (tags `ligj-2005-9404/<day>`; `python tools/on.py <day> ligj-2005-9404`).
+Act id: `ligj-2005-9404` (tags `ligj-2005-9404/<day>`; `python registry/tools/on.py <day> ligj-2005-9404`).
 
 ## Decisions made by hand
 

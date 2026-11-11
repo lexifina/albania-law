@@ -75,7 +75,7 @@ Parandalimin e konfliktit të interesit në ushtrimin e funksioneve publike · 1
 | Neni 57 | [neni-057.md](neni-057.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-23-2026` (tags `ligji-23-2026/<day>`; `python tools/on.py <day> ligji-23-2026`).
+Act id: `ligji-23-2026` (tags `ligji-23-2026/<day>`; `python registry/tools/on.py <day> ligji-23-2026`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Rishpërndarje fondesh buxhetore në buxhetin e vitit 2012, miratuar për minist
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-871` (tags `vendim-2012-871/<day>`; `python tools/on.py <day> vendim-2012-871`).
+Act id: `vendim-2012-871` (tags `vendim-2012-871/<day>`; `python registry/tools/on.py <day> vendim-2012-871`).
 
 ## Decisions made by hand
 

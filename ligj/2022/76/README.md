@@ -9,7 +9,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 14, datë 5.10.2022, ”Pë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2022-76` (tags `ligj-2022-76/<day>`; `python tools/on.py <day> ligj-2022-76`).
+Act id: `ligj-2022-76` (tags `ligj-2022-76/<day>`; `python registry/tools/on.py <day> ligj-2022-76`).
 
 ## Decisions made by hand
 

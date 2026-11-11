@@ -11,7 +11,7 @@ Përbërjen e komisioneve eprore të caktimit të aftësisë për punë · 2 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-05-27 |
 
-Act id: `vendim-2015-787` (tags `vendim-2015-787/<day>`; `python tools/on.py <day> vendim-2015-787`).
+Act id: `vendim-2015-787` (tags `vendim-2015-787/<day>`; `python registry/tools/on.py <day> vendim-2015-787`).
 
 ## Decisions made by hand
 

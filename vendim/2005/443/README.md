@@ -5,7 +5,7 @@ PËR KUSHTET, KRITERET DHE MASËN E PËRFITIMEVE NGA SIGURIMI SHOQËROR SUPLEMEN
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-443` (tags `vendim-2005-443/<day>`; `python tools/on.py <day> vendim-2005-443`).
+Act id: `vendim-2005-443` (tags `vendim-2005-443/<day>`; `python registry/tools/on.py <day> vendim-2005-443`).
 
 ## Decisions made by hand
 

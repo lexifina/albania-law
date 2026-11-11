@@ -43,7 +43,7 @@ Ratifikimin e “marrëveshjes ndërmjet qeverisë së republikës të shqipëri
 | Pjesa V | [pjesa-05.md](pjesa-05.md) | 0 |  |
 | Seksioni VI | [seksioni-06.md](seksioni-06.md) | 0 |  |
 
-Act id: `ligji-9066-2003` (tags `ligji-9066-2003/<day>`; `python tools/on.py <day> ligji-9066-2003`).
+Act id: `ligji-9066-2003` (tags `ligji-9066-2003/<day>`; `python registry/tools/on.py <day> ligji-9066-2003`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Federik Kolë Ndoci · 1 ver
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-784` (tags `vendim-2023-784/<day>`; `python tools/on.py <day> vendim-2023-784`).
+Act id: `vendim-2023-784` (tags `vendim-2023-784/<day>`; `python registry/tools/on.py <day> vendim-2023-784`).
 
 ## Decisions made by hand
 

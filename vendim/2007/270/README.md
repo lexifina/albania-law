@@ -10,7 +10,7 @@ PëR PëRCAKTIMIN E AUTORITETIT KONTRAKTUES, për DHëNIEN ME KONCESION të HIDR
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-270` (tags `vendim-2007-270/<day>`; `python tools/on.py <day> vendim-2007-270`).
+Act id: `vendim-2007-270` (tags `vendim-2007-270/<day>`; `python registry/tools/on.py <day> vendim-2007-270`).
 
 ## Decisions made by hand
 

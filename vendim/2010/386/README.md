@@ -12,7 +12,7 @@ Ekzekutimin e vendimit të Gjykatës Ndërkombëtare të Arbitrazhit për çësh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-386` (tags `vendim-2010-386/<day>`; `python tools/on.py <day> vendim-2010-386`).
+Act id: `vendim-2010-386` (tags `vendim-2010-386/<day>`; `python registry/tools/on.py <day> vendim-2010-386`).
 
 ## Decisions made by hand
 

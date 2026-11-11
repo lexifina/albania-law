@@ -9,7 +9,7 @@ Miratimin e ndryshimit nr. 2 të marrëveshjes së grantit nr.tf013972, ndërmje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-26` (tags `vendim-2017-26/<day>`; `python tools/on.py <day> vendim-2017-26`).
+Act id: `vendim-2017-26` (tags `vendim-2017-26/<day>`; `python registry/tools/on.py <day> vendim-2017-26`).
 
 ## Decisions made by hand
 

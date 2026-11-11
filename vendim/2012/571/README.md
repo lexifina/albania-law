@@ -10,7 +10,7 @@ Lejimin e përdorimit të pjesshëm të të ardhurave të realizuara nga drejtor
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-571` (tags `vendim-2012-571/<day>`; `python tools/on.py <day> vendim-2012-571`).
+Act id: `vendim-2012-571` (tags `vendim-2012-571/<day>`; `python registry/tools/on.py <day> vendim-2012-571`).
 
 ## Decisions made by hand
 

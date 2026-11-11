@@ -10,7 +10,7 @@ Rilicencimin e agjencisë së administrimit kolektiv për të drejtat e artistë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2011-0905-209` (tags `urdher-2011-0905-209/<day>`; `python tools/on.py <day> urdher-2011-0905-209`).
+Act id: `urdher-2011-0905-209` (tags `urdher-2011-0905-209/<day>`; `python registry/tools/on.py <day> urdher-2011-0905-209`).
 
 ## Decisions made by hand
 

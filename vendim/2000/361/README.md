@@ -13,7 +13,7 @@ Shpërndarjen me koeficient pjesorë të vlerave financiare, kreditorëve të sh
 | Pika 6 | [pika-006.md](pika-006.md) | 1 | 2005-07-21 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-361` (tags `vendim-2000-361/<day>`; `python tools/on.py <day> vendim-2000-361`).
+Act id: `vendim-2000-361` (tags `vendim-2000-361/<day>`; `python registry/tools/on.py <day> vendim-2000-361`).
 
 ## Decisions made by hand
 

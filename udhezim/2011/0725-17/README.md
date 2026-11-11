@@ -28,7 +28,7 @@ Përmbushjen e Inspektimit Financiar Publik dhe Kontrollin e Cilësisë · 1 ver
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0725-17` (tags `udhezim-2011-0725-17/<day>`; `python tools/on.py <day> udhezim-2011-0725-17`).
+Act id: `udhezim-2011-0725-17` (tags `udhezim-2011-0725-17/<day>`; `python registry/tools/on.py <day> udhezim-2011-0725-17`).
 
 ## Decisions made by hand
 

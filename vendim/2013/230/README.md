@@ -5,7 +5,7 @@ Përcaktimin e funksioneve, detyrave specifike dhe standardeve të shërbimit ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-230` (tags `vendim-2013-230/<day>`; `python tools/on.py <day> vendim-2013-230`).
+Act id: `vendim-2013-230` (tags `vendim-2013-230/<day>`; `python registry/tools/on.py <day> vendim-2013-230`).
 
 ## Decisions made by hand
 

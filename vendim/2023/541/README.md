@@ -9,7 +9,7 @@ Miratimin e memorandumit të bashkëpunimit ndërmjet Këshillit të Ministrave 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-541` (tags `vendim-2023-541/<day>`; `python tools/on.py <day> vendim-2023-541`).
+Act id: `vendim-2023-541` (tags `vendim-2023-541/<day>`; `python registry/tools/on.py <day> vendim-2023-541`).
 
 ## Decisions made by hand
 

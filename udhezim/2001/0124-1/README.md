@@ -13,7 +13,7 @@ PËR FUNKSIONIMIN E KRRT-ve · 1 versions, from 2001-03-16 (latest in force: 200
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0124-1` (tags `udhezim-2001-0124-1/<day>`; `python tools/on.py <day> udhezim-2001-0124-1`).
+Act id: `udhezim-2001-0124-1` (tags `udhezim-2001-0124-1/<day>`; `python registry/tools/on.py <day> udhezim-2001-0124-1`).
 
 ## Decisions made by hand
 

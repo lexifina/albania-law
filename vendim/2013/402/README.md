@@ -35,7 +35,7 @@ Përcaktimin e masave menaxhuese për shfrytëzimin e qëndrueshëm të burimeve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-08-04 |
 
-Act id: `vendim-2013-402` (tags `vendim-2013-402/<day>`; `python tools/on.py <day> vendim-2013-402`).
+Act id: `vendim-2013-402` (tags `vendim-2013-402/<day>`; `python registry/tools/on.py <day> vendim-2013-402`).
 
 ## Decisions made by hand
 

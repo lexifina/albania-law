@@ -9,7 +9,7 @@ Vendosjen e marrëdhënieve diplomatike me Republikën Islamike të Afganistanit
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-556` (tags `vendim-2006-556/<day>`; `python tools/on.py <day> vendim-2006-556`).
+Act id: `vendim-2006-556` (tags `vendim-2006-556/<day>`; `python registry/tools/on.py <day> vendim-2006-556`).
 
 ## Decisions made by hand
 

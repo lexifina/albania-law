@@ -29,7 +29,7 @@ Përcaktimin e procedurave të referimit dhe menaxhimit të rasteve të fëmijë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-782` (tags `vendim-2026-782/<day>`; `python tools/on.py <day> vendim-2026-782`).
+Act id: `vendim-2026-782` (tags `vendim-2026-782/<day>`; `python registry/tools/on.py <day> vendim-2026-782`).
 
 ## Decisions made by hand
 

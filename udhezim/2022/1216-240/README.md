@@ -10,7 +10,7 @@ Përcaktimin e vlerës së investimit për pajisjen me leje unike për investito
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1216-240` (tags `udhezim-2022-1216-240/<day>`; `python tools/on.py <day> udhezim-2022-1216-240`).
+Act id: `udhezim-2022-1216-240` (tags `udhezim-2022-1216-240/<day>`; `python registry/tools/on.py <day> udhezim-2022-1216-240`).
 
 ## Decisions made by hand
 

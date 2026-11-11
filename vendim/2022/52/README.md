@@ -10,7 +10,7 @@ Lirimin dhe emërimin në detyrë të drejtorit të Përgjithshëm të Agjencis�
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-52` (tags `vendim-2022-52/<day>`; `python tools/on.py <day> vendim-2022-52`).
+Act id: `vendim-2022-52` (tags `vendim-2022-52/<day>`; `python registry/tools/on.py <day> vendim-2022-52`).
 
 ## Decisions made by hand
 

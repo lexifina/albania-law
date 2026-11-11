@@ -11,7 +11,7 @@ Miratimin e modelit të autorizimit për eksportin e mbetjeve dhe modelin e auto
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-1106-1957` (tags `urdher-2014-1106-1957/<day>`; `python tools/on.py <day> urdher-2014-1106-1957`).
+Act id: `urdher-2014-1106-1957` (tags `urdher-2014-1106-1957/<day>`; `python registry/tools/on.py <day> urdher-2014-1106-1957`).
 
 ## Decisions made by hand
 

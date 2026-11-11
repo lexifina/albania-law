@@ -10,7 +10,7 @@ Përdorimin e fondit të rindërtimit për financimin e rikonstruksionit/riparim
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1035` (tags `vendim-2020-1035/<day>`; `python tools/on.py <day> vendim-2020-1035`).
+Act id: `vendim-2020-1035` (tags `vendim-2020-1035/<day>`; `python registry/tools/on.py <day> vendim-2020-1035`).
 
 ## Decisions made by hand
 

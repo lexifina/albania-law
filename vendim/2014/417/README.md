@@ -16,7 +16,7 @@ Miratimin e tarifave të lejeve të mjedisit · 3 versions, from 2014-07-07 (lat
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2023-07-28 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-417` (tags `vendim-2014-417/<day>`; `python tools/on.py <day> vendim-2014-417`).
+Act id: `vendim-2014-417` (tags `vendim-2014-417/<day>`; `python registry/tools/on.py <day> vendim-2014-417`).
 
 ## Decisions made by hand
 

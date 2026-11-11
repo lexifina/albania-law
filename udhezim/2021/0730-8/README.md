@@ -27,7 +27,7 @@ Përcaktimin e rasteve, kushteve dhe mbrojtjes së veçantë në situata emergje
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0730-8` (tags `udhezim-2021-0730-8/<day>`; `python tools/on.py <day> udhezim-2021-0730-8`).
+Act id: `udhezim-2021-0730-8` (tags `udhezim-2021-0730-8/<day>`; `python registry/tools/on.py <day> udhezim-2021-0730-8`).
 
 ## Decisions made by hand
 

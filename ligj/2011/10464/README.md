@@ -8,7 +8,7 @@ Ligj Nr.10464 Dt.29.09.2011 · 1 versions, from 2011-11-07 (latest in force: 201
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10464` (tags `ligj-2011-10464/<day>`; `python tools/on.py <day> ligj-2011-10464`).
+Act id: `ligj-2011-10464` (tags `ligj-2011-10464/<day>`; `python registry/tools/on.py <day> ligj-2011-10464`).
 
 ## Decisions made by hand
 

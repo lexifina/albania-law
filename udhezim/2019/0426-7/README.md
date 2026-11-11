@@ -18,7 +18,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë 2019, sesioni i dytë · 1 v
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-0426-7` (tags `udhezim-2019-0426-7/<day>`; `python tools/on.py <day> udhezim-2019-0426-7`).
+Act id: `udhezim-2019-0426-7` (tags `udhezim-2019-0426-7/<day>`; `python registry/tools/on.py <day> udhezim-2019-0426-7`).
 
 ## Decisions made by hand
 

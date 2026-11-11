@@ -5,7 +5,7 @@ Mbylljen e bareve, restoranteve, lokaleve, fast food dhe kufizimin e shërbimeve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2020-0312-164` (tags `urdher-2020-0312-164/<day>`; `python tools/on.py <day> urdher-2020-0312-164`).
+Act id: `urdher-2020-0312-164` (tags `urdher-2020-0312-164/<day>`; `python registry/tools/on.py <day> urdher-2020-0312-164`).
 
 ## Decisions made by hand
 

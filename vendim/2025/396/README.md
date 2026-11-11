@@ -10,7 +10,7 @@ Miratimin e përshkrimeve dhe të specifikimeve teknike të urdhrave dhe medalje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-396` (tags `vendim-2025-396/<day>`; `python tools/on.py <day> vendim-2025-396`).
+Act id: `vendim-2025-396` (tags `vendim-2025-396/<day>`; `python registry/tools/on.py <day> vendim-2025-396`).
 
 ## Decisions made by hand
 

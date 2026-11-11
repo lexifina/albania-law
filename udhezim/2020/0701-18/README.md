@@ -17,7 +17,7 @@ Pёr procedurat e pёrdorimit tё fondeve tё buxhetit tё shtetit pёr botimin,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2021-09-16 |
 
-Act id: `udhezim-2020-0701-18` (tags `udhezim-2020-0701-18/<day>`; `python tools/on.py <day> udhezim-2020-0701-18`).
+Act id: `udhezim-2020-0701-18` (tags `udhezim-2020-0701-18/<day>`; `python registry/tools/on.py <day> udhezim-2020-0701-18`).
 
 ## Decisions made by hand
 

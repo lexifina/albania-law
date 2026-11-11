@@ -5,7 +5,7 @@ Miratimin e tarifave të përdorimit të ujit dhe të shkarkimeve të lëngëta 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-662` (tags `vendim-2016-662/<day>`; `python tools/on.py <day> vendim-2016-662`).
+Act id: `vendim-2016-662` (tags `vendim-2016-662/<day>`; `python registry/tools/on.py <day> vendim-2016-662`).
 
 ## Decisions made by hand
 

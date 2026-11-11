@@ -15,7 +15,7 @@ Kontrollin e identitetit në hyrje të ndërtesave · 1 versions, from 2011-12-3
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1221-12` (tags `udhezim-2011-1221-12/<day>`; `python tools/on.py <day> udhezim-2011-1221-12`).
+Act id: `udhezim-2011-1221-12` (tags `udhezim-2011-1221-12/<day>`; `python registry/tools/on.py <day> udhezim-2011-1221-12`).
 
 ## Decisions made by hand
 

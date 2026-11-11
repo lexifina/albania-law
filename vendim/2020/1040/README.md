@@ -8,7 +8,7 @@ Përcaktimin e rregullave të zbatimit të kritereve të legalizimit dhe miratim
 | Vendimi | [pika-000.md](pika-000.md) | 1 | 2022-08-08 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1040` (tags `vendim-2020-1040/<day>`; `python tools/on.py <day> vendim-2020-1040`).
+Act id: `vendim-2020-1040` (tags `vendim-2020-1040/<day>`; `python registry/tools/on.py <day> vendim-2020-1040`).
 
 ## Decisions made by hand
 

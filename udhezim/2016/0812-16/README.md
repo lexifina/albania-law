@@ -9,7 +9,7 @@ Procedurat për kryerjen e vlerësimit të riskut për çdo vend pune në zbatim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0812-16` (tags `udhezim-2016-0812-16/<day>`; `python tools/on.py <day> udhezim-2016-0812-16`).
+Act id: `udhezim-2016-0812-16` (tags `udhezim-2016-0812-16/<day>`; `python registry/tools/on.py <day> udhezim-2016-0812-16`).
 
 ## Decisions made by hand
 

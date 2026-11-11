@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të fëmijës Arbas Hoxha · 1 versions, fro
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-136` (tags `vendim-2022-136/<day>`; `python tools/on.py <day> vendim-2022-136`).
+Act id: `vendim-2022-136` (tags `vendim-2022-136/<day>`; `python registry/tools/on.py <day> vendim-2022-136`).
 
 ## Decisions made by hand
 

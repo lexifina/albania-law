@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për zbatimin e kërkesave për aplikimin e mureve t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1219-180` (tags `urdher-2025-1219-180/<day>`; `python tools/on.py <day> urdher-2025-1219-180`).
+Act id: `urdher-2025-1219-180` (tags `urdher-2025-1219-180/<day>`; `python registry/tools/on.py <day> urdher-2025-1219-180`).
 
 ## Decisions made by hand
 

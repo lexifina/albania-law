@@ -14,7 +14,15 @@ Kompensimin financiar të pronarëve të pasurive të paluajtshme, që preken ng
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-183` (tags `vendim-2019-183/<day>`; `python tools/on.py <day> vendim-2019-183`).
+Act id: `vendim-2019-183` (tags `vendim-2019-183/<day>`; `python registry/tools/on.py <day> vendim-2019-183`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 64, datë 7.2.2023: Për disa ndryshime në vendimet nr. 810, datë 29.12.2017, nr. 369, datë 20.6.2018, nr. 183, datë 4.4.2019, nr. 174, datë 26.2.2020, nr. 531, datë 8.7.2020, nr. 604, datë 29.7.2020, nr. 526, datë 22.9.2021, nr. 543, datë 29.9.2021, nr. 814, datë 24.12.2021, nr. 117, datë 2.3.2022, të Këshillit të Ministrave, për kompensimin e pronarëve të pasurive të paluajtshme, që preken nga ndërtimet e legalizuara](https://qbz.gov.al/eli/vendim/2023/02/08/64)
 
 ## Decisions made by hand
 

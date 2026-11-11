@@ -12,7 +12,7 @@ Disa shtesa dhe ndryshime në vendimin nr. 405, datë 8.1.1996 të këshillit t�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-104` (tags `vendim-2003-104/<day>`; `python tools/on.py <day> vendim-2003-104`).
+Act id: `vendim-2003-104` (tags `vendim-2003-104/<day>`; `python registry/tools/on.py <day> vendim-2003-104`).
 
 ## Decisions made by hand
 

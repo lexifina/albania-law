@@ -11,7 +11,7 @@ Shpalljen e zonës së shënuar dhe masat për kufizimin e përhapjes së dëmtu
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-1012-459` (tags `urdher-2022-1012-459/<day>`; `python tools/on.py <day> urdher-2022-1012-459`).
+Act id: `urdher-2022-1012-459` (tags `urdher-2022-1012-459/<day>`; `python registry/tools/on.py <day> urdher-2022-1012-459`).
 
 ## Decisions made by hand
 

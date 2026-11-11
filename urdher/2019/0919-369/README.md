@@ -13,7 +13,7 @@ Hapjen e thirrjes së dytë për aplikime për programin IPARD II · 2 versions,
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2019-0919-369` (tags `urdher-2019-0919-369/<day>`; `python tools/on.py <day> urdher-2019-0919-369`).
+Act id: `urdher-2019-0919-369` (tags `urdher-2019-0919-369/<day>`; `python registry/tools/on.py <day> urdher-2019-0919-369`).
 
 ## Decisions made by hand
 

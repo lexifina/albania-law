@@ -40,7 +40,7 @@ Sigurinë dhe shëndetin në punë, emergjencat dhe shpëtimin në veprimtarinë
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-135` (tags `ligj-2016-135/<day>`; `python tools/on.py <day> ligj-2016-135`).
+Act id: `ligj-2016-135` (tags `ligj-2016-135/<day>`; `python registry/tools/on.py <day> ligj-2016-135`).
 
 ## Decisions made by hand
 

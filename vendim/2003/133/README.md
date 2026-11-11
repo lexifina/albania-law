@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndërmjet qeverisë shqiptare dhe qeverisë maqedonase
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-133` (tags `vendim-2003-133/<day>`; `python tools/on.py <day> vendim-2003-133`).
+Act id: `vendim-2003-133` (tags `vendim-2003-133/<day>`; `python registry/tools/on.py <day> vendim-2003-133`).
 
 ## Decisions made by hand
 

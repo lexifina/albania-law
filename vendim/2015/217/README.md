@@ -17,7 +17,16 @@ Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-217` (tags `vendim-2015-217/<day>`; `python tools/on.py <day> vendim-2015-217`).
+Act id: `vendim-2015-217` (tags `vendim-2015-217/<day>`; `python registry/tools/on.py <day> vendim-2015-217`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 552, datë 18.6.2015: Për disa shtesa dhe ndryshime në vendimin nr. 217, datë 11.3.2015, të Këshillit të Ministrave, “Për ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 8.4.2014, për çështjen “Karagjozi dhe të tjerë kundër Shqipërisë”(për ankimet nr. 25408/06, 37419/06; 49121/06; 1504/07; 19772/07; 46685/07; 49411/07; 27242/08; 61912/08 dhe 15075/09)”](https://qbz.gov.al/eli/vendim/2015/06/18/552)
+- [Vendimi i Këshillit të Ministrave nr. 673, datë 29.7.2015: Për një ndryshim në vendimin nr. 217, datë 11.3.2015, të Këshillit të Ministrave, “Për ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 8.4.2014, për çështjen “Karagjozi dhe të tjerë kundër Shqipërisë” (për ankimet nr. 25408/06, 37419/06; 49121/06; 1504/07; 19772/07; 46685/07; 49411/07; 27242/08; 61912/08 dhe 15075/09), të ndryshuar”](https://qbz.gov.al/eli/vendim/2015/07/29/673)
 
 ## Decisions made by hand
 

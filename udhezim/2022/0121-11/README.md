@@ -23,7 +23,7 @@ Procedurat e hartimit të listave të zgjedhësve për zgjedhjet e pjesshme vend
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2022-0121-11` (tags `udhezim-2022-0121-11/<day>`; `python tools/on.py <day> udhezim-2022-0121-11`).
+Act id: `udhezim-2022-0121-11` (tags `udhezim-2022-0121-11/<day>`; `python registry/tools/on.py <day> udhezim-2022-0121-11`).
 
 ## Decisions made by hand
 

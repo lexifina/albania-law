@@ -12,7 +12,7 @@ Revokimin e vendimit nr.62, datë 7.3.2002 të Këshillit të Ministrave “Për
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-384` (tags `vendim-2002-384/<day>`; `python tools/on.py <day> vendim-2002-384`).
+Act id: `vendim-2002-384` (tags `vendim-2002-384/<day>`; `python registry/tools/on.py <day> vendim-2002-384`).
 
 ## Decisions made by hand
 

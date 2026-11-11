@@ -10,7 +10,7 @@ Ratifikimin e konventës civile “për korrupsionin” · 1 versions, from 2000
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8635` (tags `ligj-2000-8635/<day>`; `python tools/on.py <day> ligj-2000-8635`).
+Act id: `ligj-2000-8635` (tags `ligj-2000-8635/<day>`; `python registry/tools/on.py <day> ligj-2000-8635`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,15 @@ Shtypjen dhe shpërndarjen e teksteve shkollore të arsimit parauniversitar për
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-237` (tags `vendim-2004-237/<day>`; `python tools/on.py <day> vendim-2004-237`).
+Act id: `vendim-2004-237` (tags `vendim-2004-237/<day>`; `python registry/tools/on.py <day> vendim-2004-237`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 144, datë 8.3.2006: Për botimin, shtypjen dhe shpërndarjen e teksteve shkollore të sistemit arsimor parauniversitar](https://qbz.gov.al/eli/vendim/2006/03/08/144)
 
 ## Decisions made by hand
 

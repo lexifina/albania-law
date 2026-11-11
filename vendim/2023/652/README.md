@@ -10,7 +10,7 @@ Caktimin e ditës së hënë, datë 27.11.2023, ditë pushimi · 1 versions, fro
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-652` (tags `vendim-2023-652/<day>`; `python tools/on.py <day> vendim-2023-652`).
+Act id: `vendim-2023-652` (tags `vendim-2023-652/<day>`; `python registry/tools/on.py <day> vendim-2023-652`).
 
 ## Decisions made by hand
 

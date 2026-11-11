@@ -11,7 +11,7 @@ Miratimin e logos dhe të shenjave dalluese të Kancelarisë së Urdhrave dhe Me
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-257` (tags `vendim-2025-257/<day>`; `python tools/on.py <day> vendim-2025-257`).
+Act id: `vendim-2025-257` (tags `vendim-2025-257/<day>`; `python registry/tools/on.py <day> vendim-2025-257`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores “Mbi masat e kontrollit të salmonelës dhe agjentëve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0923-273` (tags `urdher-2020-0923-273/<day>`; `python tools/on.py <day> urdher-2020-0923-273`).
+Act id: `urdher-2020-0923-273` (tags `urdher-2020-0923-273/<day>`; `python registry/tools/on.py <day> urdher-2020-0923-273`).
 
 ## Decisions made by hand
 

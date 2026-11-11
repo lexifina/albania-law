@@ -11,7 +11,7 @@ Procedurat e regjistrimit të objekteve, të ndërtuara me leje ndërtimi të pr
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-1005-3` (tags `udhezim-2011-1005-3/<day>`; `python tools/on.py <day> udhezim-2011-1005-3`).
+Act id: `udhezim-2011-1005-3` (tags `udhezim-2011-1005-3/<day>`; `python registry/tools/on.py <day> udhezim-2011-1005-3`).
 
 ## Decisions made by hand
 

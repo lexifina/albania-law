@@ -13,7 +13,7 @@ Miratimin e rregullit teknik “Për instrumentet e peshimit joautomatik” dhe 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-631` (tags `vendim-2019-631/<day>`; `python tools/on.py <day> vendim-2019-631`).
+Act id: `vendim-2019-631` (tags `vendim-2019-631/<day>`; `python registry/tools/on.py <day> vendim-2019-631`).
 
 ## Decisions made by hand
 

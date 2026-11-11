@@ -9,7 +9,7 @@ Rishpërndarje fondesh ndërmjet programeve buxhetore të Ministrisë së Infras
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-765` (tags `vendim-2026-765/<day>`; `python tools/on.py <day> vendim-2026-765`).
+Act id: `vendim-2026-765` (tags `vendim-2026-765/<day>`; `python registry/tools/on.py <day> vendim-2026-765`).
 
 ## Decisions made by hand
 

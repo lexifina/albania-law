@@ -17,7 +17,7 @@ Procedurat e transformimit të klubeve sportive në shoqëri aksionare dhe për 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1718` (tags `vendim-2008-1718/<day>`; `python tools/on.py <day> vendim-2008-1718`).
+Act id: `vendim-2008-1718` (tags `vendim-2008-1718/<day>`; `python registry/tools/on.py <day> vendim-2008-1718`).
 
 ## Decisions made by hand
 

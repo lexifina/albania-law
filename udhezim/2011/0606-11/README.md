@@ -58,7 +58,7 @@ Miratimin e tipit të mjeteve motorike dhe rimorkiove të tyre, të sistemeve, p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0606-11` (tags `udhezim-2011-0606-11/<day>`; `python tools/on.py <day> udhezim-2011-0606-11`).
+Act id: `udhezim-2011-0606-11` (tags `udhezim-2011-0606-11/<day>`; `python registry/tools/on.py <day> udhezim-2011-0606-11`).
 
 ## Decisions made by hand
 

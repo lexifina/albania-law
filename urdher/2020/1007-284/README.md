@@ -12,7 +12,7 @@ Miratimin e lejes së re të qarkullimit të mjeteve rrugore · 1 versions, from
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1007-284` (tags `urdher-2020-1007-284/<day>`; `python tools/on.py <day> urdher-2020-1007-284`).
+Act id: `urdher-2020-1007-284` (tags `urdher-2020-1007-284/<day>`; `python registry/tools/on.py <day> urdher-2020-1007-284`).
 
 ## Decisions made by hand
 

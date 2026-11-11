@@ -11,7 +11,15 @@ Miratimin e mënyrës së re të përdorimit të fondeve kundërparti, të mbled
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-239` (tags `vendim-2013-239/<day>`; `python tools/on.py <day> vendim-2013-239`).
+Act id: `vendim-2013-239` (tags `vendim-2013-239/<day>`; `python registry/tools/on.py <day> vendim-2013-239`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 234, datë 23.4.2014: Për një ndryshim në vendimin nr. 239, datë 27.3.2013 të këshillit të ministrave, “për miratimin e mënyrës së re të përdorimit të fondeve kundërparti, të mbledhura nga grantet japoneze për sektorin e bujqësisë dhe të ushqimit”](https://qbz.gov.al/eli/vendim/2014/04/23/234)
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Lejimin e ministrisë së shëndetësisë të përdorë procedurën “prokurim 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-186` (tags `vendim-2005-186/<day>`; `python tools/on.py <day> vendim-2005-186`).
+Act id: `vendim-2005-186` (tags `vendim-2005-186/<day>`; `python registry/tools/on.py <day> vendim-2005-186`).
 
 ## Decisions made by hand
 

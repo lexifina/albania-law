@@ -14,7 +14,7 @@ Financimin e projektit “rikonstruksioni i stadiumit të futbollit “zeqir yme
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-817` (tags `vendim-2018-817/<day>`; `python tools/on.py <day> vendim-2018-817`).
+Act id: `vendim-2018-817` (tags `vendim-2018-817/<day>`; `python registry/tools/on.py <day> vendim-2018-817`).
 
 ## Decisions made by hand
 

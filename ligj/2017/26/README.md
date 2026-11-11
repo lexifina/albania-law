@@ -45,7 +45,7 @@ Produktet kozmetike · 2 versions, from 2018-04-12 (latest in force: 2025-05-13)
 | Neni 30 | [neni-030.md](neni-030.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2017-26` (tags `ligj-2017-26/<day>`; `python tools/on.py <day> ligj-2017-26`).
+Act id: `ligj-2017-26` (tags `ligj-2017-26/<day>`; `python registry/tools/on.py <day> ligj-2017-26`).
 
 ## Decisions made by hand
 

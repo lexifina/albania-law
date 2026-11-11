@@ -9,7 +9,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2010 · 1 versions, from 2010-10-01 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-748` (tags `vendim-2010-748/<day>`; `python tools/on.py <day> vendim-2010-748`).
+Act id: `vendim-2010-748` (tags `vendim-2010-748/<day>`; `python registry/tools/on.py <day> vendim-2010-748`).
 
 ## Decisions made by hand
 

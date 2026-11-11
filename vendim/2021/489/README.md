@@ -5,7 +5,7 @@ Miratimin e listës së barnave, që rimbursohen nga fondi i sigurimit të detyr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-489` (tags `vendim-2021-489/<day>`; `python tools/on.py <day> vendim-2021-489`).
+Act id: `vendim-2021-489` (tags `vendim-2021-489/<day>`; `python registry/tools/on.py <day> vendim-2021-489`).
 
 ## Decisions made by hand
 

@@ -29,7 +29,18 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-668` (tags `vendim-2014-668/<day>`; `python tools/on.py <day> vendim-2014-668`).
+Act id: `vendim-2014-668` (tags `vendim-2014-668/<day>`; `python registry/tools/on.py <day> vendim-2014-668`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 717, datë 29.10.2014: Për disa ndryshime dhe shtesa në vendimin nr.668, datë 15.10.2014, të këshillit të ministrave, “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për programet e studimeve të ciklit të dytë me kohë të plotë, “master profesional” dhe “master i shkencave” apo “master i arteve të bukura”, për vitin akademik 2014 - 2015”](https://qbz.gov.al/eli/vendim/2014/10/29/717)
+- [Udhëzimi nr. 52, datë 3.11.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 11520]: Për kriteret dhe procedurat e përzgjedhjes dhe të regjistrimit për kandidatët me statusin e ish-të dënuarit dhe të përndjekurit politik nga sistemi komunist, të verbrit, të invalidit paraplegjik dhe tetraplegjik, të jetimit, si dhe romët dhe ballkano-egjiptianët, për programet e studimeve të ciklit të dytë me kohë të plotë, “master profesional” dhe “master i shkencave”/“master i arteve të bukura”, për vitin akademik 2014-2015](https://qbz.gov.al/eli/udhezim/2014/11/03/52)
+- [Udhëzimi nr. 53, datë 3.11.2014 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 11521]: Për procedurat e pranimit dhe regjistrimit për kandidatët nga republika e kosovës, si dhe kandidatët shqiptarë nga maqedonia, mali i zi, presheva, bujanovci dhe medvegja, në ciklin e dytë të studimeve me kohë të plotë, “master profesional” dhe “master i shkencave”/“master i arteve të bukura” në institucionet publike të arsimit të lartë, për vitin akademik 2014-2015](https://qbz.gov.al/eli/udhezim/2014/11/03/53)
+- [Vendimi i Këshillit të Ministrave nr. 892, datë 17.12.2014: Për disa ndryshime dhe shtesa në vendimin nr. 668, datë 15.10.2014, të këshillit të ministrave, “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për programet e studimeve të ciklit të dytë me kohë të plotë “master profesional” dhe “master i shkencave” apo “master i arteve të bukura”, për vitin akademik 2014 - 2015”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/12/17/892)
 
 ## Decisions made by hand
 

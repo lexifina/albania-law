@@ -27,7 +27,7 @@ Aderimin e republikës së shqipërisë në “konventën për ndihmë në rast 
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 
-Act id: `ligji-9015-2003` (tags `ligji-9015-2003/<day>`; `python tools/on.py <day> ligji-9015-2003`).
+Act id: `ligji-9015-2003` (tags `ligji-9015-2003/<day>`; `python registry/tools/on.py <day> ligji-9015-2003`).
 
 ## Decisions made by hand
 

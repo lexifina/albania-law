@@ -10,7 +10,7 @@ Ratifikimin e “protokollit nr.12 të konventës “për mbrojtjen e të drejta
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9264` (tags `ligj-2004-9264/<day>`; `python tools/on.py <day> ligj-2004-9264`).
+Act id: `ligj-2004-9264` (tags `ligj-2004-9264/<day>`; `python registry/tools/on.py <day> ligj-2004-9264`).
 
 ## Decisions made by hand
 

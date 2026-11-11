@@ -5,7 +5,7 @@ Lejimin e Ministrisë së Shëndetësisë për kryerjen e procedurave të prokur
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-135` (tags `vendim-2013-135/<day>`; `python tools/on.py <day> vendim-2013-135`).
+Act id: `vendim-2013-135` (tags `vendim-2013-135/<day>`; `python registry/tools/on.py <day> vendim-2013-135`).
 
 ## Decisions made by hand
 

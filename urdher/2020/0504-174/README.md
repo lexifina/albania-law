@@ -10,7 +10,7 @@ Miratimin e të dhënave teknike të dosjes së regjistrimit të PMB-ve · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0504-174` (tags `urdher-2020-0504-174/<day>`; `python tools/on.py <day> urdher-2020-0504-174`).
+Act id: `urdher-2020-0504-174` (tags `urdher-2020-0504-174/<day>`; `python registry/tools/on.py <day> urdher-2020-0504-174`).
 
 ## Decisions made by hand
 

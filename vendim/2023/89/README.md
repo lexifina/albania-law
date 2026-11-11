@@ -10,7 +10,7 @@ Kalimin te bashkitë Durrës dhe Kamzë të njësive individuale të banimit · 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-89` (tags `vendim-2023-89/<day>`; `python tools/on.py <day> vendim-2023-89`).
+Act id: `vendim-2023-89` (tags `vendim-2023-89/<day>`; `python registry/tools/on.py <day> vendim-2023-89`).
 
 ## Decisions made by hand
 

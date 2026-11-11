@@ -17,7 +17,7 @@ Mënyrën e organizimit dhe të dhënies së kujdesit për shëndetin mendor pë
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-762` (tags `vendim-2014-762/<day>`; `python tools/on.py <day> vendim-2014-762`).
+Act id: `vendim-2014-762` (tags `vendim-2014-762/<day>`; `python registry/tools/on.py <day> vendim-2014-762`).
 
 ## Decisions made by hand
 

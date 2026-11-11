@@ -21,7 +21,16 @@ Veprimtarinë dhe ngarkesën mësimore të personelit akademik në institucionet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0910-29` (tags `udhezim-2018-0910-29/<day>`; `python tools/on.py <day> udhezim-2018-0910-29`).
+Act id: `udhezim-2018-0910-29` (tags `udhezim-2018-0910-29/<day>`; `python registry/tools/on.py <day> udhezim-2018-0910-29`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 37, datë 4.12.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 64352]: Për një ndryshim në udhëzimin nr. 29, datë 10.9.2018, “për veprimtarinë dhe ngarkesën mësimore të personelit akademik në institucionet e arsimit të lartë”, të ndryshuar](https://qbz.gov.al/eli/udhezim/2018/12/04/37)
+- [Udhëzimi nr. 36, datë 23.11.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 64502]: Për disa ndryshime dhe shtesa në udhëzimin nr. 29, datë 10.9.2018, “për veprimtarinë dhe ngarkesën mësimore të personelit akademik në institucionet e arsimit të lartë”](https://qbz.gov.al/eli/udhezim/2018/11/23/36)
 
 ## Decisions made by hand
 

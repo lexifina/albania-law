@@ -19,7 +19,7 @@ Mbylljen e Ndërmarrjes së Furnizimit Industri-Miniera dhe krijimin e Qendrës 
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-843` (tags `vendim-2015-843/<day>`; `python tools/on.py <day> vendim-2015-843`).
+Act id: `vendim-2015-843` (tags `vendim-2015-843/<day>`; `python registry/tools/on.py <day> vendim-2015-843`).
 
 ## Decisions made by hand
 

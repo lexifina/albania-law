@@ -20,7 +20,7 @@ Mbi organizimin e qarkullimit dhe sinjalizimit rrugor · 1 versions, from 2002-1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2002-1226-5167` (tags `udhezim-2002-1226-5167/<day>`; `python tools/on.py <day> udhezim-2002-1226-5167`).
+Act id: `udhezim-2002-1226-5167` (tags `udhezim-2002-1226-5167/<day>`; `python registry/tools/on.py <day> udhezim-2002-1226-5167`).
 
 ## Decisions made by hand
 

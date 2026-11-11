@@ -12,7 +12,7 @@ Delegim kompetencash për ndjekjen e proceseve, lidhur me ushtrimin e përgjegj�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2024-0220-225` (tags `urdher-2024-0220-225/<day>`; `python tools/on.py <day> urdher-2024-0220-225`).
+Act id: `urdher-2024-0220-225` (tags `urdher-2024-0220-225/<day>`; `python registry/tools/on.py <day> urdher-2024-0220-225`).
 
 ## Decisions made by hand
 

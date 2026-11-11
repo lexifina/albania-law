@@ -5,7 +5,7 @@ Krijimin dhe mënyrën e organizimit e të funksionimit të agjencisë kombëtar
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-31` (tags `vendim-2014-31/<day>`; `python tools/on.py <day> vendim-2014-31`).
+Act id: `vendim-2014-31` (tags `vendim-2014-31/<day>`; `python registry/tools/on.py <day> vendim-2014-31`).
 
 ## Decisions made by hand
 

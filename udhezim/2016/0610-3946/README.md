@@ -5,7 +5,7 @@ Mbledhjen dhe ruajtjen e të dhënave për cilësinë e lëndëve djegëse të l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2016-0610-3946` (tags `udhezim-2016-0610-3946/<day>`; `python tools/on.py <day> udhezim-2016-0610-3946`).
+Act id: `udhezim-2016-0610-3946` (tags `udhezim-2016-0610-3946/<day>`; `python registry/tools/on.py <day> udhezim-2016-0610-3946`).
 
 ## Decisions made by hand
 

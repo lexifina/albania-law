@@ -23,7 +23,7 @@ Aderimin e republikës së shqipërisë në “konventën për heqjen e kërkes�
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 
-Act id: `ligji-9060-2003` (tags `ligji-9060-2003/<day>`; `python tools/on.py <day> ligji-9060-2003`).
+Act id: `ligji-9060-2003` (tags `ligji-9060-2003/<day>`; `python registry/tools/on.py <day> ligji-9060-2003`).
 
 ## Decisions made by hand
 

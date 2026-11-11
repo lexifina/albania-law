@@ -11,7 +11,7 @@ Shpalljen ditë zie kombëtare · 1 versions, from 2025-04-24 (latest in force: 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-233` (tags `vendim-2025-233/<day>`; `python tools/on.py <day> vendim-2025-233`).
+Act id: `vendim-2025-233` (tags `vendim-2025-233/<day>`; `python registry/tools/on.py <day> vendim-2025-233`).
 
 ## Decisions made by hand
 

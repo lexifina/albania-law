@@ -24,7 +24,7 @@ Procedurat standarde të aplikimit dhe kriteret për përfitimin e fondeve nga b
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2019-1118-31` (tags `udhezim-2019-1118-31/<day>`; `python tools/on.py <day> udhezim-2019-1118-31`).
+Act id: `udhezim-2019-1118-31` (tags `udhezim-2019-1118-31/<day>`; `python registry/tools/on.py <day> udhezim-2019-1118-31`).
 
 ## Decisions made by hand
 

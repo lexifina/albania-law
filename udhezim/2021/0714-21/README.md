@@ -12,7 +12,7 @@ Operacionet e veçanta hidrokarbure dhe parashikimet financiare · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2021-0714-21` (tags `udhezim-2021-0714-21/<day>`; `python tools/on.py <day> udhezim-2021-0714-21`).
+Act id: `udhezim-2021-0714-21` (tags `udhezim-2021-0714-21/<day>`; `python registry/tools/on.py <day> udhezim-2021-0714-21`).
 
 ## Decisions made by hand
 

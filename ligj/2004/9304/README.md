@@ -5,7 +5,7 @@ Legalizimin dhe urbanizimin e zonave informale · 2 versions, from 2004-12-24 (l
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9304` (tags `ligj-2004-9304/<day>`; `python tools/on.py <day> ligj-2004-9304`).
+Act id: `ligj-2004-9304` (tags `ligj-2004-9304/<day>`; `python registry/tools/on.py <day> ligj-2004-9304`).
 
 ## Decisions made by hand
 

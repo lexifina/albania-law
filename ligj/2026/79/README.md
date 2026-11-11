@@ -26,7 +26,7 @@ Mbylljen e shoqërive tregtare me kapital shtetëror në likuidim · 1 versions,
 | Neni 15 | [neni-015.md](neni-015.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-79-2026` (tags `ligji-79-2026/<day>`; `python tools/on.py <day> ligji-79-2026`).
+Act id: `ligji-79-2026` (tags `ligji-79-2026/<day>`; `python registry/tools/on.py <day> ligji-79-2026`).
 
 ## Decisions made by hand
 

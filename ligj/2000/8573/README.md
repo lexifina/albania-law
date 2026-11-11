@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes “umbrella” për kuadrin institucional të kri
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8573-2000` (tags `ligji-8573-2000/<day>`; `python tools/on.py <day> ligji-8573-2000`).
+Act id: `ligji-8573-2000` (tags `ligji-8573-2000/<day>`; `python registry/tools/on.py <day> ligji-8573-2000`).
 
 ## Decisions made by hand
 

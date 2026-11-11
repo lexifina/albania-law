@@ -12,7 +12,7 @@ Aderimin e republikës së shqipërisë në “marrëveshjen për statusin e mis
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 
-Act id: `ligji-10103-2009` (tags `ligji-10103-2009/<day>`; `python tools/on.py <day> ligji-10103-2009`).
+Act id: `ligji-10103-2009` (tags `ligji-10103-2009/<day>`; `python registry/tools/on.py <day> ligji-10103-2009`).
 
 ## Decisions made by hand
 

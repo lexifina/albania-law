@@ -10,7 +10,7 @@ Miratimin e Strategjisë Afatmesme të Menaxhimit të Borxhit Publik 2015-2017 �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-191` (tags `vendim-2015-191/<day>`; `python tools/on.py <day> vendim-2015-191`).
+Act id: `vendim-2015-191` (tags `vendim-2015-191/<day>`; `python registry/tools/on.py <day> vendim-2015-191`).
 
 ## Decisions made by hand
 

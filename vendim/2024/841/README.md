@@ -16,7 +16,7 @@ Miratimin e kritereve, rregullave dhe procedurave për përfitimin e lehtësirav
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-841` (tags `vendim-2024-841/<day>`; `python tools/on.py <day> vendim-2024-841`).
+Act id: `vendim-2024-841` (tags `vendim-2024-841/<day>`; `python registry/tools/on.py <day> vendim-2024-841`).
 
 ## Decisions made by hand
 

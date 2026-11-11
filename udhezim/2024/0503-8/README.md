@@ -32,7 +32,7 @@ Procedurat e pranimit, të pezullimit dhe të largimit të mësuesit nga një ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-03-05 |
 
-Act id: `udhezim-2024-0503-8` (tags `udhezim-2024-0503-8/<day>`; `python tools/on.py <day> udhezim-2024-0503-8`).
+Act id: `udhezim-2024-0503-8` (tags `udhezim-2024-0503-8/<day>`; `python registry/tools/on.py <day> udhezim-2024-0503-8`).
 
 ## Decisions made by hand
 

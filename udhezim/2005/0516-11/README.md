@@ -19,7 +19,7 @@ Procedurat dhe kriteret e akreditimit të vëzhguesve të subjekteve zgjedhore n
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2005-0516-11` (tags `udhezim-2005-0516-11/<day>`; `python tools/on.py <day> udhezim-2005-0516-11`).
+Act id: `udhezim-2005-0516-11` (tags `udhezim-2005-0516-11/<day>`; `python registry/tools/on.py <day> udhezim-2005-0516-11`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Hapjen e programit të studimeve të ciklit të tretë të doktoratës, nË univ
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-1007-501` (tags `urdher-2011-1007-501/<day>`; `python tools/on.py <day> urdher-2011-1007-501`).
+Act id: `urdher-2011-1007-501` (tags `urdher-2011-1007-501/<day>`; `python registry/tools/on.py <day> urdher-2011-1007-501`).
 
 ## Decisions made by hand
 

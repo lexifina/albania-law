@@ -12,7 +12,7 @@ Përcaktimin e numrit minimal të noterëve për një degë vendore dhe për mir
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0223-87` (tags `urdher-2021-0223-87/<day>`; `python tools/on.py <day> urdher-2021-0223-87`).
+Act id: `urdher-2021-0223-87` (tags `urdher-2021-0223-87/<day>`; `python registry/tools/on.py <day> urdher-2021-0223-87`).
 
 ## Decisions made by hand
 

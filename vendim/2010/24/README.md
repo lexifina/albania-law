@@ -22,7 +22,7 @@ Ngritjen e grupeve të punës për evidentimin dhe vlerësimin e dëmeve të shk
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-24` (tags `vendim-2010-24/<day>`; `python tools/on.py <day> vendim-2010-24`).
+Act id: `vendim-2010-24` (tags `vendim-2010-24/<day>`; `python registry/tools/on.py <day> vendim-2010-24`).
 
 ## Decisions made by hand
 

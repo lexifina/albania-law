@@ -5,7 +5,7 @@ Krijimin e Agjencisë Shqiptare të Biznesit dhe Investimeve · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2006-9497` (tags `ligj-2006-9497/<day>`; `python tools/on.py <day> ligj-2006-9497`).
+Act id: `ligj-2006-9497` (tags `ligj-2006-9497/<day>`; `python registry/tools/on.py <day> ligj-2006-9497`).
 
 ## Decisions made by hand
 

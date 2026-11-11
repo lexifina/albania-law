@@ -22,7 +22,7 @@ Miratimin e modelit të kërkesës për shërbime kadastrale dhe procedurat stan
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0530-682` (tags `udhezim-2025-0530-682/<day>`; `python tools/on.py <day> udhezim-2025-0530-682`).
+Act id: `udhezim-2025-0530-682` (tags `udhezim-2025-0530-682/<day>`; `python registry/tools/on.py <day> udhezim-2025-0530-682`).
 
 ## Decisions made by hand
 

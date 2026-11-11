@@ -16,7 +16,7 @@ Përcaktimin e metodologjisë së përgatitjes së studimit të plotë të fizib
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0915-22` (tags `udhezim-2025-0915-22/<day>`; `python tools/on.py <day> udhezim-2025-0915-22`).
+Act id: `udhezim-2025-0915-22` (tags `udhezim-2025-0915-22/<day>`; `python registry/tools/on.py <day> udhezim-2025-0915-22`).
 
 ## Decisions made by hand
 

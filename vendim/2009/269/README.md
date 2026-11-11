@@ -15,7 +15,7 @@ Miratimin e mënyrës së përdorimit të fondeve kundërparti, të mbledhura ng
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-269` (tags `vendim-2009-269/<day>`; `python tools/on.py <day> vendim-2009-269`).
+Act id: `vendim-2009-269` (tags `vendim-2009-269/<day>`; `python registry/tools/on.py <day> vendim-2009-269`).
 
 ## Decisions made by hand
 

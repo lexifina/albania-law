@@ -5,7 +5,7 @@ Zbatimin e vendimit të këshillit të ministrave nr. 529, datë 8.6.2011 “Pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2012-0614-4` (tags `udhezim-2012-0614-4/<day>`; `python tools/on.py <day> udhezim-2012-0614-4`).
+Act id: `udhezim-2012-0614-4` (tags `udhezim-2012-0614-4/<day>`; `python registry/tools/on.py <day> udhezim-2012-0614-4`).
 
 ## Decisions made by hand
 

@@ -63,7 +63,7 @@ Zejtarinë në republikën e shqipërisë · 1 versions, from 2016-06-30 (latest
 | Neni 47 | [neni-047.md](neni-047.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-70-2016` (tags `ligji-70-2016/<day>`; `python tools/on.py <day> ligji-70-2016`).
+Act id: `ligji-70-2016` (tags `ligji-70-2016/<day>`; `python registry/tools/on.py <day> ligji-70-2016`).
 
 ## Decisions made by hand
 

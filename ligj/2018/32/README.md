@@ -28,7 +28,7 @@ Fondin shqiptar për zhvillimin e diasporës · 1 versions, from 2018-07-03 (lat
 | Neni 18 | [neni-018.md](neni-018.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-32-2018` (tags `ligji-32-2018/<day>`; `python tools/on.py <day> ligji-32-2018`).
+Act id: `ligji-32-2018` (tags `ligji-32-2018/<day>`; `python registry/tools/on.py <day> ligji-32-2018`).
 
 ## Decisions made by hand
 

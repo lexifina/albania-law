@@ -17,7 +17,7 @@ Krijimin, organizimin dhe funksionimin e degëve të thesarit · 1 versions, fro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-354` (tags `vendim-2022-354/<day>`; `python tools/on.py <day> vendim-2022-354`).
+Act id: `vendim-2022-354` (tags `vendim-2022-354/<day>`; `python registry/tools/on.py <day> vendim-2022-354`).
 
 ## Decisions made by hand
 

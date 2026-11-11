@@ -5,7 +5,7 @@ Mbrojtjen e veçantë personale, të familjes dhe të pronës së gjyqtarëve dh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-480` (tags `vendim-2009-480/<day>`; `python tools/on.py <day> vendim-2009-480`).
+Act id: `vendim-2009-480` (tags `vendim-2009-480/<day>`; `python registry/tools/on.py <day> vendim-2009-480`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e rregullores ”mbi listat e kafshëve dhe produkteve, subjekt i kont
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2012-0604-178` (tags `urdher-2012-0604-178/<day>`; `python tools/on.py <day> urdher-2012-0604-178`).
+Act id: `urdher-2012-0604-178` (tags `urdher-2012-0604-178/<day>`; `python registry/tools/on.py <day> urdher-2012-0604-178`).
 
 ## Decisions made by hand
 

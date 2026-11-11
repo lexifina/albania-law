@@ -15,7 +15,7 @@ Miratimin e modelit të adresës dhe radhën e vendosjes së elementeve të saj 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1111-622` (tags `udhezim-2016-1111-622/<day>`; `python tools/on.py <day> udhezim-2016-1111-622`).
+Act id: `udhezim-2016-1111-622` (tags `udhezim-2016-1111-622/<day>`; `python registry/tools/on.py <day> udhezim-2016-1111-622`).
 
 ## Decisions made by hand
 

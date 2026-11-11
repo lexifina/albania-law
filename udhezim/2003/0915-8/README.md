@@ -26,7 +26,7 @@ Mbi procedurat ankimore-administrative të vendimeve të komisioneve zgjedhore t
 | Neni 19 | [neni-019.md](neni-019.md) | 0 |  |
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 
-Act id: `udhezim-2003-0915-8` (tags `udhezim-2003-0915-8/<day>`; `python tools/on.py <day> udhezim-2003-0915-8`).
+Act id: `udhezim-2003-0915-8` (tags `udhezim-2003-0915-8/<day>`; `python registry/tools/on.py <day> udhezim-2003-0915-8`).
 
 ## Decisions made by hand
 

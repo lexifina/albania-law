@@ -5,7 +5,7 @@ Zbatimin e vendimit të Këshillit të Ministrave nr.73, datë 11.2.1999 “Për
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2004-0114-73` (tags `udhezim-2004-0114-73/<day>`; `python tools/on.py <day> udhezim-2004-0114-73`).
+Act id: `udhezim-2004-0114-73` (tags `udhezim-2004-0114-73/<day>`; `python registry/tools/on.py <day> udhezim-2004-0114-73`).
 
 ## Decisions made by hand
 

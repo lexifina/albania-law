@@ -10,7 +10,7 @@ Miratimin e vendimit nr.4/2024 të Komitetit të Përbashkët të Marrëveshjes 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-838` (tags `vendim-2026-838/<day>`; `python tools/on.py <day> vendim-2026-838`).
+Act id: `vendim-2026-838` (tags `vendim-2026-838/<day>`; `python registry/tools/on.py <day> vendim-2026-838`).
 
 ## Decisions made by hand
 

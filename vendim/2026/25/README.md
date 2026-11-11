@@ -8,7 +8,7 @@ Miratimin e marrëveshjes ekzekutive, ndërmjet Këshillit të Ministrave të Re
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-25` (tags `vendim-2026-25/<day>`; `python tools/on.py <day> vendim-2026-25`).
+Act id: `vendim-2026-25` (tags `vendim-2026-25/<day>`; `python registry/tools/on.py <day> vendim-2026-25`).
 
 ## Decisions made by hand
 

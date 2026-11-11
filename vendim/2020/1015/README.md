@@ -16,7 +16,7 @@ Përmbajtjen, zhvillimin dhe zbatimin e Strategjisë Kombëtare të Menaxhimit t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-10-31 |
 
-Act id: `vendim-2020-1015` (tags `vendim-2020-1015/<day>`; `python tools/on.py <day> vendim-2020-1015`).
+Act id: `vendim-2020-1015` (tags `vendim-2020-1015/<day>`; `python registry/tools/on.py <day> vendim-2020-1015`).
 
 ## Decisions made by hand
 

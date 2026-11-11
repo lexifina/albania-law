@@ -11,7 +11,7 @@ Miratimin e listës së veprimtarive që konsiderohen si të rrezikshme për mje
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-666` (tags `vendim-2026-666/<day>`; `python tools/on.py <day> vendim-2026-666`).
+Act id: `vendim-2026-666` (tags `vendim-2026-666/<day>`; `python registry/tools/on.py <day> vendim-2026-666`).
 
 ## Decisions made by hand
 

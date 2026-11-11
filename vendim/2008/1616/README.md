@@ -9,7 +9,7 @@ Miratimin e rregullores së organizimit dhe të funksionimit të komisionit për
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1616` (tags `vendim-2008-1616/<day>`; `python tools/on.py <day> vendim-2008-1616`).
+Act id: `vendim-2008-1616` (tags `vendim-2008-1616/<day>`; `python registry/tools/on.py <day> vendim-2008-1616`).
 
 ## Decisions made by hand
 

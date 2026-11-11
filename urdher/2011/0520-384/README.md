@@ -25,7 +25,7 @@ Miratimin e procedurave të regjistrimit dhe dokumentacionit që regjistrohet n�
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0520-384` (tags `urdher-2011-0520-384/<day>`; `python tools/on.py <day> urdher-2011-0520-384`).
+Act id: `urdher-2011-0520-384` (tags `urdher-2011-0520-384/<day>`; `python registry/tools/on.py <day> urdher-2011-0520-384`).
 
 ## Decisions made by hand
 

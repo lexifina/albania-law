@@ -23,7 +23,7 @@ Kriteret e dhënies dhe mekanizmin e monitorimit të ndihmës shtetërore të nd
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0618-376` (tags `udhezim-2020-0618-376/<day>`; `python tools/on.py <day> udhezim-2020-0618-376`).
+Act id: `udhezim-2020-0618-376` (tags `udhezim-2020-0618-376/<day>`; `python registry/tools/on.py <day> udhezim-2020-0618-376`).
 
 ## Decisions made by hand
 

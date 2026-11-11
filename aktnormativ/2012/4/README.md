@@ -39,7 +39,7 @@ Përcaktimin e rregullave për therjen e kafshëve dhe tregtimin e mishit të ty
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2012-4` (tags `aktnormativ-2012-4/<day>`; `python tools/on.py <day> aktnormativ-2012-4`).
+Act id: `aktnormativ-2012-4` (tags `aktnormativ-2012-4/<day>`; `python registry/tools/on.py <day> aktnormativ-2012-4`).
 
 ## Decisions made by hand
 

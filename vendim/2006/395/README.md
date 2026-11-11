@@ -9,7 +9,7 @@ Miratimin e strategjisë dhe të planit të veprimit për zhvillimin e turizmit,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-395` (tags `vendim-2006-395/<day>`; `python tools/on.py <day> vendim-2006-395`).
+Act id: `vendim-2006-395` (tags `vendim-2006-395/<day>`; `python registry/tools/on.py <day> vendim-2006-395`).
 
 ## Decisions made by hand
 

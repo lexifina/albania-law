@@ -5,7 +5,7 @@ Marrjen e masave emergjente, për përmirësimin e situatës së sigurisë dhe t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-114` (tags `vendim-2009-114/<day>`; `python tools/on.py <day> vendim-2009-114`).
+Act id: `vendim-2009-114` (tags `vendim-2009-114/<day>`; `python registry/tools/on.py <day> vendim-2009-114`).
 
 ## Decisions made by hand
 

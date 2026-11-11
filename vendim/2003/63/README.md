@@ -5,7 +5,7 @@ Numrin e punonjësve, strukturën dhe organikën e shërbimit të gjendjes civil
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-63` (tags `vendim-2003-63/<day>`; `python tools/on.py <day> vendim-2003-63`).
+Act id: `vendim-2003-63` (tags `vendim-2003-63/<day>`; `python registry/tools/on.py <day> vendim-2003-63`).
 
 ## Decisions made by hand
 

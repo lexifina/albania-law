@@ -50,7 +50,7 @@ Mbrojtjen e tokës bujqësore · 3 versions, from 2023-08-22 (latest in force: 2
 | Neni 35 | [neni-035.md](neni-035.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9244` (tags `ligj-2004-9244/<day>`; `python tools/on.py <day> ligj-2004-9244`).
+Act id: `ligj-2004-9244` (tags `ligj-2004-9244/<day>`; `python registry/tools/on.py <day> ligj-2004-9244`).
 
 ## Decisions made by hand
 

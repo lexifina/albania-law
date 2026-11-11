@@ -10,7 +10,7 @@ Lejimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të përdorë 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-863` (tags `vendim-2006-863/<day>`; `python tools/on.py <day> vendim-2006-863`).
+Act id: `vendim-2006-863` (tags `vendim-2006-863/<day>`; `python registry/tools/on.py <day> vendim-2006-863`).
 
 ## Decisions made by hand
 

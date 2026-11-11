@@ -29,7 +29,7 @@ Formën, përmbajtjen dhe rregullat e pajisjes e administrimit të vulave të p�
 | Pika 22 | [pika-022.md](pika-022.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2016-1017-6915` (tags `urdher-2016-1017-6915/<day>`; `python tools/on.py <day> urdher-2016-1017-6915`).
+Act id: `urdher-2016-1017-6915` (tags `urdher-2016-1017-6915/<day>`; `python registry/tools/on.py <day> urdher-2016-1017-6915`).
 
 ## Decisions made by hand
 

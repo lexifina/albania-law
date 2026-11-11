@@ -5,7 +5,7 @@ Dokumentacionin e domosdoshëm për të kërkuar leje mjedisore të tipit A, B d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-1202-3` (tags `udhezim-2013-1202-3/<day>`; `python tools/on.py <day> udhezim-2013-1202-3`).
+Act id: `udhezim-2013-1202-3` (tags `udhezim-2013-1202-3/<day>`; `python registry/tools/on.py <day> udhezim-2013-1202-3`).
 
 ## Decisions made by hand
 

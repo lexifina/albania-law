@@ -8,7 +8,7 @@ Përcaktimin e procedurave për menaxhimin nëpërmjet fondit kombëtar të bash
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0309-10` (tags `udhezim-2015-0309-10/<day>`; `python tools/on.py <day> udhezim-2015-0309-10`).
+Act id: `udhezim-2015-0309-10` (tags `udhezim-2015-0309-10/<day>`; `python registry/tools/on.py <day> udhezim-2015-0309-10`).
 
 ## Decisions made by hand
 

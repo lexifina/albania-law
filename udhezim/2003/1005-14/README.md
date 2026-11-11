@@ -16,7 +16,7 @@ Miratimin e detyrave te policisë së shtetit dhe forcave të ushtrisë për zgj
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 
-Act id: `udhezim-2003-1005-14` (tags `udhezim-2003-1005-14/<day>`; `python tools/on.py <day> udhezim-2003-1005-14`).
+Act id: `udhezim-2003-1005-14` (tags `udhezim-2003-1005-14/<day>`; `python registry/tools/on.py <day> udhezim-2003-1005-14`).
 
 ## Decisions made by hand
 

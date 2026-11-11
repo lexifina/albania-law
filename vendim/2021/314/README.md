@@ -11,7 +11,7 @@ Autorizimin e Ministrisë së Mbrojtjes (Drejtorisë së Përgjithshme të Rezer
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-314` (tags `vendim-2021-314/<day>`; `python tools/on.py <day> vendim-2021-314`).
+Act id: `vendim-2021-314` (tags `vendim-2021-314/<day>`; `python registry/tools/on.py <day> vendim-2021-314`).
 
 ## Decisions made by hand
 

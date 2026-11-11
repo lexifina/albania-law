@@ -38,7 +38,7 @@ Rininë · 2 versions, from 2020-01-11 (latest in force: 2025-04-25) · <https:/
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-75` (tags `ligj-2019-75/<day>`; `python tools/on.py <day> ligj-2019-75`).
+Act id: `ligj-2019-75` (tags `ligj-2019-75/<day>`; `python registry/tools/on.py <day> ligj-2019-75`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Emërimin në detyrë të drejtorit tё Cirkut Kombëtar · 1 versions, from 201
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-858` (tags `vendim-2019-858/<day>`; `python tools/on.py <day> vendim-2019-858`).
+Act id: `vendim-2019-858` (tags `vendim-2019-858/<day>`; `python registry/tools/on.py <day> vendim-2019-858`).
 
 ## Decisions made by hand
 

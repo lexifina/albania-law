@@ -60,7 +60,7 @@ PËR TREGTIMIN DHE MBIKËQYRJEN E TREGUT Të PRODUKTEVE JOUSHQIMORE · 3 version
 | Neni 44 | [neni-044.md](neni-044.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2011-10489` (tags `ligj-2011-10489/<day>`; `python tools/on.py <day> ligj-2011-10489`).
+Act id: `ligj-2011-10489` (tags `ligj-2011-10489/<day>`; `python registry/tools/on.py <day> ligj-2011-10489`).
 
 ## Decisions made by hand
 

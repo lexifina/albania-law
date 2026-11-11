@@ -22,7 +22,7 @@ Përcaktimin e institucioneve dhe organeve që marrin të dhëna personale nga s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2025-04-29 |
 
-Act id: `udhezim-2020-1210-463` (tags `udhezim-2020-1210-463/<day>`; `python tools/on.py <day> udhezim-2020-1210-463`).
+Act id: `udhezim-2020-1210-463` (tags `udhezim-2020-1210-463/<day>`; `python registry/tools/on.py <day> udhezim-2020-1210-463`).
 
 ## Decisions made by hand
 

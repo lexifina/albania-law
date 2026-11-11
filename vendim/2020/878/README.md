@@ -10,7 +10,7 @@ Miratimin e planit të veprimit 2020-2023, në zbatim të Strategjisë së Eduki
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-878` (tags `vendim-2020-878/<day>`; `python tools/on.py <day> vendim-2020-878`).
+Act id: `vendim-2020-878` (tags `vendim-2020-878/<day>`; `python registry/tools/on.py <day> vendim-2020-878`).
 
 ## Decisions made by hand
 

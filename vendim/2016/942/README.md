@@ -10,7 +10,7 @@ Miratimin e rregullit teknik “për etiketimin e energjisë së llambave dhe t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-942` (tags `vendim-2016-942/<day>`; `python tools/on.py <day> vendim-2016-942`).
+Act id: `vendim-2016-942` (tags `vendim-2016-942/<day>`; `python registry/tools/on.py <day> vendim-2016-942`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,18 @@ Miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-450` (tags `vendim-2005-450/<day>`; `python tools/on.py <day> vendim-2005-450`).
+Act id: `vendim-2005-450` (tags `vendim-2005-450/<day>`; `python registry/tools/on.py <day> vendim-2005-450`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1309, datë 17.9.2008: Për një ndryshim në vendimin nr.450, datë 16.6.2005 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi drejtorisë së shërbimit të trupit diplomatik](https://qbz.gov.al/eli/vendim/2008/09/17/1309)
+- [Vendimi i Këshillit të Ministrave nr. 957, datë 29.12.2014: Për ndryshimin e përgjegjësisë së administrimit, nga drejtoria e shërbimit të trupit diplomatik te drejtoria e shërbimeve qeveritare, të disa pronave të paluajtshme shtetërore në godinën nr. 57, në bulevardin “zogu i parë”, tiranë, dhe për një ndryshim në vendimin nr .450, datë 16.6.2005, të këshillit të ministrave, “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi drejtorisë së shërbimit të trupit diplomatik”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/12/29/957)
+- [Vendimi i Këshillit të Ministrave nr. 984, datë 9.12.2015: Për kalimin në përgjegjësi administrimi, nga Drejtoria e Shërbimit të Trupit Diplomatik te Ministria e Zhvillimit Urban, për Entin Kombëtar të Banesave, me qëllim privatizimi, të disa pronave të paluajtshme shtetërore në godinën nr. 57, në bulevardin “Zogu i Parë”, dhe për një ndryshim në vendimin nr. 450, datë 16.6.2015, të Këshillit të Ministrave, “Për miratimin e listës së pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Drejtorisë së Shërbimit të Trupit Diplomatik”, të ndryshuar](https://qbz.gov.al/eli/vendim/2015/12/09/984)
+- [Vendimi i Këshillit të Ministrave nr. 1045, datë 23.12.2015: Për ndryshimin e përgjegjësisë së administrimit të disa pronave të paluajtshme shtetërore në godinën nr. 57, në bulevardin “Zogu i Parë”, Tiranë, dhe për disa ndryshime në vendimin nr. 450, datë 16.6.2005, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Drejtorisë së Shërbimit të Trupit Diplomatik”, të ndryshuar](https://qbz.gov.al/eli/vendim/2015/12/23/1045)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e strukturës e të niveleve të pagave të përfaqësuesve të disa i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-716` (tags `vendim-2020-716/<day>`; `python tools/on.py <day> vendim-2020-716`).
+Act id: `vendim-2020-716` (tags `vendim-2020-716/<day>`; `python registry/tools/on.py <day> vendim-2020-716`).
 
 ## Decisions made by hand
 

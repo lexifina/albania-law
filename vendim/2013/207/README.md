@@ -8,7 +8,7 @@ Miratimin e rishpërndarjes së fondeve sipas marrëveshjes së huas, financimit
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-207` (tags `vendim-2013-207/<day>`; `python tools/on.py <day> vendim-2013-207`).
+Act id: `vendim-2013-207` (tags `vendim-2013-207/<day>`; `python registry/tools/on.py <day> vendim-2013-207`).
 
 ## Decisions made by hand
 

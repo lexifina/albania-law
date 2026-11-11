@@ -68,7 +68,7 @@ Masat antidumping dhe kundërbalancuese · 1 versions, from 2007-08-21 (latest i
 | Neni 52 | [neni-052.md](neni-052.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9796` (tags `ligj-2007-9796/<day>`; `python tools/on.py <day> ligj-2007-9796`).
+Act id: `ligj-2007-9796` (tags `ligj-2007-9796/<day>`; `python registry/tools/on.py <day> ligj-2007-9796`).
 
 ## Decisions made by hand
 

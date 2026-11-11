@@ -5,7 +5,7 @@ Miratimin e rregullores “Për përpunimin e të dhënave të pasagjerit” · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-954` (tags `vendim-2020-954/<day>`; `python tools/on.py <day> vendim-2020-954`).
+Act id: `vendim-2020-954` (tags `vendim-2020-954/<day>`; `python registry/tools/on.py <day> vendim-2020-954`).
 
 ## Decisions made by hand
 

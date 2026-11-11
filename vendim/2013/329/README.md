@@ -10,7 +10,7 @@ Miratimin e tarifës së biletës së Cirkut Kombëtar · 2 versions, from 2013-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-08-01 |
 
-Act id: `vendim-2013-329` (tags `vendim-2013-329/<day>`; `python tools/on.py <day> vendim-2013-329`).
+Act id: `vendim-2013-329` (tags `vendim-2013-329/<day>`; `python registry/tools/on.py <day> vendim-2013-329`).
 
 ## Decisions made by hand
 

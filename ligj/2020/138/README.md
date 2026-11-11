@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 32, datë 12.10.2020, të K
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-138` (tags `ligj-2020-138/<day>`; `python tools/on.py <day> ligj-2020-138`).
+Act id: `ligj-2020-138` (tags `ligj-2020-138/<day>`; `python registry/tools/on.py <day> ligj-2020-138`).
 
 ## Decisions made by hand
 

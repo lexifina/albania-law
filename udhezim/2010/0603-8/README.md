@@ -20,7 +20,7 @@ Ndërveprimin në rrjetin europian të menaxhimit të trafikut ajror (rregullore
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2015-10-14 |
 
-Act id: `udhezim-2010-0603-8` (tags `udhezim-2010-0603-8/<day>`; `python tools/on.py <day> udhezim-2010-0603-8`).
+Act id: `udhezim-2010-0603-8` (tags `udhezim-2010-0603-8/<day>`; `python registry/tools/on.py <day> udhezim-2010-0603-8`).
 
 ## Decisions made by hand
 

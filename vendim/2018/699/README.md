@@ -15,7 +15,7 @@ Miratimin e projektit pilot “për masat për nxitjen e të nxënit, të vijues
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-699` (tags `vendim-2018-699/<day>`; `python tools/on.py <day> vendim-2018-699`).
+Act id: `vendim-2018-699` (tags `vendim-2018-699/<day>`; `python registry/tools/on.py <day> vendim-2018-699`).
 
 ## Decisions made by hand
 

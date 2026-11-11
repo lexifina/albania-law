@@ -12,7 +12,7 @@ Miratimin e Strategjisë Ushtarake të Republikës së Shqipërisë · 1 version
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-83-2024` (tags `ligji-83-2024/<day>`; `python tools/on.py <day> ligji-83-2024`).
+Act id: `ligji-83-2024` (tags `ligji-83-2024/<day>`; `python registry/tools/on.py <day> ligji-83-2024`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.2, datë 27.7.2000 “për m
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8658-2000` (tags `ligji-8658-2000/<day>`; `python tools/on.py <day> ligji-8658-2000`).
+Act id: `ligji-8658-2000` (tags `ligji-8658-2000/<day>`; `python registry/tools/on.py <day> ligji-8658-2000`).
 
 ## Decisions made by hand
 

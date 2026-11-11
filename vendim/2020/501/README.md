@@ -11,7 +11,7 @@ Miratimin e rekomandimeve prioritare për Prokurorin e Përgjithshëm, në luft�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-501` (tags `vendim-2020-501/<day>`; `python tools/on.py <day> vendim-2020-501`).
+Act id: `vendim-2020-501` (tags `vendim-2020-501/<day>`; `python registry/tools/on.py <day> vendim-2020-501`).
 
 ## Decisions made by hand
 

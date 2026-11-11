@@ -9,7 +9,7 @@ Miratimin e skemës zbritëse të tarifës së autostradës milot-morinë · 1 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-517` (tags `vendim-2018-517/<day>`; `python tools/on.py <day> vendim-2018-517`).
+Act id: `vendim-2018-517` (tags `vendim-2018-517/<day>`; `python registry/tools/on.py <day> vendim-2018-517`).
 
 ## Decisions made by hand
 

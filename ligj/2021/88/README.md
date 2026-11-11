@@ -42,7 +42,7 @@ Krijimin e Autoritetit të Sigurisë Hekurudhore · 1 versions, from 2021-08-21 
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-88` (tags `ligj-2021-88/<day>`; `python tools/on.py <day> ligj-2021-88`).
+Act id: `ligj-2021-88` (tags `ligj-2021-88/<day>`; `python registry/tools/on.py <day> ligj-2021-88`).
 
 ## Decisions made by hand
 

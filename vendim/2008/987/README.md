@@ -11,7 +11,15 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-987` (tags `vendim-2008-987/<day>`; `python tools/on.py <day> vendim-2008-987`).
+Act id: `vendim-2008-987` (tags `vendim-2008-987/<day>`; `python registry/tools/on.py <day> vendim-2008-987`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 713, datë 21.8.2013: Për disa ndryshime në vendimet e Këshillit të Ministrave nr. 1328, datë 1.10.2008 “Për miratimin e listës së inventarit të pronave të paluajtshme publike të shtetit në komunën Gjergjan të qarkut Elbasan” dhe nr. 987, datë 2.7.2008 “Për miratimin e listës përfundimtare të pyjeve dhe kullotave që transferohen në pronësi të komunës Gjergjan të qarkut Elbasan”](https://qbz.gov.al/eli/vendim/2013/08/21/713)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e vendimit të Komitetit të Përbashkët të Marrëveshjes së Treg
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-101-2021` (tags `ligji-101-2021/<day>`; `python tools/on.py <day> ligji-101-2021`).
+Act id: `ligji-101-2021` (tags `ligji-101-2021/<day>`; `python registry/tools/on.py <day> ligji-101-2021`).
 
 ## Decisions made by hand
 

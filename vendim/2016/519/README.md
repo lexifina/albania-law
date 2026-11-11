@@ -10,7 +10,7 @@ Miratimin e modelit të tregut të energjisë elektrike · 2 versions, from 2016
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-12-29 |
 
-Act id: `vendim-2016-519` (tags `vendim-2016-519/<day>`; `python tools/on.py <day> vendim-2016-519`).
+Act id: `vendim-2016-519` (tags `vendim-2016-519/<day>`; `python registry/tools/on.py <day> vendim-2016-519`).
 
 ## Decisions made by hand
 

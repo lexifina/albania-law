@@ -5,7 +5,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të punonjësve të policisë së shteti
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-200` (tags `vendim-2017-200/<day>`; `python tools/on.py <day> vendim-2017-200`).
+Act id: `vendim-2017-200` (tags `vendim-2017-200/<day>`; `python registry/tools/on.py <day> vendim-2017-200`).
 
 ## Decisions made by hand
 

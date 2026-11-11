@@ -12,7 +12,7 @@ Zëvendësimin e përkohshëm për nënshkrimin e dokumenteve në emër të Sekr
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-0805-950` (tags `urdher-2025-0805-950/<day>`; `python tools/on.py <day> urdher-2025-0805-950`).
+Act id: `urdher-2025-0805-950` (tags `urdher-2025-0805-950/<day>`; `python registry/tools/on.py <day> urdher-2025-0805-950`).
 
 ## Decisions made by hand
 

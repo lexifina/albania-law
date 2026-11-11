@@ -17,7 +17,15 @@ Formën, përmbajtjen e dokumentit dhe procedurën e përfitimit të statusit t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2007-0918-1712` (tags `urdher-2007-0918-1712/<day>`; `python tools/on.py <day> urdher-2007-0918-1712`).
+Act id: `urdher-2007-0918-1712` (tags `urdher-2007-0918-1712/<day>`; `python registry/tools/on.py <day> urdher-2007-0918-1712`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 2, datë 14.2.2012 (Ministria e Financave) [QBZ 7957]: Mbi zbatimin e vendimit të këshillit të ministrave nr. 41, datë 11.1.2012 “për përcaktimin e kritereve bazë, të sektorëve që do të mbështeten dhe të masave të përfitimit nga fondi i programit për bujqësinë dhe zhvillimin rural”](https://qbz.gov.al/eli/udhezim/2012/02/14/2)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listës së vendeve të treta të sigurta · 2 versions, from 2009-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1260` (tags `vendim-2009-1260/<day>`; `python tools/on.py <day> vendim-2009-1260`).
+Act id: `vendim-2009-1260` (tags `vendim-2009-1260/<day>`; `python registry/tools/on.py <day> vendim-2009-1260`).
 
 ## Decisions made by hand
 

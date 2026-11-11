@@ -18,7 +18,7 @@ Rregullimin e shërbimit të transportit për funksionarët publikë dhe nëpun�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2013-12-18 |
 
-Act id: `ligj-2009-10160` (tags `ligj-2009-10160/<day>`; `python tools/on.py <day> ligj-2009-10160`).
+Act id: `ligj-2009-10160` (tags `ligj-2009-10160/<day>`; `python registry/tools/on.py <day> ligj-2009-10160`).
 
 ## Decisions made by hand
 

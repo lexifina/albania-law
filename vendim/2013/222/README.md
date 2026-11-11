@@ -37,7 +37,7 @@ Përcaktimin e procedurave të kryerjes së procesit të kalimit të tokës bujq
 | Pika 30 | [pika-030.md](pika-030.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-222` (tags `vendim-2013-222/<day>`; `python tools/on.py <day> vendim-2013-222`).
+Act id: `vendim-2013-222` (tags `vendim-2013-222/<day>`; `python registry/tools/on.py <day> vendim-2013-222`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Përcaktimin e procedurave, të dokumentacionit dhe të masës së përfitimit t
 | Pika 4 | [pika-004.md](pika-004.md) | 1 | 2020-12-29 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-651` (tags `vendim-2020-651/<day>`; `python tools/on.py <day> vendim-2020-651`).
+Act id: `vendim-2020-651` (tags `vendim-2020-651/<day>`; `python registry/tools/on.py <day> vendim-2020-651`).
 
 ## Decisions made by hand
 

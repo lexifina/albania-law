@@ -5,7 +5,7 @@ Përcaktimin e nivelit të masave shtesë të sigurisë dhe llojin e masave që 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2017-0310-134` (tags `udhezim-2017-0310-134/<day>`; `python tools/on.py <day> udhezim-2017-0310-134`).
+Act id: `udhezim-2017-0310-134` (tags `udhezim-2017-0310-134/<day>`; `python registry/tools/on.py <day> udhezim-2017-0310-134`).
 
 ## Decisions made by hand
 

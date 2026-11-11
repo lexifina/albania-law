@@ -10,7 +10,7 @@ Transferimin e pasurisë nr. 20/81, truall, në zonën kadastrale nr. 8502, në 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-150` (tags `vendim-2012-150/<day>`; `python tools/on.py <day> vendim-2012-150`).
+Act id: `vendim-2012-150` (tags `vendim-2012-150/<day>`; `python registry/tools/on.py <day> vendim-2012-150`).
 
 ## Decisions made by hand
 

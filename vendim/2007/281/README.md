@@ -9,7 +9,7 @@ Kalimin e digës së liqenit artificial në pronësi të bashkisë së tiranës 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-281` (tags `vendim-2007-281/<day>`; `python tools/on.py <day> vendim-2007-281`).
+Act id: `vendim-2007-281` (tags `vendim-2007-281/<day>`; `python registry/tools/on.py <day> vendim-2007-281`).
 
 ## Decisions made by hand
 

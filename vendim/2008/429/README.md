@@ -5,7 +5,7 @@ Emërimin e anëtarëve të komisionit për vlerësimin e masave për importet �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-429` (tags `vendim-2008-429/<day>`; `python tools/on.py <day> vendim-2008-429`).
+Act id: `vendim-2008-429` (tags `vendim-2008-429/<day>`; `python registry/tools/on.py <day> vendim-2008-429`).
 
 ## Decisions made by hand
 

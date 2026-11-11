@@ -18,7 +18,7 @@ Radhën e vendosjes së elementeve të adresës, algoritmin dhe strukturën e ko
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0714-111` (tags `udhezim-2025-0714-111/<day>`; `python tools/on.py <day> udhezim-2025-0714-111`).
+Act id: `udhezim-2025-0714-111` (tags `udhezim-2025-0714-111/<day>`; `python registry/tools/on.py <day> udhezim-2025-0714-111`).
 
 ## Decisions made by hand
 

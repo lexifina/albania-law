@@ -5,7 +5,7 @@ Përcaktimin e afateve dhe të procedurave të kalimit të bashkëpronësisë s�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-645` (tags `vendim-2015-645/<day>`; `python tools/on.py <day> vendim-2015-645`).
+Act id: `vendim-2015-645` (tags `vendim-2015-645/<day>`; `python registry/tools/on.py <day> vendim-2015-645`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e listave të mallrave, që mund të përdoren ose nuk kanë përdorim
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2023-806` (tags `vendim-2023-806/<day>`; `python tools/on.py <day> vendim-2023-806`).
+Act id: `vendim-2023-806` (tags `vendim-2023-806/<day>`; `python registry/tools/on.py <day> vendim-2023-806`).
 
 ## Decisions made by hand
 

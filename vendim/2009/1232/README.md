@@ -9,7 +9,7 @@ Përcaktimin e rasteve për përjashtimet nga detyrimi për njoftimin e të dhë
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1232` (tags `vendim-2009-1232/<day>`; `python tools/on.py <day> vendim-2009-1232`).
+Act id: `vendim-2009-1232` (tags `vendim-2009-1232/<day>`; `python registry/tools/on.py <day> vendim-2009-1232`).
 
 ## Decisions made by hand
 

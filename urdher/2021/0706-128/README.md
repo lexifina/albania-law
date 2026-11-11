@@ -5,7 +5,7 @@ Miratimin e rregullores për standardet, kriteret dhe procedurat e akreditimit t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0706-128` (tags `urdher-2021-0706-128/<day>`; `python tools/on.py <day> urdher-2021-0706-128`).
+Act id: `urdher-2021-0706-128` (tags `urdher-2021-0706-128/<day>`; `python registry/tools/on.py <day> urdher-2021-0706-128`).
 
 ## Decisions made by hand
 

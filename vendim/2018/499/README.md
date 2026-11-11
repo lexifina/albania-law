@@ -5,7 +5,7 @@ Miratimin e procedurave standarde të veprimit për mbrojtjen e viktimave dhe vi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-499` (tags `vendim-2018-499/<day>`; `python tools/on.py <day> vendim-2018-499`).
+Act id: `vendim-2018-499` (tags `vendim-2018-499/<day>`; `python registry/tools/on.py <day> vendim-2018-499`).
 
 ## Decisions made by hand
 

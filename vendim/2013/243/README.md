@@ -8,7 +8,7 @@ Miratimin e marrëveshjes së grantit nr. TF13972, ndërmjet Shqipërisë dhe Ba
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-243` (tags `vendim-2013-243/<day>`; `python tools/on.py <day> vendim-2013-243`).
+Act id: `vendim-2013-243` (tags `vendim-2013-243/<day>`; `python registry/tools/on.py <day> vendim-2013-243`).
 
 ## Decisions made by hand
 

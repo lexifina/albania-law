@@ -5,7 +5,7 @@ Përcaktimin e procedurave dhe të kritereve të administrimit të pyllit komuna
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-22` (tags `vendim-2008-22/<day>`; `python tools/on.py <day> vendim-2008-22`).
+Act id: `vendim-2008-22` (tags `vendim-2008-22/<day>`; `python registry/tools/on.py <day> vendim-2008-22`).
 
 ## Decisions made by hand
 

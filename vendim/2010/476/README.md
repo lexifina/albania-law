@@ -11,7 +11,7 @@ Rritjen e pensioneve suplementare të ushtarakëve, të punonjësve të Policis�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-476` (tags `vendim-2010-476/<day>`; `python tools/on.py <day> vendim-2010-476`).
+Act id: `vendim-2010-476` (tags `vendim-2010-476/<day>`; `python registry/tools/on.py <day> vendim-2010-476`).
 
 ## Decisions made by hand
 

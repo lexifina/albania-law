@@ -16,7 +16,7 @@ Zhvillimin dhe pjesëmarrjen e forcave ushtarake të britanisë së madhe në st
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-78` (tags `ligj-2016-78/<day>`; `python tools/on.py <day> ligj-2016-78`).
+Act id: `ligj-2016-78` (tags `ligj-2016-78/<day>`; `python registry/tools/on.py <day> ligj-2016-78`).
 
 ## Decisions made by hand
 

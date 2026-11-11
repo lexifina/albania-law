@@ -9,7 +9,7 @@ PËR ANULIMIN E UDHËZIMIT NR. 308, DATË 22.5.2017, TË MINISTRIT TË PUNËVE T
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2017-0914-899` (tags `urdher-2017-0914-899/<day>`; `python tools/on.py <day> urdher-2017-0914-899`).
+Act id: `urdher-2017-0914-899` (tags `urdher-2017-0914-899/<day>`; `python registry/tools/on.py <day> urdher-2017-0914-899`).
 
 ## Decisions made by hand
 

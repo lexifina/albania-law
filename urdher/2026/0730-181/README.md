@@ -12,7 +12,7 @@ Miratimin e rregullores që përcakton rregullat e përbashkëta mbi menaxhimin 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0730-181` (tags `urdher-2026-0730-181/<day>`; `python tools/on.py <day> urdher-2026-0730-181`).
+Act id: `urdher-2026-0730-181` (tags `urdher-2026-0730-181/<day>`; `python registry/tools/on.py <day> urdher-2026-0730-181`).
 
 ## Decisions made by hand
 

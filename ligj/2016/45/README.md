@@ -5,7 +5,7 @@ Vullnetarizmin · 2 versions, from 2016-06-15 (latest in force: 2026-02-05) · <
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2016-45` (tags `ligj-2016-45/<day>`; `python tools/on.py <day> ligj-2016-45`).
+Act id: `ligj-2016-45` (tags `ligj-2016-45/<day>`; `python registry/tools/on.py <day> ligj-2016-45`).
 
 ## Decisions made by hand
 

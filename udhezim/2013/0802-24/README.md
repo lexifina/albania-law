@@ -5,7 +5,7 @@ Certifikimin e hartuesve të testeve dhe vlerësuesve në provimet kombëtare ·
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0802-24` (tags `udhezim-2013-0802-24/<day>`; `python tools/on.py <day> udhezim-2013-0802-24`).
+Act id: `udhezim-2013-0802-24` (tags `udhezim-2013-0802-24/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-24`).
 
 ## Decisions made by hand
 

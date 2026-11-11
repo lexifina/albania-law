@@ -10,7 +10,7 @@ Ratifikimin e protokollit të privilegjeve dhe imuniteteve të qendrës për zba
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2012-5` (tags `ligj-2012-5/<day>`; `python tools/on.py <day> ligj-2012-5`).
+Act id: `ligj-2012-5` (tags `ligj-2012-5/<day>`; `python registry/tools/on.py <day> ligj-2012-5`).
 
 ## Decisions made by hand
 

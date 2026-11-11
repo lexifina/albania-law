@@ -9,7 +9,15 @@ Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetër
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-903` (tags `vendim-2011-903/<day>`; `python tools/on.py <day> vendim-2011-903`).
+Act id: `vendim-2011-903` (tags `vendim-2011-903/<day>`; `python registry/tools/on.py <day> vendim-2011-903`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 858, datë 4.12.2012: Për një ndryshim në vendimin nr. 903, datë 21.12.2011 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore që transferohen në pronësi apo në përdorim të komunës trebisht të qarkut të dibrës”](https://qbz.gov.al/eli/vendim/2012/12/04/858)
 
 ## Decisions made by hand
 

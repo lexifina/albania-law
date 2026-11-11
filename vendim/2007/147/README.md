@@ -17,7 +17,16 @@ Cilësinë e lëndëve djegëse, benzinë dhe diezel · 1 versions, from 2007-04
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-147` (tags `vendim-2007-147/<day>`; `python tools/on.py <day> vendim-2007-147`).
+Act id: `vendim-2007-147` (tags `vendim-2007-147/<day>`; `python registry/tools/on.py <day> vendim-2007-147`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 246, datë 9.5.2018: Për miratimin e planit kombëtar për integrimin evropian 2018-2020](https://qbz.gov.al/eli/vendim/2018/05/09/246)
+- [Vendimi i Këshillit të Ministrave nr. 201, datë 10.4.2019: Për miratimin e Planit Kombëtar për Integrimin Evropian 2019 - 2021](https://qbz.gov.al/eli/vendim/2019/04/10/201)
 
 ## Decisions made by hand
 

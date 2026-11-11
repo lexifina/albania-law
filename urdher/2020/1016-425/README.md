@@ -11,7 +11,7 @@ Përcaktimin e formatit të aplikimit dhe kundërshtimit të produkteve bujqëso
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-1016-425` (tags `urdher-2020-1016-425/<day>`; `python tools/on.py <day> urdher-2020-1016-425`).
+Act id: `urdher-2020-1016-425` (tags `urdher-2020-1016-425/<day>`; `python registry/tools/on.py <day> urdher-2020-1016-425`).
 
 ## Decisions made by hand
 

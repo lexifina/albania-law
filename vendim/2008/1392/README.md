@@ -16,7 +16,16 @@ PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËve TË PASURIve tË PALUAJT
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-1392` (tags `vendim-2008-1392/<day>`; `python tools/on.py <day> vendim-2008-1392`).
+Act id: `vendim-2008-1392` (tags `vendim-2008-1392/<day>`; `python registry/tools/on.py <day> vendim-2008-1392`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 412, datë 22.4.2009: Për disa shtesa në vendimin nr.1392, datë 17.10.2008 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor virua- gjirokastër”](https://qbz.gov.al/eli/vendim/2009/04/22/412)
+- [Vendimi i Këshillit të Ministrave nr. 542, datë 13.6.2013: Për disa ndryshime në vendimin nr. 1392, datë 17.10.2008 të Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i mbingritjes në rrugën Virua - Gjirokastër”, të ndryshuar](https://qbz.gov.al/eli/vendim/2013/06/13/542)
 
 ## Decisions made by hand
 

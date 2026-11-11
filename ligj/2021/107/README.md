@@ -81,7 +81,7 @@ Bashkëqeverisjen · 1 versions, from 2022-01-05 (latest in force: 2022-01-05) �
 | Neni 63 | [neni-063.md](neni-063.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-107-2021` (tags `ligji-107-2021/<day>`; `python tools/on.py <day> ligji-107-2021`).
+Act id: `ligji-107-2021` (tags `ligji-107-2021/<day>`; `python registry/tools/on.py <day> ligji-107-2021`).
 
 ## Decisions made by hand
 

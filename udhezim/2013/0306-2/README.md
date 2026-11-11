@@ -5,7 +5,7 @@ Kërkesat teknike të caktimit të ngastrave, grup-ngastrave dhe ekonomive pyjor
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0306-2` (tags `udhezim-2013-0306-2/<day>`; `python tools/on.py <day> udhezim-2013-0306-2`).
+Act id: `udhezim-2013-0306-2` (tags `udhezim-2013-0306-2/<day>`; `python registry/tools/on.py <day> udhezim-2013-0306-2`).
 
 ## Decisions made by hand
 

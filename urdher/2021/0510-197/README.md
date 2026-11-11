@@ -5,7 +5,7 @@ Miratimin e rregullores ”Për transportin ajror të mallrave të rrezikshme n�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0510-197` (tags `urdher-2021-0510-197/<day>`; `python tools/on.py <day> urdher-2021-0510-197`).
+Act id: `urdher-2021-0510-197` (tags `urdher-2021-0510-197/<day>`; `python registry/tools/on.py <day> urdher-2021-0510-197`).
 
 ## Decisions made by hand
 

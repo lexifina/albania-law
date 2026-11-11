@@ -14,7 +14,7 @@ Një shtesë fondi në buxhetin e vitit 2014, miratuar për disa institucione, p
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-541` (tags `vendim-2014-541/<day>`; `python tools/on.py <day> vendim-2014-541`).
+Act id: `vendim-2014-541` (tags `vendim-2014-541/<day>`; `python registry/tools/on.py <day> vendim-2014-541`).
 
 ## Decisions made by hand
 

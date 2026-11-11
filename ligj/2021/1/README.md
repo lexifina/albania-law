@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 38, datë 31.12.2020, të K
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2021-1` (tags `ligj-2021-1/<day>`; `python tools/on.py <day> ligj-2021-1`).
+Act id: `ligj-2021-1` (tags `ligj-2021-1/<day>`; `python registry/tools/on.py <day> ligj-2021-1`).
 
 ## Decisions made by hand
 

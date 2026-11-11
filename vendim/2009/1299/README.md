@@ -5,7 +5,7 @@
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-1299` (tags `vendim-2009-1299/<day>`; `python tools/on.py <day> vendim-2009-1299`).
+Act id: `vendim-2009-1299` (tags `vendim-2009-1299/<day>`; `python registry/tools/on.py <day> vendim-2009-1299`).
 
 ## Decisions made by hand
 

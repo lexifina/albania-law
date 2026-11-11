@@ -10,7 +10,7 @@ Miratimin e Dokumentit Politik për Moshimin dhe të planit të veprimit 2025-20
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-315` (tags `vendim-2025-315/<day>`; `python tools/on.py <day> vendim-2025-315`).
+Act id: `vendim-2025-315` (tags `vendim-2025-315/<day>`; `python registry/tools/on.py <day> vendim-2025-315`).
 
 ## Decisions made by hand
 

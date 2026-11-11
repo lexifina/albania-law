@@ -10,7 +10,7 @@ Miratimin e rregullores ”Për funksionimin e qendrave të pritjes dhe të traj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2002-46` (tags `vendim-2002-46/<day>`; `python tools/on.py <day> vendim-2002-46`).
+Act id: `vendim-2002-46` (tags `vendim-2002-46/<day>`; `python registry/tools/on.py <day> vendim-2002-46`).
 
 ## Decisions made by hand
 

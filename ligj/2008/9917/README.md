@@ -54,7 +54,7 @@ Parandalimi i pastrimit të parave · 8 versions, from 2008-09-10 (latest in for
 | Neni 31 | [neni-031.md](neni-031.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `pastrimi-i-parave` (tags `pastrimi-i-parave/<day>`; `python tools/on.py <day> pastrimi-i-parave`).
+Act id: `pastrimi-i-parave` (tags `pastrimi-i-parave/<day>`; `python registry/tools/on.py <day> pastrimi-i-parave`).
 
 ## Decisions made by hand
 

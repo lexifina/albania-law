@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. Nazmi Qamil Hoxha · 1 versi
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-779` (tags `vendim-2023-779/<day>`; `python tools/on.py <day> vendim-2023-779`).
+Act id: `vendim-2023-779` (tags `vendim-2023-779/<day>`; `python registry/tools/on.py <day> vendim-2023-779`).
 
 ## Decisions made by hand
 

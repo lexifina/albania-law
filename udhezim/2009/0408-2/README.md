@@ -5,7 +5,7 @@ Mënyrën e procedimit të organeve të administratës publike, për pasuritë e
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0408-2` (tags `udhezim-2009-0408-2/<day>`; `python tools/on.py <day> udhezim-2009-0408-2`).
+Act id: `udhezim-2009-0408-2` (tags `udhezim-2009-0408-2/<day>`; `python registry/tools/on.py <day> udhezim-2009-0408-2`).
 
 ## Decisions made by hand
 

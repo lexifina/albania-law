@@ -17,7 +17,7 @@ Shpalljen e ekosistemit natyror detar - bregdetar të Gjirit të Porto - Palermo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-557` (tags `vendim-2022-557/<day>`; `python tools/on.py <day> vendim-2022-557`).
+Act id: `vendim-2022-557` (tags `vendim-2022-557/<day>`; `python registry/tools/on.py <day> vendim-2022-557`).
 
 ## Decisions made by hand
 

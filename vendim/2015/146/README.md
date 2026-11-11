@@ -5,7 +5,7 @@ Kalimin në përgjegjësi administrimi të Ministrisë së Mirëqenies Sociale d
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-146` (tags `vendim-2015-146/<day>`; `python tools/on.py <day> vendim-2015-146`).
+Act id: `vendim-2015-146` (tags `vendim-2015-146/<day>`; `python registry/tools/on.py <day> vendim-2015-146`).
 
 ## Decisions made by hand
 

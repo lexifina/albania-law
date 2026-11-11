@@ -12,7 +12,7 @@ Financimin e bordeve të kullimit · 1 versions, from 2004-12-28 (latest in forc
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-856` (tags `vendim-2004-856/<day>`; `python tools/on.py <day> vendim-2004-856`).
+Act id: `vendim-2004-856` (tags `vendim-2004-856/<day>`; `python registry/tools/on.py <day> vendim-2004-856`).
 
 ## Decisions made by hand
 

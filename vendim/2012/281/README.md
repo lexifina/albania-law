@@ -8,7 +8,7 @@ Autorizimin e ministrisë së bujqësisë, ushqimit dhe mbrojtjes së konsumator
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-281` (tags `vendim-2012-281/<day>`; `python tools/on.py <day> vendim-2012-281`).
+Act id: `vendim-2012-281` (tags `vendim-2012-281/<day>`; `python registry/tools/on.py <day> vendim-2012-281`).
 
 ## Decisions made by hand
 

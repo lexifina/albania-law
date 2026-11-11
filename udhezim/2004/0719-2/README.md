@@ -18,7 +18,7 @@ Mbi përcaktimin dhe plotësimin e modelit të regjistrit të shërbimit të var
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-0719-2` (tags `udhezim-2004-0719-2/<day>`; `python tools/on.py <day> udhezim-2004-0719-2`).
+Act id: `udhezim-2004-0719-2` (tags `udhezim-2004-0719-2/<day>`; `python registry/tools/on.py <day> udhezim-2004-0719-2`).
 
 ## Decisions made by hand
 

@@ -30,7 +30,7 @@ Përcaktimin e rregullave për administrimin e të dhënave të grumbulluara në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0604-110` (tags `udhezim-2026-0604-110/<day>`; `python tools/on.py <day> udhezim-2026-0604-110`).
+Act id: `udhezim-2026-0604-110` (tags `udhezim-2026-0604-110/<day>`; `python registry/tools/on.py <day> udhezim-2026-0604-110`).
 
 ## Decisions made by hand
 

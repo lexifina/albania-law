@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-117-2021` (tags `ligji-117-2021/<day>`; `python tools/on.py <day> ligji-117-2021`).
+Act id: `ligji-117-2021` (tags `ligji-117-2021/<day>`; `python registry/tools/on.py <day> ligji-117-2021`).
 
 ## Decisions made by hand
 

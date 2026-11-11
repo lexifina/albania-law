@@ -20,7 +20,7 @@ Krijimin e bazës së të dhënave shtetërore për sistemin e shërbimeve të p
 | Pika 13 | [pika-013.md](pika-013.md) | 1 | 2026-01-19 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-191` (tags `vendim-2016-191/<day>`; `python tools/on.py <day> vendim-2016-191`).
+Act id: `vendim-2016-191` (tags `vendim-2016-191/<day>`; `python registry/tools/on.py <day> vendim-2016-191`).
 
 ## Decisions made by hand
 

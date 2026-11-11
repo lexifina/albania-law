@@ -27,7 +27,7 @@ Formatet dhe procedurat kurrikulare të arsimit dhe formimit profesional · 1 ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0730-27` (tags `udhezim-2018-0730-27/<day>`; `python tools/on.py <day> udhezim-2018-0730-27`).
+Act id: `udhezim-2018-0730-27` (tags `udhezim-2018-0730-27/<day>`; `python registry/tools/on.py <day> udhezim-2018-0730-27`).
 
 ## Decisions made by hand
 

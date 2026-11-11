@@ -5,7 +5,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 2, datë 25.7.2012 të kës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-79` (tags `ligj-2012-79/<day>`; `python tools/on.py <day> ligj-2012-79`).
+Act id: `ligj-2012-79` (tags `ligj-2012-79/<day>`; `python registry/tools/on.py <day> ligj-2012-79`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ PËR DELEGIM KOMPETENCASH PËR PROCEDURAT E PROKURIMEVE ME VLERË TË VOGËL DHE
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2014-0116-5` (tags `urdher-2014-0116-5/<day>`; `python tools/on.py <day> urdher-2014-0116-5`).
+Act id: `urdher-2014-0116-5` (tags `urdher-2014-0116-5/<day>`; `python registry/tools/on.py <day> urdher-2014-0116-5`).
 
 ## Decisions made by hand
 

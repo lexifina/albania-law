@@ -10,7 +10,7 @@ Një ndryshim limiti në fondet e kushtëzuara, miratuar në buxhetin e vitit 20
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-548` (tags `vendim-2004-548/<day>`; `python tools/on.py <day> vendim-2004-548`).
+Act id: `vendim-2004-548` (tags `vendim-2004-548/<day>`; `python registry/tools/on.py <day> vendim-2004-548`).
 
 ## Decisions made by hand
 

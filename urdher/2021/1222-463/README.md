@@ -12,7 +12,7 @@ Miratimin e rregullores ”Për funksionimin e ’Portit MBM’ në Porto Romano
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-1222-463` (tags `urdher-2021-1222-463/<day>`; `python tools/on.py <day> urdher-2021-1222-463`).
+Act id: `urdher-2021-1222-463` (tags `urdher-2021-1222-463/<day>`; `python registry/tools/on.py <day> urdher-2021-1222-463`).
 
 ## Decisions made by hand
 

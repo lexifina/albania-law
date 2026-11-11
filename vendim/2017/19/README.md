@@ -5,7 +5,7 @@ Përcaktimin e rregullave të legalizimit të objekteve me leje ndërtimi, në t
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2017-19` (tags `vendim-2017-19/<day>`; `python tools/on.py <day> vendim-2017-19`).
+Act id: `vendim-2017-19` (tags `vendim-2017-19/<day>`; `python registry/tools/on.py <day> vendim-2017-19`).
 
 ## Decisions made by hand
 

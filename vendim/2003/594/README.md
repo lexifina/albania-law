@@ -10,7 +10,15 @@ Miratimin e marrëveshjes së koncesionit të formës ”rot” ndërmjet minist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-594` (tags `vendim-2003-594/<day>`; `python tools/on.py <day> vendim-2003-594`).
+Act id: `vendim-2003-594` (tags `vendim-2003-594/<day>`; `python registry/tools/on.py <day> vendim-2003-594`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 155, datë 18.3.2004: Për një ndryshim në vendimin nr.594, datë 28.8.2003 të këshillit të ministrave ”për miratimin e marrëveshjes së koncesionit të formës ”rot”, ndërmjet ministrisë së industrisë dhe energjetikës e ministrisë së ekonomisë dhe shoqërisë ”kurum internacional” shpk, tiranë,](https://qbz.gov.al/eli/vendim/2004/03/18/155)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Rregullat dhe procedurat e shqyrtimit të nevojës, hartimit, bashkëpunimit, mi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2023-43` (tags `vendim-2023-43/<day>`; `python tools/on.py <day> vendim-2023-43`).
+Act id: `vendim-2023-43` (tags `vendim-2023-43/<day>`; `python registry/tools/on.py <day> vendim-2023-43`).
 
 ## Decisions made by hand
 

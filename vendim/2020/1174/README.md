@@ -47,7 +47,7 @@ Procedurat e regjistrimit të AMTP-ve, saktësimin e kufijve e sipërfaqeve, si 
 | Pika 39 | [pika-039.md](pika-039.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1174` (tags `vendim-2020-1174/<day>`; `python tools/on.py <day> vendim-2020-1174`).
+Act id: `vendim-2020-1174` (tags `vendim-2020-1174/<day>`; `python registry/tools/on.py <day> vendim-2020-1174`).
 
 ## Decisions made by hand
 

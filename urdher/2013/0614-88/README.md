@@ -9,7 +9,7 @@ Miratimin e rregullores për autorizimet me kredenciale të inspektorëve të Au
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0614-88` (tags `urdher-2013-0614-88/<day>`; `python tools/on.py <day> urdher-2013-0614-88`).
+Act id: `urdher-2013-0614-88` (tags `urdher-2013-0614-88/<day>`; `python registry/tools/on.py <day> urdher-2013-0614-88`).
 
 ## Decisions made by hand
 

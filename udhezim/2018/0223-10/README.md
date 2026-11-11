@@ -14,7 +14,15 @@ Datat dhe organizimin e provimeve të maturës shtetërore 2018 · 1 versions, f
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0223-10` (tags `udhezim-2018-0223-10/<day>`; `python tools/on.py <day> udhezim-2018-0223-10`).
+Act id: `udhezim-2018-0223-10` (tags `udhezim-2018-0223-10/<day>`; `python registry/tools/on.py <day> udhezim-2018-0223-10`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 14, datë 26.3.2018 (Ministria e Arsimit, Sportit dhe Rinisë) [QBZ 62796]: Për disa shtesa dhe ndryshime në udhëzimin e masr-së nr. 10, datë 23.2.2018, “për datat dhe organizimin e provimeve të maturës shtetërore 2018”](https://qbz.gov.al/eli/udhezim/2018/03/26/14)
 
 ## Decisions made by hand
 

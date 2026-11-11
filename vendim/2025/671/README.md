@@ -12,7 +12,7 @@ Mbylljen e veprimtarisë së akademisë “Nehemiah Gateway” · 1 versions, fr
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-671` (tags `vendim-2025-671/<day>`; `python tools/on.py <day> vendim-2025-671`).
+Act id: `vendim-2025-671` (tags `vendim-2025-671/<day>`; `python registry/tools/on.py <day> vendim-2025-671`).
 
 ## Decisions made by hand
 

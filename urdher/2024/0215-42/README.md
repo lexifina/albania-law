@@ -5,7 +5,7 @@ Delegim të kompetencave · 2 versions, from 2024-02-20 (latest in force: 2026-0
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0215-42` (tags `urdher-2024-0215-42/<day>`; `python tools/on.py <day> urdher-2024-0215-42`).
+Act id: `urdher-2024-0215-42` (tags `urdher-2024-0215-42/<day>`; `python registry/tools/on.py <day> urdher-2024-0215-42`).
 
 ## Decisions made by hand
 

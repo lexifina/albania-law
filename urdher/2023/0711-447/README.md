@@ -13,7 +13,7 @@ Delegim kompetencash · 1 versions, from 2023-07-18 (latest in force: 2023-07-18
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2023-0711-447` (tags `urdher-2023-0711-447/<day>`; `python tools/on.py <day> urdher-2023-0711-447`).
+Act id: `urdher-2023-0711-447` (tags `urdher-2023-0711-447/<day>`; `python registry/tools/on.py <day> urdher-2023-0711-447`).
 
 ## Decisions made by hand
 

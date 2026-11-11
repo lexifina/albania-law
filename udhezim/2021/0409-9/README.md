@@ -20,7 +20,7 @@ Zhvillimin e provimeve kombëtare të arsimit bazë, në Republikën e Shqipëri
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2021-0409-9` (tags `udhezim-2021-0409-9/<day>`; `python tools/on.py <day> udhezim-2021-0409-9`).
+Act id: `udhezim-2021-0409-9` (tags `udhezim-2021-0409-9/<day>`; `python registry/tools/on.py <day> udhezim-2021-0409-9`).
 
 ## Decisions made by hand
 

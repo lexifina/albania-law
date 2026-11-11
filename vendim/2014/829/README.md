@@ -5,7 +5,7 @@ Miratimin e rregullores së shërbimit për çështjet e brendshme dhe ankesat, 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-829` (tags `vendim-2014-829/<day>`; `python tools/on.py <day> vendim-2014-829`).
+Act id: `vendim-2014-829` (tags `vendim-2014-829/<day>`; `python registry/tools/on.py <day> vendim-2014-829`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e amendamentit të “marrëveshjes së kredisë”, nënshkruar në
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8673` (tags `ligj-2000-8673/<day>`; `python tools/on.py <day> ligj-2000-8673`).
+Act id: `ligj-2000-8673` (tags `ligj-2000-8673/<day>`; `python registry/tools/on.py <day> ligj-2000-8673`).
 
 ## Decisions made by hand
 

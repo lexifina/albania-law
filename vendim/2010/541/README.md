@@ -8,7 +8,7 @@ Shkarkimin nga detyra të kryetarit të komunës kolsh të qarkut të kukësit, 
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-541` (tags `vendim-2010-541/<day>`; `python tools/on.py <day> vendim-2010-541`).
+Act id: `vendim-2010-541` (tags `vendim-2010-541/<day>`; `python registry/tools/on.py <day> vendim-2010-541`).
 
 ## Decisions made by hand
 

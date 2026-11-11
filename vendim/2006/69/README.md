@@ -12,7 +12,7 @@ Mënyrën e llogaritjes së trajtimit të veçantë financiar të efektivave, of
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-69` (tags `vendim-2006-69/<day>`; `python tools/on.py <day> vendim-2006-69`).
+Act id: `vendim-2006-69` (tags `vendim-2006-69/<day>`; `python registry/tools/on.py <day> vendim-2006-69`).
 
 ## Decisions made by hand
 

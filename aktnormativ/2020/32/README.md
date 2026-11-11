@@ -9,7 +9,15 @@ Një ndryshim në aktin normativ nr.3, datë 15.3.2020, të Këshillit të Minis
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2020-32` (tags `aktnormativ-2020-32/<day>`; `python tools/on.py <day> aktnormativ-2020-32`).
+Act id: `aktnormativ-2020-32` (tags `aktnormativ-2020-32/<day>`; `python registry/tools/on.py <day> aktnormativ-2020-32`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 138/2020: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 32, datë 12.10.2020, të Këshillit të Ministrave, “Për një ndryshim në aktin normativ nr. 3, datë 15.3.2020, të Këshillit të Ministrave, ’Për marrjen e masave të veçanta administrative gjatë kohëzgjatjes së periudhës së infeksionit të shkaktuar nga COVID-19’, të ndryshuar”](https://qbz.gov.al/eli/ligj/2020/11/26/138)
 
 ## Decisions made by hand
 

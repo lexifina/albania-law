@@ -9,7 +9,7 @@ Shtyrjen e afatit të kryerjes së procedurave të prokurimit për objektet e in
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-810` (tags `vendim-2012-810/<day>`; `python tools/on.py <day> vendim-2012-810`).
+Act id: `vendim-2012-810` (tags `vendim-2012-810/<day>`; `python registry/tools/on.py <day> vendim-2012-810`).
 
 ## Decisions made by hand
 

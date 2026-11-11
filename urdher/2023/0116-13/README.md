@@ -5,7 +5,7 @@ Delegimin e kompetencës së përfaqësimit ligjor të Ministrisë për Evropën
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2023-0116-13` (tags `urdher-2023-0116-13/<day>`; `python tools/on.py <day> urdher-2023-0116-13`).
+Act id: `urdher-2023-0116-13` (tags `urdher-2023-0116-13/<day>`; `python registry/tools/on.py <day> urdher-2023-0116-13`).
 
 ## Decisions made by hand
 

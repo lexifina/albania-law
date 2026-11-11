@@ -11,7 +11,7 @@ Mbulimin e pjesshëm të shpenzimeve të mjekimit të znj. enkelejda mamaj (baba
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-375` (tags `vendim-2017-375/<day>`; `python tools/on.py <day> vendim-2017-375`).
+Act id: `vendim-2017-375` (tags `vendim-2017-375/<day>`; `python registry/tools/on.py <day> vendim-2017-375`).
 
 ## Decisions made by hand
 

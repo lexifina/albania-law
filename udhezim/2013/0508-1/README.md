@@ -11,7 +11,15 @@ Miratimin e kostos mesatare të ndërtimit të banesave nga Enti Kombëtar i Ban
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0508-1` (tags `udhezim-2013-0508-1/<day>`; `python tools/on.py <day> udhezim-2013-0508-1`).
+Act id: `udhezim-2013-0508-1` (tags `udhezim-2013-0508-1/<day>`; `python registry/tools/on.py <day> udhezim-2013-0508-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 91-1, datë 31.5.2013 (Këshilli i Ministrave) [QBZ 60268]: Ndreqje gabimi në udhëzimin e Këshillit të Ministrave nr. 1, datë 8.5.2013, “Për miratimin e kostos mesatare të ndërtimit të banesave nga Enti Kombëtar i Banesave, për vitin 2013”](https://qbz.gov.al/eli/udhezim/2013/05/31/91-1)
 
 ## Decisions made by hand
 

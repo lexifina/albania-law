@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-2-2024` (tags `ligji-2-2024/<day>`; `python tools/on.py <day> ligji-2-2024`).
+Act id: `ligji-2-2024` (tags `ligji-2-2024/<day>`; `python registry/tools/on.py <day> ligji-2-2024`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e amendamentit të “termave të përgjithshme të 7 marsit 1994”
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8674` (tags `ligj-2000-8674/<day>`; `python tools/on.py <day> ligj-2000-8674`).
+Act id: `ligj-2000-8674` (tags `ligj-2000-8674/<day>`; `python registry/tools/on.py <day> ligj-2000-8674`).
 
 ## Decisions made by hand
 

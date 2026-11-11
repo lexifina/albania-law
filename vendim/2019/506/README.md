@@ -10,7 +10,7 @@ Miratimin e kodit të etikës së vullnetarit · 1 versions, from 2019-07-19 (la
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-506` (tags `vendim-2019-506/<day>`; `python tools/on.py <day> vendim-2019-506`).
+Act id: `vendim-2019-506` (tags `vendim-2019-506/<day>`; `python registry/tools/on.py <day> vendim-2019-506`).
 
 ## Decisions made by hand
 

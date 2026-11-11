@@ -14,7 +14,7 @@ Mënyrën dhe afatet për kryerjen e pagesës së tarifës së licencimit për s
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2017-0109-3` (tags `udhezim-2017-0109-3/<day>`; `python tools/on.py <day> udhezim-2017-0109-3`).
+Act id: `udhezim-2017-0109-3` (tags `udhezim-2017-0109-3/<day>`; `python registry/tools/on.py <day> udhezim-2017-0109-3`).
 
 ## Decisions made by hand
 

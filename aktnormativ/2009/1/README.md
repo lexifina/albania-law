@@ -12,7 +12,7 @@ Dërgimin e një kompanie të forcave të armatosura në Republikën e Çadit dh
 | Neni 5 | [neni-005.md](neni-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2009-1` (tags `aktnormativ-2009-1/<day>`; `python tools/on.py <day> aktnormativ-2009-1`).
+Act id: `aktnormativ-2009-1` (tags `aktnormativ-2009-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2009-1`).
 
 ## Decisions made by hand
 

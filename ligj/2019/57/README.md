@@ -49,7 +49,7 @@ Asistencën sociale në Republikën e Shqipërisë · 2 versions, from 2019-08-1
 | Neni 34 | [neni-034.md](neni-034.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2019-57` (tags `ligj-2019-57/<day>`; `python tools/on.py <day> ligj-2019-57`).
+Act id: `ligj-2019-57` (tags `ligj-2019-57/<day>`; `python registry/tools/on.py <day> ligj-2019-57`).
 
 ## Decisions made by hand
 

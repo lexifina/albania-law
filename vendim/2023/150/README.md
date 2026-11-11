@@ -16,7 +16,7 @@ Miratimin e kritereve dhe të normave të trajtimit me uniformë të ushtarakëv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-01-19 |
 
-Act id: `vendim-2023-150` (tags `vendim-2023-150/<day>`; `python tools/on.py <day> vendim-2023-150`).
+Act id: `vendim-2023-150` (tags `vendim-2023-150/<day>`; `python registry/tools/on.py <day> vendim-2023-150`).
 
 ## Decisions made by hand
 

@@ -34,7 +34,7 @@ Organizimin dhe funksionimin e Inspektoratit Shtetëror Shëndetësor · 1 versi
 | Pika 26 | [pika-026.md](pika-026.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-241` (tags `vendim-2013-241/<day>`; `python tools/on.py <day> vendim-2013-241`).
+Act id: `vendim-2013-241` (tags `vendim-2013-241/<day>`; `python registry/tools/on.py <day> vendim-2013-241`).
 
 ## Decisions made by hand
 

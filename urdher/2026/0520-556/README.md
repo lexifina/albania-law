@@ -17,7 +17,7 @@ Marrjen e masave kufizuese për parandalimin dhe kontrollin e sëmundjes së mur
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0520-556` (tags `urdher-2026-0520-556/<day>`; `python tools/on.py <day> urdher-2026-0520-556`).
+Act id: `urdher-2026-0520-556` (tags `urdher-2026-0520-556/<day>`; `python registry/tools/on.py <day> urdher-2026-0520-556`).
 
 ## Decisions made by hand
 

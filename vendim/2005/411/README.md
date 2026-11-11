@@ -9,7 +9,15 @@ Miratimin e listës së inventarit të pronave të paluajtshme shtetërore në b
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-411` (tags `vendim-2005-411/<day>`; `python tools/on.py <day> vendim-2005-411`).
+Act id: `vendim-2005-411` (tags `vendim-2005-411/<day>`; `python registry/tools/on.py <day> vendim-2005-411`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1030, datë 9.7.2008: Për një ndryshim në vendimin nr.411, datë 9.6.2005 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në bashkinë sarandë, të qarkut të vlorës”, dhe për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të transferohen në pronësi të njësisë së qeverisjes vendore, bashkia sarandë, të qarkut të vlorës](https://qbz.gov.al/eli/vendim/2008/07/09/1030)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat që ndiqen për financimin e projekteve artistike · 2 versions, from
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2022-306` (tags `vendim-2022-306/<day>`; `python tools/on.py <day> vendim-2022-306`).
+Act id: `vendim-2022-306` (tags `vendim-2022-306/<day>`; `python registry/tools/on.py <day> vendim-2022-306`).
 
 ## Decisions made by hand
 

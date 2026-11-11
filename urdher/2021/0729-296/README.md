@@ -11,7 +11,7 @@ Miratimin e rregullores ”Mbi shërbimin e informacionit aeronautik në Republi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2021-0729-296` (tags `urdher-2021-0729-296/<day>`; `python tools/on.py <day> urdher-2021-0729-296`).
+Act id: `urdher-2021-0729-296` (tags `urdher-2021-0729-296/<day>`; `python registry/tools/on.py <day> urdher-2021-0729-296`).
 
 ## Decisions made by hand
 

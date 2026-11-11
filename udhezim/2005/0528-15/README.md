@@ -22,7 +22,7 @@ Organizimin dhe funksionimin e komisionit të qendrës së votimit · 2 versions
 | Pjesa I | [pjesa-01.md](pjesa-01.md) | 0 |  |
 | Pjesa III | [pjesa-03.md](pjesa-03.md) | 0 |  |
 
-Act id: `udhezim-2005-0528-15` (tags `udhezim-2005-0528-15/<day>`; `python tools/on.py <day> udhezim-2005-0528-15`).
+Act id: `udhezim-2005-0528-15` (tags `udhezim-2005-0528-15/<day>`; `python registry/tools/on.py <day> udhezim-2005-0528-15`).
 
 ## Decisions made by hand
 

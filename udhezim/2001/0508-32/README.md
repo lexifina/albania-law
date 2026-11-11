@@ -12,7 +12,7 @@ Regjistrimin e partive politike dhe koalicioneve · 1 versions, from 2001-05-12 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0508-32` (tags `udhezim-2001-0508-32/<day>`; `python tools/on.py <day> udhezim-2001-0508-32`).
+Act id: `udhezim-2001-0508-32` (tags `udhezim-2001-0508-32/<day>`; `python registry/tools/on.py <day> udhezim-2001-0508-32`).
 
 ## Decisions made by hand
 

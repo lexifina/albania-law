@@ -10,7 +10,7 @@ Plotësimin dhe shpërndarjen e tabelave të rezultateve në qendrën e votimit 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0609-47` (tags `udhezim-2001-0609-47/<day>`; `python tools/on.py <day> udhezim-2001-0609-47`).
+Act id: `udhezim-2001-0609-47` (tags `udhezim-2001-0609-47/<day>`; `python registry/tools/on.py <day> udhezim-2001-0609-47`).
 
 ## Decisions made by hand
 

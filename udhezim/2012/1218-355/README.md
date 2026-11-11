@@ -10,7 +10,7 @@ Kriteret e miratimit të laboratorit të referencës · 1 versions, from 2012-12
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1218-355` (tags `udhezim-2012-1218-355/<day>`; `python tools/on.py <day> udhezim-2012-1218-355`).
+Act id: `udhezim-2012-1218-355` (tags `udhezim-2012-1218-355/<day>`; `python registry/tools/on.py <day> udhezim-2012-1218-355`).
 
 ## Decisions made by hand
 

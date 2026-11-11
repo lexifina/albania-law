@@ -10,7 +10,7 @@ Indeksimin e masës së shpërblimit të veteranëve të Luftës Antifashiste Na
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-652` (tags `vendim-2015-652/<day>`; `python tools/on.py <day> vendim-2015-652`).
+Act id: `vendim-2015-652` (tags `vendim-2015-652/<day>`; `python registry/tools/on.py <day> vendim-2015-652`).
 
 ## Decisions made by hand
 

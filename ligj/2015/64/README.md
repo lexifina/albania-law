@@ -10,7 +10,15 @@ Ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-64` (tags `ligj-2015-64/<day>`; `python tools/on.py <day> ligj-2015-64`).
+Act id: `ligj-2015-64` (tags `ligj-2015-64/<day>`; `python registry/tools/on.py <day> ligj-2015-64`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 52/2017: Për ratifikimin e ndryshimit nr. 1 të marrëveshjes së grantit ndërmjet republikës së shqipërisë dhe bankës ndërkombëtare për rindërtim dhe zhvillim, që vepron si administratore e fondeve grant, të siguruara nga agjencia suedeze për zhvillimin e bashkëpunimit ndërkombëtar (sida) nën fondin suedez të besimit, për fondin e besimit nr. tf072239, për projektin e shërbimeve mjedisore në shqipëri, të ratifikuar me ligjin nr.64/2015](https://qbz.gov.al/eli/ligj/2017/04/13/52-2017)
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Miratimin e kritereve dhe të termave kryesorë të zgjidhjes së borxhit të ja
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-9075` (tags `ligj-2003-9075/<day>`; `python tools/on.py <day> ligj-2003-9075`).
+Act id: `ligj-2003-9075` (tags `ligj-2003-9075/<day>`; `python registry/tools/on.py <day> ligj-2003-9075`).
 
 ## Decisions made by hand
 

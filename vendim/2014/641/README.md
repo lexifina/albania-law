@@ -44,7 +44,7 @@ Miratimin e rregullave për eksportin e mbetjevedhe kalimin transit të mbetjeve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-641` (tags `vendim-2014-641/<day>`; `python tools/on.py <day> vendim-2014-641`).
+Act id: `vendim-2014-641` (tags `vendim-2014-641/<day>`; `python registry/tools/on.py <day> vendim-2014-641`).
 
 ## Decisions made by hand
 

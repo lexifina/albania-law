@@ -5,7 +5,7 @@ Koeficientin e shfrytëzimit të ndërtesës në legalizim, me destinacion socia
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2006-870` (tags `vendim-2006-870/<day>`; `python tools/on.py <day> vendim-2006-870`).
+Act id: `vendim-2006-870` (tags `vendim-2006-870/<day>`; `python registry/tools/on.py <day> vendim-2006-870`).
 
 ## Decisions made by hand
 

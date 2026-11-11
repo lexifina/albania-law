@@ -11,7 +11,7 @@ Miratimin e Katalogut Kombëtar të Kualifikimeve Profesionale · 7 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 5 | 2026-07-29 |
 
-Act id: `urdher-2021-0525-99` (tags `urdher-2021-0525-99/<day>`; `python tools/on.py <day> urdher-2021-0525-99`).
+Act id: `urdher-2021-0525-99` (tags `urdher-2021-0525-99/<day>`; `python registry/tools/on.py <day> urdher-2021-0525-99`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Ngritjen dhe funksionimin e strukturës së sistemit kombëtar të planifikimit 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-655` (tags `vendim-2002-655/<day>`; `python tools/on.py <day> vendim-2002-655`).
+Act id: `vendim-2002-655` (tags `vendim-2002-655/<day>`; `python registry/tools/on.py <day> vendim-2002-655`).
 
 ## Decisions made by hand
 

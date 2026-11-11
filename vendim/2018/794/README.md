@@ -8,7 +8,7 @@ Dhënie shtese pensioni të posaçëm shtetëror z. ali riza bajram oseku · 1 v
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-794` (tags `vendim-2018-794/<day>`; `python tools/on.py <day> vendim-2018-794`).
+Act id: `vendim-2018-794` (tags `vendim-2018-794/<day>`; `python registry/tools/on.py <day> vendim-2018-794`).
 
 ## Decisions made by hand
 

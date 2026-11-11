@@ -14,7 +14,7 @@ PËR HAPJEN E PROGRAMEVE TË TJERA STUDIMI PRANË SHKOLLËS SË LARTË UNIVERSIT
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-256` (tags `vendim-2008-256/<day>`; `python tools/on.py <day> vendim-2008-256`).
+Act id: `vendim-2008-256` (tags `vendim-2008-256/<day>`; `python registry/tools/on.py <day> vendim-2008-256`).
 
 ## Decisions made by hand
 

@@ -15,7 +15,7 @@ Strukturën e vitit akademik 2010-2011 në institucionet publike të arsimit të
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2010-1005-29` (tags `udhezim-2010-1005-29/<day>`; `python tools/on.py <day> udhezim-2010-1005-29`).
+Act id: `udhezim-2010-1005-29` (tags `udhezim-2010-1005-29/<day>`; `python registry/tools/on.py <day> udhezim-2010-1005-29`).
 
 ## Decisions made by hand
 

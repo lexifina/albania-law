@@ -9,7 +9,7 @@ Miratimin e letërmarrëveshjes ndërmjet Këshillit të Ministrave të Republik
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-735` (tags `vendim-2020-735/<day>`; `python tools/on.py <day> vendim-2020-735`).
+Act id: `vendim-2020-735` (tags `vendim-2020-735/<day>`; `python registry/tools/on.py <day> vendim-2020-735`).
 
 ## Decisions made by hand
 

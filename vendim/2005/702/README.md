@@ -5,7 +5,7 @@ Përzgjedhjen e organizatave të punëdhënësve dhe të sindikatave më të pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-702` (tags `vendim-2005-702/<day>`; `python tools/on.py <day> vendim-2005-702`).
+Act id: `vendim-2005-702` (tags `vendim-2005-702/<day>`; `python registry/tools/on.py <day> vendim-2005-702`).
 
 ## Decisions made by hand
 

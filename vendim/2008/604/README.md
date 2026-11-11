@@ -11,7 +11,15 @@ PëR MIRATIMIN E LISTëS PëRFUNDIMTARE të PRONAVE, PYJE DHE KULLOTA, që DO t�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-604` (tags `vendim-2008-604/<day>`; `python tools/on.py <day> vendim-2008-604`).
+Act id: `vendim-2008-604` (tags `vendim-2008-604/<day>`; `python registry/tools/on.py <day> vendim-2008-604`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 389, datë 18.5.2011: Për një shtesë në vendimin nr.1087, datë 23.7.2008 të këshillit të ministrave “për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën mollas të qarkut të korçës”, dhe për një shtesë në vendimin nr.604, datë 14.5.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave, pyje dhe kullota, që transferohen në pronësi të komunës mollas të qarkut korçë”](https://qbz.gov.al/eli/vendim/2011/05/18/389)
 
 ## Decisions made by hand
 

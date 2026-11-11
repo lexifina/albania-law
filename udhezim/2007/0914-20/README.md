@@ -18,7 +18,7 @@ Përcaktimin e formave të deklarimit të numrave imei nga importuesit dhe indiv
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0914-20` (tags `udhezim-2007-0914-20/<day>`; `python tools/on.py <day> udhezim-2007-0914-20`).
+Act id: `udhezim-2007-0914-20` (tags `udhezim-2007-0914-20/<day>`; `python registry/tools/on.py <day> udhezim-2007-0914-20`).
 
 ## Decisions made by hand
 

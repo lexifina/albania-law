@@ -11,7 +11,7 @@ Nderprerjen e ndërhyrjeve kirurgjikale të planifikuara në Qendrën Spitalore 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0309-147` (tags `urdher-2020-0309-147/<day>`; `python tools/on.py <day> urdher-2020-0309-147`).
+Act id: `urdher-2020-0309-147` (tags `urdher-2020-0309-147/<day>`; `python registry/tools/on.py <day> urdher-2020-0309-147`).
 
 ## Decisions made by hand
 

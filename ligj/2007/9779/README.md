@@ -5,7 +5,7 @@ Sigurinë e përgjithshme, kërkesat thelbësore dhe vlerësimin e konformitetit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2007-9779` (tags `ligj-2007-9779/<day>`; `python tools/on.py <day> ligj-2007-9779`).
+Act id: `ligj-2007-9779` (tags `ligj-2007-9779/<day>`; `python registry/tools/on.py <day> ligj-2007-9779`).
 
 ## Decisions made by hand
 

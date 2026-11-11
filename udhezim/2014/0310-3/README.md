@@ -20,7 +20,16 @@ Planifikimin e fondeve të pagesave për aftësinë e kufizuar · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2014-0310-3` (tags `udhezim-2014-0310-3/<day>`; `python tools/on.py <day> udhezim-2014-0310-3`).
+Act id: `udhezim-2014-0310-3` (tags `udhezim-2014-0310-3/<day>`; `python registry/tools/on.py <day> udhezim-2014-0310-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 620, datë 27.12.2017 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 14584]: Për disa ndryshime në udhëzimin nr. 3, datë 10.3.2014, “për planifikimin e fondeve të pagesave për aftësinë e kufizuar”](https://qbz.gov.al/eli/udhezim/2017/12/27/620)
+- [Udhëzimi nr. 7, datë 25.2.2015 (Ministria e Shëndetësisë dhe Mbrojtjes Sociale) [QBZ 54944]: Për një ndryshim në udhëzimin nr. 3, datë 10.3.2014 “Për planifikimin e fondeve të pagesave për aftësinë e kufizuar”](https://qbz.gov.al/eli/udhezim/2015/02/25/7)
 
 ## Decisions made by hand
 

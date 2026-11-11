@@ -10,7 +10,15 @@ PËR RATIFIKIMIN E MARRËVESHJES PËR BASHKËPUNIMIN TEKNIK NDËRMJET KËSHILLIT
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-66` (tags `ligj-2017-66/<day>`; `python tools/on.py <day> ligj-2017-66`).
+Act id: `ligj-2017-66` (tags `ligj-2017-66/<day>`; `python registry/tools/on.py <day> ligj-2017-66`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 14/2019: Për ratifikimin e marrëveshjes ndryshuese të marrëveshjes për bashkëpunimin teknik ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Zhvillimit Urban, dhe Qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim, për Programin e Zhvillimit Rajonal për Shqipërinë, ratifikuar me ligjin nr. 66/2017](https://qbz.gov.al/eli/ligj/2019/03/05/14)
 
 ## Decisions made by hand
 

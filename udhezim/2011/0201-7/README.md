@@ -10,7 +10,7 @@ Përfundimin e vitit shkollor 2010-2011 dhe për zhvillimin e provimeve përfund
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0201-7` (tags `udhezim-2011-0201-7/<day>`; `python tools/on.py <day> udhezim-2011-0201-7`).
+Act id: `udhezim-2011-0201-7` (tags `udhezim-2011-0201-7/<day>`; `python registry/tools/on.py <day> udhezim-2011-0201-7`).
 
 ## Decisions made by hand
 

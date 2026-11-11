@@ -21,7 +21,7 @@ Përcaktimin e rregullave për deklarimin e shpenzimeve të fushatës zgjedhore,
 | Neni 13/1 | [neni-013-01.md](neni-013-01.md) | 1 | 2005-09-05 |
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 
-Act id: `udhezim-2005-0606-17` (tags `udhezim-2005-0606-17/<day>`; `python tools/on.py <day> udhezim-2005-0606-17`).
+Act id: `udhezim-2005-0606-17` (tags `udhezim-2005-0606-17/<day>`; `python registry/tools/on.py <day> udhezim-2005-0606-17`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e tavaneve përgatitore të shpenzimeve buxhetore të programit buxhet
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2011-08-25 |
 
-Act id: `vendim-2011-147` (tags `vendim-2011-147/<day>`; `python tools/on.py <day> vendim-2011-147`).
+Act id: `vendim-2011-147` (tags `vendim-2011-147/<day>`; `python registry/tools/on.py <day> vendim-2011-147`).
 
 ## Decisions made by hand
 

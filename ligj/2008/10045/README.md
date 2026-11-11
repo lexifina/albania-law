@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së transferimit dhe kontributit ndërmjet republ
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10045-2008` (tags `ligji-10045-2008/<day>`; `python tools/on.py <day> ligji-10045-2008`).
+Act id: `ligji-10045-2008` (tags `ligji-10045-2008/<day>`; `python registry/tools/on.py <day> ligji-10045-2008`).
 
 ## Decisions made by hand
 

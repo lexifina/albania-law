@@ -10,7 +10,7 @@ Disa ndryshime në vendimin nr. 101, datë 4.2.2015, të këshillit të ministra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-353` (tags `vendim-2018-353/<day>`; `python tools/on.py <day> vendim-2018-353`).
+Act id: `vendim-2018-353` (tags `vendim-2018-353/<day>`; `python registry/tools/on.py <day> vendim-2018-353`).
 
 ## Decisions made by hand
 

@@ -21,7 +21,7 @@ Ratifikimin e “marrëveshjes teknike ndërmjet ministrisë së mbrojtjes të r
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Neni 13 | [neni-013.md](neni-013.md) | 0 |  |
 
-Act id: `ligji-9028-2003` (tags `ligji-9028-2003/<day>`; `python tools/on.py <day> ligji-9028-2003`).
+Act id: `ligji-9028-2003` (tags `ligji-9028-2003/<day>`; `python registry/tools/on.py <day> ligji-9028-2003`).
 
 ## Decisions made by hand
 

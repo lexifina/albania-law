@@ -15,7 +15,7 @@ Shpalljen “Park kombëtar” të ekosistemit natyror shebenik-Jabllanicë · 1
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-640` (tags `vendim-2008-640/<day>`; `python tools/on.py <day> vendim-2008-640`).
+Act id: `vendim-2008-640` (tags `vendim-2008-640/<day>`; `python registry/tools/on.py <day> vendim-2008-640`).
 
 ## Decisions made by hand
 

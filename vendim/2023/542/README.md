@@ -10,7 +10,7 @@ Miratimin e Strategjisë Kombëtare për Kërkimin Shkencor, Teknologjinë dhe I
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-542` (tags `vendim-2023-542/<day>`; `python tools/on.py <day> vendim-2023-542`).
+Act id: `vendim-2023-542` (tags `vendim-2023-542/<day>`; `python registry/tools/on.py <day> vendim-2023-542`).
 
 ## Decisions made by hand
 

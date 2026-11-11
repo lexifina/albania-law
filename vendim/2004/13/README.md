@@ -9,7 +9,7 @@ Miratimin në parim të marrëveshjes së bashkëpunimit ekonomiko-teknik ndërm
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-13` (tags `vendim-2004-13/<day>`; `python tools/on.py <day> vendim-2004-13`).
+Act id: `vendim-2004-13` (tags `vendim-2004-13/<day>`; `python registry/tools/on.py <day> vendim-2004-13`).
 
 ## Decisions made by hand
 

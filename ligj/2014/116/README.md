@@ -33,7 +33,7 @@ Akreditimin e organeve të vlerësimit të konformitetit në republikën e shqip
 | Neni 21 | [neni-021.md](neni-021.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2014-116` (tags `ligj-2014-116/<day>`; `python tools/on.py <day> ligj-2014-116`).
+Act id: `ligj-2014-116` (tags `ligj-2014-116/<day>`; `python registry/tools/on.py <day> ligj-2014-116`).
 
 ## Decisions made by hand
 

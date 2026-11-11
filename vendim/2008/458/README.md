@@ -10,7 +10,7 @@ Dhënie fondi ndihme partisë “ora e shqipërisë · 1 versions, from 2008-05-
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-458` (tags `vendim-2008-458/<day>`; `python tools/on.py <day> vendim-2008-458`).
+Act id: `vendim-2008-458` (tags `vendim-2008-458/<day>`; `python registry/tools/on.py <day> vendim-2008-458`).
 
 ## Decisions made by hand
 

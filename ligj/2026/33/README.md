@@ -10,7 +10,7 @@ Ratifikimin e vendimit nr. 1/2025 të Komitetit të Përbashkët, i krijuar nga 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-33-2026` (tags `ligji-33-2026/<day>`; `python tools/on.py <day> ligji-33-2026`).
+Act id: `ligji-33-2026` (tags `ligji-33-2026/<day>`; `python registry/tools/on.py <day> ligji-33-2026`).
 
 ## Decisions made by hand
 

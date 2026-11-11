@@ -36,7 +36,15 @@ Procedurat e hollësishme të regjistrimit dhe lëshimit të certifikatës së p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0531-4695` (tags `udhezim-2016-0531-4695/<day>`; `python tools/on.py <day> udhezim-2016-0531-4695`).
+Act id: `udhezim-2016-0531-4695` (tags `udhezim-2016-0531-4695/<day>`; `python registry/tools/on.py <day> udhezim-2016-0531-4695`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 4695-4, datë 2.11.2016 (ALUIZNI) [QBZ 15950]: Për disa ndryshime dhe shtesa në udhëzimin nr. 4695, datë 31.5.2016, “për procedurat e hollësishme të regjistrimit dhe lëshimit të certifikatës së pasurisë së paluajtshme të legalizuar”](https://qbz.gov.al/eli/udhezim/2016/11/02/4695-4)
 
 ## Decisions made by hand
 

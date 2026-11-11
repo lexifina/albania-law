@@ -21,7 +21,7 @@ Procedurat e kalimit dhe çrregjistrimit të mjeteve nga mjediset e drejtorive t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0712-313` (tags `udhezim-2013-0712-313/<day>`; `python tools/on.py <day> udhezim-2013-0712-313`).
+Act id: `udhezim-2013-0712-313` (tags `udhezim-2013-0712-313/<day>`; `python registry/tools/on.py <day> udhezim-2013-0712-313`).
 
 ## Decisions made by hand
 

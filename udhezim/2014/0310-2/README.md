@@ -23,7 +23,7 @@ Procedurat e shqyrtimit të kërkesave për licencim, të subjekteve që kryejn�
 | Pika 16 | [pika-016.md](pika-016.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2014-0310-2` (tags `udhezim-2014-0310-2/<day>`; `python tools/on.py <day> udhezim-2014-0310-2`).
+Act id: `udhezim-2014-0310-2` (tags `udhezim-2014-0310-2/<day>`; `python registry/tools/on.py <day> udhezim-2014-0310-2`).
 
 ## Decisions made by hand
 

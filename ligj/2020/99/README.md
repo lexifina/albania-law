@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes dypalëshe ndërmjet Këshillit të Ministrave të R
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2020-99` (tags `ligj-2020-99/<day>`; `python tools/on.py <day> ligj-2020-99`).
+Act id: `ligj-2020-99` (tags `ligj-2020-99/<day>`; `python registry/tools/on.py <day> ligj-2020-99`).
 
 ## Decisions made by hand
 

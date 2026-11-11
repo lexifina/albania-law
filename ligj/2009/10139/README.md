@@ -28,7 +28,7 @@ Pensionet shtetërore suplementare të punonjësve të universiteteve, të shkol
 | Neni 16 | [neni-016.md](neni-016.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2009-10139` (tags `ligj-2009-10139/<day>`; `python tools/on.py <day> ligj-2009-10139`).
+Act id: `ligj-2009-10139` (tags `ligj-2009-10139/<day>`; `python registry/tools/on.py <day> ligj-2009-10139`).
 
 ## Decisions made by hand
 

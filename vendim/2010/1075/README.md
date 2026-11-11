@@ -9,7 +9,7 @@ Shtyrjen e afatit të shpalljes e të botimit të njoftimit të fituesit dhe të
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-1075` (tags `vendim-2010-1075/<day>`; `python tools/on.py <day> vendim-2010-1075`).
+Act id: `vendim-2010-1075` (tags `vendim-2010-1075/<day>`; `python registry/tools/on.py <day> vendim-2010-1075`).
 
 ## Decisions made by hand
 

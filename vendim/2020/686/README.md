@@ -18,7 +18,7 @@ Kriteret e dhënies së bursave për shtetasit e huaj me origjinë shqiptare, p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-686` (tags `vendim-2020-686/<day>`; `python tools/on.py <day> vendim-2020-686`).
+Act id: `vendim-2020-686` (tags `vendim-2020-686/<day>`; `python registry/tools/on.py <day> vendim-2020-686`).
 
 ## Decisions made by hand
 

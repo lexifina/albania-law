@@ -16,7 +16,7 @@ Mbi përcaktimin e standardeve të dokumentit për vërtetimin e sasisë së pro
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2012-0928-20` (tags `udhezim-2012-0928-20/<day>`; `python tools/on.py <day> udhezim-2012-0928-20`).
+Act id: `udhezim-2012-0928-20` (tags `udhezim-2012-0928-20/<day>`; `python registry/tools/on.py <day> udhezim-2012-0928-20`).
 
 ## Decisions made by hand
 

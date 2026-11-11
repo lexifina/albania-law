@@ -10,7 +10,7 @@ Kalimin në përgjegjësi administrimi, nga Ministria e Arsimit dhe Sportit te M
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-201` (tags `vendim-2015-201/<day>`; `python tools/on.py <day> vendim-2015-201`).
+Act id: `vendim-2015-201` (tags `vendim-2015-201/<day>`; `python registry/tools/on.py <day> vendim-2015-201`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Procedurat, rregullat, arsyet dhe mënyrën e njoftimit për pezullimin nga ana 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0512-2` (tags `udhezim-2026-0512-2/<day>`; `python tools/on.py <day> udhezim-2026-0512-2`).
+Act id: `udhezim-2026-0512-2` (tags `udhezim-2026-0512-2/<day>`; `python registry/tools/on.py <day> udhezim-2026-0512-2`).
 
 ## Decisions made by hand
 

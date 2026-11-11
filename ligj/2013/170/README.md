@@ -21,7 +21,7 @@ Miratimin e marrëveshjes së asistencës së shërbimit doganor · 1 versions, 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2013-170` (tags `ligj-2013-170/<day>`; `python tools/on.py <day> ligj-2013-170`).
+Act id: `ligj-2013-170` (tags `ligj-2013-170/<day>`; `python registry/tools/on.py <day> ligj-2013-170`).
 
 ## Decisions made by hand
 

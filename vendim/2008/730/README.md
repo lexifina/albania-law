@@ -14,7 +14,7 @@ Miratimin e llojeve të armatimit, të lëndëve kimike (neuroparalizuese) dhe t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-730` (tags `vendim-2008-730/<day>`; `python tools/on.py <day> vendim-2008-730`).
+Act id: `vendim-2008-730` (tags `vendim-2008-730/<day>`; `python registry/tools/on.py <day> vendim-2008-730`).
 
 ## Decisions made by hand
 

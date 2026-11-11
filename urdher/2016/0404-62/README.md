@@ -11,7 +11,7 @@ Miratimin e listës së llojeve të shpendëve të egër, veçanërisht vulnerab
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2016-0404-62` (tags `urdher-2016-0404-62/<day>`; `python tools/on.py <day> urdher-2016-0404-62`).
+Act id: `urdher-2016-0404-62` (tags `urdher-2016-0404-62/<day>`; `python registry/tools/on.py <day> urdher-2016-0404-62`).
 
 ## Decisions made by hand
 

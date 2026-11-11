@@ -12,7 +12,7 @@ Ratifikimin e “konventës europiane “për marrëdhëniet me fëmijët”” 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9359` (tags `ligj-2005-9359/<day>`; `python tools/on.py <day> ligj-2005-9359`).
+Act id: `ligj-2005-9359` (tags `ligj-2005-9359/<day>`; `python registry/tools/on.py <day> ligj-2005-9359`).
 
 ## Decisions made by hand
 

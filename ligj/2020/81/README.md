@@ -111,7 +111,7 @@ Të drejtat dhe trajtimin e të dënuarve me burgim dhe të paraburgosurve · 2 
 | Neni 93 | [neni-093.md](neni-093.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-81` (tags `ligj-2020-81/<day>`; `python tools/on.py <day> ligj-2020-81`).
+Act id: `ligj-2020-81` (tags `ligj-2020-81/<day>`; `python registry/tools/on.py <day> ligj-2020-81`).
 
 ## Decisions made by hand
 

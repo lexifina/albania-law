@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Pun�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-941` (tags `vendim-2013-941/<day>`; `python tools/on.py <day> vendim-2013-941`).
+Act id: `vendim-2013-941` (tags `vendim-2013-941/<day>`; `python registry/tools/on.py <day> vendim-2013-941`).
 
 ## Decisions made by hand
 

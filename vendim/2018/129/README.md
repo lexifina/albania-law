@@ -5,7 +5,7 @@ Përcaktimin e organizatave të punëdhënësve dhe të punëmarrësve në kësh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2018-129` (tags `vendim-2018-129/<day>`; `python tools/on.py <day> vendim-2018-129`).
+Act id: `vendim-2018-129` (tags `vendim-2018-129/<day>`; `python registry/tools/on.py <day> vendim-2018-129`).
 
 ## Decisions made by hand
 

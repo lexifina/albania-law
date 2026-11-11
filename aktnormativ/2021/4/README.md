@@ -14,7 +14,15 @@ Disa ndryshime në ligjin nr.137/2020, “Për buxhetin e vitit 2021” · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2021-4` (tags `aktnormativ-2021-4/<day>`; `python tools/on.py <day> aktnormativ-2021-4`).
+Act id: `aktnormativ-2021-4` (tags `aktnormativ-2021-4/<day>`; `python registry/tools/on.py <day> aktnormativ-2021-4`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 25/2021: Për miratimin e aktit normativ, me fuqinë e ligjit, nr.4, datë 5.2.2021, të K ëshillit të Ministrave, ”Për disa ndryshime në ligjin nr.137/2020”Për buxhetin e vitit 2021”, të ndryshuar”](https://qbz.gov.al/eli/ligj/2021/03/01/25)
 
 ## Decisions made by hand
 

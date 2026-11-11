@@ -10,7 +10,7 @@ Aderimin në “protokollin e vilniusit të 3 qershorit 1999, që përmban modif
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2000-8638` (tags `ligj-2000-8638/<day>`; `python tools/on.py <day> ligj-2000-8638`).
+Act id: `ligj-2000-8638` (tags `ligj-2000-8638/<day>`; `python registry/tools/on.py <day> ligj-2000-8638`).
 
 ## Decisions made by hand
 

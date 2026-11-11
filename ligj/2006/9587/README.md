@@ -98,7 +98,7 @@ Mbrojtjen e biodiversitetit · 2 versions, from 2020-05-20 (latest in force: 202
 | Neni 57 | [neni-057.md](neni-057.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9587` (tags `ligj-2006-9587/<day>`; `python tools/on.py <day> ligj-2006-9587`).
+Act id: `ligj-2006-9587` (tags `ligj-2006-9587/<day>`; `python registry/tools/on.py <day> ligj-2006-9587`).
 
 ## Decisions made by hand
 

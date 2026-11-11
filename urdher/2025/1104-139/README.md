@@ -12,7 +12,7 @@ Shpalljen e përkthimit të ndryshimeve në kontratat që i referohen energjisë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1104-139` (tags `urdher-2025-1104-139/<day>`; `python tools/on.py <day> urdher-2025-1104-139`).
+Act id: `urdher-2025-1104-139` (tags `urdher-2025-1104-139/<day>`; `python registry/tools/on.py <day> urdher-2025-1104-139`).
 
 ## Decisions made by hand
 

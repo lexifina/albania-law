@@ -10,7 +10,7 @@ Miratimin e listës së substancave të ndaluara ose me përdorim të kufizuar p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-395` (tags `vendim-2018-395/<day>`; `python tools/on.py <day> vendim-2018-395`).
+Act id: `vendim-2018-395` (tags `vendim-2018-395/<day>`; `python registry/tools/on.py <day> vendim-2018-395`).
 
 ## Decisions made by hand
 

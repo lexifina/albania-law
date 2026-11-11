@@ -5,7 +5,7 @@ Krijimin e institutit të kurrikulave e të trajnimit dhe shkrirjen e institutit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-418` (tags `vendim-2007-418/<day>`; `python tools/on.py <day> vendim-2007-418`).
+Act id: `vendim-2007-418` (tags `vendim-2007-418/<day>`; `python registry/tools/on.py <day> vendim-2007-418`).
 
 ## Decisions made by hand
 

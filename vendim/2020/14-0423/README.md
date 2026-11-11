@@ -10,7 +10,7 @@ Miratimin e listës së përditësuar të strukturave akomoduese për akomodimin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-14-0423` (tags `vendim-2020-14-0423/<day>`; `python tools/on.py <day> vendim-2020-14-0423`).
+Act id: `vendim-2020-14-0423` (tags `vendim-2020-14-0423/<day>`; `python registry/tools/on.py <day> vendim-2020-14-0423`).
 
 ## Decisions made by hand
 

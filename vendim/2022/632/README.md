@@ -9,7 +9,7 @@ Miratimin e marrëveshjes së grantit (asistenca teknike) për konektivitetin e 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-632` (tags `vendim-2022-632/<day>`; `python tools/on.py <day> vendim-2022-632`).
+Act id: `vendim-2022-632` (tags `vendim-2022-632/<day>`; `python registry/tools/on.py <day> vendim-2022-632`).
 
 ## Decisions made by hand
 

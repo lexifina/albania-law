@@ -5,7 +5,7 @@ Shpalljen e zonës së re për zhvillim, Njësia Administrative 1, zona autotrak
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-79` (tags `vendim-2020-79/<day>`; `python tools/on.py <day> vendim-2020-79`).
+Act id: `vendim-2020-79` (tags `vendim-2020-79/<day>`; `python registry/tools/on.py <day> vendim-2020-79`).
 
 ## Decisions made by hand
 

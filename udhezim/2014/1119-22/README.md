@@ -5,7 +5,7 @@ Mbikëqyrjen e ojf-ve, nga organet tatimore, në funksion të parandalimit të p
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2014-1119-22` (tags `udhezim-2014-1119-22/<day>`; `python tools/on.py <day> udhezim-2014-1119-22`).
+Act id: `udhezim-2014-1119-22` (tags `udhezim-2014-1119-22/<day>`; `python registry/tools/on.py <day> udhezim-2014-1119-22`).
 
 ## Decisions made by hand
 

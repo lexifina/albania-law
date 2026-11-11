@@ -77,7 +77,20 @@ Përtransferimin në pronësi të bashkive të pyjeve dhe të kullotave publike,
 | Pika 70 | [pika-070.md](pika-070.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-433` (tags `vendim-2016-433/<day>`; `python tools/on.py <day> vendim-2016-433`).
+Act id: `vendim-2016-433` (tags `vendim-2016-433/<day>`; `python registry/tools/on.py <day> vendim-2016-433`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 398, datë 13.5.2020: Për disa ndryshime në vendimin nr.433, datë 8.6.2016, të Këshillit të Ministrave, “Për transferimin në pronësi të Bashkive të pyjeve dhe kullotave publike sipas listave të inventarit dhe aktualisht në administrim të Ministrisë së Mjedisit e të ish-Komunave/Bashkive”](https://qbz.gov.al/eli/vendim/2020/05/13/398)
+- [Vendimi i Këshillit të Ministrave nr. 684, datë 2.9.2020: Për disa ndryshime dhe shtesa në vendimin nr. 433, datë 8.6.2016, të Këshillit të Ministrave, “Për transferimin në pronësi të bashkive të pyjeve dhe kullotave publike, sipas listave të inventarit, dhe aktualisht në administrim të Ministrisë së Mjedisit e të ish-komunave/bashkive”, të ndryshuar](https://qbz.gov.al/eli/vendim/2020/09/02/684)
+- [Vendimi i Këshillit të Ministrave nr. 638, datë 16.10.2024: Për përcaktimin e rregullave të hollësishme të bashkërendimit të punës ndërmjet Agjencisë Shtetërore të Kadastrës dhe Agjencisë së Trajtimit të Pronave](https://qbz.gov.al/eli/vendim/2024/10/16/638)
+- [Vendimi i Këshillit të Ministrave nr. 263, datë 7.5.2025: Për disa ndryshime në vendimin nr. 433, datë 8.6.2016, të Këshillit të Ministrave, “Për transferimin në pronësi të bashkive të pyjeve dhe kullotave publike, sipas listave të inventarit, dhe aktualisht në administrim të Ministrisë së Mjedisit e të ish-komunave/bashkive”, të ndryshuar](https://qbz.gov.al/eli/vendim/2025/05/07/263)
+- [Vendimi i Këshillit të Ministrave nr. 158, datë 19.3.2026: Për ndryshimin e përgjegjësisë së administrimit, nga Bashkia Himarë te Ministria e Ekonomisë dhe Inovacionit, të pasurisë me nr. 68/119/15, e ndodhur në zonën kadastrale 1739, dhe për një ndryshim në vendimin nr. 433, datë 8.6.2016, të Këshillit të Ministrave, ”Për transferimin në pronësi të bashkive të pyjeve dhe kullotave publike, sipas listave të inventarit dhe aktualisht në administrim të Ministrisë së Mjedisit e të ish-komunave/bashkive”, të ndryshuar](https://qbz.gov.al/eli/vendim/2026/03/19/158)
+- [Vendimi i Këshillit të Ministrave nr. 134, datë 3.3.2021: Për disa ndryshime në vendimin nr. 433, datë 8.6.2016, të Këshillit të Ministrave, “Për transferimin në pronësi të bashkive të pyjeve dhe kullotave publike, sipas listave të inventarit, dhe aktualisht në administrim të Ministrisë së Mjedisit e të ish-komunave/bashkive”, të ndryshuar](https://qbz.gov.al/eli/vendim/2021/03/03/134)
 
 ## Decisions made by hand
 

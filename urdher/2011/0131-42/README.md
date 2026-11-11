@@ -14,7 +14,7 @@ PëR SPECIFIKIMET TEKNIKE Të AKTEVE, Të CERTIFIKATAVE DHE PROCESVERBALEVE Që 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0131-42` (tags `urdher-2011-0131-42/<day>`; `python tools/on.py <day> urdher-2011-0131-42`).
+Act id: `urdher-2011-0131-42` (tags `urdher-2011-0131-42/<day>`; `python registry/tools/on.py <day> urdher-2011-0131-42`).
 
 ## Decisions made by hand
 

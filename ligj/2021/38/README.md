@@ -13,7 +13,7 @@ Përcaktimin e procedurës së veçantë për negocimin dhe ekzekutimin e kontra
 | Neni 6 | [neni-006.md](neni-006.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-38-2021` (tags `ligji-38-2021/<day>`; `python tools/on.py <day> ligji-38-2021`).
+Act id: `ligji-38-2021` (tags `ligji-38-2021/<day>`; `python registry/tools/on.py <day> ligji-38-2021`).
 
 ## Decisions made by hand
 

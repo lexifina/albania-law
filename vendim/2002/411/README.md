@@ -11,7 +11,16 @@ Kalimin e disa mjediseve në administrimin e Zyrës Qendrore të Regjistrimit t�
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-411` (tags `vendim-2002-411/<day>`; `python tools/on.py <day> vendim-2002-411`).
+Act id: `vendim-2002-411` (tags `vendim-2002-411/<day>`; `python registry/tools/on.py <day> vendim-2002-411`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 112, datë 17.2.2011: PËR NJË NDRYSHIM NË VENDIMIN NR.411, DATË 29.8.2002 TË KËSHILLIT TË MINISTRAVE “PËR KALIMIN E DISA MJEDISEVE NË ADMINISTRIMIN E ZYRËS QENDRORE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME DHE TË ZYRAVE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME TIRANË, KORÇË DHE DURRËS”, SI DHE PËR NJË NDRYSHIM NË VENDIMIN NR.448, DATË 16.6.2005 TË KËSHiLLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI ZYRËS QENDRORE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME”](https://qbz.gov.al/eli/vendim/2011/02/17/112)
+- [Vendimi i Këshillit të Ministrave nr. 346, datë 29.4.2020: Për ndryshimin e përgjegjësisë së administrimit, nga Ministria e Drejtësisë tek Agjencia Shtetërore e Kadastrës, për pronat e përcaktuara në vendimin nr.411, datë 29.8.2002, të Këshillit të Ministrave, “Për kalimin e disa mjediseve në administrimin e zyrës qendrore të regjistrimit të pasurive të paluajtshme dhe të zyrave të regjistrimit të pasurive të paluajtshmeTiranë, Korçë dhe Durrës”, të ndryshuar](https://qbz.gov.al/eli/vendim/2020/04/29/346)
 
 ## Decisions made by hand
 

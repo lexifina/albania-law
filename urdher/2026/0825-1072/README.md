@@ -9,7 +9,7 @@ Miratimin e formularëve të deklarimit të interesave privatë · 1 versions, f
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0825-1072` (tags `urdher-2026-0825-1072/<day>`; `python tools/on.py <day> urdher-2026-0825-1072`).
+Act id: `urdher-2026-0825-1072` (tags `urdher-2026-0825-1072/<day>`; `python registry/tools/on.py <day> urdher-2026-0825-1072`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Përcaktimin e kritereve, të dokumentacionit dhe të procedurës për pajisjen 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2018-07-04 |
 
-Act id: `vendim-2014-70` (tags `vendim-2014-70/<day>`; `python tools/on.py <day> vendim-2014-70`).
+Act id: `vendim-2014-70` (tags `vendim-2014-70/<day>`; `python registry/tools/on.py <day> vendim-2014-70`).
 
 ## Decisions made by hand
 

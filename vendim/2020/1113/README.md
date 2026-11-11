@@ -24,7 +24,7 @@ Masën dhe mënyrën e kompensimit të udhëtimit, të qirasë së banesës dhe 
 | Pika 17 | [pika-017.md](pika-017.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-1113` (tags `vendim-2020-1113/<day>`; `python tools/on.py <day> vendim-2020-1113`).
+Act id: `vendim-2020-1113` (tags `vendim-2020-1113/<day>`; `python registry/tools/on.py <day> vendim-2020-1113`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Organizimin dhe funksionimin e agjencisë kombëtare të turizmit · 3 versions,
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2025-04-08 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-298` (tags `vendim-2016-298/<day>`; `python tools/on.py <day> vendim-2016-298`).
+Act id: `vendim-2016-298` (tags `vendim-2016-298/<day>`; `python registry/tools/on.py <day> vendim-2016-298`).
 
 ## Decisions made by hand
 

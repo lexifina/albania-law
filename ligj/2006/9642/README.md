@@ -10,7 +10,7 @@ Ratifikimin e Konventës së Këshillit të Europës “Për masat kundër trafi
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9642-2006` (tags `ligji-9642-2006/<day>`; `python tools/on.py <day> ligji-9642-2006`).
+Act id: `ligji-9642-2006` (tags `ligji-9642-2006/<day>`; `python registry/tools/on.py <day> ligji-9642-2006`).
 
 ## Decisions made by hand
 

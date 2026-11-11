@@ -21,7 +21,15 @@ Pranimet në shkollat e larta, për vitin akademik 2001-2002, në sistemin me sh
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-481` (tags `vendim-2001-481/<day>`; `python tools/on.py <day> vendim-2001-481`).
+Act id: `vendim-2001-481` (tags `vendim-2001-481/<day>`; `python registry/tools/on.py <day> vendim-2001-481`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 644, datë 4.12.2001: Për disa ndryshime në vendimin nr.481, datë 19.7.2001 të këshillit të ministrave ”për pranimet në shkollat e larta për vitin akademik 2001-2002 në sistemin me shkëputje nga puna, si edhe tarifën e shkollimit po për vitin akademik 2001-2002”, të ndryshuar me vendimin nr.566, datë 22.10.2001 të këshillit të ministrave](https://qbz.gov.al/eli/vendim/2001/12/04/644)
 
 ## Decisions made by hand
 

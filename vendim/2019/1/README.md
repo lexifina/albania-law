@@ -14,7 +14,7 @@ Caktimin e drejtuesve qendrorë të operacionit për menaxhimin e fatkeqësisë 
 | Pika 7 | [pika-007.md](pika-007.md) | 1 | 2019-12-02 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-1` (tags `vendim-2019-1/<day>`; `python tools/on.py <day> vendim-2019-1`).
+Act id: `vendim-2019-1` (tags `vendim-2019-1/<day>`; `python registry/tools/on.py <day> vendim-2019-1`).
 
 ## Decisions made by hand
 

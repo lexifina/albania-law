@@ -16,7 +16,7 @@ Mbylljen e disa minierave të kromit në rrethet tropojë, mat, bulqizë, pograd
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-638` (tags `vendim-2000-638/<day>`; `python tools/on.py <day> vendim-2000-638`).
+Act id: `vendim-2000-638` (tags `vendim-2000-638/<day>`; `python registry/tools/on.py <day> vendim-2000-638`).
 
 ## Decisions made by hand
 

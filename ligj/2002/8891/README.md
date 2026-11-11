@@ -36,7 +36,7 @@ Organizimin dhe funksionimin e komisioneve hetimore të Kuvendit · 3 versions, 
 | Neni 25 | [neni-025.md](neni-025.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8891` (tags `ligj-2002-8891/<day>`; `python tools/on.py <day> ligj-2002-8891`).
+Act id: `ligj-2002-8891` (tags `ligj-2002-8891/<day>`; `python registry/tools/on.py <day> ligj-2002-8891`).
 
 ## Decisions made by hand
 

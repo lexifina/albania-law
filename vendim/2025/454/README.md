@@ -10,7 +10,7 @@ Dhënien e miratimit për lidhjen e kontratës ndërmjet Ministrisë së Ekonomi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-454` (tags `vendim-2025-454/<day>`; `python tools/on.py <day> vendim-2025-454`).
+Act id: `vendim-2025-454` (tags `vendim-2025-454/<day>`; `python registry/tools/on.py <day> vendim-2025-454`).
 
 ## Decisions made by hand
 

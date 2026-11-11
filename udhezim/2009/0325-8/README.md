@@ -18,7 +18,7 @@ Miratimin e kritereve dhe procedurat për përzgjedhjen dhe emërimin e ekspert�
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Pjesa I | [pjesa-01.md](pjesa-01.md) | 0 |  |
 
-Act id: `udhezim-2009-0325-8` (tags `udhezim-2009-0325-8/<day>`; `python tools/on.py <day> udhezim-2009-0325-8`).
+Act id: `udhezim-2009-0325-8` (tags `udhezim-2009-0325-8/<day>`; `python registry/tools/on.py <day> udhezim-2009-0325-8`).
 
 ## Decisions made by hand
 

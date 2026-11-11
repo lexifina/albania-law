@@ -20,7 +20,7 @@ Rregullat dhe procedurat për transferimin e punonjësve të Policisë së Shtet
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-856` (tags `vendim-2021-856/<day>`; `python tools/on.py <day> vendim-2021-856`).
+Act id: `vendim-2021-856` (tags `vendim-2021-856/<day>`; `python registry/tools/on.py <day> vendim-2021-856`).
 
 ## Decisions made by hand
 

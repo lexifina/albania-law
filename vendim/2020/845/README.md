@@ -12,7 +12,7 @@ Miratimin e rregullave të hollësishme për zhvillimin e aktiviteteve turistike
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2025-02-28 |
 
-Act id: `vendim-2020-845` (tags `vendim-2020-845/<day>`; `python tools/on.py <day> vendim-2020-845`).
+Act id: `vendim-2020-845` (tags `vendim-2020-845/<day>`; `python registry/tools/on.py <day> vendim-2020-845`).
 
 ## Decisions made by hand
 

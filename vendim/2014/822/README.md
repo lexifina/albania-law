@@ -9,7 +9,7 @@ Rishpërndarje fondesh, ndërmjet programeve në buxhetin e vitit 2014, miratuar
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-822` (tags `vendim-2014-822/<day>`; `python tools/on.py <day> vendim-2014-822`).
+Act id: `vendim-2014-822` (tags `vendim-2014-822/<day>`; `python registry/tools/on.py <day> vendim-2014-822`).
 
 ## Decisions made by hand
 

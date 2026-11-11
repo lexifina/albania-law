@@ -10,7 +10,7 @@ Kthim fondi në Buxhetin e Shtetit · 1 versions, from 2019-04-15 (latest in for
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-194` (tags `vendim-2019-194/<day>`; `python tools/on.py <day> vendim-2019-194`).
+Act id: `vendim-2019-194` (tags `vendim-2019-194/<day>`; `python registry/tools/on.py <day> vendim-2019-194`).
 
 ## Decisions made by hand
 

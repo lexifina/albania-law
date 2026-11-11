@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes ndërmjet republikës së shqipërisë dhe shoqat
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Neni 2 | [neni-002-2.md](neni-002-2.md) | 0 |  |
 
-Act id: `ligji-9146-2003` (tags `ligji-9146-2003/<day>`; `python tools/on.py <day> ligji-9146-2003`).
+Act id: `ligji-9146-2003` (tags `ligji-9146-2003/<day>`; `python registry/tools/on.py <day> ligji-9146-2003`).
 
 ## Decisions made by hand
 

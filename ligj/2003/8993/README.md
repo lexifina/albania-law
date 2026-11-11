@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “konventën për themelimin e orga
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2003-8993` (tags `ligj-2003-8993/<day>`; `python tools/on.py <day> ligj-2003-8993`).
+Act id: `ligj-2003-8993` (tags `ligj-2003-8993/<day>`; `python registry/tools/on.py <day> ligj-2003-8993`).
 
 ## Decisions made by hand
 

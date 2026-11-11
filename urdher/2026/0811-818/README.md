@@ -5,7 +5,7 @@ Disa masa mbrojtëse ndaj sëmundjes së lisë së gjuhës blu të shfaqur në s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2026-0811-818` (tags `urdher-2026-0811-818/<day>`; `python tools/on.py <day> urdher-2026-0811-818`).
+Act id: `urdher-2026-0811-818` (tags `urdher-2026-0811-818/<day>`; `python registry/tools/on.py <day> urdher-2026-0811-818`).
 
 ## Decisions made by hand
 

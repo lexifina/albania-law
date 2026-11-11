@@ -14,7 +14,7 @@ Disa shtesa dhe ndryshime në udhëzimin nr. 1, datë 19.2.2018, “për kritere
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-0621-11` (tags `udhezim-2018-0621-11/<day>`; `python tools/on.py <day> udhezim-2018-0621-11`).
+Act id: `udhezim-2018-0621-11` (tags `udhezim-2018-0621-11/<day>`; `python registry/tools/on.py <day> udhezim-2018-0621-11`).
 
 ## Decisions made by hand
 

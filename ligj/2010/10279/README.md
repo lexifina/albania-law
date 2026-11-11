@@ -65,7 +65,7 @@ Kundërvajtjet administrative · 1 versions, from 2010-07-14 (latest in force: 2
 | Neni 51 | [neni-051.md](neni-051.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10279-2010` (tags `ligji-10279-2010/<day>`; `python tools/on.py <day> ligji-10279-2010`).
+Act id: `ligji-10279-2010` (tags `ligji-10279-2010/<day>`; `python registry/tools/on.py <day> ligji-10279-2010`).
 
 ## Decisions made by hand
 

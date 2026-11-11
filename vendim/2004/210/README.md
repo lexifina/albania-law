@@ -13,7 +13,7 @@ Programin pilot të delegimit të funksionit të investimeve për vitin 2004, p�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-210` (tags `vendim-2004-210/<day>`; `python tools/on.py <day> vendim-2004-210`).
+Act id: `vendim-2004-210` (tags `vendim-2004-210/<day>`; `python registry/tools/on.py <day> vendim-2004-210`).
 
 ## Decisions made by hand
 

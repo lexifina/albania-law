@@ -25,7 +25,16 @@ Projektimin, ndërtimin, shfrytëzimin dhe mirëmbajtjen e digave dhe dambave ·
 | Neni 14 | [neni-014.md](neni-014.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8681` (tags `ligj-2000-8681/<day>`; `python tools/on.py <day> ligj-2000-8681`).
+Act id: `ligj-2000-8681` (tags `ligj-2000-8681/<day>`; `python registry/tools/on.py <day> ligj-2000-8681`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 406, datë 19.6.2019: Për strukturat e Komitetit Kombëtar të Digave të Mëdha (KKDM)](https://qbz.gov.al/eli/vendim/2019/06/19/406)
+- [Ligji nr. 18/2013: Për disa shtesa dhe ndryshime në ligjin nr. 8681, datë 2.11.2000 “Për projektimin, ndërtimin, shfrytëzimin dhe mirëmbajtjen e digave dhe dambave”](https://qbz.gov.al/eli/ligj/2013/02/14/18-2013)
 
 ## Decisions made by hand
 

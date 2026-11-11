@@ -11,7 +11,7 @@ Rritjen e masës së shpërblimit të veteranëve të luftës antifashiste nacio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2007-355` (tags `vendim-2007-355/<day>`; `python tools/on.py <day> vendim-2007-355`).
+Act id: `vendim-2007-355` (tags `vendim-2007-355/<day>`; `python registry/tools/on.py <day> vendim-2007-355`).
 
 ## Decisions made by hand
 

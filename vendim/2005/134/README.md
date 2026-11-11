@@ -16,7 +16,7 @@ Ngritjen e sekretariatit të komitetit koordinues të ministErialit të mbrojtje
 | Pika 9 | [pika-009.md](pika-009.md) | 1 | 2005-12-31 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-134` (tags `vendim-2005-134/<day>`; `python tools/on.py <day> vendim-2005-134`).
+Act id: `vendim-2005-134` (tags `vendim-2005-134/<day>`; `python registry/tools/on.py <day> vendim-2005-134`).
 
 ## Decisions made by hand
 

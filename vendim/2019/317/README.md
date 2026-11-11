@@ -11,7 +11,7 @@ Miratimin e rregullave për përdorimin e qëndrueshëm të produkteve për mbro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-04-15 |
 
-Act id: `vendim-2019-317` (tags `vendim-2019-317/<day>`; `python tools/on.py <day> vendim-2019-317`).
+Act id: `vendim-2019-317` (tags `vendim-2019-317/<day>`; `python registry/tools/on.py <day> vendim-2019-317`).
 
 ## Decisions made by hand
 

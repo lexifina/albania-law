@@ -11,7 +11,11 @@ Kalimin e përgjegjësisë së administrimit, nga ministria e punëve publike dh
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-714` (tags `vendim-2011-714/<day>`; `python tools/on.py <day> vendim-2011-714`).
+Act id: `vendim-2011-714` (tags `vendim-2011-714/<day>`; `python registry/tools/on.py <day> vendim-2011-714`).
+
+## Status
+
+**first version is a later consolidated text**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
 
 ## Decisions made by hand
 

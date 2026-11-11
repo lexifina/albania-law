@@ -5,7 +5,7 @@ Përcaktimin e kritereve, të procedurës dhe të mënyrës së dhënies me qira
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-529` (tags `vendim-2011-529/<day>`; `python tools/on.py <day> vendim-2011-529`).
+Act id: `vendim-2011-529` (tags `vendim-2011-529/<day>`; `python registry/tools/on.py <day> vendim-2011-529`).
 
 ## Decisions made by hand
 

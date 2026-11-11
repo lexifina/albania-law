@@ -5,7 +5,7 @@ Disa ndryshime në ligjin nr. 7664, datë 21.1.1993, “për mbrojtjen e mjedisi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2001-8825` (tags `ligj-2001-8825/<day>`; `python tools/on.py <day> ligj-2001-8825`).
+Act id: `ligj-2001-8825` (tags `ligj-2001-8825/<day>`; `python registry/tools/on.py <day> ligj-2001-8825`).
 
 ## Decisions made by hand
 

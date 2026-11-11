@@ -13,7 +13,7 @@ Miratimin e pjesëmarrjes së këshillit të ministrave, si bashkëthemelues në
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-65` (tags `vendim-2017-65/<day>`; `python tools/on.py <day> vendim-2017-65`).
+Act id: `vendim-2017-65` (tags `vendim-2017-65/<day>`; `python registry/tools/on.py <day> vendim-2017-65`).
 
 ## Decisions made by hand
 

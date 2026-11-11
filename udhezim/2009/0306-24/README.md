@@ -9,7 +9,7 @@ Përcaktimin e ekstremiteteve të pullave të sigurisë · 1 versions, from 2009
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0306-24` (tags `udhezim-2009-0306-24/<day>`; `python tools/on.py <day> udhezim-2009-0306-24`).
+Act id: `udhezim-2009-0306-24` (tags `udhezim-2009-0306-24/<day>`; `python registry/tools/on.py <day> udhezim-2009-0306-24`).
 
 ## Decisions made by hand
 

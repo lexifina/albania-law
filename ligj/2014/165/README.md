@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndryshuese të marrëveshjes së huas nr. alb-0028 n
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2014-165` (tags `ligj-2014-165/<day>`; `python tools/on.py <day> ligj-2014-165`).
+Act id: `ligj-2014-165` (tags `ligj-2014-165/<day>`; `python registry/tools/on.py <day> ligj-2014-165`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,15 @@ Mbi zbatimin e vendimit nr. 870, datë 14.12.2011, të Këshillit të Ministrave
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0710-22` (tags `udhezim-2013-0710-22/<day>`; `python tools/on.py <day> udhezim-2013-0710-22`).
+Act id: `udhezim-2013-0710-22` (tags `udhezim-2013-0710-22/<day>`; `python registry/tools/on.py <day> udhezim-2013-0710-22`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 14, datë 25.6.2025 (Ministria e Financave) [QBZ 30670]: Për një ndryshim në udhëzimin nr.22, datë 10.7.2013, ”Mbi zbatimin e vendimit nr.870, datë 14.12.2011 të Këshillit të Ministrave ”Për trajtimin financiar të punonjësve që dërgohen me shërbim jashtë vendit”](https://qbz.gov.al/eli/udhezim/2025/06/25/14)
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Kufijtë e tolerancës · 1 versions, from 2023-05-19 (latest in force: 2023-05-
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0413-227` (tags `urdher-2023-0413-227/<day>`; `python tools/on.py <day> urdher-2023-0413-227`).
+Act id: `urdher-2023-0413-227` (tags `urdher-2023-0413-227/<day>`; `python registry/tools/on.py <day> urdher-2023-0413-227`).
 
 ## Decisions made by hand
 

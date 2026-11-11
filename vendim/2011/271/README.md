@@ -22,7 +22,15 @@ Veprimtarinë akademike, në zbatimin e programit të formimit fillestar dhe vaz
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-271` (tags `vendim-2011-271/<day>`; `python tools/on.py <day> vendim-2011-271`).
+Act id: `vendim-2011-271` (tags `vendim-2011-271/<day>`; `python registry/tools/on.py <day> vendim-2011-271`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendim nr. 757, datë 16.9.2015 (Kuvendi i Shqipërisë): Për disa shtesa dhe ndryshime në vendimin nr. 271, datë 6.4.2011, të Këshillit të Ministrave, “Për veprimtarinë akademike në zbatimin e programit të formimit fillestar dhe vazhdues në Shkollën e Magjistraturës](https://qbz.gov.al/eli/vendim/2015/09/16/757)
 
 ## Decisions made by hand
 

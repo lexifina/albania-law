@@ -18,7 +18,15 @@ Shpronësimin, për interes publik, të pronarëve pasurive të paluajtshme, pro
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-541` (tags `vendim-2013-541/<day>`; `python tools/on.py <day> vendim-2013-541`).
+Act id: `vendim-2013-541` (tags `vendim-2013-541/<day>`; `python registry/tools/on.py <day> vendim-2013-541`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 48, datë 29.1.2014: Për disa ndryshime në vendimin nr. 541, datë 13.6.2013 të këshillit të ministrave “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i landfillit “bajkaj””](https://qbz.gov.al/eli/vendim/2014/01/29/48)
 
 ## Decisions made by hand
 

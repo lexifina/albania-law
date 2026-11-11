@@ -12,7 +12,7 @@ Caktimin e anëtarëve të Komisionit Ndërkombëtar të Vlerësimit për tender
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-526` (tags `vendim-2006-526/<day>`; `python tools/on.py <day> vendim-2006-526`).
+Act id: `vendim-2006-526` (tags `vendim-2006-526/<day>`; `python registry/tools/on.py <day> vendim-2006-526`).
 
 ## Decisions made by hand
 

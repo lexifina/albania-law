@@ -11,7 +11,7 @@ Rritjen e masës së shpërblimit të veteranëve të Luftës Antifashiste Nacio
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-513` (tags `vendim-2005-513/<day>`; `python tools/on.py <day> vendim-2005-513`).
+Act id: `vendim-2005-513` (tags `vendim-2005-513/<day>`; `python registry/tools/on.py <day> vendim-2005-513`).
 
 ## Decisions made by hand
 

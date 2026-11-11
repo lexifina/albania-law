@@ -10,7 +10,7 @@ Miratimin e planit të veprimit të strategjisë ndërsektoriale “Agjenda Digj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-1081` (tags `vendim-2020-1081/<day>`; `python tools/on.py <day> vendim-2020-1081`).
+Act id: `vendim-2020-1081` (tags `vendim-2020-1081/<day>`; `python registry/tools/on.py <day> vendim-2020-1081`).
 
 ## Decisions made by hand
 

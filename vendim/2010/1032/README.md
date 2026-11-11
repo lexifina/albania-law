@@ -12,7 +12,7 @@ Ndryshimin e përgjegjësisë së administrimit të ndërtesave të ish-ndërmar
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-1032` (tags `vendim-2010-1032/<day>`; `python tools/on.py <day> vendim-2010-1032`).
+Act id: `vendim-2010-1032` (tags `vendim-2010-1032/<day>`; `python registry/tools/on.py <day> vendim-2010-1032`).
 
 ## Decisions made by hand
 

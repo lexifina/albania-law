@@ -5,7 +5,7 @@ Kriteret dhe rregullat e shfrytëzimit të pyjeve dhe të shitjes së materialit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-438` (tags `vendim-2016-438/<day>`; `python tools/on.py <day> vendim-2016-438`).
+Act id: `vendim-2016-438` (tags `vendim-2016-438/<day>`; `python registry/tools/on.py <day> vendim-2016-438`).
 
 ## Decisions made by hand
 

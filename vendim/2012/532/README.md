@@ -9,7 +9,7 @@ Heqjen e licencës së kolegjit profesional privat “luigj benussi” · 1 vers
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-532` (tags `vendim-2012-532/<day>`; `python tools/on.py <day> vendim-2012-532`).
+Act id: `vendim-2012-532` (tags `vendim-2012-532/<day>`; `python registry/tools/on.py <day> vendim-2012-532`).
 
 ## Decisions made by hand
 

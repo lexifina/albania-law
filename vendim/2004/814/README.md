@@ -16,7 +16,7 @@ Normat e strehimit për familjet që përfitojnë nga programet sociale të stre
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2004-814` (tags `vendim-2004-814/<day>`; `python tools/on.py <day> vendim-2004-814`).
+Act id: `vendim-2004-814` (tags `vendim-2004-814/<day>`; `python registry/tools/on.py <day> vendim-2004-814`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Ngarkimin e Ministrisë së Punëve të Brendshme për kryerjen e procedurave p�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-28` (tags `vendim-2015-28/<day>`; `python tools/on.py <day> vendim-2015-28`).
+Act id: `vendim-2015-28` (tags `vendim-2015-28/<day>`; `python registry/tools/on.py <day> vendim-2015-28`).
 
 ## Decisions made by hand
 

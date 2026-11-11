@@ -5,7 +5,7 @@ Kriteret e vlerësimit të ofertave për privatizimin e “Armo” shA Fier · 2
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-426` (tags `vendim-2004-426/<day>`; `python tools/on.py <day> vendim-2004-426`).
+Act id: `vendim-2004-426` (tags `vendim-2004-426/<day>`; `python registry/tools/on.py <day> vendim-2004-426`).
 
 ## Decisions made by hand
 

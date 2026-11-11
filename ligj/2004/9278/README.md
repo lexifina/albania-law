@@ -11,7 +11,7 @@ Ratifikimin e konventës nr.173 të organizatës ndërkombëtare të punës “m
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9278` (tags `ligj-2004-9278/<day>`; `python tools/on.py <day> ligj-2004-9278`).
+Act id: `ligj-2004-9278` (tags `ligj-2004-9278/<day>`; `python registry/tools/on.py <day> ligj-2004-9278`).
 
 ## Decisions made by hand
 

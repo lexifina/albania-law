@@ -9,7 +9,7 @@ Standardizimin dhe disiplinimin e shpenzimeve të karburantit në njësitë e qe
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-561` (tags `vendim-2016-561/<day>`; `python tools/on.py <day> vendim-2016-561`).
+Act id: `vendim-2016-561` (tags `vendim-2016-561/<day>`; `python registry/tools/on.py <day> vendim-2016-561`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Rishpërndarje fondesh brenda programeve të miratuara për Ministrinë e Arsimi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-268` (tags `vendim-2013-268/<day>`; `python tools/on.py <day> vendim-2013-268`).
+Act id: `vendim-2013-268` (tags `vendim-2013-268/<day>`; `python registry/tools/on.py <day> vendim-2013-268`).
 
 ## Decisions made by hand
 

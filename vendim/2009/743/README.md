@@ -5,7 +5,7 @@ Dhënien e licencës për hapjen e institucionit arsimor privat parauniversitar,
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-743` (tags `vendim-2009-743/<day>`; `python tools/on.py <day> vendim-2009-743`).
+Act id: `vendim-2009-743` (tags `vendim-2009-743/<day>`; `python registry/tools/on.py <day> vendim-2009-743`).
 
 ## Decisions made by hand
 

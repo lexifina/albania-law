@@ -10,7 +10,7 @@ Miratimin e Strategjisë Afatmesme të Menaxhimit të Borxhit 2022-2026 · 1 ver
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-534` (tags `vendim-2022-534/<day>`; `python tools/on.py <day> vendim-2022-534`).
+Act id: `vendim-2022-534` (tags `vendim-2022-534/<day>`; `python registry/tools/on.py <day> vendim-2022-534`).
 
 ## Decisions made by hand
 

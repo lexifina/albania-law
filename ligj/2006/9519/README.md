@@ -10,7 +10,7 @@ Një shtesë dhe ndryshim në ligjin nr.8464, datë 11.3.1999 “Për standardiz
 | Neni 3 | [neni-003.md](neni-003.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2006-9519` (tags `ligj-2006-9519/<day>`; `python tools/on.py <day> ligj-2006-9519`).
+Act id: `ligj-2006-9519` (tags `ligj-2006-9519/<day>`; `python registry/tools/on.py <day> ligj-2006-9519`).
 
 ## Decisions made by hand
 

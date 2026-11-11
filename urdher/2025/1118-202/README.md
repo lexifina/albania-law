@@ -10,7 +10,7 @@ Delegimin e kompetencës për nënshkrimin e certifikatave të Kategorizimit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1118-202` (tags `urdher-2025-1118-202/<day>`; `python tools/on.py <day> urdher-2025-1118-202`).
+Act id: `urdher-2025-1118-202` (tags `urdher-2025-1118-202/<day>`; `python registry/tools/on.py <day> urdher-2025-1118-202`).
 
 ## Decisions made by hand
 

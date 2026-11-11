@@ -17,7 +17,7 @@ Përcaktimin e procedurave të bashkëpunimit për mbikëqyrjen e personave të 
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2022-0506-196` (tags `urdher-2022-0506-196/<day>`; `python tools/on.py <day> urdher-2022-0506-196`).
+Act id: `urdher-2022-0506-196` (tags `urdher-2022-0506-196/<day>`; `python registry/tools/on.py <day> urdher-2022-0506-196`).
 
 ## Decisions made by hand
 

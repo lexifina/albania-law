@@ -26,7 +26,7 @@ Komunitetet e energjisë së rinovueshme · 1 versions, from 2026-07-28 (latest 
 | Pika 18 | [pika-018.md](pika-018.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0629-4` (tags `udhezim-2026-0629-4/<day>`; `python tools/on.py <day> udhezim-2026-0629-4`).
+Act id: `udhezim-2026-0629-4` (tags `udhezim-2026-0629-4/<day>`; `python registry/tools/on.py <day> udhezim-2026-0629-4`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Mënyrat dhe procedurat e dhënies me qira të pasurive të paluajtshme të seku
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-0227-12` (tags `udhezim-2008-0227-12/<day>`; `python tools/on.py <day> udhezim-2008-0227-12`).
+Act id: `udhezim-2008-0227-12` (tags `udhezim-2008-0227-12/<day>`; `python registry/tools/on.py <day> udhezim-2008-0227-12`).
 
 ## Decisions made by hand
 

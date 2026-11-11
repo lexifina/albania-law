@@ -9,7 +9,7 @@ Rishpërndarje fondesh në buxhetin e vitit 2013, miratuar për Ministrinë e Bu
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-1041` (tags `vendim-2013-1041/<day>`; `python tools/on.py <day> vendim-2013-1041`).
+Act id: `vendim-2013-1041` (tags `vendim-2013-1041/<day>`; `python registry/tools/on.py <day> vendim-2013-1041`).
 
 ## Decisions made by hand
 

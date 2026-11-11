@@ -8,7 +8,7 @@ Shkarkimin nga detyra të kryetarit të komunës trebinjë të qarkut të korç�
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-526` (tags `vendim-2010-526/<day>`; `python tools/on.py <day> vendim-2010-526`).
+Act id: `vendim-2010-526` (tags `vendim-2010-526/<day>`; `python registry/tools/on.py <day> vendim-2010-526`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Parandalimin e pastrimit të parave dhe luftës për financimin e terrorizmit n�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0216-15` (tags `udhezim-2009-0216-15/<day>`; `python tools/on.py <day> udhezim-2009-0216-15`).
+Act id: `udhezim-2009-0216-15` (tags `udhezim-2009-0216-15/<day>`; `python registry/tools/on.py <day> udhezim-2009-0216-15`).
 
 ## Decisions made by hand
 

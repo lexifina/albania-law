@@ -32,7 +32,7 @@ Përcaktimin e procedurave të privatizimit të banesave dhe objekteve të kthye
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2015-614` (tags `vendim-2015-614/<day>`; `python tools/on.py <day> vendim-2015-614`).
+Act id: `vendim-2015-614` (tags `vendim-2015-614/<day>`; `python registry/tools/on.py <day> vendim-2015-614`).
 
 ## Decisions made by hand
 

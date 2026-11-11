@@ -19,7 +19,7 @@ Përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2020-09-14 |
 
-Act id: `vendim-2020-47` (tags `vendim-2020-47/<day>`; `python tools/on.py <day> vendim-2020-47`).
+Act id: `vendim-2020-47` (tags `vendim-2020-47/<day>`; `python registry/tools/on.py <day> vendim-2020-47`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Hapjen e shkollës së lartë universitare publike “Universiteti i Beratit” 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-547` (tags `vendim-2005-547/<day>`; `python tools/on.py <day> vendim-2005-547`).
+Act id: `vendim-2005-547` (tags `vendim-2005-547/<day>`; `python registry/tools/on.py <day> vendim-2005-547`).
 
 ## Decisions made by hand
 

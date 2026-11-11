@@ -17,7 +17,7 @@ Mbi masat për pezullimin e përkohshëm të qarkullimit të mjeteve të transpo
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2007-0607-4211` (tags `urdher-2007-0607-4211/<day>`; `python tools/on.py <day> urdher-2007-0607-4211`).
+Act id: `urdher-2007-0607-4211` (tags `urdher-2007-0607-4211/<day>`; `python registry/tools/on.py <day> urdher-2007-0607-4211`).
 
 ## Decisions made by hand
 

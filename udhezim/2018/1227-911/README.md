@@ -12,7 +12,7 @@ Miratimin e standardeve të ofrimit të shërbimeve të kujdesit shoqëror në q
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1227-911` (tags `udhezim-2018-1227-911/<day>`; `python tools/on.py <day> udhezim-2018-1227-911`).
+Act id: `udhezim-2018-1227-911` (tags `udhezim-2018-1227-911/<day>`; `python registry/tools/on.py <day> udhezim-2018-1227-911`).
 
 ## Decisions made by hand
 

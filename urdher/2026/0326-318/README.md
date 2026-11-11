@@ -14,7 +14,7 @@ Ndalimin e peshkimit në liqenet e Prespës, Fierzës, Ulzës dhe Shkopetit · 1
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2026-0326-318` (tags `urdher-2026-0326-318/<day>`; `python tools/on.py <day> urdher-2026-0326-318`).
+Act id: `urdher-2026-0326-318` (tags `urdher-2026-0326-318/<day>`; `python registry/tools/on.py <day> urdher-2026-0326-318`).
 
 ## Decisions made by hand
 

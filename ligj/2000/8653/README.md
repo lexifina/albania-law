@@ -5,7 +5,7 @@ Ndarjen administrativo-territoriale të njësive të qeverisjes vendore në repu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2000-8653` (tags `ligj-2000-8653/<day>`; `python tools/on.py <day> ligj-2000-8653`).
+Act id: `ligj-2000-8653` (tags `ligj-2000-8653/<day>`; `python registry/tools/on.py <day> ligj-2000-8653`).
 
 ## Decisions made by hand
 

@@ -31,7 +31,7 @@ Regjistrin e pronarëve përfitues · 3 versions, from 2020-08-28 (latest in for
 | Neni 17 | [neni-017.md](neni-017.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-112` (tags `ligj-2020-112/<day>`; `python tools/on.py <day> ligj-2020-112`).
+Act id: `ligj-2020-112` (tags `ligj-2020-112/<day>`; `python registry/tools/on.py <day> ligj-2020-112`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën europiane “për trajtim
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9925` (tags `ligj-2008-9925/<day>`; `python tools/on.py <day> ligj-2008-9925`).
+Act id: `ligj-2008-9925` (tags `ligj-2008-9925/<day>`; `python registry/tools/on.py <day> ligj-2008-9925`).
 
 ## Decisions made by hand
 

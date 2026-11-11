@@ -21,7 +21,7 @@ Mbi përcaktimin e kushteve të përdorimit të varrezave publike, mënyrës së
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2004-1217-8` (tags `udhezim-2004-1217-8/<day>`; `python tools/on.py <day> udhezim-2004-1217-8`).
+Act id: `udhezim-2004-1217-8` (tags `udhezim-2004-1217-8/<day>`; `python registry/tools/on.py <day> udhezim-2004-1217-8`).
 
 ## Decisions made by hand
 

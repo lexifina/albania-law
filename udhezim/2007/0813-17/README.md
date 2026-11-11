@@ -21,7 +21,7 @@ Mënyrën e organizimit dhe funksionimit të inspektoratit ndërtimor e urbanist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0813-17` (tags `udhezim-2007-0813-17/<day>`; `python tools/on.py <day> udhezim-2007-0813-17`).
+Act id: `udhezim-2007-0813-17` (tags `udhezim-2007-0813-17/<day>`; `python registry/tools/on.py <day> udhezim-2007-0813-17`).
 
 ## Decisions made by hand
 

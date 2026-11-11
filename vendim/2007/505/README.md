@@ -5,7 +5,7 @@ Miratimin e statutit të qendrës kombëtare të regjistrimit · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-505` (tags `vendim-2007-505/<day>`; `python tools/on.py <day> vendim-2007-505`).
+Act id: `vendim-2007-505` (tags `vendim-2007-505/<day>`; `python registry/tools/on.py <day> vendim-2007-505`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 16.8.2012, të kë
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-87` (tags `ligj-2012-87/<day>`; `python tools/on.py <day> ligj-2012-87`).
+Act id: `ligj-2012-87` (tags `ligj-2012-87/<day>`; `python registry/tools/on.py <day> ligj-2012-87`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e dokumentit të ndryshimit nr. 2 të kontratës financiare ndërmje
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2015-70` (tags `ligj-2015-70/<day>`; `python tools/on.py <day> ligj-2015-70`).
+Act id: `ligj-2015-70` (tags `ligj-2015-70/<day>`; `python registry/tools/on.py <day> ligj-2015-70`).
 
 ## Decisions made by hand
 

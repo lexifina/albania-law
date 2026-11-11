@@ -16,7 +16,7 @@ Përcaktimin e formës së regjistrave dhe modularëve, si dhe mënyrën e mbajt
 | Neni 9 | [neni-009.md](neni-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2025-0128-20` (tags `udhezim-2025-0128-20/<day>`; `python tools/on.py <day> udhezim-2025-0128-20`).
+Act id: `udhezim-2025-0128-20` (tags `udhezim-2025-0128-20/<day>`; `python registry/tools/on.py <day> udhezim-2025-0128-20`).
 
 ## Decisions made by hand
 

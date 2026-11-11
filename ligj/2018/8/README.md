@@ -10,7 +10,7 @@ Ratifikimin e traktatit që themelon komunitetin e transportit · 1 versions, fr
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-8` (tags `ligj-2018-8/<day>`; `python tools/on.py <day> ligj-2018-8`).
+Act id: `ligj-2018-8` (tags `ligj-2018-8/<day>`; `python registry/tools/on.py <day> ligj-2018-8`).
 
 ## Decisions made by hand
 

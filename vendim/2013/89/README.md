@@ -18,7 +18,7 @@ Përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të mas
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-89` (tags `vendim-2013-89/<day>`; `python tools/on.py <day> vendim-2013-89`).
+Act id: `vendim-2013-89` (tags `vendim-2013-89/<day>`; `python registry/tools/on.py <day> vendim-2013-89`).
 
 ## Decisions made by hand
 

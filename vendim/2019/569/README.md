@@ -22,7 +22,7 @@ Miratimin e kompetencave, mënyrën e organizimit dhe të funksionimit të Agjen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2023-12-12 |
 
-Act id: `vendim-2019-569` (tags `vendim-2019-569/<day>`; `python tools/on.py <day> vendim-2019-569`).
+Act id: `vendim-2019-569` (tags `vendim-2019-569/<day>`; `python registry/tools/on.py <day> vendim-2019-569`).
 
 ## Decisions made by hand
 

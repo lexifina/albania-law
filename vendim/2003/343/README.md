@@ -9,7 +9,7 @@ Blerje karburanti për automjete dhe për ngrohje qendrore, nga Ministritë, ins
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-343` (tags `vendim-2003-343/<day>`; `python tools/on.py <day> vendim-2003-343`).
+Act id: `vendim-2003-343` (tags `vendim-2003-343/<day>`; `python registry/tools/on.py <day> vendim-2003-343`).
 
 ## Decisions made by hand
 

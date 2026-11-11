@@ -42,7 +42,7 @@ Kontrollin e lëndëve që përdoren për fabrikimin e paligjshëm të lëndëve
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-03-07 |
 
-Act id: `ligj-2002-8874` (tags `ligj-2002-8874/<day>`; `python tools/on.py <day> ligj-2002-8874`).
+Act id: `ligj-2002-8874` (tags `ligj-2002-8874/<day>`; `python registry/tools/on.py <day> ligj-2002-8874`).
 
 ## Decisions made by hand
 

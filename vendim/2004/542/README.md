@@ -5,7 +5,7 @@ Statusin e ushtarakut me gradë madhore të forcave të armatosura pas daljes n�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-542` (tags `vendim-2004-542/<day>`; `python tools/on.py <day> vendim-2004-542`).
+Act id: `vendim-2004-542` (tags `vendim-2004-542/<day>`; `python registry/tools/on.py <day> vendim-2004-542`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Shpalljen ”rezervat natyror i menaxhuar” të ekosistemit natyror ligatinor t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-995` (tags `vendim-2010-995/<day>`; `python tools/on.py <day> vendim-2010-995`).
+Act id: `vendim-2010-995` (tags `vendim-2010-995/<day>`; `python registry/tools/on.py <day> vendim-2010-995`).
 
 ## Decisions made by hand
 

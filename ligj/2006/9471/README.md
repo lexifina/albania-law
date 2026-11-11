@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.5, datë 28.12.2005 të Kës
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9471-2006` (tags `ligji-9471-2006/<day>`; `python tools/on.py <day> ligji-9471-2006`).
+Act id: `ligji-9471-2006` (tags `ligji-9471-2006/<day>`; `python registry/tools/on.py <day> ligji-9471-2006`).
 
 ## Decisions made by hand
 

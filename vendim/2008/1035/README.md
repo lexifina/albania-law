@@ -9,7 +9,17 @@ Caktimin e tarifës së licencimit të subjekteve, nga ministria e punëve publi
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-1035` (tags `vendim-2008-1035/<day>`; `python tools/on.py <day> vendim-2008-1035`).
+Act id: `vendim-2008-1035` (tags `vendim-2008-1035/<day>`; `python registry/tools/on.py <day> vendim-2008-1035`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1123, datë 13.11.2009: Për një ndryshim dhe shtesë në vendimin nr.1035, datë 9.7.2008 të këshillit të ministrave “për caktimin e tarifës së licencimit të subjekteve, nga ministria e punëve publike, transportit dhe telekomunikacionit, në fushën e punimeve të ndërtimit dhe transportit”](https://qbz.gov.al/eli/vendim/2009/11/13/1123)
+- [Udhëzimi nr. 8, datë 19.12.2019 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 20957]: Për kriteret, rregullat dhe dokumentacionin për lëshimin e licencave, autorizimeve dhe certifikatave për ushtrimin e veprimtarisë në transportin ndërkombëtar rrugor të udhëtarëve](https://qbz.gov.al/eli/udhezim/2019/12/19/8)
+- [Udhëzimi nr. 8, datë 31.12.2020 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 22550]: Për kriteret, rregullat dhe dokumentacionin për lëshimin e licencave dhe të certifikatave për ushtrimin e veprimtarisë në transportin ndërkombëtar rrugor të mallrave](https://qbz.gov.al/eli/udhezim/2020/12/31/8)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Detyrimin e mjekëve, që duan të specializohen · 2 versions, from 2000-10-23 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-513` (tags `vendim-2000-513/<day>`; `python tools/on.py <day> vendim-2000-513`).
+Act id: `vendim-2000-513` (tags `vendim-2000-513/<day>`; `python registry/tools/on.py <day> vendim-2000-513`).
 
 ## Decisions made by hand
 

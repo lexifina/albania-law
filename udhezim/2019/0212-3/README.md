@@ -5,7 +5,7 @@ Zhvillimin e testimit të nxënësve të klasave të bashkuara II-IX të arsimit
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0212-3` (tags `udhezim-2019-0212-3/<day>`; `python tools/on.py <day> udhezim-2019-0212-3`).
+Act id: `udhezim-2019-0212-3` (tags `udhezim-2019-0212-3/<day>`; `python registry/tools/on.py <day> udhezim-2019-0212-3`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Delegimin e kompetencave dhe caktimin e detyrave të zëvendësministrit të Eko
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1114-52` (tags `urdher-2025-1114-52/<day>`; `python tools/on.py <day> urdher-2025-1114-52`).
+Act id: `urdher-2025-1114-52` (tags `urdher-2025-1114-52/<day>`; `python registry/tools/on.py <day> urdher-2025-1114-52`).
 
 ## Decisions made by hand
 

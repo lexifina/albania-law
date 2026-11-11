@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr.5, datë 6.10.2000 “për t
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2000-8686` (tags `ligj-2000-8686/<day>`; `python tools/on.py <day> ligj-2000-8686`).
+Act id: `ligj-2000-8686` (tags `ligj-2000-8686/<day>`; `python registry/tools/on.py <day> ligj-2000-8686`).
 
 ## Decisions made by hand
 

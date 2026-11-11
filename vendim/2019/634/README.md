@@ -21,7 +21,15 @@ Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-634` (tags `vendim-2019-634/<day>`; `python tools/on.py <day> vendim-2019-634`).
+Act id: `vendim-2019-634` (tags `vendim-2019-634/<day>`; `python registry/tools/on.py <day> vendim-2019-634`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 841, datë 28.10.2020: Për disa ndryshime në vendimin nr. 634, datë 25.9.2019, të Këshillit të Ministrave, “Për shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit mbi pasuritë e paluajtshme, të cilat preken nga punimet për testimin me ujë të tubacionit dhe përfundimi i punimeve, pjesë e projektit të gazsjellësit Trans Adriatic Pipeline (projekti TAP), në zonat Berat, Skrapar, Fier, Lushnjë, Devoll dhe Korçë”](https://qbz.gov.al/eli/vendim/2020/10/28/841)
 
 ## Decisions made by hand
 

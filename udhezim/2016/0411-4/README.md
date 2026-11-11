@@ -15,7 +15,7 @@ Zhvillimin e vlerësimit të arritjeve të nxënësve të arsimit fillor 2016 ·
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0411-4` (tags `udhezim-2016-0411-4/<day>`; `python tools/on.py <day> udhezim-2016-0411-4`).
+Act id: `udhezim-2016-0411-4` (tags `udhezim-2016-0411-4/<day>`; `python registry/tools/on.py <day> udhezim-2016-0411-4`).
 
 ## Decisions made by hand
 

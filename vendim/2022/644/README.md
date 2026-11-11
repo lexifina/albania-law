@@ -9,7 +9,7 @@ Miratimin e marrëveshjes për bashkëpunim në fushën e njohjes së ndërsjell
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2022-644` (tags `vendim-2022-644/<day>`; `python tools/on.py <day> vendim-2022-644`).
+Act id: `vendim-2022-644` (tags `vendim-2022-644/<day>`; `python registry/tools/on.py <day> vendim-2022-644`).
 
 ## Decisions made by hand
 

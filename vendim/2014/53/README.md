@@ -5,7 +5,7 @@ Përcaktimin e marzheve të fabrikimit dhe të tregtimit të barnave · 2 versio
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-53` (tags `vendim-2014-53/<day>`; `python tools/on.py <day> vendim-2014-53`).
+Act id: `vendim-2014-53` (tags `vendim-2014-53/<day>`; `python registry/tools/on.py <day> vendim-2014-53`).
 
 ## Decisions made by hand
 

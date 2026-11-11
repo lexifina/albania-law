@@ -14,7 +14,7 @@ Licencimin e kolegjit profesional privat “ dentarium-al” · 1 versions, from
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-73` (tags `vendim-2009-73/<day>`; `python tools/on.py <day> vendim-2009-73`).
+Act id: `vendim-2009-73` (tags `vendim-2009-73/<day>`; `python registry/tools/on.py <day> vendim-2009-73`).
 
 ## Decisions made by hand
 

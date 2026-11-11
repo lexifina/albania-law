@@ -24,7 +24,7 @@ Miratimin e primit të sigurimit të detyrueshëm të mbajtësve të mjeteve mot
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2005-0325-11` (tags `urdher-2005-0325-11/<day>`; `python tools/on.py <day> urdher-2005-0325-11`).
+Act id: `urdher-2005-0325-11` (tags `urdher-2005-0325-11/<day>`; `python registry/tools/on.py <day> urdher-2005-0325-11`).
 
 ## Decisions made by hand
 

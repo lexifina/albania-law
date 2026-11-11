@@ -21,7 +21,7 @@ Faljen e detyrimeve doganore dhe tatimore, të detyrimeve të prapambetura të t
 | Neni 10 | [neni-010.md](neni-010.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-9986-2008` (tags `ligji-9986-2008/<day>`; `python tools/on.py <day> ligji-9986-2008`).
+Act id: `ligji-9986-2008` (tags `ligji-9986-2008/<day>`; `python registry/tools/on.py <day> ligji-9986-2008`).
 
 ## Decisions made by hand
 

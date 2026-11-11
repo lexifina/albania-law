@@ -8,7 +8,7 @@ Zgjidhjen e ankesave të votuesve që nuk figurojnë të regjistruar · 1 versio
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2001-0531-42` (tags `udhezim-2001-0531-42/<day>`; `python tools/on.py <day> udhezim-2001-0531-42`).
+Act id: `udhezim-2001-0531-42` (tags `udhezim-2001-0531-42/<day>`; `python registry/tools/on.py <day> udhezim-2001-0531-42`).
 
 ## Decisions made by hand
 

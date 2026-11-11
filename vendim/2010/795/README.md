@@ -27,7 +27,15 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-795` (tags `vendim-2010-795/<day>`; `python tools/on.py <day> vendim-2010-795`).
+Act id: `vendim-2010-795` (tags `vendim-2010-795/<day>`; `python registry/tools/on.py <day> vendim-2010-795`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 896, datë 10.11.2010: Për disa ndryshime në vendimin nr.795, datë 6.10.2010 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve “master profesional”, për vitin akademik 2010-2011”](https://qbz.gov.al/eli/vendim/2010/11/10/896)
 
 ## Decisions made by hand
 

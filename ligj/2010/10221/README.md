@@ -57,7 +57,7 @@ Mbrojtjen nga diskriminimi · 3 versions, from 2010-03-12 (latest in force: 2026
 | Neni 40 | [neni-040.md](neni-040.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10221` (tags `ligj-2010-10221/<day>`; `python tools/on.py <day> ligj-2010-10221`).
+Act id: `ligj-2010-10221` (tags `ligj-2010-10221/<day>`; `python registry/tools/on.py <day> ligj-2010-10221`).
 
 ## Decisions made by hand
 

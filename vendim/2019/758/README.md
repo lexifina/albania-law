@@ -9,7 +9,7 @@ Dhënie trajtimi të veçantë financiar z. Albert Cara · 1 versions, from 2019
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2019-758` (tags `vendim-2019-758/<day>`; `python tools/on.py <day> vendim-2019-758`).
+Act id: `vendim-2019-758` (tags `vendim-2019-758/<day>`; `python registry/tools/on.py <day> vendim-2019-758`).
 
 ## Decisions made by hand
 

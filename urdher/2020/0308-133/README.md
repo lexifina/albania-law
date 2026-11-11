@@ -11,7 +11,7 @@ Kufizimin e lëvizjes së shoqëruesve dhe/ose familjarëve të pacientëve nëp
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2020-0308-133` (tags `urdher-2020-0308-133/<day>`; `python tools/on.py <day> urdher-2020-0308-133`).
+Act id: `urdher-2020-0308-133` (tags `urdher-2020-0308-133/<day>`; `python registry/tools/on.py <day> urdher-2020-0308-133`).
 
 ## Decisions made by hand
 

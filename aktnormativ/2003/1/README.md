@@ -11,7 +11,16 @@ Vënien në dispozicion të hapësirës tokësore, detare e ajrore dhe dërgimin
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `aktnormativ-2003-1` (tags `aktnormativ-2003-1/<day>`; `python tools/on.py <day> aktnormativ-2003-1`).
+Act id: `aktnormativ-2003-1` (tags `aktnormativ-2003-1/<day>`; `python registry/tools/on.py <day> aktnormativ-2003-1`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 9958: Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 5, datë 9.7.2008, të këshillit të ministrave “për një ndryshim në ligjin nr.9025, datë 13.3.2003 “për miratimin e aktit normativ, me fuqinë e ligjit, nr.1, datë 9.3.2003, të këshillit të ministrave “për vënien në dispozicion të hapësirës tokësore, detare e ajrore dhe dërgimin e një force ushtarake shqiptare në rajonin e gjirit persik, në kuadër të koalicionit ndërkombëtar të luftës kundër terrorizmit””](https://qbz.gov.al/eli/ligj/2008/07/17/9958)
+- [Akti normativ nr. 5, datë 9.7.2008: Për një ndryshim në ligjin nr.9025, datë 13.3.2003 ”për miratimin e aktit normativ, me fuqinë e ligjit, nr.1, datë 9.3.2003 të këshillit të ministrave ”për vënien në dispozicion të hapësirës tokësore, detare e ajrore dhe dërgimin e një force ushtarake shqiptare në rajonin e gjirit persik, në kuadër të koalicionit ndërkombëtar të luftës kundër terrorizmit””](https://qbz.gov.al/eli/akt-normativ/2008/07/09/5)
 
 ## Decisions made by hand
 

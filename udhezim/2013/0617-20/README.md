@@ -16,7 +16,7 @@ Zbatimin e ligjit nr. 105/2013, datë 28.3.2013 “Për disa shtesa dhe ndryshim
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0617-20` (tags `udhezim-2013-0617-20/<day>`; `python tools/on.py <day> udhezim-2013-0617-20`).
+Act id: `udhezim-2013-0617-20` (tags `udhezim-2013-0617-20/<day>`; `python registry/tools/on.py <day> udhezim-2013-0617-20`).
 
 ## Decisions made by hand
 

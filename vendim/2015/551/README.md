@@ -24,7 +24,7 @@ Miratimin e kritereve dhe të procedurave për pajisjen me certifikatën e lejes
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2019-07-19 |
 
-Act id: `vendim-2015-551` (tags `vendim-2015-551/<day>`; `python tools/on.py <day> vendim-2015-551`).
+Act id: `vendim-2015-551` (tags `vendim-2015-551/<day>`; `python registry/tools/on.py <day> vendim-2015-551`).
 
 ## Decisions made by hand
 

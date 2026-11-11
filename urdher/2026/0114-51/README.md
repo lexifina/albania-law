@@ -5,7 +5,7 @@ Delegim të përkohshëm kopmetence · 2 versions, from 2026-01-22 (latest in fo
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2026-0114-51` (tags `urdher-2026-0114-51/<day>`; `python tools/on.py <day> urdher-2026-0114-51`).
+Act id: `urdher-2026-0114-51` (tags `urdher-2026-0114-51/<day>`; `python registry/tools/on.py <day> urdher-2026-0114-51`).
 
 ## Decisions made by hand
 

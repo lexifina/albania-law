@@ -5,7 +5,7 @@ Krijimin, organizimin dhe funksionimin e Agjencisë Kombëtare të Ekonomisë s�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2024-132` (tags `vendim-2024-132/<day>`; `python tools/on.py <day> vendim-2024-132`).
+Act id: `vendim-2024-132` (tags `vendim-2024-132/<day>`; `python registry/tools/on.py <day> vendim-2024-132`).
 
 ## Decisions made by hand
 

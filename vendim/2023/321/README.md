@@ -23,7 +23,7 @@ Trajtimin me pagë dhe shtesa mbi pagë të punonjësve të personelit të Agjen
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-02-09 |
 
-Act id: `vendim-2023-321` (tags `vendim-2023-321/<day>`; `python tools/on.py <day> vendim-2023-321`).
+Act id: `vendim-2023-321` (tags `vendim-2023-321/<day>`; `python registry/tools/on.py <day> vendim-2023-321`).
 
 ## Decisions made by hand
 

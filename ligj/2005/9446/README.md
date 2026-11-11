@@ -12,7 +12,7 @@ Aderimin e Republikës së Shqipërisë në Konventën “Për aspektet civile t
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2005-9446` (tags `ligj-2005-9446/<day>`; `python tools/on.py <day> ligj-2005-9446`).
+Act id: `ligj-2005-9446` (tags `ligj-2005-9446/<day>`; `python registry/tools/on.py <day> ligj-2005-9446`).
 
 ## Decisions made by hand
 

@@ -340,7 +340,7 @@ Organet e qeverisjes së sistemit të drejtësisë · 2 versions, from 2019-08-1
 | Pjesa VI | [pjesa-06.md](pjesa-06.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-115` (tags `ligj-2016-115/<day>`; `python tools/on.py <day> ligj-2016-115`).
+Act id: `ligj-2016-115` (tags `ligj-2016-115/<day>`; `python registry/tools/on.py <day> ligj-2016-115`).
 
 ## Decisions made by hand
 

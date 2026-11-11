@@ -13,7 +13,7 @@ Disa masa në fushën e transmetimeve radiotelevizive · 1 versions, from 2002-1
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2002-8969` (tags `ligj-2002-8969/<day>`; `python tools/on.py <day> ligj-2002-8969`).
+Act id: `ligj-2002-8969` (tags `ligj-2002-8969/<day>`; `python registry/tools/on.py <day> ligj-2002-8969`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,15 @@ PËR FORMATIN E AKTIt të KONSTATIMIT, PROCESVERBALit të GJOBës DHE AKTit të 
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0210-3` (tags `udhezim-2016-0210-3/<day>`; `python tools/on.py <day> udhezim-2016-0210-3`).
+Act id: `udhezim-2016-0210-3` (tags `udhezim-2016-0210-3/<day>`; `python registry/tools/on.py <day> udhezim-2016-0210-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 19, datë 20.11.2017 (Ministria e Financave) [QBZ 14458]: Për një ndryshim në udhëzimin nr. 3, datë 10.2.2016, “për formatin e aktit të konstatimit, procesverbalit të gjobës dhe aktit të konfiskimit të amlf-së”](https://qbz.gov.al/eli/udhezim/2017/11/20/19)
 
 ## Decisions made by hand
 

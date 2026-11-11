@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-62-2019` (tags `ligji-62-2019/<day>`; `python tools/on.py <day> ligji-62-2019`).
+Act id: `ligji-62-2019` (tags `ligji-62-2019/<day>`; `python registry/tools/on.py <day> ligji-62-2019`).
 
 ## Decisions made by hand
 

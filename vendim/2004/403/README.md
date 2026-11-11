@@ -5,7 +5,7 @@ Krijimin dhe mënyrën e funksionit të komitetit shtetëror për planifikimin s
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-403` (tags `vendim-2004-403/<day>`; `python tools/on.py <day> vendim-2004-403`).
+Act id: `vendim-2004-403` (tags `vendim-2004-403/<day>`; `python registry/tools/on.py <day> vendim-2004-403`).
 
 ## Decisions made by hand
 

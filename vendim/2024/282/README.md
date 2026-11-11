@@ -12,7 +12,7 @@ Miratimin e statutit të Autoritetit Portual Durrës · 2 versions, from 2024-05
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-05-20 |
 
-Act id: `vendim-2024-282` (tags `vendim-2024-282/<day>`; `python tools/on.py <day> vendim-2024-282`).
+Act id: `vendim-2024-282` (tags `vendim-2024-282/<day>`; `python registry/tools/on.py <day> vendim-2024-282`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e Raportit Vjetor për Ndihmat Shtetërore të vitit 2018 · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-336` (tags `vendim-2019-336/<day>`; `python tools/on.py <day> vendim-2019-336`).
+Act id: `vendim-2019-336` (tags `vendim-2019-336/<day>`; `python registry/tools/on.py <day> vendim-2019-336`).
 
 ## Decisions made by hand
 

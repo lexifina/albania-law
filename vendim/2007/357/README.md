@@ -28,7 +28,7 @@ Procedurat e lëshimit të lejeve (diplomatic clearence) për hyrjen, uljen e ka
 | Pika 20 | [pika-020.md](pika-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-357` (tags `vendim-2007-357/<day>`; `python tools/on.py <day> vendim-2007-357`).
+Act id: `vendim-2007-357` (tags `vendim-2007-357/<day>`; `python registry/tools/on.py <day> vendim-2007-357`).
 
 ## Decisions made by hand
 

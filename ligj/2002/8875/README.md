@@ -20,7 +20,7 @@ Rojën Bregdetare shqiptare · 2 versions, from 2002-05-28 (latest in force: 200
 | Neni 12 | [neni-012.md](neni-012.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2002-8875` (tags `ligj-2002-8875/<day>`; `python tools/on.py <day> ligj-2002-8875`).
+Act id: `ligj-2002-8875` (tags `ligj-2002-8875/<day>`; `python registry/tools/on.py <day> ligj-2002-8875`).
 
 ## Decisions made by hand
 

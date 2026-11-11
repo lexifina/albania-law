@@ -20,7 +20,7 @@ Mbi procedurat e trajtimit të shtetasve të huaj me qëndrim të parregullt në
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-0604-293` (tags `udhezim-2015-0604-293/<day>`; `python tools/on.py <day> udhezim-2015-0604-293`).
+Act id: `udhezim-2015-0604-293` (tags `udhezim-2015-0604-293/<day>`; `python registry/tools/on.py <day> udhezim-2015-0604-293`).
 
 ## Decisions made by hand
 

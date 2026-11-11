@@ -66,7 +66,15 @@ Formimin profesional në qendrat e formimit profesional të personelit hekurudho
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2022-1213-24` (tags `udhezim-2022-1213-24/<day>`; `python tools/on.py <day> udhezim-2022-1213-24`).
+Act id: `udhezim-2022-1213-24` (tags `udhezim-2022-1213-24/<day>`; `python registry/tools/on.py <day> udhezim-2022-1213-24`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 12, datë 6.1.2023 (Ministria e Infrastrukturës dhe Energjisë): Korrigjim gabimi material në udhëzimin e Ministrisë së Infrastrukturës dhe Energjisë nr. 24, datë 13.12.2022, ”Për formimin profesional në qendrat e formimit profesional të personelit hekurudhor, që ushtron funksione sigurie, kushtet dhe procedurat për testimin, licencimin dhe certifikimin e makinistëve”, botuar në Fletoren Zyrtare nr. 174, datë 23.12.2022](https://qbz.gov.al/eli/udhezim/2023/01/06/12)
 
 ## Decisions made by hand
 

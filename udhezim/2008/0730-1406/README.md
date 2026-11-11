@@ -27,7 +27,7 @@ Mbi procedurat e furnizimit të anijeve të peshkimit me gazoil pa akcizë · 1 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2008-0730-1406` (tags `udhezim-2008-0730-1406/<day>`; `python tools/on.py <day> udhezim-2008-0730-1406`).
+Act id: `udhezim-2008-0730-1406` (tags `udhezim-2008-0730-1406/<day>`; `python registry/tools/on.py <day> udhezim-2008-0730-1406`).
 
 ## Decisions made by hand
 

@@ -14,7 +14,7 @@ Miratimin e programit të veprimit 3-vjeçar, 2016-2018, për zhvillimin e aktiv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2016-11-03 |
 
-Act id: `vendim-2015-726` (tags `vendim-2015-726/<day>`; `python tools/on.py <day> vendim-2015-726`).
+Act id: `vendim-2015-726` (tags `vendim-2015-726/<day>`; `python registry/tools/on.py <day> vendim-2015-726`).
 
 ## Decisions made by hand
 

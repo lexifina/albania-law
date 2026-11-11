@@ -12,7 +12,7 @@ Përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-887` (tags `vendim-2020-887/<day>`; `python tools/on.py <day> vendim-2020-887`).
+Act id: `vendim-2020-887` (tags `vendim-2020-887/<day>`; `python registry/tools/on.py <day> vendim-2020-887`).
 
 ## Decisions made by hand
 

@@ -23,7 +23,7 @@ Mbi përpunimin e të dhënave të punonjësve në sektorin privat · 2 versions
 | Pika 16 | [pika-016.md](pika-016.md) | 1 | 2012-12-31 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2011-0908-11` (tags `udhezim-2011-0908-11/<day>`; `python tools/on.py <day> udhezim-2011-0908-11`).
+Act id: `udhezim-2011-0908-11` (tags `udhezim-2011-0908-11/<day>`; `python registry/tools/on.py <day> udhezim-2011-0908-11`).
 
 ## Decisions made by hand
 

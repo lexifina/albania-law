@@ -15,7 +15,7 @@ Shkëputjen e institutit të kërkimeve biologjike nga akademia e shkencave dhe 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-562` (tags `vendim-2007-562/<day>`; `python tools/on.py <day> vendim-2007-562`).
+Act id: `vendim-2007-562` (tags `vendim-2007-562/<day>`; `python registry/tools/on.py <day> vendim-2007-562`).
 
 ## Decisions made by hand
 

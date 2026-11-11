@@ -5,7 +5,7 @@ Miratimin e kushteve të përgjithshme të marrëveshjes për kryerjen e oponenc
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-0419-49` (tags `urdher-2011-0419-49/<day>`; `python tools/on.py <day> urdher-2011-0419-49`).
+Act id: `urdher-2011-0419-49` (tags `urdher-2011-0419-49/<day>`; `python registry/tools/on.py <day> urdher-2011-0419-49`).
 
 ## Decisions made by hand
 

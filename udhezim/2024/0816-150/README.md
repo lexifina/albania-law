@@ -37,7 +37,7 @@ Funksionimin e Shërbimit Privat të Sigurisë Fizike dhe Qendrës së Trajnimit
 | Pika 29 | [pika-029.md](pika-029.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0816-150` (tags `udhezim-2024-0816-150/<day>`; `python tools/on.py <day> udhezim-2024-0816-150`).
+Act id: `udhezim-2024-0816-150` (tags `udhezim-2024-0816-150/<day>`; `python registry/tools/on.py <day> udhezim-2024-0816-150`).
 
 ## Decisions made by hand
 

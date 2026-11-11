@@ -13,7 +13,7 @@ PËR NGRITJEN E KOMISIONIT TË VERIFIKIMIT DHE TË MARRJES NË DORËZIM TË PAJI
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1111-39` (tags `udhezim-2008-1111-39/<day>`; `python tools/on.py <day> udhezim-2008-1111-39`).
+Act id: `udhezim-2008-1111-39` (tags `udhezim-2008-1111-39/<day>`; `python registry/tools/on.py <day> udhezim-2008-1111-39`).
 
 ## Decisions made by hand
 

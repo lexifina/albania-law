@@ -26,7 +26,17 @@ Kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-652` (tags `vendim-2011-652/<day>`; `python tools/on.py <day> vendim-2011-652`).
+Act id: `vendim-2011-652` (tags `vendim-2011-652/<day>`; `python registry/tools/on.py <day> vendim-2011-652`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 767, datë 2.11.2011: Për disa ndryshime dhe shtesa në vendimin nr.652, datë 14.9.2011 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve, “master i shkencave”/“master i arteve të bukura”, për vitin akademik 2011 - 2012”](https://qbz.gov.al/eli/vendim/2011/11/02/767)
+- [Vendimi i Këshillit të Ministrave nr. 927, datë 14.12.2011: Për disa ndryshime në vendimin nr.652, datë 14.9.2011 të këshillit të ministrave “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve “Master i shkencave”/“Master i arteve të bukura”, për vitin akademik 2011-2012”, të ndryshuar](https://qbz.gov.al/eli/vendim/2011/12/14/927)
+- [Vendimi i Këshillit të Ministrave nr. 256, datë 12.4.2012: Për disa ndryshime në vendimin nr. 652, datë 14.9.2011 të këshillit të ministrave “për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë për ciklin e dytë të studimeve “master i shkencave”/“master i arteve të bukura”, për vitin akademik 2011- 2012”, të ndryshuar](https://qbz.gov.al/eli/vendim/2012/04/12/256)
 
 ## Decisions made by hand
 

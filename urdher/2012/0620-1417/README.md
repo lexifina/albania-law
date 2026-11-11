@@ -10,7 +10,7 @@ Pezullimin e licencës së subjektit financiar jobankë “m-pay” shpk · 1 ve
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0620-1417` (tags `urdher-2012-0620-1417/<day>`; `python tools/on.py <day> urdher-2012-0620-1417`).
+Act id: `urdher-2012-0620-1417` (tags `urdher-2012-0620-1417/<day>`; `python registry/tools/on.py <day> urdher-2012-0620-1417`).
 
 ## Decisions made by hand
 

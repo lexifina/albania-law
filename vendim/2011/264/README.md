@@ -5,7 +5,7 @@ Miratimin e formës dhe paraqitjes së gradave të policisë së burgjeve · 2 v
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-264` (tags `vendim-2011-264/<day>`; `python tools/on.py <day> vendim-2011-264`).
+Act id: `vendim-2011-264` (tags `vendim-2011-264/<day>`; `python registry/tools/on.py <day> vendim-2011-264`).
 
 ## Decisions made by hand
 

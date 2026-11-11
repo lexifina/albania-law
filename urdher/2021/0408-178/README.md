@@ -5,7 +5,7 @@ Zbatimin e urdhrit të ministrit nr. 91, datë 21.2.2019, “Për miratimin e rr
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2021-0408-178` (tags `urdher-2021-0408-178/<day>`; `python tools/on.py <day> urdher-2021-0408-178`).
+Act id: `urdher-2021-0408-178` (tags `urdher-2021-0408-178/<day>`; `python registry/tools/on.py <day> urdher-2021-0408-178`).
 
 ## Decisions made by hand
 

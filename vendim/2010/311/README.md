@@ -10,7 +10,15 @@ Përcaktimin e afatit, të përmbajtjes dhe të mënyrës së njoftimit publik p
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-311` (tags `vendim-2010-311/<day>`; `python tools/on.py <day> vendim-2010-311`).
+Act id: `vendim-2010-311` (tags `vendim-2010-311/<day>`; `python registry/tools/on.py <day> vendim-2010-311`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 45, datë 21.1.2015: Për një ndryshim në vendimin nr. 311, datë 5.5.2010, të Këshillit të Ministrave, “Për përcaktimin e afatit, të përmbajtjes dhe të mënyrës së njoftimit publik për procedurat e kalimit të së drejtës së pronësisë mbi truallin shtetëror, në zonat me përparësi turizmin](https://qbz.gov.al/eli/vendim/2015/01/21/45)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Trajtimin e kredive të transferuara nga bankat e nivelit të dytë, me kapital 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-1045` (tags `vendim-2008-1045/<day>`; `python tools/on.py <day> vendim-2008-1045`).
+Act id: `vendim-2008-1045` (tags `vendim-2008-1045/<day>`; `python registry/tools/on.py <day> vendim-2008-1045`).
 
 ## Decisions made by hand
 

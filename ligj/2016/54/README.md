@@ -11,7 +11,7 @@ Miratimin e rezolutave nr. 612, “rritja selektive e kapitalit aksionar të aut
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2016-54` (tags `ligj-2016-54/<day>`; `python tools/on.py <day> ligj-2016-54`).
+Act id: `ligj-2016-54` (tags `ligj-2016-54/<day>`; `python registry/tools/on.py <day> ligj-2016-54`).
 
 ## Decisions made by hand
 

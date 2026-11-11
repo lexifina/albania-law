@@ -5,7 +5,7 @@ Shqyrtimin e pastërtisë dhe për dhënien e “certifikatës së sigurisë” 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-122` (tags `vendim-2001-122/<day>`; `python tools/on.py <day> vendim-2001-122`).
+Act id: `vendim-2001-122` (tags `vendim-2001-122/<day>`; `python registry/tools/on.py <day> vendim-2001-122`).
 
 ## Decisions made by hand
 

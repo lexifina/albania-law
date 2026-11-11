@@ -5,7 +5,7 @@ Miratimin e trajtimit financiar të personave përgjegjës për menaxhimin e ope
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-574` (tags `vendim-2016-574/<day>`; `python tools/on.py <day> vendim-2016-574`).
+Act id: `vendim-2016-574` (tags `vendim-2016-574/<day>`; `python registry/tools/on.py <day> vendim-2016-574`).
 
 ## Decisions made by hand
 

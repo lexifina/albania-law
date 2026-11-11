@@ -10,7 +10,17 @@ Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-68` (tags `vendim-2008-68/<day>`; `python tools/on.py <day> vendim-2008-68`).
+Act id: `vendim-2008-68` (tags `vendim-2008-68/<day>`; `python registry/tools/on.py <day> vendim-2008-68`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 1061, datë 16.7.2008: Për një shtesë në vendimin nr.68, datë 28.1.2008 të Këshillit të Ministrave “Për miratimin e listës pËrfundimtare të pronave të paluajtshme, publike shtetërore, që transferohen në pronësi ose në përdorim, të komunës Bushat, të qarkut të Shkodrës](https://qbz.gov.al/eli/vendim/2008/07/16/1061)
+- [Vendimi i Këshillit të Ministrave nr. 400, datë 8.4.2008: Për kalimin në përgjegjësi administrimi të ministrisë së drejtësisë, të pronës së paluajtshme tokë/arë nr.18, në zonën kadastrale 3 205, k-34-75 (32c), në fshatin rranxa, komuna bushat, dhe për një ndryshim në vendimin nr.68, datë 28.1.2008 të këshillit të ministrave ”për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim, të komunës bushat, të qarkut të shkodrës”](https://qbz.gov.al/eli/vendim/2008/04/08/400)
+- [Vendimi i Këshillit të Ministrave nr. 246, datë 31.3.2011: Për disa shtesa dhe ndryshime në vendimin nr.68, datë 28.1.2008 të këshillit të ministrave “për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose në përdorim të komunës bushat të qarkut të shkodrës”](https://qbz.gov.al/eli/vendim/2011/03/31/246)
 
 ## Decisions made by hand
 

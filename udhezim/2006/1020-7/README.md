@@ -29,7 +29,7 @@ Administrimin e materialeve zgjedhore që do të përdoren në zgjedhjet për or
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-1020-7` (tags `udhezim-2006-1020-7/<day>`; `python tools/on.py <day> udhezim-2006-1020-7`).
+Act id: `udhezim-2006-1020-7` (tags `udhezim-2006-1020-7/<day>`; `python registry/tools/on.py <day> udhezim-2006-1020-7`).
 
 ## Decisions made by hand
 

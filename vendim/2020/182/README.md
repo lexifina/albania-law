@@ -22,7 +22,7 @@ Përcaktimin e masës, të kritereve, procedurave e dokumentacionit për vlerës
 | Pika 14 | [pika-014.md](pika-014.md) | 3 | 2026-07-23 |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-182` (tags `vendim-2020-182/<day>`; `python tools/on.py <day> vendim-2020-182`).
+Act id: `vendim-2020-182` (tags `vendim-2020-182/<day>`; `python registry/tools/on.py <day> vendim-2020-182`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Ndryshimin e përgjegjësisë së administrimit, nga Ministria e Mbrojtjes te Mi
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2015-380` (tags `vendim-2015-380/<day>`; `python tools/on.py <day> vendim-2015-380`).
+Act id: `vendim-2015-380` (tags `vendim-2015-380/<day>`; `python registry/tools/on.py <day> vendim-2015-380`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Miratimin e formës dhe përmbajtjes së projektit të zhvillimit të veprimtari
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0413-304` (tags `urdher-2011-0413-304/<day>`; `python tools/on.py <day> urdher-2011-0413-304`).
+Act id: `urdher-2011-0413-304` (tags `urdher-2011-0413-304/<day>`; `python registry/tools/on.py <day> urdher-2011-0413-304`).
 
 ## Decisions made by hand
 

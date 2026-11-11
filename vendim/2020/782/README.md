@@ -44,7 +44,7 @@ Miratimin e modeleve të akteve kadastrale dhe të dhënave në përmbajtje të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 2 | 2026-05-15 |
 
-Act id: `vendim-2020-782` (tags `vendim-2020-782/<day>`; `python tools/on.py <day> vendim-2020-782`).
+Act id: `vendim-2020-782` (tags `vendim-2020-782/<day>`; `python registry/tools/on.py <day> vendim-2020-782`).
 
 ## Decisions made by hand
 

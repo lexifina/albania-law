@@ -12,7 +12,7 @@ Hapjen e thirrjes së parë për aplikime për programin ipard ii · 1 versions,
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2018-1127-467` (tags `urdher-2018-1127-467/<day>`; `python tools/on.py <day> urdher-2018-1127-467`).
+Act id: `urdher-2018-1127-467` (tags `urdher-2018-1127-467/<day>`; `python registry/tools/on.py <day> urdher-2018-1127-467`).
 
 ## Decisions made by hand
 

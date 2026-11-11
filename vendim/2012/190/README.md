@@ -11,7 +11,7 @@ Kodin e hartimit, adoptimit, miratimit dhe zbatimit të standardeve · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2012-190` (tags `vendim-2012-190/<day>`; `python tools/on.py <day> vendim-2012-190`).
+Act id: `vendim-2012-190` (tags `vendim-2012-190/<day>`; `python registry/tools/on.py <day> vendim-2012-190`).
 
 ## Decisions made by hand
 

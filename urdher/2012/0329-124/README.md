@@ -13,7 +13,7 @@ Akreditimin institucional dhe të programeve të studimit “bachelor” në “
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2012-0329-124` (tags `urdher-2012-0329-124/<day>`; `python tools/on.py <day> urdher-2012-0329-124`).
+Act id: `urdher-2012-0329-124` (tags `urdher-2012-0329-124/<day>`; `python registry/tools/on.py <day> urdher-2012-0329-124`).
 
 ## Decisions made by hand
 

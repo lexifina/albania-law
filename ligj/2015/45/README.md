@@ -60,7 +60,7 @@ Të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republ
 | Neni 46 | [neni-046.md](neni-046.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2015-45` (tags `ligj-2015-45/<day>`; `python tools/on.py <day> ligj-2015-45`).
+Act id: `ligj-2015-45` (tags `ligj-2015-45/<day>`; `python registry/tools/on.py <day> ligj-2015-45`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ Organizimin dhe zhvillimin e provimeve kombëare të arsimit bazë në Republik�
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2024-0718-14` (tags `udhezim-2024-0718-14/<day>`; `python tools/on.py <day> udhezim-2024-0718-14`).
+Act id: `udhezim-2024-0718-14` (tags `udhezim-2024-0718-14/<day>`; `python registry/tools/on.py <day> udhezim-2024-0718-14`).
 
 ## Decisions made by hand
 

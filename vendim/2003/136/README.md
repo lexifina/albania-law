@@ -15,7 +15,15 @@ Shpërndarjen e teksteve shkollore të arsimit parauniversitar · 1 versions, fr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-136` (tags `vendim-2003-136/<day>`; `python tools/on.py <day> vendim-2003-136`).
+Act id: `vendim-2003-136` (tags `vendim-2003-136/<day>`; `python registry/tools/on.py <day> vendim-2003-136`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 144, datë 8.3.2006: Për botimin, shtypjen dhe shpërndarjen e teksteve shkollore të sistemit arsimor parauniversitar](https://qbz.gov.al/eli/vendim/2006/03/08/144)
 
 ## Decisions made by hand
 

@@ -50,7 +50,7 @@ Hedhjen në treg dhe mbikëqyrjen e lëndëve plasëse për përdorim civil · 1
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-74-2021` (tags `ligji-74-2021/<day>`; `python tools/on.py <day> ligji-74-2021`).
+Act id: `ligji-74-2021` (tags `ligji-74-2021/<day>`; `python registry/tools/on.py <day> ligji-74-2021`).
 
 ## Decisions made by hand
 

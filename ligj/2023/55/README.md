@@ -32,7 +32,7 @@ Menaxhimin e garancive dhe kredive shtetërore të pakthyera · 1 versions, from
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-55-2023` (tags `ligji-55-2023/<day>`; `python tools/on.py <day> ligji-55-2023`).
+Act id: `ligji-55-2023` (tags `ligji-55-2023/<day>`; `python registry/tools/on.py <day> ligji-55-2023`).
 
 ## Decisions made by hand
 

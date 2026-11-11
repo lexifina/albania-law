@@ -30,7 +30,7 @@ Procedurat dhe mënyrën e administrimit të Fondit të Programit për Bujqësin
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0514-8` (tags `udhezim-2026-0514-8/<day>`; `python tools/on.py <day> udhezim-2026-0514-8`).
+Act id: `udhezim-2026-0514-8` (tags `udhezim-2026-0514-8/<day>`; `python registry/tools/on.py <day> udhezim-2026-0514-8`).
 
 ## Decisions made by hand
 

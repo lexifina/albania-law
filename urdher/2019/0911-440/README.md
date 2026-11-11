@@ -11,7 +11,7 @@ Përcaktimin e shërbimeve të ofruara me çmime të reduktuara përmes përdori
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2019-0911-440` (tags `urdher-2019-0911-440/<day>`; `python tools/on.py <day> urdher-2019-0911-440`).
+Act id: `urdher-2019-0911-440` (tags `urdher-2019-0911-440/<day>`; `python registry/tools/on.py <day> urdher-2019-0911-440`).
 
 ## Decisions made by hand
 

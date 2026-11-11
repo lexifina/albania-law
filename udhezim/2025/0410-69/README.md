@@ -22,7 +22,7 @@ Përcaktimin e dokumentacionit të nevojshëm për fitimin, heqjen dorë dhe rif
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2025-0410-69` (tags `udhezim-2025-0410-69/<day>`; `python tools/on.py <day> udhezim-2025-0410-69`).
+Act id: `udhezim-2025-0410-69` (tags `udhezim-2025-0410-69/<day>`; `python registry/tools/on.py <day> udhezim-2025-0410-69`).
 
 ## Decisions made by hand
 

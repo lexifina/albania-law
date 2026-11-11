@@ -94,7 +94,32 @@ Mbrojtjen e konsumatorëve · 1 versions, from 2008-05-22 (latest in force: 2008
 | Pjesa X | [pjesa-10.md](pjesa-10.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9902` (tags `ligj-2008-9902/<day>`; `python tools/on.py <day> ligj-2008-9902`).
+Act id: `ligj-2008-9902` (tags `ligj-2008-9902/<day>`; `python registry/tools/on.py <day> ligj-2008-9902`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 475, datë 10.4.2013: Për Inspektoratin Shtetëror të Mbikëqyrjes së Tregut](https://qbz.gov.al/eli/vendim/2013/04/10/475)
+- [Vendimi i Këshillit të Ministrave nr. 652, datë 8.10.2014: Për përcaktimin e rregullave për kontratat e përdorimit me afat, të produktit të pushimit afatgjatë, rishitjes apo shkëmbimit](https://qbz.gov.al/eli/vendim/2014/10/08/652)
+- [Ligji nr. 10444/2011: Për disa ndryshime dhe shtesa në ligjin nr.9902, datë 17.4.2008 “për mbrojtjen e konsumatorëve”](https://qbz.gov.al/eli/ligj/2011/07/14/10444)
+- [Vendimi i Këshillit të Ministrave nr. 615, datë 7.9.2011: PËR KONTRATAT E TREGTIMIT në LARGëSI të SHëRBIMEVE FINANCIARE për KONSUMATORëT](https://qbz.gov.al/eli/vendim/2011/09/07/615)
+- [Udhëzimi nr. 5, datë 25.6.2021 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 23328]: Për miratimin e rregullave mbi shërbimet e dërgesave të pakove postare ndërkufitare](https://qbz.gov.al/eli/udhezim/2021/06/25/5)
+- [Vendimi i Këshillit të Ministrave nr. 91, datë 9.2.2022: Për Miratimin e Planit Kombëtar për Integrimin Evropian 2022-2024](https://qbz.gov.al/eli/vendim/2022/02/09/91)
+- [Ligji nr. 100/2023: Për llogarinë e pagesave me shërbime bazike](https://qbz.gov.al/eli/ligj/2023/12/14/100)
+- [Vendimi i Këshillit të Ministrave nr. 326, datë 29.5.2024: Për miratimin e Strategjisë Ndërsektoriale për Mbrojtjen e Konsumatorëve dhe Mbikëqyrjen e Tregut 2024-2030](https://qbz.gov.al/eli/vendim/2024/05/29/326)
+- [Vendimi i Këshillit të Ministrave nr. 818, datë 26.12.2024: Për miratimin e programit të përgjithshëm analitik të projektakteve që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2025](https://qbz.gov.al/eli/vendim/2024/12/26/818)
+- [Vendimi i Këshillit të Ministrave nr. 1089, datë 24.12.2020: Për krijimin dhe mënyrën e organizimit e të funksionimit të Drejtorisë së Përgjithshme për Zgjidhjen Alternative të Mosmarrëveshjeve, si dhe për përcaktimin e kritereve shtesë që duhet të përmbushin strukturat për zgjidhjen alternative të mosmarrëveshjeve](https://qbz.gov.al/eli/vendim/2020/12/24/1089)
+- [Vendimi i Këshillit të Ministrave nr. 812, datë 30.12.2025: Për miratimin e programit të përgjithshëm analitik të projektakteve, që do të paraqiten për shqyrtim në Këshillin e Ministrave gjatë vitit 2026](https://qbz.gov.al/eli/vendim/2025/12/30/812)
+- [Ligji nr. 15/2013: Për disa shtesa dhe ndryshime në ligjin nr. 9902, datë 17.4.2008 “Për mbrojtjen e konsumatorëve”, të ndryshuar](https://qbz.gov.al/eli/ligj/2013/02/14/15-2013)
+- [Vendimi i Këshillit të Ministrave nr. 196, datë 15.3.2017: Për përcaktimin e mënyrave, formave, kriterevedhe rregullave për organizimin e lojërave të fatit promocionale](https://qbz.gov.al/eli/vendim/2017/03/15/196)
+- [Vendimi i Këshillit të Ministrave nr. 74, datë 27.1.2016: Për miratimin e planit kombëtar për integrimin evropian 2016-2020](https://qbz.gov.al/eli/vendim/2016/01/27/74)
+- [Vendimi i Këshillit të Ministrave nr. 246, datë 9.5.2018: Për miratimin e planit kombëtar për integrimin evropian 2018-2020](https://qbz.gov.al/eli/vendim/2018/05/09/246)
+- [Vendimi i Këshillit të Ministrave nr. 488, datë 29.6.2016: Për klasifikimin, etiketimin dhe ambalazhimin e kimikateve](https://qbz.gov.al/eli/vendim/2016/06/29/488)
+- [Ligji nr. 71/2018: Për disa ndryshime dhe shtesa në ligjin nr. 9902, datë 17.4.2008, “për mbrojtjen e konsumatorëve”, të ndryshuar](https://qbz.gov.al/eli/ligj/2018/10/18/71)
+- [Vendimi i Këshillit të Ministrave nr. 201, datë 10.4.2019: Për miratimin e Planit Kombëtar për Integrimin Evropian 2019 - 2021](https://qbz.gov.al/eli/vendim/2019/04/10/201)
 
 ## Decisions made by hand
 

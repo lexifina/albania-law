@@ -10,7 +10,7 @@ Miratimin e shtesës së marrëveshjes së koncesionit ndërmjet ministrisë së
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-79-2016` (tags `ligji-79-2016/<day>`; `python tools/on.py <day> ligji-79-2016`).
+Act id: `ligji-79-2016` (tags `ligji-79-2016/<day>`; `python registry/tools/on.py <day> ligji-79-2016`).
 
 ## Decisions made by hand
 

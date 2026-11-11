@@ -9,7 +9,7 @@ Një shtesë në udhëzimin nr.114, datë 1.11.2005 “Për shoqëritë anonime 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2006-0815-580` (tags `udhezim-2006-0815-580/<day>`; `python tools/on.py <day> udhezim-2006-0815-580`).
+Act id: `udhezim-2006-0815-580` (tags `udhezim-2006-0815-580/<day>`; `python registry/tools/on.py <day> udhezim-2006-0815-580`).
 
 ## Decisions made by hand
 

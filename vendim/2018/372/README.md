@@ -10,7 +10,7 @@ PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI TË MINISTRISË SË KULTURËS DHE RE
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-372` (tags `vendim-2018-372/<day>`; `python tools/on.py <day> vendim-2018-372`).
+Act id: `vendim-2018-372` (tags `vendim-2018-372/<day>`; `python registry/tools/on.py <day> vendim-2018-372`).
 
 ## Decisions made by hand
 

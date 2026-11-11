@@ -13,7 +13,7 @@ Disa shtesa dhe ndryshime në vendimin nr. 953, datë 29.12.2014, të këshillit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2018-212` (tags `vendim-2018-212/<day>`; `python tools/on.py <day> vendim-2018-212`).
+Act id: `vendim-2018-212` (tags `vendim-2018-212/<day>`; `python registry/tools/on.py <day> vendim-2018-212`).
 
 ## Decisions made by hand
 

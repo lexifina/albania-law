@@ -14,7 +14,15 @@ Financimin e projektit “Diaspora shkencore si një faktor ndryshimi në proces
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-321` (tags `vendim-2019-321/<day>`; `python tools/on.py <day> vendim-2019-321`).
+Act id: `vendim-2019-321` (tags `vendim-2019-321/<day>`; `python registry/tools/on.py <day> vendim-2019-321`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Korrigjim nr. 2667, datë 22.5.2019 (Këshilli i Ministrave): Tabela e buxhetimit e vendimit nr. 321, datë 15.5.2019, të Këshillit të Ministrave, “Për financimin e projektit ’Diaspora shkencore si një faktor ndryshimi në Procesin e Integrimit Evropian të Shqipërisë’ dhe zbatimin e tij nga Fondi Shqiptar për Zhvillimin e Diasporës”, botuar në Fletoren Zyrtare nr. 71, datë 17.5.2019](https://qbz.gov.al/eli/vendim/2019/05/23/2667-1)
 
 ## Decisions made by hand
 

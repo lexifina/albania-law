@@ -19,7 +19,7 @@ Përcaktimin e procedurës së shkëmbimit të banesës me kosto të ulët · 1 
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2020-300` (tags `vendim-2020-300/<day>`; `python tools/on.py <day> vendim-2020-300`).
+Act id: `vendim-2020-300` (tags `vendim-2020-300/<day>`; `python registry/tools/on.py <day> vendim-2020-300`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lirimin dhe emërimin në detyrë të prefektit të Qarkut të Kukësit · 1 ver
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-708` (tags `vendim-2023-708/<day>`; `python tools/on.py <day> vendim-2023-708`).
+Act id: `vendim-2023-708` (tags `vendim-2023-708/<day>`; `python registry/tools/on.py <day> vendim-2023-708`).
 
 ## Decisions made by hand
 

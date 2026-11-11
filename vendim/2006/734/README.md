@@ -13,7 +13,7 @@ Fillimin e procedurave për mbylljen e kontratës së koncesionit, për ndërmar
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-734` (tags `vendim-2006-734/<day>`; `python tools/on.py <day> vendim-2006-734`).
+Act id: `vendim-2006-734` (tags `vendim-2006-734/<day>`; `python registry/tools/on.py <day> vendim-2006-734`).
 
 ## Decisions made by hand
 

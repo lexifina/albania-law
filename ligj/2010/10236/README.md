@@ -55,7 +55,7 @@ Marrjen në kontroll të shoqërive me ofertë publike · 2 versions, from 2010-
 | Neni 38 | [neni-038.md](neni-038.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2010-10236` (tags `ligj-2010-10236/<day>`; `python tools/on.py <day> ligj-2010-10236`).
+Act id: `ligj-2010-10236` (tags `ligj-2010-10236/<day>`; `python registry/tools/on.py <day> ligj-2010-10236`).
 
 ## Decisions made by hand
 

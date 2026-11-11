@@ -8,7 +8,7 @@ Buxhetin faktik të vitit 2000 · 1 versions, from 2001-11-10 (latest in force: 
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2001-8823` (tags `ligj-2001-8823/<day>`; `python tools/on.py <day> ligj-2001-8823`).
+Act id: `ligj-2001-8823` (tags `ligj-2001-8823/<day>`; `python registry/tools/on.py <day> ligj-2001-8823`).
 
 ## Decisions made by hand
 

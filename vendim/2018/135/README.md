@@ -20,7 +20,7 @@ Miratimin e statutit të shërbimit social shtetëror · 2 versions, from 2018-0
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2018-135` (tags `vendim-2018-135/<day>`; `python tools/on.py <day> vendim-2018-135`).
+Act id: `vendim-2018-135` (tags `vendim-2018-135/<day>`; `python registry/tools/on.py <day> vendim-2018-135`).
 
 ## Decisions made by hand
 

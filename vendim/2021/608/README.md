@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Bujq
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-608` (tags `vendim-2021-608/<day>`; `python tools/on.py <day> vendim-2021-608`).
+Act id: `vendim-2021-608` (tags `vendim-2021-608/<day>`; `python registry/tools/on.py <day> vendim-2021-608`).
 
 ## Decisions made by hand
 

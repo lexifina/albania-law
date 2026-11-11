@@ -63,7 +63,7 @@ Materiale dhe artikuj plastike të përcaktuara të jenë në kontakt me ushqimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2017-0106-12` (tags `udhezim-2017-0106-12/<day>`; `python tools/on.py <day> udhezim-2017-0106-12`).
+Act id: `udhezim-2017-0106-12` (tags `udhezim-2017-0106-12/<day>`; `python registry/tools/on.py <day> udhezim-2017-0106-12`).
 
 ## Decisions made by hand
 

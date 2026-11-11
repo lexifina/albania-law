@@ -10,7 +10,7 @@ Përzgjedhjen e organizatave të punëdhënësve dhe të sindikatave më të pë
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2014-262` (tags `vendim-2014-262/<day>`; `python tools/on.py <day> vendim-2014-262`).
+Act id: `vendim-2014-262` (tags `vendim-2014-262/<day>`; `python registry/tools/on.py <day> vendim-2014-262`).
 
 ## Decisions made by hand
 

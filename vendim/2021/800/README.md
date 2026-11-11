@@ -10,7 +10,7 @@ Miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-800` (tags `vendim-2021-800/<day>`; `python tools/on.py <day> vendim-2021-800`).
+Act id: `vendim-2021-800` (tags `vendim-2021-800/<day>`; `python registry/tools/on.py <day> vendim-2021-800`).
 
 ## Decisions made by hand
 

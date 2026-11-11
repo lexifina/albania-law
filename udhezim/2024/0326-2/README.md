@@ -5,7 +5,7 @@ Miratimin e metodologjisë, për kriteret dhe procedurat, për shpërndarjen dhe
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2024-0326-2` (tags `udhezim-2024-0326-2/<day>`; `python tools/on.py <day> udhezim-2024-0326-2`).
+Act id: `udhezim-2024-0326-2` (tags `udhezim-2024-0326-2/<day>`; `python registry/tools/on.py <day> udhezim-2024-0326-2`).
 
 ## Decisions made by hand
 

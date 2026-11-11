@@ -11,7 +11,7 @@ Hapjen e filialit të shkollës së lartë private “Kristal”, në qytetin e 
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-407` (tags `vendim-2010-407/<day>`; `python tools/on.py <day> vendim-2010-407`).
+Act id: `vendim-2010-407` (tags `vendim-2010-407/<day>`; `python registry/tools/on.py <day> vendim-2010-407`).
 
 ## Decisions made by hand
 

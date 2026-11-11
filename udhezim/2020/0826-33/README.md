@@ -19,7 +19,7 @@ Kushtet e tjera që duhet të plotësojnë strehët e përkohshme · 1 versions,
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2020-0826-33` (tags `udhezim-2020-0826-33/<day>`; `python tools/on.py <day> udhezim-2020-0826-33`).
+Act id: `udhezim-2020-0826-33` (tags `udhezim-2020-0826-33/<day>`; `python registry/tools/on.py <day> udhezim-2020-0826-33`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ PËR MIRATIMIN E RREGULLIT TEKNIK “PËR KËRKESAT THELBËSORE, MARKIMIN CE DHE
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-189` (tags `vendim-2016-189/<day>`; `python tools/on.py <day> vendim-2016-189`).
+Act id: `vendim-2016-189` (tags `vendim-2016-189/<day>`; `python registry/tools/on.py <day> vendim-2016-189`).
 
 ## Decisions made by hand
 

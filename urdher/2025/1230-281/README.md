@@ -12,7 +12,7 @@ Miratimin e Programit Model të Transparencës për njësitë e vetëqeverisjes 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1230-281` (tags `urdher-2025-1230-281/<day>`; `python tools/on.py <day> urdher-2025-1230-281`).
+Act id: `urdher-2025-1230-281` (tags `urdher-2025-1230-281/<day>`; `python registry/tools/on.py <day> urdher-2025-1230-281`).
 
 ## Decisions made by hand
 

@@ -106,7 +106,7 @@ Agjencinë e Mbikëqyrjes Policore · 1 versions, from 2022-02-09 (latest in for
 | Neni 86 | [neni-086.md](neni-086.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-128-2021` (tags `ligji-128-2021/<day>`; `python tools/on.py <day> ligji-128-2021`).
+Act id: `ligji-128-2021` (tags `ligji-128-2021/<day>`; `python registry/tools/on.py <day> ligji-128-2021`).
 
 ## Decisions made by hand
 

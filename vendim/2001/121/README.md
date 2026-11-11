@@ -5,7 +5,7 @@ Rregullat e sigurimit fizik të informacionit të klasifikuar · 2 versions, fro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-121` (tags `vendim-2001-121/<day>`; `python tools/on.py <day> vendim-2001-121`).
+Act id: `vendim-2001-121` (tags `vendim-2001-121/<day>`; `python registry/tools/on.py <day> vendim-2001-121`).
 
 ## Decisions made by hand
 

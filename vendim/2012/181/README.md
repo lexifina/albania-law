@@ -14,7 +14,7 @@ Transferimin e infrastrukturës së ujitjes dhe kullimit, nga ministria e bujqë
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-181` (tags `vendim-2012-181/<day>`; `python tools/on.py <day> vendim-2012-181`).
+Act id: `vendim-2012-181` (tags `vendim-2012-181/<day>`; `python registry/tools/on.py <day> vendim-2012-181`).
 
 ## Decisions made by hand
 

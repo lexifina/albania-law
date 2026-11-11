@@ -9,7 +9,7 @@ Miratimin e planit të veprimit për përmirësimin e renditjes së Shqipërisë
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2025-1230-178` (tags `urdher-2025-1230-178/<day>`; `python tools/on.py <day> urdher-2025-1230-178`).
+Act id: `urdher-2025-1230-178` (tags `urdher-2025-1230-178/<day>`; `python registry/tools/on.py <day> urdher-2025-1230-178`).
 
 ## Decisions made by hand
 

@@ -18,7 +18,7 @@ Përcaktimin e rregullave mbi veprimet e kancelarit në rastin e konfirmimit apo
 | Pika 11 | [pika-011.md](pika-011.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0906-367` (tags `urdher-2013-0906-367/<day>`; `python tools/on.py <day> urdher-2013-0906-367`).
+Act id: `urdher-2013-0906-367` (tags `urdher-2013-0906-367/<day>`; `python registry/tools/on.py <day> urdher-2013-0906-367`).
 
 ## Decisions made by hand
 

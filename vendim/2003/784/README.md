@@ -9,7 +9,7 @@ Miratimin e marrëveshjes ndërmjet qeverisë së republikës Të Shqipërisë d
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2003-784` (tags `vendim-2003-784/<day>`; `python tools/on.py <day> vendim-2003-784`).
+Act id: `vendim-2003-784` (tags `vendim-2003-784/<day>`; `python registry/tools/on.py <day> vendim-2003-784`).
 
 ## Decisions made by hand
 

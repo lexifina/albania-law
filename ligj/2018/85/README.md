@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes me vendin pritës ndërmjet republikës së shqipër
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2018-85` (tags `ligj-2018-85/<day>`; `python tools/on.py <day> ligj-2018-85`).
+Act id: `ligj-2018-85` (tags `ligj-2018-85/<day>`; `python registry/tools/on.py <day> ligj-2018-85`).
 
 ## Decisions made by hand
 

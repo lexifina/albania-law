@@ -184,7 +184,7 @@ Markat tregtare · 2 versions, from 2025-08-16 (latest in force: 2025-08-16) · 
 | Pjesa XI | [pjesa-11.md](pjesa-11.md) | 1 | 2026-11-12 |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2025-52` (tags `ligj-2025-52/<day>`; `python tools/on.py <day> ligj-2025-52`).
+Act id: `ligj-2025-52` (tags `ligj-2025-52/<day>`; `python registry/tools/on.py <day> ligj-2025-52`).
 
 ## Decisions made by hand
 

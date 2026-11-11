@@ -12,7 +12,7 @@ Financimin e veprimtarisë së fondacionit “Durrah City Football Academy” p�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-303` (tags `vendim-2025-303/<day>`; `python tools/on.py <day> vendim-2025-303`).
+Act id: `vendim-2025-303` (tags `vendim-2025-303/<day>`; `python registry/tools/on.py <day> vendim-2025-303`).
 
 ## Decisions made by hand
 

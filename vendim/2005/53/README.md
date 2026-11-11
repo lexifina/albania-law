@@ -5,7 +5,7 @@ Përcaktimin e dokumentacionit të nevojshëm, afateve dhe procedurave për të 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2005-53` (tags `vendim-2005-53/<day>`; `python tools/on.py <day> vendim-2005-53`).
+Act id: `vendim-2005-53` (tags `vendim-2005-53/<day>`; `python registry/tools/on.py <day> vendim-2005-53`).
 
 ## Decisions made by hand
 

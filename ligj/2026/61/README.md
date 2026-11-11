@@ -146,7 +146,7 @@ Kontrollet zyrtare dhe aktivitete të tjera zyrtare të kryera për të garantua
 | Titulli VIII | [titulli-08.md](titulli-08.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-61-2026` (tags `ligji-61-2026/<day>`; `python tools/on.py <day> ligji-61-2026`).
+Act id: `ligji-61-2026` (tags `ligji-61-2026/<day>`; `python registry/tools/on.py <day> ligji-61-2026`).
 
 ## Decisions made by hand
 

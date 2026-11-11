@@ -15,7 +15,16 @@ Ratifikimin e marrëveshjes së mandatimit ndërmjet Republikës së Shqipëris�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2010-10267` (tags `ligj-2010-10267/<day>`; `python tools/on.py <day> ligj-2010-10267`).
+Act id: `ligj-2010-10267` (tags `ligj-2010-10267/<day>`; `python registry/tools/on.py <day> ligj-2010-10267`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 10336/2010: Për një ndryshim në ligjin nr. 10 267, datë 15.4.2010 “për ratifikimin e marrëveshjes së mandatimit ndërmjet republikës së shqipërisë dhe deutsche bank ag, london e j.p. morgan securities, ltd, si menaxherë bashkëdrejtues, për transaksionin e emetimit të eurobondit, deri në 400 milionë euro, dhe miratimin e dokumenteve të tjera të transaksionit”, të ndryshuar](https://qbz.gov.al/eli/ligj/2010/10/21/10336)
+- [Ligji nr. 10276/2010: Për disa ndryshime në ligjin nr.10 267, datë 15.4.2010 “Për ratifikimin e marrëveshjes së mandatimit ndërmjet Republikës së Shqipërisë dhe Deutsche Bank AG, London e J.P Morgan Securities, LTD, si menaxherë bashkëdrejtues, për transaksionin e emetimit të eurobondit deri në 400 milionë euro dhe miratimin e dokumenteve të tjera të transaksionit”](https://qbz.gov.al/eli/ligj/2010/05/06/10276)
 
 ## Decisions made by hand
 

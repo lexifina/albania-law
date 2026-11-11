@@ -11,7 +11,7 @@ Miratimin e rregullores për certifikimin e aerodromeve civile në Republikën e
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-0313-58` (tags `urdher-2024-0313-58/<day>`; `python tools/on.py <day> urdher-2024-0313-58`).
+Act id: `urdher-2024-0313-58` (tags `urdher-2024-0313-58/<day>`; `python registry/tools/on.py <day> urdher-2024-0313-58`).
 
 ## Decisions made by hand
 

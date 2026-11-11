@@ -11,7 +11,7 @@ Mbulimin e pjesshëm të shpenzimeve të mjekimit të z. mërkur bozgo · 1 vers
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-422` (tags `vendim-2017-422/<day>`; `python tools/on.py <day> vendim-2017-422`).
+Act id: `vendim-2017-422` (tags `vendim-2017-422/<day>`; `python registry/tools/on.py <day> vendim-2017-422`).
 
 ## Decisions made by hand
 

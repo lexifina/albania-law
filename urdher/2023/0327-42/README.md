@@ -11,7 +11,7 @@ Miratimin e rregullores mbi përcaktimin e rregullave të përbashkëta të ajri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2024-05-02 |
 
-Act id: `urdher-2023-0327-42` (tags `urdher-2023-0327-42/<day>`; `python tools/on.py <day> urdher-2023-0327-42`).
+Act id: `urdher-2023-0327-42` (tags `urdher-2023-0327-42/<day>`; `python registry/tools/on.py <day> urdher-2023-0327-42`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Miratimin e aktit normativ me fuqinë e ligjit nr.1, datë 26.2.2001 të këshil
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8764-2001` (tags `ligji-8764-2001/<day>`; `python tools/on.py <day> ligji-8764-2001`).
+Act id: `ligji-8764-2001` (tags `ligji-8764-2001/<day>`; `python registry/tools/on.py <day> ligji-8764-2001`).
 
 ## Decisions made by hand
 

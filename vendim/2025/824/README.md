@@ -19,7 +19,7 @@ Përcaktimin e rasteve, kushteve dhe procedurave të marrjes së vendimit për p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-824` (tags `vendim-2025-824/<day>`; `python tools/on.py <day> vendim-2025-824`).
+Act id: `vendim-2025-824` (tags `vendim-2025-824/<day>`; `python registry/tools/on.py <day> vendim-2025-824`).
 
 ## Decisions made by hand
 

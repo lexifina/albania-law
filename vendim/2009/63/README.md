@@ -15,7 +15,7 @@ Kontratat jashtë qendrave të tregtimit · 1 versions, from 2009-02-09 (latest 
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-63` (tags `vendim-2009-63/<day>`; `python tools/on.py <day> vendim-2009-63`).
+Act id: `vendim-2009-63` (tags `vendim-2009-63/<day>`; `python registry/tools/on.py <day> vendim-2009-63`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e kritereve e të procedurave për dhënien e lejes për hapjen, mb
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-825` (tags `vendim-2015-825/<day>`; `python tools/on.py <day> vendim-2015-825`).
+Act id: `vendim-2015-825` (tags `vendim-2015-825/<day>`; `python registry/tools/on.py <day> vendim-2015-825`).
 
 ## Decisions made by hand
 

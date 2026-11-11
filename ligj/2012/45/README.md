@@ -10,7 +10,7 @@ Ratifikimin e marrëveshjes ndërmjet këshillit të ministrave të republikës 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-45-2012` (tags `ligji-45-2012/<day>`; `python tools/on.py <day> ligji-45-2012`).
+Act id: `ligji-45-2012` (tags `ligji-45-2012/<day>`; `python registry/tools/on.py <day> ligji-45-2012`).
 
 ## Decisions made by hand
 

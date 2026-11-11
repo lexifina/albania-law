@@ -15,7 +15,7 @@ Njohjen dhe ekuivalentimin e trajnimevE të kryera jashtë shtetit nga punonjës
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2008-1119-1339` (tags `udhezim-2008-1119-1339/<day>`; `python tools/on.py <day> udhezim-2008-1119-1339`).
+Act id: `udhezim-2008-1119-1339` (tags `udhezim-2008-1119-1339/<day>`; `python registry/tools/on.py <day> udhezim-2008-1119-1339`).
 
 ## Decisions made by hand
 

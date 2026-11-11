@@ -5,7 +5,7 @@ PËR NGARKIMIN E MINISTRISË SË BRENDSHME PËR KRYERJEN E PROCEDURAVE TË PROKU
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2008-53` (tags `vendim-2008-53/<day>`; `python tools/on.py <day> vendim-2008-53`).
+Act id: `vendim-2008-53` (tags `vendim-2008-53/<day>`; `python registry/tools/on.py <day> vendim-2008-53`).
 
 ## Decisions made by hand
 

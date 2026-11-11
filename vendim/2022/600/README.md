@@ -16,7 +16,7 @@ Trajtimin dhe mbulimin e shpenzimeve financiare të personelit ushtarak dhe civi
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-600` (tags `vendim-2022-600/<day>`; `python tools/on.py <day> vendim-2022-600`).
+Act id: `vendim-2022-600` (tags `vendim-2022-600/<day>`; `python registry/tools/on.py <day> vendim-2022-600`).
 
 ## Decisions made by hand
 

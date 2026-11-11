@@ -5,7 +5,7 @@ Shpalljen e zonave arkeologjike ”a” dhe ”b” të qytetit të sarandës dh
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-428` (tags `vendim-2012-428/<day>`; `python tools/on.py <day> vendim-2012-428`).
+Act id: `vendim-2012-428` (tags `vendim-2012-428/<day>`; `python registry/tools/on.py <day> vendim-2012-428`).
 
 ## Decisions made by hand
 

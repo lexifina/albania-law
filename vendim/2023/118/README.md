@@ -10,7 +10,7 @@ Miratimin e Planit Kombëtar Spitalor 2023-2030 · 1 versions, from 2023-03-07 (
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-118` (tags `vendim-2023-118/<day>`; `python tools/on.py <day> vendim-2023-118`).
+Act id: `vendim-2023-118` (tags `vendim-2023-118/<day>`; `python registry/tools/on.py <day> vendim-2023-118`).
 
 ## Decisions made by hand
 

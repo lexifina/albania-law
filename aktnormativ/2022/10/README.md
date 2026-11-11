@@ -17,7 +17,7 @@ Kompensimin financiar të çmimit për disa materiale ndërtimi, sipas përcakti
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `aktnormativ-2022-10` (tags `aktnormativ-2022-10/<day>`; `python tools/on.py <day> aktnormativ-2022-10`).
+Act id: `aktnormativ-2022-10` (tags `aktnormativ-2022-10/<day>`; `python registry/tools/on.py <day> aktnormativ-2022-10`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Sektorin e gazit natyror · 2 versions, from 2008-08-06 (latest in force: 2015-1
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2008-9946` (tags `ligj-2008-9946/<day>`; `python tools/on.py <day> ligj-2008-9946`).
+Act id: `ligj-2008-9946` (tags `ligj-2008-9946/<day>`; `python registry/tools/on.py <day> ligj-2008-9946`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Organizimin dhe zhvillimin e vlerësimit të arritjeve të nxënësve në arsimi
 | Pika 12 | [pika-012.md](pika-012.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2026-0218-3` (tags `udhezim-2026-0218-3/<day>`; `python tools/on.py <day> udhezim-2026-0218-3`).
+Act id: `udhezim-2026-0218-3` (tags `udhezim-2026-0218-3/<day>`; `python registry/tools/on.py <day> udhezim-2026-0218-3`).
 
 ## Decisions made by hand
 

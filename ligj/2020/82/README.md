@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit të protokollit II të marrëveshjes së tregtisë së 
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-82-2020` (tags `ligji-82-2020/<day>`; `python tools/on.py <day> ligji-82-2020`).
+Act id: `ligji-82-2020` (tags `ligji-82-2020/<day>`; `python registry/tools/on.py <day> ligji-82-2020`).
 
 ## Decisions made by hand
 

@@ -230,7 +230,7 @@ Të drejtat e autorit dhe të drejtat e tjera të lidhura me to · 2 versions, f
 | Pjesa X | [pjesa-10.md](pjesa-10.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-35` (tags `ligj-2016-35/<day>`; `python tools/on.py <day> ligj-2016-35`).
+Act id: `ligj-2016-35` (tags `ligj-2016-35/<day>`; `python registry/tools/on.py <day> ligj-2016-35`).
 
 ## Decisions made by hand
 

@@ -22,7 +22,7 @@ Marrëdhëniet e punës, strukturën dhe kriteret e përzgjedhjes së punonjësv
 | Pika 15 | [pika-015.md](pika-015.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-395` (tags `vendim-2026-395/<day>`; `python tools/on.py <day> vendim-2026-395`).
+Act id: `vendim-2026-395` (tags `vendim-2026-395/<day>`; `python registry/tools/on.py <day> vendim-2026-395`).
 
 ## Decisions made by hand
 

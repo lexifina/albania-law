@@ -10,7 +10,7 @@ Miratimin e rregullores së disiplinës së shërbimit të kontrollit të brends
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2009-646` (tags `vendim-2009-646/<day>`; `python tools/on.py <day> vendim-2009-646`).
+Act id: `vendim-2009-646` (tags `vendim-2009-646/<day>`; `python registry/tools/on.py <day> vendim-2009-646`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ Emërimin në detyrë të administratorit të shoqërisë “nxitja e biznesit s
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-450` (tags `vendim-2016-450/<day>`; `python tools/on.py <day> vendim-2016-450`).
+Act id: `vendim-2016-450` (tags `vendim-2016-450/<day>`; `python registry/tools/on.py <day> vendim-2016-450`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Miratimin e manualeve teknike të çmimeve të punimeve të ndërtimit dhe të a
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2012-407` (tags `vendim-2012-407/<day>`; `python tools/on.py <day> vendim-2012-407`).
+Act id: `vendim-2012-407` (tags `vendim-2012-407/<day>`; `python registry/tools/on.py <day> vendim-2012-407`).
 
 ## Decisions made by hand
 

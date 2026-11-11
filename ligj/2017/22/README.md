@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit të marrëveshjes së huas dhe projektit ndërmjet Repu
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-22` (tags `ligj-2017-22/<day>`; `python tools/on.py <day> ligj-2017-22`).
+Act id: `ligj-2017-22` (tags `ligj-2017-22/<day>`; `python registry/tools/on.py <day> ligj-2017-22`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Procedurat e emërimit dhe shkarkimit të drejtorit të institucionit arsimor pu
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0819-42` (tags `udhezim-2013-0819-42/<day>`; `python tools/on.py <day> udhezim-2013-0819-42`).
+Act id: `udhezim-2013-0819-42` (tags `udhezim-2013-0819-42/<day>`; `python registry/tools/on.py <day> udhezim-2013-0819-42`).
 
 ## Decisions made by hand
 

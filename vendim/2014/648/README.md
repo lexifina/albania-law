@@ -9,7 +9,7 @@ Miratimin e protokollit të bisedimeve, ndërmjet këshillit të ministrave të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-648` (tags `vendim-2014-648/<day>`; `python tools/on.py <day> vendim-2014-648`).
+Act id: `vendim-2014-648` (tags `vendim-2014-648/<day>`; `python registry/tools/on.py <day> vendim-2014-648`).
 
 ## Decisions made by hand
 

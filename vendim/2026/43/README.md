@@ -8,7 +8,7 @@ Emërimin në detyrë të Drejtorit të Përgjithshëm të Autoritetit Kombëtar
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-43` (tags `vendim-2026-43/<day>`; `python tools/on.py <day> vendim-2026-43`).
+Act id: `vendim-2026-43` (tags `vendim-2026-43/<day>`; `python registry/tools/on.py <day> vendim-2026-43`).
 
 ## Decisions made by hand
 

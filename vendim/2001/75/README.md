@@ -12,7 +12,15 @@ Numrin e punonjësve të institucioneve buxhetore, për numrin e punonjësve të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2001-75` (tags `vendim-2001-75/<day>`; `python tools/on.py <day> vendim-2001-75`).
+Act id: `vendim-2001-75` (tags `vendim-2001-75/<day>`; `python registry/tools/on.py <day> vendim-2001-75`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 37, datë 28.1.2002: Për organizimin dhe funksionimin e repartit të inspektim-shpëtim në miniera](https://qbz.gov.al/eli/vendim/2002/01/28/37)
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Përballimin e e fekteve financiare në zbatim të vendimit nr.73, datë 15.2.20
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2001-371` (tags `vendim-2001-371/<day>`; `python tools/on.py <day> vendim-2001-371`).
+Act id: `vendim-2001-371` (tags `vendim-2001-371/<day>`; `python registry/tools/on.py <day> vendim-2001-371`).
 
 ## Decisions made by hand
 

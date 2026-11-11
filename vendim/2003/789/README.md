@@ -5,7 +5,7 @@ Funksionimin dhe organizimin e këshillit të zhvillimit të turizmit · 2 versi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-789` (tags `vendim-2003-789/<day>`; `python tools/on.py <day> vendim-2003-789`).
+Act id: `vendim-2003-789` (tags `vendim-2003-789/<day>`; `python registry/tools/on.py <day> vendim-2003-789`).
 
 ## Decisions made by hand
 

@@ -38,7 +38,7 @@ Zhvillimin rajonal dhe kohezionin · 1 versions, from 2020-10-14 (latest in forc
 | Neni 26 | [neni-026.md](neni-026.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-102-2020` (tags `ligji-102-2020/<day>`; `python tools/on.py <day> ligji-102-2020`).
+Act id: `ligji-102-2020` (tags `ligji-102-2020/<day>`; `python registry/tools/on.py <day> ligji-102-2020`).
 
 ## Decisions made by hand
 

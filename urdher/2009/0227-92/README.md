@@ -10,7 +10,15 @@ Licencimin e agjencive të administrimit kolektiv të të drejtave të prodhuesv
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2009-0227-92` (tags `urdher-2009-0227-92/<day>`; `python tools/on.py <day> urdher-2009-0227-92`).
+Act id: `urdher-2009-0227-92` (tags `urdher-2009-0227-92/<day>`; `python registry/tools/on.py <day> urdher-2009-0227-92`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 249, datë 26.10.2011 (Ministria e Turizmit dhe Mjedisit) [QBZ 13888]: Për revokimin e urdhrit nr.92, datë 27.2.2009 “Për licencimin e agjencive të administrimit kolektiv të të drejtave të prodhuesve shqiPtarë të fonogrameve dhe videogrameve (AMI)”](https://qbz.gov.al/eli/urdher/2011/10/26/249)
 
 ## Decisions made by hand
 

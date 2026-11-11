@@ -5,7 +5,7 @@ Agjencinë e inteligjencës së mbrojtjes · 2 versions, from 2013-01-15 (latest
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2012-117` (tags `ligj-2012-117/<day>`; `python tools/on.py <day> ligj-2012-117`).
+Act id: `ligj-2012-117` (tags `ligj-2012-117/<day>`; `python registry/tools/on.py <day> ligj-2012-117`).
 
 ## Decisions made by hand
 

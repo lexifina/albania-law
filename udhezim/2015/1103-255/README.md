@@ -14,7 +14,7 @@ Përcaktimin e kushteve dhe tarifave për marrëveshjet e krijimit të servituti
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1103-255` (tags `udhezim-2015-1103-255/<day>`; `python tools/on.py <day> udhezim-2015-1103-255`).
+Act id: `udhezim-2015-1103-255` (tags `udhezim-2015-1103-255/<day>`; `python registry/tools/on.py <day> udhezim-2015-1103-255`).
 
 ## Decisions made by hand
 

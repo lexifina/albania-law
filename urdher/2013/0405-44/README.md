@@ -21,7 +21,7 @@ Krijimin e Regjistrit Shtetëror të Akteve · 1 versions, from 2013-04-23 (late
 | Pika 14 | [pika-014.md](pika-014.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0405-44` (tags `urdher-2013-0405-44/<day>`; `python tools/on.py <day> urdher-2013-0405-44`).
+Act id: `urdher-2013-0405-44` (tags `urdher-2013-0405-44/<day>`; `python registry/tools/on.py <day> urdher-2013-0405-44`).
 
 ## Decisions made by hand
 

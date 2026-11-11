@@ -101,7 +101,7 @@ Ekzekutimin e vendimeve penale · 1 versions, from 2020-08-05 (latest in force: 
 | Neni 81 | [neni-081.md](neni-081.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-79-2020` (tags `ligji-79-2020/<day>`; `python tools/on.py <day> ligji-79-2020`).
+Act id: `ligji-79-2020` (tags `ligji-79-2020/<day>`; `python registry/tools/on.py <day> ligji-79-2020`).
 
 ## Decisions made by hand
 

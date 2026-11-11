@@ -5,7 +5,7 @@ Krijimin, organizimin e funksionimin e rrjetit të koordinatorëve kundër korru
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-618` (tags `vendim-2021-618/<day>`; `python tools/on.py <day> vendim-2021-618`).
+Act id: `vendim-2021-618` (tags `vendim-2021-618/<day>`; `python registry/tools/on.py <day> vendim-2021-618`).
 
 ## Decisions made by hand
 

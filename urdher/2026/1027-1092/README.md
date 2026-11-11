@@ -18,7 +18,7 @@ Ndalimin e peshkimit në liqenin e Ohrit dhe grumbullimin e vezëve të koranit 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-1027-1092` (tags `urdher-2026-1027-1092/<day>`; `python tools/on.py <day> urdher-2026-1027-1092`).
+Act id: `urdher-2026-1027-1092` (tags `urdher-2026-1027-1092/<day>`; `python registry/tools/on.py <day> urdher-2026-1027-1092`).
 
 ## Decisions made by hand
 

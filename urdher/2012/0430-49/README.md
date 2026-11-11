@@ -5,7 +5,7 @@ Miratimin e rregullores “mbi kushtet dhe metodat e përdorimit të deltaplanev
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2012-0430-49` (tags `urdher-2012-0430-49/<day>`; `python tools/on.py <day> urdher-2012-0430-49`).
+Act id: `urdher-2012-0430-49` (tags `urdher-2012-0430-49/<day>`; `python registry/tools/on.py <day> urdher-2012-0430-49`).
 
 ## Decisions made by hand
 

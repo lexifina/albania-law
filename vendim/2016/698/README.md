@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të z. thimio plaku · 1 versions, from 2016
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-698` (tags `vendim-2016-698/<day>`; `python tools/on.py <day> vendim-2016-698`).
+Act id: `vendim-2016-698` (tags `vendim-2016-698/<day>`; `python registry/tools/on.py <day> vendim-2016-698`).
 
 ## Decisions made by hand
 

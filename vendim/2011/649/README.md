@@ -10,7 +10,7 @@ Përcaktimin e listës së specialiteteve, nënspecialiteteve apo specialiteteve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2026-03-11 |
 
-Act id: `vendim-2011-649` (tags `vendim-2011-649/<day>`; `python tools/on.py <day> vendim-2011-649`).
+Act id: `vendim-2011-649` (tags `vendim-2011-649/<day>`; `python registry/tools/on.py <day> vendim-2011-649`).
 
 ## Decisions made by hand
 

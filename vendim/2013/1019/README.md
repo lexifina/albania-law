@@ -10,7 +10,7 @@ Lejimin e Ministrisë së Financave, si autoritet kontraktues, për kryerjen e p
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-1019` (tags `vendim-2013-1019/<day>`; `python tools/on.py <day> vendim-2013-1019`).
+Act id: `vendim-2013-1019` (tags `vendim-2013-1019/<day>`; `python registry/tools/on.py <day> vendim-2013-1019`).
 
 ## Decisions made by hand
 

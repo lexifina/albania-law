@@ -5,7 +5,7 @@ Caktimin e elementeve të sigurisë dhe miratimin e formës së dokumentit të i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2004-320` (tags `vendim-2004-320/<day>`; `python tools/on.py <day> vendim-2004-320`).
+Act id: `vendim-2004-320` (tags `vendim-2004-320/<day>`; `python registry/tools/on.py <day> vendim-2004-320`).
 
 ## Decisions made by hand
 

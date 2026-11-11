@@ -5,7 +5,7 @@ Miratimin e planit kombëtar të frekuencave · 2 versions, from 2009-06-18 (lat
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-479` (tags `vendim-2009-479/<day>`; `python tools/on.py <day> vendim-2009-479`).
+Act id: `vendim-2009-479` (tags `vendim-2009-479/<day>`; `python registry/tools/on.py <day> vendim-2009-479`).
 
 ## Decisions made by hand
 

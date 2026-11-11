@@ -50,7 +50,7 @@ Procedurat e mbylljes së llogarive vjetore të buxhetit për vitin 2015 · 1 ve
 | Pika 42 | [pika-042.md](pika-042.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2015-1228-33` (tags `udhezim-2015-1228-33/<day>`; `python tools/on.py <day> udhezim-2015-1228-33`).
+Act id: `udhezim-2015-1228-33` (tags `udhezim-2015-1228-33/<day>`; `python registry/tools/on.py <day> udhezim-2015-1228-33`).
 
 ## Decisions made by hand
 

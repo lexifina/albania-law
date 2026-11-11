@@ -5,7 +5,7 @@ Përcaktimin e ngjyrës, të uniformës dhe të shenjave, në mjetet e policisë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-463` (tags `vendim-2009-463/<day>`; `python tools/on.py <day> vendim-2009-463`).
+Act id: `vendim-2009-463` (tags `vendim-2009-463/<day>`; `python registry/tools/on.py <day> vendim-2009-463`).
 
 ## Decisions made by hand
 

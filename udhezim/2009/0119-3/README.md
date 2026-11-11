@@ -14,7 +14,16 @@ Rastet e shitjes, transferimit të aksioneve të shoqërive të licencuara të l
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2009-0119-3` (tags `udhezim-2009-0119-3/<day>`; `python tools/on.py <day> udhezim-2009-0119-3`).
+Act id: `udhezim-2009-0119-3` (tags `udhezim-2009-0119-3/<day>`; `python registry/tools/on.py <day> udhezim-2009-0119-3`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 18, datë 3.6.2013 (Ministria e Financave) [QBZ 9676]: Për disa shtesa e ndryshime në udhëzimin nr. 3, datë 19.1.2009 “Për rastet e shitjes, transferimit të aksioneve të shoqërive të licencuara të lojërave të fatit”](https://qbz.gov.al/eli/vendim/2013/06/03/18)
+- [Udhëzimi nr. 2, datë 9.1.2017 (Ministria e Financave) [QBZ 55811]: PËR PËRCAKTIMIN E PROCEDURAVE DHE DOKUMENTACIONIT PËRKATËS PËR DHËNIEN E MIRATIMIT NGA AUTORITETI I MBIKËQYRJES SË LOJëRAVE TË FATIT PËR SHITJEN, LËNIEN PENG, DHURIMIN DHE ÇDO FORMË TJETËR TË DISPONIMIT TË AKSIONEVE, ASETEVE, PASURISË APO MAKINAVE TË ORGANIZATORIT TË LEJUAR PËR ZHVILLIMIN E LOJËRAVE TË FATIT](https://qbz.gov.al/eli/udhezim/2017/01/09/2)
 
 ## Decisions made by hand
 

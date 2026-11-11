@@ -9,7 +9,7 @@ Miratimin e agjendës kombëtare për të drejtat e fëmijëve, 2017-2020 · 1 v
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-372` (tags `vendim-2017-372/<day>`; `python tools/on.py <day> vendim-2017-372`).
+Act id: `vendim-2017-372` (tags `vendim-2017-372/<day>`; `python registry/tools/on.py <day> vendim-2017-372`).
 
 ## Decisions made by hand
 

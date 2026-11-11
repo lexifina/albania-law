@@ -5,7 +5,7 @@ Përcaktimin e formës dhe të formulës së privatizimit të INSIG sha-së · 3
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2002-8899` (tags `ligj-2002-8899/<day>`; `python tools/on.py <day> ligj-2002-8899`).
+Act id: `ligj-2002-8899` (tags `ligj-2002-8899/<day>`; `python registry/tools/on.py <day> ligj-2002-8899`).
 
 ## Decisions made by hand
 

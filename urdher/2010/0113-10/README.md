@@ -14,7 +14,7 @@ Vlerësimin dhe kategorizimin e stabilimenteve të produkteve ushqimore me origj
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2010-0113-10` (tags `urdher-2010-0113-10/<day>`; `python tools/on.py <day> urdher-2010-0113-10`).
+Act id: `urdher-2010-0113-10` (tags `urdher-2010-0113-10/<day>`; `python registry/tools/on.py <day> urdher-2010-0113-10`).
 
 ## Decisions made by hand
 

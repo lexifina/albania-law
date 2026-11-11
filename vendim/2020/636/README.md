@@ -10,7 +10,15 @@ Miratimin e programit shumëvjeçar për politikën spektrale dhe të planit të
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2020-636` (tags `vendim-2020-636/<day>`; `python tools/on.py <day> vendim-2020-636`).
+Act id: `vendim-2020-636` (tags `vendim-2020-636/<day>`; `python registry/tools/on.py <day> vendim-2020-636`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Ligji nr. 35/2025: Për ratifikimin e marrëveshjes së financimit ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë dhe Komisionit Evropian, për programin operacional shumëvjeçar për ekonominë dhe shoqërinë digjitale, në favor të Republikës së Shqipërisë, për periudhën 2024-2027, në kuadër të Instrumentit të Asistencës së Paraanëtarësimit (IPA III)](https://qbz.gov.al/eli/ligj/2025/06/05/35)
 
 ## Decisions made by hand
 

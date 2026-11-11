@@ -14,7 +14,7 @@ Mënyrën e ndërveprimit të programeve sociale të strehimit me shërbimet soc
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2020-0605-22` (tags `udhezim-2020-0605-22/<day>`; `python tools/on.py <day> udhezim-2020-0605-22`).
+Act id: `udhezim-2020-0605-22` (tags `udhezim-2020-0605-22/<day>`; `python registry/tools/on.py <day> udhezim-2020-0605-22`).
 
 ## Decisions made by hand
 

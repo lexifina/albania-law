@@ -5,7 +5,7 @@ Muzetë · 2 versions, from 2005-06-29 (latest in force: 2018-06-27) · <https:/
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2005-9386` (tags `ligj-2005-9386/<day>`; `python tools/on.py <day> ligj-2005-9386`).
+Act id: `ligj-2005-9386` (tags `ligj-2005-9386/<day>`; `python registry/tools/on.py <day> ligj-2005-9386`).
 
 ## Decisions made by hand
 

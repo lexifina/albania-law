@@ -14,7 +14,7 @@ Miratimin e listës së infrastrukturave kritike të informacionit dhe të list�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-12-13 |
 
-Act id: `vendim-2020-553` (tags `vendim-2020-553/<day>`; `python tools/on.py <day> vendim-2020-553`).
+Act id: `vendim-2020-553` (tags `vendim-2020-553/<day>`; `python registry/tools/on.py <day> vendim-2020-553`).
 
 ## Decisions made by hand
 

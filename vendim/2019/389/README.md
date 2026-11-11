@@ -23,7 +23,7 @@ Kriteret për lëshimin e pasaportës diplomatike dhe asaj të shërbimit · 8 v
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2023-12-19 |
 
-Act id: `vendim-2019-389` (tags `vendim-2019-389/<day>`; `python tools/on.py <day> vendim-2019-389`).
+Act id: `vendim-2019-389` (tags `vendim-2019-389/<day>`; `python registry/tools/on.py <day> vendim-2019-389`).
 
 ## Decisions made by hand
 

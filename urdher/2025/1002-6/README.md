@@ -19,7 +19,7 @@ Delegimin e kompetencave për përfaqësimin ligjor të Ministrisë së Mjedisit
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-1002-6` (tags `urdher-2025-1002-6/<day>`; `python tools/on.py <day> urdher-2025-1002-6`).
+Act id: `urdher-2025-1002-6` (tags `urdher-2025-1002-6/<day>`; `python registry/tools/on.py <day> urdher-2025-1002-6`).
 
 ## Decisions made by hand
 

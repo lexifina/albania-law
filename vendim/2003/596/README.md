@@ -9,7 +9,7 @@ Miratimin e kuotës së pranimit të studentëve në Akademinë e Policisë ”A
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-596` (tags `vendim-2003-596/<day>`; `python tools/on.py <day> vendim-2003-596`).
+Act id: `vendim-2003-596` (tags `vendim-2003-596/<day>`; `python registry/tools/on.py <day> vendim-2003-596`).
 
 ## Decisions made by hand
 

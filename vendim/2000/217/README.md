@@ -5,7 +5,7 @@ Kontrollin financiar · 2 versions, from 2000-05-19 (latest in force: 2003-07-21
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-217` (tags `vendim-2000-217/<day>`; `python tools/on.py <day> vendim-2000-217`).
+Act id: `vendim-2000-217` (tags `vendim-2000-217/<day>`; `python registry/tools/on.py <day> vendim-2000-217`).
 
 ## Decisions made by hand
 

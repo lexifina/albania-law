@@ -14,7 +14,7 @@ Krijimin e sektorit të policisë, për grumbullimin e armëve dhe të municione
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-64` (tags `vendim-2000-64/<day>`; `python tools/on.py <day> vendim-2000-64`).
+Act id: `vendim-2000-64` (tags `vendim-2000-64/<day>`; `python registry/tools/on.py <day> vendim-2000-64`).
 
 ## Decisions made by hand
 

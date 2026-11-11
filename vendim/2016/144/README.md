@@ -12,7 +12,7 @@ Planin vjetor të pranimit për vitin 2016, në institucionet e administratës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-144` (tags `vendim-2016-144/<day>`; `python tools/on.py <day> vendim-2016-144`).
+Act id: `vendim-2016-144` (tags `vendim-2016-144/<day>`; `python registry/tools/on.py <day> vendim-2016-144`).
 
 ## Decisions made by hand
 

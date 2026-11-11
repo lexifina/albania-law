@@ -65,7 +65,7 @@ Menaxhimin e kimikateve · 3 versions, from 2018-03-29 (latest in force: 2026-08
 | Neni 45 | [neni-045.md](neni-045.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2016-27` (tags `ligj-2016-27/<day>`; `python tools/on.py <day> ligj-2016-27`).
+Act id: `ligj-2016-27` (tags `ligj-2016-27/<day>`; `python registry/tools/on.py <day> ligj-2016-27`).
 
 ## Decisions made by hand
 

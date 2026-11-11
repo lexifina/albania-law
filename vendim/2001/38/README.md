@@ -5,7 +5,7 @@ Një mbrojtje të veçantë të personave, që ndihmojnë policinë, dhe të pun
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2001-38` (tags `vendim-2001-38/<day>`; `python tools/on.py <day> vendim-2001-38`).
+Act id: `vendim-2001-38` (tags `vendim-2001-38/<day>`; `python registry/tools/on.py <day> vendim-2001-38`).
 
 ## Decisions made by hand
 

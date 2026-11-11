@@ -11,7 +11,7 @@ Miratimin e metodikës “për mënyrat e llogaritjes së nivelit të kërkuar t
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2005-191` (tags `vendim-2005-191/<day>`; `python tools/on.py <day> vendim-2005-191`).
+Act id: `vendim-2005-191` (tags `vendim-2005-191/<day>`; `python registry/tools/on.py <day> vendim-2005-191`).
 
 ## Decisions made by hand
 

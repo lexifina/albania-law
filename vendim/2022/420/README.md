@@ -21,7 +21,7 @@ Marrjen e masave për ruajtjen e trashëgimisë kulturore në rastet e fatkeqës
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-420` (tags `vendim-2022-420/<day>`; `python tools/on.py <day> vendim-2022-420`).
+Act id: `vendim-2022-420` (tags `vendim-2022-420/<day>`; `python registry/tools/on.py <day> vendim-2022-420`).
 
 ## Decisions made by hand
 

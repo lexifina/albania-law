@@ -11,7 +11,7 @@ Rritjen e pagave të gjyqtarëve dhe të prokurorëve · 1 versions, from 2000-0
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2000-376` (tags `vendim-2000-376/<day>`; `python tools/on.py <day> vendim-2000-376`).
+Act id: `vendim-2000-376` (tags `vendim-2000-376/<day>`; `python registry/tools/on.py <day> vendim-2000-376`).
 
 ## Decisions made by hand
 

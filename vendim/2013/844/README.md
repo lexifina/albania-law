@@ -5,7 +5,7 @@ Përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Kult
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-844` (tags `vendim-2013-844/<day>`; `python tools/on.py <day> vendim-2013-844`).
+Act id: `vendim-2013-844` (tags `vendim-2013-844/<day>`; `python registry/tools/on.py <day> vendim-2013-844`).
 
 ## Decisions made by hand
 

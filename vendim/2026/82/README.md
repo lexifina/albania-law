@@ -15,7 +15,7 @@ Përcaktimin e formës, përmbajtjes, elementeve të Regjistrit Kombëtar të in
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2026-82` (tags `vendim-2026-82/<day>`; `python tools/on.py <day> vendim-2026-82`).
+Act id: `vendim-2026-82` (tags `vendim-2026-82/<day>`; `python registry/tools/on.py <day> vendim-2026-82`).
 
 ## Decisions made by hand
 

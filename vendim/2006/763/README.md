@@ -13,7 +13,15 @@ Kompensimin e të ardhurave mujore të pensionistëve · 1 versions, from 2006-1
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2006-763` (tags `vendim-2006-763/<day>`; `python tools/on.py <day> vendim-2006-763`).
+Act id: `vendim-2006-763` (tags `vendim-2006-763/<day>`; `python registry/tools/on.py <day> vendim-2006-763`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 448, datë 13.7.2007: Për rritjen e pensioneve](https://qbz.gov.al/eli/vendim/2007/07/13/448)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Përcaktimin e tarifës së shërbimit për përdorimin e aparateve televizive �
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2009-0108-1` (tags `udhezim-2009-0108-1/<day>`; `python tools/on.py <day> udhezim-2009-0108-1`).
+Act id: `udhezim-2009-0108-1` (tags `udhezim-2009-0108-1/<day>`; `python registry/tools/on.py <day> udhezim-2009-0108-1`).
 
 ## Decisions made by hand
 

@@ -17,7 +17,7 @@ PËR MIRATIMIN E FORMËS SË INFORMACIONEVE TREMUJORE, PËRFUNDIMTARE DHE PËRMB
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2011-0413-309` (tags `urdher-2011-0413-309/<day>`; `python tools/on.py <day> urdher-2011-0413-309`).
+Act id: `urdher-2011-0413-309` (tags `urdher-2011-0413-309/<day>`; `python registry/tools/on.py <day> urdher-2011-0413-309`).
 
 ## Decisions made by hand
 

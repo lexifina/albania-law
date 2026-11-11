@@ -5,7 +5,7 @@ Administrimin dhe dokumentimin e procedurave të pajisjeve fiskale · 2 versions
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2008-1209-39` (tags `udhezim-2008-1209-39/<day>`; `python tools/on.py <day> udhezim-2008-1209-39`).
+Act id: `udhezim-2008-1209-39` (tags `udhezim-2008-1209-39/<day>`; `python registry/tools/on.py <day> udhezim-2008-1209-39`).
 
 ## Decisions made by hand
 

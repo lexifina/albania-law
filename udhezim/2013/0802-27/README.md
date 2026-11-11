@@ -5,7 +5,7 @@ Bordin e institucionit arsimor · 2 versions, from 2013-08-23 (latest in force: 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2013-0802-27` (tags `udhezim-2013-0802-27/<day>`; `python tools/on.py <day> udhezim-2013-0802-27`).
+Act id: `udhezim-2013-0802-27` (tags `udhezim-2013-0802-27/<day>`; `python registry/tools/on.py <day> udhezim-2013-0802-27`).
 
 ## Decisions made by hand
 

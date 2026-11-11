@@ -11,7 +11,7 @@ Disiplinimin e angazhimeve buxhetore · 1 versions, from 2017-10-24 (latest in f
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2016-807` (tags `vendim-2016-807/<day>`; `python tools/on.py <day> vendim-2016-807`).
+Act id: `vendim-2016-807` (tags `vendim-2016-807/<day>`; `python registry/tools/on.py <day> vendim-2016-807`).
 
 ## Decisions made by hand
 

@@ -8,7 +8,7 @@ PËR MIRATIMIN E MARRËVESHJES SË FINANCIMIT NDËRMJET KËSHILLIT TË MINISTRAV
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-460` (tags `vendim-2012-460/<day>`; `python tools/on.py <day> vendim-2012-460`).
+Act id: `vendim-2012-460` (tags `vendim-2012-460/<day>`; `python registry/tools/on.py <day> vendim-2012-460`).
 
 ## Decisions made by hand
 

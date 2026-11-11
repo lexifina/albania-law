@@ -15,7 +15,7 @@ Përcaktimin e detyrave, përgjegjësive të bordit të qiradhënies, procedurav
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-656` (tags `vendim-2010-656/<day>`; `python tools/on.py <day> vendim-2010-656`).
+Act id: `vendim-2010-656` (tags `vendim-2010-656/<day>`; `python registry/tools/on.py <day> vendim-2010-656`).
 
 ## Decisions made by hand
 

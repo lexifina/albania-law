@@ -11,7 +11,7 @@ Një shtesë fondi në buxhetin e ministrisë së shëndetësisë, miratuar për
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-592` (tags `vendim-2010-592/<day>`; `python tools/on.py <day> vendim-2010-592`).
+Act id: `vendim-2010-592` (tags `vendim-2010-592/<day>`; `python registry/tools/on.py <day> vendim-2010-592`).
 
 ## Decisions made by hand
 

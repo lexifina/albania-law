@@ -11,7 +11,7 @@ PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2017, MIRATUAR PËR MINISTRINË E Z
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2017-204` (tags `vendim-2017-204/<day>`; `python tools/on.py <day> vendim-2017-204`).
+Act id: `vendim-2017-204` (tags `vendim-2017-204/<day>`; `python registry/tools/on.py <day> vendim-2017-204`).
 
 ## Decisions made by hand
 

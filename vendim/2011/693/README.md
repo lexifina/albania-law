@@ -15,7 +15,7 @@ Licencimin e akademisë së studimeve të aplikuara, durrës · 1 versions, from
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2011-693` (tags `vendim-2011-693/<day>`; `python tools/on.py <day> vendim-2011-693`).
+Act id: `vendim-2011-693` (tags `vendim-2011-693/<day>`; `python registry/tools/on.py <day> vendim-2011-693`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Miratimin e metodologjisë për vlerësimin dhe analizimin e rrezikut të siguri
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-308` (tags `vendim-2025-308/<day>`; `python tools/on.py <day> vendim-2025-308`).
+Act id: `vendim-2025-308` (tags `vendim-2025-308/<day>`; `python registry/tools/on.py <day> vendim-2025-308`).
 
 ## Decisions made by hand
 

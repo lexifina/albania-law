@@ -9,7 +9,7 @@ Një ndryshim në vendimin nr. 36, datë 16.1.2013 të Këshillit të Ministrave
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-1048` (tags `vendim-2013-1048/<day>`; `python tools/on.py <day> vendim-2013-1048`).
+Act id: `vendim-2013-1048` (tags `vendim-2013-1048/<day>`; `python registry/tools/on.py <day> vendim-2013-1048`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e rregullave për prodhimin, importin, eksportin, hedhjen në treg dhe
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2019-10` (tags `vendim-2019-10/<day>`; `python tools/on.py <day> vendim-2019-10`).
+Act id: `vendim-2019-10` (tags `vendim-2019-10/<day>`; `python registry/tools/on.py <day> vendim-2019-10`).
 
 ## Decisions made by hand
 

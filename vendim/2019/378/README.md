@@ -11,7 +11,7 @@ Miratimin e rregullit teknik për pajisjet radio, njohjen e ndërsjellë të vle
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2023-12-19 |
 
-Act id: `vendim-2019-378` (tags `vendim-2019-378/<day>`; `python tools/on.py <day> vendim-2019-378`).
+Act id: `vendim-2019-378` (tags `vendim-2019-378/<day>`; `python registry/tools/on.py <day> vendim-2019-378`).
 
 ## Decisions made by hand
 

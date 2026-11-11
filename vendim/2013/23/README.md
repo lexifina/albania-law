@@ -13,7 +13,7 @@ Përcaktimin e numrit të praktikantëve për kryerjen e praktikës profesionale
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2013-23` (tags `vendim-2013-23/<day>`; `python tools/on.py <day> vendim-2013-23`).
+Act id: `vendim-2013-23` (tags `vendim-2013-23/<day>`; `python registry/tools/on.py <day> vendim-2013-23`).
 
 ## Decisions made by hand
 

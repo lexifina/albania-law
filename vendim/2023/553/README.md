@@ -12,7 +12,7 @@ Indeksimin e pensioneve · 1 versions, from 2023-10-02 (latest in force: 2023-10
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2023-553` (tags `vendim-2023-553/<day>`; `python tools/on.py <day> vendim-2023-553`).
+Act id: `vendim-2023-553` (tags `vendim-2023-553/<day>`; `python registry/tools/on.py <day> vendim-2023-553`).
 
 ## Decisions made by hand
 

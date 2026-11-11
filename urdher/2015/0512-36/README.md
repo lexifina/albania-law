@@ -12,7 +12,7 @@ Kufizimin e sasive të karburantit që gjendet në serbatorët e zakonshëm dhe 
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2015-0512-36` (tags `urdher-2015-0512-36/<day>`; `python tools/on.py <day> urdher-2015-0512-36`).
+Act id: `urdher-2015-0512-36` (tags `urdher-2015-0512-36/<day>`; `python registry/tools/on.py <day> urdher-2015-0512-36`).
 
 ## Decisions made by hand
 

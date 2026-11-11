@@ -5,7 +5,7 @@ Procedurën e korrigjimit të emrit, mbiemrit, emrit të babait, emrit të nën�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2019-0827-509` (tags `udhezim-2019-0827-509/<day>`; `python tools/on.py <day> udhezim-2019-0827-509`).
+Act id: `udhezim-2019-0827-509` (tags `udhezim-2019-0827-509/<day>`; `python registry/tools/on.py <day> udhezim-2019-0827-509`).
 
 ## Decisions made by hand
 

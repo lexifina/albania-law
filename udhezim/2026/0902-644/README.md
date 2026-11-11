@@ -27,7 +27,7 @@ Procedurën e kontrollit mjekësor dhe pajisjen me leje drejtimi të mjeteve me 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2026-0902-644` (tags `udhezim-2026-0902-644/<day>`; `python tools/on.py <day> udhezim-2026-0902-644`).
+Act id: `udhezim-2026-0902-644` (tags `udhezim-2026-0902-644/<day>`; `python registry/tools/on.py <day> udhezim-2026-0902-644`).
 
 ## Decisions made by hand
 

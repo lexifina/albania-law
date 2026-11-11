@@ -5,7 +5,7 @@ Përcaktimin e procedurave të përkthimit të legjislacionit të Bashkimit Euro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-119` (tags `vendim-2007-119/<day>`; `python tools/on.py <day> vendim-2007-119`).
+Act id: `vendim-2007-119` (tags `vendim-2007-119/<day>`; `python registry/tools/on.py <day> vendim-2007-119`).
 
 ## Decisions made by hand
 

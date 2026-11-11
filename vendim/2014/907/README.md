@@ -10,7 +10,7 @@ Dhënien e miratimit për sigurimin e financimit të nevojshëm të kontratës s
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-907` (tags `vendim-2014-907/<day>`; `python tools/on.py <day> vendim-2014-907`).
+Act id: `vendim-2014-907` (tags `vendim-2014-907/<day>`; `python registry/tools/on.py <day> vendim-2014-907`).
 
 ## Decisions made by hand
 

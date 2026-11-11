@@ -5,7 +5,7 @@ Vendosjen e oponencës teknike shtetërore për projektet e ndërtimit të hidro
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-191` (tags `vendim-2007-191/<day>`; `python tools/on.py <day> vendim-2007-191`).
+Act id: `vendim-2007-191` (tags `vendim-2007-191/<day>`; `python registry/tools/on.py <day> vendim-2007-191`).
 
 ## Decisions made by hand
 

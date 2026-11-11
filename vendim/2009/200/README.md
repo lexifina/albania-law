@@ -5,7 +5,7 @@ Përcaktimin e kushteve dhe për procedurën e tjetËrsimit të oborreve në pë
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2009-200` (tags `vendim-2009-200/<day>`; `python tools/on.py <day> vendim-2009-200`).
+Act id: `vendim-2009-200` (tags `vendim-2009-200/<day>`; `python registry/tools/on.py <day> vendim-2009-200`).
 
 ## Decisions made by hand
 

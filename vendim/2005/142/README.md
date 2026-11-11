@@ -12,7 +12,7 @@ Mandatimin e këshillit kombëtar të kontabilitetit · 1 versions, from 2005-04
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2005-142` (tags `vendim-2005-142/<day>`; `python tools/on.py <day> vendim-2005-142`).
+Act id: `vendim-2005-142` (tags `vendim-2005-142/<day>`; `python registry/tools/on.py <day> vendim-2005-142`).
 
 ## Decisions made by hand
 

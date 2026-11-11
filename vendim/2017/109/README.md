@@ -44,7 +44,7 @@ Organizimin dhe funksionimin e agjencisë së sigurimit të cilësisë në arsim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2024-10-14 |
 
-Act id: `vendim-2017-109` (tags `vendim-2017-109/<day>`; `python tools/on.py <day> vendim-2017-109`).
+Act id: `vendim-2017-109` (tags `vendim-2017-109/<day>`; `python registry/tools/on.py <day> vendim-2017-109`).
 
 ## Decisions made by hand
 

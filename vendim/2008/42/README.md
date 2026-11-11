@@ -10,7 +10,7 @@ Miratimin e rregullores për kriteret dhe procedurat e dhënies së licencave pr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 3 | 2025-07-04 |
 
-Act id: `vendim-2008-42` (tags `vendim-2008-42/<day>`; `python tools/on.py <day> vendim-2008-42`).
+Act id: `vendim-2008-42` (tags `vendim-2008-42/<day>`; `python registry/tools/on.py <day> vendim-2008-42`).
 
 ## Decisions made by hand
 

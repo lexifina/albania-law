@@ -5,7 +5,7 @@ PËr Krijimin e Agjencisë Kombëtare për sigurinë kompjuterike (ALCIRT) · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2011-766` (tags `vendim-2011-766/<day>`; `python tools/on.py <day> vendim-2011-766`).
+Act id: `vendim-2011-766` (tags `vendim-2011-766/<day>`; `python registry/tools/on.py <day> vendim-2011-766`).
 
 ## Decisions made by hand
 

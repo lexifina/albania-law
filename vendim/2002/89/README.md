@@ -8,7 +8,7 @@ Miratimin, në parim, të marrëveshjes së tregtisë së lirë, ndërmjet repub
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2002-89` (tags `vendim-2002-89/<day>`; `python tools/on.py <day> vendim-2002-89`).
+Act id: `vendim-2002-89` (tags `vendim-2002-89/<day>`; `python registry/tools/on.py <day> vendim-2002-89`).
 
 ## Decisions made by hand
 

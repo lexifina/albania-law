@@ -13,7 +13,7 @@ Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-638` (tags `vendim-2013-638/<day>`; `python tools/on.py <day> vendim-2013-638`).
+Act id: `vendim-2013-638` (tags `vendim-2013-638/<day>`; `python registry/tools/on.py <day> vendim-2013-638`).
 
 ## Decisions made by hand
 

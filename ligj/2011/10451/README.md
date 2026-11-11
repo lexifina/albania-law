@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në konventën “për zgjidhjen paqëso
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10451-2011` (tags `ligji-10451-2011/<day>`; `python tools/on.py <day> ligji-10451-2011`).
+Act id: `ligji-10451-2011` (tags `ligji-10451-2011/<day>`; `python registry/tools/on.py <day> ligji-10451-2011`).
 
 ## Decisions made by hand
 

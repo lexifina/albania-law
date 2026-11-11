@@ -18,7 +18,7 @@ Organizimin dhe funksionimin e Arkivit Qendror Shtetëror të Drejtësisë · 1 
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2025-250` (tags `vendim-2025-250/<day>`; `python tools/on.py <day> vendim-2025-250`).
+Act id: `vendim-2025-250` (tags `vendim-2025-250/<day>`; `python registry/tools/on.py <day> vendim-2025-250`).
 
 ## Decisions made by hand
 

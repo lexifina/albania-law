@@ -31,7 +31,7 @@ Përcaktimin e procedurave të konstatimit, të shqyrtimit, të propozimit dhe t
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2024-13` (tags `vendim-2024-13/<day>`; `python tools/on.py <day> vendim-2024-13`).
+Act id: `vendim-2024-13` (tags `vendim-2024-13/<day>`; `python registry/tools/on.py <day> vendim-2024-13`).
 
 ## Decisions made by hand
 

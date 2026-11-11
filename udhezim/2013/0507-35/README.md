@@ -14,7 +14,7 @@ Përpunimin e të dhënave personale për qëllime të fushatës zgjedhore · 1 
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2013-0507-35` (tags `udhezim-2013-0507-35/<day>`; `python tools/on.py <day> udhezim-2013-0507-35`).
+Act id: `udhezim-2013-0507-35` (tags `udhezim-2013-0507-35/<day>`; `python registry/tools/on.py <day> udhezim-2013-0507-35`).
 
 ## Decisions made by hand
 

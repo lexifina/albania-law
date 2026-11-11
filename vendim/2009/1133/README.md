@@ -9,7 +9,7 @@ Miratimin e kontratës së koncesionit, të formës “bot”, të lidhur ndërm
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1133` (tags `vendim-2009-1133/<day>`; `python tools/on.py <day> vendim-2009-1133`).
+Act id: `vendim-2009-1133` (tags `vendim-2009-1133/<day>`; `python registry/tools/on.py <day> vendim-2009-1133`).
 
 ## Decisions made by hand
 

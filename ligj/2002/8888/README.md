@@ -11,7 +11,7 @@ Ratifikimin e “Konventës për krimin në fushën e kibernetikës” · 1 vers
 | Shtojca | [shtojca.md](shtojca.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-8888-2002` (tags `ligji-8888-2002/<day>`; `python tools/on.py <day> ligji-8888-2002`).
+Act id: `ligji-8888-2002` (tags `ligji-8888-2002/<day>`; `python registry/tools/on.py <day> ligji-8888-2002`).
 
 ## Decisions made by hand
 

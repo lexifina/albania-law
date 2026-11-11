@@ -38,7 +38,7 @@ Ratifikimin e “konventës ndërmjet republikës së shqipërisë dhe mbretëri
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Neni 30 | [neni-030.md](neni-030.md) | 0 |  |
 
-Act id: `ligji-9051-2003` (tags `ligji-9051-2003/<day>`; `python tools/on.py <day> ligji-9051-2003`).
+Act id: `ligji-9051-2003` (tags `ligji-9051-2003/<day>`; `python registry/tools/on.py <day> ligji-9051-2003`).
 
 ## Decisions made by hand
 

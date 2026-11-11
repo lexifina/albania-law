@@ -5,7 +5,7 @@ Procedurën e pajtimit dhe masën e shpërblimit të anëtarëve të zyrave shte
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-741` (tags `vendim-2003-741/<day>`; `python tools/on.py <day> vendim-2003-741`).
+Act id: `vendim-2003-741` (tags `vendim-2003-741/<day>`; `python registry/tools/on.py <day> vendim-2003-741`).
 
 ## Decisions made by hand
 

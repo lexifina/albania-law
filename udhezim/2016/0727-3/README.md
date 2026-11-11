@@ -17,7 +17,7 @@ Përcaktimin e rregullave për aplikimin për regjistrimin e një kimikati indus
 | Pika 10 | [pika-010.md](pika-010.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-0727-3` (tags `udhezim-2016-0727-3/<day>`; `python tools/on.py <day> udhezim-2016-0727-3`).
+Act id: `udhezim-2016-0727-3` (tags `udhezim-2016-0727-3/<day>`; `python registry/tools/on.py <day> udhezim-2016-0727-3`).
 
 ## Decisions made by hand
 

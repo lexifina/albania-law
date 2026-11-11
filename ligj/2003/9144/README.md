@@ -8,7 +8,7 @@ Miratimin e buxhetit faktik të shtetit të vitit 2002 · 1 versions, from 2003-
 | Neni 1 | [neni-001.md](neni-001.md) | 0 |  |
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 
-Act id: `ligji-9144-2003` (tags `ligji-9144-2003/<day>`; `python tools/on.py <day> ligji-9144-2003`).
+Act id: `ligji-9144-2003` (tags `ligji-9144-2003/<day>`; `python registry/tools/on.py <day> ligji-9144-2003`).
 
 ## Decisions made by hand
 

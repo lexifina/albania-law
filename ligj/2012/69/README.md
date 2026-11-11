@@ -103,7 +103,7 @@ Sistemin arsimor parauniversitar në republikën e shqipërisë · 4 versions, f
 | Neni 74 | [neni-074.md](neni-074.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-69` (tags `ligj-2012-69/<day>`; `python tools/on.py <day> ligj-2012-69`).
+Act id: `ligj-2012-69` (tags `ligj-2012-69/<day>`; `python registry/tools/on.py <day> ligj-2012-69`).
 
 ## Decisions made by hand
 

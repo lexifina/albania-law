@@ -43,7 +43,7 @@ Lobimin në Republikën e Shqipërisë · 1 versions, from 2026-03-03 (latest in
 | Neni 28 | [neni-028.md](neni-028.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-12-2026` (tags `ligji-12-2026/<day>`; `python tools/on.py <day> ligji-12-2026`).
+Act id: `ligji-12-2026` (tags `ligji-12-2026/<day>`; `python registry/tools/on.py <day> ligji-12-2026`).
 
 ## Decisions made by hand
 

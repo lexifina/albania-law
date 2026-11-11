@@ -11,7 +11,7 @@ Miratimin e listës përfundimtare të pronave, pyje dhe kullota, që do të tra
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2008-12-22 |
 
-Act id: `vendim-2008-107` (tags `vendim-2008-107/<day>`; `python tools/on.py <day> vendim-2008-107`).
+Act id: `vendim-2008-107` (tags `vendim-2008-107/<day>`; `python registry/tools/on.py <day> vendim-2008-107`).
 
 ## Decisions made by hand
 

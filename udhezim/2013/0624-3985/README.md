@@ -20,7 +20,7 @@ Mbi procedurat e kontrollit në transportin rrugor të mallrave të rrezikshme �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2013-0624-3985` (tags `udhezim-2013-0624-3985/<day>`; `python tools/on.py <day> udhezim-2013-0624-3985`).
+Act id: `udhezim-2013-0624-3985` (tags `udhezim-2013-0624-3985/<day>`; `python registry/tools/on.py <day> udhezim-2013-0624-3985`).
 
 ## Decisions made by hand
 

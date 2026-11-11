@@ -14,7 +14,7 @@ Simbolet e përkujtimit të viktimave dhe të krimeve të komunizmit në Shqipë
 | Neni 7 | [neni-007.md](neni-007.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligji-10241-2010` (tags `ligji-10241-2010/<day>`; `python tools/on.py <day> ligji-10241-2010`).
+Act id: `ligji-10241-2010` (tags `ligji-10241-2010/<day>`; `python registry/tools/on.py <day> ligji-10241-2010`).
 
 ## Decisions made by hand
 

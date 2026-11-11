@@ -9,7 +9,7 @@ Kategorizimin e bibliotekave publike · 1 versions, from 2004-11-12 (latest in f
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2004-717` (tags `vendim-2004-717/<day>`; `python tools/on.py <day> vendim-2004-717`).
+Act id: `vendim-2004-717` (tags `vendim-2004-717/<day>`; `python registry/tools/on.py <day> vendim-2004-717`).
 
 ## Decisions made by hand
 

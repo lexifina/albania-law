@@ -5,7 +5,7 @@ Ngarkimin e Gardës së Republikës së Shqipërisë për kryerjen e procedurës
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-246` (tags `vendim-2015-246/<day>`; `python tools/on.py <day> vendim-2015-246`).
+Act id: `vendim-2015-246` (tags `vendim-2015-246/<day>`; `python registry/tools/on.py <day> vendim-2015-246`).
 
 ## Decisions made by hand
 

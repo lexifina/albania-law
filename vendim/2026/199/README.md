@@ -10,7 +10,7 @@ Miratimin e Planit Kombëtar të Veprimit të Garancisë Evropiane për Fëmijë
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2026-199` (tags `vendim-2026-199/<day>`; `python tools/on.py <day> vendim-2026-199`).
+Act id: `vendim-2026-199` (tags `vendim-2026-199/<day>`; `python registry/tools/on.py <day> vendim-2026-199`).
 
 ## Decisions made by hand
 

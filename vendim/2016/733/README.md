@@ -10,7 +10,7 @@ Miratimin e strategjisë kombëtare për barazinë gjinore dhe të planit të ve
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2016-733` (tags `vendim-2016-733/<day>`; `python tools/on.py <day> vendim-2016-733`).
+Act id: `vendim-2016-733` (tags `vendim-2016-733/<day>`; `python registry/tools/on.py <day> vendim-2016-733`).
 
 ## Decisions made by hand
 

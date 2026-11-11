@@ -17,7 +17,17 @@ Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme,
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-205` (tags `vendim-2014-205/<day>`; `python tools/on.py <day> vendim-2014-205`).
+Act id: `vendim-2014-205` (tags `vendim-2014-205/<day>`; `python registry/tools/on.py <day> vendim-2014-205`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Kërkesë nr. 2385, datë 27.10.2015 (Ministria e Brendshme): Për shpronësimin e pronarëve që do të shpronësohen për shkak të disa ndryshimeve në vendimet e Këshillit të Ministrave nr. 205, datë 9.4.2014 dhe nr. 432, datë 2.7.2014, në bashkinë e Elbasanit](https://qbz.gov.al/eli/kerkese/2015/10/27/2385-5)
+- [Vendimi i Këshillit të Ministrave nr. 325, datë 27.4.2016: Për disa ndryshime në vendimin nr. 205, datë 9.4.2014, të këshillit të ministrave, “për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga hapja dhe ndërtimi i unazës veriore, segmenti a-b, në lagjen “11 nëntori”, hapja dhe sistemimi i zgjatimit të unazës së brendshme, segmenti që bashkon rrugën “28 nëntori” me rrugën “rinia”, si dhe hapja e sistemimi i zgjatimit të rrugës “lef nosi”, lagjja “5 maji”, segmenti b-c, të bashkisë së elbasanit”](https://qbz.gov.al/eli/vendim/2016/04/27/325)
+- [Kërkesë nr. 6276, datë 11.1.2016 (Ministria e Brendshme): Për shpronësimin e pasurive të paluajtshme, për interes publik, të pronarëve që do të shpronësohen për shkak të disa shtesave dhe ndryshimeve në vendimet e Këshillit të Ministrave nr. 205, datë 9.4.2014, nr. 432, 2.7.2014 dhe nr. 391, datë 6.5.2015, në Bashkinë e Elbasanit](https://qbz.gov.al/eli/kerkese/2016/01/11/6276-3)
 
 ## Decisions made by hand
 

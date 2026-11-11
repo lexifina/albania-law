@@ -12,7 +12,7 @@ Trajtimin me pagesë minimale të punonjësve të fabrikës së çimentos, vlor�
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2000-496` (tags `vendim-2000-496/<day>`; `python tools/on.py <day> vendim-2000-496`).
+Act id: `vendim-2000-496` (tags `vendim-2000-496/<day>`; `python registry/tools/on.py <day> vendim-2000-496`).
 
 ## Decisions made by hand
 

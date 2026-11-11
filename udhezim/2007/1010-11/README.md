@@ -11,7 +11,7 @@ PËR PASQYRIMIN NË DOKUMENTACION TË NDRYSHIMEVE TË KATEGORISË SË RESURSEVE 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-1010-11` (tags `udhezim-2007-1010-11/<day>`; `python tools/on.py <day> udhezim-2007-1010-11`).
+Act id: `udhezim-2007-1010-11` (tags `udhezim-2007-1010-11/<day>`; `python registry/tools/on.py <day> udhezim-2007-1010-11`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Organizimin dhe funksionimin e repartit të inspektim-shpëtim në miniera · 2 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2002-37` (tags `vendim-2002-37/<day>`; `python tools/on.py <day> vendim-2002-37`).
+Act id: `vendim-2002-37` (tags `vendim-2002-37/<day>`; `python registry/tools/on.py <day> vendim-2002-37`).
 
 ## Decisions made by hand
 

@@ -11,7 +11,7 @@ Miratimin e buxhetit të vitit 2015 për zyrën e regjistrimit të pasurive të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2014-935` (tags `vendim-2014-935/<day>`; `python tools/on.py <day> vendim-2014-935`).
+Act id: `vendim-2014-935` (tags `vendim-2014-935/<day>`; `python registry/tools/on.py <day> vendim-2014-935`).
 
 ## Decisions made by hand
 

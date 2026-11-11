@@ -10,7 +10,15 @@ Miratimin e rregullores “Për kriteret dhe procedurat e dhënies së licencave
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2006-0908-84` (tags `urdher-2006-0908-84/<day>`; `python tools/on.py <day> urdher-2006-0908-84`).
+Act id: `urdher-2006-0908-84` (tags `urdher-2006-0908-84/<day>`; `python registry/tools/on.py <day> urdher-2006-0908-84`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Urdhri nr. 86, datë 12.9.2011 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 13758]: Për disa ndryshime në Rregulloren “Për kriteret dhe procedurat e dhënies së licencave profesionale për punët publike”, miratuar me Urdhrin nr.84, datë 8.9.2006 të Ministrit, tË ndryshuar](https://qbz.gov.al/eli/urdher/2011/09/12/86)
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ Heqjen nga fondi pyjor të sipërfaqes në ngastrat e ekonomisë pyjore “Krast
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-654` (tags `vendim-2013-654/<day>`; `python tools/on.py <day> vendim-2013-654`).
+Act id: `vendim-2013-654` (tags `vendim-2013-654/<day>`; `python registry/tools/on.py <day> vendim-2013-654`).
 
 ## Decisions made by hand
 

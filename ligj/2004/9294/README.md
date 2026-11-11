@@ -10,7 +10,7 @@ Pranimin nga republika e shqipërisë të rezolutës a.724 (17) “për ndryshim
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2004-9294` (tags `ligj-2004-9294/<day>`; `python tools/on.py <day> ligj-2004-9294`).
+Act id: `ligj-2004-9294` (tags `ligj-2004-9294/<day>`; `python registry/tools/on.py <day> ligj-2004-9294`).
 
 ## Decisions made by hand
 

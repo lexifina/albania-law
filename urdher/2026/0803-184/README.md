@@ -11,7 +11,7 @@ Miratimin e standardeve për kërkim-shpëtimin në aviacionin civil · 1 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2026-0803-184` (tags `urdher-2026-0803-184/<day>`; `python tools/on.py <day> urdher-2026-0803-184`).
+Act id: `urdher-2026-0803-184` (tags `urdher-2026-0803-184/<day>`; `python registry/tools/on.py <day> urdher-2026-0803-184`).
 
 ## Decisions made by hand
 

@@ -10,7 +10,7 @@ Ratifikimin e “marrëveshjes së huasë ndërmjet republikës së shqipërisë
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2008-9961` (tags `ligj-2008-9961/<day>`; `python tools/on.py <day> ligj-2008-9961`).
+Act id: `ligj-2008-9961` (tags `ligj-2008-9961/<day>`; `python registry/tools/on.py <day> ligj-2008-9961`).
 
 ## Decisions made by hand
 

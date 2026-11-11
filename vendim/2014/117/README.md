@@ -5,7 +5,7 @@ Përmbajtjen, procedurën dhe administrimin e dosjeve të personelit e të regji
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2014-117` (tags `vendim-2014-117/<day>`; `python tools/on.py <day> vendim-2014-117`).
+Act id: `vendim-2014-117` (tags `vendim-2014-117/<day>`; `python registry/tools/on.py <day> vendim-2014-117`).
 
 ## Decisions made by hand
 

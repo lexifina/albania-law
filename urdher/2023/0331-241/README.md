@@ -12,7 +12,7 @@ Miratimin e modelit të kontratës që lidhet midis përmbaruesit gjyqësor priv
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2023-0331-241` (tags `urdher-2023-0331-241/<day>`; `python tools/on.py <day> urdher-2023-0331-241`).
+Act id: `urdher-2023-0331-241` (tags `urdher-2023-0331-241/<day>`; `python registry/tools/on.py <day> urdher-2023-0331-241`).
 
 ## Decisions made by hand
 

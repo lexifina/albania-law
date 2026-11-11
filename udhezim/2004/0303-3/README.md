@@ -20,7 +20,7 @@ Procedurat e titullimit të përkohshëm të auditëve të brendshëm publikë �
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2004-0303-3` (tags `udhezim-2004-0303-3/<day>`; `python tools/on.py <day> udhezim-2004-0303-3`).
+Act id: `udhezim-2004-0303-3` (tags `udhezim-2004-0303-3/<day>`; `python registry/tools/on.py <day> udhezim-2004-0303-3`).
 
 ## Decisions made by hand
 

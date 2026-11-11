@@ -5,7 +5,7 @@ Përcaktimin e procedurave për njohjen ose fitimin e shtetësisë shqiptare nga
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2013-554` (tags `vendim-2013-554/<day>`; `python tools/on.py <day> vendim-2013-554`).
+Act id: `vendim-2013-554` (tags `vendim-2013-554/<day>`; `python registry/tools/on.py <day> vendim-2013-554`).
 
 ## Decisions made by hand
 

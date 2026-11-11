@@ -5,7 +5,7 @@ Procedurën e dhënies së autorizimit, për përdorimin civil të lëndëve pla
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2010-315` (tags `vendim-2010-315/<day>`; `python tools/on.py <day> vendim-2010-315`).
+Act id: `vendim-2010-315` (tags `vendim-2010-315/<day>`; `python registry/tools/on.py <day> vendim-2010-315`).
 
 ## Decisions made by hand
 

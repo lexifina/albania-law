@@ -15,7 +15,7 @@ PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONArËve TË PASURIVE TË PALUAJT
 | Pika 8 | [pika-008.md](pika-008.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2007-798` (tags `vendim-2007-798/<day>`; `python tools/on.py <day> vendim-2007-798`).
+Act id: `vendim-2007-798` (tags `vendim-2007-798/<day>`; `python registry/tools/on.py <day> vendim-2007-798`).
 
 ## Decisions made by hand
 

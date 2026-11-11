@@ -10,7 +10,7 @@ Miratimin e rregullores, ”Për përcaktimin e rregullave të detajuara për op
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2024-1206-306` (tags `urdher-2024-1206-306/<day>`; `python tools/on.py <day> urdher-2024-1206-306`).
+Act id: `urdher-2024-1206-306` (tags `urdher-2024-1206-306/<day>`; `python registry/tools/on.py <day> urdher-2024-1206-306`).
 
 ## Decisions made by hand
 

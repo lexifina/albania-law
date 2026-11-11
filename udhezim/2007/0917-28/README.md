@@ -26,7 +26,7 @@ Procedurat e pranimit dhe regjistrimit në ciklin e parë të studimeve me kohë
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2007-0917-28` (tags `udhezim-2007-0917-28/<day>`; `python tools/on.py <day> udhezim-2007-0917-28`).
+Act id: `udhezim-2007-0917-28` (tags `udhezim-2007-0917-28/<day>`; `python registry/tools/on.py <day> udhezim-2007-0917-28`).
 
 ## Decisions made by hand
 

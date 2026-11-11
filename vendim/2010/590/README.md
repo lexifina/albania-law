@@ -12,7 +12,7 @@ Dhënie ndihmË financiare një kategorie personash të strehuar në republikën
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2010-590` (tags `vendim-2010-590/<day>`; `python tools/on.py <day> vendim-2010-590`).
+Act id: `vendim-2010-590` (tags `vendim-2010-590/<day>`; `python registry/tools/on.py <day> vendim-2010-590`).
 
 ## Decisions made by hand
 

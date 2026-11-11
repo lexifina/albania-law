@@ -14,7 +14,7 @@ Hapjen dhe mbylljen e disa programeve të studimit, të ciklit të parë, në un
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-832` (tags `vendim-2008-832/<day>`; `python tools/on.py <day> vendim-2008-832`).
+Act id: `vendim-2008-832` (tags `vendim-2008-832/<day>`; `python registry/tools/on.py <day> vendim-2008-832`).
 
 ## Decisions made by hand
 

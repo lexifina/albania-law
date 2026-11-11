@@ -14,7 +14,7 @@ Kalimin e shërbimit universitar të ortopedi-traumatologjisë, në varësi të 
 | Pika 7 | [pika-007.md](pika-007.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2003-661` (tags `vendim-2003-661/<day>`; `python tools/on.py <day> vendim-2003-661`).
+Act id: `vendim-2003-661` (tags `vendim-2003-661/<day>`; `python registry/tools/on.py <day> vendim-2003-661`).
 
 ## Decisions made by hand
 

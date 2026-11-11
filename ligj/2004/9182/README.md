@@ -5,7 +5,7 @@ Akademinë e shkencave të shqipërisë · 2 versions, from 2004-03-27 (latest i
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `ligj-2004-9182` (tags `ligj-2004-9182/<day>`; `python tools/on.py <day> ligj-2004-9182`).
+Act id: `ligj-2004-9182` (tags `ligj-2004-9182/<day>`; `python registry/tools/on.py <day> ligj-2004-9182`).
 
 ## Decisions made by hand
 

@@ -26,7 +26,7 @@ Mënyrën e evidentimit, shqyrtimit të kundërvajtjeve administrative, procedur
 | Pika 19 | [pika-019.md](pika-019.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2016-1026-588` (tags `udhezim-2016-1026-588/<day>`; `python tools/on.py <day> udhezim-2016-1026-588`).
+Act id: `udhezim-2016-1026-588` (tags `udhezim-2016-1026-588/<day>`; `python registry/tools/on.py <day> udhezim-2016-1026-588`).
 
 ## Decisions made by hand
 

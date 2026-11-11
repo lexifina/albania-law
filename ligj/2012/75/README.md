@@ -9,7 +9,7 @@ Ratifikimin e akteve dhe të dokumenteve të kongresit të 24-t të bashkimit po
 | Neni 2 | [neni-002.md](neni-002.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2012-75` (tags `ligj-2012-75/<day>`; `python tools/on.py <day> ligj-2012-75`).
+Act id: `ligj-2012-75` (tags `ligj-2012-75/<day>`; `python registry/tools/on.py <day> ligj-2012-75`).
 
 ## Decisions made by hand
 

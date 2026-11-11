@@ -9,7 +9,7 @@ Lejimin e Ministrisë së Arsimit dhe Shkencës për kryerjen e procedurës së 
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2013-742` (tags `vendim-2013-742/<day>`; `python tools/on.py <day> vendim-2013-742`).
+Act id: `vendim-2013-742` (tags `vendim-2013-742/<day>`; `python registry/tools/on.py <day> vendim-2013-742`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Zbatimin e rregullores ndërkombëtare të shëndetit · 1 versions, from 2010-1
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-772` (tags `vendim-2010-772/<day>`; `python tools/on.py <day> vendim-2010-772`).
+Act id: `vendim-2010-772` (tags `vendim-2010-772/<day>`; `python registry/tools/on.py <day> vendim-2010-772`).
 
 ## Decisions made by hand
 

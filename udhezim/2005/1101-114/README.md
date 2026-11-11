@@ -20,7 +20,16 @@ Shoqëritë anonime “në likuidim e sipër” me kapital tërësisht shtetëro
 | Pika 13 | [pika-013.md](pika-013.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `udhezim-2005-1101-114` (tags `udhezim-2005-1101-114/<day>`; `python tools/on.py <day> udhezim-2005-1101-114`).
+Act id: `udhezim-2005-1101-114` (tags `udhezim-2005-1101-114/<day>`; `python registry/tools/on.py <day> udhezim-2005-1101-114`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 580, datë 15.8.2006 (Ministria e Financave) [QBZ 4710]: Për një shtesë në udhëzimin nr.114, datë 1.11.2005 “Për shoqëritë anonime “Në likuidim e sipër” me kapital tërësisht shtetëror”](https://qbz.gov.al/eli/udhezim/2006/08/15/580)
+- [Udhëzimi nr. 185, datë 26.3.2007 (Ministria e Financave) [QBZ 19349]: Për shoqërinë anonime “Në likuidim e sipër” me kapital tërësisht shtetëror](https://qbz.gov.al/eli/udhezim/2007/03/26/185)
 
 ## Decisions made by hand
 

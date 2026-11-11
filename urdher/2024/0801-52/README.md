@@ -5,7 +5,7 @@ Delegimin e përfaqësimit ligjor të Kuvendit të Shqipërisë · 2 versions, f
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2024-0801-52` (tags `urdher-2024-0801-52/<day>`; `python tools/on.py <day> urdher-2024-0801-52`).
+Act id: `urdher-2024-0801-52` (tags `urdher-2024-0801-52/<day>`; `python registry/tools/on.py <day> urdher-2024-0801-52`).
 
 ## Decisions made by hand
 

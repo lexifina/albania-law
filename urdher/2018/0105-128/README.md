@@ -18,7 +18,7 @@ Delegimin dhe disa rregulla të përfaqësimit ligjor të ministrisë së drejt�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-0105-128` (tags `urdher-2018-0105-128/<day>`; `python tools/on.py <day> urdher-2018-0105-128`).
+Act id: `urdher-2018-0105-128` (tags `urdher-2018-0105-128/<day>`; `python registry/tools/on.py <day> urdher-2018-0105-128`).
 
 ## Decisions made by hand
 

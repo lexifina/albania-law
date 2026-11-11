@@ -10,7 +10,7 @@ Aderimin e republikës së shqipërisë në “konventën për parandalimin dhe 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2001-8832` (tags `ligj-2001-8832/<day>`; `python tools/on.py <day> ligj-2001-8832`).
+Act id: `ligj-2001-8832` (tags `ligj-2001-8832/<day>`; `python registry/tools/on.py <day> ligj-2001-8832`).
 
 ## Decisions made by hand
 

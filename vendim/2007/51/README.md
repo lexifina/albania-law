@@ -5,7 +5,7 @@ Miratimin e modeleve të vendimeve, që lëshohen nga agjencia e kthimit dhe kom
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-51` (tags `vendim-2007-51/<day>`; `python tools/on.py <day> vendim-2007-51`).
+Act id: `vendim-2007-51` (tags `vendim-2007-51/<day>`; `python registry/tools/on.py <day> vendim-2007-51`).
 
 ## Decisions made by hand
 

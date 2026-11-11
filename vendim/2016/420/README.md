@@ -10,7 +10,7 @@ Miratimin e ceremonialit shtetëror të republikës së shqipërisë · 6 versio
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 5 | 2024-05-07 |
 
-Act id: `vendim-2016-420` (tags `vendim-2016-420/<day>`; `python tools/on.py <day> vendim-2016-420`).
+Act id: `vendim-2016-420` (tags `vendim-2016-420/<day>`; `python registry/tools/on.py <day> vendim-2016-420`).
 
 ## Decisions made by hand
 

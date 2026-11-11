@@ -62,7 +62,7 @@ Statusin e ushtarakut të forcave të armatosura të republikës së shqipëris�
 | Neni 50 | [neni-050.md](neni-050.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2004-9210` (tags `ligj-2004-9210/<day>`; `python tools/on.py <day> ligj-2004-9210`).
+Act id: `ligj-2004-9210` (tags `ligj-2004-9210/<day>`; `python registry/tools/on.py <day> ligj-2004-9210`).
 
 ## Decisions made by hand
 

@@ -47,7 +47,7 @@ Krijimin dhe funksionimin e zonave ekonomike · 2 versions, from 2007-08-21 (lat
 | Neni 29 | [neni-029.md](neni-029.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2007-9789` (tags `ligj-2007-9789/<day>`; `python tools/on.py <day> ligj-2007-9789`).
+Act id: `ligj-2007-9789` (tags `ligj-2007-9789/<day>`; `python registry/tools/on.py <day> ligj-2007-9789`).
 
 ## Decisions made by hand
 

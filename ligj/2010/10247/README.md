@@ -32,7 +32,7 @@ Kornizën Shqiptare të Kualifikimeve · 1 versions, from 2018-06-14 (latest in 
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2010-10247` (tags `ligj-2010-10247/<day>`; `python tools/on.py <day> ligj-2010-10247`).
+Act id: `ligj-2010-10247` (tags `ligj-2010-10247/<day>`; `python registry/tools/on.py <day> ligj-2010-10247`).
 
 ## Decisions made by hand
 

@@ -27,7 +27,7 @@ Procedurat e privatizimit të banesave, objekt i ligjit nr.7652, datë 23.12.199
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2008-97` (tags `vendim-2008-97/<day>`; `python tools/on.py <day> vendim-2008-97`).
+Act id: `vendim-2008-97` (tags `vendim-2008-97/<day>`; `python registry/tools/on.py <day> vendim-2008-97`).
 
 ## Decisions made by hand
 

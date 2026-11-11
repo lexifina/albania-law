@@ -10,7 +10,7 @@ Miratimin e udhëzuesit për përcaktimin e zonave për aktivitetin e transmetim
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2018-1227-912` (tags `urdher-2018-1227-912/<day>`; `python tools/on.py <day> urdher-2018-1227-912`).
+Act id: `urdher-2018-1227-912` (tags `urdher-2018-1227-912/<day>`; `python registry/tools/on.py <day> urdher-2018-1227-912`).
 
 ## Decisions made by hand
 

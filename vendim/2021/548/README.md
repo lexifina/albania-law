@@ -14,7 +14,7 @@ Miratimin e rregullave dhe të procedurave të detajuara për trajtimin financia
 | Pika 6 | [pika-006.md](pika-006.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2021-548` (tags `vendim-2021-548/<day>`; `python tools/on.py <day> vendim-2021-548`).
+Act id: `vendim-2021-548` (tags `vendim-2021-548/<day>`; `python registry/tools/on.py <day> vendim-2021-548`).
 
 ## Decisions made by hand
 

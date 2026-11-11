@@ -8,7 +8,7 @@ Miratimin e ndryshimeve të marrëveshjes së themelimit të bankës europiane p
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-85` (tags `vendim-2012-85/<day>`; `python tools/on.py <day> vendim-2012-85`).
+Act id: `vendim-2012-85` (tags `vendim-2012-85/<day>`; `python registry/tools/on.py <day> vendim-2012-85`).
 
 ## Decisions made by hand
 

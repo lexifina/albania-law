@@ -10,7 +10,7 @@ Ratifikimin e marëveshjes së huas ndërmjet Këshillit të Ministrave të Repu
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2022-88` (tags `ligj-2022-88/<day>`; `python tools/on.py <day> ligj-2022-88`).
+Act id: `ligj-2022-88` (tags `ligj-2022-88/<day>`; `python registry/tools/on.py <day> ligj-2022-88`).
 
 ## Decisions made by hand
 

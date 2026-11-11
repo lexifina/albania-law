@@ -11,7 +11,7 @@ Elementet e programeve të studimit të ofruara nga institucionet e arsimit të 
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 4 | 2025-05-23 |
 
-Act id: `vendim-2018-41` (tags `vendim-2018-41/<day>`; `python tools/on.py <day> vendim-2018-41`).
+Act id: `vendim-2018-41` (tags `vendim-2018-41/<day>`; `python registry/tools/on.py <day> vendim-2018-41`).
 
 ## Decisions made by hand
 

@@ -5,7 +5,7 @@ PËR PËRCAKTIMIN E PROCEDURAVE TË KALIMIT NË PRONËSI TË TROJEVE, MBI TË CI
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2007-541` (tags `vendim-2007-541/<day>`; `python tools/on.py <day> vendim-2007-541`).
+Act id: `vendim-2007-541` (tags `vendim-2007-541/<day>`; `python registry/tools/on.py <day> vendim-2007-541`).
 
 ## Decisions made by hand
 

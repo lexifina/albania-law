@@ -5,7 +5,7 @@ Miratimin e dokumentit politik për sigurinë dhe shëndetin në punë, 2016-202
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2016-371` (tags `vendim-2016-371/<day>`; `python tools/on.py <day> vendim-2016-371`).
+Act id: `vendim-2016-371` (tags `vendim-2016-371/<day>`; `python registry/tools/on.py <day> vendim-2016-371`).
 
 ## Decisions made by hand
 

@@ -13,7 +13,7 @@ Heqjen e licencës së ushtrimit të profesionit të noterit · 1 versions, from
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2013-0508-193` (tags `urdher-2013-0508-193/<day>`; `python tools/on.py <day> urdher-2013-0508-193`).
+Act id: `urdher-2013-0508-193` (tags `urdher-2013-0508-193/<day>`; `python registry/tools/on.py <day> urdher-2013-0508-193`).
 
 ## Decisions made by hand
 

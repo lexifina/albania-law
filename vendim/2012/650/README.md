@@ -10,7 +10,7 @@ Përcaktimin e kritereve të konkurrimit për dhënien me qira, me çmimin 1 (nj
 | Pika 3 | [pika-003.md](pika-003.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2012-650` (tags `vendim-2012-650/<day>`; `python tools/on.py <day> vendim-2012-650`).
+Act id: `vendim-2012-650` (tags `vendim-2012-650/<day>`; `python registry/tools/on.py <day> vendim-2012-650`).
 
 ## Decisions made by hand
 

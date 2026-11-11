@@ -97,7 +97,7 @@ Menaxhimin e sistemit buxhetor në republikën e shqipërisë · 3 versions, fro
 | Neni 76 | [neni-076.md](neni-076.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2008-9936` (tags `ligj-2008-9936/<day>`; `python tools/on.py <day> ligj-2008-9936`).
+Act id: `ligj-2008-9936` (tags `ligj-2008-9936/<day>`; `python registry/tools/on.py <day> ligj-2008-9936`).
 
 ## Decisions made by hand
 

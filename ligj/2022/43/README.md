@@ -31,7 +31,7 @@ Zhvillimin e ndërmarrjeve mikro, të vogla dhe të mesme · 1 versions, from 20
 | Neni 20 | [neni-020.md](neni-020.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2022-43` (tags `ligj-2022-43/<day>`; `python tools/on.py <day> ligj-2022-43`).
+Act id: `ligj-2022-43` (tags `ligj-2022-43/<day>`; `python registry/tools/on.py <day> ligj-2022-43`).
 
 ## Decisions made by hand
 

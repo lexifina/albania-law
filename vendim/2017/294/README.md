@@ -12,7 +12,7 @@ Miratimin e listës së bashkive të cilat do të ngrenë stacione të shërbimi
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2017-294` (tags `vendim-2017-294/<day>`; `python tools/on.py <day> vendim-2017-294`).
+Act id: `vendim-2017-294` (tags `vendim-2017-294/<day>`; `python registry/tools/on.py <day> vendim-2017-294`).
 
 ## Decisions made by hand
 

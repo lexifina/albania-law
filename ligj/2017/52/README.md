@@ -10,7 +10,7 @@ Ratifikimin e ndryshimit nr. 1 të marrëveshjes së grantit ndërmjet republik�
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `ligj-2017-52` (tags `ligj-2017-52/<day>`; `python tools/on.py <day> ligj-2017-52`).
+Act id: `ligj-2017-52` (tags `ligj-2017-52/<day>`; `python registry/tools/on.py <day> ligj-2017-52`).
 
 ## Decisions made by hand
 

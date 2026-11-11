@@ -5,7 +5,7 @@ PëR USHTRIMIN E VEPRIMTARISË SË SHITBLERJES, NDËRMJETËSIMIT, TË AUTORIPARI
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `udhezim-2007-0703-9` (tags `udhezim-2007-0703-9/<day>`; `python tools/on.py <day> udhezim-2007-0703-9`).
+Act id: `udhezim-2007-0703-9` (tags `udhezim-2007-0703-9/<day>`; `python registry/tools/on.py <day> udhezim-2007-0703-9`).
 
 ## Decisions made by hand
 

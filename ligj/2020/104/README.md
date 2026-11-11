@@ -8,7 +8,7 @@ Miratimin e aktit normativ, me fuqinë e ligjit, nr. 30, datë 20.7.2020 “Për
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Miratimi dhe shpallja | [zz-miratuar.md](zz-miratuar.md) | 0 |  |
 
-Act id: `ligj-2020-104` (tags `ligj-2020-104/<day>`; `python tools/on.py <day> ligj-2020-104`).
+Act id: `ligj-2020-104` (tags `ligj-2020-104/<day>`; `python registry/tools/on.py <day> ligj-2020-104`).
 
 ## Decisions made by hand
 

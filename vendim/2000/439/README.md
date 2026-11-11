@@ -5,7 +5,7 @@ Hyrjen, qëndrimin dhe trajtimin e të huajve në republikën e shqipërisë · 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2000-439` (tags `vendim-2000-439/<day>`; `python tools/on.py <day> vendim-2000-439`).
+Act id: `vendim-2000-439` (tags `vendim-2000-439/<day>`; `python registry/tools/on.py <day> vendim-2000-439`).
 
 ## Decisions made by hand
 

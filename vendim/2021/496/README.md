@@ -13,7 +13,7 @@ Miratimin e kërkesës së Bashkisë Durrës për mbështetje financiare nga qev
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2021-496` (tags `vendim-2021-496/<day>`; `python tools/on.py <day> vendim-2021-496`).
+Act id: `vendim-2021-496` (tags `vendim-2021-496/<day>`; `python registry/tools/on.py <day> vendim-2021-496`).
 
 ## Decisions made by hand
 

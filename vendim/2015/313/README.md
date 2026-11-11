@@ -5,7 +5,7 @@ Përcaktimin e procedurave të dhënies së autorizimit për magazinimin, transf
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2015-313` (tags `vendim-2015-313/<day>`; `python tools/on.py <day> vendim-2015-313`).
+Act id: `vendim-2015-313` (tags `vendim-2015-313/<day>`; `python registry/tools/on.py <day> vendim-2015-313`).
 
 ## Decisions made by hand
 

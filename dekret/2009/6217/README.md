@@ -11,7 +11,7 @@ Caktimin e kompetencave tokësore dhe të qendrës së ushtrimit të veprimtaris
 | Neni 4 | [neni-004.md](neni-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `dekret-2009-6217` (tags `dekret-2009-6217/<day>`; `python tools/on.py <day> dekret-2009-6217`).
+Act id: `dekret-2009-6217` (tags `dekret-2009-6217/<day>`; `python registry/tools/on.py <day> dekret-2009-6217`).
 
 ## Decisions made by hand
 

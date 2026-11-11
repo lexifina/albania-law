@@ -5,7 +5,7 @@ Miratimin e Strategjisë Kombëtare për Sigurinë Kibernetike dhe të planit t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2020-1084` (tags `vendim-2020-1084/<day>`; `python tools/on.py <day> vendim-2020-1084`).
+Act id: `vendim-2020-1084` (tags `vendim-2020-1084/<day>`; `python registry/tools/on.py <day> vendim-2020-1084`).
 
 ## Decisions made by hand
 

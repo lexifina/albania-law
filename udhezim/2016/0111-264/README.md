@@ -19,7 +19,7 @@ Mbi bashkëpunimin e strukturave të ministrisë së punëve të jashtme, minist
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-0111-264` (tags `udhezim-2016-0111-264/<day>`; `python tools/on.py <day> udhezim-2016-0111-264`).
+Act id: `udhezim-2016-0111-264` (tags `udhezim-2016-0111-264/<day>`; `python registry/tools/on.py <day> udhezim-2016-0111-264`).
 
 ## Decisions made by hand
 

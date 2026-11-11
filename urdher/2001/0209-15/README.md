@@ -8,7 +8,7 @@
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `urdher-2001-0209-15` (tags `urdher-2001-0209-15/<day>`; `python tools/on.py <day> urdher-2001-0209-15`).
+Act id: `urdher-2001-0209-15` (tags `urdher-2001-0209-15/<day>`; `python registry/tools/on.py <day> urdher-2001-0209-15`).
 
 ## Decisions made by hand
 

@@ -19,7 +19,7 @@ Përcaktimin e skemës së duhur për shtypjen e përqendruar të biletave, shp�
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2007-0316-165` (tags `udhezim-2007-0316-165/<day>`; `python tools/on.py <day> udhezim-2007-0316-165`).
+Act id: `udhezim-2007-0316-165` (tags `udhezim-2007-0316-165/<day>`; `python registry/tools/on.py <day> udhezim-2007-0316-165`).
 
 ## Decisions made by hand
 

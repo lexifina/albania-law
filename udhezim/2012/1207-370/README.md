@@ -35,7 +35,7 @@ Procedurat e pastrimit të dublimeve të shtetasve shqiptarë nga regjistrat the
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2012-1207-370` (tags `udhezim-2012-1207-370/<day>`; `python tools/on.py <day> udhezim-2012-1207-370`).
+Act id: `udhezim-2012-1207-370` (tags `udhezim-2012-1207-370/<day>`; `python registry/tools/on.py <day> udhezim-2012-1207-370`).
 
 ## Decisions made by hand
 

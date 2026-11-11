@@ -17,7 +17,7 @@ Mënyrën e organizimit dhe të funksionimit të agjencisë kombëtare të plani
 | Pika 9 | [pika-009.md](pika-009.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-1190` (tags `vendim-2009-1190/<day>`; `python tools/on.py <day> vendim-2009-1190`).
+Act id: `vendim-2009-1190` (tags `vendim-2009-1190/<day>`; `python registry/tools/on.py <day> vendim-2009-1190`).
 
 ## Decisions made by hand
 

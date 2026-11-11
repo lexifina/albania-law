@@ -5,7 +5,7 @@ Caktimin e gjashtë anëtarëve në përbërje të Këshillit Kombëtar të Arsi
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2021-67` (tags `vendim-2021-67/<day>`; `python tools/on.py <day> vendim-2021-67`).
+Act id: `vendim-2021-67` (tags `vendim-2021-67/<day>`; `python registry/tools/on.py <day> vendim-2021-67`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,16 @@ Vendosjen e kabllOS nëndetarE ndërkombëtarE me fibër optike Bari (Itali) - G
 | Pika 5 | [pika-005.md](pika-005.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-840` (tags `vendim-2010-840/<day>`; `python tools/on.py <day> vendim-2010-840`).
+Act id: `vendim-2010-840` (tags `vendim-2010-840/<day>`; `python registry/tools/on.py <day> vendim-2010-840`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 17, datë 15.1.2014: Për një ndryshim në vendimin nr. 840, datë 21.10.2010 të këshillit të ministrave “për vendosjen e kabllos nëndetare ndërkombëtare me fibër optike bari (itali) - gjiri i lalzit (shqipëri) (projekti balkans-italy network)”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/01/15/17)
+- [Vendimi i Këshillit të Ministrave nr. 589, datë 18.8.2011: Për një ndryshim në vendimin nr.840, datë 21.10.2010 të Këshillit të Ministrave “Për vendosjen e kabllit nëndetar ndërkombëtar me fibër optike Bari (Itali)- Gjiri i Lalzit (Shqipëri) (projekti Balkans-Italy Network)”](https://qbz.gov.al/eli/vendim/2011/08/18/589)
 
 ## Decisions made by hand
 

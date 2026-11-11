@@ -9,7 +9,7 @@ Përcaktimin e disa rregullave të qarkullimit rrugor në ansamblin monument kul
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2014-1017-8499` (tags `urdher-2014-1017-8499/<day>`; `python tools/on.py <day> urdher-2014-1017-8499`).
+Act id: `urdher-2014-1017-8499` (tags `urdher-2014-1017-8499/<day>`; `python registry/tools/on.py <day> urdher-2014-1017-8499`).
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Lejimin e ministrisë së brendshme, si organ qendror blerës, për kryerjen e p
 | Pika 2 | [pika-002.md](pika-002.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2010-692` (tags `vendim-2010-692/<day>`; `python tools/on.py <day> vendim-2010-692`).
+Act id: `vendim-2010-692` (tags `vendim-2010-692/<day>`; `python registry/tools/on.py <day> vendim-2010-692`).
 
 ## Decisions made by hand
 

@@ -12,7 +12,7 @@ Miratimin e paraqitjes, formës dhe ndërtimit të gradave të punonjësve të P
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 1 | 2022-08-09 |
 
-Act id: `vendim-2021-260` (tags `vendim-2021-260/<day>`; `python tools/on.py <day> vendim-2021-260`).
+Act id: `vendim-2021-260` (tags `vendim-2021-260/<day>`; `python registry/tools/on.py <day> vendim-2021-260`).
 
 ## Decisions made by hand
 

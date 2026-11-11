@@ -11,7 +11,7 @@ Mbulimin e shpenzimeve të mjekimit të znj. Egla Lleshaj · 1 versions, from 20
 | Pika 4 | [pika-004.md](pika-004.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2022-571` (tags `vendim-2022-571/<day>`; `python tools/on.py <day> vendim-2022-571`).
+Act id: `vendim-2022-571` (tags `vendim-2022-571/<day>`; `python registry/tools/on.py <day> vendim-2022-571`).
 
 ## Decisions made by hand
 

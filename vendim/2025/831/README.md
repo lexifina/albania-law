@@ -10,7 +10,7 @@ Miratimin e Kodit të Etikës në Shkencë dhe në Kërkim Shkencor · 1 version
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2025-831` (tags `vendim-2025-831/<day>`; `python tools/on.py <day> vendim-2025-831`).
+Act id: `vendim-2025-831` (tags `vendim-2025-831/<day>`; `python registry/tools/on.py <day> vendim-2025-831`).
 
 ## Decisions made by hand
 

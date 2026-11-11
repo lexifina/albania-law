@@ -9,7 +9,7 @@ Miratimin e marrëveshjes për lirinë e lëvizjes me kartë identiteti në Ball
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2023-55` (tags `vendim-2023-55/<day>`; `python tools/on.py <day> vendim-2023-55`).
+Act id: `vendim-2023-55` (tags `vendim-2023-55/<day>`; `python registry/tools/on.py <day> vendim-2023-55`).
 
 ## Decisions made by hand
 

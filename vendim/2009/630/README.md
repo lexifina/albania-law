@@ -8,7 +8,7 @@ Miratimin e raportit vjetor “Për ndihmat shtetërore të vitit 2008” · 1 v
 | Vendimi | [pika-000.md](pika-000.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2009-630` (tags `vendim-2009-630/<day>`; `python tools/on.py <day> vendim-2009-630`).
+Act id: `vendim-2009-630` (tags `vendim-2009-630/<day>`; `python registry/tools/on.py <day> vendim-2009-630`).
 
 ## Decisions made by hand
 

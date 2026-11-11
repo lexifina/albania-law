@@ -13,7 +13,7 @@ Zëvendësimin e përkohshëm për nënshkrimin e dokumenteve në emër të sekr
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `urdher-2025-0902-1031` (tags `urdher-2025-0902-1031/<day>`; `python tools/on.py <day> urdher-2025-0902-1031`).
+Act id: `urdher-2025-0902-1031` (tags `urdher-2025-0902-1031/<day>`; `python registry/tools/on.py <day> urdher-2025-0902-1031`).
 
 ## Decisions made by hand
 

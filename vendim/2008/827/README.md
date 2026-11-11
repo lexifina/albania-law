@@ -32,7 +32,17 @@ Hapjen, pranë universitetit “aleksandër moisiu”, durrës, të fakultetit t
 | Pika 25 | [pika-025.md](pika-025.md) | 0 |  |
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 
-Act id: `vendim-2008-827` (tags `vendim-2008-827/<day>`; `python tools/on.py <day> vendim-2008-827`).
+Act id: `vendim-2008-827` (tags `vendim-2008-827/<day>`; `python registry/tools/on.py <day> vendim-2008-827`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Vendimi i Këshillit të Ministrave nr. 536, datë 7.8.2012: Për NJë NDRYSHIM në VENDIMIN NR. 827, DATë 11.6.2008 të KëSHILLIT të MINISTRAVE “PëR HAPJEN, PRANë UNIVERSITETIT “ALEKSANDËR MOISIU”, DURRëS, të FAKULTETIT të STUDIMEVE të INTEGRUARA ME PRAKTIKËN (FASTIP) DHE për MëNYRëN E FUNKSIONIMIT të TIJ në PERIUDHëN KALIMTARE](https://qbz.gov.al/eli/vendim/2012/08/07/536)
+- [Vendimi i Këshillit të Ministrave nr. 706, datë 26.8.2015: Për një ndryshim në vendimin nr. 827, datë 11.6.2008, të Këshillit të Ministrave, “Për hapjen, pranë universitetit “Aleksandër Moisiu”, Durrës, të Fakultetit të Studimeve të Integruara me Praktikën (FASTIP) dhe për mënyrën e funksionimit të tij në periudhën kalimtare”, të ndryshuar](https://qbz.gov.al/eli/vendim/2015/08/26/706)
+- [Vendimi i Këshillit të Ministrave nr. 577, datë 3.9.2014: Për një ndryshim në vendimin nr. 827, datë 11.6.2008, të këshillit të ministrave, “për hapjen, pranë universitetit “aleksandër moisiu”, durrës, të fakultetit të studimeve të integruara me praktikën (fastip) dhe për mënyrën e funksionimit të tij në periudhën kalimtare”, të ndryshuar](https://qbz.gov.al/eli/vendim/2014/09/03/577)
 
 ## Decisions made by hand
 

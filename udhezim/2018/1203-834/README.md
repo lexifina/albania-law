@@ -30,7 +30,7 @@ Hyrjen në tregun e shërbimeve të përpunimit në tokë në aeroportet e repub
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2018-1203-834` (tags `udhezim-2018-1203-834/<day>`; `python tools/on.py <day> udhezim-2018-1203-834`).
+Act id: `udhezim-2018-1203-834` (tags `udhezim-2018-1203-834/<day>`; `python registry/tools/on.py <day> udhezim-2018-1203-834`).
 
 ## Decisions made by hand
 

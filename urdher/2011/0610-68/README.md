@@ -5,7 +5,7 @@ Miratimin e rregullores për raportimin e ngjarjeve në aviacionin civil · 2 ve
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `urdher-2011-0610-68` (tags `urdher-2011-0610-68/<day>`; `python tools/on.py <day> urdher-2011-0610-68`).
+Act id: `urdher-2011-0610-68` (tags `urdher-2011-0610-68/<day>`; `python registry/tools/on.py <day> urdher-2011-0610-68`).
 
 ## Decisions made by hand
 

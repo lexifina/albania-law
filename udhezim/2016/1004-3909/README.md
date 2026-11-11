@@ -41,7 +41,15 @@ Mbi përcaktimin e kushteve, procedurave për ushtrimin e veprimtarive në ujër
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `udhezim-2016-1004-3909` (tags `udhezim-2016-1004-3909/<day>`; `python tools/on.py <day> udhezim-2016-1004-3909`).
+Act id: `udhezim-2016-1004-3909` (tags `udhezim-2016-1004-3909/<day>`; `python registry/tools/on.py <day> udhezim-2016-1004-3909`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Udhëzimi nr. 634, datë 14.9.2018 (Ministria e Infrastrukturës dhe Energjisë) [QBZ 16165]: Për ndryshimin e udhëzimit nr. 3909/1, datë 4.10.2016, “mbi përcaktimin e kushteve, procedurave për ushtrimin e veprimtarive në ujërat detare nën juridiksionin e republikës së shqipërisë”](https://qbz.gov.al/eli/udhezim/2018/09/14/634)
 
 ## Decisions made by hand
 

@@ -9,7 +9,7 @@ Miratimin e protokollit të katërt shtesë të Kushtetutës së Bashkimit Posta
 | Nënshkrimi | [zz-nenshkrimi.md](zz-nenshkrimi.md) | 0 |  |
 | Shtojca | [zz-shtojca.md](zz-shtojca.md) | 0 |  |
 
-Act id: `vendim-2006-657` (tags `vendim-2006-657/<day>`; `python tools/on.py <day> vendim-2006-657`).
+Act id: `vendim-2006-657` (tags `vendim-2006-657/<day>`; `python registry/tools/on.py <day> vendim-2006-657`).
 
 ## Decisions made by hand
 

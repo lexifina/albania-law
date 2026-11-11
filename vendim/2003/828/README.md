@@ -5,7 +5,7 @@ Formën, mënyrën e mbajtjes, elementEt përbërës dHe afatin e përdorimit t�
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 
-Act id: `vendim-2003-828` (tags `vendim-2003-828/<day>`; `python tools/on.py <day> vendim-2003-828`).
+Act id: `vendim-2003-828` (tags `vendim-2003-828/<day>`; `python registry/tools/on.py <day> vendim-2003-828`).
 
 ## Decisions made by hand
 
