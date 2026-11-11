@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts held back from main, with the rule that holds each.",
-"count": 2718,
+"count": 2720,
 "acts": [
 {
 "qbz_id": 7,
@@ -27177,10 +27177,30 @@
 "kind": "vendim",
 "number": "837",
 "date": "2026-11-05",
-"title": "Për miratimin e organizimit dhe funksionimit të Agjencisë së Trajtimit të Koncesioneve  dhe Partneritetit Publik Privat, përcaktimin  e shpërblimit të veçantë p",
+"title": "Për miratimin e organizimit dhe funksionimit të Agjencisë së Trajtimit të Koncesioneve dhe Partneritetit Publik Privat, përcaktimin  e shpërblimit të veçantë pë",
 "reason": "in_force_clause_missing",
 "detail": "in_force_clause_missing",
 "official_url": "https://qbz.gov.al/api/v1/acts/120216"
+},
+{
+"qbz_id": 120418,
+"kind": "vendim",
+"number": "830",
+"date": "2026-11-03",
+"title": "Për përcaktimin e rregullave dhe procedurave plotësuese për kornizën buxhetore, në përafrim me acquis të Bashkimit Evropian për kornizat buxhetore",
+"reason": "in_force_clause_unhandled",
+"detail": "in_force_clause_unhandled:pas botimit në Fletoren Zyrtare dhe efektet e tij fillojnë nga data 1 korrik 202",
+"official_url": "https://qbz.gov.al/api/v1/acts/120418"
+},
+{
+"id": "ligji-8003-1995",
+"kind": "ligj",
+"number": "8003",
+"date": "1995-09-28",
+"title": "Kodi Penal Ushtarak i Republikës së Shqipërisë",
+"reason": "code_edition_not_datable",
+"detail": "the newest amending act its consolidated edition includes has no QBZ record or no readable in-force day (- , )",
+"official_url": "https://qbz.gov.al/botim/21"
 }
 ]
 }

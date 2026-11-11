@@ -1,8 +1,8 @@
 {
  "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
  "schema": "al-freshness/1",
- "as_of": "2026-11-10",
- "checked_against_official_source": "2026-11-09",
+ "as_of": "2026-11-11",
+ "checked_against_official_source": "2026-11-11",
  "statuses": {
   "current": "checked against the official source within its threshold, and no known change is missing",
   "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
@@ -11,7 +11,9 @@
   "source-unavailable": "due for a check, but the official source has not answered the latest checks"
  },
  "methods": {
-  "consolidated-form": "QBZ's act record, its links to changing and repealing acts and its consolidated versions (qbz.gov.al/api/v1), read that day and compared with the newest version held here"
+  "consolidated-form": "QBZ's act record, its links to changing and repealing acts and its consolidated versions (qbz.gov.al/api/v1), read that day and compared with the newest version held here",
+  "official-listing": "the council's own website (its WordPress media library), listed that day: the decision's file is still published there",
+  "consolidated-edition": "QBZ's list of the official consolidated editions of the codes (qbz.gov.al/api/v1/publications?type=kode), read that day: the edition this version was read from is still the current one"
  },
  "thresholds": {
   "national": {
@@ -32,6 +34,33 @@
     "urdher"
    ],
    "label": "instructions and orders"
+  },
+  "local": {
+   "days": 30,
+   "kinds": [
+    "local/berat",
+    "local/diber",
+    "local/durres",
+    "local/elbasan",
+    "local/fier",
+    "local/gramsh",
+    "local/himare",
+    "local/kamez",
+    "local/kavaje",
+    "local/kolonje",
+    "local/kucove",
+    "local/lezhe",
+    "local/libohove",
+    "local/memaliaj",
+    "local/mirdite",
+    "local/rrogozhine",
+    "local/shkoder",
+    "local/skrapar",
+    "local/tepelene",
+    "local/vlore",
+    "local/vore"
+   ],
+   "label": "decisions of the municipal councils"
   }
  },
  "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
@@ -47,22 +76,22 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 17812,
+  "acts": 18254,
   "by_status": {
-   "current": 17299,
+   "current": 17731,
    "pending-change": 511,
    "stale": 0,
-   "unverified": 2,
+   "unverified": 12,
    "source-unavailable": 0
   },
-  "pct_verified_7d": 100.0,
-  "pct_verified_30d": 100.0
+  "pct_verified_7d": 99.9,
+  "pct_verified_30d": 99.9
  },
  "by_group": {
   "national": {
-   "acts": 13161,
+   "acts": 13169,
    "by_status": {
-    "current": 12747,
+    "current": 12755,
     "pending-change": 413,
     "stale": 0,
     "unverified": 1,
@@ -82,6 +111,18 @@
    },
    "pct_verified_7d": 100.0,
    "pct_verified_30d": 100.0
+  },
+  "local": {
+   "acts": 434,
+   "by_status": {
+    "current": 424,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 10,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 97.7,
+   "pct_verified_30d": 97.7
   }
  },
  "by_kind": {
@@ -122,16 +163,268 @@
    "pct_verified_30d": 0.0
   },
   "ligj": {
-   "acts": 2181,
+   "acts": 2188,
    "by_status": {
-    "current": 2138,
-    "pending-change": 43,
+    "current": 2144,
+    "pending-change": 44,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
    },
    "pct_verified_7d": 100.0,
    "pct_verified_30d": 100.0
+  },
+  "local/berat": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/diber": {
+   "acts": 35,
+   "by_status": {
+    "current": 35,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/durres": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/elbasan": {
+   "acts": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/fier": {
+   "acts": 2,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 50.0,
+   "pct_verified_30d": 50.0
+  },
+  "local/gramsh": {
+   "acts": 8,
+   "by_status": {
+    "current": 7,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 87.5,
+   "pct_verified_30d": 87.5
+  },
+  "local/himare": {
+   "acts": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/kamez": {
+   "acts": 219,
+   "by_status": {
+    "current": 219,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/kavaje": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/kolonje": {
+   "acts": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/kucove": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/lezhe": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/libohove": {
+   "acts": 4,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 50.0,
+   "pct_verified_30d": 50.0
+  },
+  "local/memaliaj": {
+   "acts": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/mirdite": {
+   "acts": 2,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 50.0,
+   "pct_verified_30d": 50.0
+  },
+  "local/rrogozhine": {
+   "acts": 8,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 4,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 50.0,
+   "pct_verified_30d": 50.0
+  },
+  "local/shkoder": {
+   "acts": 72,
+   "by_status": {
+    "current": 72,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/skrapar": {
+   "acts": 63,
+   "by_status": {
+    "current": 63,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/tepelene": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/vlore": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "local/vore": {
+   "acts": 4,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 75.0,
+   "pct_verified_30d": 75.0
   },
   "udhezim": {
    "acts": 1504,
@@ -158,10 +451,10 @@
    "pct_verified_30d": 100.0
   },
   "vendim": {
-   "acts": 10917,
+   "acts": 10918,
    "by_status": {
-    "current": 10552,
-    "pending-change": 365,
+    "current": 10554,
+    "pending-change": 364,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -174,9 +467,9 @@
   {
    "source": "Qendra e Botimeve Zyrtare (qbz.gov.al), open API",
    "url": "https://qbz.gov.al",
-   "last_successful_check": "2026-11-09"
+   "last_successful_check": "2026-11-11"
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 131
+ "shards": 147
 }

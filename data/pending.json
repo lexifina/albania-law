@@ -1,6 +1,6 @@
 {
 "note": "Acts published in the Fletorja Zyrtare but not yet in force; each is appended on the day it takes effect.",
-"count": 5,
+"count": 8,
 "acts": [
 {
 "act": "ligj-2026-115",
@@ -13,6 +13,24 @@
 "title": "Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë",
 "in_force_from": "2026-11-20",
 "official_url": "https://qbz.gov.al/eli/ligj/2026/10/09/100"
+},
+{
+"act": "ligj-2026-106",
+"title": "Për ratifikimin e Konventës së Këshillit të Evropës për Mbrojtjen e Profesionit të Avokatit, bërë në Luksemburg më 13 maj 2025",
+"in_force_from": "2026-11-25",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/10/22/106"
+},
+{
+"act": "ligj-2026-107",
+"title": "Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Maqedonisë së Veriut për ngritjen e pikave të përbashkëta të kalimit kufitar ndërmjet Republikës së Shqipërisë dhe Republikës së Maqedonisë së Veriut dhe kryerjen e veprimtarive të përbashkëta të kontrollit kufitar",
+"in_force_from": "2026-11-25",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/10/22/107"
+},
+{
+"act": "ligj-2026-111",
+"title": "Për treguesit gjeografikë për produktet artizanale dhe industriale",
+"in_force_from": "2026-11-25",
+"official_url": "https://qbz.gov.al/eli/ligj/2026/10/22/111"
 },
 {
 "act": "ligj-2026-60",

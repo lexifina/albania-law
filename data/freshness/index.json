@@ -139,6 +139,30 @@
 "acts": 1
 },
 {
+"shard": "ligj/1994",
+"kind": "ligj",
+"file": "data/freshness/ligj/1994.csv",
+"acts": 1
+},
+{
+"shard": "ligj/1995",
+"kind": "ligj",
+"file": "data/freshness/ligj/1995.csv",
+"acts": 3
+},
+{
+"shard": "ligj/1996",
+"kind": "ligj",
+"file": "data/freshness/ligj/1996.csv",
+"acts": 1
+},
+{
+"shard": "ligj/1998",
+"kind": "ligj",
+"file": "data/freshness/ligj/1998.csv",
+"acts": 1
+},
+{
 "shard": "ligj/2000",
 "kind": "ligj",
 "file": "data/freshness/ligj/2000.csv",
@@ -232,7 +256,7 @@
 "shard": "ligj/2015",
 "kind": "ligj",
 "file": "data/freshness/ligj/2015.csv",
-"acts": 85
+"acts": 86
 },
 {
 "shard": "ligj/2016",
@@ -299,6 +323,78 @@
 "kind": "ligj",
 "file": "data/freshness/ligj/2026.csv",
 "acts": 56
+},
+{
+"shard": "local/2008",
+"kind": "local",
+"file": "data/freshness/local/2008.csv",
+"acts": 1
+},
+{
+"shard": "local/2011",
+"kind": "local",
+"file": "data/freshness/local/2011.csv",
+"acts": 1
+},
+{
+"shard": "local/2016",
+"kind": "local",
+"file": "data/freshness/local/2016.csv",
+"acts": 2
+},
+{
+"shard": "local/2017",
+"kind": "local",
+"file": "data/freshness/local/2017.csv",
+"acts": 2
+},
+{
+"shard": "local/2019",
+"kind": "local",
+"file": "data/freshness/local/2019.csv",
+"acts": 8
+},
+{
+"shard": "local/2020",
+"kind": "local",
+"file": "data/freshness/local/2020.csv",
+"acts": 16
+},
+{
+"shard": "local/2021",
+"kind": "local",
+"file": "data/freshness/local/2021.csv",
+"acts": 40
+},
+{
+"shard": "local/2022",
+"kind": "local",
+"file": "data/freshness/local/2022.csv",
+"acts": 101
+},
+{
+"shard": "local/2023",
+"kind": "local",
+"file": "data/freshness/local/2023.csv",
+"acts": 43
+},
+{
+"shard": "local/2024",
+"kind": "local",
+"file": "data/freshness/local/2024.csv",
+"acts": 79
+},
+{
+"shard": "local/2025",
+"kind": "local",
+"file": "data/freshness/local/2025.csv",
+"acts": 73
+},
+{
+"shard": "local/2026",
+"kind": "local",
+"file": "data/freshness/local/2026.csv",
+"acts": 68
 },
 {
 "shard": "udhezim/2000",
@@ -784,7 +880,7 @@
 "shard": "vendim/2026",
 "kind": "vendim",
 "file": "data/freshness/vendim/2026.csv",
-"acts": 399
+"acts": 400
 }
 ]
 }
