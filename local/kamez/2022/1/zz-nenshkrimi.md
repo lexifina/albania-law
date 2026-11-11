@@ -1,2 +1,0 @@
-Kryetar Këshilli
-Hysen Koldashi
