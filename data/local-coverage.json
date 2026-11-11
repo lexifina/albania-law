@@ -1,0 +1,1040 @@
+{
+ "note": "Coverage of the decisions of the 61 municipal councils (Law 139/2015, art. 15(2) and 18(3): each council publishes its acts on its own official website; there is no state-run register). Published: decisions on main. Held: decisions found but not published, by reason (data/held.json lists each). www.vendime.al, a national archive of council decisions run by a non-governmental organisation, is not used.",
+ "councils": 61,
+ "councils_with_decisions_published": 20,
+ "published": 393,
+ "municipalities": [
+  {
+   "municipality": "berat",
+   "name": "Berat",
+   "qark": "berat",
+   "official_site": "bashkiaberat.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 71,
+   "published": 1,
+   "years": [
+    "2016"
+   ],
+   "held": {
+    "no_number_or_date": 3,
+    "not_council": 20,
+    "private_persons": 1,
+    "text_quality": 4
+   },
+   "awaiting_ocr": 39,
+   "note": ""
+  },
+  {
+   "municipality": "kucove",
+   "name": "Kuçovë",
+   "qark": "berat",
+   "official_site": "bashkiakucove.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 267,
+   "published": 1,
+   "years": [
+    "2022"
+   ],
+   "held": {
+    "no_number_or_date": 15,
+    "private_persons": 1
+   },
+   "awaiting_ocr": 242,
+   "note": ""
+  },
+  {
+   "municipality": "polican",
+   "name": "Poliçan",
+   "qark": "berat",
+   "official_site": "polican.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "skrapar",
+   "name": "Skrapar",
+   "qark": "berat",
+   "official_site": "bashkiaskrapar.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 548,
+   "published": 55,
+   "years": [
+    "2021",
+    "2022",
+    "2023",
+    "2025",
+    "2026"
+   ],
+   "held": {
+    "individual_benefit": 16,
+    "name_mismatch": 2,
+    "no_number_or_date": 7,
+    "not_council": 5,
+    "possible_private_persons": 10,
+    "private_persons": 85,
+    "title_not_read": 6
+   },
+   "awaiting_ocr": 340,
+   "note": ""
+  },
+  {
+   "municipality": "ura-vajgurore",
+   "name": "Ura Vajgurore",
+   "qark": "berat",
+   "official_site": "bashkiadimal.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 255,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 6,
+    "private_persons": 7
+   },
+   "awaiting_ocr": 219,
+   "note": ""
+  },
+  {
+   "municipality": "bulqize",
+   "name": "Bulqizë",
+   "qark": "diber",
+   "official_site": "bulqiza.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 315,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 19
+   },
+   "awaiting_ocr": 91,
+   "note": ""
+  },
+  {
+   "municipality": "diber",
+   "name": "Dibër",
+   "qark": "diber",
+   "official_site": "dibra.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 767,
+   "published": 34,
+   "years": [
+    "2017",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "held": {
+    "individual_benefit": 5,
+    "name_mismatch": 4,
+    "no_number_or_date": 19,
+    "possible_private_persons": 3,
+    "private_persons": 38,
+    "text_quality": 1,
+    "title_not_read": 11
+   },
+   "awaiting_ocr": 642,
+   "note": ""
+  },
+  {
+   "municipality": "klos",
+   "name": "Klos",
+   "qark": "diber",
+   "official_site": "bashkiaklos.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "mat",
+   "name": "Mat",
+   "qark": "diber",
+   "official_site": "bashkiamat.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "durres",
+   "name": "Durrës",
+   "qark": "durres",
+   "official_site": "durres.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 1579,
+   "published": 1,
+   "years": [
+    "2022"
+   ],
+   "held": {
+    "name_mismatch": 1,
+    "no_number_or_date": 21,
+    "private_persons": 4
+   },
+   "awaiting_ocr": 1541,
+   "note": ""
+  },
+  {
+   "municipality": "kruje",
+   "name": "Krujë",
+   "qark": "durres",
+   "official_site": "kruja.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 135,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 3
+   },
+   "awaiting_ocr": 121,
+   "note": ""
+  },
+  {
+   "municipality": "shijak",
+   "name": "Shijak",
+   "qark": "durres",
+   "official_site": "shijak.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 87,
+   "published": 0,
+   "years": [],
+   "held": {
+    "meeting_date_mismatch": 2,
+    "name_mismatch": 1,
+    "no_number_or_date": 3,
+    "not_council": 4
+   },
+   "awaiting_ocr": 74,
+   "note": ""
+  },
+  {
+   "municipality": "belsh",
+   "name": "Belsh",
+   "qark": "elbasan",
+   "official_site": "bashkiabelsh.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 12,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 1,
+   "note": ""
+  },
+  {
+   "municipality": "cerrik",
+   "name": "Cërrik",
+   "qark": "elbasan",
+   "official_site": "bashkiacerrik.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "elbasan",
+   "name": "Elbasan",
+   "qark": "elbasan",
+   "official_site": "elbasani.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 108,
+   "published": 2,
+   "years": [
+    "2024"
+   ],
+   "held": {
+    "meeting_date_mismatch": 2,
+    "no_number_or_date": 7,
+    "private_persons": 4
+   },
+   "awaiting_ocr": 82,
+   "note": ""
+  },
+  {
+   "municipality": "gramsh",
+   "name": "Gramsh",
+   "qark": "elbasan",
+   "official_site": "bashkiagramsh.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 552,
+   "published": 8,
+   "years": [
+    "2017",
+    "2021",
+    "2022",
+    "2025"
+   ],
+   "held": {
+    "individual_benefit": 1,
+    "name_mismatch": 5,
+    "no_number_or_date": 33,
+    "not_council": 1,
+    "private_persons": 40,
+    "title_not_read": 11
+   },
+   "awaiting_ocr": 446,
+   "note": ""
+  },
+  {
+   "municipality": "librazhd",
+   "name": "Librazhd",
+   "qark": "elbasan",
+   "official_site": "bashkialibrazhd.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "peqin",
+   "name": "Peqin",
+   "qark": "elbasan",
+   "official_site": "peqini.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 34,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 1
+   },
+   "awaiting_ocr": 17,
+   "note": ""
+  },
+  {
+   "municipality": "prrenjas",
+   "name": "Prrenjas",
+   "qark": "elbasan",
+   "official_site": "bashkiaprrenjas.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 15,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 9
+   },
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "divjake",
+   "name": "Divjakë",
+   "qark": "fier",
+   "official_site": "bashkiadivjake.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "fier",
+   "name": "Fier",
+   "qark": "fier",
+   "official_site": "bashkiafier.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 70,
+   "published": 2,
+   "years": [
+    "2026"
+   ],
+   "held": {
+    "no_number_or_date": 5,
+    "private_persons": 2
+   },
+   "awaiting_ocr": 50,
+   "note": ""
+  },
+  {
+   "municipality": "lushnje",
+   "name": "Lushnjë",
+   "qark": "fier",
+   "official_site": "bashkialushnje.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "mallakaster",
+   "name": "Mallakastër",
+   "qark": "fier",
+   "official_site": "bashkiamallakaster.gov.al",
+   "publishes_decisions": "bashkiamallakaster.gov.al: own CMS (Drupal); decisions posted as notices",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "no machine-readable listing of decisions found yet"
+  },
+  {
+   "municipality": "patos",
+   "name": "Patos",
+   "qark": "fier",
+   "official_site": "bashkiapatos.gov.al",
+   "publishes_decisions": "site has an invalid TLS certificate",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched until the certificate is fixed"
+  },
+  {
+   "municipality": "roskovec",
+   "name": "Roskovec",
+   "qark": "fier",
+   "official_site": "bashkiaroskovec.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 113,
+   "published": 0,
+   "years": [],
+   "held": {
+    "name_mismatch": 1,
+    "no_number_or_date": 13
+   },
+   "awaiting_ocr": 90,
+   "note": ""
+  },
+  {
+   "municipality": "dropull",
+   "name": "Dropull",
+   "qark": "gjirokaster",
+   "official_site": "bashkiadropull.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 27,
+   "published": 0,
+   "years": [],
+   "held": {
+    "name_mismatch": 1,
+    "no_number_or_date": 8,
+    "not_council": 1
+   },
+   "awaiting_ocr": 7,
+   "note": ""
+  },
+  {
+   "municipality": "gjirokaster",
+   "name": "Gjirokastër",
+   "qark": "gjirokaster",
+   "official_site": "bashkiagjirokaster.gov.al",
+   "publishes_decisions": "site has an invalid TLS certificate",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched until the certificate is fixed"
+  },
+  {
+   "municipality": "kelcyre",
+   "name": "Këlcyrë",
+   "qark": "gjirokaster",
+   "official_site": "bashkiakelcyre.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 3,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "libohove",
+   "name": "Libohovë",
+   "qark": "gjirokaster",
+   "official_site": "bashkialibohove.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 19,
+   "published": 3,
+   "years": [
+    "2023",
+    "2025"
+   ],
+   "held": {
+    "no_number_or_date": 1,
+    "possible_private_persons": 1,
+    "private_persons": 7,
+    "title_not_read": 2
+   },
+   "awaiting_ocr": 14,
+   "note": ""
+  },
+  {
+   "municipality": "memaliaj",
+   "name": "Memaliaj",
+   "qark": "gjirokaster",
+   "official_site": "memaliaj.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 51,
+   "published": 2,
+   "years": [
+    "2025"
+   ],
+   "held": {
+    "private_persons": 1
+   },
+   "awaiting_ocr": 46,
+   "note": ""
+  },
+  {
+   "municipality": "permet",
+   "name": "Përmet",
+   "qark": "gjirokaster",
+   "official_site": "bashkiapermet.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 212,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 6
+   },
+   "awaiting_ocr": 189,
+   "note": ""
+  },
+  {
+   "municipality": "tepelene",
+   "name": "Tepelenë",
+   "qark": "gjirokaster",
+   "official_site": "tepelena.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 320,
+   "published": 1,
+   "years": [
+    "2022"
+   ],
+   "held": {
+    "individual_benefit": 1,
+    "no_number_or_date": 26,
+    "private_persons": 2,
+    "title_not_read": 1
+   },
+   "awaiting_ocr": 249,
+   "note": ""
+  },
+  {
+   "municipality": "devoll",
+   "name": "Devoll",
+   "qark": "korce",
+   "official_site": "bashkiadevoll.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "kolonje",
+   "name": "Kolonjë",
+   "qark": "korce",
+   "official_site": "kolonja.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 157,
+   "published": 2,
+   "years": [
+    "2019",
+    "2021"
+   ],
+   "held": {
+    "date_implausible": 1,
+    "name_mismatch": 1,
+    "no_number_or_date": 1
+   },
+   "awaiting_ocr": 143,
+   "note": ""
+  },
+  {
+   "municipality": "korce",
+   "name": "Korçë",
+   "qark": "korce",
+   "official_site": "bashkiakorce.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 198,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 11,
+    "private_persons": 1
+   },
+   "awaiting_ocr": 171,
+   "note": ""
+  },
+  {
+   "municipality": "maliq",
+   "name": "Maliq",
+   "qark": "korce",
+   "official_site": "bashkiamaliq.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "pogradec",
+   "name": "Pogradec",
+   "qark": "korce",
+   "official_site": "bashkiapogradec.gov.al",
+   "publishes_decisions": "bashkiapogradec.gov.al: own CMS; no listing of decisions found",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "no machine-readable listing of decisions found yet"
+  },
+  {
+   "municipality": "pustec",
+   "name": "Pustec",
+   "qark": "korce",
+   "official_site": "bashkiapustec.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 3,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "has",
+   "name": "Has",
+   "qark": "kukes",
+   "official_site": "bashkiahas.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "kukes",
+   "name": "Kukës",
+   "qark": "kukes",
+   "official_site": "kukesi.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 69,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 4
+   },
+   "awaiting_ocr": 62,
+   "note": ""
+  },
+  {
+   "municipality": "tropoje",
+   "name": "Tropojë",
+   "qark": "kukes",
+   "official_site": "tropoje.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "kurbin",
+   "name": "Kurbin",
+   "qark": "lezhe",
+   "official_site": "bashkiakurbin.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 160,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 42
+   },
+   "awaiting_ocr": 112,
+   "note": ""
+  },
+  {
+   "municipality": "lezhe",
+   "name": "Lezhë",
+   "qark": "lezhe",
+   "official_site": "lezha.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 856,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 26,
+    "not_council": 1,
+    "possible_private_persons": 2,
+    "private_persons": 4,
+    "text_quality": 1
+   },
+   "awaiting_ocr": 806,
+   "note": ""
+  },
+  {
+   "municipality": "mirdite",
+   "name": "Mirditë",
+   "qark": "lezhe",
+   "official_site": "bashkiamirdite.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 317,
+   "published": 2,
+   "years": [
+    "2022"
+   ],
+   "held": {
+    "no_number_or_date": 2,
+    "private_persons": 5,
+    "text_quality": 7,
+    "title_not_read": 1
+   },
+   "awaiting_ocr": 305,
+   "note": ""
+  },
+  {
+   "municipality": "malesi-e-madhe",
+   "name": "Malësi e Madhe",
+   "qark": "shkoder",
+   "official_site": "bashkiamalesiemadhe.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 485,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 6,
+    "private_persons": 25,
+    "title_not_read": 4
+   },
+   "awaiting_ocr": 396,
+   "note": ""
+  },
+  {
+   "municipality": "puke",
+   "name": "Pukë",
+   "qark": "shkoder",
+   "official_site": "bashkiapuke.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 216,
+   "published": 0,
+   "years": [],
+   "held": {
+    "name_mismatch": 2,
+    "no_number_or_date": 4,
+    "private_persons": 3
+   },
+   "awaiting_ocr": 203,
+   "note": ""
+  },
+  {
+   "municipality": "shkoder",
+   "name": "Shkodër",
+   "qark": "shkoder",
+   "official_site": "bashkiashkoder.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 910,
+   "published": 71,
+   "years": [
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "held": {
+    "duplicate_conflict": 4,
+    "individual_benefit": 5,
+    "name_mismatch": 6,
+    "no_number_or_date": 23,
+    "not_council": 1,
+    "possible_private_persons": 7,
+    "private_persons": 166,
+    "text_quality": 11,
+    "title_not_read": 13
+   },
+   "awaiting_ocr": 457,
+   "note": ""
+  },
+  {
+   "municipality": "fushe-arrez",
+   "name": "Fushë-Arrëz",
+   "qark": "shkoder",
+   "official_site": "bashkiafushearrez.gov.al",
+   "publishes_decisions": "bashkiafushearrez.gov.al: no decisions published on the site",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "no machine-readable listing of decisions found yet"
+  },
+  {
+   "municipality": "vau-i-dejes",
+   "name": "Vau i Dejës",
+   "qark": "shkoder",
+   "official_site": "vaudejes.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 202,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 4
+   },
+   "awaiting_ocr": 186,
+   "note": ""
+  },
+  {
+   "municipality": "kamez",
+   "name": "Kamëz",
+   "qark": "tirane",
+   "official_site": "kamza.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 608,
+   "published": 191,
+   "years": [
+    "2019",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "held": {
+    "duplicate_conflict": 2,
+    "individual_benefit": 82,
+    "meeting_date_mismatch": 1,
+    "name_mismatch": 3,
+    "no_number_or_date": 89,
+    "not_council": 1,
+    "possible_private_persons": 7,
+    "private_persons": 28,
+    "title_not_read": 35
+   },
+   "awaiting_ocr": 166,
+   "note": ""
+  },
+  {
+   "municipality": "kavaje",
+   "name": "Kavajë",
+   "qark": "tirane",
+   "official_site": "bashkiakavaje.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 97,
+   "published": 1,
+   "years": [
+    "2011"
+   ],
+   "held": {
+    "no_number_or_date": 5,
+    "not_council": 1,
+    "private_persons": 1
+   },
+   "awaiting_ocr": 71,
+   "note": ""
+  },
+  {
+   "municipality": "rrogozhine",
+   "name": "Rrogozhinë",
+   "qark": "tirane",
+   "official_site": "bashkiarrogozhine.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 39,
+   "published": 7,
+   "years": [
+    "2020",
+    "2023"
+   ],
+   "held": {
+    "individual_benefit": 3,
+    "meeting_date_mismatch": 1,
+    "not_council": 2,
+    "possible_private_persons": 1,
+    "private_persons": 22,
+    "text_quality": 13,
+    "title_not_read": 1
+   },
+   "awaiting_ocr": 27,
+   "note": ""
+  },
+  {
+   "municipality": "tirane",
+   "name": "Tiranë",
+   "qark": "tirane",
+   "official_site": "tirana.al",
+   "publishes_decisions": "tirana.al: own CMS; decisions not in a media library the survey could list",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "no machine-readable listing of decisions found yet"
+  },
+  {
+   "municipality": "vore",
+   "name": "Vorë",
+   "qark": "tirane",
+   "official_site": "bashkiavore.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 6,
+   "published": 4,
+   "years": [
+    "2019",
+    "2023",
+    "2024"
+   ],
+   "held": {
+    "not_council": 3,
+    "possible_private_persons": 1,
+    "text_quality": 5
+   },
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "delvine",
+   "name": "Delvinë",
+   "qark": "vlore",
+   "official_site": "bashkiadelvine.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 12,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "finiq",
+   "name": "Finiq",
+   "qark": "vlore",
+   "official_site": "bfiniq.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 14,
+   "published": 0,
+   "years": [],
+   "held": {
+    "no_number_or_date": 3
+   },
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "himare",
+   "name": "Himarë",
+   "qark": "vlore",
+   "official_site": "himara.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 266,
+   "published": 4,
+   "years": [
+    "2016",
+    "2023",
+    "2025"
+   ],
+   "held": {
+    "name_mismatch": 3,
+    "no_number_or_date": 6,
+    "private_persons": 3
+   },
+   "awaiting_ocr": 232,
+   "note": ""
+  },
+  {
+   "municipality": "konispol",
+   "name": "Konispol",
+   "qark": "vlore",
+   "official_site": "bashkiakonispol.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 1,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": ""
+  },
+  {
+   "municipality": "sarande",
+   "name": "Sarandë",
+   "qark": "vlore",
+   "official_site": "bashkiasarande.gov.al",
+   "publishes_decisions": "site answers a web-application-firewall challenge to automated clients",
+   "decision_files_found": 0,
+   "published": 0,
+   "years": [],
+   "held": {},
+   "awaiting_ocr": 0,
+   "note": "not fetched (no challenge is solved or evaded)"
+  },
+  {
+   "municipality": "selenice",
+   "name": "Selenicë",
+   "qark": "vlore",
+   "official_site": "selenica.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 27,
+   "published": 0,
+   "years": [],
+   "held": {
+    "name_mismatch": 1,
+    "no_number_or_date": 1,
+    "not_council": 1,
+    "private_persons": 1
+   },
+   "awaiting_ocr": 1,
+   "note": ""
+  },
+  {
+   "municipality": "vlore",
+   "name": "Vlorë",
+   "qark": "vlore",
+   "official_site": "vlora.gov.al",
+   "publishes_decisions": "WordPress media library (council decisions as PDF files)",
+   "decision_files_found": 46,
+   "published": 1,
+   "years": [],
+   "held": {
+    "meeting_date_mismatch": 2,
+    "name_mismatch": 3,
+    "no_number_or_date": 9,
+    "not_council": 2,
+    "possible_private_persons": 1,
+    "private_persons": 4,
+    "title_not_read": 2
+   },
+   "awaiting_ocr": 6,
+   "note": ""
+  }
+ ]
+}
