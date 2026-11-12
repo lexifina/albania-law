@@ -1,0 +1,26 @@
+{
+  "qbz_id": 116234,
+  "title": "Për disa ndryshime në ligjin nr. 9662, datë 18.12.2006, “Për bankat në Republikën e Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "101",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2026-10-09",
+  "published": "2026-10-28",
+  "in_force": "2026-11-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/c127bcc43a79486aa7cf3f27905354697c28442d154ef4ccb26614d0c3ea5cd4.docx",
+  "source_sha256": "c127bcc43a79486aa7cf3f27905354697c28442d154ef4ccb26614d0c3ea5cd4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/116234",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2026/10/09/101",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
