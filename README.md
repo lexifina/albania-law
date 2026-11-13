@@ -1,136 +1,140 @@
-# Albania: law history in git
+# Shqipëria: historia e së drejtës në git
+
+**Shqip** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Albanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/sq/effort-dark.svg">
+<img alt="Legjislacioni i Shqipërisë në këtë repozitor: çfarë përmban, ndryshimet sipas vitit të hyrjes në fuqi, plotësia ndaj burimeve zyrtare dhe saktësia e asaj që përmban" src="data/sq/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Albania's national law, which global-law reads at `albania/national/acts/`.
+Pjesë e [lexifina/global-law](https://github.com/lexifina/global-law), një histori e vetme git për të drejtën e çdo vendi: ky është legjislacioni kombëtar i Shqipërisë, të cilin global-law e lexon te `albania/national/acts/`.
 
-The law of Albania as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
+E drejta e Shqipërisë si histori git: një skedar për çdo dispozitë, një commit për çdo ligj në ditën e hyrjes së tij në fuqi, dhe ligji që bëri çdo ndryshim si autor i commit-it. `git blame` tregon ligjin pas çdo paragrafi; `git log` liston çdo ndryshim të një neni; kalimi (checkout) në një datë jep tekstin në fuqi atë ditë.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `al/`.
+Ndjek modelin e përbashkët të [lexifina/global-law](https://github.com/lexifina/global-law), i cili e vendos te `al/`.
 
-**What is in it.** Albania's national legislation as Qendra e Botimeve Zyrtare (QBZ, the official publisher, qbz.gov.al) holds it from 2000: the Constitution with its full history, the laws of the Assembly (ligje), the decisions of the Council of Ministers (VKM), its acts with the force of law (akte normative), the normative decrees of the President on the courts (dekrete), and the instructions (udhëzime) and orders (urdhra) of ministers and other bodies. Each act is its text as published in the Fletorja Zyrtare, then every consolidated text QBZ publishes after each change, dated by the changing act's own entry into force. [registry/ACTS.md](registry/ACTS.md) lists every act; [registry/data/acts.json](registry/data/acts.json) gives each one's status and official page.
+**Çfarë përmban.** Legjislacionin kombëtar të Shqipërisë, ashtu siç e mban Qendra e Botimeve Zyrtare (QBZ, botuesi zyrtar, qbz.gov.al) që nga viti 2000: Kushtetutën me gjithë historinë e saj, ligjet e Kuvendit, vendimet e Këshillit të Ministrave (VKM), aktet e tij normative me fuqinë e ligjit, dekretet normative të Presidentit për gjykatat, si dhe udhëzimet dhe urdhrat e ministrave dhe të organeve të tjera. Çdo akt është teksti i tij siç është botuar në Fletoren Zyrtare, pastaj çdo tekst i konsoliduar që QBZ boton pas çdo ndryshimi, i datuar me hyrjen në fuqi të vetë aktit ndryshues. [registry/ACTS.md](registry/ACTS.md) liston çdo akt; [registry/data/acts.json](registry/data/acts.json) jep statusin dhe faqen zyrtare të secilit.
 
-| Status (registry/data/acts.json) | Meaning |
+| Statusi (registry/data/acts.json) | Kuptimi |
 | --- | --- |
-| `in force` | QBZ links no change to it that this repository lacks |
-| `amending act` | an act whose purpose is to change another: published as enacted, in its own folder |
-| `amended, not consolidated` | QBZ (or a later act's title or text) names later acts that change it, but QBZ publishes no consolidated text: the text here is the act as published; `amended_by` lists the changing acts and their official pages |
-| `first version is a later consolidated text` | QBZ gives no text of the act as published (its file is a consolidated version), so the first version shows that later text; `label_note` names the change it includes |
-| `repealed YYYY-MM-DD` | an empty last version records the repeal on the day it took effect, credited to the repealing act |
-| `withdrawn` | a duplicate removed by a labelled correction commit; `withdrawn_by` names it |
+| `in force` | QBZ nuk lidh me të asnjë ndryshim që mungon në këtë repozitor |
+| `amending act` | akt që synon të ndryshojë një akt tjetër: botohet ashtu siç është miratuar, në dosjen e vet |
+| `amended, not consolidated` | QBZ (ose titulli apo teksti i një akti të mëvonshëm) përmend akte të mëvonshme që e ndryshojnë, por QBZ nuk boton tekst të konsoliduar: teksti këtu është akti siç është botuar; `amended_by` liston aktet ndryshuese dhe faqet e tyre zyrtare |
+| `first version is a later consolidated text` | QBZ nuk jep tekstin e aktit siç është botuar (skedari i tij është një version i konsoliduar), prandaj versioni i parë tregon atë tekst të mëvonshëm; `label_note` përmend ndryshimin që ai përfshin |
+| `repealed YYYY-MM-DD` | një version i fundit bosh regjistron shfuqizimin në ditën kur ai hyri në fuqi, i atribuuar aktit shfuqizues |
+| `withdrawn` | një dublikatë e hequr me një commit korrigjimi të emërtuar; `withdrawn_by` e përmend atë |
 
-Acts whose text, dates or structure do not read cleanly are held back, not on `main`; [data/held.json](data/held.json) lists each with its reason and official page (among them base acts QBZ gives only as a PDF). Laws passed but not yet in force are in [data/pending.json](data/pending.json) and are appended on the day they take effect. QBZ's online records start in 2000. The codes adopted before it have no record of their own there, only their amending acts; they are built from QBZ's official consolidated editions (see [Codes from before 2000](#codes-from-before-2000)). The decisions of the 61 municipal councils are in `local/` (see [Local acts](#local-acts-municipal-councils)).
+Aktet, teksti, datat ose struktura e të cilave nuk lexohen qartë, mbahen mënjanë, jo në `main`; [data/held.json](data/held.json) liston secilin me arsyen dhe faqen zyrtare (ndër to akte bazë që QBZ i jep vetëm si PDF). Ligjet e miratuara, por ende jo në fuqi, janë në [data/pending.json](data/pending.json) dhe shtohen në ditën kur hyjnë në fuqi. Regjistrat në internet të QBZ-së fillojnë në vitin 2000. Kodet e miratuara para kësaj nuk kanë atje regjistër të tyrin, vetëm aktet e tyre ndryshuese; ato janë ndërtuar nga botimet zyrtare të konsoliduara të QBZ-së (shih [Kodet e para vitit 2000](#kodet-e-para-vitit-2000)). Vendimet e 61 këshillave bashkiakë janë në `local/` (shih [Aktet vendore](#aktet-vendore-këshillat-bashkiakë)).
 
-## Freshness
+## Përditësimi
 
-Every version names the official page it was read from (its `Source:` and `Consolidated:` trailers), so every act can be checked against its source.
+Çdo version përmend faqen zyrtare nga e cila është lexuar (trailer-at e tij `Source:` dhe `Consolidated:`), kështu që çdo akt mund të kontrollohet me burimin e tij.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-11; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Kontrolluar me burimet zyrtare: 2026-11-11; 100% e akteve të verifikuara në 7 ditët e fundit, 100% në 30 ditët e fundit ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link; `python tools/freshness.py --summary` the overall picture. Each act is checked by reading QBZ's record of it, its links to changing and repealing acts and its consolidated versions, and comparing them with the newest version here. The check runs weekly; [data/status.json](data/status.json) says whether updates are running and when QBZ last answered. Thresholds: 7 days for the Constitution, laws, Council of Ministers decisions, normative acts and decrees, 30 days for instructions and orders. Statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and columns are explained in [data/freshness.json](data/freshness.json). Acts labelled `amended, not consolidated` are `pending-change`: QBZ reports a change that no consolidated text here applies.
+`python tools/freshness.py <act>` jep statusin e një akti, kontrollin e tij të fundit dhe lidhjen zyrtare; `python tools/freshness.py --summary` jep pasqyrën e përgjithshme. Çdo akt kontrollohet duke lexuar regjistrin e QBZ-së për të, lidhjet e tij me aktet ndryshuese dhe shfuqizuese dhe versionet e tij të konsoliduara, dhe duke i krahasuar ato me versionin më të ri këtu. Kontrolli kryhet çdo javë; [data/status.json](data/status.json) tregon nëse përditësimet janë në punë dhe kur është përgjigjur QBZ për herë të fundit. Pragjet: 7 ditë për Kushtetutën, ligjet, vendimet e Këshillit të Ministrave, aktet normative dhe dekretet, 30 ditë për udhëzimet dhe urdhrat. Statuset (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) dhe kolonat shpjegohen në [data/freshness.json](data/freshness.json). Aktet e etiketuara `amended, not consolidated` janë `pending-change`: QBZ raporton një ndryshim që asnjë tekst i konsoliduar këtu nuk e zbaton.
 
-**Folders.** Every act lives in a folder named by its official identifier, `<kind>/<year>/<number>/`: the laws in `ligj/` (ligji nr. 8569/2000 in `ligj/2000/8569/`), the Constitution in `kushtetuta/1998/`, and the decisions, instructions, orders, normative acts and decrees appended since in `vendim/`, `udhezim/`, `urdher/`, `aktnormativ/` and `dekret/`. Until 4 November 2026 the earlier acts' folders were named by their id (`kushtetuta/`, `ligji-8569-2000/`); the commit that renamed them changes no text, so `git log --follow` and `git blame` reach back through it, and the tools read both names. `registry/data/paths.json` maps every act id to its folder; `data/paths.json` lists this build's acts, and the 975 laws that had been published twice, whose copy in `ligj/` was kept.
+**Dosjet.** Çdo akt ndodhet në një dosje të emërtuar sipas identifikuesit të tij zyrtar, `<kind>/<year>/<number>/`: ligjet në `ligj/` (ligji nr. 8569/2000 në `ligj/2000/8569/`), Kushtetuta në `kushtetuta/1998/`, dhe vendimet, udhëzimet, urdhrat, aktet normative dhe dekretet e shtuara që atëherë në `vendim/`, `udhezim/`, `urdher/`, `aktnormativ/` dhe `dekret/`. Deri më 4 nëntor 2026 dosjet e akteve të mëparshme emërtoheshin sipas id-së së tyre (`kushtetuta/`, `ligji-8569-2000/`); commit-i që i riemërtoi nuk ndryshon asnjë tekst, prandaj `git log --follow` dhe `git blame` shkojnë prapa përmes tij, dhe mjetet i lexojnë të dy emrat. `registry/data/paths.json` lidh çdo id akti me dosjen e tij; `data/paths.json` liston aktet e këtij ndërtimi, si dhe 975 ligjet që ishin botuar dy herë, kopja e të cilave në `ligj/` u mbajt.
 
-The per-act `README.md` in each folder lists every provision, how often it changed and when. The text in force today is, provision for provision, the official consolidated edition published by Qendra e Botimeve Zyrtare (QBZ).
+`README.md` i çdo akti në dosjen e tij liston çdo dispozitë, sa herë ka ndryshuar dhe kur. Teksti në fuqi sot është, dispozitë për dispozitë, botimi zyrtar i konsoliduar i botuar nga Qendra e Botimeve Zyrtare (QBZ).
 
-## Codes from before 2000
+## Kodet e para vitit 2000
 
-The Civil Code (ligji nr. 7850/1994), the Code of Civil Procedure (8116/1996), the Labour Code (7961/1995), the Penal Code (7895/1995), the Code of Criminal Procedure (7905/1995) and the Road Code (8378/1998) were adopted before QBZ's online records begin, and QBZ keeps no record of them as acts, only of the laws that amended them. Each is built from QBZ's official consolidated edition of the code ("Kodet e RSH-së", qbz.gov.al/publications/codes), in `ligj/<year>/<number>/`. Its one version is today's consolidated text, labelled `first version is a later consolidated text`: the code as enacted and its earlier states are not available from official sources online. The version is dated by the in-force day of the newest amending act the edition includes, and QBZ's notes on each article credit it to the acts that changed it (`git blame` names them). The Code of Administrative Procedure (ligji nr. 44/2015), which QBZ lists only as the act that repealed the earlier code, is built from its text as published. The Military Penal Code (8003/1995) is held: its edition names no amending act and QBZ has no record of it to date it by.
+Kodi Civil (ligji nr. 7850/1994), Kodi i Procedurës Civile (8116/1996), Kodi i Punës (7961/1995), Kodi Penal (7895/1995), Kodi i Procedurës Penale (7905/1995) dhe Kodi Rrugor (8378/1998) u miratuan para se të fillonin regjistrat në internet të QBZ-së, dhe QBZ nuk mban asnjë regjistër për to si akte, vetëm për ligjet që i ndryshuan. Secili është ndërtuar nga botimi zyrtar i konsoliduar i kodit nga QBZ ("Kodet e RSH-së", qbz.gov.al/publications/codes), në `ligj/<year>/<number>/`. Versioni i tij i vetëm është teksti i konsoliduar i sotëm, i etiketuar `first version is a later consolidated text`: kodi siç u miratua dhe gjendjet e tij të mëparshme nuk janë të disponueshme në internet nga burime zyrtare. Versioni datohet me ditën e hyrjes në fuqi të aktit ndryshues më të ri që përfshin botimi, dhe shënimet e QBZ-së për çdo nen ia atribuojnë atë akteve që e ndryshuan (`git blame` i përmend ato). Kodi i Procedurave Administrative (ligji nr. 44/2015), të cilin QBZ e liston vetëm si aktin që shfuqizoi kodin e mëparshëm, është ndërtuar nga teksti i tij siç është botuar. Kodi Penal Ushtarak (8003/1995) mbahet mënjanë: botimi i tij nuk përmend asnjë akt ndryshues dhe QBZ nuk ka asnjë regjistër për të, sipas të cilit të datohet.
 
-## Local acts (municipal councils)
+## Aktet vendore (këshillat bashkiakë)
 
-Law 139/2015 on local self-government requires every council to publish its acts on its own official website (art. 15(2), 18(3)); there is no state-run register. `local/<municipality>/<year>/<number>/` holds the decisions (vendime) of the municipal councils as their own sites publish them, one folder per decision, read from the PDF's text layer or, for scanned decisions, by optical character recognition (Tesseract, Albanian model), each version's note saying which. A decision is published only when its council header, number and date read cleanly and agree with the file's name on the site or the meeting day in its text; decisions of a council's presidency, drafts, minutes and agendas are left out. Decisions that name private persons (lists of beneficiaries, property owners, staff) are not published: [data/held.json](data/held.json) lists them with a link to the council's file. Dates follow the law: a council act is announced within 10 days of its adoption and enters into force 10 days after the announcement (Law 8652/2000 art. 33(6); Law 139/2015); the sites do not publish the announcement day, so a decision is dated by its own clause when that names a day, otherwise at the latest day the law allows. Later amendments by other council decisions are not tracked (`council decision as adopted; later changes not tracked`). [data/local-coverage.json](data/local-coverage.json) gives, for each of the 61 municipalities, where it publishes its decisions, what was found, published and held, and why any are missing (some sites refuse automated clients behind a firewall challenge, which is never bypassed). Local acts are re-checked monthly against each council's site.
+Ligji 139/2015 për vetëqeverisjen vendore kërkon që çdo këshill t'i botojë aktet e tij në faqen e vet zyrtare në internet (neni 15(2), 18(3)); nuk ka regjistër të mbajtur nga shteti. `local/<municipality>/<year>/<number>/` përmban vendimet e këshillave bashkiakë ashtu siç i botojnë faqet e tyre, një dosje për çdo vendim, të lexuara nga shtresa e tekstit e PDF-së ose, për vendimet e skanuara, me njohje optike të karaktereve (Tesseract, modeli për shqipen), ku shënimi i çdo versioni tregon se cila mënyrë u përdor. Një vendim botohet vetëm kur titulli i këshillit, numri dhe data lexohen qartë dhe përputhen me emrin e skedarit në faqe ose me ditën e mbledhjes në tekstin e tij; vendimet e kryesisë së këshillit, projektet, procesverbalet dhe rendet e ditës lihen jashtë. Vendimet që përmendin persona privatë (lista përfituesish, pronarësh, punonjësish) nuk botohen: [data/held.json](data/held.json) i liston me një lidhje te skedari i këshillit. Datat ndjekin ligjin: akti i këshillit shpallet brenda 10 ditëve nga miratimi dhe hyn në fuqi 10 ditë pas shpalljes (Ligji 8652/2000 neni 33(6); Ligji 139/2015); faqet nuk e botojnë ditën e shpalljes, prandaj vendimi datohet sipas dispozitës së vet kur ajo përmend një ditë, përndryshe në ditën më të vonë që lejon ligji. Ndryshimet e mëvonshme me vendime të tjera të këshillit nuk ndiqen (`council decision as adopted; later changes not tracked`). [data/local-coverage.json](data/local-coverage.json) jep, për secilën nga 61 bashkitë, ku i boton vendimet, çfarë u gjet, u botua dhe u mbajt mënjanë, dhe pse mungojnë disa (disa faqe refuzojnë klientët e automatizuar pas një sfide firewall-i, e cila nuk anashkalohet kurrë). Aktet vendore rikontrollohen çdo muaj me faqen e secilit këshill.
 
-## A lawyer's questions as git commands
+## Pyetjet e një juristi si komanda git
 
-| Question | Command |
+| Pyetja | Komanda |
 | --- | --- |
-| What did art. 64 say on 1 January 2008? | `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64` |
-| The same, with raw git (bash; days before 4 November 2026, when the folders took their new names) | `git show $(git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md):kushtetuta/neni-064.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md; git show "$($r):kushtetuta/neni-064.md"` |
-| Which law wrote each paragraph of art. 131? | `git blame kushtetuta/1998/neni-131.md` |
-| Every change to art. 64, word by word | `git log -p --word-diff --follow kushtetuta/1998/neni-064.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one law changed | `git show law/ligji-76-2016` (tags `law/<key>` mark each law's commit) |
-| The whole Constitution on a date | `python tools/ne_fuqi_me.py 2010-01-01 kushtetuta` |
+| Çfarë thoshte neni 64 më 1 janar 2008? | `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64` |
+| E njëjta, vetëm me git (bash; për ditët para 4 nëntorit 2026, kur dosjet morën emrat e rinj) | `git show $(git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md):kushtetuta/neni-064.md` |
+| E njëjta, në PowerShell | `$r = git rev-list -1 --before="2008-01-01T23:59:59Z" main -- kushtetuta/neni-064.md; git show "$($r):kushtetuta/neni-064.md"` |
+| Cili ligj shkroi çdo paragraf të nenit 131? | `git blame kushtetuta/1998/neni-131.md` |
+| Çdo ndryshim i nenit 64, fjalë për fjalë | `git log -p --word-diff --follow kushtetuta/1998/neni-064.md` |
+| Çdo ligj në regjistër, me radhë | `git log --reverse --format="%ad %an" --date=short main` |
+| Gjithçka që ndryshoi një ligj | `git show law/ligji-76-2016` (etiketat `law/<key>` shënojnë commit-in e çdo ligji) |
+| E gjithë Kushtetuta në një datë | `python tools/ne_fuqi_me.py 2010-01-01 kushtetuta` |
 
-File names: `neni-064.md` is art. 64, `neni-006-01.md` art. 6/1, `neni-147-c-ced.md` art. 147/ç, `neni-147-e-uml.md` art. 147/ë; `aneks-neni-a.md` is art. A of the Annex (2016); `pjesa-03-kreu-01.md` holds the heading of Part Three, Chapter I; `kalimtare-ligji-9675.md` holds the transitional provisions of law 9675/2007 that QBZ prints after art. 183.
+Emrat e skedarëve: `neni-064.md` është neni 64, `neni-006-01.md` neni 6/1, `neni-147-c-ced.md` neni 147/ç, `neni-147-e-uml.md` neni 147/ë; `aneks-neni-a.md` është neni A i Aneksit (2016); `pjesa-03-kreu-01.md` përmban titullin e Pjesës së Tretë, Kreu I; `kalimtare-ligji-9675.md` përmban dispozitat kalimtare të ligjit 9675/2007 që QBZ i shtyp pas nenit 183.
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+Pas një rindërtimi, rifreskoni etiketat me `git fetch --force --tags`: një fetch i thjeshtë i mban etiketat e vjetruara.
 
-## Dates
+## Datat
 
-- Each commit is dated at **noon, Europe/Tirane, on the day the change took effect**. Enactment and publication dates are trailers (`Enacted:`, `Published:`), and the in-force day is in `In-force:`, which the tools read.
-- **Default rule.** Constitution art. 84(3): "Ligji hyn në fuqi me kalimin e jo më pak se 15 ditëve nga botimi i tij në Fletoren Zyrtare" (a law takes effect no sooner than 15 days after its publication in the Fletorja Zyrtare). Each amending law sets its own day: 9675/2007 and 137/2015 "hyn në fuqi menjëherë" (dated to the day the Fletorja Zyrtare published it), and the other five "15 ditë pas botimit" (publication day + 15).
-- **The Constitution itself** was adopted by the Assembly on 21 October 1998, approved by referendum on 22 November 1998 and promulgated by presidential decree nr. 2260 on 28 November 1998; by its art. 183 it took effect on promulgation. Its first commit is dated 1998-11-28.
-- Publication days are the Fletorja Zyrtare issue dates in qbz.gov.al's records, each checked against the date printed on that issue's first page. Enactment dates are read from each law's own text: qbz.gov.al's act record is a day early for 88/2012 and 16/2022.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+- Çdo commit datohet në **mesditë, sipas orës Europe/Tirane, në ditën kur ndryshimi hyri në fuqi**. Datat e miratimit dhe të botimit janë trailer-a (`Enacted:`, `Published:`), dhe dita e hyrjes në fuqi është në `In-force:`, të cilin e lexojnë mjetet.
+- **Rregulli i përgjithshëm.** Kushtetuta, neni 84(3): "Ligji hyn në fuqi me kalimin e jo më pak se 15 ditëve nga botimi i tij në Fletoren Zyrtare". Çdo ligj ndryshues e cakton vetë ditën: 9675/2007 dhe 137/2015 "hyn në fuqi menjëherë" (datuar në ditën kur e botoi Fletorja Zyrtare), dhe pesë të tjerët "15 ditë pas botimit" (dita e botimit + 15).
+- **Vetë Kushtetuta** u miratua nga Kuvendi më 21 tetor 1998, u aprovua me referendum më 22 nëntor 1998 dhe u shpall me dekretin e Presidentit nr. 2260 më 28 nëntor 1998; sipas nenit 183 të saj, hyri në fuqi me shpalljen. Commit-i i saj i parë datohet 1998-11-28.
+- Ditët e botimit janë datat e numrave të Fletores Zyrtare në regjistrat e qbz.gov.al, secila e kontrolluar me datën e shtypur në faqen e parë të atij numri. Datat e miratimit lexohen nga teksti i vetë çdo ligji: regjistri i aktit në qbz.gov.al është një ditë më herët për 88/2012 dhe 16/2022.
+- `--before="YYYY-MM-DD"` pa orë përdor orën aktuale të ditës sipas orës suaj, kështu që një ligj që hyri në fuqi atë ditë mund të mos dalë para mesditës. Përdorni `T23:59:59Z` si më sipër, ose mjetin.
 
-## How the income tax, anti-money-laundering and citizenship laws were built
+## Si u ndërtuan ligjet për tatimin mbi të ardhurat, për parandalimin e pastrimit të parave dhe për shtetësinë
 
-Each law's first version is the law as published in the Fletorja Zyrtare (for ligji nr. 29/2023, nr. 70, 2 May 2023). Each later version is the consolidated text Qendra e Botimeve Zyrtare publishes after each act that changed the law, dated by that act's own entry into force: a law 15 days after its publication (its own clause), a normative act on the day it was adopted ("hyn në fuqi menjëherë", Constitution art. 101), and the Constitutional Court decision on the day it was published (art. 132). QBZ's notes in the consolidated text ("(Ndryshuar … me ligjin nr. 81/2025 …)") are left out of the files; every provision that changes in a version is checked against them, or against the changing act's own words where QBZ adds no note (law 81/2025's replacement of "mjete virtuale" by "kripto-aset" throughout the income tax law, and the annex it adds); where neither names a change (point 4 of art. 24 of the citizenship law, dropped in QBZ's text after law 77/2024), the change is recorded as unexplained, from the publisher. The income tax law gives itself effect from 1 January 2024 (art. 72); the history dates the words by entry into force, and the dates of effect are in art. 72's own text.
+Versioni i parë i çdo ligji është ligji siç është botuar në Fletoren Zyrtare (për ligjin nr. 29/2023, nr. 70, 2 maj 2023). Çdo version i mëvonshëm është teksti i konsoliduar që Qendra e Botimeve Zyrtare boton pas çdo akti që e ndryshoi ligjin, i datuar me hyrjen në fuqi të vetë atij akti: një ligj 15 ditë pas botimit (sipas dispozitës së vet), një akt normativ në ditën e miratimit ("hyn në fuqi menjëherë", Kushtetuta neni 101), dhe vendimi i Gjykatës Kushtetuese në ditën e botimit (neni 132). Shënimet e QBZ-së në tekstin e konsoliduar ("(Ndryshuar … me ligjin nr. 81/2025 …)") lihen jashtë skedarëve; çdo dispozitë që ndryshon në një version kontrollohet me to, ose me fjalët e vetë aktit ndryshues kur QBZ nuk shton shënim (zëvendësimi nga ligji 81/2025 i "mjete virtuale" me "kripto-aset" në të gjithë ligjin për tatimin mbi të ardhurat, dhe aneksi që ai shton); kur asnjëra nuk përmend ndryshim (pika 4 e nenit 24 të ligjit për shtetësinë, e hequr në tekstin e QBZ-së pas ligjit 77/2024), ndryshimi regjistrohet si i pashpjeguar, nga botuesi. Ligji për tatimin mbi të ardhurat i jep vetes efekt nga 1 janari 2024 (neni 72); historia i daton fjalët sipas hyrjes në fuqi, dhe datat e efektit janë në tekstin e vetë nenit 72.
 
-## How the history was rebuilt
+## Si u rindërtua historia
 
-QBZ's online archive starts in 2000 and keeps no dated versions of the Constitution, so the history is rebuilt:
+Arkivi në internet i QBZ-së fillon në vitin 2000 dhe nuk mban versione të datuara të Kushtetutës, prandaj historia është rindërtuar:
 
-1. **The 1998 text** is the Assembly's own copy ("Kushtetuta e RSH.pdf", made from Word on 8 January 2006 and linked from the Assembly's website), read from an Internet Archive capture of 25 May 2006. That is before the first amendment (13 January 2007), so it is the text as enacted.
-2. **Each amending law** is read from its official .docx on qbz.gov.al and its instructions are applied in turn by Lexifina's code: whole articles replaced, added or repealed; paragraphs, letters and phrases replaced, added or deleted; Part Twelve repealed. No instruction is applied by hand.
-3. **The words of each version** come from QBZ's official consolidated edition of that state wherever one exists: the editions of 2008, 2012, 2015 and 2016 (Internet Archive copies of qbz.gov.al) and today's edition. A provision that no later law changes reads as in today's edition throughout. The replay supplies the words only where no edition of that state survives (the 1998 wording of provisions later amended, and the states after 9675/2007 and 115/2020).
+1. **Teksti i vitit 1998** është kopja e vetë Kuvendit ("Kushtetuta e RSH.pdf", krijuar nga Word më 8 janar 2006 dhe e lidhur nga faqja e internetit e Kuvendit), e lexuar nga një kapje e Internet Archive e 25 majit 2006. Kjo është para ndryshimit të parë (13 janar 2007), prandaj është teksti siç u miratua.
+2. **Çdo ligj ndryshues** lexohet nga .docx-i i tij zyrtar në qbz.gov.al dhe udhëzimet e tij zbatohen me radhë nga kodi i Lexifina-s: nene të tëra të zëvendësuara, të shtuara ose të shfuqizuara; paragrafë, shkronja dhe fraza të zëvendësuara, të shtuara ose të hequra; Pjesa e Dymbëdhjetë e shfuqizuar. Asnjë udhëzim nuk zbatohet me dorë.
+3. **Fjalët e çdo versioni** vijnë nga botimi zyrtar i konsoliduar i QBZ-së për atë gjendje, kudo që ekziston një i tillë: botimet e 2008, 2012, 2015 dhe 2016 (kopje të qbz.gov.al në Internet Archive) dhe botimi i sotëm. Një dispozitë që nuk e ndryshon asnjë ligj i mëvonshëm lexohet gjatë gjithë kohës si në botimin e sotëm. Rizbatimi i ndryshimeve i jep fjalët vetëm aty ku nuk ka mbijetuar asnjë botim i asaj gjendjeje (formulimi i vitit 1998 i dispozitave të ndryshuara më vonë, dhe gjendjet pas 9675/2007 dhe 115/2020).
 
-## How it is checked
+## Si kontrollohet
 
-- **Replay against the official editions.** Each law, replayed on the text before it, is compared provision by provision with QBZ's edition of the state after it. All 82 provision changes the seven laws make (73 distinct provisions) match once whitespace and word-division hyphens are set aside, except three small typographic points in the 2016 law's own text (a final period lost where two closing quotes meet in arts. 125 and 136, and "kushtetutshmerinë" for "kushtetutshmërinë" in art. 131). Every difference is listed in `REPRODUCE.md`.
-- **Today's text is the official text.** The last version equals QBZ's consolidated edition of today, provision for provision.
-- **Credits against QBZ's notes.** Every provision credited to a law is named in QBZ's own note for that law in today's edition ("Ndryshuar me ligjin nr. 9904, datë 21.4.2008"), and every such note matches a credited change.
-- Every version of the act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
+- **Rizbatimi kundrejt botimeve zyrtare.** Çdo ligj, i rizbatuar mbi tekstin para tij, krahasohet dispozitë për dispozitë me botimin e QBZ-së për gjendjen pas tij. Të 82 ndryshimet e dispozitave që bëjnë shtatë ligjet (73 dispozita të ndryshme) përputhen pasi lihen mënjanë hapësirat dhe vizat e ndarjes së fjalëve, me përjashtim të tri pikave të vogla tipografike në vetë tekstin e ligjit të 2016 (një pikë fundore e humbur aty ku takohen dy thonjëza mbyllëse në nenet 125 dhe 136, dhe "kushtetutshmerinë" në vend të "kushtetutshmërinë" në nenin 131). Çdo dallim është renditur në `REPRODUCE.md`.
+- **Teksti i sotëm është teksti zyrtar.** Versioni i fundit është i njëjtë me botimin e konsoliduar të sotëm të QBZ-së, dispozitë për dispozitë.
+- **Atribuimet kundrejt shënimeve të QBZ-së.** Çdo dispozitë e atribuuar një ligji përmendet në shënimin e vetë QBZ-së për atë ligj në botimin e sotëm ("Ndryshuar me ligjin nr. 9904, datë 21.4.2008"), dhe çdo shënim i tillë përputhet me një ndryshim të atribuuar.
+- Çdo version i aktit lexohet përsëri nga git në ditën kur hyri në fuqi dhe një ditë më parë (`tools/check_repo.py`); të dyja duhet të përputhen me `corpus.json`. Kontrollet e gjendjes: asnjë commit bashkimi (merge), datat e commit-eve nuk shkojnë kurrë prapa, asgjë e datuar në të ardhmen, dhe trailer-at e çdo commit-i lexohen pa gabim.
+- Repozitori rindërtohet për herë të dytë nga të njëjtat të dhëna dhe duhet të japë hash-e identike.
 
-## What "author" means
+## Çfarë do të thotë "autor"
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist (`ligji-76-2016@qbz.gov.al.invalid`), so `git blame` and `git log --author` name laws. The committer is always Lexifina. The first commit is credited to ligji nr. 8417 (the Constitution as enacted). Blame credits whole lines (one paragraph per line); use `git log -p --word-diff` to see exactly which words a law changed.
+Autori i një commit-i është ligji që bëri ndryshimin, me një adresë e-maili që nuk mund të ekzistojë (`ligji-76-2016@qbz.gov.al.invalid`), kështu që `git blame` dhe `git log --author` tregojnë ligje. Committer-i është gjithmonë Lexifina. Commit-i i parë i atribuohet ligjit nr. 8417 (Kushtetuta siç u miratua). Blame atribuon rreshta të plotë (një paragraf për rresht); përdorni `git log -p --word-diff` për të parë saktësisht cilat fjalë ndryshoi një ligj.
 
-## What it does not show
+## Çfarë nuk tregon
 
-- **The Fletorja Zyrtare of 1998** (nr. 28/1998) is not online; the 1998 text is the Assembly's copy. It differs from QBZ's wording of the same, never-amended provisions only in typography (capitals such as "Forcat e Armatosura", a few accents, quotes and commas, in 15 provisions, listed in `REPRODUCE.md`; 7 more differ only in spacing). Those provisions read as QBZ prints them today, so such differences never appear as changes.
-- **Editorial changes between QBZ editions** (spacing, capitals, corrected accents) are not shown as changes, for the same reason.
-- **Rulings of the Constitutional Court** do not change the text of the Constitution and are not in the record.
-- **Acts before 2000 and consolidated texts QBZ does not publish.** The Civil Code (1994), the Penal Code (1995) and other acts adopted before 2000 predate QBZ's online archive and are not built. An act QBZ links as changed but keeps no consolidated text of is its text as published, labelled `amended, not consolidated`.
+- **Fletorja Zyrtare e vitit 1998** (nr. 28/1998) nuk është në internet; teksti i vitit 1998 është kopja e Kuvendit. Ai ndryshon nga formulimi i QBZ-së për të njëjtat dispozita, të pandryshuara kurrë, vetëm në tipografi (shkronja të mëdha si "Forcat e Armatosura", disa theksa, thonjëza dhe presje, në 15 dispozita, të renditura në `REPRODUCE.md`; 7 të tjera ndryshojnë vetëm në hapësira). Këto dispozita lexohen ashtu siç i shtyp QBZ sot, prandaj dallime të tilla nuk shfaqen kurrë si ndryshime.
+- **Ndryshimet redaksionale ndërmjet botimeve të QBZ-së** (hapësira, shkronja të mëdha, theksa të korrigjuar) nuk shfaqen si ndryshime, për të njëjtën arsye.
+- **Vendimet e Gjykatës Kushtetuese** nuk ndryshojnë tekstin e Kushtetutës dhe nuk janë në regjistër.
+- **Aktet para vitit 2000 dhe tekstet e konsoliduara që QBZ nuk i boton.** Kodi Civil (1994), Kodi Penal (1995) dhe akte të tjera të miratuara para vitit 2000 i paraprijnë arkivit në internet të QBZ-së dhe nuk janë ndërtuar. Një akt që QBZ e lidh si të ndryshuar, por për të cilin nuk mban tekst të konsoliduar, është teksti i tij siç është botuar, i etiketuar `amended, not consolidated`.
 
-## How it is built
+## Si ndërtohet
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+Lexifina lexon burimet e renditura këtu dhe regjistron versionet e datuara të çdo akti, si dhe ligjet që bënë çdo ndryshim, në një skedar korpusi. `tools/build.py` e shkruan këtë repozitor nga ai skedar, dhe i njëjti korpus jep gjithmonë të njëjtat hash-e të commit-eve; `REPRODUCE.md` jep hollësitë dhe kontrollet. Një model (Claude) shkroi kodin e Lexifina-s; ai nuk shkroi asnjë tekst ligjor, dhe asnjë model nuk ekzekutohet kur ndërtohet historia.
 
-No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+Asnjë model i inteligjencës artificiale nuk ka shkruar ose ndryshuar tekst ligjor. Claude Opus 5.5 shkroi skriptet dhe zgjodhi burimet; shih `REPRODUCE.md`.
 
-## Sources
+## Burimet
 
-| Source | Kind | Past versions | Names the amending act | Bulk | Notes |
+| Burimi | Lloji | Versionet e mëparshme | Përmend aktin ndryshues | Shkarkim në masë | Shënime |
 | --- | --- | --- | --- | --- | --- |
-| [Qendra e Botimeve Zyrtare](https://qbz.gov.al) (QBZ), open JSON API `qbz.gov.al/api/v1` | Official publisher (gazette, acts, consolidated editions) | consolidated versions per act for some laws (`/acts/{id}/versions`, each naming the act that changed it); acts from 2000 | the amending laws are separate acts | per act and per gazette issue | Used: the .docx of each amending law, the gazette issue dates, and today's consolidated Constitution (free PDF with a text layer) |
-| QBZ editions of the Constitution 2008, 2012, 2015, 2016, via the [Internet Archive](https://web.archive.org/) | Official consolidated editions | one per state | yes, a note per article | n/a | Used as the words of each state and to check the replay |
-| Kuvendi i Shqipërisë, "Kushtetuta e RSH.pdf" (2006), via the Internet Archive | The Assembly's copy of the 1998 text | n/a | n/a | n/a | Used for the text as enacted |
+| [Qendra e Botimeve Zyrtare](https://qbz.gov.al) (QBZ), API e hapur JSON `qbz.gov.al/api/v1` | Botuesi zyrtar (fletorja, aktet, botimet e konsoliduara) | versione të konsoliduara për akt për disa ligje (`/acts/{id}/versions`, secili duke përmendur aktin që e ndryshoi); akte nga viti 2000 | ligjet ndryshuese janë akte më vete | për akt dhe për numër të fletores | Përdorur: .docx-i i çdo ligji ndryshues, datat e numrave të fletores dhe Kushtetuta e konsoliduar e sotme (PDF falas me shtresë teksti) |
+| Botimet e Kushtetutës nga QBZ 2008, 2012, 2015, 2016, përmes [Internet Archive](https://web.archive.org/) | Botime zyrtare të konsoliduara | një për çdo gjendje | po, një shënim për çdo nen | nuk zbatohet | Përdorur si fjalët e çdo gjendjeje dhe për të kontrolluar rizbatimin |
+| Kuvendi i Shqipërisë, "Kushtetuta e RSH.pdf" (2006), përmes Internet Archive | Kopja e Kuvendit e tekstit të vitit 1998 | nuk zbatohet | nuk zbatohet | nuk zbatohet | Përdorur për tekstin siç u miratua |
 
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+Udhëzues kërkimi që mbulojnë çdo vend: [GlobaLex](https://www.nyulawglobal.org/globalex/) dhe [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
-## Licence
+## Licenca
 
-The legal texts are official texts of the Republic of Albania, published by Qendra e Botimeve Zyrtare and by the Assembly of Albania. Albania's copyright law (ligji nr. 35/2016, neni 12, pika 1, shkronja "b") excludes legal acts and their official collections from copyright. The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`.
+Tekstet ligjore janë tekste zyrtare të Republikës së Shqipërisë, të botuara nga Qendra e Botimeve Zyrtare dhe nga Kuvendi i Shqipërisë. Ligji shqiptar për të drejtën e autorit (ligji nr. 35/2016, neni 12, pika 1, shkronja "b") përjashton aktet ligjore dhe përmbledhjet e tyre zyrtare nga e drejta e autorit. Renditja, tabelat, mesazhet e commit-eve dhe mjetet janë të Lexifina-s, sipas kushteve në `LICENSE`.
 
-This repository is not legal advice and not an official publication.
+Ky repozitor nuk është këshillë ligjore dhe nuk është botim zyrtar.
 
-## Shqip
+Ky është përkthim i versionit në anglisht ([README.en.md](README.en.md)); nëse ndryshojnë, vlen versioni në anglisht.
 
-Historia e së drejtës shqiptare në git: një skedar për çdo dispozitë dhe një commit për çdo ligj, me datën e hyrjes së tij në fuqi dhe me ligjin që bëri ndryshimin si autor (`git blame` tregon ligjin e çdo paragrafi). Përmban Kushtetutën e Republikës së Shqipërisë që nga hyrja në fuqi më 28 nëntor 1998, me të shtatë ligjet që e kanë ndryshuar (nr. 9675/2007, 9904/2008, 88/2012, 137/2015, 76/2016, 115/2020 dhe 16/2022), deri sot. Përmban gjithashtu ligjin nr. 29/2023 “Për tatimin mbi të ardhurat”, që nga hyrja në fuqi më 17 maj 2023, me tekstin e konsoliduar zyrtar të QBZ-së pas secilit prej gjashtë akteve që e kanë ndryshuar, deri sot; po ashtu ligjin nr. 9917/2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit” dhe ligjin nr. 113/2020 “Për shtetësinë”, me çdo ndryshim të tyre.
+## Më shumë
 
-- Teksti në fuqi në një datë: `python tools/ne_fuqi_me.py 2008-01-01 kushtetuta 64`
-- Datat: neni 84, pika 3, i Kushtetutës (ligji hyn në fuqi jo më pak se 15 ditë pas botimit në Fletoren Zyrtare); çdo ligj ndryshues e cakton vetë ditën ("menjëherë" ose "15 ditë pas botimit").
-- Si u rindërtua: teksti i vitit 1998 është kopja e Kuvendit (PDF, 2006, nga Internet Archive); çdo ligj ndryshues zbatohet me radhë mbi tekstin e mëparshëm, dhe fjalët e çdo versioni merren nga botimi zyrtar i konsoliduar i QBZ-së për atë gjendje (2008, 2012, 2015, 2016 dhe sot) kudo që ekziston. Teksti i fundit është, dispozitë për dispozitë, botimi zyrtar i sotëm i QBZ-së.
-- Kodet e para vitit 2000 (Kodi Civil, Kodi i Procedurës Civile, Kodi i Punës, Kodi Penal, Kodi i Procedurës Penale, Kodi Rrugor) janë ndërtuar nga botimet zyrtare të konsoliduara të QBZ-së; versioni i tyre i parë këtu është teksti i konsoliduar i sotëm.
-- Aktet vendore: vendimet e këshillave bashkiakë, në `local/<bashkia>/<viti>/<numri>/`, ashtu siç i boton çdo bashki në faqen e saj zyrtare (ligji nr. 139/2015, neni 15, pika 2).
-- Burimi: Qendra e Botimeve Zyrtare (qbz.gov.al), Kuvendi i Shqipërisë dhe faqet zyrtare të bashkive. Asnjë model i inteligjencës artificiale nuk ka shkruar tekst ligjor.
+Nga repozitori [lexifina/global-law](https://github.com/lexifina/global-law) (në anglisht):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): të gjitha funksionet dhe çfarë duhet të mbështesë çdo korpus (`git blame`, `law.py`, mjetet MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): pyetje dhe përgjigje · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): si të propozoni ndryshime · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveri MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): si është ndërtuar · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): sa i përditësuar është çdo korpus · [Monitorimi](https://github.com/lexifina/global-law/tree/main/monitoring): nëse përditësimet funksionojnë · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): si ndiqet çdo burim zyrtar për ndryshime
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): sa të shpejta janë mjetet, të matura
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafikë dhe lidhje në të drejtën e gjithë botës
+- [Dobësitë](https://github.com/lexifina/global-law/tree/main/vulnerabilities): gabime në akte ashtu siç janë botuar
