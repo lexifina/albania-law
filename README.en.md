@@ -48,7 +48,7 @@ The Civil Code (ligji nr. 7850/1994), the Code of Civil Procedure (8116/1996), t
 
 Law 139/2015 on local self-government requires every council to publish its acts on its own official website (art. 15(2), 18(3)); there is no state-run register. `local/<municipality>/<year>/<number>/` holds the decisions (vendime) of the municipal councils as their own sites publish them, one folder per decision, read from the PDF's text layer or, for scanned decisions, by optical character recognition (Tesseract, Albanian model), each version's note saying which. A decision is published only when its council header, number and date read cleanly and agree with the file's name on the site or the meeting day in its text; decisions of a council's presidency, drafts, minutes and agendas are left out. Decisions that name private persons (lists of beneficiaries, property owners, staff) are not published: [data/held.json](data/held.json) lists them with a link to the council's file. Dates follow the law: a council act is announced within 10 days of its adoption and enters into force 10 days after the announcement (Law 8652/2000 art. 33(6); Law 139/2015); the sites do not publish the announcement day, so a decision is dated by its own clause when that names a day, otherwise at the latest day the law allows. Later amendments by other council decisions are not tracked (`council decision as adopted; later changes not tracked`). [data/local-coverage.json](data/local-coverage.json) gives, for each of the 61 municipalities, where it publishes its decisions, what was found, published and held, and why any are missing (some sites refuse automated clients behind a firewall challenge, which is never bypassed). Local acts are re-checked monthly against each council's site.
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -60,6 +60,14 @@ Law 139/2015 on local self-government requires every council to publish its acts
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one law changed | `git show law/ligji-76-2016` (tags `law/<key>` mark each law's commit) |
 | The whole Constitution on a date | `python tools/ne_fuqi_me.py 2010-01-01 kushtetuta` |
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Albanian law](https://global-law.lexifina.com/v1/try_claude?country=albania&q=what%20does%20the%20Labour%20Code%20%28Kodi%20i%20Pun%C3%ABs%29%20say%20about%20annual%20leave%20%28pushimet%20vjetore%29%20today%2C%20and%20how%20has%20its%20neni%2092%20changed%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Code, and how it has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=albania&q=what%20does%20the%20Labour%20Code%20%28Kodi%20i%20Pun%C3%ABs%29%20say%20about%20annual%20leave%20%28pushimet%20vjetore%29%20today%2C%20and%20how%20has%20its%20neni%2092%20changed%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=pushimet+vjetore&jurisdictions=albania)**: Albanian law searched for "pushimet vjetore", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Albanian or in English.
 
 File names: `neni-064.md` is art. 64, `neni-006-01.md` art. 6/1, `neni-147-c-ced.md` art. 147/ç, `neni-147-e-uml.md` art. 147/ë; `aneks-neni-a.md` is art. A of the Annex (2016); `pjesa-03-kreu-01.md` holds the heading of Part Three, Chapter I; `kalimtare-ligji-9675.md` holds the transitional provisions of law 9675/2007 that QBZ prints after art. 183.
 

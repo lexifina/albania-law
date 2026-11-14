@@ -48,7 +48,7 @@ Kodi Civil (ligji nr. 7850/1994), Kodi i Procedurës Civile (8116/1996), Kodi i 
 
 Ligji 139/2015 për vetëqeverisjen vendore kërkon që çdo këshill t'i botojë aktet e tij në faqen e vet zyrtare në internet (neni 15(2), 18(3)); nuk ka regjistër të mbajtur nga shteti. `local/<municipality>/<year>/<number>/` përmban vendimet e këshillave bashkiakë ashtu siç i botojnë faqet e tyre, një dosje për çdo vendim, të lexuara nga shtresa e tekstit e PDF-së ose, për vendimet e skanuara, me njohje optike të karaktereve (Tesseract, modeli për shqipen), ku shënimi i çdo versioni tregon se cila mënyrë u përdor. Një vendim botohet vetëm kur titulli i këshillit, numri dhe data lexohen qartë dhe përputhen me emrin e skedarit në faqe ose me ditën e mbledhjes në tekstin e tij; vendimet e kryesisë së këshillit, projektet, procesverbalet dhe rendet e ditës lihen jashtë. Vendimet që përmendin persona privatë (lista përfituesish, pronarësh, punonjësish) nuk botohen: [data/held.json](data/held.json) i liston me një lidhje te skedari i këshillit. Datat ndjekin ligjin: akti i këshillit shpallet brenda 10 ditëve nga miratimi dhe hyn në fuqi 10 ditë pas shpalljes (Ligji 8652/2000 neni 33(6); Ligji 139/2015); faqet nuk e botojnë ditën e shpalljes, prandaj vendimi datohet sipas dispozitës së vet kur ajo përmend një ditë, përndryshe në ditën më të vonë që lejon ligji. Ndryshimet e mëvonshme me vendime të tjera të këshillit nuk ndiqen (`council decision as adopted; later changes not tracked`). [data/local-coverage.json](data/local-coverage.json) jep, për secilën nga 61 bashkitë, ku i boton vendimet, çfarë u gjet, u botua dhe u mbajt mënjanë, dhe pse mungojnë disa (disa faqe refuzojnë klientët e automatizuar pas një sfide firewall-i, e cila nuk anashkalohet kurrë). Aktet vendore rikontrollohen çdo muaj me faqen e secilit këshill.
 
-## Pyetjet e një juristi si komanda git
+## Pyetjet si komanda git
 
 | Pyetja | Komanda |
 | --- | --- |
@@ -60,6 +60,14 @@ Ligji 139/2015 për vetëqeverisjen vendore kërkon që çdo këshill t'i botoj�
 | Çdo ligj në regjistër, me radhë | `git log --reverse --format="%ad %an" --date=short main` |
 | Gjithçka që ndryshoi një ligj | `git show law/ligji-76-2016` (etiketat `law/<key>` shënojnë commit-in e çdo ligji) |
 | E gjithë Kushtetuta në një datë | `python tools/ne_fuqi_me.py 2010-01-01 kushtetuta` |
+
+**Ose pyesni me fjalë të thjeshta.** Të njëjtat të dhëna janë falas edhe pa git, pa llogari dhe pa çelës:
+
+- **[Pyetni Claude për ligjet e Shqipërisë](https://global-law.lexifina.com/v1/try_claude?country=albania&q=what%20does%20the%20Labour%20Code%20%28Kodi%20i%20Pun%C3%ABs%29%20say%20about%20annual%20leave%20%28pushimet%20vjetore%29%20today%2C%20and%20how%20has%20its%20neni%2092%20changed%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: një klikim hap Claude me pyetjen e parë gati (pushimet vjetore në Kodin e Punës dhe si kanë ndryshuar).
+- **[Pyetni ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=albania&q=what%20does%20the%20Labour%20Code%20%28Kodi%20i%20Pun%C3%ABs%29%20say%20about%20annual%20leave%20%28pushimet%20vjetore%29%20today%2C%20and%20how%20has%20its%20neni%2092%20changed%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: e njëjta pyetje në ChatGPT.
+- **[Thirrni API-në në shfletues](https://global-law.lexifina.com/v1/search_law?query=pushimet+vjetore&jurisdictions=albania)**: kërkim në legjislacionin e Shqipërisë për „pushimet vjetore“, përgjigje në JSON. Pa çelës 5 thirrje në minutë; [të gjitha mjetet](https://global-law.lexifina.com/v1), [çelësat dhe dokumentimi](https://lexifina.com/api).
+
+Asistentët i lexojnë të dhënat përmes konektorit falas Global law (MCP, `https://global-law.lexifina.com/mcp`); herën e parë biseda jep lidhjen që e shton. Në Claude zgjidhni „Always allow“ që të mos miratoni çdo thirrje. Pyetni në shqip ose në anglisht.
 
 Emrat e skedarëve: `neni-064.md` është neni 64, `neni-006-01.md` neni 6/1, `neni-147-c-ced.md` neni 147/ç, `neni-147-e-uml.md` neni 147/ë; `aneks-neni-a.md` është neni A i Aneksit (2016); `pjesa-03-kreu-01.md` përmban titullin e Pjesës së Tretë, Kreu I; `kalimtare-ligji-9675.md` përmban dispozitat kalimtare të ligjit 9675/2007 që QBZ i shtyp pas nenit 183.
 
