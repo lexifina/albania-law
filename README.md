@@ -66,6 +66,7 @@ I hapur në Claude Code, Cursor, VS Code ose Codex, kloni nis edhe një server M
 - Çdo version është teksti i vetë QBZ-së, siç është botuar ose siç e ka konsoliduar QBZ. Një akt botohet vetëm kur teksti, datat dhe struktura e tij lexohen qartë dhe çdo ndryshim që QBZ lidh me të ka një version; përndryshe mbahet mënjanë.
 - Para se të dërgohet (push) çdo paketë, `tools/check_repo.py` lexon nga git çdo version në ditën kur hyri në fuqi dhe një ditë më parë dhe e krahason me korpusin; nuk duhet të ketë asnjë commit bashkimi (merge), asnjë commit të datuar prapa ose në të ardhmen, dhe trailer-at e çdo commit-i duhet të lexohen pa gabim.
 - Historia e Kushtetutës është rizbatimi i shtatë ligjeve të saj ndryshuese mbi tekstin e vitit 1998, i krahasuar dispozitë për dispozitë me botimet e konsoliduara të QBZ-së të viteve 2008, 2012, 2015, 2016 dhe me atë të sotëm; çdo dallim është renditur në `REPRODUCE.md`.
+- [vulnerabilities/](vulnerabilities/): gabime të mundshme në hartimin e legjislacionit shqiptar, të gjetura nga detektorët e global-law dhe të kontrolluara me dorë.
 
 ## Çfarë nuk tregon
 

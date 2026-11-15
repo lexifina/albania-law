@@ -66,6 +66,7 @@ Each version is credited to the act that made it, as QBZ names it (`Ligji nr. 11
 - Every version is QBZ's own text, as published or as QBZ consolidated it. An act is published only when its text, dates and structure read cleanly and every change QBZ links to it has a version; otherwise it is held back.
 - Before each batch is pushed, `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus; there must be no merge commit, no commit dated backwards or in the future, and every commit's trailers must parse.
 - The Constitution's history is its seven amending laws replayed on the 1998 text and compared, provision by provision, with QBZ's consolidated editions of 2008, 2012, 2015, 2016 and today; every difference is listed in `REPRODUCE.md`.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Albanian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
