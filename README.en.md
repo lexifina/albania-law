@@ -92,6 +92,10 @@ See [`LICENSE`](LICENSE). The texts are official texts of the Republic of Albani
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and no model runs when the history is built (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
 
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): charts on Albanian law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

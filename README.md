@@ -94,6 +94,10 @@ Asnjë model i inteligjencës artificiale nuk ka shkruar, përkthyer ose korrigj
 
 Ky është përkthim i versionit në anglisht ([README.en.md](README.en.md)); nëse ndryshojnë, vlen versioni në anglisht.
 
+## Vizualizime
+
+[visualisations/](visualisations/): grafikë për të drejtën shqiptare, të vizatuar nga ky repozitor. Tani për tani dosja vetëm u rezervon vendin; ende nuk ka grafikë.
+
 ## Më shumë
 
 Nga repozitori [lexifina/global-law](https://github.com/lexifina/global-law) (në anglisht):
