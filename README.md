@@ -30,7 +30,8 @@ Teksti është në shqip, ashtu siç e boton QBZ. Përkthimi në anglisht nuk ë
 
 - **[Pyetni Claude për të drejtën e Shqipërisë](https://global-law.lexifina.com/v1/try_claude?country=albania)**: hap Claude me pyetjen e parë gati.
 - **[Pyetni ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=albania)**: e njëjta pyetje në ChatGPT.
-- **[Thirrni API-në në shfletues](https://global-law.lexifina.com/v1/search_law?query=pushimet+vjetore&jurisdictions=albania)**: kërkim në legjislacionin e Shqipërisë për „pushimet vjetore“, përgjigje në JSON. Dokumentimi është [këtu](https://lexifina.com/api/global-law).
+- **[Kërkoni në legjislacionin e Shqipërisë në faqen tonë](https://lexifina.com/law?country=albania&q=pushimet+vjetore)**: kërkim për „pushimet vjetore“, me tekstin e çdo dispozite dhe versionet e saj, pa llogari.
+- **[REST API për zhvilluesit](https://global-law.lexifina.com/v1/search_law?query=pushimet+vjetore&jurisdiction=albania)**: i njëjti kërkim si JSON, pa çelës. Dokumentimi është [këtu](https://lexifina.com/api/global-law).
 
 Të dy asistentët i lexojnë të dhënat përmes konektorit falas Global law (MCP, `https://global-law.lexifina.com/mcp`); herën e parë biseda jep lidhjen që e shton. Pyetni në shqip ose në anglisht.
 
