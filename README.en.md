@@ -94,7 +94,13 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): charts on Albanian law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+[visualisations/](visualisations/): Albanian law in 20 charts, drawn from this repository.
+
+Including:
+
+- How many laws the Assembly adopts, its calendar and how the President promulgates them
+- Normative acts with the force of law, government decisions, expropriations and concessions
+- Ministers' orders, the minimum wage, the Constitution, the courts and international agreements
 
 ## More
 

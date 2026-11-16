@@ -98,6 +98,16 @@ Ky është përkthim i versionit në anglisht ([README.en.md](README.en.md)); n�
 
 [visualisations/](visualisations/): grafikë për të drejtën shqiptare, të vizatuar nga ky repozitor. Tani për tani dosja vetëm u rezervon vendin; ende nuk ka grafikë.
 
+## Vizualizimet
+
+[visualisations/](visualisations/): E drejta shqiptare në 20 grafikë, të ndërtuar me të dhënat e këtij repozitori.
+
+Ndër to:
+
+- Sa ligje miraton Kuvendi, kalendari i tij dhe si i shpall Presidenti
+- Aktet normative me fuqinë e ligjit, vendimet e qeverisë, shpronësimet dhe koncesionet
+- Urdhrat e ministrave, paga minimale, Kushtetuta, gjykatat dhe marrëveshjet ndërkombëtare
+
 ## Më shumë
 
 Nga repozitori [lexifina/global-law](https://github.com/lexifina/global-law) (në anglisht):
